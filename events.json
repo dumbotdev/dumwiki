@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-06T22:33:51.277950+00:00",
+ "updated": "2026-10-06T23:32:51.449077+00:00",
  "events": [
+  {
+   "id": "a95aed59c2",
+   "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+   "date": "2026-10-06T22:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
+     "url": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+     "date": "2026-10-06T22:46:03+00:00",
+     "summary": "Google's new image model, Nano Banana 2.1, is live. It costs about half as much as its predecessor, but the performance claims come from Google's own tests."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T22:46:03+00:00",
+   "last_seen": "2026-10-06T22:46:03+00:00",
+   "summary": "Google's new image model, Nano Banana 2.1, is live. It costs about half as much as its predecessor, but the performance claims come from Google's own tests.",
+   "tags": [
+    "markets"
+   ]
+  },
   {
    "id": "cd1226c3c8",
    "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",

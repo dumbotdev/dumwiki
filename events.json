@@ -1,6 +1,135 @@
 {
- "updated": "2026-10-06T21:33:19.010726+00:00",
+ "updated": "2026-10-06T22:33:51.277950+00:00",
  "events": [
+  {
+   "id": "cd1226c3c8",
+   "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+   "date": "2026-10-06T22:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+     "url": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
+     "date": "2026-10-06T22:16:03+00:00",
+     "summary": "Nothing in Circle's posts announces a sponsorship, but replies dug up Khaled's 2018 SEC settlement over a crypto fraud he promoted. The internet never forgets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T22:16:03+00:00",
+   "last_seen": "2026-10-06T22:16:03+00:00",
+   "summary": "Nothing in Circle's posts announces a sponsorship, but replies dug up Khaled's 2018 SEC settlement over a crypto fraud he promoted. The internet never forgets.",
+   "tags": [
+    "legal",
+    "regulation",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "126407f0ab",
+   "title": "Bitcoin rally delivers $4.1 billion tax windfall for Strategy",
+   "date": "2026-10-06T22:10:18+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin rally delivers $4.1 billion tax windfall for Strategy",
+     "url": "https://cryptoslate.com/bitcoin-rally-delivers-4-1-billion-tax-windfall-for-strategy/",
+     "date": "2026-10-06T22:10:18+00:00",
+     "summary": "Strategy\u2019s October filing shows an accounting consequence. ETF cost estimates measure fund holdings, while redemptions determine how Bitcoin leaves. The post Bitcoin rally delivers $4.1 billion tax windfall for Strategy appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T22:10:18+00:00",
+   "last_seen": "2026-10-06T22:10:18+00:00",
+   "summary": "Strategy\u2019s October filing shows an accounting consequence. ETF cost estimates measure fund holdings, while redemptions determine how Bitcoin leaves. The post Bitcoin rally delivers $4.1 billion tax windfall for Strategy appeared first on CryptoSlate .",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "markets"
+   ]
+  },
+  {
+   "id": "2fcda73547",
+   "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
+   "date": "2026-10-06T22:00:19+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Someone Scraped 5.6 Billion TikTok Videos and Put the Data on Hugging Face for Free",
+     "url": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
+     "date": "2026-10-06T22:00:19+00:00",
+     "summary": "A developer posted metadata for about 5.6 billion public TikTok videos, scraped through the app's private API in a way TikTok's terms prohibit. The free dataset also doubles as a storefront."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T22:00:19+00:00",
+   "last_seen": "2026-10-06T22:00:19+00:00",
+   "summary": "A developer posted metadata for about 5.6 billion public TikTok videos, scraped through the app's private API in a way TikTok's terms prohibit. The free dataset also doubles as a storefront.",
+   "tags": []
+  },
+  {
+   "id": "0453ca44c3",
+   "title": "Kalshi Launches US 500 Perpetual Future With No Expiration",
+   "date": "2026-10-06T21:59:32+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Kalshi Launches US 500 Perpetual Future With No Expiration",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/kalshi-launches-us-500-perpetual-future-with-no-expiration",
+     "date": "2026-10-06T21:59:32+00:00",
+     "summary": "The stock-index contract uses daily funding payments and futures-account collateral; Kalshi displayed maximum leverage of 15.3 times on launch day."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T21:59:32+00:00",
+   "last_seen": "2026-10-06T21:59:32+00:00",
+   "summary": "The stock-index contract uses daily funding payments and futures-account collateral; Kalshi displayed maximum leverage of 15.3 times on launch day.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "d6579a67a9",
+   "title": "Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges",
+   "date": "2026-10-06T21:48:49+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges",
+     "url": "https://bitcoinmagazine.com/news/crypto-card-payments-hit-record-12-billion",
+     "date": "2026-10-06T21:48:49+00:00",
+     "summary": "Bitcoin Magazine Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges More people are using crypto cards than ever before to make payments. This post Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges first appeared on Bitcoin..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T21:48:49+00:00",
+   "last_seen": "2026-10-06T21:48:49+00:00",
+   "summary": "Bitcoin Magazine Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges More people are using crypto cards than ever before to make payments. This post Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges first appeared on Bitcoin...",
+   "tags": [
+    "bitcoin",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "3b6c28a546",
+   "title": "$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer",
+   "date": "2026-10-06T21:34:32+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer",
+     "url": "https://bitcoinmagazine.com/videos/350m-st-cloud-ceo-the-first-credit-union-to-put-bitcoin-on-core-ledger-jed-meyer",
+     "date": "2026-10-06T21:34:32+00:00",
+     "summary": "Bitcoin Magazine $350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer A 1930s postal credit union now custodies real Bitcoin. St. Cloud CEO Jed Meyer breaks down its hybrid vault model and quiet path to over 20 BTC. This post $350M St Cloud CEO:..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T21:34:32+00:00",
+   "last_seen": "2026-10-06T21:34:32+00:00",
+   "summary": "Bitcoin Magazine $350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer A 1930s postal credit union now custodies real Bitcoin. St. Cloud CEO Jed Meyer breaks down its hybrid vault model and quiet path to over 20 BTC. This post $350M St Cloud CEO:...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "13f33840f7",
    "title": "Onyx Treasury Transfers 620 Million XCN Amid Blockaid Exploit Alert",
@@ -1208,9 +1337,16 @@
      "url": "https://cointelegraph.com/features/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-06T13:30:00+00:00",
      "summary": "Real Vision founder Raoul Pal says a pause in the AI stock rally could help crypto attract capital, while AI agents are likely to boost Ethereum and Solana adoption."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Capital starting to rotate back to crypto from AI: Raoul Pal",
+     "url": "https://cointelegraph.com/magazine/weaker-dollar-crypto-green-light-raoul-pal-trade-secrets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-06T13:30:00+00:00",
+     "summary": "Real Vision founder Raoul Pal says a pause in the AI stock rally could help crypto attract capital, while AI agents are likely to boost Ethereum and Solana adoption."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-10-06T13:30:00+00:00",
    "last_seen": "2026-10-06T13:30:00+00:00",
    "summary": "Real Vision founder Raoul Pal says a pause in the AI stock rally could help crypto attract capital, while AI agents are likely to boost Ethereum and Solana adoption.",

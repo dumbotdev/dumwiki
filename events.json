@@ -1,6 +1,184 @@
 {
- "updated": "2026-10-06T20:35:57.473724+00:00",
+ "updated": "2026-10-06T21:33:19.010726+00:00",
  "events": [
+  {
+   "id": "13f33840f7",
+   "title": "Onyx Treasury Transfers 620 Million XCN Amid Blockaid Exploit Alert",
+   "date": "2026-10-06T21:32:20+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Onyx Treasury Transfers 620 Million XCN Amid Blockaid Exploit Alert",
+     "url": "https://thedefiant.io/news/hacks/onyx-treasury-transfers-620-million-xcn-amid-blockaid-exploit-alert",
+     "date": "2026-10-06T21:32:20+00:00",
+     "summary": "The transfer executed a migration proposal Onyx had publicly promoted, leaving about 1.89 million XCN in its Ethereum treasury contract."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T21:32:20+00:00",
+   "last_seen": "2026-10-06T21:32:20+00:00",
+   "summary": "The transfer executed a migration proposal Onyx had publicly promoted, leaving about 1.89 million XCN in its Ethereum treasury contract.",
+   "tags": [
+    "ethereum",
+    "macro",
+    "security"
+   ]
+  },
+  {
+   "id": "9ceff68df5",
+   "title": "Housingwire\u2019s Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook",
+   "date": "2026-10-06T21:28:54+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Housingwire\u2019s Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook",
+     "url": "https://bitcoinmagazine.com/videos/housingwires-logan-mohtashami-real-estate-vs-bitcoin-bond-market-outlook",
+     "date": "2026-10-06T21:28:54+00:00",
+     "summary": "Bitcoin Magazine Housingwire&#8217;s Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook Mortgage rates hit 3-year highs as homebuyers retreat. HousingWire\u2019s Logan Mohtashami explains why rising bond yields and Fed hawkishness drive the surge. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T21:28:54+00:00",
+   "last_seen": "2026-10-06T21:28:54+00:00",
+   "summary": "Bitcoin Magazine Housingwire&#8217;s Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook Mortgage rates hit 3-year highs as homebuyers retreat. HousingWire\u2019s Logan Mohtashami explains why rising bond yields and Fed hawkishness drive the surge. This post...",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "77b48b704f",
+   "title": "Leon Wankum: BTC Taking on Real Estate\u2019s $300T Monetary Premium",
+   "date": "2026-10-06T21:21:43+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Leon Wankum: BTC Taking on Real Estate\u2019s $300T Monetary Premium",
+     "url": "https://bitcoinmagazine.com/videos/leon-wankum-btc-taking-on-real-estates-300t-monetary-premium",
+     "date": "2026-10-06T21:21:43+00:00",
+     "summary": "Bitcoin Magazine Leon Wankum: BTC Taking on Real Estate&#8217;s $300T Monetary Premium Property was once the default wealth store, but Leon Wankum argues that run is over. He explains why Bitcoin is stripping real estate of its monetary premium. This post Leon Wankum: BTC Taking..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T21:21:43+00:00",
+   "last_seen": "2026-10-06T21:21:43+00:00",
+   "summary": "Bitcoin Magazine Leon Wankum: BTC Taking on Real Estate&#8217;s $300T Monetary Premium Property was once the default wealth store, but Leon Wankum argues that run is over. He explains why Bitcoin is stripping real estate of its monetary premium. This post Leon Wankum: BTC Taking...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "988d1544d1",
+   "title": "StoneX\u2019s Mark Palmer: $435 MSTR Price Target Explained \u2013 DAT Consolidation Outlook",
+   "date": "2026-10-06T21:16:05+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "StoneX\u2019s Mark Palmer: $435 MSTR Price Target Explained \u2013 DAT Consolidation Outlook",
+     "url": "https://bitcoinmagazine.com/videos/stonexs-mark-palmer-435-mstr-price-target-explained-dat-consolidation-outlook",
+     "date": "2026-10-06T21:16:05+00:00",
+     "summary": "Bitcoin Magazine StoneX&#8217;s Mark Palmer: $435 MSTR Price Target Explained &#8211; DAT Consolidation Outlook Strategy bought STRC over Bitcoin. Mark Palmer explains why the preferred stock is vital to Strategy's fundraising and how reserve cash drives it to par. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T21:16:05+00:00",
+   "last_seen": "2026-10-06T21:16:05+00:00",
+   "summary": "Bitcoin Magazine StoneX&#8217;s Mark Palmer: $435 MSTR Price Target Explained &#8211; DAT Consolidation Outlook Strategy bought STRC over Bitcoin. Mark Palmer explains why the preferred stock is vital to Strategy's fundraising and how reserve cash drives it to par. This post...",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "11ea6ef743",
+   "title": "Coinbase Launches 15-Minute And Hourly Crypto Price Markets",
+   "date": "2026-10-06T21:07:36+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coinbase Launches 15-Minute And Hourly Crypto Price Markets",
+     "url": "https://thedefiant.io/news/defi/coinbase-launches-15-minute-and-hourly-crypto-price-markets",
+     "date": "2026-10-06T21:07:36+00:00",
+     "summary": "Coinbase added short-dated up-or-down contracts on bitcoin, ether and eight other tokens to its prediction markets on Tuesday. Kalshi lists the contracts and already runs the same 15-minute markets on its own exchange."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T21:07:36+00:00",
+   "last_seen": "2026-10-06T21:07:36+00:00",
+   "summary": "Coinbase added short-dated up-or-down contracts on bitcoin, ether and eight other tokens to its prediction markets on Tuesday. Kalshi lists the contracts and already runs the same 15-minute markets on its own exchange.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "4399766e4c",
+   "title": "Bitcoin Privacy Legend Amir Taaki Deported From Singapore",
+   "date": "2026-10-06T21:07:23+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Privacy Legend Amir Taaki Deported From Singapore",
+     "url": "https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore",
+     "date": "2026-10-06T21:07:23+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Privacy Legend Amir Taaki Deported From Singapore The early Bitcoin contributor says he was questioned for hours before being deported \u2014 something which keeps happening. This post Bitcoin Privacy Legend Amir Taaki Deported From Singapore first appeared..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T21:07:23+00:00",
+   "last_seen": "2026-10-06T21:07:23+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Privacy Legend Amir Taaki Deported From Singapore The early Bitcoin contributor says he was questioned for hours before being deported \u2014 something which keeps happening. This post Bitcoin Privacy Legend Amir Taaki Deported From Singapore first appeared...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "ca64f8c4a7",
+   "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
+   "date": "2026-10-06T21:00:44+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation",
+     "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-06T21:00:44+00:00",
+     "summary": "The lawsuit alleged that Tether froze USDt funds in a Conduit wallet tied to an investigation launched by Brazilian authorities in 2024."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T21:00:44+00:00",
+   "last_seen": "2026-10-06T21:00:44+00:00",
+   "summary": "The lawsuit alleged that Tether froze USDt funds in a Conduit wallet tied to an investigation launched by Brazilian authorities in 2024.",
+   "tags": [
+    "legal",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "5992de0abc",
+   "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
+   "date": "2026-10-06T20:53:19+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing",
+     "url": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-06T20:53:19+00:00",
+     "summary": "The proposed fund would hold ZEC directly, with Gemini Trust serving as custodian and Winklevoss Capital affiliates eyeing up to a $100 million investment."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T20:53:19+00:00",
+   "last_seen": "2026-10-06T20:53:19+00:00",
+   "summary": "The proposed fund would hold ZEC directly, with Gemini Trust serving as custodian and Winklevoss Capital affiliates eyeing up to a $100 million investment.",
+   "tags": [
+    "etfs",
+    "regulation"
+   ]
+  },
   {
    "id": "386533ca62",
    "title": "Abstract to Shut Down Ethereum Layer 2 on Dec. 15",
@@ -20,6 +198,28 @@
    "summary": "Users can withdraw through the Migration Hub or native bridge, while the team plans to help apps move to other chains.",
    "tags": [
     "ethereum"
+   ]
+  },
+  {
+   "id": "550d8d6972",
+   "title": "US services price gauge hits a four-year high, clouding Bitcoin\u2019s rate-relief outlook",
+   "date": "2026-10-06T20:35:01+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "US services price gauge hits a four-year high, clouding Bitcoin\u2019s rate-relief outlook",
+     "url": "https://cryptoslate.com/us-services-price-gauge-hits-a-four-year-high-clouding-bitcoins-rate-relief-outlook/",
+     "date": "2026-10-06T20:35:01+00:00",
+     "summary": "September's prices index rose to 74.0 while growth slowed, leaving rate relief uncertain for leveraged Bitcoin exposure. The post US services price gauge hits a four-year high, clouding Bitcoin\u2019s rate-relief outlook appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T20:35:01+00:00",
+   "last_seen": "2026-10-06T20:35:01+00:00",
+   "summary": "September's prices index rose to 74.0 while growth slowed, leaving rate relief uncertain for leveraged Bitcoin exposure. The post US services price gauge hits a four-year high, clouding Bitcoin\u2019s rate-relief outlook appeared first on CryptoSlate .",
+   "tags": [
+    "bitcoin",
+    "markets"
    ]
   },
   {

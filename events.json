@@ -1,6 +1,114 @@
 {
- "updated": "2026-10-06T19:34:02.295323+00:00",
+ "updated": "2026-10-06T20:35:57.473724+00:00",
  "events": [
+  {
+   "id": "386533ca62",
+   "title": "Abstract to Shut Down Ethereum Layer 2 on Dec. 15",
+   "date": "2026-10-06T20:35:24+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Abstract to Shut Down Ethereum Layer 2 on Dec. 15",
+     "url": "https://thedefiant.io/news/blockchains/abstract-to-shut-down-ethereum-layer-2-on-dec-15",
+     "date": "2026-10-06T20:35:24+00:00",
+     "summary": "Users can withdraw through the Migration Hub or native bridge, while the team plans to help apps move to other chains."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T20:35:24+00:00",
+   "last_seen": "2026-10-06T20:35:24+00:00",
+   "summary": "Users can withdraw through the Migration Hub or native bridge, while the team plans to help apps move to other chains.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "df59358eaa",
+   "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
+   "date": "2026-10-06T20:28:53+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Pudgy Penguins' Ethereum Layer-2 Abstract Is Shutting Down",
+     "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
+     "date": "2026-10-06T20:28:53+00:00",
+     "summary": "Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T20:28:53+00:00",
+   "last_seen": "2026-10-06T20:28:53+00:00",
+   "summary": "Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "2842a5bf96",
+   "title": "The Real Estate Market Is Dead in Spain. Long Live Bitcoin.",
+   "date": "2026-10-06T20:13:35+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "The Real Estate Market Is Dead in Spain. Long Live Bitcoin.",
+     "url": "https://bitcoinmagazine.com/business/the-real-estate-market-is-dead-in-spain-long-live-bitcoin",
+     "date": "2026-10-06T20:13:35+00:00",
+     "summary": "Bitcoin Magazine The Real Estate Market Is Dead in Spain. Long Live Bitcoin. A 2% rent ceiling against 4.9% September inflation, plus compulsory five- and seven-year renewals, rewrites signed leases. The Bank of Spain still puts the housing deficit near 750,000 homes. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T20:13:35+00:00",
+   "last_seen": "2026-10-06T20:13:35+00:00",
+   "summary": "Bitcoin Magazine The Real Estate Market Is Dead in Spain. Long Live Bitcoin. A 2% rent ceiling against 4.9% September inflation, plus compulsory five- and seven-year renewals, rewrites signed leases. The Bank of Spain still puts the housing deficit near 750,000 homes. This post...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "fd46c4d148",
+   "title": "Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing \u2018tens of millions\u2019",
+   "date": "2026-10-06T20:11:30+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing \u2018tens of millions\u2019",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855",
+     "date": "2026-10-06T20:11:30+00:00",
+     "summary": "Abstract, the Pudgy Penguins-backed Ethereum L2, will shut down on Dec. 15. Users must bridge assets off before then."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T20:11:30+00:00",
+   "last_seen": "2026-10-06T20:11:30+00:00",
+   "summary": "Abstract, the Pudgy Penguins-backed Ethereum L2, will shut down on Dec. 15. Users must bridge assets off before then.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "39444cda13",
+   "title": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
+   "date": "2026-10-06T19:46:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze",
+     "url": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze",
+     "date": "2026-10-06T19:46:04+00:00",
+     "summary": "The payments firm alleges Tether froze its treasury wallet on its own initiative over a Brazilian investigation it has no connection to\u2014and has profited from the reserves while refusing to release the funds for more than a year."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T19:46:04+00:00",
+   "last_seen": "2026-10-06T19:46:04+00:00",
+   "summary": "The payments firm alleges Tether froze its treasury wallet on its own initiative over a Brazilian investigation it has no connection to\u2014and has profited from the reserves while refusing to release the funds for more than a year.",
+   "tags": [
+    "legal",
+    "macro",
+    "stablecoins"
+   ]
+  },
   {
    "id": "4e5c887494",
    "title": "3 countries control 66% of Bitcoin mining, but 1 rival is gaining",

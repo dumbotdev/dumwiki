@@ -1,6 +1,111 @@
 {
- "updated": "2026-10-06T16:55:51.569948+00:00",
+ "updated": "2026-10-06T17:33:12.147760+00:00",
  "events": [
+  {
+   "id": "72a7f246e5",
+   "title": "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",
+   "date": "2026-10-06T17:22:54+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",
+     "url": "https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme",
+     "date": "2026-10-06T17:22:54+00:00",
+     "summary": "Paris-based Mistral launched Large 4, a model nicknamed after a June internet joke. It tops GPT-6 Astra on one finance test, but trails Claude on others."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T17:22:54+00:00",
+   "last_seen": "2026-10-06T17:22:54+00:00",
+   "summary": "Paris-based Mistral launched Large 4, a model nicknamed after a June internet joke. It tops GPT-6 Astra on one finance test, but trails Claude on others.",
+   "tags": [
+    "ai",
+    "memecoins"
+   ]
+  },
+  {
+   "id": "1680bef316",
+   "title": "Bitcoin grinds toward $87K as US equities hit new record highs",
+   "date": "2026-10-06T17:19:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin grinds toward $87K as US equities hit new record highs",
+     "url": "https://cointelegraph.com/markets/bitcoin-grinds-toward-87k-as-us-equities-hit-new-record-highs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-06T17:19:58+00:00",
+     "summary": "Bitcoin price action was kept in check by overhead ask liquidity while US stocks broke out to new all-time highs."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T17:19:58+00:00",
+   "last_seen": "2026-10-06T17:19:58+00:00",
+   "summary": "Bitcoin price action was kept in check by overhead ask liquidity while US stocks broke out to new all-time highs.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "markets"
+   ]
+  },
+  {
+   "id": "5c14b80090",
+   "title": "Securitize stock jumps 8% amid South Korea tokenization push",
+   "date": "2026-10-06T17:04:41+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Securitize stock jumps 8% amid South Korea tokenization push",
+     "url": "https://cointelegraph.com/news/securitize-lg-cns-south-korea-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-06T17:04:41+00:00",
+     "summary": "The LG CNS partnership gives Securitize a foothold as the Seoul prepares new rules for tokenized stocks, bonds and funds beginning in February 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T17:04:41+00:00",
+   "last_seen": "2026-10-06T17:04:41+00:00",
+   "summary": "The LG CNS partnership gives Securitize a foothold as the Seoul prepares new rules for tokenized stocks, bonds and funds beginning in February 2027.",
+   "tags": []
+  },
+  {
+   "id": "7ccc1611e6",
+   "title": "DOJ presses Tornado Cash prosecution as Treasury drops mixer reporting plan",
+   "date": "2026-10-06T17:00:37+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "DOJ presses Tornado Cash prosecution as Treasury drops mixer reporting plan",
+     "url": "https://cryptoslate.com/doj-presses-tornado-cash-prosecution-as-treasury-drops-mixer-reporting-plan/",
+     "date": "2026-10-06T17:00:37+00:00",
+     "summary": "An October 5 venue filing invokes a Bitcoin Fog appeal, showing why narrower privacy policies have not ended the Tornado Cash case. The post DOJ presses Tornado Cash prosecution as Treasury drops mixer reporting plan appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T17:00:37+00:00",
+   "last_seen": "2026-10-06T17:00:37+00:00",
+   "summary": "An October 5 venue filing invokes a Bitcoin Fog appeal, showing why narrower privacy policies have not ended the Tornado Cash case. The post DOJ presses Tornado Cash prosecution as Treasury drops mixer reporting plan appeared first on CryptoSlate .",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "7f9808982f",
+   "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
+   "date": "2026-10-06T17:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
+     "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
+     "date": "2026-10-06T17:00:00+00:00",
+     "summary": "Pantera Capital and Bullish also participated in the ANVL purchase as Anvil rolls out software designed to make its collateral protocol easier for businesses to integrate."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T17:00:00+00:00",
+   "last_seen": "2026-10-06T17:00:00+00:00",
+   "summary": "Pantera Capital and Bullish also participated in the ANVL purchase as Anvil rolls out software designed to make its collateral protocol easier for businesses to integrate.",
+   "tags": []
+  },
   {
    "id": "7434c8af22",
    "title": "Crypto is expanding the boundaries of what can be priced",

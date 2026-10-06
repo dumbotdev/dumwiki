@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>dumwiki</title>
+<style>
+:root{--bg:#ffffff;--panel:#ffffff;--fg:#111111;--muted:#5a6478;--blue:#2447b8;--bar:#2447b8;--bar-fg:#ffffff;--tint:#dde5f7;--strip:#eef2fb;--line:#b3c0e0;--hot:#ffd400;--hot-fg:#000000}
+@media (prefers-color-scheme:dark){:root{--bg:#070a14;--panel:#0d1326;--fg:#eef1ff;--muted:#a3add0;--blue:#8fb0ff;--bar:#1f44d6;--tint:#18234d;--strip:#111a38;--line:#2f418a;color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:12px/1.5 "Lucida Grande",Tahoma,Verdana,Arial,sans-serif;padding:0 16px 140px}
+.wrap{max-width:780px;margin:0 auto}
+a{color:var(--blue);text-decoration:none} a:hover{text-decoration:underline}
+.bar{background:var(--bar);color:var(--bar-fg);display:flex;flex-wrap:wrap;justify-content:space-between;align-items:center;gap:6px 14px;padding:8px 12px}
+.logo{font:bold 24px/1 Tahoma,Arial,sans-serif;letter-spacing:-1px}
+.sub{font-weight:bold;opacity:.9}
+.stamp{position:fixed;right:12px;bottom:12px;width:92px;background:#000;border:2px solid var(--bar);text-decoration:none;z-index:5}
+.stamp video{display:block;width:100%;height:auto}
+.stamp span{display:block;background:var(--bar);color:var(--bar-fg);font:bold 9px Tahoma,sans-serif;text-align:center;padding:2px 0}
+select{font:inherit;padding:2px 4px;border:1px solid var(--line);background:var(--panel);color:var(--fg)}
+.es{margin:3px 0}
+.tg{display:inline-block;background:var(--strip);border:1px solid var(--line);padding:0 5px;margin:3px 4px 0 0;font-size:11px;cursor:pointer;color:var(--blue)}
+details{margin-top:4px} summary{cursor:pointer;color:var(--blue)}
+details ul{margin:4px 0 0;padding-left:16px} details li{margin-bottom:2px;overflow-wrap:anywhere}
+.status{background:var(--hot);color:var(--hot-fg);padding:5px 12px}
+.tools{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;margin:12px 0}
+input[type=search]{font:inherit;padding:3px 6px;border:1px solid var(--line);background:var(--panel);color:var(--fg);min-width:0;flex:1 1 180px}
+label{display:flex;gap:5px;align-items:center}
+.box{border:1px solid var(--line);background:var(--panel);margin-bottom:12px}
+.box h2{margin:0;padding:4px 8px;font-size:12px;background:var(--tint);border-bottom:1px solid var(--line);display:flex;justify-content:space-between;gap:8px}
+.box h2 span{font-weight:normal;color:var(--muted)}
+.ev{display:flex;gap:10px;padding:8px;border-bottom:1px solid var(--line)}
+.ev:last-child{border-bottom:0}
+.sc{flex:0 0 44px;text-align:center;font:bold 14px/1.2 "Courier New",monospace;background:var(--strip);padding:5px 0;align-self:flex-start}
+.sc small{display:block;font:normal 9px Tahoma,sans-serif;color:var(--muted)}
+.sc.top{background:var(--hot);color:var(--hot-fg)} .sc.top small{color:var(--hot-fg)}
+.eb{min-width:0;flex:1}
+.et{font-weight:bold;font-size:13px;overflow-wrap:anywhere}
+.em{color:var(--muted)}
+.none{color:var(--muted);padding:10px 8px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="bar"><div class="logo">dumwiki</div><span class="sub">the crypto event index</span></div>
+  <div class="status" id="status">Loading events...</div>
+  <div class="tools">
+    <input type="search" id="q" placeholder="Search events" aria-label="Search events">
+    <select id="tag" aria-label="Topic"><option value="">All topics</option></select>
+    <label><input type="checkbox" id="top"> Only events covered by 2+ outlets</label>
+  </div>
+  <div id="out"></div>
+</div>
+<a class="stamp" href="https://dumbot.org" title="Built by dumbot"><video autoplay muted loop playsinline poster="dumbot.jpg" src="dumbot.mp4"></video><span>a dumbot app</span></a>
+<script>
+// Busy months are split into days; quiet months stay as one section.
+var BUSY=12, EVENTS=[];
+var MONTHS=['January','February','March','April','May','June','July','August','September','October','November','December'];
+function el(t,c,x){var e=document.createElement(t);if(c)e.className=c;if(x!=null)e.textContent=x;return e}
+function render(){
+  var q=document.getElementById('q').value.trim().toLowerCase(),top=document.getElementById('top').checked,tag=document.getElementById('tag').value,out=document.getElementById('out');
+  var list=EVENTS.filter(function(e){return (!top||e.outlets>1)&&(!tag||(e.tags||[]).indexOf(tag)>=0)&&(!q||(e.title+' '+(e.summary||'')).toLowerCase().indexOf(q)>=0)});
+  out.textContent='';
+  if(!list.length){out.appendChild(el('div','none',EVENTS.length?'No events match.':'No events collected yet.'));return}
+  var months={},order=[];
+  list.forEach(function(e){var k=e.date.slice(0,7);if(!months[k]){months[k]=[];order.push(k)}months[k].push(e)});
+  order.forEach(function(k){
+    var evs=months[k],name=MONTHS[+k.slice(5,7)-1]+' '+k.slice(0,4);
+    if(evs.length>BUSY){
+      var days={},dord=[];
+      evs.forEach(function(e){var d=e.date.slice(0,10);if(!days[d]){days[d]=[];dord.push(d)}days[d].push(e)});
+      dord.forEach(function(d){section(out,MONTHS[+d.slice(5,7)-1]+' '+(+d.slice(8,10))+', '+d.slice(0,4),days[d])});
+    } else section(out,name,evs);
+  });
+}
+function section(out,title,evs){
+  evs=evs.slice().sort(function(a,b){return b.score-a.score||(a.date<b.date?1:-1)});
+  var box=el('section','box'),h=el('h2');h.appendChild(document.createTextNode(title));h.appendChild(el('span',null,evs.length+(evs.length===1?' event':' events')));box.appendChild(h);
+  evs.forEach(function(e){
+    var row=el('div','ev'),sc=el('div','sc'+(e.outlets>1?' top':''),String(e.score));sc.appendChild(el('small',null,'score'));
+    var b=el('div','eb');b.appendChild(el('div','et',e.title));
+    var m=el('div','em');m.appendChild(document.createTextNode(new Date(e.date).toLocaleDateString()+' · '+e.outlets+(e.outlets===1?' outlet':' outlets')+' · '));
+    e.mentions.forEach(function(x,i){if(i)m.appendChild(document.createTextNode(', '));var a=el('a',null,x.source);
+      if(/^https?:\/\//.test(x.url)){a.href=x.url;a.target='_blank';a.rel='noopener noreferrer'}m.appendChild(a)});
+    b.appendChild(m);
+    if(e.summary)b.appendChild(el('div','es',e.summary));
+    (e.tags||[]).forEach(function(t){var c=el('span','tg',t);c.addEventListener('click',function(){document.getElementById('tag').value=t;render()});b.appendChild(c)});
+    if(e.mentions.length>1){var d=el('details'),ul=el('ul');d.appendChild(el('summary',null,'All '+e.mentions.length+' reports, first '+new Date(e.first_seen||e.date).toLocaleString()));
+      e.mentions.forEach(function(x){var li=el('li');li.appendChild(document.createTextNode(new Date(x.date).toLocaleString()+' \u00b7 '+x.source+' \u00b7 '+x.title));ul.appendChild(li)});d.appendChild(ul);b.appendChild(d)}
+    row.appendChild(sc);row.appendChild(b);box.appendChild(row);
+  });
+  out.appendChild(box);
+}
+fetch('events.json',{cache:'no-store'}).then(function(r){return r.json()}).then(function(d){
+  EVENTS=(d.events||[]).map(function(e){var s={};e.mentions.forEach(function(m){s[m.source]=1});e.outlets=Object.keys(s).length;return e});
+  var all={};EVENTS.forEach(function(e){(e.tags||[]).forEach(function(t){all[t]=(all[t]||0)+1})});
+  Object.keys(all).sort().forEach(function(t){var o=el('option',null,t+' ('+all[t]+')');o.value=t;document.getElementById('tag').appendChild(o)});
+  document.getElementById('status').textContent=EVENTS.length+' events indexed'+(d.updated?' · last updated '+new Date(d.updated).toLocaleString():'');
+  render();
+}).catch(function(){document.getElementById('status').textContent='Could not load events.';});
+document.getElementById('q').addEventListener('input',render);
+document.getElementById('top').addEventListener('change',render);
+document.getElementById('tag').addEventListener('change',render);
+</script>
+</body>
+</html>

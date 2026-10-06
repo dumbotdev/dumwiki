@@ -1,6 +1,169 @@
 {
- "updated": "2026-10-06T17:33:12.147760+00:00",
+ "updated": "2026-10-06T18:39:10.339263+00:00",
  "events": [
+  {
+   "id": "81f2cdd4dc",
+   "title": "FinCEN drops crypto mixing proposal as backlash kills rule",
+   "date": "2026-10-06T18:20:29+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "FinCEN drops crypto mixing proposal as backlash kills rule",
+     "url": "https://cryptoslate.com/fincen-drops-crypto-mixing-proposal-as-backlash-kills-rule/",
+     "date": "2026-10-06T18:20:29+00:00",
+     "summary": "FinCEN abandons proposed privacy-related reporting requirements, while existing anti-money-laundering duties remain. The post FinCEN drops crypto mixing proposal as backlash kills rule appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T18:20:29+00:00",
+   "last_seen": "2026-10-06T18:20:29+00:00",
+   "summary": "FinCEN abandons proposed privacy-related reporting requirements, while existing anti-money-laundering duties remain. The post FinCEN drops crypto mixing proposal as backlash kills rule appeared first on CryptoSlate .",
+   "tags": []
+  },
+  {
+   "id": "1d8567164b",
+   "title": "Russia\u2019s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
+   "date": "2026-10-06T18:19:35+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Russia\u2019s digital ruble accounts top 220K in first month, nearly 4X central bank forecast",
+     "url": "https://cointelegraph.com/news/russia-digital-ruble-adoption-brics-cbdc-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-06T18:19:35+00:00",
+     "summary": "The digital ruble\u2019s early uptake comes as BRICS nations explore linking their digital currencies for cross-border trade and payments."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T18:19:35+00:00",
+   "last_seen": "2026-10-06T18:19:35+00:00",
+   "summary": "The digital ruble\u2019s early uptake comes as BRICS nations explore linking their digital currencies for cross-border trade and payments.",
+   "tags": []
+  },
+  {
+   "id": "5a18a56ad9",
+   "title": "Bill aims at stopping US lawmaker bets on their own elections ahead of midterms",
+   "date": "2026-10-06T17:59:32+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bill aims at stopping US lawmaker bets on their own elections ahead of midterms",
+     "url": "https://cointelegraph.com/news/law-congress-betting-elections-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-06T17:59:32+00:00",
+     "summary": "The No Betting on Your Own Race Act will not be addressed before the 2026 US midterms as Congress is on recess until after the election."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T17:59:32+00:00",
+   "last_seen": "2026-10-06T17:59:32+00:00",
+   "summary": "The No Betting on Your Own Race Act will not be addressed before the 2026 US midterms as Congress is on recess until after the election.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "19af0a6f42",
+   "title": "Ethereum Validator Count Falls to 863,000 as Staked ETH Edges Higher",
+   "date": "2026-10-06T17:56:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ethereum Validator Count Falls to 863,000 as Staked ETH Edges Higher",
+     "url": "https://thedefiant.io/news/blockchains/ethereum-validator-count-falls-to-863-000-as-staked-eth-edges-higher",
+     "date": "2026-10-06T17:56:00+00:00",
+     "summary": "Pectra lets operators combine validator balances, reducing network overhead without requiring them to withdraw their ETH."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T17:56:00+00:00",
+   "last_seen": "2026-10-06T17:56:00+00:00",
+   "summary": "Pectra lets operators combine validator balances, reducing network overhead without requiring them to withdraw their ETH.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "212dbb24a1",
+   "title": "Anchorage Digital Buys Routable to Add Corporate Payment Rails",
+   "date": "2026-10-06T17:54:45+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Anchorage Digital Buys Routable to Add Corporate Payment Rails",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/anchorage-digital-buys-routable-to-add-corporate-payment-rails",
+     "date": "2026-10-06T17:54:45+00:00",
+     "summary": "Routable will operate under a new brand, with integrated stablecoin and tokenized deposit offerings rolling out over the coming quarters."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T17:54:45+00:00",
+   "last_seen": "2026-10-06T17:54:45+00:00",
+   "summary": "Routable will operate under a new brand, with integrated stablecoin and tokenized deposit offerings rolling out over the coming quarters.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "6ea2f8b183",
+   "title": "Conduit sues Tether over $2.76 million freeze, says it has \u2018no legal entitlement\u2019 to funds",
+   "date": "2026-10-06T17:54:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Conduit sues Tether over $2.76 million freeze, says it has \u2018no legal entitlement\u2019 to funds",
+     "url": "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831",
+     "date": "2026-10-06T17:54:00+00:00",
+     "summary": "Conduit is suing Tether in NY federal court, alleging the USDT issuer froze $2.76 million of its funds for over a year without explanation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T17:54:00+00:00",
+   "last_seen": "2026-10-06T17:54:00+00:00",
+   "summary": "Conduit is suing Tether in NY federal court, alleging the USDT issuer froze $2.76 million of its funds for over a year without explanation.",
+   "tags": [
+    "legal",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "15a853df69",
+   "title": "Firelight Begins Writing DeFi Cover Backed By Staked XRP",
+   "date": "2026-10-06T17:53:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Firelight Begins Writing DeFi Cover Backed By Staked XRP",
+     "url": "https://thedefiant.io/news/defi/firelight-begins-writing-defi-cover-backed-by-staked-xrp",
+     "date": "2026-10-06T17:53:39+00:00",
+     "summary": "The protocol's first cover positions went to two Sentora vaults, with payouts standing behind 50.2 million XRP staked on Flare. Claims are decided by a five-firm consortium on a three-of-five vote, and the coverage contracts' audits are listed as coming soon."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T17:53:39+00:00",
+   "last_seen": "2026-10-06T17:53:39+00:00",
+   "summary": "The protocol's first cover positions went to two Sentora vaults, with payouts standing behind 50.2 million XRP staked on Flare. Claims are decided by a five-firm consortium on a three-of-five vote, and the coverage contracts' audits are listed as coming soon.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "969f3e447b",
+   "title": "Affluent investors seen boosting crypto exposure: Survey",
+   "date": "2026-10-06T17:30:18+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Affluent investors seen boosting crypto exposure: Survey",
+     "url": "https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-06T17:30:18+00:00",
+     "summary": "Most affluent investors across seven countries own and are increasing their crypto holdings despite financial advisers who remain overly cautious about digital assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-06T17:30:18+00:00",
+   "last_seen": "2026-10-06T17:30:18+00:00",
+   "summary": "Most affluent investors across seven countries own and are increasing their crypto holdings despite financial advisers who remain overly cautious about digital assets.",
+   "tags": []
+  },
   {
    "id": "72a7f246e5",
    "title": "Mistral AI Drops 'Le Chonk': A Massive AI Model Named After a Cat Meme",

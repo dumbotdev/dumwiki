@@ -1,6 +1,68 @@
 {
- "updated": "2026-10-07T20:35:03.610257+00:00",
+ "updated": "2026-10-07T21:35:18.144444+00:00",
  "events": [
+  {
+   "id": "dc42c489b0",
+   "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
+   "date": "2026-10-07T21:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",
+     "url": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
+     "date": "2026-10-07T21:16:03+00:00",
+     "summary": "Ethereum Foundation researcher Justin Drake urged holders to calmly move funds to unused addresses, warning that AI-driven math could break crypto signatures before quantum computers do."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T21:16:03+00:00",
+   "last_seen": "2026-10-07T21:16:03+00:00",
+   "summary": "Ethereum Foundation researcher Justin Drake urged holders to calmly move funds to unused addresses, warning that AI-driven math could break crypto signatures before quantum computers do.",
+   "tags": [
+    "ai",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "64ce4e0215",
+   "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+   "date": "2026-10-07T20:48:34+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
+     "url": "https://cointelegraph.com/news/circle-usdc-eurc-payments-sap-enterprise-ecosystem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T20:48:34+00:00",
+     "summary": "The partnership with SAP-backed Tereina will let businesses send and receive Circle\u2019s stablecoins from within the financial software they already use."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T20:48:34+00:00",
+   "last_seen": "2026-10-07T20:48:34+00:00",
+   "summary": "The partnership with SAP-backed Tereina will let businesses send and receive Circle\u2019s stablecoins from within the financial software they already use.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "4bacd70f97",
+   "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
+   "date": "2026-10-07T20:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Anthropic Launches Haiku 5.5: Its Cheapest and Fastest Claude Model Yet",
+     "url": "https://decrypt.co/380351/anthropic-launches-haiku-5-5-cheapest-fastest-claude-model",
+     "date": "2026-10-07T20:46:03+00:00",
+     "summary": "Claude Haiku 5.5 costs about 75% less to run than its predecessor and targets high-volume jobs like summaries and live customer support. It arrives 15 days after Opus 5.5."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T20:46:03+00:00",
+   "last_seen": "2026-10-07T20:46:03+00:00",
+   "summary": "Claude Haiku 5.5 costs about 75% less to run than its predecessor and targets high-volume jobs like summaries and live customer support. It arrives 15 days after Opus 5.5.",
+   "tags": []
+  },
   {
    "id": "ab2a83bfca",
    "title": "Binance Adds JPMorgan and Eli Lilly bStocks as Margin Collateral",

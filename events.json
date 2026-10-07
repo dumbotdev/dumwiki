@@ -1,6 +1,93 @@
 {
- "updated": "2026-10-07T17:36:51.955579+00:00",
+ "updated": "2026-10-07T18:41:05.605064+00:00",
  "events": [
+  {
+   "id": "e6f1a5d6ec",
+   "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
+   "date": "2026-10-07T18:37:17+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
+     "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
+     "date": "2026-10-07T18:37:17+00:00",
+     "summary": "Grayscale's Krista Lynch says SEC listing standards cover about 15 tokens, letting crypto ETF issuers get selective beyond bitcoin and ether."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T18:37:17+00:00",
+   "last_seen": "2026-10-07T18:37:17+00:00",
+   "summary": "Grayscale's Krista Lynch says SEC listing standards cover about 15 tokens, letting crypto ETF issuers get selective beyond bitcoin and ether.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum",
+    "regulation"
+   ]
+  },
+  {
+   "id": "703ea45da6",
+   "title": "Google Lets You Build a Video Game by Typing a Description",
+   "date": "2026-10-07T18:08:51+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Google Lets You Build a Video Game by Typing a Description",
+     "url": "https://decrypt.co/380326/google-build-video-game-typing-description",
+     "date": "2026-10-07T18:08:51+00:00",
+     "summary": "Google's Playground turns a typed description into a playable, shareable game, no coding required. It's live for U.S. adults, with creation access tiered by Google AI subscription."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T18:08:51+00:00",
+   "last_seen": "2026-10-07T18:08:51+00:00",
+   "summary": "Google's Playground turns a typed description into a playable, shareable game, no coding required. It's live for U.S. adults, with creation access tiered by Google AI subscription.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "23dd86c3fb",
+   "title": "Hunter Biden confirms LAPTOP token \u2018not a rug pull,\u2019 just trolling Trumps",
+   "date": "2026-10-07T18:00:10+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Hunter Biden confirms LAPTOP token \u2018not a rug pull,\u2019 just trolling Trumps",
+     "url": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T18:00:10+00:00",
+     "summary": "\u201cTrump\u2019s coin was max extraction, and I wanted to troll every grift like it,\u201c said Hunter Biden in a breakdown of the memecoin launch and fallout."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T18:00:10+00:00",
+   "last_seen": "2026-10-07T18:00:10+00:00",
+   "summary": "\u201cTrump\u2019s coin was max extraction, and I wanted to troll every grift like it,\u201c said Hunter Biden in a breakdown of the memecoin launch and fallout.",
+   "tags": [
+    "memecoins"
+   ]
+  },
+  {
+   "id": "de95e38ad8",
+   "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
+   "date": "2026-10-07T17:46:59+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
+     "url": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T17:46:59+00:00",
+     "summary": "The layer-1 blockchain said its programmable offchain tunnels reached the milestone during a live stress test designed to simulate high-frequency activity between AI agents."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T17:46:59+00:00",
+   "last_seen": "2026-10-07T17:46:59+00:00",
+   "summary": "The layer-1 blockchain said its programmable offchain tunnels reached the milestone during a live stress test designed to simulate high-frequency activity between AI agents.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "57c3edbe1e",
    "title": "As Japanese institutions sell \u00a52.6 trillion in foreign debt, here\u2019s what Bitcoin investors need to watch",

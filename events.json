@@ -1,6 +1,111 @@
 {
- "updated": "2026-10-07T03:36:35.351976+00:00",
+ "updated": "2026-10-07T04:37:30.613570+00:00",
  "events": [
+  {
+   "id": "6dffdb81cb",
+   "title": "Solana DvP settlement requires 100% upfront cash for every trade",
+   "date": "2026-10-07T04:30:56+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Solana DvP settlement requires 100% upfront cash for every trade",
+     "url": "https://cryptoslate.com/solana-dvp-settlement-requires-100-upfront-cash-for-every-trade/",
+     "date": "2026-10-07T04:30:56+00:00",
+     "summary": "Its published DvP design exchanges fully funded token legs atomically, leaving financing and netting to institutions. The post Solana DvP settlement requires 100% upfront cash for every trade appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T04:30:56+00:00",
+   "last_seen": "2026-10-07T04:30:56+00:00",
+   "summary": "Its published DvP design exchanges fully funded token legs atomically, leaving financing and netting to institutions. The post Solana DvP settlement requires 100% upfront cash for every trade appeared first on CryptoSlate .",
+   "tags": [
+    "legal",
+    "solana"
+   ]
+  },
+  {
+   "id": "44bf7a79b4",
+   "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+   "date": "2026-10-07T04:11:33+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Cardano gives token issuers power to freeze, seize and restrict assets",
+     "url": "https://www.coindesk.com/tech/2026/10/07/cardano-gives-token-issuers-power-to-freeze-seize-and-restrict-assets",
+     "date": "2026-10-07T04:11:33+00:00",
+     "summary": "The new standard is aimed at regulated stablecoins, funds and bonds whose issuers need identity checks, sanctions controls and other transfer rules built into the asset itself."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T04:11:33+00:00",
+   "last_seen": "2026-10-07T04:11:33+00:00",
+   "summary": "The new standard is aimed at regulated stablecoins, funds and bonds whose issuers need identity checks, sanctions controls and other transfer rules built into the asset itself.",
+   "tags": []
+  },
+  {
+   "id": "08e645d452",
+   "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+   "date": "2026-10-07T04:00:51+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin dips below $84,000 as oil jumps on Iranian tanker attacks",
+     "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-dips-below-usd84-000-as-oil-jumps-on-iranian-tanker-attacks",
+     "date": "2026-10-07T04:00:51+00:00",
+     "summary": "Bitcoin briefly broke under the level analysts flagged as the point where sellers take over. Oil and the dollar both climbed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T04:00:51+00:00",
+   "last_seen": "2026-10-07T04:00:51+00:00",
+   "summary": "Bitcoin briefly broke under the level analysts flagged as the point where sellers take over. Oil and the dollar both climbed.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "6b9f03e5ca",
+   "title": "Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million",
+   "date": "2026-10-07T03:57:21+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million",
+     "url": "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
+     "date": "2026-10-07T03:57:21+00:00",
+     "summary": "Crypto liquidations amounted to $555.6 million over the past 24 hours, including $487.2 million in long positions, according to CoinGlass."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T03:57:21+00:00",
+   "last_seen": "2026-10-07T03:57:21+00:00",
+   "summary": "Crypto liquidations amounted to $555.6 million over the past 24 hours, including $487.2 million in long positions, according to CoinGlass.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "dd217939b7",
+   "title": "Muneeb Ali Pledges IP Transfer to Stacks Endowment in CEO Plan",
+   "date": "2026-10-07T03:40:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Muneeb Ali Pledges IP Transfer to Stacks Endowment in CEO Plan",
+     "url": "https://thedefiant.io/news/blockchains/muneeb-ali-pledges-ip-transfer-to-stacks-endowment-in-ceo-plan",
+     "date": "2026-10-07T03:40:39+00:00",
+     "summary": "The Stacks Labs chief also promised a two-year roadmap covering Bitcoin privacy and post-quantum technology, plus a public holder call within 30 days."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T03:40:39+00:00",
+   "last_seen": "2026-10-07T03:40:39+00:00",
+   "summary": "The Stacks Labs chief also promised a two-year roadmap covering Bitcoin privacy and post-quantum technology, plus a public holder call within 30 days.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "b19d1e270a",
    "title": "Bitcoin Sinks Below $84,000 in Sudden Sell-Off",
@@ -489,12 +594,19 @@
      "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down",
      "date": "2026-10-06T20:28:53+00:00",
      "summary": "Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "Pudgy Penguins\u2019 Abstract becomes second Ethereum layer 2 to shut in a week",
+     "url": "https://www.coindesk.com/tech/2026/10/07/pudgy-penguins-abstract-becomes-second-ethereum-layer-2-to-shut-in-a-week",
+     "date": "2026-10-07T04:31:14+00:00",
+     "summary": "The consumer-focused blockchain will close Dec. 15 after Igloo spent tens of millions supporting it, days after Blast said its own network was no longer worth operating."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-06T20:28:53+00:00",
-   "last_seen": "2026-10-06T20:28:53+00:00",
-   "summary": "Abstract will shut down Dec. 15, saying a chain focused solely on consumer crypto proved unsustainable, and is urging users to bridge their assets off before then.",
+   "last_seen": "2026-10-07T04:31:14+00:00",
+   "summary": "The consumer-focused blockchain will close Dec. 15 after Igloo spent tens of millions supporting it, days after Blast said its own network was no longer worth operating.",
    "tags": [
     "ethereum"
    ]

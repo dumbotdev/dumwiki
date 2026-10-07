@@ -1,6 +1,213 @@
 {
- "updated": "2026-10-07T11:35:07.268544+00:00",
+ "updated": "2026-10-07T12:44:37.973623+00:00",
  "events": [
+  {
+   "id": "ee6fdec60c",
+   "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
+   "date": "2026-10-07T12:40:31+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
+     "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
+     "date": "2026-10-07T12:40:31+00:00",
+     "summary": "Tom Lee said Bitmine will be \u201cdone stacking\u201d once it owns 5% of ETH, setting an end date to an accumulation streak that began in mid-2025 and made the company the world's largest Ethereum treasury."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T12:40:31+00:00",
+   "last_seen": "2026-10-07T12:40:31+00:00",
+   "summary": "Tom Lee said Bitmine will be \u201cdone stacking\u201d once it owns 5% of ETH, setting an end date to an accumulation streak that began in mid-2025 and made the company the world's largest Ethereum treasury.",
+   "tags": [
+    "ethereum",
+    "macro"
+   ]
+  },
+  {
+   "id": "43bcc105d4",
+   "title": "Engineer Gets 32 Months for Bitcoin Extortion Plot Against His Own Employer",
+   "date": "2026-10-07T12:39:09+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Engineer Gets 32 Months for Bitcoin Extortion Plot Against His Own Employer",
+     "url": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer",
+     "date": "2026-10-07T12:39:09+00:00",
+     "summary": "Daniel Rhyne locked his company's IT administrators out of its network and demanded 20 BTC, then worth $750,000, to stop the shutdowns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T12:39:09+00:00",
+   "last_seen": "2026-10-07T12:39:09+00:00",
+   "summary": "Daniel Rhyne locked his company's IT administrators out of its network and demanded 20 BTC, then worth $750,000, to stop the shutdowns.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "ef1d653ea7",
+   "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
+   "date": "2026-10-07T12:34:13+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
+     "url": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
+     "date": "2026-10-07T12:34:13+00:00",
+     "summary": "The firm is putting its own capital into stablecoin and tokenized gold vaults as institutional finance moves further onchain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T12:34:13+00:00",
+   "last_seen": "2026-10-07T12:34:13+00:00",
+   "summary": "The firm is putting its own capital into stablecoin and tokenized gold vaults as institutional finance moves further onchain.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "54557e2997",
+   "title": "Chasing 100x tokens is game of \u2018irrational exuberance,\u2019 says Polymarket CEO",
+   "date": "2026-10-07T12:29:39+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Chasing 100x tokens is game of \u2018irrational exuberance,\u2019 says Polymarket CEO",
+     "url": "https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T12:29:39+00:00",
+     "summary": "Some traders are looking for more predictable prediction market opportunities, rather than playing \u201chot potato\u201d with the next 100x gem, according to Polymarket\u2019s Shayne Coplan."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T12:29:39+00:00",
+   "last_seen": "2026-10-07T12:29:39+00:00",
+   "summary": "Some traders are looking for more predictable prediction market opportunities, rather than playing \u201chot potato\u201d with the next 100x gem, according to Polymarket\u2019s Shayne Coplan.",
+   "tags": []
+  },
+  {
+   "id": "33fc6d1514",
+   "title": "Bitcoin drops to $84k sees $143 million in liquidations as ETF inflows turn positive",
+   "date": "2026-10-07T12:20:29+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin drops to $84k sees $143 million in liquidations as ETF inflows turn positive",
+     "url": "https://cryptoslate.com/bitcoins-liquidation-wave-shows-why-positive-etf-flows-offer-no-price-floor/",
+     "date": "2026-10-07T12:20:29+00:00",
+     "summary": "Fresh October 7 futures closures highlight the gap between a completed fund-flow tally and traders\u2019 continuing margin exposure. The post Bitcoin drops to $84k sees $143 million in liquidations as ETF inflows turn positive appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T12:20:29+00:00",
+   "last_seen": "2026-10-07T12:20:29+00:00",
+   "summary": "Fresh October 7 futures closures highlight the gap between a completed fund-flow tally and traders\u2019 continuing margin exposure. The post Bitcoin drops to $84k sees $143 million in liquidations as ETF inflows turn positive appeared first on CryptoSlate .",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "markets"
+   ]
+  },
+  {
+   "id": "584fc78c60",
+   "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
+   "date": "2026-10-07T12:18:43+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
+     "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart",
+     "date": "2026-10-07T12:18:43+00:00",
+     "summary": "OKX raises more, $500M+ in crypto longs liquidated after a late evening selloff, and Abstract calls it quits."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T12:18:43+00:00",
+   "last_seen": "2026-10-07T12:18:43+00:00",
+   "summary": "OKX raises more, $500M+ in crypto longs liquidated after a late evening selloff, and Abstract calls it quits.",
+   "tags": [
+    "exchanges",
+    "funding",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "571ee703d1",
+   "title": "Robinhood Adds Bitcoin to Its Balance Sheet: A Strategic Signal from a $100B Fintech",
+   "date": "2026-10-07T12:16:58+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Robinhood Adds Bitcoin to Its Balance Sheet: A Strategic Signal from a $100B Fintech",
+     "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/robinhood-adds-bitcoin-to-its-balance-sheet-a-strategic-signal-from-a-100b-fintech",
+     "date": "2026-10-07T12:16:58+00:00",
+     "summary": "Bitcoin Magazine Robinhood Adds Bitcoin to Its Balance Sheet: A Strategic Signal from a $100B Fintech Robinhood added $25M of Bitcoin (~294 BTC) to its balance sheet\u2014its first corporate holding and a strategic signal from a $100B fintech. This post Robinhood Adds Bitcoin to Its..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T12:16:58+00:00",
+   "last_seen": "2026-10-07T12:16:58+00:00",
+   "summary": "Bitcoin Magazine Robinhood Adds Bitcoin to Its Balance Sheet: A Strategic Signal from a $100B Fintech Robinhood added $25M of Bitcoin (~294 BTC) to its balance sheet\u2014its first corporate holding and a strategic signal from a $100B fintech. This post Robinhood Adds Bitcoin to Its...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "a8372df928",
+   "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
+   "date": "2026-10-07T11:59:24+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
+     "url": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
+     "date": "2026-10-07T11:59:24+00:00",
+     "summary": "Banks need their own permissioned ledger, wallet tools and smart-contract capabilities before they can use Swift\u2019s tokenized-deposit network, Taurus\u2019s Lamine Brahimi said."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T11:59:24+00:00",
+   "last_seen": "2026-10-07T11:59:24+00:00",
+   "summary": "Banks need their own permissioned ledger, wallet tools and smart-contract capabilities before they can use Swift\u2019s tokenized-deposit network, Taurus\u2019s Lamine Brahimi said.",
+   "tags": []
+  },
+  {
+   "id": "3dabab2d7d",
+   "title": "S&P brings ratings-style scrutiny to $10 billion crypto vault market as $6 million Base incident exposes risks",
+   "date": "2026-10-07T11:40:51+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "S&P brings ratings-style scrutiny to $10 billion crypto vault market as $6 million Base incident exposes risks",
+     "url": "https://cryptoslate.com/sp-brings-ratings-style-scrutiny-to-10-billion-crypto-vault-market-as-6-million-base-incident-exposes-risks/",
+     "date": "2026-10-07T11:40:51+00:00",
+     "summary": "The vault framework compares impairment risk while leaving capital protection and future returns unpromised. The post S&#038;P brings ratings-style scrutiny to $10 billion crypto vault market as $6 million Base incident exposes risks appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T11:40:51+00:00",
+   "last_seen": "2026-10-07T11:40:51+00:00",
+   "summary": "The vault framework compares impairment risk while leaving capital protection and future returns unpromised. The post S&#038;P brings ratings-style scrutiny to $10 billion crypto vault market as $6 million Base incident exposes risks appeared first on CryptoSlate .",
+   "tags": []
+  },
+  {
+   "id": "8c9dd288c9",
+   "title": "Crypto card access doesn\u2019t match global demand, Tangem says",
+   "date": "2026-10-07T11:37:48+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto card access doesn\u2019t match global demand, Tangem says",
+     "url": "https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T11:37:48+00:00",
+     "summary": "Crypto card demand can be stronger where access is harder, Tangem says, as the company expands its self-custodial payment offering through Visa."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T11:37:48+00:00",
+   "last_seen": "2026-10-07T11:37:48+00:00",
+   "summary": "Crypto card demand can be stronger where access is harder, Tangem says, as the company expands its self-custodial payment offering through Visa.",
+   "tags": []
+  },
   {
    "id": "8ccc83d4d2",
    "title": "Here\u2019s what bitcoin needs to break above $87,000",

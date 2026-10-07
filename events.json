@@ -1,6 +1,277 @@
 {
- "updated": "2026-10-07T16:38:54.167525+00:00",
+ "updated": "2026-10-07T17:36:51.955579+00:00",
  "events": [
+  {
+   "id": "57c3edbe1e",
+   "title": "As Japanese institutions sell \u00a52.6 trillion in foreign debt, here\u2019s what Bitcoin investors need to watch",
+   "date": "2026-10-07T17:35:20+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "As Japanese institutions sell \u00a52.6 trillion in foreign debt, here\u2019s what Bitcoin investors need to watch",
+     "url": "https://cryptoslate.com/as-japanese-institutions-sell-%c2%a52-6-trillion-in-foreign-debt-heres-what-bitcoin-investors-need-to-watch/",
+     "date": "2026-10-07T17:35:20+00:00",
+     "summary": "Japan\u2019s October 6 auction drew firmer demand at a higher yield after earlier foreign-debt sales, raising a potential Bitcoin financing risk. The post As Japanese institutions sell \u00a52.6 trillion in foreign debt, here&#8217;s what Bitcoin investors need to watch appeared first on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T17:35:20+00:00",
+   "last_seen": "2026-10-07T17:35:20+00:00",
+   "summary": "Japan\u2019s October 6 auction drew firmer demand at a higher yield after earlier foreign-debt sales, raising a potential Bitcoin financing risk. The post As Japanese institutions sell \u00a52.6 trillion in foreign debt, here&#8217;s what Bitcoin investors need to watch appeared first on...",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
+  {
+   "id": "bcbfa27163",
+   "title": "Bitcoin Holds Below $84,000 Cost-Basis Level as Only Nine of 125 Top Tokens Rise",
+   "date": "2026-10-07T17:24:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Holds Below $84,000 Cost-Basis Level as Only Nine of 125 Top Tokens Rise",
+     "url": "https://thedefiant.io/news/markets/bitcoin-holds-below-84000-cost-basis-level-nine-of-125-tokens-rise-oct-07-2026",
+     "date": "2026-10-07T17:24:18+00:00",
+     "summary": "Bitcoin fell through $84,000 in two legs, the first in the Asia session and the second at the U.S. open, and has not reclaimed it. A Bitfinex research note circulated hours earlier had called that level the market's largest cost-basis cluster. Funding rates sat near zero across..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T17:24:18+00:00",
+   "last_seen": "2026-10-07T17:24:18+00:00",
+   "summary": "Bitcoin fell through $84,000 in two legs, the first in the Asia session and the second at the U.S. open, and has not reclaimed it. A Bitfinex research note circulated hours earlier had called that level the market's largest cost-basis cluster. Funding rates sat near zero across...",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "52a53a90e9",
+   "title": "Ethereum researcher Justin Drake calls for \u2018bunker mode\u2019 planning over private key recovery risk",
+   "date": "2026-10-07T17:23:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ethereum researcher Justin Drake calls for \u2018bunker mode\u2019 planning over private key recovery risk",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
+     "date": "2026-10-07T17:23:02+00:00",
+     "summary": "Justin Drake recommended moving crypto assets to fresh addresses that keep their public keys hidden behind a hash."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T17:23:02+00:00",
+   "last_seen": "2026-10-07T17:23:02+00:00",
+   "summary": "Justin Drake recommended moving crypto assets to fresh addresses that keep their public keys hidden behind a hash.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "5df6d51634",
+   "title": "Trader Frogman Drained of $4 Million on the First Morning of TOKEN2049",
+   "date": "2026-10-07T16:57:34+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Trader Frogman Drained of $4 Million on the First Morning of TOKEN2049",
+     "url": "https://thedefiant.io/news/hacks/trader-frogman-drained-of-4-million-on-the-first-morning-of-token2049",
+     "date": "2026-10-07T16:57:34+00:00",
+     "summary": "Onchain records show the tokens left his Solana wallet at 4:14 a.m. Singapore time and were sold in four equal lots over the nine minutes that followed. The trader says he has found no sign of a breach on his phone or email"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:57:34+00:00",
+   "last_seen": "2026-10-07T16:57:34+00:00",
+   "summary": "Onchain records show the tokens left his Solana wallet at 4:14 a.m. Singapore time and were sold in four equal lots over the nine minutes that followed. The trader says he has found no sign of a breach on his phone or email",
+   "tags": [
+    "security",
+    "solana"
+   ]
+  },
+  {
+   "id": "fd77b719db",
+   "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
+   "date": "2026-10-07T16:56:56+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
+     "url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
+     "date": "2026-10-07T16:56:56+00:00",
+     "summary": "Government-labeled wallets sent 833.6 BTC to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed, but the stash behind it is the largest any government holds in Arkham's ranking."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:56:56+00:00",
+   "last_seen": "2026-10-07T16:56:56+00:00",
+   "summary": "Government-labeled wallets sent 833.6 BTC to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed, but the stash behind it is the largest any government holds in Arkham's ranking.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "ff2d243744",
+   "title": "ZKsync Opens Prividium Core Code Under Apache 2.0",
+   "date": "2026-10-07T16:56:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "ZKsync Opens Prividium Core Code Under Apache 2.0",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/zksync-opens-prividium-core-code-under-apache-2-0",
+     "date": "2026-10-07T16:56:12+00:00",
+     "summary": "The Sept. 8 release keeps enterprise tools commercial. Matter Labs says the Bundesbank is testing a self-hosted deployment."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:56:12+00:00",
+   "last_seen": "2026-10-07T16:56:12+00:00",
+   "summary": "The Sept. 8 release keeps enterprise tools commercial. Matter Labs says the Bundesbank is testing a self-hosted deployment.",
+   "tags": []
+  },
+  {
+   "id": "e5806f33c9",
+   "title": "GSR Commits $100 Million to Hare Vault Business",
+   "date": "2026-10-07T16:55:22+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "GSR Commits $100 Million to Hare Vault Business",
+     "url": "https://thedefiant.io/news/defi/gsr-commits-100-million-to-hare-vault-business",
+     "date": "2026-10-07T16:55:22+00:00",
+     "summary": "The first Aave-powered products will target stablecoins and tokenized gold, with outside investors expected to join GSR in the vaults. Opening dates are still to come."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:55:22+00:00",
+   "last_seen": "2026-10-07T16:55:22+00:00",
+   "summary": "The first Aave-powered products will target stablecoins and tokenized gold, with outside investors expected to join GSR in the vaults. Opening dates are still to come.",
+   "tags": []
+  },
+  {
+   "id": "fb72655657",
+   "title": "Injective\u2019s Meridian Upgrade Expands Controls for Tokenized Assets",
+   "date": "2026-10-07T16:54:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Injective\u2019s Meridian Upgrade Expands Controls for Tokenized Assets",
+     "url": "https://thedefiant.io/news/blockchains/injective-s-meridian-upgrade-expands-controls-for-tokenized-assets",
+     "date": "2026-10-07T16:54:42+00:00",
+     "summary": "The mainnet release begins private trading tests, while the broader CypherOS privacy platform is planned for a later chain upgrade."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:54:42+00:00",
+   "last_seen": "2026-10-07T16:54:42+00:00",
+   "summary": "The mainnet release begins private trading tests, while the broader CypherOS privacy platform is planned for a later chain upgrade.",
+   "tags": []
+  },
+  {
+   "id": "e52d59cf45",
+   "title": "Jack Dorsey\u2019s Block Gifts One Bitcoin to Lucky ComplexCon Attendee",
+   "date": "2026-10-07T16:52:51+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Jack Dorsey\u2019s Block Gifts One Bitcoin to Lucky ComplexCon Attendee",
+     "url": "https://bitcoinmagazine.com/news/block-gifts-bitcoin-at-complexcon",
+     "date": "2026-10-07T16:52:51+00:00",
+     "summary": "Bitcoin Magazine Jack Dorsey\u2019s Block Gifts One Bitcoin to Lucky ComplexCon Attendee Jack Dorsey\u2019s Block is pushing so hard for bitcoin adoption, it gifted 1 BTC to a lucky conference attendee at this year\u2019s ComplexCon in Los Angeles.&#160; The fintech giant attended the Complex..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:52:51+00:00",
+   "last_seen": "2026-10-07T16:52:51+00:00",
+   "summary": "Bitcoin Magazine Jack Dorsey\u2019s Block Gifts One Bitcoin to Lucky ComplexCon Attendee Jack Dorsey\u2019s Block is pushing so hard for bitcoin adoption, it gifted 1 BTC to a lucky conference attendee at this year\u2019s ComplexCon in Los Angeles.&#160; The fintech giant attended the Complex...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "4afca1c4a2",
+   "title": "The Quantum Issue: Bitcoin Quantum Exposure at Block 950,000",
+   "date": "2026-10-07T16:46:41+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "The Quantum Issue: Bitcoin Quantum Exposure at Block 950,000",
+     "url": "https://bitcoinmagazine.com/print/the-quantum-issue-bitcoin-quantum-exposure-at-block-950000",
+     "date": "2026-10-07T16:46:41+00:00",
+     "summary": "Bitcoin Magazine The Quantum Issue: Bitcoin Quantum Exposure at Block 950,000 From The Quantum Issue: a breakdown of how much of Bitcoin's supply is vulnerable to quantum attack, and the logistical questions of changing that. This post The Quantum Issue: Bitcoin Quantum Exposure..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:46:41+00:00",
+   "last_seen": "2026-10-07T16:46:41+00:00",
+   "summary": "Bitcoin Magazine The Quantum Issue: Bitcoin Quantum Exposure at Block 950,000 From The Quantum Issue: a breakdown of how much of Bitcoin's supply is vulnerable to quantum attack, and the logistical questions of changing that. This post The Quantum Issue: Bitcoin Quantum Exposure...",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "c155203911",
+   "title": "BitMine Will Stop Buying ETH at 5% of Supply, Tom Lee Says",
+   "date": "2026-10-07T16:42:59+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "BitMine Will Stop Buying ETH at 5% of Supply, Tom Lee Says",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitmine-will-stop-buying-eth-at-5-of-supply-tom-lee-says",
+     "date": "2026-10-07T16:42:59+00:00",
+     "summary": "The company reported 6,016,414 ETH as of Oct. 4, while Lee estimates roughly 100,000 tokens remain before it reaches the ceiling."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:42:59+00:00",
+   "last_seen": "2026-10-07T16:42:59+00:00",
+   "summary": "The company reported 6,016,414 ETH as of Oct. 4, while Lee estimates roughly 100,000 tokens remain before it reaches the ceiling.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "f80ec65769",
+   "title": "Hyperliquid Confirms Singapore Base but Says It Has No MAS License",
+   "date": "2026-10-07T16:42:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Hyperliquid Confirms Singapore Base but Says It Has No MAS License",
+     "url": "https://thedefiant.io/news/regulation/hyperliquid-confirms-singapore-base-but-says-it-has-no-mas-license",
+     "date": "2026-10-07T16:42:19+00:00",
+     "summary": "The FT reports that people familiar with MAS's thinking consider the decentralized venue outside its jurisdiction. Singapore's rules distinguish crypto derivatives on approved exchanges from those offered elsewhere."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:42:19+00:00",
+   "last_seen": "2026-10-07T16:42:19+00:00",
+   "summary": "The FT reports that people familiar with MAS's thinking consider the decentralized venue outside its jurisdiction. Singapore's rules distinguish crypto derivatives on approved exchanges from those offered elsewhere.",
+   "tags": []
+  },
+  {
+   "id": "9bac11c6c6",
+   "title": "Hunter Biden says LAPTOP market maker should \u2018buy it all back and burn it\u2019",
+   "date": "2026-10-07T16:40:51+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Hunter Biden says LAPTOP market maker should \u2018buy it all back and burn it\u2019",
+     "url": "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947",
+     "date": "2026-10-07T16:40:51+00:00",
+     "summary": "A commissioned report details thin liquidity and market-maker-linked gains during LAPTOP\u2019s launch."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:40:51+00:00",
+   "last_seen": "2026-10-07T16:40:51+00:00",
+   "summary": "A commissioned report details thin liquidity and market-maker-linked gains during LAPTOP\u2019s launch.",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "a4e962d9d8",
    "title": "NEAR Adds Robinhood Chain to Its Multichain App",

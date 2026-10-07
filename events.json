@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-06T23:32:51.449077+00:00",
+ "updated": "2026-10-07T00:46:57.614361+00:00",
  "events": [
+  {
+   "id": "0f8ea24813",
+   "title": "Open USD supply hits $666 million as 10 wallets trap most tokens",
+   "date": "2026-10-07T00:30:19+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Open USD supply hits $666 million as 10 wallets trap most tokens",
+     "url": "https://cryptoslate.com/open-usd-supply-hits-666-million-as-10-wallets-trap-most-tokens/",
+     "date": "2026-10-07T00:30:19+00:00",
+     "summary": "Crystal\u2019s October 5 snapshot found $396 million unmoved in eight Tempo wallets, while customer activity inside custody accounts remains unknown. The post Open USD supply hits $666 million as 10 wallets trap most tokens appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T00:30:19+00:00",
+   "last_seen": "2026-10-07T00:30:19+00:00",
+   "summary": "Crystal\u2019s October 5 snapshot found $396 million unmoved in eight Tempo wallets, while customer activity inside custody accounts remains unknown. The post Open USD supply hits $666 million as 10 wallets trap most tokens appeared first on CryptoSlate .",
+   "tags": []
+  },
   {
    "id": "a95aed59c2",
    "title": "Google Launches Nano Banana 2.1: Better Than Its Predecessor at Half the Price",
@@ -426,12 +445,19 @@
      "url": "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855",
      "date": "2026-10-06T20:11:30+00:00",
      "summary": "Abstract, the Pudgy Penguins-backed Ethereum L2, will shut down on Dec. 15. Users must bridge assets off before then."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Pudgy Penguins-backed Abstract to shut down after \u2018tens of millions\u2019 in losses",
+     "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T00:01:40+00:00",
+     "summary": "Igloo CEO Luca Netz said the company funded Abstract for 18 months but still failed to find product-market fit despite attracting major brands and a community of millions."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-06T20:11:30+00:00",
-   "last_seen": "2026-10-06T20:11:30+00:00",
-   "summary": "Abstract, the Pudgy Penguins-backed Ethereum L2, will shut down on Dec. 15. Users must bridge assets off before then.",
+   "last_seen": "2026-10-07T00:01:40+00:00",
+   "summary": "Igloo CEO Luca Netz said the company funded Abstract for 18 months but still failed to find product-market fit despite attracting major brands and a community of millions.",
    "tags": [
     "ethereum"
    ]

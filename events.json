@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-07T04:37:30.613570+00:00",
+ "updated": "2026-10-07T05:35:50.800614+00:00",
  "events": [
+  {
+   "id": "a51b82ea8b",
+   "title": "Kalshi\u2019s 15-min gold markets overtake Ether just weeks after launch",
+   "date": "2026-10-07T04:57:54+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Kalshi\u2019s 15-min gold markets overtake Ether just weeks after launch",
+     "url": "https://cointelegraph.com/news/kalshis-15-min-gold-markets-overtake-ether-just-weeks-after-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T04:57:54+00:00",
+     "summary": "Gold recorded 542 million contracts and an estimated $5 million in fees in September, surpassing Ether\u2019s 318 million contracts and $2.6 million, though Bitcoin remained far ahead."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T04:57:54+00:00",
+   "last_seen": "2026-10-07T04:57:54+00:00",
+   "summary": "Gold recorded 542 million contracts and an estimated $5 million in fees in September, surpassing Ether\u2019s 318 million contracts and $2.6 million, though Bitcoin remained far ahead.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
   {
    "id": "6dffdb81cb",
    "title": "Solana DvP settlement requires 100% upfront cash for every trade",

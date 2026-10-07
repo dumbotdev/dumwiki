@@ -1,6 +1,112 @@
 {
- "updated": "2026-10-07T19:34:36.406105+00:00",
+ "updated": "2026-10-07T20:35:03.610257+00:00",
  "events": [
+  {
+   "id": "ab2a83bfca",
+   "title": "Binance Adds JPMorgan and Eli Lilly bStocks as Margin Collateral",
+   "date": "2026-10-07T20:24:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Adds JPMorgan and Eli Lilly bStocks as Margin Collateral",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-adds-jpmorgan-and-eli-lilly-bstocks-as-margin-collateral",
+     "date": "2026-10-07T20:24:56+00:00",
+     "summary": "Four equity-linked tokens join the collateral lineup, with 50% collateral ratios in Cross Margin and Portfolio Margin and a separate tiered schedule for Portfolio Margin Pro."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T20:24:56+00:00",
+   "last_seen": "2026-10-07T20:24:56+00:00",
+   "summary": "Four equity-linked tokens join the collateral lineup, with 50% collateral ratios in Cross Margin and Portfolio Margin and a separate tiered schedule for Portfolio Margin Pro.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "530feeaf75",
+   "title": "CFTC Chair Says New Crypto Rulemaking Will Prevent Another FTX-Style Collapse",
+   "date": "2026-10-07T20:21:22+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "CFTC Chair Says New Crypto Rulemaking Will Prevent Another FTX-Style Collapse",
+     "url": "https://bitcoinmagazine.com/news/cftc-boss-says-rules-will-stop-another-ftx",
+     "date": "2026-10-07T20:21:22+00:00",
+     "summary": "Bitcoin Magazine CFTC Chair Says New Crypto Rulemaking Will Prevent Another FTX-Style Collapse CFTC Chair Mike Selig has said that the regulator wants to bring stringent regulations to the crypto world. This post CFTC Chair Says New Crypto Rulemaking Will Prevent Another..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T20:21:22+00:00",
+   "last_seen": "2026-10-07T20:21:22+00:00",
+   "summary": "Bitcoin Magazine CFTC Chair Says New Crypto Rulemaking Will Prevent Another FTX-Style Collapse CFTC Chair Mike Selig has said that the regulator wants to bring stringent regulations to the crypto world. This post CFTC Chair Says New Crypto Rulemaking Will Prevent Another...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "b3cf5be5c8",
+   "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
+   "date": "2026-10-07T20:16:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
+     "url": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
+     "date": "2026-10-07T20:16:04+00:00",
+     "summary": "The House Financial Services chairman credited the SEC and CFTC for stepping in after the Clarity Act's collapse but said only \"permanent law change\" can secure U.S. leadership."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T20:16:04+00:00",
+   "last_seen": "2026-10-07T20:16:04+00:00",
+   "summary": "The House Financial Services chairman credited the SEC and CFTC for stepping in after the Clarity Act's collapse but said only \"permanent law change\" can secure U.S. leadership.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "28958ba3cf",
+   "title": "XRP ETFs now hold $1.7 billion but took in just $4M last week",
+   "date": "2026-10-07T19:40:35+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP ETFs now hold $1.7 billion but took in just $4M last week",
+     "url": "https://cryptoslate.com/xrp-etfs-now-hold-1-7-billion-but-took-in-just-4m-last-week/",
+     "date": "2026-10-07T19:40:35+00:00",
+     "summary": "Franklin and Canary saw outflows on Oct. 6 even as the five tracked funds gained net inflows, while wallet migrations complicate the supply story. The post XRP ETFs now hold $1.7 billion but took in just $4M last week appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T19:40:35+00:00",
+   "last_seen": "2026-10-07T19:40:35+00:00",
+   "summary": "Franklin and Canary saw outflows on Oct. 6 even as the five tracked funds gained net inflows, while wallet migrations complicate the supply story. The post XRP ETFs now hold $1.7 billion but took in just $4M last week appeared first on CryptoSlate .",
+   "tags": [
+    "etfs"
+   ]
+  },
+  {
+   "id": "21f88dde1b",
+   "title": "US Investors Want to up Their Crypto Holdings: Charles Schwab",
+   "date": "2026-10-07T19:38:16+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "US Investors Want to up Their Crypto Holdings: Charles Schwab",
+     "url": "https://bitcoinmagazine.com/news/charles-schwab-says-investors-want-crypto",
+     "date": "2026-10-07T19:38:16+00:00",
+     "summary": "Bitcoin Magazine US Investors Want to up Their Crypto Holdings: Charles Schwab American investors who hold crypto want to keep adding over the next year, new research shows. This post US Investors Want to up Their Crypto Holdings: Charles Schwab first appeared on Bitcoin..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T19:38:16+00:00",
+   "last_seen": "2026-10-07T19:38:16+00:00",
+   "summary": "Bitcoin Magazine US Investors Want to up Their Crypto Holdings: Charles Schwab American investors who hold crypto want to keep adding over the next year, new research shows. This post US Investors Want to up Their Crypto Holdings: Charles Schwab first appeared on Bitcoin...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "a97ff6a52f",
    "title": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
@@ -821,12 +927,19 @@
      "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
      "date": "2026-10-07T14:27:37+00:00",
      "summary": "The National Bank of Kazakhstan said it will study a local currency-linked stablecoin and tokenized real-world assets with Tether."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Tether Signs Deal With Kazakhstan's Central Bank to Explore a Stablecoin and Tokenized Assets",
+     "url": "https://decrypt.co/380347/tether-kazakhstan-central-bank-stablecoin-tokenized-assets",
+     "date": "2026-10-07T19:46:04+00:00",
+     "summary": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-07T14:27:37+00:00",
-   "last_seen": "2026-10-07T14:27:37+00:00",
-   "summary": "The National Bank of Kazakhstan said it will study a local currency-linked stablecoin and tokenized real-world assets with Tether.",
+   "last_seen": "2026-10-07T19:46:04+00:00",
+   "summary": "Tether, issuer of the USDT stablecoin, will help Kazakhstan's central bank study a tenge-pegged token and put real-world assets on a blockchain.",
    "tags": [
     "stablecoins"
    ]

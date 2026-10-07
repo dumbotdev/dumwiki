@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-07T02:35:36.538013+00:00",
+ "updated": "2026-10-07T03:36:35.351976+00:00",
  "events": [
+  {
+   "id": "b19d1e270a",
+   "title": "Bitcoin Sinks Below $84,000 in Sudden Sell-Off",
+   "date": "2026-10-07T03:34:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Sinks Below $84,000 in Sudden Sell-Off",
+     "url": "https://thedefiant.io/news/markets/bitcoin-sinks-below-84-000-in-sudden-sell-off",
+     "date": "2026-10-07T03:34:42+00:00",
+     "summary": "Coinbase recorded an $83,551 low, while Coinalyze showed $83 million in bitcoin long liquidations over 24 hours."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T03:34:42+00:00",
+   "last_seen": "2026-10-07T03:34:42+00:00",
+   "summary": "Coinbase recorded an $83,551 low, while Coinalyze showed $83 million in bitcoin long liquidations over 24 hours.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "e356449599",
+   "title": "Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange",
+   "date": "2026-10-07T03:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange",
+     "url": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
+     "date": "2026-10-07T03:00:00+00:00",
+     "summary": "Coinbase plans to relaunch Coinbase Pro by year-end and has completed its Deribit integration, creating Coinbase Global Exchange."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T03:00:00+00:00",
+   "last_seen": "2026-10-07T03:00:00+00:00",
+   "summary": "Coinbase plans to relaunch Coinbase Pro by year-end and has completed its Deribit integration, creating Coinbase Global Exchange.",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "50115148a7",
    "title": "SEC drops to 2 members, and 1 hidden rule shifts crypto power",

@@ -1,6 +1,137 @@
 {
- "updated": "2026-10-07T14:36:49.539609+00:00",
+ "updated": "2026-10-07T15:44:08.601185+00:00",
  "events": [
+  {
+   "id": "0badb39d39",
+   "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",
+   "date": "2026-10-07T15:34:31+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",
+     "url": "https://decrypt.co/380290/bitcoin-dips-oil-shock-rattles-markets-what-happens-next",
+     "date": "2026-10-07T15:34:31+00:00",
+     "summary": "Bitcoin fell sharply as oil topped $101 and the 30-year Treasury yield hit its highest since 2002. The daily chart still leans bullish. The four-hour chart disagrees."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T15:34:31+00:00",
+   "last_seen": "2026-10-07T15:34:31+00:00",
+   "summary": "Bitcoin fell sharply as oil topped $101 and the 30-year Treasury yield hit its highest since 2002. The daily chart still leans bullish. The four-hour chart disagrees.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "macro"
+   ]
+  },
+  {
+   "id": "c20b0f244b",
+   "title": "XRP treasury SPAC drops 50% in a day ahead of Evernorth\u2019s Nasdaq debut",
+   "date": "2026-10-07T15:30:44+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP treasury SPAC drops 50% in a day ahead of Evernorth\u2019s Nasdaq debut",
+     "url": "https://cryptoslate.com/xrp-treasury-spac-drops-50-in-a-day-ahead-of-evernorths-nasdaq-debut/",
+     "date": "2026-10-07T15:30:44+00:00",
+     "summary": "Evernorth delayed its Nasdaq debut after shares of the SPAC taking the XRP treasury company public lost half their value. Armada Acquisition Corp. II, which currently trades under the XRPN ticker, closed Tuesday at $19.20, down 50.3% from $38.65 a day earlier, according to data..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T15:30:44+00:00",
+   "last_seen": "2026-10-07T15:30:44+00:00",
+   "summary": "Evernorth delayed its Nasdaq debut after shares of the SPAC taking the XRP treasury company public lost half their value. Armada Acquisition Corp. II, which currently trades under the XRPN ticker, closed Tuesday at $19.20, down 50.3% from $38.65 a day earlier, according to data...",
+   "tags": [
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "b9dea96151",
+   "title": "Gate bets all-in-one money app is crypto\u2019s biggest consumer trend this year and next",
+   "date": "2026-10-07T15:13:15+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Gate bets all-in-one money app is crypto\u2019s biggest consumer trend this year and next",
+     "url": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
+     "date": "2026-10-07T15:13:15+00:00",
+     "summary": "Gate rebrands around Gate Money, which combines accounts, asset conversion, savings and card payments as the exchange broadens beyond its trading base."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T15:13:15+00:00",
+   "last_seen": "2026-10-07T15:13:15+00:00",
+   "summary": "Gate rebrands around Gate Money, which combines accounts, asset conversion, savings and card payments as the exchange broadens beyond its trading base.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "26a04b1f4b",
+   "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
+   "date": "2026-10-07T15:06:14+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T15:06:14+00:00",
+     "summary": "Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T15:06:14+00:00",
+   "last_seen": "2026-10-07T15:06:14+00:00",
+   "summary": "Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "cf6b907ac2",
+   "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
+   "date": "2026-10-07T15:03:54+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
+     "url": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
+     "date": "2026-10-07T15:03:54+00:00",
+     "summary": "AI has made it cheap to link wallet addresses to the people behind them, and the permanence of the blockchain means records don\u2019t age out. Michael Zhao of Grayscale Research explains how Zcash\u2019s shielded transactions address this problem, and why close to 29% of all ZEC ever..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T15:03:54+00:00",
+   "last_seen": "2026-10-07T15:03:54+00:00",
+   "summary": "AI has made it cheap to link wallet addresses to the people behind them, and the permanence of the blockchain means records don\u2019t age out. Michael Zhao of Grayscale Research explains how Zcash\u2019s shielded transactions address this problem, and why close to 29% of all ZEC ever...",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "1fb3b1938b",
+   "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
+   "date": "2026-10-07T14:55:32+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
+     "url": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
+     "date": "2026-10-07T14:55:32+00:00",
+     "summary": "Speaking at Token2049 in Singapore, the chairman said Bitmine is about 100,000 ETH\u2014roughly six to seven weeks\u2014from its 5% cap, setting an end date on a buying spree that made it the world's largest Ethereum treasury."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T14:55:32+00:00",
+   "last_seen": "2026-10-07T14:55:32+00:00",
+   "summary": "Speaking at Token2049 in Singapore, the chairman said Bitmine is about 100,000 ETH\u2014roughly six to seven weeks\u2014from its 5% cap, setting an end date on a buying spree that made it the world's largest Ethereum treasury.",
+   "tags": [
+    "ethereum",
+    "macro"
+   ]
+  },
   {
    "id": "c4d18cea84",
    "title": "Tether tapped by Kazakhstan\u2019s central bank to explore stablecoin and tokenization",

@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-07T05:35:50.800614+00:00",
+ "updated": "2026-10-07T06:42:08.598653+00:00",
  "events": [
+  {
+   "id": "4702ab2be9",
+   "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+   "date": "2026-10-07T05:58:25+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",
+     "url": "https://www.coindesk.com/markets/2026/10/07/u-s-government-moves-over-usd100-million-in-btc-and-bnb-a-sale-hasn-t-been-confirmed",
+     "date": "2026-10-07T05:58:25+00:00",
+     "summary": "Wallets linked to the U.S. government moved millions in crypto on Tuesday, according to data tracked by Arkham."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T05:58:25+00:00",
+   "last_seen": "2026-10-07T05:58:25+00:00",
+   "summary": "Wallets linked to the U.S. government moved millions in crypto on Tuesday, according to data tracked by Arkham.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "a51b82ea8b",
    "title": "Kalshi\u2019s 15-min gold markets overtake Ether just weeks after launch",

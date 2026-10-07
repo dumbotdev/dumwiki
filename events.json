@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-07T13:37:40.447540+00:00",
+ "updated": "2026-10-07T14:36:49.539609+00:00",
  "events": [
+  {
+   "id": "c4d18cea84",
+   "title": "Tether tapped by Kazakhstan\u2019s central bank to explore stablecoin and tokenization",
+   "date": "2026-10-07T14:27:37+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Tether tapped by Kazakhstan\u2019s central bank to explore stablecoin and tokenization",
+     "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
+     "date": "2026-10-07T14:27:37+00:00",
+     "summary": "The National Bank of Kazakhstan said it will study a local currency-linked stablecoin and tokenized real-world assets with Tether."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T14:27:37+00:00",
+   "last_seen": "2026-10-07T14:27:37+00:00",
+   "summary": "The National Bank of Kazakhstan said it will study a local currency-linked stablecoin and tokenized real-world assets with Tether.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f6fa0eb6f6",
+   "title": "Moody\u2019s gives Sky Protocol B3 rating as institutional interest in USDS grows",
+   "date": "2026-10-07T14:20:01+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Moody\u2019s gives Sky Protocol B3 rating as institutional interest in USDS grows",
+     "url": "https://www.theblock.co/news/business/2026-10-07-moodys-sky-protocol-b3-rating-first-stablecoin-protocol-417931",
+     "date": "2026-10-07T14:20:01+00:00",
+     "summary": "Moody's assigned Sky a B3 issuer rating with a stable outlook, its first rating of a stablecoin protocol. Sky is also rated B- by S&P."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T14:20:01+00:00",
+   "last_seen": "2026-10-07T14:20:01+00:00",
+   "summary": "Moody's assigned Sky a B3 issuer rating with a stable outlook, its first rating of a stablecoin protocol. Sky is also rated B- by S&P.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "442adca01e",
    "title": "Polymarket\u2019s upgrade won\u2019t automatically move existing bets to new contracts",
@@ -19,6 +61,27 @@
    "last_seen": "2026-10-07T13:30:51+00:00",
    "summary": "App users follow approval prompts, while integrations must keep CTF support and add V2 identifiers and permissions. The post Polymarket\u2019s upgrade won\u2019t automatically move existing bets to new contracts appeared first on CryptoSlate .",
    "tags": []
+  },
+  {
+   "id": "b1b98f1ea4",
+   "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
+   "date": "2026-10-07T13:20:54+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
+     "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
+     "date": "2026-10-07T13:20:54+00:00",
+     "summary": "EU law enforcement agencies urged developers, exchanges, and users to initiate phased post-quantum migrations immediately to prevent future unauthorized fund transfers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T13:20:54+00:00",
+   "last_seen": "2026-10-07T13:20:54+00:00",
+   "summary": "EU law enforcement agencies urged developers, exchanges, and users to initiate phased post-quantum migrations immediately to prevent future unauthorized fund transfers.",
+   "tags": [
+    "regulation"
+   ]
   },
   {
    "id": "8df1f924b4",
@@ -732,12 +795,19 @@
      "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
      "date": "2026-10-07T08:53:27+00:00",
      "summary": "Robinhood has added bitcoin worth $25 million to its balance sheet, senior vice president and general manager of crypto and international, told the Starting Block Wednesday."
+    },
+    {
+     "source": "CryptoSlate",
+     "title": "Robinhood adds $25 million of Bitcoin to its own balance sheet",
+     "url": "https://cryptoslate.com/robinhood-adds-25-million-of-bitcoin-to-its-own-balance-sheet/",
+     "date": "2026-10-07T14:30:11+00:00",
+     "summary": "Robinhood is adding $25 million of Bitcoin to its balance sheet after executives previously debated whether corporate crypto holdings would benefit shareholders. Johann Kerbrat, Robinhood\u2019s senior vice president and general manager of crypto and international, announced the..."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-10-07T07:08:36+00:00",
-   "last_seen": "2026-10-07T08:53:27+00:00",
-   "summary": "Robinhood has added bitcoin worth $25 million to its balance sheet, senior vice president and general manager of crypto and international, told the Starting Block Wednesday.",
+   "last_seen": "2026-10-07T14:30:11+00:00",
+   "summary": "Robinhood is adding $25 million of Bitcoin to its balance sheet after executives previously debated whether corporate crypto holdings would benefit shareholders. Johann Kerbrat, Robinhood\u2019s senior vice president and general manager of crypto and international, announced the...",
    "tags": [
     "bitcoin"
    ]

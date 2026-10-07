@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-07T21:35:18.144444+00:00",
+ "updated": "2026-10-07T22:33:10.117884+00:00",
  "events": [
+  {
+   "id": "3eea814d43",
+   "title": "OpenAI math breakthroughs raise \u2018bunker mode\u2019 alarm from Bitcoin researcher Justin Drake",
+   "date": "2026-10-07T22:24:45+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "OpenAI math breakthroughs raise \u2018bunker mode\u2019 alarm from Bitcoin researcher Justin Drake",
+     "url": "https://cryptoslate.com/openais-math-breakthrough-raises-fears-ai-could-break-bitcoin-and-ethereum-security-within-months/",
+     "date": "2026-10-07T22:24:45+00:00",
+     "summary": "OpenAI\u2019s latest advances in mathematics have prompted a leading Ethereum researcher to warn that crypto\u2019s core wallet security could face an unexpected AI threat. On Oct. 7, Ethereum researcher Justin Drake urged the blockchain industry to prepare for what he described as..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T22:24:45+00:00",
+   "last_seen": "2026-10-07T22:24:45+00:00",
+   "summary": "OpenAI\u2019s latest advances in mathematics have prompted a leading Ethereum researcher to warn that crypto\u2019s core wallet security could face an unexpected AI threat. On Oct. 7, Ethereum researcher Justin Drake urged the blockchain industry to prepare for what he described as...",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "1d2f8cd13e",
+   "title": "Solana\u2019s Orca merges with Loopscale in push to finance AI, robotics and defense",
+   "date": "2026-10-07T22:01:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Solana\u2019s Orca merges with Loopscale in push to finance AI, robotics and defense",
+     "url": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
+     "date": "2026-10-07T22:01:02+00:00",
+     "summary": "Orca and Loopscale unite as Formation, targeting financing for AI, energy, robotics and defense."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T22:01:02+00:00",
+   "last_seen": "2026-10-07T22:01:02+00:00",
+   "summary": "Orca and Loopscale unite as Formation, targeting financing for AI, energy, robotics and defense.",
+   "tags": [
+    "ai",
+    "solana"
+   ]
+  },
+  {
+   "id": "63ed5bc5aa",
+   "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt\u2014Mathematicians Want Receipts",
+   "date": "2026-10-07T21:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt\u2014Mathematicians Want Receipts",
+     "url": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
+     "date": "2026-10-07T21:46:03+00:00",
+     "summary": "OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T21:46:03+00:00",
+   "last_seen": "2026-10-07T21:46:03+00:00",
+   "summary": "OpenAI posted 722 AI-written math manuscripts from an unreleased model, saying most came from a single prompt. Some mathematicians call the claims unverified.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "dc42c489b0",
    "title": "Ethereum Researcher Says AI May Break Encryption Before Quantum Does",

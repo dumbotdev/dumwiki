@@ -1,6 +1,112 @@
 {
- "updated": "2026-10-07T10:36:05.416098+00:00",
+ "updated": "2026-10-07T11:35:07.268544+00:00",
  "events": [
+  {
+   "id": "8ccc83d4d2",
+   "title": "Here\u2019s what bitcoin needs to break above $87,000",
+   "date": "2026-10-07T11:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Here\u2019s what bitcoin needs to break above $87,000",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
+     "date": "2026-10-07T11:30:00+00:00",
+     "summary": "Your day-ahead look for Oct. 7, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T11:30:00+00:00",
+   "last_seen": "2026-10-07T11:30:00+00:00",
+   "summary": "Your day-ahead look for Oct. 7, 2026",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "8aa49d7661",
+   "title": "NEAR\u2019s Polosukhin sees shrinking need for centralized exchanges as onchain tools expand",
+   "date": "2026-10-07T11:15:16+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "NEAR\u2019s Polosukhin sees shrinking need for centralized exchanges as onchain tools expand",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-07-nears-polosukhin-sees-shrinking-need-for-centralized-exchanges-as-onchain-tools-expand-417912",
+     "date": "2026-10-07T11:15:16+00:00",
+     "summary": "NEAR co-founder Illia Polosukhin said users no longer need centralized exchanges for \"a lot\" of crypto activity."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T11:15:16+00:00",
+   "last_seen": "2026-10-07T11:15:16+00:00",
+   "summary": "NEAR co-founder Illia Polosukhin said users no longer need centralized exchanges for \"a lot\" of crypto activity.",
+   "tags": []
+  },
+  {
+   "id": "cfd6b56e6b",
+   "title": "Live updates: BitMine announces ETH buying limit. Ether, bitcoin slide",
+   "date": "2026-10-07T11:09:50+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: BitMine announces ETH buying limit. Ether, bitcoin slide",
+     "url": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
+     "date": "2026-10-07T11:09:50+00:00",
+     "summary": "Traders betting on higher prices took the brunt of the forced selling, while oil climbed on Iranian tanker attacks. Fed minutes are due later Wednesday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T11:09:50+00:00",
+   "last_seen": "2026-10-07T11:09:50+00:00",
+   "summary": "Traders betting on higher prices took the brunt of the forced selling, while oil climbed on Iranian tanker attacks. Fed minutes are due later Wednesday.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "macro"
+   ]
+  },
+  {
+   "id": "2af600c195",
+   "title": "Europol Warns Crypto Wallets Are 'Primary Risk' for Quantum Attacks",
+   "date": "2026-10-07T10:49:16+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Europol Warns Crypto Wallets Are 'Primary Risk' for Quantum Attacks",
+     "url": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
+     "date": "2026-10-07T10:49:16+00:00",
+     "summary": "The EU police agency expects blockchains to adapt to the threat, while a second report weighs the risk of data stolen now and cracked later."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T10:49:16+00:00",
+   "last_seen": "2026-10-07T10:49:16+00:00",
+   "summary": "The EU police agency expects blockchains to adapt to the threat, while a second report weighs the risk of data stolen now and cracked later.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "9cfaaa0bbd",
+   "title": "Bitcoin\u2019s recovery stalls just short of rescuing its last underwater cohort",
+   "date": "2026-10-07T10:38:23+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin\u2019s recovery stalls just short of rescuing its last underwater cohort",
+     "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
+     "date": "2026-10-07T10:38:23+00:00",
+     "summary": "Yearly buyer cohorts and U.S. spot ETF investors offer a map of potential support and resistance as bitcoin retreats below $84,000."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T10:38:23+00:00",
+   "last_seen": "2026-10-07T10:38:23+00:00",
+   "summary": "Yearly buyer cohorts and U.S. spot ETF investors offer a map of potential support and resistance as bitcoin retreats below $84,000.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
   {
    "id": "bda18f1cdb",
    "title": "Liquidations jump to $547 million as oil rally hits crypto market",

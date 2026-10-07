@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-07T06:42:08.598653+00:00",
+ "updated": "2026-10-07T07:36:59.532074+00:00",
  "events": [
+  {
+   "id": "3cbe04ae2b",
+   "title": "DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid",
+   "date": "2026-10-07T07:10:59+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid",
+     "url": "https://cointelegraph.com/news/roman-storm-bitcoin-fog-doj-acquittal-bid?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T07:10:59+00:00",
+     "summary": "Prosecutors say a recent Bitcoin Fog appeals court ruling supports their argument that Tornado Cash activity in Manhattan was enough to establish venue for parts of Roman Storm\u2019s case in New York."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T07:10:59+00:00",
+   "last_seen": "2026-10-07T07:10:59+00:00",
+   "summary": "Prosecutors say a recent Bitcoin Fog appeals court ruling supports their argument that Tornado Cash activity in Manhattan was enough to establish venue for parts of Roman Storm\u2019s case in New York.",
+   "tags": [
+    "bitcoin",
+    "legal"
+   ]
+  },
+  {
+   "id": "9953505354",
+   "title": "Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push",
+   "date": "2026-10-07T07:08:36+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push",
+     "url": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
+     "date": "2026-10-07T07:08:36+00:00",
+     "summary": "Robinhood SVP Johann Kerbrat says the purchase was intended to signal the company's commitment to the crypto sector."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T07:08:36+00:00",
+   "last_seen": "2026-10-07T07:08:36+00:00",
+   "summary": "Robinhood SVP Johann Kerbrat says the purchase was intended to signal the company's commitment to the crypto sector.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "4702ab2be9",
    "title": "U.S. government moves over $100 million in BTC and BNB. A sale hasn't been confirmed",

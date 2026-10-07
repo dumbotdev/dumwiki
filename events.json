@@ -1,6 +1,260 @@
 {
- "updated": "2026-10-07T15:44:08.601185+00:00",
+ "updated": "2026-10-07T16:38:54.167525+00:00",
  "events": [
+  {
+   "id": "a4e962d9d8",
+   "title": "NEAR Adds Robinhood Chain to Its Multichain App",
+   "date": "2026-10-07T16:36:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "NEAR Adds Robinhood Chain to Its Multichain App",
+     "url": "https://thedefiant.io/news/blockchains/near-adds-robinhood-chain-to-its-multichain-app",
+     "date": "2026-10-07T16:36:16+00:00",
+     "summary": "ETH and USDG swaps use NEAR Intents to handle cross-chain routing, while bridge infrastructure still moves assets between networks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:36:16+00:00",
+   "last_seen": "2026-10-07T16:36:16+00:00",
+   "summary": "ETH and USDG swaps use NEAR Intents to handle cross-chain routing, while bridge infrastructure still moves assets between networks.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "121a812ffe",
+   "title": "Bitcoin price has risen 84% since January 2024 while Treasury yields climbed",
+   "date": "2026-10-07T16:35:21+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin price has risen 84% since January 2024 while Treasury yields climbed",
+     "url": "https://cryptoslate.com/bitcoin-faces-a-5-3-treasury-hurdle-but-its-post-etf-record-complicates-the-threat/",
+     "date": "2026-10-07T16:35:21+00:00",
+     "summary": "Bitcoin gained 84.2% from the January 2024 pre-ETF baseline through Oct. 5, 2026, even as nominal and real yields rose. The post Bitcoin price has risen 84% since January 2024 while Treasury yields climbed appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:35:21+00:00",
+   "last_seen": "2026-10-07T16:35:21+00:00",
+   "summary": "Bitcoin gained 84.2% from the January 2024 pre-ETF baseline through Oct. 5, 2026, even as nominal and real yields rose. The post Bitcoin price has risen 84% since January 2024 while Treasury yields climbed appeared first on CryptoSlate .",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "6cc64e89e1",
+   "title": "Cardano's Programmable Token Standard Goes Live With Issuer Controls",
+   "date": "2026-10-07T16:32:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Cardano's Programmable Token Standard Goes Live With Issuer Controls",
+     "url": "https://thedefiant.io/news/blockchains/cardano-s-programmable-token-standard-goes-live-with-issuer-controls",
+     "date": "2026-10-07T16:32:48+00:00",
+     "summary": "Wallets, DEXs and lending protocols need integration changes to handle the assets, whose issuer-selected rules can permit freezes and forced transfers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:32:48+00:00",
+   "last_seen": "2026-10-07T16:32:48+00:00",
+   "summary": "Wallets, DEXs and lending protocols need integration changes to handle the assets, whose issuer-selected rules can permit freezes and forced transfers.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "c466c0fa70",
+   "title": "Polygon taps TRON\u2019s $94 billion stablecoin supply for seamless cross-border transfers",
+   "date": "2026-10-07T16:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Polygon taps TRON\u2019s $94 billion stablecoin supply for seamless cross-border transfers",
+     "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
+     "date": "2026-10-07T16:30:00+00:00",
+     "summary": "Polygon said businesses can also move the world\u2019s largest stablecoin USDT between TRON and EVM networks without connecting to a wallet provider, bridge or fiat-ramp operator."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:30:00+00:00",
+   "last_seen": "2026-10-07T16:30:00+00:00",
+   "summary": "Polygon said businesses can also move the world\u2019s largest stablecoin USDT between TRON and EVM networks without connecting to a wallet provider, bridge or fiat-ramp operator.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "6cb5198ace",
+   "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
+   "date": "2026-10-07T16:25:38+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
+     "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T16:25:38+00:00",
+     "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:25:38+00:00",
+   "last_seen": "2026-10-07T16:25:38+00:00",
+   "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "c041a47544",
+   "title": "Russia\u2019s Sberbank Given Green Light to Custody Bitcoin",
+   "date": "2026-10-07T16:14:51+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Russia\u2019s Sberbank Given Green Light to Custody Bitcoin",
+     "url": "https://bitcoinmagazine.com/news/russia-sberbank-can-now-custody-bitcoin",
+     "date": "2026-10-07T16:14:51+00:00",
+     "summary": "Bitcoin Magazine Russia\u2019s Sberbank Given Green Light to Custody Bitcoin Russia\u2019s largest bank has announced it is the first in the country to have been approved to custody bitcoin.&#160; Sberbank said in an announcement Wednesday that the Bank of Russia gave the company the..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:14:51+00:00",
+   "last_seen": "2026-10-07T16:14:51+00:00",
+   "summary": "Bitcoin Magazine Russia\u2019s Sberbank Given Green Light to Custody Bitcoin Russia\u2019s largest bank has announced it is the first in the country to have been approved to custody bitcoin.&#160; Sberbank said in an announcement Wednesday that the Bank of Russia gave the company the...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "0a79d5c243",
+   "title": "Bitcoin Falls Under $83,000 on Oil Spike, Rising US Borrowing Costs",
+   "date": "2026-10-07T16:08:40+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Falls Under $83,000 on Oil Spike, Rising US Borrowing Costs",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-under-83000",
+     "date": "2026-10-07T16:08:40+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Falls Under $83,000 on Oil Spike, Rising US Borrowing Costs The price of bitcoin is down nearly 4% as most assets experience a selloff. This post Bitcoin Falls Under $83,000 on Oil Spike, Rising US Borrowing Costs first appeared on Bitcoin Magazine and..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:08:40+00:00",
+   "last_seen": "2026-10-07T16:08:40+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Falls Under $83,000 on Oil Spike, Rising US Borrowing Costs The price of bitcoin is down nearly 4% as most assets experience a selloff. This post Bitcoin Falls Under $83,000 on Oil Spike, Rising US Borrowing Costs first appeared on Bitcoin Magazine and...",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "d4abc05f7a",
+   "title": "House Finance panel chair says regulator actions on crypto \u2018fall short\u2019 of CLARITY bill",
+   "date": "2026-10-07T16:06:03+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "House Finance panel chair says regulator actions on crypto \u2018fall short\u2019 of CLARITY bill",
+     "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T16:06:03+00:00",
+     "summary": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren\u2019t sufficient"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:06:03+00:00",
+   "last_seen": "2026-10-07T16:06:03+00:00",
+   "summary": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren\u2019t sufficient",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "26d904c670",
+   "title": "Coplan Stops Short of Mentioning a Polymarket Token at TOKEN2049",
+   "date": "2026-10-07T16:00:29+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coplan Stops Short of Mentioning a Polymarket Token at TOKEN2049",
+     "url": "https://thedefiant.io/news/markets/coplan-stops-short-of-mentioning-a-polymarket-token-at-token2049",
+     "date": "2026-10-07T16:00:29+00:00",
+     "summary": "Traders read a Sunday post as a tease of POLY. Coplan described an onchain asset tied to the company's economics, named no structure and set no date"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T16:00:29+00:00",
+   "last_seen": "2026-10-07T16:00:29+00:00",
+   "summary": "Traders read a Sunday post as a tease of POLY. Coplan described an onchain asset tied to the company's economics, named no structure and set no date",
+   "tags": []
+  },
+  {
+   "id": "d31fdb0011",
+   "title": "Lido Unveils Morpho-Based Lending Protocol for Staking Loops",
+   "date": "2026-10-07T15:56:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Lido Unveils Morpho-Based Lending Protocol for Staking Loops",
+     "url": "https://thedefiant.io/news/defi/lido-unveils-morpho-based-lending-protocol-for-staking-loops",
+     "date": "2026-10-07T15:56:49+00:00",
+     "summary": "Lido Lend targets a fourth-quarter launch, with collateral screening and reliable exits among its design goals. DAO votes and technical disclosures are still ahead."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T15:56:49+00:00",
+   "last_seen": "2026-10-07T15:56:49+00:00",
+   "summary": "Lido Lend targets a fourth-quarter launch, with collateral screening and reliable exits among its design goals. DAO votes and technical disclosures are still ahead.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "c4259bbb2e",
+   "title": "Ledger Launches Wrapped-Bitcoin Loans Through Morpho",
+   "date": "2026-10-07T15:55:20+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ledger Launches Wrapped-Bitcoin Loans Through Morpho",
+     "url": "https://thedefiant.io/news/cefi/ledger-launches-wrapped-bitcoin-loans-through-morpho",
+     "date": "2026-10-07T15:55:20+00:00",
+     "summary": "The wallet app defaults to 50% loan-to-value and charges a 1% borrowing fee, while pledged collateral remains subject to liquidation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T15:55:20+00:00",
+   "last_seen": "2026-10-07T15:55:20+00:00",
+   "summary": "The wallet app defaults to 50% loan-to-value and charges a 1% borrowing fee, while pledged collateral remains subject to liquidation.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "97688b2d60",
+   "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
+   "date": "2026-10-07T15:36:11+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
+     "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T15:36:11+00:00",
+     "summary": "US institutions will gain access to Deribit\u2019s options and perpetual futures through Coinbase, with US retail options expected later this year."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T15:36:11+00:00",
+   "last_seen": "2026-10-07T15:36:11+00:00",
+   "summary": "US institutions will gain access to Deribit\u2019s options and perpetual futures through Coinbase, with US retail options expected later this year.",
+   "tags": [
+    "defi",
+    "exchanges"
+   ]
+  },
   {
    "id": "0badb39d39",
    "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",

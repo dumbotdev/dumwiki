@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-07T07:36:59.532074+00:00",
+ "updated": "2026-10-07T08:38:09.135219+00:00",
  "events": [
+  {
+   "id": "364f8e620d",
+   "title": "\u2018Every single exchange\u2019 will have to adopt public blockchain infrastructure to compete, Hyperliquid Policy Center CEO says",
+   "date": "2026-10-07T08:30:01+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "\u2018Every single exchange\u2019 will have to adopt public blockchain infrastructure to compete, Hyperliquid Policy Center CEO says",
+     "url": "https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896",
+     "date": "2026-10-07T08:30:01+00:00",
+     "summary": "Chervinsky says that beyond regulated perps, onchain markets need to enter the U.S. regulatory perimeter, a step he expects will happen soon."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T08:30:01+00:00",
+   "last_seen": "2026-10-07T08:30:01+00:00",
+   "summary": "Chervinsky says that beyond regulated perps, onchain markets need to enter the U.S. regulatory perimeter, a step he expects will happen soon.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "fa17606b98",
+   "title": "Russia clears first crypto exchanges, custodians under new law",
+   "date": "2026-10-07T08:06:35+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Russia clears first crypto exchanges, custodians under new law",
+     "url": "https://cointelegraph.com/news/russia-first-crypto-platforms-register-new-law?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T08:06:35+00:00",
+     "summary": "Russia registered its first crypto exchanges and custodians, including its largest bank, Sberbank, which plans to launch crypto products on Dec. 1."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T08:06:35+00:00",
+   "last_seen": "2026-10-07T08:06:35+00:00",
+   "summary": "Russia registered its first crypto exchanges and custodians, including its largest bank, Sberbank, which plans to launch crypto products on Dec. 1.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "efd41a6c2d",
+   "title": "Down but not out. Bitcoin's stair-step bullish trajectory is still intact",
+   "date": "2026-10-07T07:52:22+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Down but not out. Bitcoin's stair-step bullish trajectory is still intact",
+     "url": "https://www.coindesk.com/markets/2026/10/07/down-but-not-out-bitcoin-s-stair-step-bullish-trajectory-is-still-intact",
+     "date": "2026-10-07T07:52:22+00:00",
+     "summary": "Bitcoin dipped to around $84,200 on Wednesday but stayed inside its recent range, keeping the broader bullish stair-step trajectory intact."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T07:52:22+00:00",
+   "last_seen": "2026-10-07T07:52:22+00:00",
+   "summary": "Bitcoin dipped to around $84,200 on Wednesday but stayed inside its recent range, keeping the broader bullish stair-step trajectory intact.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "3cbe04ae2b",
    "title": "DOJ invokes Bitcoin Fog ruling in potential blow to Roman Storm acquittal bid",

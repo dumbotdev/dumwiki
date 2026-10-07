@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-07T18:41:05.605064+00:00",
+ "updated": "2026-10-07T19:34:36.406105+00:00",
  "events": [
+  {
+   "id": "a97ff6a52f",
+   "title": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
+   "date": "2026-10-07T19:10:31+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Hackers Used AI Agents to Raid a Megachurch's Database, Exposing 850,000 Members",
+     "url": "https://decrypt.co/380339/hackers-ai-agents-megachurch-database",
+     "date": "2026-10-07T19:10:31+00:00",
+     "summary": "Seoul's Yoido Full Gospel Church says data on 850,000 members may be compromised, and a security firm found signs AI helped run the attack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T19:10:31+00:00",
+   "last_seen": "2026-10-07T19:10:31+00:00",
+   "summary": "Seoul's Yoido Full Gospel Church says data on 850,000 members may be compromised, and a security firm found signs AI helped run the attack.",
+   "tags": [
+    "ai",
+    "security"
+   ]
+  },
+  {
+   "id": "e378a7e5b6",
+   "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
+   "date": "2026-10-07T18:59:32+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
+     "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
+     "date": "2026-10-07T18:59:32+00:00",
+     "summary": "The discussions would see Payward supply liquidity for crypto trading as major banks deepen their involvement in digital assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T18:59:32+00:00",
+   "last_seen": "2026-10-07T18:59:32+00:00",
+   "summary": "The discussions would see Payward supply liquidity for crypto trading as major banks deepen their involvement in digital assets.",
+   "tags": [
+    "defi",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "108749f0ba",
+   "title": "Ethereum falls 6%, leaving $1.35 billion in long bets at risk of liquidation",
+   "date": "2026-10-07T18:40:43+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum falls 6%, leaving $1.35 billion in long bets at risk of liquidation",
+     "url": "https://cryptoslate.com/ethereum-falls-6-leaving-1-35-billion-in-long-bets-at-risk-of-liquidation/",
+     "date": "2026-10-07T18:40:43+00:00",
+     "summary": "Ethereum\u2019s slide toward $2,500 has put about $1.35 billion of leveraged long positions at increasing risk of liquidation. CoinMarketCap data showed roughly $1.35 billion of ETH long exposure sat at liquidation levels below the prevailing price, compared with about $999.78..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T18:40:43+00:00",
+   "last_seen": "2026-10-07T18:40:43+00:00",
+   "summary": "Ethereum\u2019s slide toward $2,500 has put about $1.35 billion of leveraged long positions at increasing risk of liquidation. CoinMarketCap data showed roughly $1.35 billion of ETH long exposure sat at liquidation levels below the prevailing price, compared with about $999.78...",
+   "tags": [
+    "ethereum",
+    "markets"
+   ]
+  },
   {
    "id": "e6f1a5d6ec",
    "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",

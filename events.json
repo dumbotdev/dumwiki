@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-07T01:35:24.029746+00:00",
+ "updated": "2026-10-07T02:35:36.538013+00:00",
  "events": [
+  {
+   "id": "50115148a7",
+   "title": "SEC drops to 2 members, and 1 hidden rule shifts crypto power",
+   "date": "2026-10-07T02:20:47+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "SEC drops to 2 members, and 1 hidden rule shifts crypto power",
+     "url": "https://cryptoslate.com/sec-drops-to-2-members-and-1-hidden-rule-shifts-crypto-power/",
+     "date": "2026-10-07T02:20:47+00:00",
+     "summary": "The new exception permits one eligible commissioner to form a quorum when every other sitting member is disqualified from the particular matter. The post SEC drops to 2 members, and 1 hidden rule shifts crypto power appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T02:20:47+00:00",
+   "last_seen": "2026-10-07T02:20:47+00:00",
+   "summary": "The new exception permits one eligible commissioner to form a quorum when every other sitting member is disqualified from the particular matter. The post SEC drops to 2 members, and 1 hidden rule shifts crypto power appeared first on CryptoSlate .",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "488126d816",
+   "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
+   "date": "2026-10-07T01:48:53+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application",
+     "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T01:48:53+00:00",
+     "summary": "Trading on the platform has largely been suspended since June as its operator awaited MiCA authorization, with the company now looking to regulated partners to restart services."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T01:48:53+00:00",
+   "last_seen": "2026-10-07T01:48:53+00:00",
+   "summary": "Trading on the platform has largely been suspended since June as its operator awaited MiCA authorization, with the company now looking to regulated partners to restart services.",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
   {
    "id": "0f8ea24813",
    "title": "Open USD supply hits $666 million as 10 wallets trap most tokens",

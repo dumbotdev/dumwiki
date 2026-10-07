@@ -1,6 +1,114 @@
 {
- "updated": "2026-10-07T08:38:09.135219+00:00",
+ "updated": "2026-10-07T09:36:58.563584+00:00",
  "events": [
+  {
+   "id": "3a1907c67c",
+   "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
+   "date": "2026-10-07T09:09:06+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
+     "url": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
+     "date": "2026-10-07T09:09:06+00:00",
+     "summary": "The stablecoin payments company\u2019s proposed New York trust bank would custody digital assets and dollars, manage stablecoin reserves and issue and redeem dollar-backed tokens."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T09:09:06+00:00",
+   "last_seen": "2026-10-07T09:09:06+00:00",
+   "summary": "The stablecoin payments company\u2019s proposed New York trust bank would custody digital assets and dollars, manage stablecoin reserves and issue and redeem dollar-backed tokens.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "faab5dd565",
+   "title": "Bitcoin ETFs rebound with $119M inflow as Ether extends losses",
+   "date": "2026-10-07T09:03:38+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin ETFs rebound with $119M inflow as Ether extends losses",
+     "url": "https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T09:03:38+00:00",
+     "summary": "Bitcoin ETFs returned to net inflows with $119 million on Tuesday despite falling prices, while Ether funds reached a six-session outflow streak totaling $408 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T09:03:38+00:00",
+   "last_seen": "2026-10-07T09:03:38+00:00",
+   "summary": "Bitcoin ETFs returned to net inflows with $119 million on Tuesday despite falling prices, while Ether funds reached a six-session outflow streak totaling $408 million.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "2eab15e7bc",
+   "title": "Ledger Launches Bitcoin Loans, Letting Holders Borrow Without Selling",
+   "date": "2026-10-07T09:01:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Ledger Launches Bitcoin Loans, Letting Holders Borrow Without Selling",
+     "url": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
+     "date": "2026-10-07T09:01:03+00:00",
+     "summary": "Unveiled at TOKEN2049 Singapore, the Morpho-powered Crypto Loan feature lets users borrow stablecoins against wrapped Bitcoin while keeping private keys and final approval on their hardware device."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T09:01:03+00:00",
+   "last_seen": "2026-10-07T09:01:03+00:00",
+   "summary": "Unveiled at TOKEN2049 Singapore, the Morpho-powered Crypto Loan feature lets users borrow stablecoins against wrapped Bitcoin while keeping private keys and final approval on their hardware device.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "f0405d2bcf",
+   "title": "Cardano\u2019s price breakout could trigger the next ADA squeeze or trap leveraged bulls",
+   "date": "2026-10-07T09:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Cardano\u2019s price breakout could trigger the next ADA squeeze or trap leveraged bulls",
+     "url": "https://cryptoslate.com/cardanos-price-breakout-could-trigger-the-next-ada-squeeze-or-trap-leveraged-bulls/",
+     "date": "2026-10-07T09:00:00+00:00",
+     "summary": "Cardano's value has climbed about 42% since Sept. 16, taking ADA from roughly $0.19 to $0.27, and the positioning behind the move has expanded faster than the dollar liquidity beneath it. Santiment counted 413 transactions of $100,000 or more on Oct. 5, the highest since June 4..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T09:00:00+00:00",
+   "last_seen": "2026-10-07T09:00:00+00:00",
+   "summary": "Cardano's value has climbed about 42% since Sept. 16, taking ADA from roughly $0.19 to $0.27, and the positioning behind the move has expanded faster than the dollar liquidity beneath it. Santiment counted 413 transactions of $100,000 or more on Oct. 5, the highest since June 4...",
+   "tags": [
+    "defi",
+    "markets"
+   ]
+  },
+  {
+   "id": "bf893b7ab2",
+   "title": "BitMine sets 5% Ether supply \u2018hard cap\u2019 as accumulation target nears",
+   "date": "2026-10-07T08:50:02+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "BitMine sets 5% Ether supply \u2018hard cap\u2019 as accumulation target nears",
+     "url": "https://cointelegraph.com/news/bitmine-ether-5-percent-supply-hard-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-07T08:50:02+00:00",
+     "summary": "Tom Lee said BitMine will not accumulate Ether past 5% of the supply, turning the company\u2019s target into a ceiling."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-07T08:50:02+00:00",
+   "last_seen": "2026-10-07T08:50:02+00:00",
+   "summary": "Tom Lee said BitMine will not accumulate Ether past 5% of the supply, turning the company\u2019s target into a ceiling.",
+   "tags": [
+    "ethereum"
+   ]
+  },
   {
    "id": "364f8e620d",
    "title": "\u2018Every single exchange\u2019 will have to adopt public blockchain infrastructure to compete, Hyperliquid Policy Center CEO says",
@@ -97,12 +205,19 @@
      "url": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
      "date": "2026-10-07T07:08:36+00:00",
      "summary": "Robinhood SVP Johann Kerbrat says the purchase was intended to signal the company's commitment to the crypto sector."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "Robinhood adds bitcoin worth $25 million to its balance sheet",
+     "url": "https://www.coindesk.com/markets/2026/10/07/robinhood-adds-bitcoin-worth-usd25-million-to-its-balance-sheet-report",
+     "date": "2026-10-07T08:53:27+00:00",
+     "summary": "Robinhood has added bitcoin worth $25 million to its balance sheet, senior vice president and general manager of crypto and international, told the Starting Block Wednesday."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-07T07:08:36+00:00",
-   "last_seen": "2026-10-07T07:08:36+00:00",
-   "summary": "Robinhood SVP Johann Kerbrat says the purchase was intended to signal the company's commitment to the crypto sector.",
+   "last_seen": "2026-10-07T08:53:27+00:00",
+   "summary": "Robinhood has added bitcoin worth $25 million to its balance sheet, senior vice president and general manager of crypto and international, told the Starting Block Wednesday.",
    "tags": [
     "bitcoin"
    ]

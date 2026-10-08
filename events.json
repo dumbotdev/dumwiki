@@ -1,6 +1,157 @@
 {
- "updated": "2026-10-08T11:36:12.023683+00:00",
+ "updated": "2026-10-08T12:45:02.127457+00:00",
  "events": [
+  {
+   "id": "c9717df1a3",
+   "title": "AI Video Game Mod Mashups Are Taking Off\u2014Here Are the Wackiest Examples",
+   "date": "2026-10-08T12:15:51+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "AI Video Game Mod Mashups Are Taking Off\u2014Here Are the Wackiest Examples",
+     "url": "https://decrypt.co/380407/ai-video-game-mod-mashups-are-taking-off-here-are-the-wackiest-examples",
+     "date": "2026-10-08T12:15:51+00:00",
+     "summary": "Minecraft in Elden Ring, Skate in Call of Duty, and Spider-Man in Gotham. AI vibe coders are creating crazy video game mashup mods."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T12:15:51+00:00",
+   "last_seen": "2026-10-08T12:15:51+00:00",
+   "summary": "Minecraft in Elden Ring, Skate in Call of Duty, and Spider-Man in Gotham. AI vibe coders are creating crazy video game mashup mods.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "0f479d4bd5",
+   "title": "Sui\u2019s Hashi to launch with $500M in Bitcoin finance commitments",
+   "date": "2026-10-08T12:03:28+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Sui\u2019s Hashi to launch with $500M in Bitcoin finance commitments",
+     "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T12:03:28+00:00",
+     "summary": "Hashi has more than $500M in commitments ahead of mainnet launch, while Anchorage offers institutions settlement and self-custody."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T12:03:28+00:00",
+   "last_seen": "2026-10-08T12:03:28+00:00",
+   "summary": "Hashi has more than $500M in commitments ahead of mainnet launch, while Anchorage offers institutions settlement and self-custody.",
+   "tags": [
+    "bitcoin",
+    "legal"
+   ]
+  },
+  {
+   "id": "4a46080aea",
+   "title": "THORChain made 63% of its record $3 million September income during the Bitget hack-linked trading surge",
+   "date": "2026-10-08T11:55:09+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "THORChain made 63% of its record $3 million September income during the Bitget hack-linked trading surge",
+     "url": "https://cryptoslate.com/thorchain-made-63-of-its-record-3-million-september-income-during-the-bitget-hack-linked-trading-surge/",
+     "date": "2026-10-08T11:55:09+00:00",
+     "summary": "Five days generated roughly 63% of September system income across all activity, while wallet counts barely reacted. The post THORChain made 63% of its record $3 million September income during the Bitget hack-linked trading surge appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T11:55:09+00:00",
+   "last_seen": "2026-10-08T11:55:09+00:00",
+   "summary": "Five days generated roughly 63% of September system income across all activity, while wallet counts barely reacted. The post THORChain made 63% of its record $3 million September income during the Bitget hack-linked trading surge appeared first on CryptoSlate .",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "431a4c109d",
+   "title": "Bitcoin and ether holders urged to enter \u2018bunker mode\u2019 against possible AI attacks",
+   "date": "2026-10-08T11:47:16+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin and ether holders urged to enter \u2018bunker mode\u2019 against possible AI attacks",
+     "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-and-ether-holders-urged-to-prepare-bunker-mode-against-possible-ai-attacks",
+     "date": "2026-10-08T11:47:16+00:00",
+     "summary": "Ethereum researchers warned AI could break the signatures guarding bitcoin, ether and the tokens built on them \"in months, not years\" in the worst case, well before quantum computers arrive."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T11:47:16+00:00",
+   "last_seen": "2026-10-08T11:47:16+00:00",
+   "summary": "Ethereum researchers warned AI could break the signatures guarding bitcoin, ether and the tokens built on them \"in months, not years\" in the worst case, well before quantum computers arrive.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "b36a666a08",
+   "title": "Uranium Finance Hacker Who Bought Pok\u00e9mon and Magic Cards Convicted Over $50M Theft",
+   "date": "2026-10-08T11:37:17+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Uranium Finance Hacker Who Bought Pok\u00e9mon and Magic Cards Convicted Over $50M Theft",
+     "url": "https://decrypt.co/380401/uranium-finance-hacker-who-bought-pokemon-and-magic-cards-convicted-over-50m-theft",
+     "date": "2026-10-08T11:37:17+00:00",
+     "summary": "Jonathan Spalletta also spent stolen crypto on a Roman coin marking Julius Caesar's assassination and moon-flown Wright brothers fabric."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T11:37:17+00:00",
+   "last_seen": "2026-10-08T11:37:17+00:00",
+   "summary": "Jonathan Spalletta also spent stolen crypto on a Roman coin marking Julius Caesar's assassination and moon-flown Wright brothers fabric.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "db10c9f223",
+   "title": "NUVA brings U.S. residential mortgage credit to offshore investors",
+   "date": "2026-10-08T11:36:25+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "NUVA brings U.S. residential mortgage credit to offshore investors",
+     "url": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
+     "date": "2026-10-08T11:36:25+00:00",
+     "summary": "The company's HOME token gives eligible investors exposure to a vault of U.S. home equity lines of credit starting from 1 USDC and targets a 7% annual yield."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T11:36:25+00:00",
+   "last_seen": "2026-10-08T11:36:25+00:00",
+   "summary": "The company's HOME token gives eligible investors exposure to a vault of U.S. home equity lines of credit starting from 1 USDC and targets a 7% annual yield.",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "7f541cf34f",
+   "title": "Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million",
+   "date": "2026-10-08T11:30:19+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin mined for pennies in 2010 moves after 16 years, now worth $8.5 million",
+     "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million",
+     "date": "2026-10-08T11:30:19+00:00",
+     "summary": "The 100 BTC came directly from two mining rewards created during Bitcoin\u2019s \u201cSatoshi era\u201d and had not moved for more than 16 years."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T11:30:19+00:00",
+   "last_seen": "2026-10-08T11:30:19+00:00",
+   "summary": "The 100 BTC came directly from two mining rewards created during Bitcoin\u2019s \u201cSatoshi era\u201d and had not moved for more than 16 years.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "3e30cacd7b",
    "title": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
@@ -793,11 +944,18 @@
      "url": "https://decrypt.co/380363/ethereum-researcher-ai-break-encryption-before-quantum",
      "date": "2026-10-07T21:16:03+00:00",
      "summary": "Ethereum Foundation researcher Justin Drake urged holders to calmly move funds to unused addresses, warning that AI-driven math could break crypto signatures before quantum computers do."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Ethereum Researcher Says AI May Break Crypto Encryption Before Quantum",
+     "url": "https://decrypt.co/380402/morning-minute-ethereum-researcher-says-ai-may-break-crypto-encryption-before-quantum",
+     "date": "2026-10-08T11:48:13+00:00",
+     "summary": "Justin Drake is calling for crypto holders to start calmly planning for \u201cBunker Mode.\" But reactions so far haven\u2019t been too calm."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-10-07T21:16:03+00:00",
-   "last_seen": "2026-10-07T21:16:03+00:00",
+   "last_seen": "2026-10-08T11:48:13+00:00",
    "summary": "Ethereum Foundation researcher Justin Drake urged holders to calmly move funds to unused addresses, warning that AI-driven math could break crypto signatures before quantum computers do.",
    "tags": [
     "ai",

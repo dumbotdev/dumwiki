@@ -1,6 +1,199 @@
 {
- "updated": "2026-10-08T15:38:45.910373+00:00",
+ "updated": "2026-10-08T16:39:39.120141+00:00",
  "events": [
+  {
+   "id": "b48b91d81a",
+   "title": "IMF warns tokenized markets could amplify financial risks",
+   "date": "2026-10-08T16:25:06+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "IMF warns tokenized markets could amplify financial risks",
+     "url": "https://cointelegraph.com/news/imf-flags-volatility-liquidity-risks-tokenized-markets-grow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T16:25:06+00:00",
+     "summary": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T16:25:06+00:00",
+   "last_seen": "2026-10-08T16:25:06+00:00",
+   "summary": "The global financial institution found tokenized equity markets less liquid and more volatile than traditional markets, despite growing demand for 24/7 trading.",
+   "tags": []
+  },
+  {
+   "id": "6cfc452e3e",
+   "title": "Gnosis Bridges Adopt Fast Confirmation for Ethereum Deposits",
+   "date": "2026-10-08T16:20:53+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Gnosis Bridges Adopt Fast Confirmation for Ethereum Deposits",
+     "url": "https://thedefiant.io/news/infrastructure/gnosis-bridges-adopt-fast-confirmation-for-ethereum-deposits",
+     "date": "2026-10-08T16:20:53+00:00",
+     "summary": "Users and apps need no changes, but the faster processing relies on different security guarantees from Ethereum finality."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T16:20:53+00:00",
+   "last_seen": "2026-10-08T16:20:53+00:00",
+   "summary": "Users and apps need no changes, but the faster processing relies on different security guarantees from Ethereum finality.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "70f37c96e8",
+   "title": "MiCA rejection forces German crypto platform into operational overhaul",
+   "date": "2026-10-08T16:20:21+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "MiCA rejection forces German crypto platform into operational overhaul",
+     "url": "https://cryptoslate.com/mica-rejection-forces-german-crypto-platform-into-operational-overhaul/",
+     "date": "2026-10-08T16:20:21+00:00",
+     "summary": "BaFin rejected operator futurum bank AG's application, and a proposed restart depends on unfinished arrangements with regulated partners. The post MiCA rejection forces German crypto platform into operational overhaul appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T16:20:21+00:00",
+   "last_seen": "2026-10-08T16:20:21+00:00",
+   "summary": "BaFin rejected operator futurum bank AG's application, and a proposed restart depends on unfinished arrangements with regulated partners. The post MiCA rejection forces German crypto platform into operational overhaul appeared first on CryptoSlate .",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "adc5f80f59",
+   "title": "From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half",
+   "date": "2026-10-08T16:14:46+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "From Uptober to Spooky Szn? Bitcoin Cuts September Gains in Half",
+     "url": "https://decrypt.co/380462/uptober-spooky-szn-bitcoin-cuts-september-gains",
+     "date": "2026-10-08T16:14:46+00:00",
+     "summary": "Day traders are selling, leveraged longs are getting flushed and ETF money is heading for the door. The daily chart still holds the line, but its cushion is shrinking."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T16:14:46+00:00",
+   "last_seen": "2026-10-08T16:14:46+00:00",
+   "summary": "Day traders are selling, leveraged longs are getting flushed and ETF money is heading for the door. The daily chart still holds the line, but its cushion is shrinking.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "4f6287ad0c",
+   "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes",
+   "date": "2026-10-08T15:55:55+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin nears 3-week low as oil heads higher on Iran strike woes",
+     "url": "https://cointelegraph.com/markets/bitcoin-nears-3-week-low-as-oil-heads-higher-on-iran-strike-woes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T15:55:55+00:00",
+     "summary": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T15:55:55+00:00",
+   "last_seen": "2026-10-08T15:55:55+00:00",
+   "summary": "Bitcoin dipped below $81,000 and oil prices gained after reports that military confrontation between the US and Iran could return.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "476ff1571c",
+   "title": "Standard Chartered to Offer Digital Asset Custody in Singapore",
+   "date": "2026-10-08T15:46:05+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Standard Chartered to Offer Digital Asset Custody in Singapore",
+     "url": "https://bitcoinmagazine.com/news/standard-chartered-singapore-custody-plans",
+     "date": "2026-10-08T15:46:05+00:00",
+     "summary": "Bitcoin Magazine Standard Chartered to Offer Digital Asset Custody in Singapore The bank already offers bitcoin custody in other countries. This post Standard Chartered to Offer Digital Asset Custody in Singapore first appeared on Bitcoin Magazine and is written by Mathew Di..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T15:46:05+00:00",
+   "last_seen": "2026-10-08T15:46:05+00:00",
+   "summary": "Bitcoin Magazine Standard Chartered to Offer Digital Asset Custody in Singapore The bank already offers bitcoin custody in other countries. This post Standard Chartered to Offer Digital Asset Custody in Singapore first appeared on Bitcoin Magazine and is written by Mathew Di...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "3bfeac904d",
+   "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
+   "date": "2026-10-08T15:43:04+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "U.S. government moves $1 billion in bitcoin from Bitfinex hack wallet, no sale indicated",
+     "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
+     "date": "2026-10-08T15:43:04+00:00",
+     "summary": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T15:43:04+00:00",
+   "last_seen": "2026-10-08T15:43:04+00:00",
+   "summary": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "ce716c58fa",
+   "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
+   "date": "2026-10-08T15:42:16+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Decrypt Money Accounts on Solana to Power The Information Exchange",
+     "url": "https://decrypt.co/380436/decrypt-money-accounts-on-solana-to-power-the-information-exchange",
+     "date": "2026-10-08T15:42:16+00:00",
+     "summary": "One self-custodial platform to power Earn, Swaps, Predictions and Perps on Decrypt, as it builds out its financial and intelligence market."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T15:42:16+00:00",
+   "last_seen": "2026-10-08T15:42:16+00:00",
+   "summary": "One self-custodial platform to power Earn, Swaps, Predictions and Perps on Decrypt, as it builds out its financial and intelligence market.",
+   "tags": [
+    "exchanges",
+    "solana"
+   ]
+  },
+  {
+   "id": "326d4251bb",
+   "title": "Bitcoin ETFs suffer biggest exodus since June as Ethereum withdrawals hit nine-month high",
+   "date": "2026-10-08T15:40:34+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin ETFs suffer biggest exodus since June as Ethereum withdrawals hit nine-month high",
+     "url": "https://cryptoslate.com/bitcoin-etfs-suffer-biggest-exodus-since-june-as-ethereum-withdrawals-hit-nine-month-high/",
+     "date": "2026-10-08T15:40:34+00:00",
+     "summary": "US spot Bitcoin and Ethereum exchange-traded funds saw their steepest withdrawals in months as the cryptocurrency market continued to decline. Data from SoSoValue shows that the 12 listed US Bitcoin ETFs lost $484.9 million on Oct. 7, their largest single-day outflow since June..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T15:40:34+00:00",
+   "last_seen": "2026-10-08T15:40:34+00:00",
+   "summary": "US spot Bitcoin and Ethereum exchange-traded funds saw their steepest withdrawals in months as the cryptocurrency market continued to decline. Data from SoSoValue shows that the 12 listed US Bitcoin ETFs lost $484.9 million on Oct. 7, their largest single-day outflow since June...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
   {
    "id": "20e08cb237",
    "title": "Astroport Ends Tokenholder Governance on Neutron and Terra",

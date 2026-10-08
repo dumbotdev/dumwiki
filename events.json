@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-08T19:35:33.728906+00:00",
+ "updated": "2026-10-08T20:37:50.596849+00:00",
  "events": [
+  {
+   "id": "19b9a8bbe0",
+   "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
+   "date": "2026-10-08T20:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Ethereum Test Network Raises Block Limit to Over 3x Its Current Capacity",
+     "url": "https://decrypt.co/380538/ethereum-test-raises-block-limit-3x-current-capacity",
+     "date": "2026-10-08T20:16:03+00:00",
+     "summary": "Ethereum's Sepolia test network activated Glamsterdam on October 6 with a block gas limit near 200 million, over three times mainnet's 60 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T20:16:03+00:00",
+   "last_seen": "2026-10-08T20:16:03+00:00",
+   "summary": "Ethereum's Sepolia test network activated Glamsterdam on October 6 with a block gas limit near 200 million, over three times mainnet's 60 million.",
+   "tags": [
+    "ethereum",
+    "funding"
+   ]
+  },
+  {
+   "id": "b57af54130",
+   "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+   "date": "2026-10-08T19:46:15+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+     "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
+     "date": "2026-10-08T19:46:15+00:00",
+     "summary": "The research firm sees tokenized stocks, bonds and loans creating new markets for trading and lending, with fee-generating platforms and companies poised to benefit."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T19:46:15+00:00",
+   "last_seen": "2026-10-08T19:46:15+00:00",
+   "summary": "The research firm sees tokenized stocks, bonds and loans creating new markets for trading and lending, with fee-generating platforms and companies poised to benefit.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "29b8e095a6",
+   "title": "Why XRP\u2019s 63 billion circulating tokens don\u2019t tell buyers what\u2019s for sale",
+   "date": "2026-10-08T19:40:44+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Why XRP\u2019s 63 billion circulating tokens don\u2019t tell buyers what\u2019s for sale",
+     "url": "https://cryptoslate.com/xrp-has-63-billion-circulating-tokens-but-how-many-are-actually-for-sale/",
+     "date": "2026-10-08T19:40:44+00:00",
+     "summary": "An Oct. 7 snapshot counts 21.98 billion XRP in exchange custody, while executable supply depends on sell orders and price tolerance. The post Why XRP\u2019s 63 billion circulating tokens don\u2019t tell buyers what\u2019s for sale appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T19:40:44+00:00",
+   "last_seen": "2026-10-08T19:40:44+00:00",
+   "summary": "An Oct. 7 snapshot counts 21.98 billion XRP in exchange custody, while executable supply depends on sell orders and price tolerance. The post Why XRP\u2019s 63 billion circulating tokens don\u2019t tell buyers what\u2019s for sale appeared first on CryptoSlate .",
+   "tags": [
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "4c0b3b2e9b",
+   "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+   "date": "2026-10-08T19:31:38+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+     "url": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T19:31:38+00:00",
+     "summary": "Securitize\u2019s new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-the-clock trading."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T19:31:38+00:00",
+   "last_seen": "2026-10-08T19:31:38+00:00",
+   "summary": "Securitize\u2019s new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-the-clock trading.",
+   "tags": [
+    "solana"
+   ]
+  },
   {
    "id": "32a2784746",
    "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",

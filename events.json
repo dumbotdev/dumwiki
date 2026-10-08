@@ -1,6 +1,148 @@
 {
- "updated": "2026-10-08T18:41:23.519865+00:00",
+ "updated": "2026-10-08T19:35:33.728906+00:00",
  "events": [
+  {
+   "id": "32a2784746",
+   "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
+   "date": "2026-10-08T19:31:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "NFL Sides With States Against Kalshi in Supreme Court Prediction Market Fight",
+     "url": "https://decrypt.co/380530/nfl-kalshi-supreme-court-prediction-market",
+     "date": "2026-10-08T19:31:03+00:00",
+     "summary": "The NFL urged the Supreme Court to resolve a circuit split over whether states can regulate sports contracts on prediction markets, arguing they're gambling, not federally regulated swaps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T19:31:03+00:00",
+   "last_seen": "2026-10-08T19:31:03+00:00",
+   "summary": "The NFL urged the Supreme Court to resolve a circuit split over whether states can regulate sports contracts on prediction markets, arguing they're gambling, not federally regulated swaps.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "8c3dab0cee",
+   "title": "Aave Lists December AUSD PT on Monad With 93% Borrowing Limit",
+   "date": "2026-10-08T19:26:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aave Lists December AUSD PT on Monad With 93% Borrowing Limit",
+     "url": "https://thedefiant.io/news/defi/aave-lists-december-ausd-pt-on-monad-with-93-borrowing-limit",
+     "date": "2026-10-08T19:26:12+00:00",
+     "summary": "The new reserve has filled its 30 million-token supply cap, with Aave displaying $29.67 million supplied."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T19:26:12+00:00",
+   "last_seen": "2026-10-08T19:26:12+00:00",
+   "summary": "The new reserve has filled its 30 million-token supply cap, with Aave displaying $29.67 million supplied.",
+   "tags": []
+  },
+  {
+   "id": "8d7491d9a2",
+   "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi",
+   "date": "2026-10-08T19:17:18+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi",
+     "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T19:17:18+00:00",
+     "summary": "According to the league, Kalshi and other prediction markets \u201cthreaten game integrity\u201d because many event contracts are \u201chighly susceptible to manipulation.\u201d"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T19:17:18+00:00",
+   "last_seen": "2026-10-08T19:17:18+00:00",
+   "summary": "According to the league, Kalshi and other prediction markets \u201cthreaten game integrity\u201d because many event contracts are \u201chighly susceptible to manipulation.\u201d",
+   "tags": []
+  },
+  {
+   "id": "762e0e7648",
+   "title": "AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez",
+   "date": "2026-10-08T19:17:12+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez",
+     "url": "https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration",
+     "date": "2026-10-08T19:17:12+00:00",
+     "summary": "Bitcoin Magazine AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez Bitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership inquiries rising roughly 14-fold as developers, and..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T19:17:12+00:00",
+   "last_seen": "2026-10-08T19:17:12+00:00",
+   "summary": "Bitcoin Magazine AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez Bitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership inquiries rising roughly 14-fold as developers, and...",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "6d11f4f973",
+   "title": "WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions",
+   "date": "2026-10-08T19:10:07+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions",
+     "url": "https://bitcoinmagazine.com/news/whitebit-integrates-lightning-network",
+     "date": "2026-10-08T19:10:07+00:00",
+     "summary": "Bitcoin Magazine WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions The Swiss crypto exchange has onboarded the Lightning Network to help people withdraw and deposit bitcoin with ease. This post WhiteBIT Integrates Lightning Network for Fast and Cheap..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T19:10:07+00:00",
+   "last_seen": "2026-10-08T19:10:07+00:00",
+   "summary": "Bitcoin Magazine WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions The Swiss crypto exchange has onboarded the Lightning Network to help people withdraw and deposit bitcoin with ease. This post WhiteBIT Integrates Lightning Network for Fast and Cheap...",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "3cc1916b0d",
+   "title": "JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4",
+   "date": "2026-10-08T18:46:59+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4",
+     "url": "https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115",
+     "date": "2026-10-08T18:46:59+00:00",
+     "summary": "JPMorgan analysts estimate around $50 billion has flowed into digital assets this year, equal to an annualized pace of $66 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T18:46:59+00:00",
+   "last_seen": "2026-10-08T18:46:59+00:00",
+   "summary": "JPMorgan analysts estimate around $50 billion has flowed into digital assets this year, equal to an annualized pace of $66 billion.",
+   "tags": []
+  },
+  {
+   "id": "4f50857e5a",
+   "title": "Europol says crypto\u2019s quantum upgrade could take years and urges work to start now",
+   "date": "2026-10-08T18:40:23+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Europol says crypto\u2019s quantum upgrade could take years and urges work to start now",
+     "url": "https://cryptoslate.com/europol-urges-crypto-to-prepare-wallet-upgrades-now-warning-migration-could-take-years/",
+     "date": "2026-10-08T18:40:23+00:00",
+     "summary": "Wallet keys are the main exposure, Europol says, with users urged to migrate as quantum-resistant wallets become available. The post Europol says crypto\u2019s quantum upgrade could take years and urges work to start now appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T18:40:23+00:00",
+   "last_seen": "2026-10-08T18:40:23+00:00",
+   "summary": "Wallet keys are the main exposure, Europol says, with users urged to migrate as quantum-resistant wallets become available. The post Europol says crypto\u2019s quantum upgrade could take years and urges work to start now appeared first on CryptoSlate .",
+   "tags": []
+  },
   {
    "id": "c263beb2cb",
    "title": "Aptos Reaffirms 210 Million APT Lock as Insider Unlock Cycle Nears End",
@@ -1214,12 +1356,19 @@
      "url": "https://www.coindesk.com/tech/2026/10/08/bitcoin-mined-for-pennies-in-2010-moves-after-16-years-now-worth-usd8-5-million",
      "date": "2026-10-08T11:30:19+00:00",
      "summary": "The 100 BTC came directly from two mining rewards created during Bitcoin\u2019s \u201cSatoshi era\u201d and had not moved for more than 16 years."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Satoshi-Era Bitcoin Worth $8.3 Million Moves After 16 Years",
+     "url": "https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years",
+     "date": "2026-10-08T18:46:04+00:00",
+     "summary": "A batch of 100.02 BTC mined in July 2010 moved Wednesday after 16 years. It's worth about $8.3 million, but nothing in the transaction shows who owns it."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-08T11:30:19+00:00",
-   "last_seen": "2026-10-08T11:30:19+00:00",
-   "summary": "The 100 BTC came directly from two mining rewards created during Bitcoin\u2019s \u201cSatoshi era\u201d and had not moved for more than 16 years.",
+   "last_seen": "2026-10-08T18:46:04+00:00",
+   "summary": "A batch of 100.02 BTC mined in July 2010 moved Wednesday after 16 years. It's worth about $8.3 million, but nothing in the transaction shows who owns it.",
    "tags": [
     "bitcoin"
    ]

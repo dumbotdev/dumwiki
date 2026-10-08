@@ -1,6 +1,47 @@
 {
- "updated": "2026-10-08T21:35:43.797274+00:00",
+ "updated": "2026-10-08T22:35:17.428030+00:00",
  "events": [
+  {
+   "id": "4ad3aa7170",
+   "title": "PumpFun is making millions from a market where 81% of memecoins crashed 90%",
+   "date": "2026-10-08T22:00:06+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "PumpFun is making millions from a market where 81% of memecoins crashed 90%",
+     "url": "https://cryptoslate.com/pumpfun-is-making-millions-from-a-market-where-81-of-memecoins-crashed-90/",
+     "date": "2026-10-08T22:00:06+00:00",
+     "summary": "Talos reports rare observed recoveries, while platform fees and PUMP burns offer no automatic route back to break-even for other tokens. The post PumpFun is making millions from a market where 81% of memecoins crashed 90% appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T22:00:06+00:00",
+   "last_seen": "2026-10-08T22:00:06+00:00",
+   "summary": "Talos reports rare observed recoveries, while platform fees and PUMP burns offer no automatic route back to break-even for other tokens. The post PumpFun is making millions from a market where 81% of memecoins crashed 90% appeared first on CryptoSlate .",
+   "tags": []
+  },
+  {
+   "id": "41545f57fe",
+   "title": "AI Startup Manus Raises $500 Million After China Nixed Meta\u2019s $2 Billion Acquisition",
+   "date": "2026-10-08T21:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "AI Startup Manus Raises $500 Million After China Nixed Meta\u2019s $2 Billion Acquisition",
+     "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
+     "date": "2026-10-08T21:46:03+00:00",
+     "summary": "Manus built a self-driving AI assistant before the hype, sold itself to Meta, then watched Beijing unwind the deal. Its first fresh money since: more than $500 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T21:46:03+00:00",
+   "last_seen": "2026-10-08T21:46:03+00:00",
+   "summary": "Manus built a self-driving AI assistant before the hype, sold itself to Meta, then watched Beijing unwind the deal. Its first fresh money since: more than $500 million.",
+   "tags": [
+    "ai",
+    "funding"
+   ]
+  },
   {
    "id": "dd948e54d9",
    "title": "Netflix\u2019s FTX Love Story Trailer Draws Mockery on Crypto X",

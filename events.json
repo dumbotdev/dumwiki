@@ -1,6 +1,175 @@
 {
- "updated": "2026-10-08T13:39:35.093126+00:00",
+ "updated": "2026-10-08T14:39:37.636314+00:00",
  "events": [
+  {
+   "id": "783f353920",
+   "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
+   "date": "2026-10-08T14:24:24+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
+     "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
+     "date": "2026-10-08T14:24:24+00:00",
+     "summary": "Veridian became the first company to use Cardano\u2019s new programmable-token standard for its equity, though the tokenized shares are not being offered to the public."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T14:24:24+00:00",
+   "last_seen": "2026-10-08T14:24:24+00:00",
+   "summary": "Veridian became the first company to use Cardano\u2019s new programmable-token standard for its equity, though the tokenized shares are not being offered to the public.",
+   "tags": []
+  },
+  {
+   "id": "3cb36b401e",
+   "title": "Securitize launches 1:1-backed tokenized stocks, starting with Apple, Nvidia, Strategy and more",
+   "date": "2026-10-08T14:04:39+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Securitize launches 1:1-backed tokenized stocks, starting with Apple, Nvidia, Strategy and more",
+     "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
+     "date": "2026-10-08T14:04:39+00:00",
+     "summary": "Securitize launches tokenized US stocks on Solana, backed 1:1 by real shares with dividends and USDC settlement."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T14:04:39+00:00",
+   "last_seen": "2026-10-08T14:04:39+00:00",
+   "summary": "Securitize launches tokenized US stocks on Solana, backed 1:1 by real shares with dividends and USDC settlement.",
+   "tags": [
+    "legal",
+    "solana",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "aafab2664e",
+   "title": "Over 6 million bitcoin sit behind exposed public keys as AI warnings mount",
+   "date": "2026-10-08T14:03:20+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Over 6 million bitcoin sit behind exposed public keys as AI warnings mount",
+     "url": "https://www.coindesk.com/markets/2026/10/08/over-6-million-bitcoin-sit-behind-exposed-public-keys-as-ai-warnings-mount",
+     "date": "2026-10-08T14:03:20+00:00",
+     "summary": "Glassnode co-founder's latest figures show growing public-key exposure as Justin Drake urges preparations for potential AI attacks on wallet cryptography."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T14:03:20+00:00",
+   "last_seen": "2026-10-08T14:03:20+00:00",
+   "summary": "Glassnode co-founder's latest figures show growing public-key exposure as Justin Drake urges preparations for potential AI attacks on wallet cryptography.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "f189059670",
+   "title": "Citi predicts Bitcoin going back to $113,000. Here\u2019s what the buying data shows",
+   "date": "2026-10-08T14:00:36+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Citi predicts Bitcoin going back to $113,000. Here\u2019s what the buying data shows",
+     "url": "https://cryptoslate.com/bitcoin-needs-a-36-rise-to-hit-citis-target-we-tested-the-demand-case/",
+     "date": "2026-10-08T14:00:36+00:00",
+     "summary": "The twelve-month forecast sits below Bitcoin's prior record, while fresh Glassnode data leave broad buying participation uncertain. The post Citi predicts Bitcoin going back to $113,000. Here\u2019s what the buying data shows appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T14:00:36+00:00",
+   "last_seen": "2026-10-08T14:00:36+00:00",
+   "summary": "The twelve-month forecast sits below Bitcoin's prior record, while fresh Glassnode data leave broad buying participation uncertain. The post Citi predicts Bitcoin going back to $113,000. Here\u2019s what the buying data shows appeared first on CryptoSlate .",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "862112f756",
+   "title": "Why Bitcoin\u2019s Liquidity Advantage Matters as Institutions Move In",
+   "date": "2026-10-08T13:49:39+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Why Bitcoin\u2019s Liquidity Advantage Matters as Institutions Move In",
+     "url": "https://bitcoinmagazine.com/markets/why-bitcoins-liquidity-advantage-matters-as-institutions-move-in",
+     "date": "2026-10-08T13:49:39+00:00",
+     "summary": "Bitcoin Magazine Why Bitcoin\u2019s Liquidity Advantage Matters as Institutions Move In SALT Lending CEO Shawn Owen explains why Bitcoin\u2019s portability gives it an advantage over traditional assets and why institutional adoption may only be getting started. This post Why Bitcoin\u2019s..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T13:49:39+00:00",
+   "last_seen": "2026-10-08T13:49:39+00:00",
+   "summary": "Bitcoin Magazine Why Bitcoin\u2019s Liquidity Advantage Matters as Institutions Move In SALT Lending CEO Shawn Owen explains why Bitcoin\u2019s portability gives it an advantage over traditional assets and why institutional adoption may only be getting started. This post Why Bitcoin\u2019s...",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
+  {
+   "id": "11f57fdcfd",
+   "title": "Shawn Owen: Bitcoin\u2019s First Institutional Cycle Has Arrived",
+   "date": "2026-10-08T13:46:59+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Shawn Owen: Bitcoin\u2019s First Institutional Cycle Has Arrived",
+     "url": "https://bitcoinmagazine.com/videos/shawn-owen-bitcoins-first-institutional-cycle-has-arrived",
+     "date": "2026-10-08T13:46:59+00:00",
+     "summary": "Bitcoin Magazine Shawn Owen: Bitcoin&#8217;s First Institutional Cycle Has Arrived Banks are racing to adopt Bitcoin, and SALT Lending CEO Shawn Owen says FOMO is real. He joins Grace and Sean to break down BTC lending and institutional shift. This post Shawn Owen:..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T13:46:59+00:00",
+   "last_seen": "2026-10-08T13:46:59+00:00",
+   "summary": "Bitcoin Magazine Shawn Owen: Bitcoin&#8217;s First Institutional Cycle Has Arrived Banks are racing to adopt Bitcoin, and SALT Lending CEO Shawn Owen says FOMO is real. He joins Grace and Sean to break down BTC lending and institutional shift. This post Shawn Owen:...",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
+  {
+   "id": "c1c8883b8b",
+   "title": "\u2018No going back\u2019 for institutions moving toward tokenized onchain future, says Fidelity",
+   "date": "2026-10-08T13:42:27+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "\u2018No going back\u2019 for institutions moving toward tokenized onchain future, says Fidelity",
+     "url": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T13:42:27+00:00",
+     "summary": "Tokenization offers structural advantages to financial institutions and helps asset managers reach new markets, according to Fidelity\u2019s head of digital asset strategists."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T13:42:27+00:00",
+   "last_seen": "2026-10-08T13:42:27+00:00",
+   "summary": "Tokenization offers structural advantages to financial institutions and helps asset managers reach new markets, according to Fidelity\u2019s head of digital asset strategists.",
+   "tags": []
+  },
+  {
+   "id": "89568f2a1e",
+   "title": "Josh Young: \u201cMassive\u201d Currency Debasement to Come From Oil\u2019s Run Higher",
+   "date": "2026-10-08T13:39:35+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Josh Young: \u201cMassive\u201d Currency Debasement to Come From Oil\u2019s Run Higher",
+     "url": "https://bitcoinmagazine.com/videos/josh-young-massive-currency-debasement-to-come-from-oils-run-higher",
+     "date": "2026-10-08T13:39:35+00:00",
+     "summary": "Bitcoin Magazine Josh Young: \u201cMassive\u201d Currency Debasement to Come From Oil\u2019s Run Higher Global oil stocks are depleting fast. Bison's Josh Young warns of low usable reserves, $105 fair-value WTI, and hidden upside in undervalued energy assets. This post Josh Young: \u201cMassive\u201d..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T13:39:35+00:00",
+   "last_seen": "2026-10-08T13:39:35+00:00",
+   "summary": "Bitcoin Magazine Josh Young: \u201cMassive\u201d Currency Debasement to Come From Oil\u2019s Run Higher Global oil stocks are depleting fast. Bison's Josh Young warns of low usable reserves, $105 fair-value WTI, and hidden upside in undervalued energy assets. This post Josh Young: \u201cMassive\u201d...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "6d4121b269",
    "title": "Crypto lending rises again\u2026 but have they solved the risks?",

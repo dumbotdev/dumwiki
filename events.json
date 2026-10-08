@@ -1,6 +1,217 @@
 {
- "updated": "2026-10-08T14:39:37.636314+00:00",
+ "updated": "2026-10-08T15:38:45.910373+00:00",
  "events": [
+  {
+   "id": "20e08cb237",
+   "title": "Astroport Ends Tokenholder Governance on Neutron and Terra",
+   "date": "2026-10-08T15:38:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Astroport Ends Tokenholder Governance on Neutron and Terra",
+     "url": "https://thedefiant.io/news/defi/astroport-ends-tokenholder-governance-on-neutron-and-terra",
+     "date": "2026-10-08T15:38:13+00:00",
+     "summary": "Contributors will run the protocol through DAO DAO organizations, while vxASTRO holders retain the normal unlock process and ASTRO emissions go to zero."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T15:38:13+00:00",
+   "last_seen": "2026-10-08T15:38:13+00:00",
+   "summary": "Contributors will run the protocol through DAO DAO organizations, while vxASTRO holders retain the normal unlock process and ASTRO emissions go to zero.",
+   "tags": []
+  },
+  {
+   "id": "3c82f8ebb5",
+   "title": "Wallet Shifts 150 Million USDT From Aave to Spark Savings",
+   "date": "2026-10-08T15:26:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Wallet Shifts 150 Million USDT From Aave to Spark Savings",
+     "url": "https://thedefiant.io/news/defi/wallet-shifts-150-million-usdt-from-aave-to-spark-savings",
+     "date": "2026-10-08T15:26:51+00:00",
+     "summary": "Aave\u2019s Ethereum USDT reserve showed $169.54 million in available liquidity on Oct. 8, after withdrawals coincided with double-digit borrowing rates."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T15:26:51+00:00",
+   "last_seen": "2026-10-08T15:26:51+00:00",
+   "summary": "Aave\u2019s Ethereum USDT reserve showed $169.54 million in available liquidity on Oct. 8, after withdrawals coincided with double-digit borrowing rates.",
+   "tags": [
+    "defi",
+    "ethereum",
+    "macro",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "9267c6113e",
+   "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+   "date": "2026-10-08T15:23:26+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "EU securities regulator gives crypto platforms 3 months to remove unauthorized stablecoins",
+     "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
+     "date": "2026-10-08T15:23:26+00:00",
+     "summary": "ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules, while national authorities oversee existing customer holdings."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T15:23:26+00:00",
+   "last_seen": "2026-10-08T15:23:26+00:00",
+   "summary": "ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules, while national authorities oversee existing customer holdings.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "6e45e24db8",
+   "title": "Understanding Digital Money and Digital Yield",
+   "date": "2026-10-08T15:22:29+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Understanding Digital Money and Digital Yield",
+     "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/digital-money-digital-yield",
+     "date": "2026-10-08T15:22:29+00:00",
+     "summary": "Bitcoin Magazine Understanding Digital Money and Digital Yield This is an in-depth overview of the nascent business models built on top of the preferred securities of Bitcoin balance sheets. This post Understanding Digital Money and Digital Yield first appeared on Bitcoin..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T15:22:29+00:00",
+   "last_seen": "2026-10-08T15:22:29+00:00",
+   "summary": "Bitcoin Magazine Understanding Digital Money and Digital Yield This is an in-depth overview of the nascent business models built on top of the preferred securities of Bitcoin balance sheets. This post Understanding Digital Money and Digital Yield first appeared on Bitcoin...",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
+  {
+   "id": "1982161213",
+   "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
+   "date": "2026-10-08T15:11:15+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto for Advisors: Digital assets outran stocks and gold in Q3",
+     "url": "https://www.coindesk.com/coindesk-indices/2026/10/08/crypto-for-advisors-digital-assets-outran-stocks-and-gold-in-q3",
+     "date": "2026-10-08T15:11:15+00:00",
+     "summary": ""
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T15:11:15+00:00",
+   "last_seen": "2026-10-08T15:11:15+00:00",
+   "summary": "",
+   "tags": []
+  },
+  {
+   "id": "c7e54dfdbe",
+   "title": "Glassnode Co-Founder Counts 6.26 Million BTC With Exposed Public Keys",
+   "date": "2026-10-08T15:11:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Glassnode Co-Founder Counts 6.26 Million BTC With Exposed Public Keys",
+     "url": "https://thedefiant.io/news/security/glassnode-co-founder-counts-6-26-million-btc-with-exposed-public-keys",
+     "date": "2026-10-08T15:11:08+00:00",
+     "summary": "The exposed balance has risen by 222,000 BTC since May, while total Bitcoin supply grew by 64,000 BTC."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T15:11:08+00:00",
+   "last_seen": "2026-10-08T15:11:08+00:00",
+   "summary": "The exposed balance has risen by 222,000 BTC since May, while total Bitcoin supply grew by 64,000 BTC.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "cc4d2f8163",
+   "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+   "date": "2026-10-08T15:10:49+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Securitize Brings Nvidia, Apple and Amazon Onchain With Tokenized Stocks on Solana",
+     "url": "https://decrypt.co/380458/securitize-nvidia-apple-amazon-tokenized-stocks-solana",
+     "date": "2026-10-08T15:10:49+00:00",
+     "summary": "The new Securitize Stocks product launches with 12 names backed one-to-one by real shares\u2014preserving dividends and voting rights\u2014trading first on Solana, with NYSE and OKX-ICE venues planned."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T15:10:49+00:00",
+   "last_seen": "2026-10-08T15:10:49+00:00",
+   "summary": "The new Securitize Stocks product launches with 12 names backed one-to-one by real shares\u2014preserving dividends and voting rights\u2014trading first on Solana, with NYSE and OKX-ICE venues planned.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "7020d10228",
+   "title": "A $1,000 MetaMask incident could turn Ethereum\u2019s staking queue into a $5 billion traffic jam",
+   "date": "2026-10-08T15:00:46+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "A $1,000 MetaMask incident could turn Ethereum\u2019s staking queue into a $5 billion traffic jam",
+     "url": "https://cryptoslate.com/a-1000-metamask-incident-could-turn-ethereums-staking-queue-into-a-5-billion-traffic-jam/",
+     "date": "2026-10-08T15:00:46+00:00",
+     "summary": "A full return of Bitquery\u2019s identified exit cohort as new demand would create a $5.04 billion combined workload, while Lido expects gradual re-entry. The post A $1,000 MetaMask incident could turn Ethereum\u2019s staking queue into a $5 billion traffic jam appeared first on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T15:00:46+00:00",
+   "last_seen": "2026-10-08T15:00:46+00:00",
+   "summary": "A full return of Bitquery\u2019s identified exit cohort as new demand would create a $5.04 billion combined workload, while Lido expects gradual re-entry. The post A $1,000 MetaMask incident could turn Ethereum\u2019s staking queue into a $5 billion traffic jam appeared first on...",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "b14c5edbb7",
+   "title": "Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range",
+   "date": "2026-10-08T14:52:27+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin pulls back as analysts forecast $80,000-$90,000 Q4 trading range",
+     "url": "https://www.theblock.co/news/markets/2026-10-08-bitcoin-q4-forecast-418052",
+     "date": "2026-10-08T14:52:27+00:00",
+     "summary": "Bitcoin traded near $82,000 on Thursday, with analysts at QCP expecting a fourth-quarter range of $80,000 to $90,000."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T14:52:27+00:00",
+   "last_seen": "2026-10-08T14:52:27+00:00",
+   "summary": "Bitcoin traded near $82,000 on Thursday, with analysts at QCP expecting a fourth-quarter range of $80,000 to $90,000.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "23f01abeb4",
+   "title": "\u2018Bunker mode\u2019 is a far greater challenge for institutions than individual crypto holders",
+   "date": "2026-10-08T14:39:48+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "\u2018Bunker mode\u2019 is a far greater challenge for institutions than individual crypto holders",
+     "url": "https://www.coindesk.com/tech/2026/10/08/bunker-mode-is-a-far-greater-challenge-for-institutions-than-individual-crypto-holders",
+     "date": "2026-10-08T14:39:48+00:00",
+     "summary": "As crypto debates whether holders should move funds before AI or quantum advances expose wallet keys, custody firms face a separate problem: upgrading systems before an emergency migration."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T14:39:48+00:00",
+   "last_seen": "2026-10-08T14:39:48+00:00",
+   "summary": "As crypto debates whether holders should move funds before AI or quantum advances expose wallet keys, custody firms face a separate problem: upgrading systems before an emergency migration.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "783f353920",
    "title": "Cardano Foundation spins out Veridian, tokenizes its shares on new standard",
@@ -12,11 +223,18 @@
      "url": "https://www.coindesk.com/business/2026/10/08/cardano-foundation-spins-out-veridian-tokenizes-its-shares-on-new-standard",
      "date": "2026-10-08T14:24:24+00:00",
      "summary": "Veridian became the first company to use Cardano\u2019s new programmable-token standard for its equity, though the tokenized shares are not being offered to the public."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Cardano Foundation Spins Out Veridian With Tokenized Equity",
+     "url": "https://thedefiant.io/news/infrastructure/cardano-foundation-spins-out-veridian-with-tokenized-equity",
+     "date": "2026-10-08T15:10:30+00:00",
+     "summary": "The digital identity company plans to seek strategic partners and investors in 2027, while Foundation executives retain board roles."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-08T14:24:24+00:00",
-   "last_seen": "2026-10-08T14:24:24+00:00",
+   "last_seen": "2026-10-08T15:10:30+00:00",
    "summary": "Veridian became the first company to use Cardano\u2019s new programmable-token standard for its equity, though the tokenized shares are not being offered to the public.",
    "tags": []
   },
@@ -31,12 +249,19 @@
      "url": "https://www.theblock.co/news/markets/2026-10-08-securitize-launches-tokenized-us-stocks-solana-418043",
      "date": "2026-10-08T14:04:39+00:00",
      "summary": "Securitize launches tokenized US stocks on Solana, backed 1:1 by real shares with dividends and USDC settlement."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Securitize Launches Tokenized Apple, Nvidia and Tesla Stocks on Solana",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-launches-tokenized-apple-nvidia-and-tesla-stocks-on-solana",
+     "date": "2026-10-08T15:10:15+00:00",
+     "summary": "Eligible US and EU investors can access share-backed tokens through Securitize\u2019s broker-dealer platform; trading on NYSE and OKXICE venues remains planned."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-08T14:04:39+00:00",
-   "last_seen": "2026-10-08T14:04:39+00:00",
-   "summary": "Securitize launches tokenized US stocks on Solana, backed 1:1 by real shares with dividends and USDC settlement.",
+   "last_seen": "2026-10-08T15:10:15+00:00",
+   "summary": "Eligible US and EU investors can access share-backed tokens through Securitize\u2019s broker-dealer platform; trading on NYSE and OKXICE venues remains planned.",
    "tags": [
     "legal",
     "solana",
@@ -507,16 +732,24 @@
      "url": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-08T11:03:36+00:00",
      "summary": "The US government moved 9,261 Bitcoin to Coinbase Prime, including 2,456 BTC in newly discovered funds pointing to federal law enforcement seizures."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "US government moves $1B in seized Bitcoin after $770M transfers",
+     "url": "https://cointelegraph.com/news/us-government-seized-bitcoin-moved-one-transaction?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T15:24:16+00:00",
+     "summary": "Blockchain analysts identified the US government wallet tied to the recovery of funds from the Bitfinex hack."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-10-08T11:03:36+00:00",
-   "last_seen": "2026-10-08T11:03:36+00:00",
+   "last_seen": "2026-10-08T15:24:16+00:00",
    "summary": "The US government moved 9,261 Bitcoin to Coinbase Prime, including 2,456 BTC in newly discovered funds pointing to federal law enforcement seizures.",
    "tags": [
     "bitcoin",
     "exchanges",
-    "regulation"
+    "regulation",
+    "security"
    ]
   },
   {

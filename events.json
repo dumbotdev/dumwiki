@@ -1,6 +1,112 @@
 {
- "updated": "2026-10-08T09:37:23.490453+00:00",
+ "updated": "2026-10-08T10:37:26.955781+00:00",
  "events": [
+  {
+   "id": "ae55a3d724",
+   "title": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
+   "date": "2026-10-08T10:30:41+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",
+     "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
+     "date": "2026-10-08T10:30:41+00:00",
+     "summary": "Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T10:30:41+00:00",
+   "last_seen": "2026-10-08T10:30:41+00:00",
+   "summary": "Justin Drake's call to prepare for an AI break of wallet cryptography drew a mixed response as bitcoin slipped below $83,000.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "fb9d8a7dd3",
+   "title": "Crypto industry split over Justin Drake\u2019s AI warning",
+   "date": "2026-10-08T10:20:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Crypto industry split over Justin Drake\u2019s AI warning",
+     "url": "https://www.theblock.co/news/defi/2026-10-08-crypto-industry-split-over-justin-drakes-ai-warning-418021",
+     "date": "2026-10-08T10:20:00+00:00",
+     "summary": "Crypto players disagree over Justin Drake\u2019s AI cryptography warning, with some dismissing it while others urge proactive preparation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T10:20:00+00:00",
+   "last_seen": "2026-10-08T10:20:00+00:00",
+   "summary": "Crypto players disagree over Justin Drake\u2019s AI cryptography warning, with some dismissing it while others urge proactive preparation.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "b1f0f3de82",
+   "title": "Bitcoin\u2019s failed breakout reveals a dangerous mix of thin volume and easy profits",
+   "date": "2026-10-08T10:00:42+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s failed breakout reveals a dangerous mix of thin volume and easy profits",
+     "url": "https://cryptoslate.com/bitcoins-failed-breakout-reveals-a-dangerous-mix-of-thin-volume-and-easy-profits/",
+     "date": "2026-10-08T10:00:42+00:00",
+     "summary": "Glassnode\u2019s October 7 report puts the October 4 share at a one-year high, identifying potential supply during the breakout. The post Bitcoin\u2019s failed breakout reveals a dangerous mix of thin volume and easy profits appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T10:00:42+00:00",
+   "last_seen": "2026-10-08T10:00:42+00:00",
+   "summary": "Glassnode\u2019s October 7 report puts the October 4 share at a one-year high, identifying potential supply during the breakout. The post Bitcoin\u2019s failed breakout reveals a dangerous mix of thin volume and easy profits appeared first on CryptoSlate .",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "dd7f12971b",
+   "title": "Bitcoin monthly \u2018new money\u2019 inflows near $5B as BTC price rally stalls",
+   "date": "2026-10-08T09:56:07+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin monthly \u2018new money\u2019 inflows near $5B as BTC price rally stalls",
+     "url": "https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T09:56:07+00:00",
+     "summary": "Bitcoin\u2019s realized cap rise in the 30 days to Oct. 5 came mostly from existing holders, not fresh capital, Glassnode data showed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T09:56:07+00:00",
+   "last_seen": "2026-10-08T09:56:07+00:00",
+   "summary": "Bitcoin\u2019s realized cap rise in the 30 days to Oct. 5 came mostly from existing holders, not fresh capital, Glassnode data showed.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "ed1559fd8e",
+   "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
+   "date": "2026-10-08T09:42:04+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
+     "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T09:42:04+00:00",
+     "summary": "ESMA urged EU crypto firms to halt services involving non-MiCA-compliant stablecoins, giving regulators three months to address existing exposures."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T09:42:04+00:00",
+   "last_seen": "2026-10-08T09:42:04+00:00",
+   "summary": "ESMA urged EU crypto firms to halt services involving non-MiCA-compliant stablecoins, giving regulators three months to address existing exposures.",
+   "tags": []
+  },
   {
    "id": "1026e72c4f",
    "title": "Greece prepares to levy 10% capital gains tax on cryptocurrency",
@@ -99,13 +205,23 @@
      "url": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-08T08:03:47+00:00",
      "summary": "Greece is preparing draft legislation to impose a 10% capital gains tax on cryptocurrencies, as it moves towards the country\u2019s first digital asset taxation framework."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Greece Plans 10% Crypto Capital Gains Tax, Down From 15% Floated in June",
+     "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
+     "date": "2026-10-08T10:32:52+00:00",
+     "summary": "A draft bill would exempt the first \u20ac500 of annual gains, as crypto tax rates across Europe run from Cyprus's 8% to Italy's 33%."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-08T08:03:47+00:00",
-   "last_seen": "2026-10-08T08:03:47+00:00",
+   "last_seen": "2026-10-08T10:32:52+00:00",
    "summary": "Greece is preparing draft legislation to impose a 10% capital gains tax on cryptocurrencies, as it moves towards the country\u2019s first digital asset taxation framework.",
-   "tags": []
+   "tags": [
+    "macro",
+    "regulation"
+   ]
   },
   {
    "id": "f63d2e5901",

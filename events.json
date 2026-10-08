@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-08T02:33:43.787701+00:00",
+ "updated": "2026-10-08T03:36:50.897268+00:00",
  "events": [
+  {
+   "id": "c143e72067",
+   "title": "Samsung to launch USDC transfers on Solana for US Galaxy users",
+   "date": "2026-10-08T02:50:01+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Samsung to launch USDC transfers on Solana for US Galaxy users",
+     "url": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
+     "date": "2026-10-08T02:50:01+00:00",
+     "summary": "The South Korean tech giant said the feature is built into Samsung Wallet, with fiat on- and off-ramps, rather than a separate crypto app."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T02:50:01+00:00",
+   "last_seen": "2026-10-08T02:50:01+00:00",
+   "summary": "The South Korean tech giant said the feature is built into Samsung Wallet, with fiat on- and off-ramps, rather than a separate crypto app.",
+   "tags": [
+    "solana",
+    "stablecoins"
+   ]
+  },
   {
    "id": "b65e1a8add",
    "title": "Samsung Wallet to Add USDC on Sui in Late October",

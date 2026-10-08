@@ -1,6 +1,47 @@
 {
- "updated": "2026-10-08T01:35:46.000879+00:00",
+ "updated": "2026-10-08T02:33:43.787701+00:00",
  "events": [
+  {
+   "id": "b65e1a8add",
+   "title": "Samsung Wallet to Add USDC on Sui in Late October",
+   "date": "2026-10-08T02:30:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Samsung Wallet to Add USDC on Sui in Late October",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/samsung-wallet-to-add-usdc-on-sui-in-late-october",
+     "date": "2026-10-08T02:30:16+00:00",
+     "summary": "Bastion and Coinbase will custody the balances, while transfers to bank accounts in more than 60 countries will carry separate fees."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T02:30:16+00:00",
+   "last_seen": "2026-10-08T02:30:16+00:00",
+   "summary": "Bastion and Coinbase will custody the balances, while transfers to bank accounts in more than 60 countries will carry separate fees.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "4b45375df8",
+   "title": "Justin Drake Urges 'Bunker Mode' Migration to Fresh Crypto Addresses",
+   "date": "2026-10-08T02:22:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Justin Drake Urges 'Bunker Mode' Migration to Fresh Crypto Addresses",
+     "url": "https://thedefiant.io/news/security/justin-drake-urges-bunker-mode-migration-to-fresh-crypto-addresses",
+     "date": "2026-10-08T02:22:39+00:00",
+     "summary": "His personal warning about an AI-assisted cryptographic break drew pushback from Ledger\u2019s CTO, who said a mass migration could cause costly mistakes."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T02:22:39+00:00",
+   "last_seen": "2026-10-08T02:22:39+00:00",
+   "summary": "His personal warning about an AI-assisted cryptographic break drew pushback from Ledger\u2019s CTO, who said a mass migration could cause costly mistakes.",
+   "tags": []
+  },
   {
    "id": "78b33abc0a",
    "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",

@@ -1,6 +1,201 @@
 {
- "updated": "2026-10-08T16:39:39.120141+00:00",
+ "updated": "2026-10-08T17:35:21.929838+00:00",
  "events": [
+  {
+   "id": "5779098623",
+   "title": "NFL tells Supreme Court prediction market sports contracts are gambling, not swaps",
+   "date": "2026-10-08T17:30:58+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "NFL tells Supreme Court prediction market sports contracts are gambling, not swaps",
+     "url": "https://www.theblock.co/news/regulation/2026-10-08-nfl-amicus-brief-supreme-court-kalshi-new-jersey-prediction-markets-418064",
+     "date": "2026-10-08T17:30:58+00:00",
+     "summary": "The NFL filed an amicus brief urging the Supreme Court to hear New Jersey's case, arguing Kalshi's sports contracts are gambling, not CFTC-regulated swaps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T17:30:58+00:00",
+   "last_seen": "2026-10-08T17:30:58+00:00",
+   "summary": "The NFL filed an amicus brief urging the Supreme Court to hear New Jersey's case, arguing Kalshi's sports contracts are gambling, not CFTC-regulated swaps.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "9249b2ef42",
+   "title": "Bitcoin\u2019s slide below $81,000 exposes why a Fed pause may not save the crypto market",
+   "date": "2026-10-08T17:30:25+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s slide below $81,000 exposes why a Fed pause may not save the crypto market",
+     "url": "https://cryptoslate.com/bitcoins-slide-below-81000-exposes-why-a-fed-pause-may-not-save-the-crypto-market/",
+     "date": "2026-10-08T17:30:25+00:00",
+     "summary": "Bitcoin slid below $81,000 on Oct. 8, with an intraday low near $80,800, even as traders expect the Fed to hold in October. The September FOMC minutes, released Oct. 7, said most participants viewed another rate increase by year-end as probable and left decisions dependent on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T17:30:25+00:00",
+   "last_seen": "2026-10-08T17:30:25+00:00",
+   "summary": "Bitcoin slid below $81,000 on Oct. 8, with an intraday low near $80,800, even as traders expect the Fed to hold in October. The September FOMC minutes, released Oct. 7, said most participants viewed another rate increase by year-end as probable and left decisions dependent on...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "cc9f7709d2",
+   "title": "Strategy shareholders face dilution drag despite brighter bitcoin forecasts, TD Cowen says",
+   "date": "2026-10-08T17:18:24+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Strategy shareholders face dilution drag despite brighter bitcoin forecasts, TD Cowen says",
+     "url": "https://www.theblock.co/news/markets/2026-10-08-strategy-shareholders-face-dilution-drag-despite-brighter-bitcoin-forecasts-td-cowen-418066",
+     "date": "2026-10-08T17:18:24+00:00",
+     "summary": "TD Cowen kept its $260 price target on Strategy (MSTR) as dilution limits the benefit of higher bitcoin forecasts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T17:18:24+00:00",
+   "last_seen": "2026-10-08T17:18:24+00:00",
+   "summary": "TD Cowen kept its $260 price target on Strategy (MSTR) as dilution limits the benefit of higher bitcoin forecasts.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "dfe50acea1",
+   "title": "The Block GCCI 2026 Country Profile: Inside Korea\u2019s Crypto Market",
+   "date": "2026-10-08T17:16:23+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "The Block GCCI 2026 Country Profile: Inside Korea\u2019s Crypto Market",
+     "url": "https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081",
+     "date": "2026-10-08T17:16:23+00:00",
+     "summary": "Section 1: The Block\u2019s Global Crypto Competitiveness Index Crypto markets have historically been measured on their trading volume, ownership, or adoption. While these metrics remain important, they speak to demand-side factors rather than the environment in which crypto..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T17:16:23+00:00",
+   "last_seen": "2026-10-08T17:16:23+00:00",
+   "summary": "Section 1: The Block\u2019s Global Crypto Competitiveness Index Crypto markets have historically been measured on their trading volume, ownership, or adoption. While these metrics remain important, they speak to demand-side factors rather than the environment in which crypto...",
+   "tags": []
+  },
+  {
+   "id": "a14e22af7c",
+   "title": "Bitcoin Falls Below $81,000 as Oil Spikes, Fed Talks Tough",
+   "date": "2026-10-08T17:14:58+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Falls Below $81,000 as Oil Spikes, Fed Talks Tough",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slide-continues-below-81000",
+     "date": "2026-10-08T17:14:58+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Falls Below $81,000 as Oil Spikes, Fed Talks Tough The price of bitcoin has continued to drop this week, spurred by fears that the Federal Reserve is increasingly tempted to raise interest rates. This post Bitcoin Falls Below $81,000 as Oil Spikes, Fed..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T17:14:58+00:00",
+   "last_seen": "2026-10-08T17:14:58+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Falls Below $81,000 as Oil Spikes, Fed Talks Tough The price of bitcoin has continued to drop this week, spurred by fears that the Federal Reserve is increasingly tempted to raise interest rates. This post Bitcoin Falls Below $81,000 as Oil Spikes, Fed...",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "37e09a882b",
+   "title": "Will AI Break Crypto Encryption? Ethereum\u2019s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
+   "date": "2026-10-08T17:07:48+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Will AI Break Crypto Encryption? Ethereum\u2019s Vitalik Buterin Weighs In on 'Bunker Mode' Shift",
+     "url": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
+     "date": "2026-10-08T17:07:48+00:00",
+     "summary": "Ethereum co-founder Vitalik Buterin thinks the crypto industry needs to make sure encryption is both quantum and AI-resistant."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T17:07:48+00:00",
+   "last_seen": "2026-10-08T17:07:48+00:00",
+   "summary": "Ethereum co-founder Vitalik Buterin thinks the crypto industry needs to make sure encryption is both quantum and AI-resistant.",
+   "tags": [
+    "ai",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "727dfd0271",
+   "title": "EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets",
+   "date": "2026-10-08T16:53:52+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets",
+     "url": "https://bitcoinmagazine.com/business/edx-markets-and-verifiedx-partner-to-bring-verified-bitcoin-vbtc-to-institutional-markets",
+     "date": "2026-10-08T16:53:52+00:00",
+     "summary": "Bitcoin Magazine EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets Partnership will bring vBTC to EDX Markets for institutional spot trading, while EDX joins the VerifiedX network as a validator, expanding institutional access to..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T16:53:52+00:00",
+   "last_seen": "2026-10-08T16:53:52+00:00",
+   "summary": "Bitcoin Magazine EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets Partnership will bring vBTC to EDX Markets for institutional spot trading, while EDX joins the VerifiedX network as a validator, expanding institutional access to...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "f964f54c6b",
+   "title": "US government moves another $1 billion in Bitcoin as BTC slides $4,000",
+   "date": "2026-10-08T16:50:59+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "US government moves another $1 billion in Bitcoin as BTC slides $4,000",
+     "url": "https://cryptoslate.com/us-government-moves-another-1-billion-in-bitcoin-as-btc-slides-4000/",
+     "date": "2026-10-08T16:50:59+00:00",
+     "summary": "US government-linked wallets moved over $1 billion in Bitcoin on Oct. 8 as BTC prices fell and more coins reached Coinbase Prime. On Oct. 8, Galaxy Research flagged the transfer of 12,267 BTC, valued at approximately $1 billion, from a government-controlled address holding..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T16:50:59+00:00",
+   "last_seen": "2026-10-08T16:50:59+00:00",
+   "summary": "US government-linked wallets moved over $1 billion in Bitcoin on Oct. 8 as BTC prices fell and more coins reached Coinbase Prime. On Oct. 8, Galaxy Research flagged the transfer of 12,267 BTC, valued at approximately $1 billion, from a government-controlled address holding...",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "bff58aceac",
+   "title": "Bitwise CEO says \u2018tragic\u2019 Dogecoin ETF failure shows gap between ETF buyers and crypto-app users",
+   "date": "2026-10-08T16:43:47+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitwise CEO says \u2018tragic\u2019 Dogecoin ETF failure shows gap between ETF buyers and crypto-app users",
+     "url": "https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070",
+     "date": "2026-10-08T16:43:47+00:00",
+     "summary": "Alongside its recent spot NEAR ETF launch, Bitwise is prioritizing AI and intends to do more in that area."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T16:43:47+00:00",
+   "last_seen": "2026-10-08T16:43:47+00:00",
+   "summary": "Alongside its recent spot NEAR ETF launch, Bitwise is prioritizing AI and intends to do more in that area.",
+   "tags": [
+    "ai",
+    "etfs",
+    "memecoins"
+   ]
+  },
   {
    "id": "b48b91d81a",
    "title": "IMF warns tokenized markets could amplify financial risks",
@@ -137,12 +332,19 @@
      "url": "https://www.coindesk.com/business/2026/10/08/u-s-government-moves-usd1-billion-in-bitcoin-from-bitfinex-hack-wallet-no-sale-indicated",
      "date": "2026-10-08T15:43:04+00:00",
      "summary": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime."
+    },
+    {
+     "source": "Decrypt",
+     "title": "US Government Moves $1 Billion in Bitcoin Seized From Bitfinex Hacker",
+     "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
+     "date": "2026-10-08T16:44:20+00:00",
+     "summary": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-08T15:43:04+00:00",
-   "last_seen": "2026-10-08T15:43:04+00:00",
-   "summary": "Arkham data shows the 12,267 BTC went to unlabeled wallets rather than an exchange, a day after $383 million hit Coinbase Prime.",
+   "last_seen": "2026-10-08T16:44:20+00:00",
+   "summary": "A government wallet holding Bitcoin seized from the Bitfinex hacker sent 12,267 BTC to a new, unlabeled address, according to Arkham data.",
    "tags": [
     "bitcoin",
     "exchanges",

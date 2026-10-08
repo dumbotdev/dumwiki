@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-08T07:38:15.769330+00:00",
+ "updated": "2026-10-08T08:38:23.170252+00:00",
  "events": [
+  {
+   "id": "365b91bae0",
+   "title": "NEAR enters crypto\u2019s top 20 after 140% surge in 30 days",
+   "date": "2026-10-08T08:17:14+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "NEAR enters crypto\u2019s top 20 after 140% surge in 30 days",
+     "url": "https://cointelegraph.com/markets/near-enters-crypto-top-20-token-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T08:17:14+00:00",
+     "summary": "NEAR climbed into the top 20 cryptocurrencies by market capitalization, as NEAR Intents surpassed $31 billion in cumulative transaction volume."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T08:17:14+00:00",
+   "last_seen": "2026-10-08T08:17:14+00:00",
+   "summary": "NEAR climbed into the top 20 cryptocurrencies by market capitalization, as NEAR Intents surpassed $31 billion in cumulative transaction volume.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "43f303c2c7",
+   "title": "Greece plans 10% capital gains tax on cryptocurrencies",
+   "date": "2026-10-08T08:03:47+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Greece plans 10% capital gains tax on cryptocurrencies",
+     "url": "https://cointelegraph.com/news/greece-capital-gains-tax-cryptocurrencies?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T08:03:47+00:00",
+     "summary": "Greece is preparing draft legislation to impose a 10% capital gains tax on cryptocurrencies, as it moves towards the country\u2019s first digital asset taxation framework."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T08:03:47+00:00",
+   "last_seen": "2026-10-08T08:03:47+00:00",
+   "summary": "Greece is preparing draft legislation to impose a 10% capital gains tax on cryptocurrencies, as it moves towards the country\u2019s first digital asset taxation framework.",
+   "tags": []
+  },
+  {
+   "id": "f63d2e5901",
+   "title": "Crypto investment firm Deus X Capital shuts down as backers pursue separate strategies",
+   "date": "2026-10-08T08:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto investment firm Deus X Capital shuts down as backers pursue separate strategies",
+     "url": "https://www.coindesk.com/business/2026/10/06/crypto-investment-firm-deus-x-capital-shuts-down-as-backers-pursue-separate-strategies",
+     "date": "2026-10-08T08:00:00+00:00",
+     "summary": "CEO Tim Grant will lead AI venture TensorX, while CIO Stuart Connolly stays to oversee the firm\u2019s formal unwind in January."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T08:00:00+00:00",
+   "last_seen": "2026-10-08T08:00:00+00:00",
+   "summary": "CEO Tim Grant will lead AI venture TensorX, while CIO Stuart Connolly stays to oversee the firm\u2019s formal unwind in January.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "85c4e32537",
+   "title": "Standard Chartered to expand crypto custody services in Singapore",
+   "date": "2026-10-08T07:55:14+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Standard Chartered to expand crypto custody services in Singapore",
+     "url": "https://www.theblock.co/news/business/2026-10-08-standard-chartered-crypto-custody-singapore-418017",
+     "date": "2026-10-08T07:55:14+00:00",
+     "summary": "The bank said the service would extend its existing crypto custody footprint in the UAE, Luxembourg, and Hong Kong."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Standard Chartered plans institutional crypto custody in Singapore",
+     "url": "https://cointelegraph.com/news/standard-chartered-digital-asset-custody-services-singapore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T08:08:03+00:00",
+     "summary": "Standard Chartered plans custody for cryptocurrencies, stablecoins and tokenized assets for institutional and eligible corporate clients in Singapore."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-10-08T07:55:14+00:00",
+   "last_seen": "2026-10-08T08:08:03+00:00",
+   "summary": "Standard Chartered plans custody for cryptocurrencies, stablecoins and tokenized assets for institutional and eligible corporate clients in Singapore.",
+   "tags": []
+  },
+  {
+   "id": "3880b13812",
+   "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
+   "date": "2026-10-08T07:30:42+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US Bitcoin ETFs shed $485M in biggest daily outflow since June",
+     "url": "https://cointelegraph.com/markets/bitcoin-etfs-outflow-largest-june-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T07:30:42+00:00",
+     "summary": "Bitcoin ETFs erased October\u2019s net inflows with $485 million in withdrawals, while Ether funds logged a seventh straight outflow session."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T07:30:42+00:00",
+   "last_seen": "2026-10-08T07:30:42+00:00",
+   "summary": "Bitcoin ETFs erased October\u2019s net inflows with $485 million in withdrawals, while Ether funds logged a seventh straight outflow session.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
   {
    "id": "7631048b57",
    "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
@@ -180,11 +290,18 @@
      "url": "https://www.theblock.co/news/business/2026-10-07-samsung-to-launch-usdc-transfers-on-solana-for-us-galaxy-users-418004",
      "date": "2026-10-08T02:50:01+00:00",
      "summary": "The South Korean tech giant said the feature is built into Samsung Wallet, with fiat on- and off-ramps, rather than a separate crypto app."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
+     "url": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T08:24:24+00:00",
+     "summary": "Eligible US Galaxy will be able to send USDC to crypto wallets and transfer funds to bank accounts in more than 60 countries."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-08T02:50:01+00:00",
-   "last_seen": "2026-10-08T02:50:01+00:00",
+   "last_seen": "2026-10-08T08:24:24+00:00",
    "summary": "The South Korean tech giant said the feature is built into Samsung Wallet, with fiat on- and off-ramps, rather than a separate crypto app.",
    "tags": [
     "solana",

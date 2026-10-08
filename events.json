@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-08T05:35:35.095706+00:00",
+ "updated": "2026-10-08T06:44:14.810450+00:00",
  "events": [
+  {
+   "id": "7631048b57",
+   "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+   "date": "2026-10-08T06:17:13+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ripple is earning fees financing leveraged stock bets, a business long run by banks",
+     "url": "https://www.coindesk.com/markets/2026/10/08/ripple-is-earning-fees-financing-leveraged-stock-bets-a-business-long-run-by-banks",
+     "date": "2026-10-08T06:17:13+00:00",
+     "summary": "The crypto company's $1.25 billion acquisition of Hidden Road has opened a corner of Wall Street where funds pay to amplify daily moves in stocks such as Nvidia and Sandisk."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T06:17:13+00:00",
+   "last_seen": "2026-10-08T06:17:13+00:00",
+   "summary": "The crypto company's $1.25 billion acquisition of Hidden Road has opened a corner of Wall Street where funds pay to amplify daily moves in stocks such as Nvidia and Sandisk.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "9b52541681",
+   "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
+   "date": "2026-10-08T05:40:41+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin loans are paying for tuition and working capital, not just trades, lenders say",
+     "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-loans-are-paying-for-tuition-and-working-capital-not-just-trades-lenders-say",
+     "date": "2026-10-08T05:40:41+00:00",
+     "summary": "Bitcoin-backed lending is evolving into a mainstream source of credit, with borrowers using BTC to access liquidity without selling."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T05:40:41+00:00",
+   "last_seen": "2026-10-08T05:40:41+00:00",
+   "summary": "Bitcoin-backed lending is evolving into a mainstream source of credit, with borrowers using BTC to access liquidity without selling.",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
   {
    "id": "6de044e4ce",
    "title": "Crypto\u2019s heavy backing of Republicans alienated Democrats: Cuomo",

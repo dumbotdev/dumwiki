@@ -1,6 +1,114 @@
 {
- "updated": "2026-10-08T10:37:26.955781+00:00",
+ "updated": "2026-10-08T11:36:12.023683+00:00",
  "events": [
+  {
+   "id": "3e30cacd7b",
+   "title": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
+   "date": "2026-10-08T11:15:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin ETF investors head for the exit, and it's the biggest rush in months",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/08/bitcoin-etf-investors-head-for-the-exit-and-it-s-the-biggest-rush-in-months",
+     "date": "2026-10-08T11:15:00+00:00",
+     "summary": "Your day-ahead look for Oct. 8, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T11:15:00+00:00",
+   "last_seen": "2026-10-08T11:15:00+00:00",
+   "summary": "Your day-ahead look for Oct. 8, 2026",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "69bf79ab78",
+   "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
+   "date": "2026-10-08T11:03:36+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US government moves $770M of seized Bitcoin to Coinbase Prime",
+     "url": "https://cointelegraph.com/news/us-government-moves-770m-seized-bitcoin-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T11:03:36+00:00",
+     "summary": "The US government moved 9,261 Bitcoin to Coinbase Prime, including 2,456 BTC in newly discovered funds pointing to federal law enforcement seizures."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T11:03:36+00:00",
+   "last_seen": "2026-10-08T11:03:36+00:00",
+   "summary": "The US government moved 9,261 Bitcoin to Coinbase Prime, including 2,456 BTC in newly discovered funds pointing to federal law enforcement seizures.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "4b03d7f7e8",
+   "title": "BitMine\u2019s Ethereum buying spree could end in six weeks",
+   "date": "2026-10-08T10:50:37+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "BitMine\u2019s Ethereum buying spree could end in six weeks",
+     "url": "https://cryptoslate.com/bitmines-ethereum-buying-spree-could-be-over-in-five-weeks/",
+     "date": "2026-10-08T10:50:37+00:00",
+     "summary": "BitMine Immersion Technologies Chairman Tom Lee said the company will stop accumulating Ethereum once its holdings reach 5% of the cryptocurrency\u2019s supply, capping the strategy that made it ETH\u2019s largest corporate holder. Speaking at TOKEN2049 in Singapore, Lee said BitMine was..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T10:50:37+00:00",
+   "last_seen": "2026-10-08T10:50:37+00:00",
+   "summary": "BitMine Immersion Technologies Chairman Tom Lee said the company will stop accumulating Ethereum once its holdings reach 5% of the cryptocurrency\u2019s supply, capping the strategy that made it ETH\u2019s largest corporate holder. Speaking at TOKEN2049 in Singapore, Lee said BitMine was...",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "34ff0bd7a3",
+   "title": "Former PlayStation Exec Slams Sony's Move to Kill Discs: 'What Are You Buying?'",
+   "date": "2026-10-08T10:45:11+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Former PlayStation Exec Slams Sony's Move to Kill Discs: 'What Are You Buying?'",
+     "url": "https://decrypt.co/380387/former-playstation-exec-slams-sonys-move-to-kill-discs-what-are-you-buying",
+     "date": "2026-10-08T10:45:11+00:00",
+     "summary": "Sony plans to cease physical disc production in 2028. A former PlayStation exec claims it has caused reputational damage."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T10:45:11+00:00",
+   "last_seen": "2026-10-08T10:45:11+00:00",
+   "summary": "Sony plans to cease physical disc production in 2028. A former PlayStation exec claims it has caused reputational damage.",
+   "tags": []
+  },
+  {
+   "id": "d827baa1ad",
+   "title": "Live news: Risk assets under pressure as bond selloff and oil rally intensify",
+   "date": "2026-10-08T10:44:47+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live news: Risk assets under pressure as bond selloff and oil rally intensify",
+     "url": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
+     "date": "2026-10-08T10:44:47+00:00",
+     "summary": "Rising Treasury yields, surging energy prices and a stronger dollar weigh on bitcoin and tech, while silver falls below $59 an ounce."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T10:44:47+00:00",
+   "last_seen": "2026-10-08T10:44:47+00:00",
+   "summary": "Rising Treasury yields, surging energy prices and a stronger dollar weigh on bitcoin and tech, while silver falls below $59 an ounce.",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
   {
    "id": "ae55a3d724",
    "title": "Bitcoin slips below $83,000 as Ethereum researcher's 'bunker mode' call divides crypto",

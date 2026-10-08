@@ -1,6 +1,159 @@
 {
- "updated": "2026-10-08T12:45:02.127457+00:00",
+ "updated": "2026-10-08T13:39:35.093126+00:00",
  "events": [
+  {
+   "id": "6d4121b269",
+   "title": "Crypto lending rises again\u2026 but have they solved the risks?",
+   "date": "2026-10-08T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto lending rises again\u2026 but have they solved the risks?",
+     "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T13:30:00+00:00",
+     "summary": "Crypto lending has risen by 55% since July, but now has to deal with the dangers of AI assisted hacks, and risks cascading through interlinked protocols. Here\u2019s how to stay safe."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T13:30:00+00:00",
+   "last_seen": "2026-10-08T13:30:00+00:00",
+   "summary": "Crypto lending has risen by 55% since July, but now has to deal with the dangers of AI assisted hacks, and risks cascading through interlinked protocols. Here\u2019s how to stay safe.",
+   "tags": [
+    "ai",
+    "defi"
+   ]
+  },
+  {
+   "id": "f337d8a139",
+   "title": "James Van Straten: BTC Bull Market Has Begun \u2013 Rotation from Gold Driver Back to $126K",
+   "date": "2026-10-08T13:27:44+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "James Van Straten: BTC Bull Market Has Begun \u2013 Rotation from Gold Driver Back to $126K",
+     "url": "https://bitcoinmagazine.com/videos/james-van-straten-btc-bull-market-has-begun-rotation-from-gold-driver-back-to-126k",
+     "date": "2026-10-08T13:27:44+00:00",
+     "summary": "Bitcoin Magazine James Van Straten: BTC Bull Market Has Begun &#8211; Rotation from Gold Driver Back to $126K Where will Bitcoin's next rally come from? CoinDesk's James Van Straten analyzes gold rotations, equity pullbacks, and stablecoin inflows as key drivers. This post James..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T13:27:44+00:00",
+   "last_seen": "2026-10-08T13:27:44+00:00",
+   "summary": "Bitcoin Magazine James Van Straten: BTC Bull Market Has Begun &#8211; Rotation from Gold Driver Back to $126K Where will Bitcoin's next rally come from? CoinDesk's James Van Straten analyzes gold rotations, equity pullbacks, and stablecoin inflows as key drivers. This post James...",
+   "tags": [
+    "bitcoin",
+    "markets",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "21d128024e",
+   "title": "StoneX Global Macro Director: French Bond Market Contagion & BTC Market Outlook | Vincent Deluard",
+   "date": "2026-10-08T13:22:27+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "StoneX Global Macro Director: French Bond Market Contagion & BTC Market Outlook | Vincent Deluard",
+     "url": "https://bitcoinmagazine.com/videos/stonex-global-macro-director-french-bond-market-contagion-btc-market-outlook-vincent-deluard",
+     "date": "2026-10-08T13:22:27+00:00",
+     "summary": "Bitcoin Magazine StoneX Global Macro Director: French Bond Market Contagion & BTC Market Outlook | Vincent Deluard Treasury yields and oil surge as StoneX's Vincent Deluard warns equities are next. He turns bearish on stocks post-November while staying bullish on Bitcoin. This..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T13:22:27+00:00",
+   "last_seen": "2026-10-08T13:22:27+00:00",
+   "summary": "Bitcoin Magazine StoneX Global Macro Director: French Bond Market Contagion & BTC Market Outlook | Vincent Deluard Treasury yields and oil surge as StoneX's Vincent Deluard warns equities are next. He turns bearish on stocks post-November while staying bullish on Bitcoin. This...",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "5eb7d9547c",
+   "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
+   "date": "2026-10-08T13:06:24+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
+     "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+     "date": "2026-10-08T13:06:24+00:00",
+     "summary": "Tokenized shares in the mega-caps will first trade on Securitize's Solana-based platform, with further plans to expand them to NYSE and OKXICE digital venues, the firm said."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T13:06:24+00:00",
+   "last_seen": "2026-10-08T13:06:24+00:00",
+   "summary": "Tokenized shares in the mega-caps will first trade on Securitize's Solana-based platform, with further plans to expand them to NYSE and OKXICE digital venues, the firm said.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "468706b53b",
+   "title": "Money20/20 USA 2026: How Bitcoin, Stablecoins and AI Are Reshaping the Future of Finance",
+   "date": "2026-10-08T13:05:59+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Money20/20 USA 2026: How Bitcoin, Stablecoins and AI Are Reshaping the Future of Finance",
+     "url": "https://bitcoinmagazine.com/press-releases/money20-20-usa-2026-how-bitcoin-stablecoins-and-ai-are-reshaping-the-future-of-finance",
+     "date": "2026-10-08T13:05:59+00:00",
+     "summary": "Bitcoin Magazine Money20/20 USA 2026: How Bitcoin, Stablecoins and AI Are Reshaping the Future of Finance From digital ownership to borderless value, Bitcoin's core innovations are reshaping how the world's top financial institutions view money. This post Money20/20 USA 2026:..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T13:05:59+00:00",
+   "last_seen": "2026-10-08T13:05:59+00:00",
+   "summary": "Bitcoin Magazine Money20/20 USA 2026: How Bitcoin, Stablecoins and AI Are Reshaping the Future of Finance From digital ownership to borderless value, Bitcoin's core innovations are reshaping how the world's top financial institutions view money. This post Money20/20 USA 2026:...",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "e04fa47128",
+   "title": "Bitcoin keeps losing ground when Wall Street opens as Coinbase discount deepens",
+   "date": "2026-10-08T13:00:24+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin keeps losing ground when Wall Street opens as Coinbase discount deepens",
+     "url": "https://cryptoslate.com/bitcoin-keeps-losing-ground-when-wall-street-opens-as-coinbase-discount-deepens/",
+     "date": "2026-10-08T13:00:24+00:00",
+     "summary": "Eight of 13 cash sessions fell from September 21\u2013October 7, 2026, but boundary checks and opposing ETF flows leave sustained institutional selling unproven. The post Bitcoin keeps losing ground when Wall Street opens as Coinbase discount deepens appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T13:00:24+00:00",
+   "last_seen": "2026-10-08T13:00:24+00:00",
+   "summary": "Eight of 13 cash sessions fell from September 21\u2013October 7, 2026, but boundary checks and opposing ETF flows leave sustained institutional selling unproven. The post Bitcoin keeps losing ground when Wall Street opens as Coinbase discount deepens appeared first on CryptoSlate .",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "329fae1ee4",
+   "title": "EU lawmakers push crypto onto anti-corruption agenda",
+   "date": "2026-10-08T12:54:21+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "EU lawmakers push crypto onto anti-corruption agenda",
+     "url": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T12:54:21+00:00",
+     "summary": "MEPs also called for stronger asset recovery, while the Commission plans to adopt its first anti-corruption strategy by the end of this year."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T12:54:21+00:00",
+   "last_seen": "2026-10-08T12:54:21+00:00",
+   "summary": "MEPs also called for stronger asset recovery, while the Commission plans to adopt its first anti-corruption strategy by the end of this year.",
+   "tags": []
+  },
   {
    "id": "c9717df1a3",
    "title": "AI Video Game Mod Mashups Are Taking Off\u2014Here Are the Wackiest Examples",

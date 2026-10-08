@@ -1,6 +1,136 @@
 {
- "updated": "2026-10-08T17:35:21.929838+00:00",
+ "updated": "2026-10-08T18:41:23.519865+00:00",
  "events": [
+  {
+   "id": "c263beb2cb",
+   "title": "Aptos Reaffirms 210 Million APT Lock as Insider Unlock Cycle Nears End",
+   "date": "2026-10-08T18:23:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aptos Reaffirms 210 Million APT Lock as Insider Unlock Cycle Nears End",
+     "url": "https://thedefiant.io/news/tokens/aptos-reaffirms-210-million-apt-lock-as-insider-unlock-cycle-nears-end",
+     "date": "2026-10-08T18:23:35+00:00",
+     "summary": "The network's 2.1 billion APT cap, 2.6% staking reward rate and tenfold gas-fee increase are already live."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T18:23:35+00:00",
+   "last_seen": "2026-10-08T18:23:35+00:00",
+   "summary": "The network's 2.1 billion APT cap, 2.6% staking reward rate and tenfold gas-fee increase are already live.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "43600da565",
+   "title": "Netflix drops trailer for series based on FTX\u2019s SBF and Caroline Ellison",
+   "date": "2026-10-08T18:17:35+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Netflix drops trailer for series based on FTX\u2019s SBF and Caroline Ellison",
+     "url": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T18:17:35+00:00",
+     "summary": "Sam Bankman-Fried remains in federal prison following his 2023 conviction, while Caroline Ellison was released in January."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T18:17:35+00:00",
+   "last_seen": "2026-10-08T18:17:35+00:00",
+   "summary": "Sam Bankman-Fried remains in federal prison following his 2023 conviction, while Caroline Ellison was released in January.",
+   "tags": []
+  },
+  {
+   "id": "74b4a965eb",
+   "title": "Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand",
+   "date": "2026-10-08T18:16:05+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Solana DeFi Firms Orca and Loopscale Merge Under New Formation Brand",
+     "url": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
+     "date": "2026-10-08T18:16:05+00:00",
+     "summary": "Solana DEX Orca and lending platform Loopscale will operate as Formation, a New York company aiming to finance AI, energy, robotics and defense assets and eventually reach regulated U.S. markets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T18:16:05+00:00",
+   "last_seen": "2026-10-08T18:16:05+00:00",
+   "summary": "Solana DEX Orca and lending platform Loopscale will operate as Formation, a New York company aiming to finance AI, energy, robotics and defense assets and eventually reach regulated U.S. markets.",
+   "tags": [
+    "ai",
+    "defi",
+    "solana"
+   ]
+  },
+  {
+   "id": "2ff391ccc3",
+   "title": "Crypto crumbles as anniversary of flash crash nears",
+   "date": "2026-10-08T18:14:39+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto crumbles as anniversary of flash crash nears",
+     "url": "https://www.coindesk.com/markets/2026/10/08/crypto-crumbles-as-anniversary-of-flash-crash-nears",
+     "date": "2026-10-08T18:14:39+00:00",
+     "summary": "It was October 10, 2025, when bitcoin plunged from about $122,000 to $105,000, with much of the decline occurring within minutes."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T18:14:39+00:00",
+   "last_seen": "2026-10-08T18:14:39+00:00",
+   "summary": "It was October 10, 2025, when bitcoin plunged from about $122,000 to $105,000, with much of the decline occurring within minutes.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "5fc9801d03",
+   "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
+   "date": "2026-10-08T18:06:41+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
+     "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+     "date": "2026-10-08T18:06:41+00:00",
+     "summary": "In opposition to federal oversight of the prediction markets, the National Football League has sided with states, Gary Gensler and one of the authors of the relevant law."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T18:06:41+00:00",
+   "last_seen": "2026-10-08T18:06:41+00:00",
+   "summary": "In opposition to federal oversight of the prediction markets, the National Football League has sided with states, Gary Gensler and one of the authors of the relevant law.",
+   "tags": [
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "ec151cb1b9",
+   "title": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
+   "date": "2026-10-08T17:46:05+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin ETFs Suffer Worst Loss Since June as Uptober Turns Red",
+     "url": "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red",
+     "date": "2026-10-08T17:46:05+00:00",
+     "summary": "Investors yanked $484.9 million out of spot Bitcoin ETFs in a single day. Oil is near $100, bond yields are at their highest since 2002, and the Fed isn't done hiking."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T17:46:05+00:00",
+   "last_seen": "2026-10-08T17:46:05+00:00",
+   "summary": "Investors yanked $484.9 million out of spot Bitcoin ETFs in a single day. Oil is near $100, bond yields are at their highest since 2002, and the Fed isn't done hiking.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "macro"
+   ]
+  },
   {
    "id": "5779098623",
    "title": "NFL tells Supreme Court prediction market sports contracts are gambling, not swaps",
@@ -1421,13 +1551,21 @@
      "url": "https://decrypt.co/380385/greece-plans-10-crypto-capital-gains-tax-down-from-15-floated-in-june",
      "date": "2026-10-08T10:32:52+00:00",
      "summary": "A draft bill would exempt the first \u20ac500 of annual gains, as crypto tax rates across Europe run from Cyprus's 8% to Italy's 33%."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Greece Plans Crypto Capital Gains Tax: Report",
+     "url": "https://bitcoinmagazine.com/news/greece-plans-crypto-capital-gains",
+     "date": "2026-10-08T18:39:39+00:00",
+     "summary": "Bitcoin Magazine Greece Plans Crypto Capital Gains Tax: Report Greece is planning a law to tax crypto investors\u2019 capital gains at a rate of 15%, according to reports. According to Reuters and local media, the country\u2019s Finance Ministry has drafted a bill with the proposal...."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-10-08T08:03:47+00:00",
-   "last_seen": "2026-10-08T10:32:52+00:00",
-   "summary": "Greece is preparing draft legislation to impose a 10% capital gains tax on cryptocurrencies, as it moves towards the country\u2019s first digital asset taxation framework.",
+   "last_seen": "2026-10-08T18:39:39+00:00",
+   "summary": "Bitcoin Magazine Greece Plans Crypto Capital Gains Tax: Report Greece is planning a law to tax crypto investors\u2019 capital gains at a rate of 15%, according to reports. According to Reuters and local media, the country\u2019s Finance Ministry has drafted a bill with the proposal....",
    "tags": [
+    "bitcoin",
     "macro",
     "regulation"
    ]

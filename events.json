@@ -1,6 +1,47 @@
 {
- "updated": "2026-10-08T04:36:55.136835+00:00",
+ "updated": "2026-10-08T05:35:35.095706+00:00",
  "events": [
+  {
+   "id": "6de044e4ce",
+   "title": "Crypto\u2019s heavy backing of Republicans alienated Democrats: Cuomo",
+   "date": "2026-10-08T05:06:51+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto\u2019s heavy backing of Republicans alienated Democrats: Cuomo",
+     "url": "https://cointelegraph.com/news/cryptos-republican-spending-alienated-democrats-says-andrew-cuomo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-08T05:06:51+00:00",
+     "summary": "Former New York Governor Andrew Cuomo urged the crypto industry to balance its support for Democrats and Republicans if they want federal crypto legislation passed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T05:06:51+00:00",
+   "last_seen": "2026-10-08T05:06:51+00:00",
+   "summary": "Former New York Governor Andrew Cuomo urged the crypto industry to balance its support for Democrats and Republicans if they want federal crypto legislation passed.",
+   "tags": []
+  },
+  {
+   "id": "ad82a897f0",
+   "title": "\u2018Don\u2019t rush anything\u2019: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats",
+   "date": "2026-10-08T05:00:28+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "\u2018Don\u2019t rush anything\u2019: Vitalik Buterin warns against hasty wallet migrations amid growing AI threats",
+     "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007",
+     "date": "2026-10-08T05:00:28+00:00",
+     "summary": "Ethereum co-founder Vitalik Buterin warned that the crypto industry should take risks to cryptography from AI-accelerated math seriously."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T05:00:28+00:00",
+   "last_seen": "2026-10-08T05:00:28+00:00",
+   "summary": "Ethereum co-founder Vitalik Buterin warned that the crypto industry should take risks to cryptography from AI-accelerated math seriously.",
+   "tags": [
+    "ai",
+    "ethereum"
+   ]
+  },
   {
    "id": "a756733d7f",
    "title": "Crypto must cement adoption to withstand US policy shifts: Canton CEO",

@@ -1,6 +1,154 @@
 {
- "updated": "2026-10-09T12:42:19.308237+00:00",
+ "updated": "2026-10-09T13:38:54.326786+00:00",
  "events": [
+  {
+   "id": "3463ed3d22",
+   "title": "Bitcoin Core developer responds to AI & Quantum Risk",
+   "date": "2026-10-09T13:38:38+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Core developer responds to AI & Quantum Risk",
+     "url": "https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk",
+     "date": "2026-10-09T13:38:38+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Core developer responds to AI & Quantum Risk Is AI address security fear-mongering? Chaincode Labs' Antoine Poinsot answers Justin Drake's viral post, breaking down quantum risk and preparation. This post Bitcoin Core developer responds to AI & Quantum..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T13:38:38+00:00",
+   "last_seen": "2026-10-09T13:38:38+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Core developer responds to AI & Quantum Risk Is AI address security fear-mongering? Chaincode Labs' Antoine Poinsot answers Justin Drake's viral post, breaking down quantum risk and preparation. This post Bitcoin Core developer responds to AI & Quantum...",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "5708902a26",
+   "title": "LiquidAcre Selects Uphold to Power Digital Asset Infrastructure and Future Tokenized Real Estate Offerings",
+   "date": "2026-10-09T13:38:38+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "LiquidAcre Selects Uphold to Power Digital Asset Infrastructure and Future Tokenized Real Estate Offerings",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/liquidacre-uphold-tokenized-real-estate-infrastructure",
+     "date": "2026-10-09T13:38:38+00:00",
+     "summary": "LiquidAcre, a financial technology company building a platform designed to expand access to real-world assets and digital financial services, has selected Uphold to power trading, custody, KYC, among other services to fulfill part of the infrastructure for tokenized real estate."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T13:38:38+00:00",
+   "last_seen": "2026-10-09T13:38:38+00:00",
+   "summary": "LiquidAcre, a financial technology company building a platform designed to expand access to real-world assets and digital financial services, has selected Uphold to power trading, custody, KYC, among other services to fulfill part of the infrastructure for tokenized real estate.",
+   "tags": []
+  },
+  {
+   "id": "8279036d67",
+   "title": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury",
+   "date": "2026-10-09T13:33:09+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury",
+     "url": "https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury",
+     "date": "2026-10-09T13:33:09+00:00",
+     "summary": "Bitcoin Magazine Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury Twenty One Capital holds 43K BTC at a discount. CEO Rapha Zagury breaks down its mNAV, share buybacks, and why Tether's backing provides a permanent edge. This post Building the..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T13:33:09+00:00",
+   "last_seen": "2026-10-09T13:33:09+00:00",
+   "summary": "Bitcoin Magazine Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury Twenty One Capital holds 43K BTC at a discount. CEO Rapha Zagury breaks down its mNAV, share buybacks, and why Tether's backing provides a permanent edge. This post Building the...",
+   "tags": [
+    "bitcoin",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "845946a95f",
+   "title": "France is world\u2019s most dangerous place for Bitcoiners: 90 attacks in 7 months",
+   "date": "2026-10-09T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "France is world\u2019s most dangerous place for Bitcoiners: 90 attacks in 7 months",
+     "url": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T13:30:00+00:00",
+     "summary": "French authorities recorded 90 crypto-related cases involving kidnapping, extortion, threats and violent theft in seven months. What makes France such a hotspot?"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T13:30:00+00:00",
+   "last_seen": "2026-10-09T13:30:00+00:00",
+   "summary": "French authorities recorded 90 crypto-related cases involving kidnapping, extortion, threats and violent theft in seven months. What makes France such a hotspot?",
+   "tags": []
+  },
+  {
+   "id": "c0b60e8d6a",
+   "title": "Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030",
+   "date": "2026-10-09T13:28:10+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030",
+     "url": "https://bitcoinmagazine.com/videos/calamos-investments-ceo-john-koudounis-bitcoin-will-hit-1m-by-2030",
+     "date": "2026-10-09T13:28:10+00:00",
+     "summary": "Bitcoin Magazine Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030 Is Bitcoin headed for a $1M awakening by 2030? Calamos CEO John Koudounis explains why institutional bank lending and ETF access will drive the surge. This post Calamos Investments CEO John..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T13:28:10+00:00",
+   "last_seen": "2026-10-09T13:28:10+00:00",
+   "summary": "Bitcoin Magazine Calamos Investments CEO John Koudounis: Bitcoin Will Hit $1M by 2030 Is Bitcoin headed for a $1M awakening by 2030? Calamos CEO John Koudounis explains why institutional bank lending and ETF access will drive the surge. This post Calamos Investments CEO John...",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "etfs",
+    "markets"
+   ]
+  },
+  {
+   "id": "3dc40ad40e",
+   "title": "Bitcoin Bleeds in Uptober\u2014How Low Can It Go? Experts Weigh In",
+   "date": "2026-10-09T13:20:12+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Bleeds in Uptober\u2014How Low Can It Go? Experts Weigh In",
+     "url": "https://decrypt.co/380574/bitcoin-bleeds-in-uptober-how-low-can-it-go-experts-weigh-in",
+     "date": "2026-10-09T13:20:12+00:00",
+     "summary": "Experts highlight several support levels, from $83,000 down to $72,000, that Bitcoin may need to test in a bearish start to Uptober."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T13:20:12+00:00",
+   "last_seen": "2026-10-09T13:20:12+00:00",
+   "summary": "Experts highlight several support levels, from $83,000 down to $72,000, that Bitcoin may need to test in a bearish start to Uptober.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "40fb42a68b",
+   "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming \u2018tokenization supercycle\u2019",
+   "date": "2026-10-09T13:12:57+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming \u2018tokenization supercycle\u2019",
+     "url": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
+     "date": "2026-10-09T13:12:57+00:00",
+     "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T13:12:57+00:00",
+   "last_seen": "2026-10-09T13:12:57+00:00",
+   "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about $70 million to $100 million in daily volume, according to Pollak.",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "381f7bb51e",
    "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",

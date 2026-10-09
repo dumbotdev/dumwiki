@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-09T04:37:18.830129+00:00",
+ "updated": "2026-10-09T05:36:29.315726+00:00",
  "events": [
+  {
+   "id": "305e1b7449",
+   "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
+   "date": "2026-10-09T05:25:27+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Trump administration outlines quantum, AI initiatives in $6B science push",
+     "url": "https://cointelegraph.com/news/trump-administration-quantum-computing-ai-6-billion-science-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T05:25:27+00:00",
+     "summary": "The White House outlined a $215 million quantum computing competition and $2.4 billion in AI industry commitments as concerns grow over quantum threats to cryptocurrency security."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T05:25:27+00:00",
+   "last_seen": "2026-10-09T05:25:27+00:00",
+   "summary": "The White House outlined a $215 million quantum computing competition and $2.4 billion in AI industry commitments as concerns grow over quantum threats to cryptocurrency security.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "5423397dc4",
+   "title": "Core Lightning patches critical security flaws and a Bitcoin payment bug",
+   "date": "2026-10-09T05:20:19+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Core Lightning patches critical security flaws and a Bitcoin payment bug",
+     "url": "https://cryptoslate.com/core-lightning-patches-critical-security-flaws-and-a-bitcoin-payment-bug/",
+     "date": "2026-10-09T05:20:19+00:00",
+     "summary": "Version v26.06.9 repairs a v26.06.8 regression that could delay channel traffic on busy nodes and adds protections for forwarded funds. The post Core Lightning patches critical security flaws and a Bitcoin payment bug appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T05:20:19+00:00",
+   "last_seen": "2026-10-09T05:20:19+00:00",
+   "summary": "Version v26.06.9 repairs a v26.06.8 regression that could delay channel traffic on busy nodes and adds protections for forwarded funds. The post Core Lightning patches critical security flaws and a Bitcoin payment bug appeared first on CryptoSlate .",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "52a2e03110",
+   "title": "Solana Schedules Final Cut to 200-Millisecond Slots",
+   "date": "2026-10-09T04:52:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Solana Schedules Final Cut to 200-Millisecond Slots",
+     "url": "https://thedefiant.io/news/blockchains/solana-schedules-final-cut-to-200-millisecond-slots",
+     "date": "2026-10-09T04:52:51+00:00",
+     "summary": "Per-block computing limits shrink to preserve overall capacity, while validators face more frequent voting and shorter production windows."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T04:52:51+00:00",
+   "last_seen": "2026-10-09T04:52:51+00:00",
+   "summary": "Per-block computing limits shrink to preserve overall capacity, while validators face more frequent voting and shorter production windows.",
+   "tags": [
+    "solana"
+   ]
+  },
   {
    "id": "4642e040be",
    "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",

@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-09T20:35:11.050246+00:00",
+ "updated": "2026-10-09T21:35:06.971898+00:00",
  "events": [
+  {
+   "id": "b65ac966b2",
+   "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
+   "date": "2026-10-09T21:21:54+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",
+     "url": "https://www.coindesk.com/policy/2026/10/09/u-s-cftc-moves-to-fold-event-contracts-into-swaps-regulations-as-legal-fight-rages",
+     "date": "2026-10-09T21:21:54+00:00",
+     "summary": "The derivatives regulator is proposing a formal rule to include certain contracts traded on platforms like Kalshi's as swaps that require the agency's oversight."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T21:21:54+00:00",
+   "last_seen": "2026-10-09T21:21:54+00:00",
+   "summary": "The derivatives regulator is proposing a formal rule to include certain contracts traded on platforms like Kalshi's as swaps that require the agency's oversight.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "02f0df1995",
+   "title": "Ledger hack scare nears $90 million as Tether moves to freeze stolen USDT",
+   "date": "2026-10-09T21:10:39+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ledger hack scare nears $90 million as Tether moves to freeze stolen USDT",
+     "url": "https://cryptoslate.com/ledger-hack-scare-nears-90-million-as-tether-moves-to-freeze-stolen-usdt/",
+     "date": "2026-10-09T21:10:39+00:00",
+     "summary": "Suspected Ledger wallet thefts are approaching $90 million as Tether freezes USDT stablecoin linked to the incident, according to blockchain investigators. In an Oct. 9 statement, the crypto hardware wallet maker said it was investigating reports that customers lost funds after..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T21:10:39+00:00",
+   "last_seen": "2026-10-09T21:10:39+00:00",
+   "summary": "Suspected Ledger wallet thefts are approaching $90 million as Tether freezes USDT stablecoin linked to the incident, according to blockchain investigators. In an Oct. 9 statement, the crypto hardware wallet maker said it was investigating reports that customers lost funds after...",
+   "tags": [
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "e7db7fa9c6",
+   "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
+   "date": "2026-10-09T20:39:17+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent",
+     "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T20:39:17+00:00",
+     "summary": "The Treasury Department has announced several digital asset seizures related to sanctions on Iran as part of US sanctions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T20:39:17+00:00",
+   "last_seen": "2026-10-09T20:39:17+00:00",
+   "summary": "The Treasury Department has announced several digital asset seizures related to sanctions on Iran as part of US sanctions.",
+   "tags": [
+    "macro"
+   ]
+  },
   {
    "id": "e269aaa573",
    "title": "CFTC Proposes Explicit Swap Status for Event Contracts",

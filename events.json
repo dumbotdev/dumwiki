@@ -1,6 +1,136 @@
 {
- "updated": "2026-10-09T09:37:54.764879+00:00",
+ "updated": "2026-10-09T10:37:26.506160+00:00",
  "events": [
+  {
+   "id": "3e410bfb7c",
+   "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+   "date": "2026-10-09T10:16:55+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
+     "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
+     "date": "2026-10-09T10:16:55+00:00",
+     "summary": "Thailand\u2019s new crypto rules taking effect Oct. 16. They allow Thai asset managers to launch crypto ETFs on the local stock exchange, with bitcoin and ether initially eligible."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T10:16:55+00:00",
+   "last_seen": "2026-10-09T10:16:55+00:00",
+   "summary": "Thailand\u2019s new crypto rules taking effect Oct. 16. They allow Thai asset managers to launch crypto ETFs on the local stock exchange, with bitcoin and ether initially eligible.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "5b7f285b4b",
+   "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
+   "date": "2026-10-09T10:16:48+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "French lawmakers back stablecoin swap tax in 2027 budget bill",
+     "url": "https://cointelegraph.com/news/france-crypto-stablecoin-swap-tax-2027-budget?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T10:16:48+00:00",
+     "summary": "France\u2019s Finance Committee backed taxes on stablecoin swaps, as well as unrealized crypto gains when households with more than 800,000 euros move abroad."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T10:16:48+00:00",
+   "last_seen": "2026-10-09T10:16:48+00:00",
+   "summary": "France\u2019s Finance Committee backed taxes on stablecoin swaps, as well as unrealized crypto gains when households with more than 800,000 euros move abroad.",
+   "tags": [
+    "regulation",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "4d10a7dec8",
+   "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
+   "date": "2026-10-09T10:14:59+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "UK slaps sanctions on three crypto exchanges over alleged Russia links",
+     "url": "https://www.coindesk.com/policy/2026/10/09/uk-slaps-sanctions-on-three-crypto-exchanges-over-alleged-russia-links",
+     "date": "2026-10-09T10:14:59+00:00",
+     "summary": "Britain said the crypto platforms and two payment services may have helped Russia evade financial sanctions, with two handling transactions involving the Kremlin-backed A7 network."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T10:14:59+00:00",
+   "last_seen": "2026-10-09T10:14:59+00:00",
+   "summary": "Britain said the crypto platforms and two payment services may have helped Russia evade financial sanctions, with two handling transactions involving the Kremlin-backed A7 network.",
+   "tags": []
+  },
+  {
+   "id": "bf2946549d",
+   "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
+   "date": "2026-10-09T10:11:51+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Empire Market Co-Creator Sentenced to 40 Years Over $430M Dark Web Bazaar",
+     "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
+     "date": "2026-10-09T10:11:51+00:00",
+     "summary": "Raheim Hamilton forfeited some 1,230 BTC. His co-creator Thomas Pavey, who agreed to forfeit 1,584 BTC, is due to be sentenced this month."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T10:11:51+00:00",
+   "last_seen": "2026-10-09T10:11:51+00:00",
+   "summary": "Raheim Hamilton forfeited some 1,230 BTC. His co-creator Thomas Pavey, who agreed to forfeit 1,584 BTC, is due to be sentenced this month.",
+   "tags": [
+    "bitcoin",
+    "legal"
+   ]
+  },
+  {
+   "id": "7f3af572ae",
+   "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
+   "date": "2026-10-09T09:50:01+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin speculators move 55K BTC to exchanges amid $1.1B liquidations",
+     "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T09:50:01+00:00",
+     "summary": "Bitcoin dipped below $81,000, sparking mass crypto liquidations as traders sent BTC to exchanges at a loss."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T09:50:01+00:00",
+   "last_seen": "2026-10-09T09:50:01+00:00",
+   "summary": "Bitcoin dipped below $81,000, sparking mass crypto liquidations as traders sent BTC to exchanges at a loss.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "6417cb50c0",
+   "title": "Strategy\u2019s $150 million-a-day STRC market has a hidden dependency on its own buybacks",
+   "date": "2026-10-09T09:40:38+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Strategy\u2019s $150 million-a-day STRC market has a hidden dependency on its own buybacks",
+     "url": "https://cryptoslate.com/strategys-150-million-a-day-strc-market-has-a-hidden-dependency-on-its-own-buybacks/",
+     "date": "2026-10-09T09:40:38+00:00",
+     "summary": "Strategy's $1.45 billion preferred-share buyback program is supporting a substantial share of trading in one of its key Bitcoin financing instruments. According to a Keyrock research report, Strategy's repurchases accounted for more than 20% of weekly trading volume in its..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T09:40:38+00:00",
+   "last_seen": "2026-10-09T09:40:38+00:00",
+   "summary": "Strategy's $1.45 billion preferred-share buyback program is supporting a substantial share of trading in one of its key Bitcoin financing instruments. According to a Keyrock research report, Strategy's repurchases accounted for more than 20% of weekly trading volume in its...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "6b2c0beea1",
    "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
@@ -57,14 +187,22 @@
      "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
      "date": "2026-10-09T09:06:00+00:00",
      "summary": "Meanwhile has signed 15 brokers serving high-net worth clients across markets iSwitzerland, Singapore, Hong Kong and the UAE."
+    },
+    {
+     "source": "The Block",
+     "title": "Sam Altman-backed bitcoin life insurer Meanwhile raises $37.5 million round led by Bain Capital Crypto",
+     "url": "https://www.theblock.co/news/deals/2026-10-09-sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-37-5-million-round-led-by-bain-capital-crypto-418131",
+     "date": "2026-10-09T10:33:46+00:00",
+     "summary": "Meanwhile raised $37.5M from existing investors, bringing the Sam Altman-backed bitcoin life insurer's total funding above $180 million."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-09T09:06:00+00:00",
-   "last_seen": "2026-10-09T09:06:00+00:00",
-   "summary": "Meanwhile has signed 15 brokers serving high-net worth clients across markets iSwitzerland, Singapore, Hong Kong and the UAE.",
+   "last_seen": "2026-10-09T10:33:46+00:00",
+   "summary": "Meanwhile raised $37.5M from existing investors, bringing the Sam Altman-backed bitcoin life insurer's total funding above $180 million.",
    "tags": [
-    "bitcoin"
+    "bitcoin",
+    "funding"
    ]
   },
   {

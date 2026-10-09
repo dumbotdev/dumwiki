@@ -1,6 +1,87 @@
 {
- "updated": "2026-10-09T21:35:06.971898+00:00",
+ "updated": "2026-10-09T22:34:53.545028+00:00",
  "events": [
+  {
+   "id": "5ec6c17f31",
+   "title": "ETH fee burns cover just 2% of new coins printed in 2026",
+   "date": "2026-10-09T22:20:23+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "ETH fee burns cover just 2% of new coins printed in 2026",
+     "url": "https://cryptoslate.com/eth-fee-burns-cover-just-2-of-new-coins-printed-in-2026/",
+     "date": "2026-10-09T22:20:23+00:00",
+     "summary": "An October 9 ledger puts fee burn at 2.07% of gross issuance, while a conditional capacity model tests the demand needed to shrink supply. The post ETH fee burns cover just 2% of new coins printed in 2026 appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T22:20:23+00:00",
+   "last_seen": "2026-10-09T22:20:23+00:00",
+   "summary": "An October 9 ledger puts fee burn at 2.07% of gross issuance, while a conditional capacity model tests the demand needed to shrink supply. The post ETH fee burns cover just 2% of new coins printed in 2026 appeared first on CryptoSlate .",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "e6682d2661",
+   "title": "Coinbase and Gennius Plan ONED Stablecoin Access Through Latin American Banks",
+   "date": "2026-10-09T22:03:36+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coinbase and Gennius Plan ONED Stablecoin Access Through Latin American Banks",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-gennius-plan-oned-stablecoin-access-through-latin-american-banks",
+     "date": "2026-10-09T22:03:36+00:00",
+     "summary": "The Argentina-first initiative would let customers convert eligible deposits into ONED USD, transfer it around the clock and spend through Visa."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T22:03:36+00:00",
+   "last_seen": "2026-10-09T22:03:36+00:00",
+   "summary": "The Argentina-first initiative would let customers convert eligible deposits into ONED USD, transfer it around the clock and spend through Visa.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f2e03e9fb0",
+   "title": "Kalshi Probes Bets on Trump\u2019s Press Secretary Pick, WSJ Reports",
+   "date": "2026-10-09T21:57:10+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Kalshi Probes Bets on Trump\u2019s Press Secretary Pick, WSJ Reports",
+     "url": "https://thedefiant.io/news/regulation/kalshi-probes-bets-on-trump-s-press-secretary-pick-wsj-reports",
+     "date": "2026-10-09T21:57:10+00:00",
+     "summary": "Three wagers costing about $19, $74 and $80 preceded reports of Katie Zacharia\u2019s selection. The contract has settled Yes, but individual withdrawal restrictions remain unclear."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T21:57:10+00:00",
+   "last_seen": "2026-10-09T21:57:10+00:00",
+   "summary": "Three wagers costing about $19, $74 and $80 preceded reports of Katie Zacharia\u2019s selection. The contract has settled Yes, but individual withdrawal restrictions remain unclear.",
+   "tags": []
+  },
+  {
+   "id": "c4cccf3833",
+   "title": "Aero Sets Oct. 21 Merger Launch and Token Conversion Terms",
+   "date": "2026-10-09T21:37:43+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aero Sets Oct. 21 Merger Launch and Token Conversion Terms",
+     "url": "https://thedefiant.io/news/defi/aero-sets-oct-21-merger-launch-and-token-conversion-terms",
+     "date": "2026-10-09T21:37:43+00:00",
+     "summary": "AERO converts one-for-one and VELO at roughly 0.044 new AERO per token; existing locks keep their remaining duration."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T21:37:43+00:00",
+   "last_seen": "2026-10-09T21:37:43+00:00",
+   "summary": "AERO converts one-for-one and VELO at roughly 0.044 new AERO per token; existing locks keep their remaining duration.",
+   "tags": []
+  },
   {
    "id": "b65ac966b2",
    "title": "U.S. CFTC moves to fold event contracts into swaps regulations as legal fight rages",

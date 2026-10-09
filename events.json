@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-09T22:34:53.545028+00:00",
+ "updated": "2026-10-09T23:33:13.322627+00:00",
  "events": [
+  {
+   "id": "69f353b31c",
+   "title": "Tether freezes $1.4M in TRON vaults and THORChain stalls",
+   "date": "2026-10-09T23:30:53+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Tether freezes $1.4M in TRON vaults and THORChain stalls",
+     "url": "https://cryptoslate.com/tether-freezes-1-4m-in-tron-vaults-and-thorchain-stalls/",
+     "date": "2026-10-09T23:30:53+00:00",
+     "summary": "A researcher reported resumed TRON swaps after four vaults were blacklisted, exposing issuer control over USDT inside decentralized infrastructure. The post Tether freezes $1.4M in TRON vaults and THORChain stalls appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T23:30:53+00:00",
+   "last_seen": "2026-10-09T23:30:53+00:00",
+   "summary": "A researcher reported resumed TRON swaps after four vaults were blacklisted, exposing issuer control over USDT inside decentralized infrastructure. The post Tether freezes $1.4M in TRON vaults and THORChain stalls appeared first on CryptoSlate .",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "5ec6c17f31",
    "title": "ETH fee burns cover just 2% of new coins printed in 2026",

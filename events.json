@@ -1,6 +1,154 @@
 {
- "updated": "2026-10-09T19:35:08.010453+00:00",
+ "updated": "2026-10-09T20:35:11.050246+00:00",
  "events": [
+  {
+   "id": "e269aaa573",
+   "title": "CFTC Proposes Explicit Swap Status for Event Contracts",
+   "date": "2026-10-09T20:25:14+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "CFTC Proposes Explicit Swap Status for Event Contracts",
+     "url": "https://thedefiant.io/converge/regulation/cftc-proposes-explicit-swap-status-for-event-contracts",
+     "date": "2026-10-09T20:25:14+00:00",
+     "summary": "The agency says existing exchange and trader duties would stay intact, while a separate rule excludes qualifying casino-style wagers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T20:25:14+00:00",
+   "last_seen": "2026-10-09T20:25:14+00:00",
+   "summary": "The agency says existing exchange and trader duties would stay intact, while a separate rule excludes qualifying casino-style wagers.",
+   "tags": [
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "580356aa1e",
+   "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
+   "date": "2026-10-09T20:14:02+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "New York permanently bars Celsius founder Mashinsky in $35M fraud settlement",
+     "url": "https://cointelegraph.com/news/celsius-founder-alex-mashinsky-permanently-banned-from-crypto-industry-in-ny-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T20:14:02+00:00",
+     "summary": "The agreement resolves a 2023 civil fraud lawsuit against the Celsius founder and permanently bars him from the cryptocurrency, securities and commodities industries."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T20:14:02+00:00",
+   "last_seen": "2026-10-09T20:14:02+00:00",
+   "summary": "The agreement resolves a 2023 civil fraud lawsuit against the Celsius founder and permanently bars him from the cryptocurrency, securities and commodities industries.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "4e37107662",
+   "title": "\u2018We Know Where It Is\u2019: Treasury Secretary Threatens To Freeze $1B of Iran\u2019s Crypto",
+   "date": "2026-10-09T20:10:14+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "\u2018We Know Where It Is\u2019: Treasury Secretary Threatens To Freeze $1B of Iran\u2019s Crypto",
+     "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto",
+     "date": "2026-10-09T20:10:14+00:00",
+     "summary": "Bitcoin Magazine \u2018We Know Where It Is\u2019: Treasury Secretary Threatens To Freeze $1B of Iran\u2019s Crypto The U.S. will seize $1 billion of Iran\u2019s crypto this week, U.S. Treasury Secretary Scott Bessent has said. It isn\u2019t clear which asset though. This post \u2018We Know Where It Is\u2019:..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T20:10:14+00:00",
+   "last_seen": "2026-10-09T20:10:14+00:00",
+   "summary": "Bitcoin Magazine \u2018We Know Where It Is\u2019: Treasury Secretary Threatens To Freeze $1B of Iran\u2019s Crypto The U.S. will seize $1 billion of Iran\u2019s crypto this week, U.S. Treasury Secretary Scott Bessent has said. It isn\u2019t clear which asset though. This post \u2018We Know Where It Is\u2019:...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "3727ff2e8f",
+   "title": "Here\u2019s How Not To Screw up Your Bitcoin Privacy",
+   "date": "2026-10-09T20:02:39+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Here\u2019s How Not To Screw up Your Bitcoin Privacy",
+     "url": "https://bitcoinmagazine.com/news/seth-for-privacy-bitcoin-tips",
+     "date": "2026-10-09T20:02:39+00:00",
+     "summary": "Bitcoin Magazine Here\u2019s How Not To Screw up Your Bitcoin Privacy Speaking on the Bitcoin Rails podcast, Cake Wallet\u2019s Seth for Privacy said people need to take more precautions to protect their identities when using the biggest cryptocurrency. This post Here\u2019s How Not To Screw..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T20:02:39+00:00",
+   "last_seen": "2026-10-09T20:02:39+00:00",
+   "summary": "Bitcoin Magazine Here\u2019s How Not To Screw up Your Bitcoin Privacy Speaking on the Bitcoin Rails podcast, Cake Wallet\u2019s Seth for Privacy said people need to take more precautions to protect their identities when using the biggest cryptocurrency. This post Here\u2019s How Not To Screw...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "977575d737",
+   "title": "XRP Ledger lets institutions share account duties without sharing their keys",
+   "date": "2026-10-09T20:00:29+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP Ledger lets institutions share account duties without sharing their keys",
+     "url": "https://cryptoslate.com/ripple-wants-to-turn-xrpls-4-5-billion-in-tokenized-assets-into-round-the-clock-collateral/",
+     "date": "2026-10-09T20:00:29+00:00",
+     "summary": "The XRP Ledger (XRPL) now lets institutions delegate account tasks while retaining control of their primary signing keys. The PermissionDelegationV1_1 amendment went live on Oct. 8 at ledger 107,524,865. It lets account owners assign specific transaction permissions to other..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T20:00:29+00:00",
+   "last_seen": "2026-10-09T20:00:29+00:00",
+   "summary": "The XRP Ledger (XRPL) now lets institutions delegate account tasks while retaining control of their primary signing keys. The PermissionDelegationV1_1 amendment went live on Oct. 8 at ledger 107,524,865. It lets account owners assign specific transaction permissions to other...",
+   "tags": []
+  },
+  {
+   "id": "d4a286c056",
+   "title": "CFTC Excludes Casino-Style Wagers From Swap Definition",
+   "date": "2026-10-09T19:58:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "CFTC Excludes Casino-Style Wagers From Swap Definition",
+     "url": "https://thedefiant.io/converge/regulation/cftc-excludes-casino-style-wagers-from-swap-definition",
+     "date": "2026-10-09T19:58:15+00:00",
+     "summary": "The agency bypassed a proposal, citing threats to prediction markets, but says the measure changes no existing compliance obligations."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T19:58:15+00:00",
+   "last_seen": "2026-10-09T19:58:15+00:00",
+   "summary": "The agency bypassed a proposal, citing threats to prediction markets, but says the measure changes no existing compliance obligations.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "48978097f5",
+   "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
+   "date": "2026-10-09T19:47:01+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
+     "url": "https://decrypt.co/380621/openai-anthropic-quietly-rehearsing-ai-catastrophe",
+     "date": "2026-10-09T19:47:01+00:00",
+     "summary": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T19:47:01+00:00",
+   "last_seen": "2026-10-09T19:47:01+00:00",
+   "summary": "Executives are war-gaming the political fallout of a major AI-driven cyberattack and preparing to brief Congress fast if and when necessary.",
+   "tags": [
+    "ai",
+    "regulation"
+   ]
+  },
   {
    "id": "9c78a26a4b",
    "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",

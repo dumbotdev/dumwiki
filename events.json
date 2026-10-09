@@ -1,6 +1,53 @@
 {
- "updated": "2026-10-09T02:35:06.244023+00:00",
+ "updated": "2026-10-09T03:37:06.660391+00:00",
  "events": [
+  {
+   "id": "9ebdaf6a9a",
+   "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+   "date": "2026-10-09T03:08:51+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",
+     "url": "https://cointelegraph.com/news/thailand-finalizes-rules-paving-way-for-bitcoin-ether-etfs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T03:08:51+00:00",
+     "summary": "The rules are set to take effect next week, allowing crypto ETFs to trade exclusively on the Stock Exchange of Thailand."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T03:08:51+00:00",
+   "last_seen": "2026-10-09T03:08:51+00:00",
+   "summary": "The rules are set to take effect next week, allowing crypto ETFs to trade exclusively on the Stock Exchange of Thailand.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "bcb56c944e",
+   "title": "AI may be keeping Bitcoin\u2019s biggest macro headwind alive after the Fed stops hiking",
+   "date": "2026-10-09T03:00:33+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "AI may be keeping Bitcoin\u2019s biggest macro headwind alive after the Fed stops hiking",
+     "url": "https://cryptoslate.com/ai-may-be-keeping-bitcoins-biggest-macro-headwind-alive-after-the-fed-stops-hiking/",
+     "date": "2026-10-09T03:00:33+00:00",
+     "summary": "Minutes released Oct. 7 cite AI debt as one explanation for higher yields, while stronger earnings helped stocks absorb pressure. The post AI may be keeping Bitcoin\u2019s biggest macro headwind alive after the Fed stops hiking appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T03:00:33+00:00",
+   "last_seen": "2026-10-09T03:00:33+00:00",
+   "summary": "Minutes released Oct. 7 cite AI debt as one explanation for higher yields, while stronger earnings helped stocks absorb pressure. The post AI may be keeping Bitcoin\u2019s biggest macro headwind alive after the Fed stops hiking appeared first on CryptoSlate .",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "macro"
+   ]
+  },
   {
    "id": "5db6d4ad1a",
    "title": "DTC Seeks to Cut Share-Registration Transfers From Days to Minutes",
@@ -313,12 +360,19 @@
      "url": "https://thedefiant.io/news/markets/bitcoin-rebounds-above-81-000-after-trump-rules-out-iran-strikes-before-midterms",
      "date": "2026-10-08T21:05:33+00:00",
      "summary": "Crude retreated around the president's statement, but bitcoin remained down 1.9% over 24 hours in late trading."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin rebounds to $82,000 as Trump rules out Iran strikes, oil drops",
+     "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-rebounds-to-usd82-000-as-trump-rules-out-iran-strikes",
+     "date": "2026-10-09T03:27:38+00:00",
+     "summary": "Bitcoin rebounded to $82,000 as Trump ruled out an Iran strike before the midterms, while crypto security experts pushed back on \u201cbunker mode\u201d fears."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-08T21:05:33+00:00",
-   "last_seen": "2026-10-08T21:05:33+00:00",
-   "summary": "Crude retreated around the president's statement, but bitcoin remained down 1.9% over 24 hours in late trading.",
+   "last_seen": "2026-10-09T03:27:38+00:00",
+   "summary": "Bitcoin rebounded to $82,000 as Trump ruled out an Iran strike before the midterms, while crypto security experts pushed back on \u201cbunker mode\u201d fears.",
    "tags": [
     "bitcoin"
    ]

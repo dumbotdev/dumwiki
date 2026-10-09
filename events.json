@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-09T16:36:41.558546+00:00",
+ "updated": "2026-10-09T17:34:11.590662+00:00",
  "events": [
+  {
+   "id": "0945dceb8b",
+   "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
+   "date": "2026-10-09T17:21:07+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
+     "url": "https://cointelegraph.com/news/hsbc-ant-digital-test-ai-agent-payments-using-tokenized-deposits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T17:21:07+00:00",
+     "summary": "The technical trial showed how AI agents could discover services and make micropayments using HSBC\u2019s tokenized deposits, with real-time settlement and risk checks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T17:21:07+00:00",
+   "last_seen": "2026-10-09T17:21:07+00:00",
+   "summary": "The technical trial showed how AI agents could discover services and make micropayments using HSBC\u2019s tokenized deposits, with real-time settlement and risk checks.",
+   "tags": [
+    "ai",
+    "legal"
+   ]
+  },
+  {
+   "id": "3a3ec2d7b6",
+   "title": "Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course",
+   "date": "2026-10-09T17:11:16+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-etfs-shed-729-million-in-two-days",
+     "date": "2026-10-09T17:11:16+00:00",
+     "summary": "Bitcoin Magazine Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course Investors have fast cashed out of bitcoin exchange-traded funds this week. It\u2019s showing in the price. This post Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course first appeared on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T17:11:16+00:00",
+   "last_seen": "2026-10-09T17:11:16+00:00",
+   "summary": "Bitcoin Magazine Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course Investors have fast cashed out of bitcoin exchange-traded funds this week. It\u2019s showing in the price. This post Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course first appeared on...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "markets"
+   ]
+  },
+  {
+   "id": "d5ab062bfb",
+   "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+   "date": "2026-10-09T17:02:47+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ledger investigates fund losses linked to Southeast Asian reseller, warns users",
+     "url": "https://cointelegraph.com/news/ledger-investigates-fund-losses-linked-to-southeast-asian-reseller-warns-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T17:02:47+00:00",
+     "summary": "Hardware wallet maker Ledger probes losses tied to reseller CryptoBilis, as researchers separately estimate more than $72 million to $86 million in suspected crypto thefts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T17:02:47+00:00",
+   "last_seen": "2026-10-09T17:02:47+00:00",
+   "summary": "Hardware wallet maker Ledger probes losses tied to reseller CryptoBilis, as researchers separately estimate more than $72 million to $86 million in suspected crypto thefts.",
+   "tags": []
+  },
+  {
+   "id": "04104a5be1",
+   "title": "Ethereum open interest rose 2.3% in ETH on Binance as its dollar value fell 6.6%",
+   "date": "2026-10-09T17:00:01+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum open interest rose 2.3% in ETH on Binance as its dollar value fell 6.6%",
+     "url": "https://cryptoslate.com/ethereums-binance-futures-book-grew-2-3-in-eth-while-its-dollar-value-fell/",
+     "date": "2026-10-09T17:00:01+00:00",
+     "summary": "Matched October 6\u20138 snapshots show a larger ETH-denominated book despite Thursday\u2019s contraction, separating outstanding exposure from lower USDT valuation. The post Ethereum open interest rose 2.3% in ETH on Binance as its dollar value fell 6.6% appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T17:00:01+00:00",
+   "last_seen": "2026-10-09T17:00:01+00:00",
+   "summary": "Matched October 6\u20138 snapshots show a larger ETH-denominated book despite Thursday\u2019s contraction, separating outstanding exposure from lower USDT valuation. The post Ethereum open interest rose 2.3% in ETH on Binance as its dollar value fell 6.6% appeared first on CryptoSlate .",
+   "tags": [
+    "ethereum",
+    "exchanges",
+    "funding",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "fb993a9205",
+   "title": "Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses",
+   "date": "2026-10-09T16:43:45+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses",
+     "url": "https://bitcoinmagazine.com/news/ledger-warns-users-after-losses-reported",
+     "date": "2026-10-09T16:43:45+00:00",
+     "summary": "Bitcoin Magazine Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses Hardware wallet manufacturer Ledger is investigating after users reported having wallets drained. This post Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T16:43:45+00:00",
+   "last_seen": "2026-10-09T16:43:45+00:00",
+   "summary": "Bitcoin Magazine Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users Report Losses Hardware wallet manufacturer Ledger is investigating after users reported having wallets drained. This post Ledger Warns Buyers Not to Set Up Wallets From Reseller After Users...",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
   {
    "id": "61ae208e9a",
    "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",

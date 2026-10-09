@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-09T05:36:29.315726+00:00",
+ "updated": "2026-10-09T06:44:59.842514+00:00",
  "events": [
+  {
+   "id": "8bcfca6137",
+   "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
+   "date": "2026-10-09T06:40:54+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",
+     "url": "https://www.coindesk.com/markets/2026/10/09/new-tech-to-power-bitcoin-lending-is-set-to-debut-with-usd500-million-in-commitments",
+     "date": "2026-10-09T06:40:54+00:00",
+     "summary": "Layer-1 blockchain Sui is launching Hashi, an institutional protocol allowing holders to use bitcoin as collateral without moving it off the Bitcoin network."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T06:40:54+00:00",
+   "last_seen": "2026-10-09T06:40:54+00:00",
+   "summary": "Layer-1 blockchain Sui is launching Hashi, an institutional protocol allowing holders to use bitcoin as collateral without moving it off the Bitcoin network.",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
+  {
+   "id": "bafb9d77e7",
+   "title": "Coinbase rolls out 10x spot leverage, but blocks US retail from it",
+   "date": "2026-10-09T06:30:02+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Coinbase rolls out 10x spot leverage, but blocks US retail from it",
+     "url": "https://cryptoslate.com/coinbase-rolls-out-10x-spot-leverage-but-blocks-us-retail-from-it/",
+     "date": "2026-10-09T06:30:02+00:00",
+     "summary": "The coming-weeks rollout limits US access to Eligible Contract Participants and puts borrowers\u2019 collateral at risk. The post Coinbase rolls out 10x spot leverage, but blocks US retail from it appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T06:30:02+00:00",
+   "last_seen": "2026-10-09T06:30:02+00:00",
+   "summary": "The coming-weeks rollout limits US access to Eligible Contract Participants and puts borrowers\u2019 collateral at risk. The post Coinbase rolls out 10x spot leverage, but blocks US retail from it appeared first on CryptoSlate .",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "8787b95d30",
+   "title": "Crypto projects apply for Anthropic\u2019s new frontier AI security scanner",
+   "date": "2026-10-09T05:34:33+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto projects apply for Anthropic\u2019s new frontier AI security scanner",
+     "url": "https://cointelegraph.com/news/crypto-projects-apply-for-anthropics-new-frontier-ai-security-scanner?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T05:34:33+00:00",
+     "summary": "Anthropic\u2019s new opt-in service promises vulnerability reports from its strongest AI models, including Claude Mythos."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T05:34:33+00:00",
+   "last_seen": "2026-10-09T05:34:33+00:00",
+   "summary": "Anthropic\u2019s new opt-in service promises vulnerability reports from its strongest AI models, including Claude Mythos.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "305e1b7449",
    "title": "Trump administration outlines quantum, AI initiatives in $6B science push",

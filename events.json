@@ -1,6 +1,93 @@
 {
- "updated": "2026-10-09T08:38:02.868540+00:00",
+ "updated": "2026-10-09T09:37:54.764879+00:00",
  "events": [
+  {
+   "id": "6b2c0beea1",
+   "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
+   "date": "2026-10-09T09:20:16+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Dark web drug market operator sentenced to 40 years, forfeits $101 million in bitcoin",
+     "url": "https://www.coindesk.com/policy/2026/10/09/dark-web-drug-market-operator-forfeits-1-230-bitcoin-and-faces-40-years-in-prison",
+     "date": "2026-10-09T09:20:16+00:00",
+     "summary": "A man from Virginia, who facilitated millions of drug transactions worth roughly $430 million, agreed to give up $100 million worth of BTC. His partner forfeited nearly 1,600 BTC."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T09:20:16+00:00",
+   "last_seen": "2026-10-09T09:20:16+00:00",
+   "summary": "A man from Virginia, who facilitated millions of drug transactions worth roughly $430 million, agreed to give up $100 million worth of BTC. His partner forfeited nearly 1,600 BTC.",
+   "tags": [
+    "bitcoin",
+    "legal"
+   ]
+  },
+  {
+   "id": "f665178ab9",
+   "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
+   "date": "2026-10-09T09:08:09+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "MARA transfers $81.1 million in bitcoin to Galaxy Digital as strategy pivots to AI",
+     "url": "https://www.coindesk.com/markets/2026/10/09/mara-transfers-usd81-1-million-in-bitcoin-to-galaxy-digital-as-strategy-pivots-to-ai",
+     "date": "2026-10-09T09:08:09+00:00",
+     "summary": "The bitcoin miner\u2019s transfer does not confirm a sale, but comes as its treasury has fallen from 53,822 BTC in February to 35,577 BTC in August."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T09:08:09+00:00",
+   "last_seen": "2026-10-09T09:08:09+00:00",
+   "summary": "The bitcoin miner\u2019s transfer does not confirm a sale, but comes as its treasury has fallen from 53,822 BTC in February to 35,577 BTC in August.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "0ead5db0a1",
+   "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
+   "date": "2026-10-09T09:06:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Sam Altman-backed bitcoin insurer Meanwhile secures $37.5 million in Bain Capital Crypto-led round",
+     "url": "https://www.coindesk.com/business/2026/10/09/sam-altman-backed-bitcoin-insurer-meanwhile-secures-usd37-5-million-in-bain-capital-crypto-led-round",
+     "date": "2026-10-09T09:06:00+00:00",
+     "summary": "Meanwhile has signed 15 brokers serving high-net worth clients across markets iSwitzerland, Singapore, Hong Kong and the UAE."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T09:06:00+00:00",
+   "last_seen": "2026-10-09T09:06:00+00:00",
+   "summary": "Meanwhile has signed 15 brokers serving high-net worth clients across markets iSwitzerland, Singapore, Hong Kong and the UAE.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "0b3ee4f2b7",
+   "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
+   "date": "2026-10-09T08:59:31+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "SIM-Swap Fraudster Who Spent Stolen Crypto on Gold Grills and Dubai Trips Jailed",
+     "url": "https://decrypt.co/380554/sim-swap-fraudster-who-spent-stolen-crypto-on-gold-grills-and-dubai-trips-jailed",
+     "date": "2026-10-09T08:59:31+00:00",
+     "summary": "Ajay Shinjin helped steal nearly $265,000 in crypto after criminals hijacked BT customers' phone numbers in November 2021."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T08:59:31+00:00",
+   "last_seen": "2026-10-09T08:59:31+00:00",
+   "summary": "Ajay Shinjin helped steal nearly $265,000 in crypto after criminals hijacked BT customers' phone numbers in November 2021.",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "a81171bad2",
    "title": "Coinbase streams $150,000 Singapore trading cup and crowns its first champion",

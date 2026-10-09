@@ -1,6 +1,150 @@
 {
- "updated": "2026-10-09T13:38:54.326786+00:00",
+ "updated": "2026-10-09T14:40:11.946524+00:00",
  "events": [
+  {
+   "id": "f82973a78c",
+   "title": "Mashinsky Accepts Lifetime Industry Ban and Up to $35 Million in Conditional Payments",
+   "date": "2026-10-09T14:27:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Mashinsky Accepts Lifetime Industry Ban and Up to $35 Million in Conditional Payments",
+     "url": "https://thedefiant.io/news/regulation/mashinsky-accepts-lifetime-industry-ban-and-up-to-35-million-in-conditional-payments",
+     "date": "2026-10-09T14:27:18+00:00",
+     "summary": "The New York settlement ties the money to federal forfeiture and prison-sentence conditions, adding to existing FTC and CFTC restrictions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T14:27:18+00:00",
+   "last_seen": "2026-10-09T14:27:18+00:00",
+   "summary": "The New York settlement ties the money to federal forfeiture and prison-sentence conditions, adding to existing FTC and CFTC restrictions.",
+   "tags": [
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "cbed5ad61f",
+   "title": "Franklin Templeton and Animoca Plan Broader Asset Lineup for NUVA",
+   "date": "2026-10-09T14:23:01+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Franklin Templeton and Animoca Plan Broader Asset Lineup for NUVA",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/franklin-templeton-and-animoca-plan-broader-asset-lineup-for-nuva",
+     "date": "2026-10-09T14:23:01+00:00",
+     "summary": "NUVA launched on Ethereum in May with vaults tied to YLDS and home-equity credit. The partners also plan to explore tokenized cultural assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T14:23:01+00:00",
+   "last_seen": "2026-10-09T14:23:01+00:00",
+   "summary": "NUVA launched on Ethereum in May with vaults tied to YLDS and home-equity credit. The partners also plan to explore tokenized cultural assets.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "145865d03c",
+   "title": "New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky",
+   "date": "2026-10-09T14:16:15+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "New York AG secures up to $35 million from former Celsius CEO Alex Mashinsky",
+     "url": "https://www.theblock.co/news/regulation/2026-10-09-ny-attorney-general-alex-mashinsky-celsius-35-million-ban-418154",
+     "date": "2026-10-09T14:16:15+00:00",
+     "summary": "NY AG Letitia James secured up to $35M from ex-Celsius CEO Alex Mashinsky and a permanent ban from the securities and crypto industries."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T14:16:15+00:00",
+   "last_seen": "2026-10-09T14:16:15+00:00",
+   "summary": "NY AG Letitia James secured up to $35M from ex-Celsius CEO Alex Mashinsky and a permanent ban from the securities and crypto industries.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "90abfe2966",
+   "title": "Dragonfly partner rejects \u2018bunker mode\u2019 doomerism, calls for proactive blockchain measures",
+   "date": "2026-10-09T13:49:22+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Dragonfly partner rejects \u2018bunker mode\u2019 doomerism, calls for proactive blockchain measures",
+     "url": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T13:49:22+00:00",
+     "summary": "Dragonfly\u2019s Qureshi argued that asset migration is not a real solution in case of AI models breaking cryptographic signatures, and urged blockchains to adopt proactive measures."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T13:49:22+00:00",
+   "last_seen": "2026-10-09T13:49:22+00:00",
+   "summary": "Dragonfly\u2019s Qureshi argued that asset migration is not a real solution in case of AI models breaking cryptographic signatures, and urged blockchains to adopt proactive measures.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "0b915a14f9",
+   "title": "UTXO\u2019s Loren Asmus: The $300T Bond Market Is Bitcoin\u2019s Next Frontier",
+   "date": "2026-10-09T13:44:49+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "UTXO\u2019s Loren Asmus: The $300T Bond Market Is Bitcoin\u2019s Next Frontier",
+     "url": "https://bitcoinmagazine.com/videos/utxos-loren-asmus-the-300t-bond-market-is-bitcoins-next-frontier",
+     "date": "2026-10-09T13:44:49+00:00",
+     "summary": "Bitcoin Magazine UTXO\u2019s Loren Asmus: The $300T Bond Market Is Bitcoin&#8217;s Next Frontier UTXO Management's Loren Asmus: Bitcoin isn't a trade, but a portfolio staple. He breaks down institutional adoption, retention, and why education is key. This post UTXO\u2019s Loren Asmus: The..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T13:44:49+00:00",
+   "last_seen": "2026-10-09T13:44:49+00:00",
+   "summary": "Bitcoin Magazine UTXO\u2019s Loren Asmus: The $300T Bond Market Is Bitcoin&#8217;s Next Frontier UTXO Management's Loren Asmus: Bitcoin isn't a trade, but a portfolio staple. He breaks down institutional adoption, retention, and why education is key. This post UTXO\u2019s Loren Asmus: The...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "ac65b9f09a",
+   "title": "Ledger Asks CryptoBilis to Halt Sales Amid Reports of Lost Funds",
+   "date": "2026-10-09T13:43:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ledger Asks CryptoBilis to Halt Sales Amid Reports of Lost Funds",
+     "url": "https://thedefiant.io/news/hacks/ledger-asks-cryptobilis-to-halt-sales-amid-reports-of-lost-funds",
+     "date": "2026-10-09T13:43:35+00:00",
+     "summary": "Buyers from the past 90 days were urged to delay setup or consider moving assets to a new Ledger device with a new seed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T13:43:35+00:00",
+   "last_seen": "2026-10-09T13:43:35+00:00",
+   "summary": "Buyers from the past 90 days were urged to delay setup or consider moving assets to a new Ledger device with a new seed.",
+   "tags": []
+  },
+  {
+   "id": "9bd5071116",
+   "title": "Polygon\u2019s 8 million USDT0 holders face scrutiny as 58% of growth matches scam patterns",
+   "date": "2026-10-09T13:40:01+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Polygon\u2019s 8 million USDT0 holders face scrutiny as 58% of growth matches scam patterns",
+     "url": "https://cryptoslate.com/polygons-8-million-usdt0-holders-face-scrutiny-as-58-of-growth-matches-scam-patterns/",
+     "date": "2026-10-09T13:40:01+00:00",
+     "summary": "The Oct. 7 audit estimates about 1.1 million scam look-alikes, while addresses holding at least $10 fell 42% since August 2025. The post Polygon&#8217;s 8 million USDT0 holders face scrutiny as 58% of growth matches scam patterns appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T13:40:01+00:00",
+   "last_seen": "2026-10-09T13:40:01+00:00",
+   "summary": "The Oct. 7 audit estimates about 1.1 million scam look-alikes, while addresses holding at least $10 fell 42% since August 2025. The post Polygon&#8217;s 8 million USDT0 holders face scrutiny as 58% of growth matches scam patterns appeared first on CryptoSlate .",
+   "tags": []
+  },
   {
    "id": "3463ed3d22",
    "title": "Bitcoin Core developer responds to AI & Quantum Risk",

@@ -1,6 +1,139 @@
 {
- "updated": "2026-10-09T10:37:26.506160+00:00",
+ "updated": "2026-10-09T11:33:48.771773+00:00",
  "events": [
+  {
+   "id": "36907e9d4f",
+   "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
+   "date": "2026-10-09T11:09:04+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
+     "date": "2026-10-09T11:09:04+00:00",
+     "summary": "Your day-ahead look for Oct. 9, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T11:09:04+00:00",
+   "last_seen": "2026-10-09T11:09:04+00:00",
+   "summary": "Your day-ahead look for Oct. 9, 2026",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "69b8a75cc7",
+   "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
+   "date": "2026-10-09T10:49:24+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
+     "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T10:49:24+00:00",
+     "summary": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulatory measures are necessary."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T10:49:24+00:00",
+   "last_seen": "2026-10-09T10:49:24+00:00",
+   "summary": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulatory measures are necessary.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "fe67d9aa8c",
+   "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
+   "date": "2026-10-09T10:44:22+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin steadies near $82,500 after Trump rules out Iran strike before midterms",
+     "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
+     "date": "2026-10-09T10:44:22+00:00",
+     "summary": "Bitcoin recovered to around $82,500 after Trump ruled out an Iran strike, but remains about 4% lower on the week, while ether has lost 9%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T10:44:22+00:00",
+   "last_seen": "2026-10-09T10:44:22+00:00",
+   "summary": "Bitcoin recovered to around $82,500 after Trump ruled out an Iran strike, but remains about 4% lower on the week, while ether has lost 9%.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "e00e108eb3",
+   "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
+   "date": "2026-10-09T10:40:59+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
+     "url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
+     "date": "2026-10-09T10:40:59+00:00",
+     "summary": "Thailand's SEC has limited initial crypto ETFs to bitcoin and ether, with new custody, exposure, and trading rules taking effect Oct. 16."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T10:40:59+00:00",
+   "last_seen": "2026-10-09T10:40:59+00:00",
+   "summary": "Thailand's SEC has limited initial crypto ETFs to bitcoin and ether, with new custody, exposure, and trading rules taking effect Oct. 16.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum",
+    "regulation"
+   ]
+  },
+  {
+   "id": "47a45e032c",
+   "title": "AI agents can pay for your shopping. Who gets your money back?",
+   "date": "2026-10-09T10:40:44+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "AI agents can pay for your shopping. Who gets your money back?",
+     "url": "https://cryptoslate.com/ai-agents-hijack-online-shopping-forcing-a-6b-merchant-crisis/",
+     "date": "2026-10-09T10:40:44+00:00",
+     "summary": "Amazon's Bedrock AgentCore Payments, built with Coinbase and Stripe, lets AI agents discover paid services, authenticate, and pay with stablecoins and x402 under preset spending limits. AI agents are getting wallets before merchants get a court, and shopping agents have started..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T10:40:44+00:00",
+   "last_seen": "2026-10-09T10:40:44+00:00",
+   "summary": "Amazon's Bedrock AgentCore Payments, built with Coinbase and Stripe, lets AI agents discover paid services, authenticate, and pay with stablecoins and x402 under preset spending limits. AI agents are getting wallets before merchants get a court, and shopping agents have started...",
+   "tags": [
+    "ai",
+    "exchanges",
+    "legal"
+   ]
+  },
+  {
+   "id": "b9f2376f8d",
+   "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
+   "date": "2026-10-09T10:34:37+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "UK sanctions three crypto exchanges tied to Russian illicit funds",
+     "url": "https://cointelegraph.com/news/uk-sanctions-crypto-exchanges-russian-illicit-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T10:34:37+00:00",
+     "summary": "The UK sanctioned crypto exchanges and payment processors, some of which were tied to thousands of Russian entities and the sanctioned HTX exchange."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T10:34:37+00:00",
+   "last_seen": "2026-10-09T10:34:37+00:00",
+   "summary": "The UK sanctioned crypto exchanges and payment processors, some of which were tied to thousands of Russian entities and the sanctioned HTX exchange.",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "3e410bfb7c",
    "title": "Thailand opens door to locally listed bitcoin and ether ETFs",

@@ -1,6 +1,103 @@
 {
- "updated": "2026-10-09T11:33:48.771773+00:00",
+ "updated": "2026-10-09T12:42:19.308237+00:00",
  "events": [
+  {
+   "id": "381f7bb51e",
+   "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
+   "date": "2026-10-09T12:23:54+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "DWF Labs subsidiaries sue BitGo for $141 million over alleged token lock-up breach",
+     "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
+     "date": "2026-10-09T12:23:54+00:00",
+     "summary": "DWF is seeking $114 million in damages on the basis BitGo\u2019s token sales resulted in direct losses through the fall in tokens' prices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T12:23:54+00:00",
+   "last_seen": "2026-10-09T12:23:54+00:00",
+   "summary": "DWF is seeking $114 million in damages on the basis BitGo\u2019s token sales resulted in direct losses through the fall in tokens' prices.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "ea9015e7d5",
+   "title": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
+   "date": "2026-10-09T12:04:07+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "UK Targets Cryptomus and TokenSpot in New Russia Sanctions Package",
+     "url": "https://decrypt.co/380568/uk-targets-cryptomus-and-tokenspot-in-new-russia-sanctions-package",
+     "date": "2026-10-09T12:04:07+00:00",
+     "summary": "The package hits five crypto and payment platforms, two of which handled transactions with Russia\u2019s A7 network, the UK government said."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T12:04:07+00:00",
+   "last_seen": "2026-10-09T12:04:07+00:00",
+   "summary": "The package hits five crypto and payment platforms, two of which handled transactions with Russia\u2019s A7 network, the UK government said.",
+   "tags": []
+  },
+  {
+   "id": "d097fcbc69",
+   "title": "Backing Polymarket\u2019s primary favorites would have lost 4%, new audit finds.",
+   "date": "2026-10-09T12:00:22+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Backing Polymarket\u2019s primary favorites would have lost 4%, new audit finds.",
+     "url": "https://cryptoslate.com/backing-polymarkets-primary-favorites-would-have-lost-4-new-audit-finds/",
+     "date": "2026-10-09T12:00:22+00:00",
+     "summary": "Bitquery\u2019s 273-race scorecard found an 87% win rate, but its equal-dollar hypothetical shows why accurate calls can come at losing prices. The post Backing Polymarket\u2019s primary favorites would have lost 4%, new audit finds. appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T12:00:22+00:00",
+   "last_seen": "2026-10-09T12:00:22+00:00",
+   "summary": "Bitquery\u2019s 273-race scorecard found an 87% win rate, but its equal-dollar hypothetical shows why accurate calls can come at losing prices. The post Backing Polymarket\u2019s primary favorites would have lost 4%, new audit finds. appeared first on CryptoSlate .",
+   "tags": []
+  },
+  {
+   "id": "8780aa57e2",
+   "title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
+   "date": "2026-10-09T11:41:15+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
+     "url": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
+     "date": "2026-10-09T11:41:15+00:00",
+     "summary": "Is this the beginning of a bigger selloff with the anniversary of 10/10 looming? Or just a leverage flush before the next leg up?"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T11:41:15+00:00",
+   "last_seen": "2026-10-09T11:41:15+00:00",
+   "summary": "Is this the beginning of a bigger selloff with the anniversary of 10/10 looming? Or just a leverage flush before the next leg up?",
+   "tags": []
+  },
+  {
+   "id": "f8828fbed7",
+   "title": "Zcash developers set January target for quantum-resistant payments after \u2018bunker mode\u2019 scare",
+   "date": "2026-10-09T11:39:05+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Zcash developers set January target for quantum-resistant payments after \u2018bunker mode\u2019 scare",
+     "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
+     "date": "2026-10-09T11:39:05+00:00",
+     "summary": "The plan concerns public payments, where about seven in 10 ZEC sit. A separate wallet tool would keep balance checks from revealing which addresses belong together."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T11:39:05+00:00",
+   "last_seen": "2026-10-09T11:39:05+00:00",
+   "summary": "The plan concerns public payments, where about seven in 10 ZEC sit. A separate wallet tool would keep balance checks from revealing which addresses belong together.",
+   "tags": []
+  },
   {
    "id": "36907e9d4f",
    "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",

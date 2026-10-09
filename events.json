@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-09T07:37:46.199357+00:00",
+ "updated": "2026-10-09T08:38:02.868540+00:00",
  "events": [
+  {
+   "id": "a81171bad2",
+   "title": "Coinbase streams $150,000 Singapore trading cup and crowns its first champion",
+   "date": "2026-10-09T08:30:11+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Coinbase streams $150,000 Singapore trading cup and crowns its first champion",
+     "url": "https://cryptoslate.com/coinbase-streams-150000-singapore-trading-cup-and-crowns-its-first-champion/",
+     "date": "2026-10-09T08:30:11+00:00",
+     "summary": "The exchange paired walkouts and memes with a ten-trader tournament; its displayed leaderboard listed Intern first without confirming a winner. The post Coinbase streams $150,000 Singapore trading cup and crowns its first champion appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T08:30:11+00:00",
+   "last_seen": "2026-10-09T08:30:11+00:00",
+   "summary": "The exchange paired walkouts and memes with a ten-trader tournament; its displayed leaderboard listed Intern first without confirming a winner. The post Coinbase streams $150,000 Singapore trading cup and crowns its first champion appeared first on CryptoSlate .",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "1dbf85b076",
    "title": "Bitcoin, Ether ETFs\u2019 October outflows swell toward $1B",

@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-09T06:44:59.842514+00:00",
+ "updated": "2026-10-09T07:37:46.199357+00:00",
  "events": [
+  {
+   "id": "1dbf85b076",
+   "title": "Bitcoin, Ether ETFs\u2019 October outflows swell toward $1B",
+   "date": "2026-10-09T07:34:44+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin, Ether ETFs\u2019 October outflows swell toward $1B",
+     "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T07:34:44+00:00",
+     "summary": "Bitcoin ETFs lost $244 million on Thursday, while Ether funds extended their outflow streak to eight sessions, shedding $641 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T07:34:44+00:00",
+   "last_seen": "2026-10-09T07:34:44+00:00",
+   "summary": "Bitcoin ETFs lost $244 million on Thursday, while Ether funds extended their outflow streak to eight sessions, shedding $641 million.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "106e6c243b",
+   "title": "EU regulators target non-compliant stablecoins with a 90-day deadline",
+   "date": "2026-10-09T07:20:02+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "EU regulators target non-compliant stablecoins with a 90-day deadline",
+     "url": "https://cryptoslate.com/eu-regulators-target-non-compliant-stablecoins-with-a-90-day-deadline/",
+     "date": "2026-10-09T07:20:02+00:00",
+     "summary": "National regulators should require remediation within three months and may permit narrowly supervised exit services for existing holdings. The post EU regulators target non-compliant stablecoins with a 90-day deadline appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T07:20:02+00:00",
+   "last_seen": "2026-10-09T07:20:02+00:00",
+   "summary": "National regulators should require remediation within three months and may permit narrowly supervised exit services for existing holdings. The post EU regulators target non-compliant stablecoins with a 90-day deadline appeared first on CryptoSlate .",
+   "tags": []
+  },
+  {
+   "id": "5ec6829f69",
+   "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
+   "date": "2026-10-09T06:51:32+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: XRP ETFs the only ones in green as BTC, ETH, ZEC funds post outflows",
+     "url": "https://www.coindesk.com/business/2026/10/09/live-updates-xrp-etfs-the-only-ones-in-green-as-btc-eth-zec-funds-post-outflows",
+     "date": "2026-10-09T06:51:32+00:00",
+     "summary": "Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of October outflows. Bitcoin is back near $82,000 after a $1 billion liquidation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T06:51:32+00:00",
+   "last_seen": "2026-10-09T06:51:32+00:00",
+   "summary": "Bitcoin ETFs lost $244 million on Thursday and the ZEC fund extended a run of October outflows. Bitcoin is back near $82,000 after a $1 billion liquidation.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum",
+    "markets"
+   ]
+  },
   {
    "id": "8bcfca6137",
    "title": "New tech to power bitcoin lending is set to debut with $500 million in commitments",

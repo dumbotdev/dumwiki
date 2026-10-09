@@ -1,6 +1,141 @@
 {
- "updated": "2026-10-09T15:36:13.135390+00:00",
+ "updated": "2026-10-09T16:36:41.558546+00:00",
  "events": [
+  {
+   "id": "61ae208e9a",
+   "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+   "date": "2026-10-09T16:36:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Ethereum L2 Starknet Jumps 20% After Saying It Wants to Become an L1",
+     "url": "https://decrypt.co/380585/ethereum-l2-starknet-jumps-20-after-saying-it-wants-to-become-an-l1",
+     "date": "2026-10-09T16:36:03+00:00",
+     "summary": "Starknet is \"actively considering\" becoming its own blockchain, a move it says would make it the first fully quantum-resistant network by 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T16:36:03+00:00",
+   "last_seen": "2026-10-09T16:36:03+00:00",
+   "summary": "Starknet is \"actively considering\" becoming its own blockchain, a move it says would make it the first fully quantum-resistant network by 2027.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "1beb6e6563",
+   "title": "Telegram Rolls Out Money Wallet for Gram Transfers and Collectibles",
+   "date": "2026-10-09T16:23:22+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Telegram Rolls Out Money Wallet for Gram Transfers and Collectibles",
+     "url": "https://thedefiant.io/news/blockchains/telegram-rolls-out-money-wallet-for-gram-transfers-and-collectibles",
+     "date": "2026-10-09T16:23:22+00:00",
+     "summary": "The Money section appears after an incoming transfer, according to Walt, the separate service formerly known as Wallet."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T16:23:22+00:00",
+   "last_seen": "2026-10-09T16:23:22+00:00",
+   "summary": "The Money section appears after an incoming transfer, according to Walt, the separate service formerly known as Wallet.",
+   "tags": []
+  },
+  {
+   "id": "b36e032080",
+   "title": "Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC",
+   "date": "2026-10-09T16:05:22+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives trading: CNBC",
+     "url": "https://www.theblock.co/news/business/2026-10-09-blockchain-com-cftc-license-prediction-markets-derivatives-418192",
+     "date": "2026-10-09T16:05:22+00:00",
+     "summary": "Blockchain.com has applied for DCM and FCM licenses to offer ahead of a planned $500 million IPO."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Blockchain.com pursues CFTC approval for prediction markets: CNBC",
+     "url": "https://cointelegraph.com/news/blockchain-cftc-approval-derivatives-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T16:22:45+00:00",
+     "summary": "The crypto company has reportedly applied for two licenses with the US commodities regulatory as the courts weigh prediction markets cases."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-10-09T16:05:22+00:00",
+   "last_seen": "2026-10-09T16:22:45+00:00",
+   "summary": "The crypto company has reportedly applied for two licenses with the US commodities regulatory as the courts weigh prediction markets cases.",
+   "tags": [
+    "funding",
+    "regulation"
+   ]
+  },
+  {
+   "id": "093ac69943",
+   "title": "OpenAI, Google and Meta battle for AI internet domains as crypto firms target .bitcoin and .wallet",
+   "date": "2026-10-09T16:00:55+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "OpenAI, Google and Meta battle for AI internet domains as crypto firms target .bitcoin and .wallet",
+     "url": "https://cryptoslate.com/openai-google-and-meta-battle-for-ai-internet-domains-as-crypto-firms-target-bitcoin-and-wallet/",
+     "date": "2026-10-09T16:00:55+00:00",
+     "summary": "CryptoSlate's tally shows 11 applications for .bit and five for .crypto, with final strings due Nov. 17. The post OpenAI, Google and Meta battle for AI internet domains as crypto firms target .bitcoin and .wallet appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T16:00:55+00:00",
+   "last_seen": "2026-10-09T16:00:55+00:00",
+   "summary": "CryptoSlate's tally shows 11 applications for .bit and five for .crypto, with final strings due Nov. 17. The post OpenAI, Google and Meta battle for AI internet domains as crypto firms target .bitcoin and .wallet appeared first on CryptoSlate .",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "3508f6344d",
+   "title": "Ostium Proposes Equity Stakes For Hacked Liquidity Providers",
+   "date": "2026-10-09T16:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ostium Proposes Equity Stakes For Hacked Liquidity Providers",
+     "url": "https://thedefiant.io/news/hacks/ostium-proposes-equity-stakes-for-hacked-liquidity-providers",
+     "date": "2026-10-09T16:00:00+00:00",
+     "summary": "Stage 2 pairs a pro-rata claim on recovered funds and half of Ostium's opening fees with an optional equity allocation priced at the company's next round. The percentages are still unset, and holders have until Oct. 30 to elect."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T16:00:00+00:00",
+   "last_seen": "2026-10-09T16:00:00+00:00",
+   "summary": "Stage 2 pairs a pro-rata claim on recovered funds and half of Ostium's opening fees with an optional equity allocation priced at the company's next round. The percentages are still unset, and holders have until Oct. 30 to elect.",
+   "tags": [
+    "defi",
+    "security"
+   ]
+  },
+  {
+   "id": "acbe77f35b",
+   "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren\u2019t sold",
+   "date": "2026-10-09T15:51:53+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto Biz: Wealthy investors are buying crypto, but their advisers aren\u2019t sold",
+     "url": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T15:51:53+00:00",
+     "summary": "Wealthy investors are embracing crypto faster than their advisers, while OKX attracts new funding and Strategy shifts more capital toward preferred stock buybacks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T15:51:53+00:00",
+   "last_seen": "2026-10-09T15:51:53+00:00",
+   "summary": "Wealthy investors are embracing crypto faster than their advisers, while OKX attracts new funding and Strategy shifts more capital toward preferred stock buybacks.",
+   "tags": [
+    "exchanges",
+    "funding"
+   ]
+  },
   {
    "id": "f364127c9e",
    "title": "Ledger Probes Potential Theft of $87M in User Funds Tied to Crypto Wallet Reseller",
@@ -227,11 +362,18 @@
      "url": "https://www.coindesk.com/policy/2026/10/09/new-york-ag-secures-up-to-usd35-million-and-lifetime-crypto-ban-from-celsius-alex-mashinsky",
      "date": "2026-10-09T14:55:23+00:00",
      "summary": "Alex Mashinsky, already serving 12 years for fraud, settled New York\u2019s civil case over claims he misled Celsius customers about the failed crypto lender\u2019s safety."
+    },
+    {
+     "source": "Decrypt",
+     "title": "New York AG Secures Up to $35M and Industry Ban From Ex-Celsius CEO Alex Mashinsky",
+     "url": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
+     "date": "2026-10-09T16:07:07+00:00",
+     "summary": "Mashinsky owes New York $25 million if he fails to forfeit another $10 million, and $10 million more if he doesn't serve his full sentence."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-10-09T14:16:15+00:00",
-   "last_seen": "2026-10-09T14:55:23+00:00",
+   "last_seen": "2026-10-09T16:07:07+00:00",
    "summary": "Alex Mashinsky, already serving 12 years for fraud, settled New York\u2019s civil case over claims he misled Celsius customers about the failed crypto lender\u2019s safety.",
    "tags": [
     "legal",
@@ -477,13 +619,21 @@
      "url": "https://www.coindesk.com/policy/2026/10/09/dwf-labs-subsidiaries-sue-bitgo-for-usd141-million-over-alleged-token-lock-up-breach",
      "date": "2026-10-09T12:23:54+00:00",
      "summary": "DWF is seeking $114 million in damages on the basis BitGo\u2019s token sales resulted in direct losses through the fall in tokens' prices."
+    },
+    {
+     "source": "Decrypt",
+     "title": "DWF Labs Subsidiaries Sue BitGo for $141 Million Over Early Token Sales",
+     "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
+     "date": "2026-10-09T16:08:23+00:00",
+     "summary": "The DWF Labs-linked firms allege in London\u2019s High Court that BitGo sold discounted Falcon Finance and ESPORTS tokens roughly two months before their lock-up expired, cratering the value of their remaining holdings."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-09T12:23:54+00:00",
-   "last_seen": "2026-10-09T12:23:54+00:00",
-   "summary": "DWF is seeking $114 million in damages on the basis BitGo\u2019s token sales resulted in direct losses through the fall in tokens' prices.",
+   "last_seen": "2026-10-09T16:08:23+00:00",
+   "summary": "The DWF Labs-linked firms allege in London\u2019s High Court that BitGo sold discounted Falcon Finance and ESPORTS tokens roughly two months before their lock-up expired, cratering the value of their remaining holdings.",
    "tags": [
+    "legal",
     "security"
    ]
   },

@@ -1,6 +1,112 @@
 {
- "updated": "2026-10-09T18:39:33.189944+00:00",
+ "updated": "2026-10-09T19:35:08.010453+00:00",
  "events": [
+  {
+   "id": "9c78a26a4b",
+   "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+   "date": "2026-10-09T19:04:03+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+     "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-09T19:04:03+00:00",
+     "summary": "Chad Barraford, technical co-founder of the network, said that the funds were frozen and then unfrozen without explanation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T19:04:03+00:00",
+   "last_seen": "2026-10-09T19:04:03+00:00",
+   "summary": "Chad Barraford, technical co-founder of the network, said that the funds were frozen and then unfrozen without explanation.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f4d4bf4397",
+   "title": "Hoskinson says Vitalik\u2019s AI warning could delay the internet\u2019s quantum defenses",
+   "date": "2026-10-09T19:00:27+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Hoskinson says Vitalik\u2019s AI warning could delay the internet\u2019s quantum defenses",
+     "url": "https://cryptoslate.com/cardanos-hoskinson-hoskinson-slams-vitalik-buterins-ai-doomsday-warning-as-a-threat-to-cryptos-quantum-future/",
+     "date": "2026-10-09T19:00:27+00:00",
+     "summary": "Cardano founder Charles Hoskinson accused Vitalik Buterin of undermining quantum-resistant cryptography with speculative warnings about AI-driven mathematical breakthroughs. In an Oct. 9 post, Hoskinson challenged the Ethereum co-founder's skepticism toward lattice-based..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T19:00:27+00:00",
+   "last_seen": "2026-10-09T19:00:27+00:00",
+   "summary": "Cardano founder Charles Hoskinson accused Vitalik Buterin of undermining quantum-resistant cryptography with speculative warnings about AI-driven mathematical breakthroughs. In an Oct. 9 post, Hoskinson challenged the Ethereum co-founder's skepticism toward lattice-based...",
+   "tags": [
+    "ai",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "22494c741d",
+   "title": "Former FTX COO says Netflix\u2019s \u2018Altruists\u2019 trailer \u2018made me physically throw up\u2019",
+   "date": "2026-10-09T18:51:45+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Former FTX COO says Netflix\u2019s \u2018Altruists\u2019 trailer \u2018made me physically throw up\u2019",
+     "url": "https://www.theblock.co/news/business/2026-10-09-former-ftx-coo-netflix-the-altruists-trailer-418208",
+     "date": "2026-10-09T18:51:45+00:00",
+     "summary": "Former FTX COO Constance Wang says Netflix's \"The Altruists\" misrepresents FTX's collapse and turns it into a love story."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T18:51:45+00:00",
+   "last_seen": "2026-10-09T18:51:45+00:00",
+   "summary": "Former FTX COO Constance Wang says Netflix's \"The Altruists\" misrepresents FTX's collapse and turns it into a love story.",
+   "tags": []
+  },
+  {
+   "id": "0f68ae8fa1",
+   "title": "NEAR Gains 83% in Four Weeks, Outpacing Bitcoin and Ether",
+   "date": "2026-10-09T18:48:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "NEAR Gains 83% in Four Weeks, Outpacing Bitcoin and Ether",
+     "url": "https://thedefiant.io/news/markets/near-gains-83-in-four-weeks-outpacing-bitcoin-and-ether",
+     "date": "2026-10-09T18:48:09+00:00",
+     "summary": "A draft plan would lower maximum annual issuance from 2.5% to 1.6%, reducing both dilution and staking rewards."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T18:48:09+00:00",
+   "last_seen": "2026-10-09T18:48:09+00:00",
+   "summary": "A draft plan would lower maximum annual issuance from 2.5% to 1.6%, reducing both dilution and staking rewards.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "3aa21f9d45",
+   "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+   "date": "2026-10-09T18:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+     "url": "https://decrypt.co/380619/senate-democrat-cantor-fitzgerald-tether-lutnick",
+     "date": "2026-10-09T18:46:03+00:00",
+     "summary": "Sen. Richard Blumenthal wants Cantor Fitzgerald to open its records on Tether and on how much Commerce Secretary Howard Lutnick's family has earned from its business deal."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T18:46:03+00:00",
+   "last_seen": "2026-10-09T18:46:03+00:00",
+   "summary": "Sen. Richard Blumenthal wants Cantor Fitzgerald to open its records on Tether and on how much Commerce Secretary Howard Lutnick's family has earned from its business deal.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "f725a21da8",
    "title": "Robinhood Chain considers technology that gives paying traders priority",

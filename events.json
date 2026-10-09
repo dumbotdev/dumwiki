@@ -1,6 +1,89 @@
 {
- "updated": "2026-10-09T03:37:06.660391+00:00",
+ "updated": "2026-10-09T04:37:18.830129+00:00",
  "events": [
+  {
+   "id": "4642e040be",
+   "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
+   "date": "2026-10-09T04:35:52+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Solana is about to halve its block times as final 200-millisecond upgrade nears",
+     "url": "https://www.coindesk.com/tech/2026/10/09/solana-is-about-to-halve-its-block-times-as-final-200-millisecond-upgrade-nears",
+     "date": "2026-10-09T04:35:52+00:00",
+     "summary": "The network is completing a seven-week push to produce blocks twice as frequently, though validators face higher costs and tighter operating windows."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T04:35:52+00:00",
+   "last_seen": "2026-10-09T04:35:52+00:00",
+   "summary": "The network is completing a seven-week push to produce blocks twice as frequently, though validators face higher costs and tighter operating windows.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "1006acbad0",
+   "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+   "date": "2026-10-09T04:21:36+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "XRP Ledger adds new controls for banks, stablecoins and tokenized funds",
+     "url": "https://www.coindesk.com/tech/2026/10/09/xrp-ledger-adds-new-controls-for-banks-stablecoins-and-tokenized-funds",
+     "date": "2026-10-09T04:21:36+00:00",
+     "summary": "The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control their main holdings offline."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T04:21:36+00:00",
+   "last_seen": "2026-10-09T04:21:36+00:00",
+   "summary": "The feature lets businesses give separate accounts limited powers such as approving customers or making payments, while keeping the keys that control their main holdings offline.",
+   "tags": []
+  },
+  {
+   "id": "adbfdf0b40",
+   "title": "Bitcoin miners escape months of distress as daily revenue surges by 78%",
+   "date": "2026-10-09T04:10:41+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin miners escape months of distress as daily revenue surges by 78%",
+     "url": "https://cryptoslate.com/bitcoin-miners-escape-months-of-financial-distress-as-daily-revenue-surges-by-78/",
+     "date": "2026-10-09T04:10:41+00:00",
+     "summary": "Bitcoin miners are emerging from months of financial pressure as rising BTC prices lift daily industry revenue by 78%. According to CryptoQuant's weekly report shared with CryptoSlate, total daily mining revenue climbed from approximately $27 million at July's lows to as much as..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T04:10:41+00:00",
+   "last_seen": "2026-10-09T04:10:41+00:00",
+   "summary": "Bitcoin miners are emerging from months of financial pressure as rising BTC prices lift daily industry revenue by 78%. According to CryptoQuant's weekly report shared with CryptoSlate, total daily mining revenue climbed from approximately $27 million at July's lows to as much as...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "5025df62ea",
+   "title": "Ether bets were wiped out at six times bitcoin\u2019s rate in crypto\u2019s $1 billion flush",
+   "date": "2026-10-09T04:04:36+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ether bets were wiped out at six times bitcoin\u2019s rate in crypto\u2019s $1 billion flush",
+     "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush",
+     "date": "2026-10-09T04:04:36+00:00",
+     "summary": "About $356 million in ETH positions were liquidated over 24 hours, more than bitcoin despite ether\u2019s market value being less than a fifth as large."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T04:04:36+00:00",
+   "last_seen": "2026-10-09T04:04:36+00:00",
+   "summary": "About $356 million in ETH positions were liquidated over 24 hours, more than bitcoin despite ether\u2019s market value being less than a fifth as large.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
   {
    "id": "9ebdaf6a9a",
    "title": "Thailand finalizes rules paving way for Bitcoin, Ether ETFs",

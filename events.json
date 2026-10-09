@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-08T23:33:42.534686+00:00",
+ "updated": "2026-10-09T00:49:14.008151+00:00",
  "events": [
+  {
+   "id": "41327effac",
+   "title": "Solana\u2019s geographic speed plan trusts validator locations the network cannot verify",
+   "date": "2026-10-09T00:00:53+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Solana\u2019s geographic speed plan trusts validator locations the network cannot verify",
+     "url": "https://cryptoslate.com/solanas-geographic-speed-plan-trusts-validator-locations-the-network-cannot-verify/",
+     "date": "2026-10-09T00:00:53+00:00",
+     "summary": "Wattenhofer and Kniep\u2019s proposal preserves leader allocations while faster modeled handovers come with longer consecutive-control and regional risks. The post Solana\u2019s geographic speed plan trusts validator locations the network cannot verify appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-09T00:00:53+00:00",
+   "last_seen": "2026-10-09T00:00:53+00:00",
+   "summary": "Wattenhofer and Kniep\u2019s proposal preserves leader allocations while faster modeled handovers come with longer consecutive-control and regional risks. The post Solana\u2019s geographic speed plan trusts validator locations the network cannot verify appeared first on CryptoSlate .",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "e19800da84",
+   "title": "Coinbase Cryptographer Calls Drake's 'Bunker Mode' Warning 'The Very Definition of FUD'",
+   "date": "2026-10-08T23:34:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coinbase Cryptographer Calls Drake's 'Bunker Mode' Warning 'The Very Definition of FUD'",
+     "url": "https://thedefiant.io/news/security/coinbase-cryptographer-calls-drake-bunker-mode-warning-definition-of-fud",
+     "date": "2026-10-08T23:34:05+00:00",
+     "summary": "Vitalik Buterin said the risk from AI-accelerated math is real but pointed it at lattices rather than elliptic curves. A former Ethereum Foundation researcher said bunker mode would not help if the curves actually broke"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-08T23:34:05+00:00",
+   "last_seen": "2026-10-08T23:34:05+00:00",
+   "summary": "Vitalik Buterin said the risk from AI-accelerated math is real but pointed it at lattices rather than elliptic curves. A former Ethereum Foundation researcher said bunker mode would not help if the curves actually broke",
+   "tags": [
+    "ethereum",
+    "exchanges"
+   ]
+  },
   {
    "id": "ff7e85b334",
    "title": "Bitcoin Core\u2019s privacy fix reaches v32 code while the v31 patch remains open",

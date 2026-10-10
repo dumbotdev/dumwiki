@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-10T19:32:39.568694+00:00",
+ "updated": "2026-10-10T20:33:46.379911+00:00",
  "events": [
+  {
+   "id": "1ac6596638",
+   "title": "Pump.fun to Tie Callout Rewards to Followers\u2019 Profits",
+   "date": "2026-10-10T20:06:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Pump.fun to Tie Callout Rewards to Followers\u2019 Profits",
+     "url": "https://thedefiant.io/news/tokens/pump-fun-to-tie-callout-rewards-to-followers-profits",
+     "date": "2026-10-10T20:06:47+00:00",
+     "summary": "Low-cap token recommendations will earn less under changes starting with the Oct. 10 payout, co-founder Alon said."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T20:06:47+00:00",
+   "last_seen": "2026-10-10T20:06:47+00:00",
+   "summary": "Low-cap token recommendations will earn less under changes starting with the Oct. 10 payout, co-founder Alon said.",
+   "tags": []
+  },
   {
    "id": "50f3fe6aff",
    "title": "BTCPay Docker users must opt into Tor at their next update to keep onion access",

@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-10T13:34:11.540178+00:00",
+ "updated": "2026-10-10T14:33:28.890514+00:00",
  "events": [
+  {
+   "id": "3673eb5815",
+   "title": "Coinbase\u2019s Texas move gets a shareholder suit dismissed over Delaware-era claims",
+   "date": "2026-10-10T14:00:52+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Coinbase\u2019s Texas move gets a shareholder suit dismissed over Delaware-era claims",
+     "url": "https://cryptoslate.com/coinbase-shareholder-suit-hits-texas-demand-rule-for-conduct-from-its-delaware-years/",
+     "date": "2026-10-10T14:00:52+00:00",
+     "summary": "The October 2 court order required a written board demand in this action, without deciding whether directors committed misconduct. The post Coinbase\u2019s Texas move gets a shareholder suit dismissed over Delaware-era claims appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T14:00:52+00:00",
+   "last_seen": "2026-10-10T14:00:52+00:00",
+   "summary": "The October 2 court order required a written board demand in this action, without deciding whether directors committed misconduct. The post Coinbase\u2019s Texas move gets a shareholder suit dismissed over Delaware-era claims appeared first on CryptoSlate .",
+   "tags": [
+    "exchanges",
+    "legal"
+   ]
+  },
   {
    "id": "2b741adccb",
    "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Budget",

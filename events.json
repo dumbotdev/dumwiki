@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-10T06:41:39.896278+00:00",
+ "updated": "2026-10-10T07:34:43.298734+00:00",
  "events": [
+  {
+   "id": "c239f35275",
+   "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+   "date": "2026-10-10T07:10:43+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
+     "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-10T07:10:43+00:00",
+     "summary": "The round follows increased international demand for Meanwhile\u2019s Bitcoin life insurance policies amid broader macro instability."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T07:10:43+00:00",
+   "last_seen": "2026-10-10T07:10:43+00:00",
+   "summary": "The round follows increased international demand for Meanwhile\u2019s Bitcoin life insurance policies amid broader macro instability.",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "bee1b695f9",
+   "title": "Inflation target of 2% may not stop the next Fed rate freeze",
+   "date": "2026-10-10T07:00:05+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Inflation target of 2% may not stop the next Fed rate freeze",
+     "url": "https://cryptoslate.com/what-would-actually-stop-the-fed-from-raising-rates-again/",
+     "date": "2026-10-10T07:00:05+00:00",
+     "summary": "The Fed can stop raising rates before inflation reaches 2% if officials believe the economy's already heading there without another increase. September's meeting left most unconvinced, with strong spending and persistent price increases outweighing the strain expensive borrowing..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T07:00:05+00:00",
+   "last_seen": "2026-10-10T07:00:05+00:00",
+   "summary": "The Fed can stop raising rates before inflation reaches 2% if officials believe the economy's already heading there without another increase. September's meeting left most unconvinced, with strong spending and persistent price increases outweighing the strain expensive borrowing...",
+   "tags": [
+    "macro",
+    "markets"
+   ]
+  },
   {
    "id": "05620bf2a1",
    "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",

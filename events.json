@@ -1,6 +1,113 @@
 {
- "updated": "2026-10-10T11:33:05.062132+00:00",
+ "updated": "2026-10-10T12:40:51.620598+00:00",
  "events": [
+  {
+   "id": "4c8c1a9f08",
+   "title": "StarkWare Calls Starknet L1 Shift Its 'Clearest Path Forward'",
+   "date": "2026-10-10T12:21:43+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "StarkWare Calls Starknet L1 Shift Its 'Clearest Path Forward'",
+     "url": "https://thedefiant.io/news/blockchains/starkware-calls-starknet-l1-shift-its-clearest-path-forward",
+     "date": "2026-10-10T12:21:43+00:00",
+     "summary": "Starknet still settles on Ethereum, and its official account described an L1 move as 'a question, not a decision' a day earlier."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T12:21:43+00:00",
+   "last_seen": "2026-10-10T12:21:43+00:00",
+   "summary": "Starknet still settles on Ethereum, and its official account described an L1 move as 'a question, not a decision' a day earlier.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "25d0942485",
+   "title": "Stealing $1.5B in crypto is easy, cashing out is the trap",
+   "date": "2026-10-10T12:00:37+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Stealing $1.5B in crypto is easy, cashing out is the trap",
+     "url": "https://cryptoslate.com/the-business-that-turns-north-korean-stolen-crypto-into-spendable-money/",
+     "date": "2026-10-10T12:00:37+00:00",
+     "summary": "North Korean hackers stole around $1.5 billion from Bybit in February 2025. While the hack itself has been widely covered and analyzed, few have focused on what happened afterward and what became of the stolen funds. To move all that money, hackers needed to rely on an entire..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T12:00:37+00:00",
+   "last_seen": "2026-10-10T12:00:37+00:00",
+   "summary": "North Korean hackers stole around $1.5 billion from Bybit in February 2025. While the hack itself has been widely covered and analyzed, few have focused on what happened afterward and what became of the stolen funds. To move all that money, hackers needed to rely on an entire...",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "2203152cfd",
+   "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+   "date": "2026-10-10T12:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+     "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+     "date": "2026-10-10T12:00:00+00:00",
+     "summary": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October 2025 peak."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T12:00:00+00:00",
+   "last_seen": "2026-10-10T12:00:00+00:00",
+   "summary": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding and spot trading remains well below its October 2025 peak.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "ethereum",
+    "markets"
+   ]
+  },
+  {
+   "id": "c0ec86d38e",
+   "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+   "date": "2026-10-10T12:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+     "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+     "date": "2026-10-10T12:00:00+00:00",
+     "summary": "Paxos Labs, Theo and Energy Substantiation execs see growth coming from putting physical assets to work, with precious metals leading and energy presenting a tougher test."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T12:00:00+00:00",
+   "last_seen": "2026-10-10T12:00:00+00:00",
+   "summary": "Paxos Labs, Theo and Energy Substantiation execs see growth coming from putting physical assets to work, with precious metals leading and energy presenting a tougher test.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "7716608e50",
+   "title": "Justin Sun says Tron\u2019s post-quantum cryptography has gone live on testnet",
+   "date": "2026-10-10T11:52:14+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Justin Sun says Tron\u2019s post-quantum cryptography has gone live on testnet",
+     "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-10T11:52:14+00:00",
+     "summary": "\u201cWe\u2019re ready to bring quantum resistance to mainnet at any time,\u201d Sun said in a post on X."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T11:52:14+00:00",
+   "last_seen": "2026-10-10T11:52:14+00:00",
+   "summary": "\u201cWe\u2019re ready to bring quantum resistance to mainnet at any time,\u201d Sun said in a post on X.",
+   "tags": []
+  },
   {
    "id": "168af1cc46",
    "title": "Wallet Linked to CryptoBilis Thefts Routes 464 ETH to Tornado Cash",

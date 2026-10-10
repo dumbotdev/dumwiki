@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-10T22:33:03.870237+00:00",
+ "updated": "2026-10-10T23:32:03.618831+00:00",
  "events": [
   {
    "id": "1ac6596638",
@@ -1206,16 +1206,24 @@
      "url": "https://thedefiant.io/news/markets/aero-rallies-48-in-four-weeks-outpacing-bitcoin-and-ether",
      "date": "2026-10-10T09:33:08+00:00",
      "summary": "Aerodrome holds about $393 million on Base as its planned merger with Velodrome approaches."
+    },
+    {
+     "source": "The Defiant",
+     "title": "SUI Gains 54% in Four Weeks, Outpacing Bitcoin and Ether",
+     "url": "https://thedefiant.io/news/markets/sui-gains-54-in-four-weeks-outpacing-bitcoin-and-ether",
+     "date": "2026-10-10T22:58:19+00:00",
+     "summary": "Sui\u2019s DeFi liquidity also expanded, but more slowly than its token price, while a recent pullback interrupted the rally."
     }
    ],
-   "score": 11,
+   "score": 12,
    "first_seen": "2026-10-09T18:48:09+00:00",
-   "last_seen": "2026-10-10T09:33:08+00:00",
-   "summary": "A draft plan would lower maximum annual issuance from 2.5% to 1.6%, reducing both dilution and staking rewards.",
+   "last_seen": "2026-10-10T22:58:19+00:00",
+   "summary": "Sui\u2019s DeFi liquidity also expanded, but more slowly than its token price, while a recent pullback interrupted the rally.",
    "tags": [
     "bitcoin",
     "defi",
-    "ethereum"
+    "ethereum",
+    "markets"
    ]
   },
   {

@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-10T02:35:21.098695+00:00",
+ "updated": "2026-10-10T03:36:22.900422+00:00",
  "events": [
+  {
+   "id": "39ffa40cae",
+   "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+   "date": "2026-10-10T03:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",
+     "url": "https://www.coindesk.com/business/2026/10/05/1-2-billion-apac-consumers-could-adopt-stablecoins-by-2031-according-to-visa",
+     "date": "2026-10-10T03:00:00+00:00",
+     "summary": "Visa\u2019s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T03:00:00+00:00",
+   "last_seen": "2026-10-10T03:00:00+00:00",
+   "summary": "Visa\u2019s survey of 14,250 people found interest in stablecoin payments is growing, though only 6% of respondents correctly understood how they work.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "691c390369",
    "title": "Ledger Theft Funds Shift Into USDD, Beyond Tether\u2019s Freeze Controls",

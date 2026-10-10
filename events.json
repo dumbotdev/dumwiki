@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-10T05:34:11.555230+00:00",
+ "updated": "2026-10-10T06:41:39.896278+00:00",
  "events": [
+  {
+   "id": "05620bf2a1",
+   "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+   "date": "2026-10-10T05:43:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+     "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+     "date": "2026-10-10T05:43:00+00:00",
+     "summary": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T05:43:00+00:00",
+   "last_seen": "2026-10-10T05:43:00+00:00",
+   "summary": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk in an increasingly institutional crypto market.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
   {
    "id": "1c035a4faf",
    "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",

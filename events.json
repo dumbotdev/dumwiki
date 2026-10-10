@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-10T00:47:13.046581+00:00",
+ "updated": "2026-10-10T01:36:13.728789+00:00",
  "events": [
+  {
+   "id": "cebf091abb",
+   "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
+   "date": "2026-10-10T00:53:09+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",
+     "url": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million",
+     "date": "2026-10-10T00:53:09+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC The Bermuda-regulated startup, whose backers include Bain Capital Crypto and Sam Altman, has now raised more than $180 million. This post Bitcoin Life Insurer Meanwhile..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T00:53:09+00:00",
+   "last_seen": "2026-10-10T00:53:09+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC The Bermuda-regulated startup, whose backers include Bain Capital Crypto and Sam Altman, has now raised more than $180 million. This post Bitcoin Life Insurer Meanwhile...",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
   {
    "id": "5a088c47c1",
    "title": "STRK Jumps 30% as Starknet Weighs Layer 1 Shift",

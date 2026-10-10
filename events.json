@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-10T03:36:22.900422+00:00",
+ "updated": "2026-10-10T04:36:33.379729+00:00",
  "events": [
+  {
+   "id": "69d53c34f3",
+   "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+   "date": "2026-10-10T04:20:07+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+     "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+     "date": "2026-10-10T04:20:07+00:00",
+     "summary": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T04:20:07+00:00",
+   "last_seen": "2026-10-10T04:20:07+00:00",
+   "summary": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "07089a154d",
+   "title": "$3.55 Million in Unclaimed Bridge Funds Moved via EIP-7702",
+   "date": "2026-10-10T03:50:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "$3.55 Million in Unclaimed Bridge Funds Moved via EIP-7702",
+     "url": "https://thedefiant.io/news/security/3-55-million-in-unclaimed-bridge-funds-moved-via-eip-7702",
+     "date": "2026-10-10T03:50:48+00:00",
+     "summary": "The transactions used valid account authorizations, but BlockSec says they do not establish whether the wallet owner knowingly approved the transfers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T03:50:48+00:00",
+   "last_seen": "2026-10-10T03:50:48+00:00",
+   "summary": "The transactions used valid account authorizations, but BlockSec says they do not establish whether the wallet owner knowingly approved the transfers.",
+   "tags": []
+  },
   {
    "id": "39ffa40cae",
    "title": "Visa survey says nearly half of APAC consumers open to using stablecoins by 2031",

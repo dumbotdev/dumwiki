@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-10T15:33:34.495408+00:00",
+ "updated": "2026-10-10T16:34:02.553709+00:00",
  "events": [
+  {
+   "id": "d889e50c90",
+   "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+   "date": "2026-10-10T16:01:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+     "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+     "date": "2026-10-10T16:01:04+00:00",
+     "summary": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year driven by demand from wealthy families in Asia, Europe and the Middle East."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T16:01:04+00:00",
+   "last_seen": "2026-10-10T16:01:04+00:00",
+   "summary": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto after a record year driven by demand from wealthy families in Asia, Europe and the Middle East.",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "5074783e58",
+   "title": "CFTC proposes a divide between prediction contracts and sportsbook wagers",
+   "date": "2026-10-10T16:00:40+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "CFTC proposes a divide between prediction contracts and sportsbook wagers",
+     "url": "https://cryptoslate.com/cftc-proposes-new-divide-between-prediction-contracts-and-sportsbook-wagers/",
+     "date": "2026-10-10T16:00:40+00:00",
+     "summary": "An event-contract proposal and separate casino-wager rule sharpen the federal classification boundary while leaving state-law access disputes unresolved. The post CFTC proposes a divide between prediction contracts and sportsbook wagers appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T16:00:40+00:00",
+   "last_seen": "2026-10-10T16:00:40+00:00",
+   "summary": "An event-contract proposal and separate casino-wager rule sharpen the federal classification boundary while leaving state-law access disputes unresolved. The post CFTC proposes a divide between prediction contracts and sportsbook wagers appeared first on CryptoSlate .",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "2ec258d458",
    "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",

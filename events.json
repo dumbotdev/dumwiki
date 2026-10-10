@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-10T14:33:28.890514+00:00",
+ "updated": "2026-10-10T15:33:34.495408+00:00",
  "events": [
+  {
+   "id": "2ec258d458",
+   "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+   "date": "2026-10-10T15:10:37+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+     "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+     "date": "2026-10-10T15:10:37+00:00",
+     "summary": "Spot bitcoin, solana, and ether ETFs all logged weekly outflows following last week's trading, a notable shift for some of the funds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T15:10:37+00:00",
+   "last_seen": "2026-10-10T15:10:37+00:00",
+   "summary": "Spot bitcoin, solana, and ether ETFs all logged weekly outflows following last week's trading, a notable shift for some of the funds.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "024e4a7976",
+   "title": "Here\u2019s a Way to Predict When AI Chatbots Will Turn Bad",
+   "date": "2026-10-10T15:01:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Here\u2019s a Way to Predict When AI Chatbots Will Turn Bad",
+     "url": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+     "date": "2026-10-10T15:01:03+00:00",
+     "summary": "Physicists at George Washington University say a formula can estimate when an AI chatbot will flip from good answers to bad ones, and early tests on small models back it up."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T15:01:03+00:00",
+   "last_seen": "2026-10-10T15:01:03+00:00",
+   "summary": "Physicists at George Washington University say a formula can estimate when an AI chatbot will flip from good answers to bad ones, and early tests on small models back it up.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "8a84b1c85e",
+   "title": "Luxor\u2019s reported 6\u201313% annualized Bitcoin yield depends on mining delivery",
+   "date": "2026-10-10T15:00:54+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Luxor\u2019s reported 6\u201313% annualized Bitcoin yield depends on mining delivery",
+     "url": "https://cryptoslate.com/bitcoins-reported-6-13-mining-yield-still-carries-miner-credit-risk/",
+     "date": "2026-10-10T15:00:54+00:00",
+     "summary": "Luxor\u2019s paired forwards can fix gross BTC receipts, while mining delivery, counterparty performance and financing terms still determine repayment. The post Luxor\u2019s reported 6\u201313% annualized Bitcoin yield depends on mining delivery appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T15:00:54+00:00",
+   "last_seen": "2026-10-10T15:00:54+00:00",
+   "summary": "Luxor\u2019s paired forwards can fix gross BTC receipts, while mining delivery, counterparty performance and financing terms still determine repayment. The post Luxor\u2019s reported 6\u201313% annualized Bitcoin yield depends on mining delivery appeared first on CryptoSlate .",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
+  {
+   "id": "a500ef9b52",
+   "title": "Papertrade Draws Reported $3 Billion in Positions in First Hour",
+   "date": "2026-10-10T14:57:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Papertrade Draws Reported $3 Billion in Positions in First Hour",
+     "url": "https://thedefiant.io/news/defi/papertrade-draws-reported-3-billion-in-positions-in-first-hour",
+     "date": "2026-10-10T14:57:16+00:00",
+     "summary": "DefiLlama tracked $137.1 million in trader balances and house liquidity combined. Those funds are not all available to pay winning trades."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T14:57:16+00:00",
+   "last_seen": "2026-10-10T14:57:16+00:00",
+   "summary": "DefiLlama tracked $137.1 million in trader balances and house liquidity combined. Those funds are not all available to pay winning trades.",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "3673eb5815",
    "title": "Coinbase\u2019s Texas move gets a shareholder suit dismissed over Delaware-era claims",

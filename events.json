@@ -1,6 +1,87 @@
 {
- "updated": "2026-10-10T16:34:02.553709+00:00",
+ "updated": "2026-10-10T17:31:54.836716+00:00",
  "events": [
+  {
+   "id": "d78fce8e06",
+   "title": "Ledger Says Affected User\u2019s Device Contained Hardware Implant",
+   "date": "2026-10-10T17:15:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ledger Says Affected User\u2019s Device Contained Hardware Implant",
+     "url": "https://thedefiant.io/news/hacks/ledger-says-affected-user-s-device-contained-hardware-implant",
+     "date": "2026-10-10T17:15:58+00:00",
+     "summary": "CryptoBilis has stopped selling all hardware wallet inventory pending the investigation, according to Ledger, widening an earlier pause request limited to Ledger devices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T17:15:58+00:00",
+   "last_seen": "2026-10-10T17:15:58+00:00",
+   "summary": "CryptoBilis has stopped selling all hardware wallet inventory pending the investigation, according to Ledger, widening an earlier pause request limited to Ledger devices.",
+   "tags": []
+  },
+  {
+   "id": "ca5a58831f",
+   "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+   "date": "2026-10-10T17:01:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+     "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+     "date": "2026-10-10T17:01:03+00:00",
+     "summary": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the \u201cswap\u201d definition, while an interim rule excludes casino-style gambling\u2014sharpening the agency\u2019s claim to exclusive jurisdiction."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T17:01:03+00:00",
+   "last_seen": "2026-10-10T17:01:03+00:00",
+   "summary": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the \u201cswap\u201d definition, while an interim rule excludes casino-style gambling\u2014sharpening the agency\u2019s claim to exclusive jurisdiction.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "3c1f7b00b3",
+   "title": "Being right about Bitcoin won\u2019t save your 3x leveraged ETF position",
+   "date": "2026-10-10T17:00:12+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Being right about Bitcoin won\u2019t save your 3x leveraged ETF position",
+     "url": "https://cryptoslate.com/being-right-about-bitcoin-wont-save-your-3x-leveraged-etf-position/",
+     "date": "2026-10-10T17:00:12+00:00",
+     "summary": "Bitcoin's next recovery could vindicate your investment thesis but leave your leveraged fund deep in the red, because the fund's daily reset can make waiting a pretty expensive habit. Getting Bitcoin right and actually making money on Bitcoin are becoming two different skills,..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T17:00:12+00:00",
+   "last_seen": "2026-10-10T17:00:12+00:00",
+   "summary": "Bitcoin's next recovery could vindicate your investment thesis but leave your leveraged fund deep in the red, because the fund's daily reset can make waiting a pretty expensive habit. Getting Bitcoin right and actually making money on Bitcoin are becoming two different skills,...",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "033f095c36",
+   "title": "Papertrade Shows $10.3 Million in Staker Rewards Hours After Launch",
+   "date": "2026-10-10T16:43:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Papertrade Shows $10.3 Million in Staker Rewards Hours After Launch",
+     "url": "https://thedefiant.io/news/defi/papertrade-shows-10-3-million-in-staker-rewards-hours-after-launch",
+     "date": "2026-10-10T16:43:44+00:00",
+     "summary": "The 1000x-leverage venue\u2019s dashboard showed roughly $5 million in its house pool and no queued payout debt as trading losses funded PAPER rewards."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T16:43:44+00:00",
+   "last_seen": "2026-10-10T16:43:44+00:00",
+   "summary": "The 1000x-leverage venue\u2019s dashboard showed roughly $5 million in its house pool and no queued payout debt as trading losses funded PAPER rewards.",
+   "tags": []
+  },
   {
    "id": "d889e50c90",
    "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",

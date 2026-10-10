@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-10T10:33:30.790479+00:00",
+ "updated": "2026-10-10T11:33:05.062132+00:00",
  "events": [
+  {
+   "id": "168af1cc46",
+   "title": "Wallet Linked to CryptoBilis Thefts Routes 464 ETH to Tornado Cash",
+   "date": "2026-10-10T11:09:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Wallet Linked to CryptoBilis Thefts Routes 464 ETH to Tornado Cash",
+     "url": "https://thedefiant.io/news/hacks/wallet-linked-to-cryptobilis-thefts-routes-464-eth-to-tornado-cash",
+     "date": "2026-10-10T11:09:33+00:00",
+     "summary": "Ethereum records show the money passed through an intermediary and four deposit wallets, while the source address retained about 700 ETH."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T11:09:33+00:00",
+   "last_seen": "2026-10-10T11:09:33+00:00",
+   "summary": "Ethereum records show the money passed through an intermediary and four deposit wallets, while the source address retained about 700 ETH.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "eb8fa9d2da",
+   "title": "Bitcoin's $19 billion wake-up call: One-year later, has crypto learned anything?",
+   "date": "2026-10-10T11:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin's $19 billion wake-up call: One-year later, has crypto learned anything?",
+     "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+     "date": "2026-10-10T11:00:00+00:00",
+     "summary": "One year after a flash crash wiped out billions in leveraged crypto bets, traders have better tools to spot risks. But the forces behind the selloff remain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T11:00:00+00:00",
+   "last_seen": "2026-10-10T11:00:00+00:00",
+   "summary": "One year after a flash crash wiped out billions in leveraged crypto bets, traders have better tools to spot risks. But the forces behind the selloff remain.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
   {
    "id": "63a6850bab",
    "title": "Papertrade Sets 1000x Perps Launch With $85 Million Deposited",

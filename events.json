@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-10T01:36:13.728789+00:00",
+ "updated": "2026-10-10T02:35:21.098695+00:00",
  "events": [
+  {
+   "id": "691c390369",
+   "title": "Ledger Theft Funds Shift Into USDD, Beyond Tether\u2019s Freeze Controls",
+   "date": "2026-10-10T02:06:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ledger Theft Funds Shift Into USDD, Beyond Tether\u2019s Freeze Controls",
+     "url": "https://thedefiant.io/news/hacks/ledger-theft-funds-shift-into-usdd-beyond-tether-s-freeze-controls",
+     "date": "2026-10-10T02:06:06+00:00",
+     "summary": "Tron records show a 2 million USDT conversion through USDD\u2019s stability module; Bitquery estimates Tether froze $10 million across the wider theft cluster."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T02:06:06+00:00",
+   "last_seen": "2026-10-10T02:06:06+00:00",
+   "summary": "Tron records show a 2 million USDT conversion through USDD\u2019s stability module; Bitquery estimates Tether froze $10 million across the wider theft cluster.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "cf0c379087",
+   "title": "Celsius founder faces lifetime ban, but can trade his own crypto",
+   "date": "2026-10-10T01:50:00+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Celsius founder faces lifetime ban, but can trade his own crypto",
+     "url": "https://cryptoslate.com/celsius-founder-faces-lifetime-ban-but-can-trade-his-own-crypto/",
+     "date": "2026-10-10T01:50:00+00:00",
+     "summary": "A qualifying DOJ payment can satisfy the $25 million obligation, while a separate $10 million judgment has a sentence-completion condition with exceptions. The post Celsius founder faces lifetime ban, but can trade his own crypto appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T01:50:00+00:00",
+   "last_seen": "2026-10-10T01:50:00+00:00",
+   "summary": "A qualifying DOJ payment can satisfy the $25 million obligation, while a separate $10 million judgment has a sentence-completion condition with exceptions. The post Celsius founder faces lifetime ban, but can trade his own crypto appeared first on CryptoSlate .",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "cebf091abb",
    "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC",

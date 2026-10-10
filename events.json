@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-10T04:36:33.379729+00:00",
+ "updated": "2026-10-10T05:34:11.555230+00:00",
  "events": [
+  {
+   "id": "1c035a4faf",
+   "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+   "date": "2026-10-10T04:44:35+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+     "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+     "date": "2026-10-10T04:44:35+00:00",
+     "summary": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T04:44:35+00:00",
+   "last_seen": "2026-10-10T04:44:35+00:00",
+   "summary": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September even as Robinhood keeps paying network fees on customer swaps.",
+   "tags": []
+  },
   {
    "id": "69d53c34f3",
    "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",

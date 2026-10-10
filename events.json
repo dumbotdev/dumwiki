@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-10T17:31:54.836716+00:00",
+ "updated": "2026-10-10T18:38:12.328304+00:00",
  "events": [
+  {
+   "id": "e307408a10",
+   "title": "Newer AI models missed more payment fraud in Coinbase\u2019s benchmark",
+   "date": "2026-10-10T18:00:18+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Newer AI models missed more payment fraud in Coinbase\u2019s benchmark",
+     "url": "https://cryptoslate.com/coinbase-benchmark-finds-newer-ai-models-missed-more-payment-fraud/",
+     "date": "2026-10-10T18:00:18+00:00",
+     "summary": "A fixed historical replay found weaker fraud coverage across three model upgrades, while GPT\u2019s precision improved. The post Newer AI models missed more payment fraud in Coinbase\u2019s benchmark appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T18:00:18+00:00",
+   "last_seen": "2026-10-10T18:00:18+00:00",
+   "summary": "A fixed historical replay found weaker fraud coverage across three model upgrades, while GPT\u2019s precision improved. The post Newer AI models missed more payment fraud in Coinbase\u2019s benchmark appeared first on CryptoSlate .",
+   "tags": [
+    "ai",
+    "exchanges",
+    "legal"
+   ]
+  },
+  {
+   "id": "653955aa88",
+   "title": "Papertrade Traders Lose $18.2 Million as Staking Rewards Reach $12.6 Million",
+   "date": "2026-10-10T17:38:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Papertrade Traders Lose $18.2 Million as Staking Rewards Reach $12.6 Million",
+     "url": "https://thedefiant.io/news/defi/papertrade-traders-lose-18-2-million-as-staking-rewards-reach-12-6-million",
+     "date": "2026-10-10T17:38:07+00:00",
+     "summary": "Reported staking rewards equaled about 69% of net trading losses, but the payouts redistribute money to PAPER stakers rather than reimburse each losing trader."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T17:38:07+00:00",
+   "last_seen": "2026-10-10T17:38:07+00:00",
+   "summary": "Reported staking rewards equaled about 69% of net trading losses, but the payouts redistribute money to PAPER stakers rather than reimburse each losing trader.",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "d78fce8e06",
    "title": "Ledger Says Affected User\u2019s Device Contained Hardware Implant",
@@ -798,11 +842,18 @@
      "url": "https://thedefiant.io/news/regulation/kalshi-probes-bets-on-trump-s-press-secretary-pick-wsj-reports",
      "date": "2026-10-09T21:57:10+00:00",
      "summary": "Three wagers costing about $19, $74 and $80 preceded reports of Katie Zacharia\u2019s selection. The contract has settled Yes, but individual withdrawal restrictions remain unclear."
+    },
+    {
+     "source": "The Block",
+     "title": "Kalshi is investigating bets on Trump\u2019s press secretary pick placed before announcement: WSJ",
+     "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+     "date": "2026-10-10T18:35:25+00:00",
+     "summary": "Three bets totaling about $173 were placed before news outlets reported Zacharia's pick and are expected to pay out roughly $9,600 combined."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-09T21:57:10+00:00",
-   "last_seen": "2026-10-09T21:57:10+00:00",
+   "last_seen": "2026-10-10T18:35:25+00:00",
    "summary": "Three wagers costing about $19, $74 and $80 preceded reports of Katie Zacharia\u2019s selection. The contract has settled Yes, but individual withdrawal restrictions remain unclear.",
    "tags": []
   },

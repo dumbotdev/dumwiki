@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-09T23:33:13.322627+00:00",
+ "updated": "2026-10-10T00:47:13.046581+00:00",
  "events": [
+  {
+   "id": "5a088c47c1",
+   "title": "STRK Jumps 30% as Starknet Weighs Layer 1 Shift",
+   "date": "2026-10-10T00:43:30+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "STRK Jumps 30% as Starknet Weighs Layer 1 Shift",
+     "url": "https://thedefiant.io/news/markets/strk-jumps-30-as-starknet-weighs-layer-1-shift",
+     "date": "2026-10-10T00:43:30+00:00",
+     "summary": "The token\u2019s rally outpaced bitcoin and ether, while daily trading on Starknet\u2019s decentralized exchanges rose to about $33.7 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T00:43:30+00:00",
+   "last_seen": "2026-10-10T00:43:30+00:00",
+   "summary": "The token\u2019s rally outpaced bitcoin and ether, while daily trading on Starknet\u2019s decentralized exchanges rose to about $33.7 million.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "markets"
+   ]
+  },
+  {
+   "id": "7744fc0489",
+   "title": "Solana doubles block production speed to 200ms as network prepares for Alpenglow upgrade",
+   "date": "2026-10-10T00:40:59+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Solana doubles block production speed to 200ms as network prepares for Alpenglow upgrade",
+     "url": "https://cryptoslate.com/solana-doubles-block-production-speed-to-200ms-as-network-prepares-for-alpenglow-upgrade/",
+     "date": "2026-10-10T00:40:59+00:00",
+     "summary": "The final SIMD-0525 step halves Solana\u2019s original slot-time target, shortening leader windows and epochs while per-slot budgets keep work capacity roughly steady. The post Solana doubles block production speed to 200ms as network prepares for Alpenglow upgrade appeared first on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T00:40:59+00:00",
+   "last_seen": "2026-10-10T00:40:59+00:00",
+   "summary": "The final SIMD-0525 step halves Solana\u2019s original slot-time target, shortening leader windows and epochs while per-slot budgets keep work capacity roughly steady. The post Solana doubles block production speed to 200ms as network prepares for Alpenglow upgrade appeared first on...",
+   "tags": [
+    "solana"
+   ]
+  },
   {
    "id": "69f353b31c",
    "title": "Tether freezes $1.4M in TRON vaults and THORChain stalls",

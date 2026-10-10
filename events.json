@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-10T08:34:56.777847+00:00",
+ "updated": "2026-10-10T09:34:31.609142+00:00",
  "events": [
+  {
+   "id": "f4df1da118",
+   "title": "Tech chief says EU can fend off rogue AI risk: Report",
+   "date": "2026-10-10T08:41:06+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Tech chief says EU can fend off rogue AI risk: Report",
+     "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-10T08:41:06+00:00",
+     "summary": "There are global concerns following incidents at OpenAI \u200cand Anthropic, and fears have arisen that rogue AI agents may venture beyond human control."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T08:41:06+00:00",
+   "last_seen": "2026-10-10T08:41:06+00:00",
+   "summary": "There are global concerns following incidents at OpenAI \u200cand Anthropic, and fears have arisen that rogue AI agents may venture beyond human control.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "c239f35275",
    "title": "Sam Altman-backed Bitcoin life insurer, Meanwhile, raises more funds",
@@ -642,11 +663,18 @@
      "url": "https://thedefiant.io/news/markets/near-gains-83-in-four-weeks-outpacing-bitcoin-and-ether",
      "date": "2026-10-09T18:48:09+00:00",
      "summary": "A draft plan would lower maximum annual issuance from 2.5% to 1.6%, reducing both dilution and staking rewards."
+    },
+    {
+     "source": "The Defiant",
+     "title": "AERO Rallies 48% in Four Weeks, Outpacing Bitcoin and Ether",
+     "url": "https://thedefiant.io/news/markets/aero-rallies-48-in-four-weeks-outpacing-bitcoin-and-ether",
+     "date": "2026-10-10T09:33:08+00:00",
+     "summary": "Aerodrome holds about $393 million on Base as its planned merger with Velodrome approaches."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-10-09T18:48:09+00:00",
-   "last_seen": "2026-10-09T18:48:09+00:00",
+   "last_seen": "2026-10-10T09:33:08+00:00",
    "summary": "A draft plan would lower maximum annual issuance from 2.5% to 1.6%, reducing both dilution and staking rewards.",
    "tags": [
     "bitcoin",

@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-10T09:34:31.609142+00:00",
+ "updated": "2026-10-10T10:33:30.790479+00:00",
  "events": [
+  {
+   "id": "63a6850bab",
+   "title": "Papertrade Sets 1000x Perps Launch With $85 Million Deposited",
+   "date": "2026-10-10T09:44:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Papertrade Sets 1000x Perps Launch With $85 Million Deposited",
+     "url": "https://thedefiant.io/news/defi/papertrade-sets-1000x-perps-launch-with-85-million-deposited",
+     "date": "2026-10-10T09:44:06+00:00",
+     "summary": "Trading is scheduled for 10 a.m. ET on Oct. 10. User deposits are separate from the house-side pool, which starts at zero and grows from traders\u2019 losses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-10T09:44:06+00:00",
+   "last_seen": "2026-10-10T09:44:06+00:00",
+   "summary": "Trading is scheduled for 10 a.m. ET on Oct. 10. User deposits are separate from the house-side pool, which starts at zero and grows from traders\u2019 losses.",
+   "tags": []
+  },
   {
    "id": "f4df1da118",
    "title": "Tech chief says EU can fend off rogue AI risk: Report",

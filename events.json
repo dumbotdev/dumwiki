@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-11T07:35:13.918027+00:00",
+ "updated": "2026-10-11T08:36:07.060525+00:00",
  "events": [
+  {
+   "id": "dd9721aaef",
+   "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+   "date": "2026-10-11T07:44:51+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+     "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-11T07:44:51+00:00",
+     "summary": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T07:44:51+00:00",
+   "last_seen": "2026-10-11T07:44:51+00:00",
+   "summary": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction.",
+   "tags": [
+    "legal",
+    "regulation"
+   ]
+  },
   {
    "id": "13e58f6088",
    "title": "Bitcoin companies are learning that holding forever takes cash",

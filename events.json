@@ -1,6 +1,132 @@
 {
- "updated": "2026-10-11T15:34:24.617581+00:00",
+ "updated": "2026-10-11T16:35:06.354993+00:00",
  "events": [
+  {
+   "id": "ed47b16289",
+   "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+   "date": "2026-10-11T16:01:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
+     "url": "https://decrypt.co/380640/bitcoin-ethereum-solana-etfs-red-october",
+     "date": "2026-10-11T16:01:03+00:00",
+     "summary": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T16:01:03+00:00",
+   "last_seen": "2026-10-11T16:01:03+00:00",
+   "summary": "Bitcoin ETFs have seen $386.3 million in net outflows through the first seven trading days of October, while Ethereum funds have now posted nine straight days of losses.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "6cc3632ef2",
+   "title": "Bitcoin hedge funds face a liquidation trap when their collateral is split across markets",
+   "date": "2026-10-11T16:00:20+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin hedge funds face a liquidation trap when their collateral is split across markets",
+     "url": "https://cryptoslate.com/bitcoin-hedge-funds-face-a-liquidation-trap-when-their-collateral-is-split-across-markets/",
+     "date": "2026-10-11T16:00:20+00:00",
+     "summary": "Here's a hypothetical situation: a hedge fund is making money, but one of its exchanges is about to liquidate its position anyway. Bitcoin has fallen, its short position on CME is profitable, and the matching long on Hyperliquid is bleeding cash. The two trades were designed to..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T16:00:20+00:00",
+   "last_seen": "2026-10-11T16:00:20+00:00",
+   "summary": "Here's a hypothetical situation: a hedge fund is making money, but one of its exchanges is about to liquidate its position anyway. Bitcoin has fallen, its short position on CME is profitable, and the matching long on Hyperliquid is bleeding cash. The two trades were designed to...",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "5a35afb616",
+   "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+   "date": "2026-10-11T16:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Clarity's failure could speed crypto innovation while shielding incumbents",
+     "url": "https://www.coindesk.com/policy/2026/10/11/clarity-s-failure-could-speed-crypto-innovation-while-shielding-incumbents",
+     "date": "2026-10-11T16:00:00+00:00",
+     "summary": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unresolved."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T16:00:00+00:00",
+   "last_seen": "2026-10-11T16:00:00+00:00",
+   "summary": "Executives see openings for tokenization, DeFi and dealmaking, while lawyers warn agency action leaves spot-market oversight and lasting certainty unresolved.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "03dde68625",
+   "title": "Liquid Bitcoin Redemptions Remain Frozen With 85.8% Reserve Coverage",
+   "date": "2026-10-11T15:59:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Liquid Bitcoin Redemptions Remain Frozen With 85.8% Reserve Coverage",
+     "url": "https://thedefiant.io/news/security/liquid-bitcoin-redemptions-remain-frozen-with-85-8-reserve-coverage",
+     "date": "2026-10-11T15:59:08+00:00",
+     "summary": "The reserve gap is about 603 BTC. Liquid says peg-outs require full backing and completed security reviews before they can restart."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T15:59:08+00:00",
+   "last_seen": "2026-10-11T15:59:08+00:00",
+   "summary": "The reserve gap is about 603 BTC. Liquid says peg-outs require full backing and completed security reviews before they can restart.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "61f03ecd11",
+   "title": "Papertrade Says It Is Tightening Trading Limits After Manipulation Allegations",
+   "date": "2026-10-11T15:53:36+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Papertrade Says It Is Tightening Trading Limits After Manipulation Allegations",
+     "url": "https://thedefiant.io/news/defi/papertrade-says-it-is-tightening-trading-limits-after-manipulation-allegations",
+     "date": "2026-10-11T15:53:36+00:00",
+     "summary": "The team says it is restricting exposure onchain and through relayers. Its statement does not confirm claims that a trader was blacklisted or prevented from closing positions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T15:53:36+00:00",
+   "last_seen": "2026-10-11T15:53:36+00:00",
+   "summary": "The team says it is restricting exposure onchain and through relayers. Its statement does not confirm claims that a trader was blacklisted or prevented from closing positions.",
+   "tags": []
+  },
+  {
+   "id": "507529ed00",
+   "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+   "date": "2026-10-11T15:40:47+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "President Trump declares 'energy ceasefire' between Russia and Ukraine",
+     "url": "https://www.coindesk.com/markets/2026/10/11/president-trump-declares-energy-ceasefire-between-russia-and-ukraine",
+     "date": "2026-10-11T15:40:47+00:00",
+     "summary": "\"[It's] news for me,\" said Ukrainian President Zelensky, \"but if Russians agree to an energy ceasefire, Ukraine will agree.\""
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T15:40:47+00:00",
+   "last_seen": "2026-10-11T15:40:47+00:00",
+   "summary": "\"[It's] news for me,\" said Ukrainian President Zelensky, \"but if Russians agree to an energy ceasefire, Ukraine will agree.\"",
+   "tags": []
+  },
   {
    "id": "60b450418a",
    "title": "PeckShield Traces $3.89 Million in Ledger Theft Funds to Binance Deposits",

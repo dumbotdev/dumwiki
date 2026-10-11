@@ -1,6 +1,68 @@
 {
- "updated": "2026-10-11T16:35:06.354993+00:00",
+ "updated": "2026-10-11T17:33:32.363615+00:00",
  "events": [
+  {
+   "id": "45aa5ac332",
+   "title": "Ledger Says All Confirmed Draining Cases Involve CryptoBilis-Sold Devices",
+   "date": "2026-10-11T17:18:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ledger Says All Confirmed Draining Cases Involve CryptoBilis-Sold Devices",
+     "url": "https://thedefiant.io/news/hacks/ledger-says-all-confirmed-draining-cases-involve-cryptobilis-sold-devices",
+     "date": "2026-10-11T17:18:19+00:00",
+     "summary": "The company says its direct sales channels are unaffected and reminds resellers never to restock returned products."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T17:18:19+00:00",
+   "last_seen": "2026-10-11T17:18:19+00:00",
+   "summary": "The company says its direct sales channels are unaffected and reminds resellers never to restock returned products.",
+   "tags": []
+  },
+  {
+   "id": "b7234bcbdd",
+   "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+   "date": "2026-10-11T17:03:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Saylor teases Strategy Bitcoin buying after ending September with STRC buybacks",
+     "url": "https://cointelegraph.com/news/saylors-teases-strategy-bitcoin-buying-after-ending-september-with-strc-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-11T17:03:00+00:00",
+     "summary": "Investors will have to wait an extra day to find out if and how much Strategy added to its Bitcoin treasury in the first week of October."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T17:03:00+00:00",
+   "last_seen": "2026-10-11T17:03:00+00:00",
+   "summary": "Investors will have to wait an extra day to find out if and how much Strategy added to its Bitcoin treasury in the first week of October.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "593674b9ea",
+   "title": "Some Kraken futures limit orders can still fill after a successful cancel",
+   "date": "2026-10-11T17:00:04+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Some Kraken futures limit orders can still fill after a successful cancel",
+     "url": "https://cryptoslate.com/krakens-held-futures-limit-orders-can-still-fill-after-a-successful-cancel/",
+     "date": "2026-10-11T17:00:04+00:00",
+     "summary": "The October 8 Maker Protection expansion brings more contracts under a rule that discards unfilled remainders while still allowing execution. The post Some Kraken futures limit orders can still fill after a successful cancel appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T17:00:04+00:00",
+   "last_seen": "2026-10-11T17:00:04+00:00",
+   "summary": "The October 8 Maker Protection expansion brings more contracts under a rule that discards unfilled remainders while still allowing execution. The post Some Kraken futures limit orders can still fill after a successful cancel appeared first on CryptoSlate .",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "ed47b16289",
    "title": "Bitcoin, Ethereum and Solana ETFs All in the Red for October",
@@ -283,12 +345,19 @@
      "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
      "date": "2026-10-11T13:00:00+00:00",
      "summary": "Investors are using blockchain-based shares for smaller and after-hours trades. The IMF says liquidity, legal rules and settlement systems have not caught up."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Tokenized Stocks Show Real Demand But Remain Volatile and Illiquid, IMF Finds",
+     "url": "https://decrypt.co/380653/tokenized-stocks-show-real-demand-but-remain-volatile-and-illiquid-imf-finds",
+     "date": "2026-10-11T17:11:03+00:00",
+     "summary": "An IMF analysis found that more than half of tokenized stock trading happens outside U.S. market hours, though the roughly $2.3 billion market remains more volatile and less liquid than traditional equities."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-11T13:00:00+00:00",
-   "last_seen": "2026-10-11T13:00:00+00:00",
-   "summary": "Investors are using blockchain-based shares for smaller and after-hours trades. The IMF says liquidity, legal rules and settlement systems have not caught up.",
+   "last_seen": "2026-10-11T17:11:03+00:00",
+   "summary": "An IMF analysis found that more than half of tokenized stock trading happens outside U.S. market hours, though the roughly $2.3 billion market remains more volatile and less liquid than traditional equities.",
    "tags": [
     "defi",
     "legal"

@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-11T14:34:23.217134+00:00",
+ "updated": "2026-10-11T15:34:24.617581+00:00",
  "events": [
+  {
+   "id": "60b450418a",
+   "title": "PeckShield Traces $3.89 Million in Ledger Theft Funds to Binance Deposits",
+   "date": "2026-10-11T15:04:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "PeckShield Traces $3.89 Million in Ledger Theft Funds to Binance Deposits",
+     "url": "https://thedefiant.io/news/hacks/peckshield-traces-3-89-million-in-ledger-theft-funds-to-binance-deposits",
+     "date": "2026-10-11T15:04:33+00:00",
+     "summary": "The reported Tron deposits offer investigators an exchange-account lead, but intermediary wallets handling other clients\u2019 money complicate attribution."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T15:04:33+00:00",
+   "last_seen": "2026-10-11T15:04:33+00:00",
+   "summary": "The reported Tron deposits offer investigators an exchange-account lead, but intermediary wallets handling other clients\u2019 money complicate attribution.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "bfc580cfca",
+   "title": "Tokenized stocks can carry the same rights without the same trading protections",
+   "date": "2026-10-11T15:00:49+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Tokenized stocks can carry the same rights without the same trading protections",
+     "url": "https://cryptoslate.com/secs-tokenized-stock-exemption-leaves-key-price-feed-choices-to-venues/",
+     "date": "2026-10-11T15:00:49+00:00",
+     "summary": "Douro Labs\u2019 October 9 submission seeks feed-quality guidance, while venue safeguards and covered FINRA-member broker duties remain distinct. The post Tokenized stocks can carry the same rights without the same trading protections appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T15:00:49+00:00",
+   "last_seen": "2026-10-11T15:00:49+00:00",
+   "summary": "Douro Labs\u2019 October 9 submission seeks feed-quality guidance, while venue safeguards and covered FINRA-member broker duties remain distinct. The post Tokenized stocks can carry the same rights without the same trading protections appeared first on CryptoSlate .",
+   "tags": []
+  },
   {
    "id": "a98ee83cf8",
    "title": "XRP Ledger Discloses Decade-Old Bug That Could Mint Trillions",

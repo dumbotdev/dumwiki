@@ -1,6 +1,88 @@
 {
- "updated": "2026-10-11T17:33:32.363615+00:00",
+ "updated": "2026-10-11T18:39:10.648275+00:00",
  "events": [
+  {
+   "id": "22fba61211",
+   "title": "Ledger User Reports Hardware Implant in Wallet Bought in Europe",
+   "date": "2026-10-11T18:38:29+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ledger User Reports Hardware Implant in Wallet Bought in Europe",
+     "url": "https://thedefiant.io/news/security/ledger-user-reports-hardware-implant-in-wallet-bought-in-europe",
+     "date": "2026-10-11T18:38:29+00:00",
+     "summary": "Ledger says all confirmed cases tied to its October 9 fund-draining investigation involve Southeast Asian reseller CryptoBilis, which has halted hardware-wallet sales."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T18:38:29+00:00",
+   "last_seen": "2026-10-11T18:38:29+00:00",
+   "summary": "Ledger says all confirmed cases tied to its October 9 fund-draining investigation involve Southeast Asian reseller CryptoBilis, which has halted hardware-wallet sales.",
+   "tags": []
+  },
+  {
+   "id": "61205d1754",
+   "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+   "date": "2026-10-11T18:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Everyone wants SCOTUS to take up prediction markets: State of Crypto",
+     "url": "https://www.coindesk.com/policy/2026/10/11/everyone-wants-scotus-to-take-up-prediction-markets-state-of-crypto",
+     "date": "2026-10-11T18:30:00+00:00",
+     "summary": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an interim final rule and a rule proposal."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T18:30:00+00:00",
+   "last_seen": "2026-10-11T18:30:00+00:00",
+   "summary": "The U.S. Supreme Court hasn't yet indicated whether it will take up cases surrounding prediction markets, but there are now several amicus briefs, an interim final rule and a rule proposal.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "de810bef4c",
+   "title": "Lightning apps using unpatched LDK risk Bitcoin theft from a reconnect lie",
+   "date": "2026-10-11T18:00:02+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Lightning apps using unpatched LDK risk Bitcoin theft from a reconnect lie",
+     "url": "https://cryptoslate.com/unpatched-ldk-apps-can-lose-bitcoin-when-a-lightning-peer-lies-after-reconnecting/",
+     "date": "2026-10-11T18:00:02+00:00",
+     "summary": "The October 1-dated v0.2.7 and v0.1.13 patches close a reconnect theft path, while v0.2.7 also fixes an LSPS2 payment-amount flaw. The post Lightning apps using unpatched LDK risk Bitcoin theft from a reconnect lie appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T18:00:02+00:00",
+   "last_seen": "2026-10-11T18:00:02+00:00",
+   "summary": "The October 1-dated v0.2.7 and v0.1.13 patches close a reconnect theft path, while v0.2.7 also fixes an LSPS2 payment-amount flaw. The post Lightning apps using unpatched LDK risk Bitcoin theft from a reconnect lie appeared first on CryptoSlate .",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "98b4df5d20",
+   "title": "Coinbase Completes Deribit Integration for Institutional Traders",
+   "date": "2026-10-11T17:48:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coinbase Completes Deribit Integration for Institutional Traders",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-completes-deribit-integration-for-institutional-traders",
+     "date": "2026-10-11T17:48:05+00:00",
+     "summary": "Former International Exchange clients gain Deribit's options suite and margin system, while US Prime options trading follows a separate rollout."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T17:48:05+00:00",
+   "last_seen": "2026-10-11T17:48:05+00:00",
+   "summary": "Former International Exchange clients gain Deribit's options suite and margin system, while US Prime options trading follows a separate rollout.",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "45aa5ac332",
    "title": "Ledger Says All Confirmed Draining Cases Involve CryptoBilis-Sold Devices",
@@ -240,12 +322,19 @@
      "url": "https://thedefiant.io/news/security/xrp-ledger-discloses-decade-old-bug-that-could-mint-trillions",
      "date": "2026-10-11T14:08:37+00:00",
      "summary": "The flaw was fixed in xrpld 3.4.1 on Sept. 25. Developers found no evidence it was exploited on a public network."
+    },
+    {
+     "source": "The Block",
+     "title": "XRP Ledger patches decade-old bug that could have minted trillions of XRP",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-11-xrp-ledger-patches-decade-old-bug-that-could-have-minted-trillions-of-xrp-418230",
+     "date": "2026-10-11T18:07:41+00:00",
+     "summary": "An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-11T14:08:37+00:00",
-   "last_seen": "2026-10-11T14:08:37+00:00",
-   "summary": "The flaw was fixed in xrpld 3.4.1 on Sept. 25. Developers found no evidence it was exploited on a public network.",
+   "last_seen": "2026-10-11T18:07:41+00:00",
+   "summary": "An overflow bug in the XRP Ledger's payment engine could have let an attacker mint about 18 trillion spendable XRP in one transaction.",
    "tags": []
   },
   {

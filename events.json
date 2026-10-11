@@ -1,6 +1,90 @@
 {
- "updated": "2026-10-11T12:41:57.072035+00:00",
+ "updated": "2026-10-11T13:35:00.408970+00:00",
  "events": [
+  {
+   "id": "727bd50af7",
+   "title": "US Bitcoin ETFs Shed $679 Million in Weekly Reversal",
+   "date": "2026-10-11T13:22:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "US Bitcoin ETFs Shed $679 Million in Weekly Reversal",
+     "url": "https://thedefiant.io/news/markets/us-bitcoin-etfs-shed-679-million-in-weekly-reversal",
+     "date": "2026-10-11T13:22:15+00:00",
+     "summary": "Withdrawals on Oct. 7\u20138 drove a $920 million swing from the preceding week, leaving the two-week flow total negative."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T13:22:15+00:00",
+   "last_seen": "2026-10-11T13:22:15+00:00",
+   "summary": "Withdrawals on Oct. 7\u20138 drove a $920 million swing from the preceding week, leaving the two-week flow total negative.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "8a964a6014",
+   "title": "New iPhone spyware can hunt for crypto wallets and extract their data every 15 seconds",
+   "date": "2026-10-11T13:00:14+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "New iPhone spyware can hunt for crypto wallets and extract their data every 15 seconds",
+     "url": "https://cryptoslate.com/new-iphone-spyware-can-hunt-for-crypto-wallets-and-extract-their-data-every-15-seconds/",
+     "date": "2026-10-11T13:00:14+00:00",
+     "summary": "iVerify\u2019s P7 DarkSword report describes remote commands to collect imToken-related data after an iPhone is compromised. The post New iPhone spyware can hunt for crypto wallets and extract their data every 15 seconds appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T13:00:14+00:00",
+   "last_seen": "2026-10-11T13:00:14+00:00",
+   "summary": "iVerify\u2019s P7 DarkSword report describes remote commands to collect imToken-related data after an iPhone is compromised. The post New iPhone spyware can hunt for crypto wallets and extract their data every 15 seconds appeared first on CryptoSlate .",
+   "tags": []
+  },
+  {
+   "id": "ebf4472d32",
+   "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
+   "date": "2026-10-11T13:00:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "How Zcash Plans to Hide Your Keys From AI and Quantum Attacks",
+     "url": "https://decrypt.co/380637/zcash-plans-hide-keys-ai-quantum-attacks",
+     "date": "2026-10-11T13:00:03+00:00",
+     "summary": "Zakura, a Zcash full node developer, says it expects hash-based signatures to land in Zcash in January, and is rolling out a privacy tool for rotating transparent addresses this week."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T13:00:03+00:00",
+   "last_seen": "2026-10-11T13:00:03+00:00",
+   "summary": "Zakura, a Zcash full node developer, says it expects hash-based signatures to land in Zcash in January, and is rolling out a privacy tool for rotating transparent addresses this week.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "ae43a2289e",
+   "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+   "date": "2026-10-11T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "IMF finds demand for tokenized stocks, says the market is still volatile, illiquid",
+     "url": "https://www.coindesk.com/business/2026/10/11/imf-finds-demand-for-tokenized-stocks-says-the-market-is-still-volatile-illiquid",
+     "date": "2026-10-11T13:00:00+00:00",
+     "summary": "Investors are using blockchain-based shares for smaller and after-hours trades. The IMF says liquidity, legal rules and settlement systems have not caught up."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T13:00:00+00:00",
+   "last_seen": "2026-10-11T13:00:00+00:00",
+   "summary": "Investors are using blockchain-based shares for smaller and after-hours trades. The IMF says liquidity, legal rules and settlement systems have not caught up.",
+   "tags": [
+    "defi",
+    "legal"
+   ]
+  },
   {
    "id": "10d4400ab5",
    "title": "What happens when crypto trades stocks while Wall Street sleeps?",

@@ -1,6 +1,71 @@
 {
- "updated": "2026-10-11T22:34:35.336851+00:00",
+ "updated": "2026-10-11T23:33:30.478010+00:00",
  "events": [
+  {
+   "id": "df688e9833",
+   "title": "AVAX Gains Nearly 50% in Four Weeks, Outpacing Bitcoin and Ether",
+   "date": "2026-10-11T23:28:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "AVAX Gains Nearly 50% in Four Weeks, Outpacing Bitcoin and Ether",
+     "url": "https://thedefiant.io/news/markets/avax-gains-nearly-50-in-four-weeks-outpacing-bitcoin-and-ether",
+     "date": "2026-10-11T23:28:09+00:00",
+     "summary": "The token retained its lead despite a 1.7% weekly decline, while Avalanche shortened the minimum commitment for validators during the period."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T23:28:09+00:00",
+   "last_seen": "2026-10-11T23:28:09+00:00",
+   "summary": "The token retained its lead despite a 1.7% weekly decline, while Avalanche shortened the minimum commitment for validators during the period.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "2d93f77fa5",
+   "title": "Starknet considers leaving Ethereum for a quantum-resistant Layer 1",
+   "date": "2026-10-11T23:00:46+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Starknet considers leaving Ethereum for a quantum-resistant Layer 1",
+     "url": "https://cryptoslate.com/starknet-doubles-in-a-week-as-ethereum-exit-plan-ignite-2-billion-trading-frenzy/",
+     "date": "2026-10-11T23:00:46+00:00",
+     "summary": "Starknet's STRK token more than doubled over seven days while developers considered leaving Ethereum to build an independent Layer 1 blockchain. A CoinGlass snapshot checked at 20:28 UTC on Oct. 11 showed STRK at $0.1190, up 17.7% over 24 hours and 116.7% over seven days. On..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T23:00:46+00:00",
+   "last_seen": "2026-10-11T23:00:46+00:00",
+   "summary": "Starknet's STRK token more than doubled over seven days while developers considered leaving Ethereum to build an independent Layer 1 blockchain. A CoinGlass snapshot checked at 20:28 UTC on Oct. 11 showed STRK at $0.1190, up 17.7% over 24 hours and 116.7% over seven days. On...",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "7b1cbad777",
+   "title": "Ledger attack spreads to EU, AI finds \u201918 trillion XRP\u2019 bug: Hodler\u2019s Digest",
+   "date": "2026-10-11T22:57:53+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ledger attack spreads to EU, AI finds \u201918 trillion XRP\u2019 bug: Hodler\u2019s Digest",
+     "url": "https://cointelegraph.com/magazine/ledger-attack-spreads-to-eu-ai-finds-18-trillion-xrp-bug-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-11T22:57:53+00:00",
+     "summary": "An user reports buying a tampered Ledger from a big retailer in Europe. Security researchers use AI to uncover a \u201c$94 billion\u201d XRP bug \u2014 but receive just a $250K bounty."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T22:57:53+00:00",
+   "last_seen": "2026-10-11T22:57:53+00:00",
+   "summary": "An user reports buying a tampered Ledger from a big retailer in Europe. Security researchers use AI to uncover a \u201c$94 billion\u201d XRP bug \u2014 but receive just a $250K bounty.",
+   "tags": [
+    "ai",
+    "security"
+   ]
+  },
   {
    "id": "21b83e76fd",
    "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid\u2019s ETH prices",

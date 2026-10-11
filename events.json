@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-11T19:33:34.417113+00:00",
+ "updated": "2026-10-11T20:34:38.952407+00:00",
  "events": [
+  {
+   "id": "c8f8704471",
+   "title": "Some Aave loans sit near liquidation with collateral that can take hours to cash out",
+   "date": "2026-10-11T20:00:33+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Some Aave loans sit near liquidation with collateral that can take hours to cash out",
+     "url": "https://cryptoslate.com/aaves-yield-collateral-markets-reveal-a-thin-cushion-before-liquidation/",
+     "date": "2026-10-11T20:00:33+00:00",
+     "summary": "October 9 borrower snapshots put the focus on whether collateral sales or redemptions can fund stablecoin repayment. The post Some Aave loans sit near liquidation with collateral that can take hours to cash out appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T20:00:33+00:00",
+   "last_seen": "2026-10-11T20:00:33+00:00",
+   "summary": "October 9 borrower snapshots put the focus on whether collateral sales or redemptions can fund stablecoin repayment. The post Some Aave loans sit near liquidation with collateral that can take hours to cash out appeared first on CryptoSlate .",
+   "tags": [
+    "markets",
+    "stablecoins"
+   ]
+  },
   {
    "id": "3df0ea72b1",
    "title": "XRP\u2019s next Wall Street expansion comes with an unexpected complication from Ripple",

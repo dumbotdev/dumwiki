@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-11T11:33:39.034195+00:00",
+ "updated": "2026-10-11T12:41:57.072035+00:00",
  "events": [
+  {
+   "id": "10d4400ab5",
+   "title": "What happens when crypto trades stocks while Wall Street sleeps?",
+   "date": "2026-10-11T12:00:20+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "What happens when crypto trades stocks while Wall Street sleeps?",
+     "url": "https://cryptoslate.com/who-prices-a-stock-index-when-its-shares-arent-trading/",
+     "date": "2026-10-11T12:00:20+00:00",
+     "summary": "Wall Street closes at 4 p.m., but apparently that's becoming more of a suggestion than a rule. You can now spend the evening watching Netflix and making leveraged bets on American semiconductor companies while the exchange where their shares trade is closed. Crypto has spent..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T12:00:20+00:00",
+   "last_seen": "2026-10-11T12:00:20+00:00",
+   "summary": "Wall Street closes at 4 p.m., but apparently that's becoming more of a suggestion than a rule. You can now spend the evening watching Netflix and making leveraged bets on American semiconductor companies while the exchange where their shares trade is closed. Crypto has spent...",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "b9730dfda8",
    "title": "AI discovers XRP Ledger flaw that could mint 18 trillion tokens and put $94 billion market at risk",

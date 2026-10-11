@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-11T13:35:00.408970+00:00",
+ "updated": "2026-10-11T14:34:23.217134+00:00",
  "events": [
+  {
+   "id": "a98ee83cf8",
+   "title": "XRP Ledger Discloses Decade-Old Bug That Could Mint Trillions",
+   "date": "2026-10-11T14:08:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "XRP Ledger Discloses Decade-Old Bug That Could Mint Trillions",
+     "url": "https://thedefiant.io/news/security/xrp-ledger-discloses-decade-old-bug-that-could-mint-trillions",
+     "date": "2026-10-11T14:08:37+00:00",
+     "summary": "The flaw was fixed in xrpld 3.4.1 on Sept. 25. Developers found no evidence it was exploited on a public network."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T14:08:37+00:00",
+   "last_seen": "2026-10-11T14:08:37+00:00",
+   "summary": "The flaw was fixed in xrpld 3.4.1 on Sept. 25. Developers found no evidence it was exploited on a public network.",
+   "tags": []
+  },
+  {
+   "id": "9996f36a63",
+   "title": "XRP ETFs extend a 13-week inflow streak as Bitcoin, Ethereum and Solana funds shed $1.25 billion",
+   "date": "2026-10-11T14:00:41+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP ETFs extend a 13-week inflow streak as Bitcoin, Ethereum and Solana funds shed $1.25 billion",
+     "url": "https://cryptoslate.com/bitcoin-ethereum-and-solana-etfs-lose-1-25-billion-as-xrp-extends-13-week-inflow-streak/",
+     "date": "2026-10-11T14:00:41+00:00",
+     "summary": "US-listed XRP ETFs extended their inflow streak to 13 weeks as Bitcoin, Ethereum and Solana funds suffered nearly $1.25 billion in combined withdrawals during the week ended Oct. 9. Bitcoin ETFs recorded $681.1 million in net withdrawals, while Ethereum products shed $542.07..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T14:00:41+00:00",
+   "last_seen": "2026-10-11T14:00:41+00:00",
+   "summary": "US-listed XRP ETFs extended their inflow streak to 13 weeks as Bitcoin, Ethereum and Solana funds suffered nearly $1.25 billion in combined withdrawals during the week ended Oct. 9. Bitcoin ETFs recorded $681.1 million in net withdrawals, while Ethereum products shed $542.07...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum",
+    "solana"
+   ]
+  },
   {
    "id": "727bd50af7",
    "title": "US Bitcoin ETFs Shed $679 Million in Weekly Reversal",

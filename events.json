@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-11T08:36:07.060525+00:00",
+ "updated": "2026-10-11T09:35:31.230763+00:00",
  "events": [
+  {
+   "id": "9b373d2668",
+   "title": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
+   "date": "2026-10-11T09:01:51+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
+     "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-11T09:01:51+00:00",
+     "summary": "Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T09:01:51+00:00",
+   "last_seen": "2026-10-11T09:01:51+00:00",
+   "summary": "Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market.",
+   "tags": []
+  },
   {
    "id": "dd9721aaef",
    "title": "CFTC proposals aimed at separating prediction markets from casino gambling",

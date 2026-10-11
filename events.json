@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-11T01:34:37.540682+00:00",
+ "updated": "2026-10-11T02:35:28.852710+00:00",
  "events": [
+  {
+   "id": "d9517fcf05",
+   "title": "Filecoin Nears End of Six-Year Vesting, Removing 68 Million FIL in Annual Releases",
+   "date": "2026-10-11T01:39:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Filecoin Nears End of Six-Year Vesting, Removing 68 Million FIL in Annual Releases",
+     "url": "https://thedefiant.io/news/tokens/filecoin-nears-end-of-six-year-vesting-removing-68-million-fil-in-annual-releases",
+     "date": "2026-10-11T01:39:48+00:00",
+     "summary": "At the latest mining pace, annualized additions from vesting and block rewards would fall from about 89 million FIL to 21 million. Storage-provider rewards continue."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T01:39:48+00:00",
+   "last_seen": "2026-10-11T01:39:48+00:00",
+   "summary": "At the latest mining pace, annualized additions from vesting and block rewards would fall from about 89 million FIL to 21 million. Storage-provider rewards continue.",
+   "tags": []
+  },
   {
    "id": "23435e8b68",
    "title": "Papertrade Faces Oracle-Manipulation Allegation as House Pool Shows $3.14 Million",

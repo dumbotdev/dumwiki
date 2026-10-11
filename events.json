@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-11T06:42:31.886957+00:00",
+ "updated": "2026-10-11T07:35:13.918027+00:00",
  "events": [
+  {
+   "id": "13e58f6088",
+   "title": "Bitcoin companies are learning that holding forever takes cash",
+   "date": "2026-10-11T07:00:24+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin companies are learning that holding forever takes cash",
+     "url": "https://cryptoslate.com/bitcoin-companies-are-learning-that-holding-forever-takes-cash/",
+     "date": "2026-10-11T07:00:24+00:00",
+     "summary": "Metaplanet sold 10,000 BTC and bought back 11,000 at a higher average price to show it was willing to sell its Bitcoin. The Japanese treasury company was pursuing a credit rating and better access to financing, and its Oct. 5 disclosure explained why turning coins into cash was..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T07:00:24+00:00",
+   "last_seen": "2026-10-11T07:00:24+00:00",
+   "summary": "Metaplanet sold 10,000 BTC and bought back 11,000 at a higher average price to show it was willing to sell its Bitcoin. The Japanese treasury company was pursuing a credit rating and better access to financing, and its Oct. 5 disclosure explained why turning coins into cash was...",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
   {
    "id": "d9517fcf05",
    "title": "Filecoin Nears End of Six-Year Vesting, Removing 68 Million FIL in Annual Releases",

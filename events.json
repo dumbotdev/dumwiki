@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-11T21:34:34.101492+00:00",
+ "updated": "2026-10-11T22:34:35.336851+00:00",
  "events": [
+  {
+   "id": "21b83e76fd",
+   "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid\u2019s ETH prices",
+   "date": "2026-10-11T22:26:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Trader nets $1.28 million on new 1,000x exchange Papertrade by moving Hyperliquid\u2019s ETH prices",
+     "url": "https://www.theblock.co/news/defi/2026-10-11-trader-nets-1-28-million-on-new-1000x-exchange-papertrade-by-moving-hyperliquids-eth-prices-418239",
+     "date": "2026-10-11T22:26:02+00:00",
+     "summary": "The same wallet later lost $450,000 when 30 short positions were liquidated on Saturday night after staying open for more than three hours."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T22:26:02+00:00",
+   "last_seen": "2026-10-11T22:26:02+00:00",
+   "summary": "The same wallet later lost $450,000 when 30 short positions were liquidated on Saturday night after staying open for more than three hours.",
+   "tags": [
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "1a202eafcb",
+   "title": "Optimism\u2019s Unichain deal will put more chains under one operator",
+   "date": "2026-10-11T22:00:06+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Optimism\u2019s Unichain deal will put more chains under one operator",
+     "url": "https://cryptoslate.com/jing-wangs-optimism-adds-unichain-to-its-operating-plans-while-users-exit-rights-remain-uneven/",
+     "date": "2026-10-11T22:00:06+00:00",
+     "summary": "The October migration would concentrate more chain operations at Optimism, while Ethereum fallback routes depend on each chain\u2019s deployed contracts. The post Optimism\u2019s Unichain deal will put more chains under one operator appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T22:00:06+00:00",
+   "last_seen": "2026-10-11T22:00:06+00:00",
+   "summary": "The October migration would concentrate more chain operations at Optimism, while Ethereum fallback routes depend on each chain\u2019s deployed contracts. The post Optimism\u2019s Unichain deal will put more chains under one operator appeared first on CryptoSlate .",
+   "tags": [
+    "ethereum"
+   ]
+  },
   {
    "id": "c8f8704471",
    "title": "Some Aave loans sit near liquidation with collateral that can take hours to cash out",

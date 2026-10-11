@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-11T09:35:31.230763+00:00",
+ "updated": "2026-10-11T10:34:28.309820+00:00",
  "events": [
+  {
+   "id": "b9730dfda8",
+   "title": "AI discovers XRP Ledger flaw that could mint 18 trillion tokens and put $94 billion market at risk",
+   "date": "2026-10-11T10:30:30+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "AI discovers XRP Ledger flaw that could mint 18 trillion tokens and put $94 billion market at risk",
+     "url": "https://cryptoslate.com/ai-discovers-xrp-ledger-flaw-that-could-mint-18-trillion-tokens-and-put-94-billion-market-at-risk/",
+     "date": "2026-10-11T10:30:30+00:00",
+     "summary": "Testing produced spendable XRP, but the disclosure reports no evidence of public-network exploitation and explains why the fix took effect immediately. The post AI discovers XRP Ledger flaw that could mint 18 trillion tokens and put $94 billion market at risk appeared first on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T10:30:30+00:00",
+   "last_seen": "2026-10-11T10:30:30+00:00",
+   "summary": "Testing produced spendable XRP, but the disclosure reports no evidence of public-network exploitation and explains why the fix took effect immediately. The post AI discovers XRP Ledger flaw that could mint 18 trillion tokens and put $94 billion market at risk appeared first on...",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "2141575c8d",
+   "title": "Coldcard says it\u2019s investigating how phishing link appeared on its X account",
+   "date": "2026-10-11T10:22:44+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Coldcard says it\u2019s investigating how phishing link appeared on its X account",
+     "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-11T10:22:44+00:00",
+     "summary": "Company advised users not to visit or interact with the link in question and said will share any further verified updates."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T10:22:44+00:00",
+   "last_seen": "2026-10-11T10:22:44+00:00",
+   "summary": "Company advised users not to visit or interact with the link in question and said will share any further verified updates.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "37bd958bd9",
+   "title": "COLDCARD Warns of Phishing Post on Its Official X Account",
+   "date": "2026-10-11T09:38:29+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "COLDCARD Warns of Phishing Post on Its Official X Account",
+     "url": "https://thedefiant.io/news/security/coldcard-warns-of-phishing-post-on-its-official-x-account",
+     "date": "2026-10-11T09:38:29+00:00",
+     "summary": "The company says it found no matching login record. A researcher found the fake migration site was built to collect wallet recovery phrases."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-11T09:38:29+00:00",
+   "last_seen": "2026-10-11T09:38:29+00:00",
+   "summary": "The company says it found no matching login record. A researcher found the fake migration site was built to collect wallet recovery phrases.",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "9b373d2668",
    "title": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",

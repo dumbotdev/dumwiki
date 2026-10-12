@@ -1,6 +1,95 @@
 {
- "updated": "2026-10-12T13:49:57.024887+00:00",
+ "updated": "2026-10-12T14:44:26.313318+00:00",
  "events": [
+  {
+   "id": "36d8d4d34e",
+   "title": "Bitcoin\u2019s rebound approaches the $85,000 zone where past buyers may sell",
+   "date": "2026-10-12T14:20:51+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s rebound approaches the $85,000 zone where past buyers may sell",
+     "url": "https://cryptoslate.com/bitcoin-approaches-an-85000-wall-as-ethereums-26-5-billion-derivatives-market-flashes-warning-signs/",
+     "date": "2026-10-12T14:20:51+00:00",
+     "summary": "Bitcoin and Ethereum extended their weekend recovery, although on-chain indicators and derivatives positioning suggest the rebound faces significant obstacles. Data from CryptoSlate showed that Bitcoin briefly climbed above $84,000 after falling toward $80,000 during last week's..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T14:20:51+00:00",
+   "last_seen": "2026-10-12T14:20:51+00:00",
+   "summary": "Bitcoin and Ethereum extended their weekend recovery, although on-chain indicators and derivatives positioning suggest the rebound faces significant obstacles. Data from CryptoSlate showed that Bitcoin briefly climbed above $84,000 after falling toward $80,000 during last week's...",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "451bd5cdb8",
+   "title": "XRP treasury Evernorth\u2019s shares rise 5% at Nasdaq opening print",
+   "date": "2026-10-12T14:18:49+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "XRP treasury Evernorth\u2019s shares rise 5% at Nasdaq opening print",
+     "url": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-12T14:18:49+00:00",
+     "summary": "Evernorth\u2019s share price rose by 5% as investors welcomed the Nasdaq debut of the first pure-play XRP digital asset treasury."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T14:18:49+00:00",
+   "last_seen": "2026-10-12T14:18:49+00:00",
+   "summary": "Evernorth\u2019s share price rose by 5% as investors welcomed the Nasdaq debut of the first pure-play XRP digital asset treasury.",
+   "tags": [
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "4e8907c9fa",
+   "title": "USDGO Adds Solana Trading Liquidity Through Jupiter Lend and Fluid",
+   "date": "2026-10-12T14:13:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "USDGO Adds Solana Trading Liquidity Through Jupiter Lend and Fluid",
+     "url": "https://thedefiant.io/news/defi/usdgo-adds-solana-trading-liquidity-through-jupiter-lend-and-fluid",
+     "date": "2026-10-12T14:13:33+00:00",
+     "summary": "Anchorage Digital Bank issues the OSL-branded stablecoin, which has about $1.29 billion in circulation. USDGO lending markets are planned next."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T14:13:33+00:00",
+   "last_seen": "2026-10-12T14:13:33+00:00",
+   "summary": "Anchorage Digital Bank issues the OSL-branded stablecoin, which has about $1.29 billion in circulation. USDGO lending markets are planned next.",
+   "tags": [
+    "defi",
+    "solana",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "857f8f1b1d",
+   "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
+   "date": "2026-10-12T14:07:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
+     "url": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-12T14:07:00+00:00",
+     "summary": "The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware wallet devices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T14:07:00+00:00",
+   "last_seen": "2026-10-12T14:07:00+00:00",
+   "summary": "The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware wallet devices.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
   {
    "id": "1b578f7057",
    "title": "OneKey Cuts Off CryptoBilis, Offers Free Wallet Replacements",

@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-12T17:37:18.063603+00:00",
+ "updated": "2026-10-12T18:42:52.987597+00:00",
  "events": [
+  {
+   "id": "448bb1c0c5",
+   "title": "Bitcoin options price a quiet CPI week while shorts cluster at $76,000\u2013$80,000",
+   "date": "2026-10-12T18:20:59+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin options price a quiet CPI week while shorts cluster at $76,000\u2013$80,000",
+     "url": "https://cryptoslate.com/bitcoin-traders-brace-for-cpi-shock-with-451-million-in-downside-options-bets/",
+     "date": "2026-10-12T18:20:59+00:00",
+     "summary": "Bitcoin options expiring Friday carry substantial put exposure below the market price, while short-term volatility pricing has fallen ahead of Wednesday's US inflation report. Data from Coinbase-owned Deribit, a crypto options exchange, showed that in an Oct. 12 snapshot the..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T18:20:59+00:00",
+   "last_seen": "2026-10-12T18:20:59+00:00",
+   "summary": "Bitcoin options expiring Friday carry substantial put exposure below the market price, while short-term volatility pricing has fallen ahead of Wednesday's US inflation report. Data from Coinbase-owned Deribit, a crypto options exchange, showed that in an Oct. 12 snapshot the...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "656c773bcb",
+   "title": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
+   "date": "2026-10-12T18:09:15+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Ripple-Backed Evernorth Hits Nasdaq Holding 473 Million XRP Worth Far Less Than It Paid",
+     "url": "https://decrypt.co/380728/ripple-backed-evernorth-hits-nasdaq-holding-473-million-xrp",
+     "date": "2026-10-12T18:09:15+00:00",
+     "summary": "Evernorth's XRPN shares began trading Monday after its SPAC merger closed, but 80% of SPAC investors cashed out first and its XRP stash is worth roughly 40% less than at signing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T18:09:15+00:00",
+   "last_seen": "2026-10-12T18:09:15+00:00",
+   "summary": "Evernorth's XRPN shares began trading Monday after its SPAC merger closed, but 80% of SPAC investors cashed out first and its XRP stash is worth roughly 40% less than at signing.",
+   "tags": []
+  },
   {
    "id": "7d0cdb2660",
    "title": "Solana\u2019s offline-signing proposal would keep approvals valid after failed transactions",

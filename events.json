@@ -1,6 +1,87 @@
 {
- "updated": "2026-10-12T08:43:10.221049+00:00",
+ "updated": "2026-10-12T09:42:01.276681+00:00",
  "events": [
+  {
+   "id": "738100d0ab",
+   "title": "Standard Chartered launches custody for Ripple\u2019s RLUSD on XRP Ledger",
+   "date": "2026-10-12T09:35:21+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Standard Chartered launches custody for Ripple\u2019s RLUSD on XRP Ledger",
+     "url": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
+     "date": "2026-10-12T09:35:21+00:00",
+     "summary": "The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T09:35:21+00:00",
+   "last_seen": "2026-10-12T09:35:21+00:00",
+   "summary": "The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model.",
+   "tags": []
+  },
+  {
+   "id": "d78c073983",
+   "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
+   "date": "2026-10-12T09:30:57+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Standard Chartered adds Ripple USD custody, eyes LMAX collateral deal",
+     "url": "https://cointelegraph.com/news/standard-chartered-rlusd-custody-lmax-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-12T09:30:57+00:00",
+     "summary": "Standard Chartered has launched custody for Ripple\u2019s RLUSD stablecoin on the XRP Ledger and plans to let institutions use the tokens as trading collateral."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T09:30:57+00:00",
+   "last_seen": "2026-10-12T09:30:57+00:00",
+   "summary": "Standard Chartered has launched custody for Ripple\u2019s RLUSD stablecoin on the XRP Ledger and plans to let institutions use the tokens as trading collateral.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "0bacd1dc5e",
+   "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+   "date": "2026-10-12T08:58:24+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "U.S. inflation, Ethereum upgrade talks: Crypto Week Ahead",
+     "url": "https://www.coindesk.com/markets/2026/10/12/u-s-inflation-ethereum-upgrade-talks-crypto-week-ahead",
+     "date": "2026-10-12T08:58:24+00:00",
+     "summary": "Your look at what's coming in the week starting Oct. 12."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T08:58:24+00:00",
+   "last_seen": "2026-10-12T08:58:24+00:00",
+   "summary": "Your look at what's coming in the week starting Oct. 12.",
+   "tags": [
+    "ethereum",
+    "macro"
+   ]
+  },
+  {
+   "id": "ebf5418eed",
+   "title": "South Korean bank launches Bitcoin-backed business loans: Report",
+   "date": "2026-10-12T08:45:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "South Korean bank launches Bitcoin-backed business loans: Report",
+     "url": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-12T08:45:58+00:00",
+     "summary": "Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T08:45:58+00:00",
+   "last_seen": "2026-10-12T08:45:58+00:00",
+   "summary": "Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral.",
+   "tags": []
+  },
   {
    "id": "b12408020d",
    "title": "Kraken Plans UAE Launch After Securing Full Dubai License",

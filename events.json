@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-12T00:49:23.896087+00:00",
+ "updated": "2026-10-12T01:38:54.104686+00:00",
  "events": [
+  {
+   "id": "ea47c0bfa7",
+   "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+   "date": "2026-10-12T01:21:29+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "XRP Ledger defends emergency patch for unlimited XRP bug",
+     "url": "https://cointelegraph.com/news/xrp-ledger-defends-emergency-patch-for-unlimited-xrp-bug?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-12T01:21:29+00:00",
+     "summary": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T01:21:29+00:00",
+   "last_seen": "2026-10-12T01:21:29+00:00",
+   "summary": "The XRP Ledger Foundation pushed back against claims that its emergency security patch was forced on network operators.",
+   "tags": []
+  },
   {
    "id": "df688e9833",
    "title": "AVAX Gains Nearly 50% in Four Weeks, Outpacing Bitcoin and Ether",
@@ -12,14 +31,22 @@
      "url": "https://thedefiant.io/news/markets/avax-gains-nearly-50-in-four-weeks-outpacing-bitcoin-and-ether",
      "date": "2026-10-11T23:28:09+00:00",
      "summary": "The token retained its lead despite a 1.7% weekly decline, while Avalanche shortened the minimum commitment for validators during the period."
+    },
+    {
+     "source": "The Defiant",
+     "title": "STRK Gains 322% in Four Weeks, Outpacing Bitcoin and Ether",
+     "url": "https://thedefiant.io/news/markets/strk-gains-322-in-four-weeks-outpacing-bitcoin-and-ether",
+     "date": "2026-10-12T00:59:46+00:00",
+     "summary": "Starknet\u2019s DeFi TVL rose about 5% over a slightly shorter period, while its proposed Layer 1 shift remains under discussion."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-10-11T23:28:09+00:00",
-   "last_seen": "2026-10-11T23:28:09+00:00",
+   "last_seen": "2026-10-12T00:59:46+00:00",
    "summary": "The token retained its lead despite a 1.7% weekly decline, while Avalanche shortened the minimum commitment for validators during the period.",
    "tags": [
     "bitcoin",
+    "defi",
     "ethereum"
    ]
   },

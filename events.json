@@ -1,6 +1,109 @@
 {
- "updated": "2026-10-12T13:03:48.926608+00:00",
+ "updated": "2026-10-12T13:49:57.024887+00:00",
  "events": [
+  {
+   "id": "1b578f7057",
+   "title": "OneKey Cuts Off CryptoBilis, Offers Free Wallet Replacements",
+   "date": "2026-10-12T13:45:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OneKey Cuts Off CryptoBilis, Offers Free Wallet Replacements",
+     "url": "https://thedefiant.io/news/security/onekey-cuts-off-cryptobilis-offers-free-wallet-replacements",
+     "date": "2026-10-12T13:45:06+00:00",
+     "summary": "All OneKey models bought from the reseller between March 1 and Oct. 12 qualify, including used devices. Buyers must apply by Dec. 31."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T13:45:06+00:00",
+   "last_seen": "2026-10-12T13:45:06+00:00",
+   "summary": "All OneKey models bought from the reseller between March 1 and Oct. 12 qualify, including used devices. Buyers must apply by Dec. 31.",
+   "tags": []
+  },
+  {
+   "id": "71ca7e11cd",
+   "title": "Bitmine adds 12,532 ETH as Tom Lee flags potential \u2018largest-ever\u2019 crypto bull market",
+   "date": "2026-10-12T13:43:32+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitmine adds 12,532 ETH as Tom Lee flags potential \u2018largest-ever\u2019 crypto bull market",
+     "url": "https://www.theblock.co/news/business/2026-10-12-bitmine-eth-holdings-6-million-ether-treasury-418296",
+     "date": "2026-10-12T13:43:32+00:00",
+     "summary": "Bitmine (BMNR) added 12,532 ETH last week, lifting its Ethereum treasury to 6.03 million tokens, or 4.9% of supply, with 84% staked."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T13:43:32+00:00",
+   "last_seen": "2026-10-12T13:43:32+00:00",
+   "summary": "Bitmine (BMNR) added 12,532 ETH last week, lifting its Ethereum treasury to 6.03 million tokens, or 4.9% of supply, with 84% staked.",
+   "tags": [
+    "ethereum",
+    "macro"
+   ]
+  },
+  {
+   "id": "d5624bb7bd",
+   "title": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
+   "date": "2026-10-12T13:33:28+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
+     "url": "https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking",
+     "date": "2026-10-12T13:33:28+00:00",
+     "summary": "The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T13:33:28+00:00",
+   "last_seen": "2026-10-12T13:33:28+00:00",
+   "summary": "The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet.",
+   "tags": [
+    "ethereum",
+    "macro"
+   ]
+  },
+  {
+   "id": "2c503466d5",
+   "title": "EU targets MiCA loophole that lets crypto exchanges serve 27 countries with one license",
+   "date": "2026-10-12T13:20:55+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "EU targets MiCA loophole that lets crypto exchanges serve 27 countries with one license",
+     "url": "https://cryptoslate.com/eu-targets-mica-loophole-that-lets-crypto-exchanges-serve-27-countries-with-one-license/",
+     "date": "2026-10-12T13:20:55+00:00",
+     "summary": "The Council\u2019s selective ESMA model would address part of MiCA\u2019s cross-border supervision gap while retaining national oversight elsewhere. The post EU targets MiCA loophole that lets crypto exchanges serve 27 countries with one license appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T13:20:55+00:00",
+   "last_seen": "2026-10-12T13:20:55+00:00",
+   "summary": "The Council\u2019s selective ESMA model would address part of MiCA\u2019s cross-border supervision gap while retaining national oversight elsewhere. The post EU targets MiCA loophole that lets crypto exchanges serve 27 countries with one license appeared first on CryptoSlate .",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "fdc875313a",
+   "title": "Karpel\u00e8s Flags Another Ledger Implant as Company Keeps CryptoBilis Warning",
+   "date": "2026-10-12T13:12:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Karpel\u00e8s Flags Another Ledger Implant as Company Keeps CryptoBilis Warning",
+     "url": "https://thedefiant.io/news/security/karpel-s-flags-another-ledger-implant-as-company-keeps-cryptobilis-warning",
+     "date": "2026-10-12T13:12:44+00:00",
+     "summary": "Ledger's security documentation says Genuine Check cannot detect spying implants that leave the secure chip intact, a limit affecting buyers beyond any one reseller."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T13:12:44+00:00",
+   "last_seen": "2026-10-12T13:12:44+00:00",
+   "summary": "Ledger's security documentation says Genuine Check cannot detect spying implants that leave the secure chip intact, a limit affecting buyers beyond any one reseller.",
+   "tags": []
+  },
   {
    "id": "de729e26d8",
    "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",

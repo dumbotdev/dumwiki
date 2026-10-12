@@ -1,6 +1,127 @@
 {
- "updated": "2026-10-12T19:35:54.811683+00:00",
+ "updated": "2026-10-12T20:38:18.657290+00:00",
  "events": [
+  {
+   "id": "87fac6dc1d",
+   "title": "Robinhood Reports $15B in Stock Token Trading as Chain Passes 100 Days",
+   "date": "2026-10-12T20:36:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Robinhood Reports $15B in Stock Token Trading as Chain Passes 100 Days",
+     "url": "https://thedefiant.io/news/blockchains/robinhood-reports-15b-in-stock-token-trading-as-chain-passes-100-days",
+     "date": "2026-10-12T20:36:46+00:00",
+     "summary": "The company says its stock tokens have reached 200,000 holders, while Morpho\u2019s dashboard shows about $1.1 billion deposited on the network."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T20:36:46+00:00",
+   "last_seen": "2026-10-12T20:36:46+00:00",
+   "summary": "The company says its stock tokens have reached 200,000 holders, while Morpho\u2019s dashboard shows about $1.1 billion deposited on the network.",
+   "tags": []
+  },
+  {
+   "id": "543b6b7586",
+   "title": "IMF Finds Most Tokenized Equity Trading Happens Outside Regular Hours",
+   "date": "2026-10-12T20:36:36+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "IMF Finds Most Tokenized Equity Trading Happens Outside Regular Hours",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/imf-finds-most-tokenized-equity-trading-happens-outside-regular-hours",
+     "date": "2026-10-12T20:36:36+00:00",
+     "summary": "The fund says demand for round-the-clock access is real, but building deep, liquid and resilient markets remains a challenge."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T20:36:36+00:00",
+   "last_seen": "2026-10-12T20:36:36+00:00",
+   "summary": "The fund says demand for round-the-clock access is real, but building deep, liquid and resilient markets remains a challenge.",
+   "tags": []
+  },
+  {
+   "id": "2c07e22062",
+   "title": "Canton Records Over $155 Million in Q3 Fees, CertiK Says",
+   "date": "2026-10-12T20:36:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Canton Records Over $155 Million in Q3 Fees, CertiK Says",
+     "url": "https://thedefiant.io/converge/blockchains/canton-records-over-155-million-in-q3-fees-certik-says",
+     "date": "2026-10-12T20:36:19+00:00",
+     "summary": "The network burns Canton Coin to pay for services, while its recorded daily fee pace was below the 30-day snapshot Converge reported in June."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T20:36:19+00:00",
+   "last_seen": "2026-10-12T20:36:19+00:00",
+   "summary": "The network burns Canton Coin to pay for services, while its recorded daily fee pace was below the 30-day snapshot Converge reported in June.",
+   "tags": []
+  },
+  {
+   "id": "97c34a955f",
+   "title": "Citi Details Stablecoin Checkout With Coinbase and Fiat Payouts",
+   "date": "2026-10-12T20:35:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Citi Details Stablecoin Checkout With Coinbase and Fiat Payouts",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/citi-details-stablecoin-checkout-with-coinbase-and-fiat-payouts",
+     "date": "2026-10-12T20:35:49+00:00",
+     "summary": "The US-first expansion would let institutional merchants receive fiat without holding digital assets. General availability and supported tokens remain unspecified."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T20:35:49+00:00",
+   "last_seen": "2026-10-12T20:35:49+00:00",
+   "summary": "The US-first expansion would let institutional merchants receive fiat without holding digital assets. General availability and supported tokens remain unspecified.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "11a91ba5b0",
+   "title": "From GTA V on iPhone to Free Photoshop: This AI Tool Is Upending Software",
+   "date": "2026-10-12T19:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "From GTA V on iPhone to Free Photoshop: This AI Tool Is Upending Software",
+     "url": "https://decrypt.co/380741/gta-v-iphone-free-photoshop-ai-tool-rea-upending-software",
+     "date": "2026-10-12T19:46:03+00:00",
+     "summary": "REA, a free toolkit that hands AI agents the keys to reverse engineering, crossed 100,000 GitHub stars in a week as AI-decompiled game mods, console ports, and Adobe clones flood the internet."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T19:46:03+00:00",
+   "last_seen": "2026-10-12T19:46:03+00:00",
+   "summary": "REA, a free toolkit that hands AI agents the keys to reverse engineering, crossed 100,000 GitHub stars in a week as AI-decompiled game mods, console ports, and Adobe clones flood the internet.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "e5170b3c78",
+   "title": "Bitcoin Extends Slide \u2014 Can \u2018Uptober\u2019 2026 Beat Last Year\u2019s?",
+   "date": "2026-10-12T19:43:18+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Extends Slide \u2014 Can \u2018Uptober\u2019 2026 Beat Last Year\u2019s?",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-slides-how-will-uptober-2026-fare",
+     "date": "2026-10-12T19:43:18+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Extends Slide \u2014 Can \u2018Uptober\u2019 2026 Beat Last Year\u2019s? Bitcoin is off to a rough start so far this month. But things could still turn around. This post Bitcoin Extends Slide \u2014 Can \u2018Uptober\u2019 2026 Beat Last Year\u2019s? first appeared on Bitcoin Magazine and is..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T19:43:18+00:00",
+   "last_seen": "2026-10-12T19:43:18+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Extends Slide \u2014 Can \u2018Uptober\u2019 2026 Beat Last Year\u2019s? Bitcoin is off to a rough start so far this month. But things could still turn around. This post Bitcoin Extends Slide \u2014 Can \u2018Uptober\u2019 2026 Beat Last Year\u2019s? first appeared on Bitcoin Magazine and is...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "398449fe34",
    "title": "Standard Chartered brings Ripple\u2019s RLUSD into banking custody after $765 million quarterly surge",

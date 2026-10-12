@@ -1,6 +1,130 @@
 {
- "updated": "2026-10-12T07:42:16.498893+00:00",
+ "updated": "2026-10-12T08:43:10.221049+00:00",
  "events": [
+  {
+   "id": "b12408020d",
+   "title": "Kraken Plans UAE Launch After Securing Full Dubai License",
+   "date": "2026-10-12T08:41:25+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Kraken Plans UAE Launch After Securing Full Dubai License",
+     "url": "https://thedefiant.io/news/cefi/kraken-plans-uae-launch-after-securing-full-dubai-license",
+     "date": "2026-10-12T08:41:25+00:00",
+     "summary": "The planned rollout includes dirham deposits and withdrawals, AED trading pairs, staking and xStocks, with retail investors covered by Payward\u2019s license."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T08:41:25+00:00",
+   "last_seen": "2026-10-12T08:41:25+00:00",
+   "summary": "The planned rollout includes dirham deposits and withdrawals, AED trading pairs, staking and xStocks, with retail investors covered by Payward\u2019s license.",
+   "tags": [
+    "defi",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "0cb47090d8",
+   "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+   "date": "2026-10-12T08:32:17+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Why a bug that could have threatened XRP's 100 billion supply cap stayed hidden for years",
+     "url": "https://www.coindesk.com/tech/2026/10/12/why-a-bug-that-could-have-threatened-xrp-s-100-billion-supply-cap-stayed-hidden-for-years",
+     "date": "2026-10-12T08:32:17+00:00",
+     "summary": "The XRP Ledger Foundation said normal parameters never triggered the bug that could have broken XRP's supply cap, which is why it was undetected for years."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T08:32:17+00:00",
+   "last_seen": "2026-10-12T08:32:17+00:00",
+   "summary": "The XRP Ledger Foundation said normal parameters never triggered the bug that could have broken XRP's supply cap, which is why it was undetected for years.",
+   "tags": []
+  },
+  {
+   "id": "444d402938",
+   "title": "Solana sandwich bots took $29.7 million before costs, mostly targeting Pump.fun",
+   "date": "2026-10-12T08:30:49+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Solana sandwich bots took $29.7 million before costs, mostly targeting Pump.fun",
+     "url": "https://cryptoslate.com/solana-sandwich-bots-took-29-7-million-before-costs-bitquery-estimates/",
+     "date": "2026-10-12T08:30:49+00:00",
+     "summary": "Pump.fun's launch curve and PumpSwap accounted for 96% of detected attacks in the study's 11-month window. The post Solana sandwich bots took $29.7 million before costs, mostly targeting Pump.fun appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T08:30:49+00:00",
+   "last_seen": "2026-10-12T08:30:49+00:00",
+   "summary": "Pump.fun's launch curve and PumpSwap accounted for 96% of detected attacks in the study's 11-month window. The post Solana sandwich bots took $29.7 million before costs, mostly targeting Pump.fun appeared first on CryptoSlate .",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "8960fb0529",
+   "title": "ESMA Calls for Noncompliant Stablecoin Wind-Down by Jan. 8",
+   "date": "2026-10-12T08:22:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "ESMA Calls for Noncompliant Stablecoin Wind-Down by Jan. 8",
+     "url": "https://thedefiant.io/converge/regulation/esma-calls-for-noncompliant-stablecoin-wind-down-by-jan-8",
+     "date": "2026-10-12T08:22:07+00:00",
+     "summary": "The regulator\u2019s opinion includes custody and transfers, moving beyond earlier guidance that allowed those services to continue."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T08:22:07+00:00",
+   "last_seen": "2026-10-12T08:22:07+00:00",
+   "summary": "The regulator\u2019s opinion includes custody and transfers, moving beyond earlier guidance that allowed those services to continue.",
+   "tags": [
+    "regulation",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "a13d86e5f7",
+   "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+   "date": "2026-10-12T07:49:40+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ledger says unauthorized implant found in at least one device sold by CryptoBilis",
+     "url": "https://www.coindesk.com/tech/2026/10/12/ledger-says-unauthorized-implant-found-in-at-least-one-device-sold-by-cryptobilis",
+     "date": "2026-10-12T07:49:40+00:00",
+     "summary": "Ledger confirmed an unauthorized hardware implant in a device linked to crypto losses at CryptoBilis, a Southeast Asian reseller. The company says confirmed cases are limited and its internal systems remain unaffected."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T07:49:40+00:00",
+   "last_seen": "2026-10-12T07:49:40+00:00",
+   "summary": "Ledger confirmed an unauthorized hardware implant in a device linked to crypto losses at CryptoBilis, a Southeast Asian reseller. The company says confirmed cases are limited and its internal systems remain unaffected.",
+   "tags": []
+  },
+  {
+   "id": "7c110abd88",
+   "title": "CZ Alleges Hackers Bought CryptoBilis as Ledger Probes Wallet Drains",
+   "date": "2026-10-12T07:44:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "CZ Alleges Hackers Bought CryptoBilis as Ledger Probes Wallet Drains",
+     "url": "https://thedefiant.io/news/security/cz-alleges-hackers-bought-cryptobilis-as-ledger-probes-wallet-drains",
+     "date": "2026-10-12T07:44:31+00:00",
+     "summary": "The reseller\u2019s former founders say they handed over operations in March and that their acquisition agreement delayed a public announcement until mid-October."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T07:44:31+00:00",
+   "last_seen": "2026-10-12T07:44:31+00:00",
+   "summary": "The reseller\u2019s former founders say they handed over operations in March and that their acquisition agreement delayed a public announcement until mid-October.",
+   "tags": [
+    "funding"
+   ]
+  },
   {
    "id": "57b45927ee",
    "title": "XRP rebounded as Binance spot turnover fell nearly 80%",

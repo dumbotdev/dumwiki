@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-12T04:40:05.470119+00:00",
+ "updated": "2026-10-12T05:38:03.927128+00:00",
  "events": [
+  {
+   "id": "876e71d81a",
+   "title": "DATA Network to migrate to Sui, retire own chain",
+   "date": "2026-10-12T05:15:43+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "DATA Network to migrate to Sui, retire own chain",
+     "url": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-12T05:15:43+00:00",
+     "summary": "The migration is backed by a $30 million investment from Sui Foundation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T05:15:43+00:00",
+   "last_seen": "2026-10-12T05:15:43+00:00",
+   "summary": "The migration is backed by a $30 million investment from Sui Foundation.",
+   "tags": []
+  },
+  {
+   "id": "2d2a882c9b",
+   "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+   "date": "2026-10-12T04:49:30+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin shrugs off ETF outflows to trade above $84,000 as oil falls",
+     "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-shrugs-off-etf-outflows-to-trade-above-usd84-000-as-oil-falls",
+     "date": "2026-10-12T04:49:30+00:00",
+     "summary": "Bitcoin is holding on to its weekend gains as oil trades lower. ETFs lost over $600 million in outflows last week."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T04:49:30+00:00",
+   "last_seen": "2026-10-12T04:49:30+00:00",
+   "summary": "Bitcoin is holding on to its weekend gains as oil trades lower. ETFs lost over $600 million in outflows last week.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "1963b66f94",
+   "title": "French lawmakers back reporting rule for crypto wallets over $112K",
+   "date": "2026-10-12T04:45:15+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "French lawmakers back reporting rule for crypto wallets over $112K",
+     "url": "https://cointelegraph.com/news/french-lawmakers-back-reporting-rule-for-crypto-wallets-over-112k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-12T04:45:15+00:00",
+     "summary": "Holders could face fines of up to 10,000 euros for failing to declare qualifying assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T04:45:15+00:00",
+   "last_seen": "2026-10-12T04:45:15+00:00",
+   "summary": "Holders could face fines of up to 10,000 euros for failing to declare qualifying assets.",
+   "tags": []
+  },
   {
    "id": "93ba6208d3",
    "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except \u2018onions and box office receipts\u2019",

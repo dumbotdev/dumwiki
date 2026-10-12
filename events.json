@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-12T03:41:31.921521+00:00",
+ "updated": "2026-10-12T04:40:05.470119+00:00",
  "events": [
+  {
+   "id": "93ba6208d3",
+   "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except \u2018onions and box office receipts\u2019",
+   "date": "2026-10-12T04:33:57+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Former Acting Chair Caroline Pham says CFTC can regulate almost everything except \u2018onions and box office receipts\u2019",
+     "url": "https://www.theblock.co/news/regulation/2026-10-12-former-cftc-acting-chair-caroline-pham-onions-418246",
+     "date": "2026-10-12T04:33:57+00:00",
+     "summary": "Pham said the CFTC's recent proposals are 'absolutely the kind of protection' needed for crypto retail traders in the United States."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T04:33:57+00:00",
+   "last_seen": "2026-10-12T04:33:57+00:00",
+   "summary": "Pham said the CFTC's recent proposals are 'absolutely the kind of protection' needed for crypto retail traders in the United States.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "596160005d",
    "title": "Aave\u2019s USDG rollover plan has a yield below most quoted borrowing rates",

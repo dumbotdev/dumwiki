@@ -1,6 +1,112 @@
 {
- "updated": "2026-10-12T18:42:52.987597+00:00",
+ "updated": "2026-10-12T19:35:54.811683+00:00",
  "events": [
+  {
+   "id": "398449fe34",
+   "title": "Standard Chartered brings Ripple\u2019s RLUSD into banking custody after $765 million quarterly surge",
+   "date": "2026-10-12T19:30:19+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Standard Chartered brings Ripple\u2019s RLUSD into banking custody after $765 million quarterly surge",
+     "url": "https://cryptoslate.com/standard-chartered-brings-ripples-rlusd-into-banking-custody-after-765-million-quarterly-surge/",
+     "date": "2026-10-12T19:30:19+00:00",
+     "summary": "Eligible clients can custody XRPL-issued RLUSD through the DIFC branch; the planned LMAX collateral link remains conditional and undated. The post Standard Chartered brings Ripple&#8217;s RLUSD into banking custody after $765 million quarterly surge appeared first on CryptoSlate..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T19:30:19+00:00",
+   "last_seen": "2026-10-12T19:30:19+00:00",
+   "summary": "Eligible clients can custody XRPL-issued RLUSD through the DIFC branch; the planned LMAX collateral link remains conditional and undated. The post Standard Chartered brings Ripple&#8217;s RLUSD into banking custody after $765 million quarterly surge appeared first on CryptoSlate...",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "865f2481cf",
+   "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
+   "date": "2026-10-12T19:07:30+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
+     "url": "https://decrypt.co/380752/solana-treasury-firm-defi-development-keeps-buying-sol",
+     "date": "2026-10-12T19:07:30+00:00",
+     "summary": "The Nasdaq-listed company now holds about 2.59 million SOL, but its weekly purchases keep shrinking."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T19:07:30+00:00",
+   "last_seen": "2026-10-12T19:07:30+00:00",
+   "summary": "The Nasdaq-listed company now holds about 2.59 million SOL, but its weekly purchases keep shrinking.",
+   "tags": [
+    "defi",
+    "macro",
+    "solana"
+   ]
+  },
+  {
+   "id": "6c8a992c5f",
+   "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
+   "date": "2026-10-12T18:55:49+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto PACs report $2.7M spending blitz on House races as midterms loom",
+     "url": "https://cointelegraph.com/news/crypto-pac-spending-house-races-2026-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-12T18:55:49+00:00",
+     "summary": "With just 22 days until the US midterm elections, a crypto-aligned committee has announced another major ad expenditure to support \u201cpro-crypto\u201d candidates in 2026."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T18:55:49+00:00",
+   "last_seen": "2026-10-12T18:55:49+00:00",
+   "summary": "With just 22 days until the US midterm elections, a crypto-aligned committee has announced another major ad expenditure to support \u201cpro-crypto\u201d candidates in 2026.",
+   "tags": []
+  },
+  {
+   "id": "7cb529717a",
+   "title": "Binance launches AI trading tool after 150,000-user beta",
+   "date": "2026-10-12T18:44:10+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Binance launches AI trading tool after 150,000-user beta",
+     "url": "https://www.theblock.co/news/business/2026-10-12-binance-ai-trading-interface-global-rollout-418349",
+     "date": "2026-10-12T18:44:10+00:00",
+     "summary": "Binance rolled out Binance AI, a free generative-UI trading interface, to all English-language users after a beta with about 150,000 testers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T18:44:10+00:00",
+   "last_seen": "2026-10-12T18:44:10+00:00",
+   "summary": "Binance rolled out Binance AI, a free generative-UI trading interface, to all English-language users after a beta with about 150,000 testers.",
+   "tags": [
+    "ai",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "aa5917d879",
+   "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
+   "date": "2026-10-12T18:38:14+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
+     "url": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-12T18:38:14+00:00",
+     "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T18:38:14+00:00",
+   "last_seen": "2026-10-12T18:38:14+00:00",
+   "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "448bb1c0c5",
    "title": "Bitcoin options price a quiet CPI week while shorts cluster at $76,000\u2013$80,000",

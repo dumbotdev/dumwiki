@@ -1,6 +1,114 @@
 {
- "updated": "2026-10-12T20:38:18.657290+00:00",
+ "updated": "2026-10-12T21:35:34.921381+00:00",
  "events": [
+  {
+   "id": "93d5ab0246",
+   "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai\u2014And Let Clients Trade With It Without Moving It",
+   "date": "2026-10-12T21:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai\u2014And Let Clients Trade With It Without Moving It",
+     "url": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+     "date": "2026-10-12T21:16:03+00:00",
+     "summary": "The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collateral while the coins stay put."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T21:16:03+00:00",
+   "last_seen": "2026-10-12T21:16:03+00:00",
+   "summary": "The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collateral while the coins stay put.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "518689f3ac",
+   "title": "FTX\u2019s crypto mining venture is now used to advance AI",
+   "date": "2026-10-12T21:11:26+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "FTX\u2019s crypto mining venture is now used to advance AI",
+     "url": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-12T21:11:26+00:00",
+     "summary": "The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T21:11:26+00:00",
+   "last_seen": "2026-10-12T21:11:26+00:00",
+   "summary": "The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022.",
+   "tags": [
+    "ai",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "ffeb0088ee",
+   "title": "CFTC\u2019s new crypto framework could face 2028 election deadline, says TD Cowen",
+   "date": "2026-10-12T20:53:54+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "CFTC\u2019s new crypto framework could face 2028 election deadline, says TD Cowen",
+     "url": "https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358",
+     "date": "2026-10-12T20:53:54+00:00",
+     "summary": "Newly proposed rules for leveraged and margined crypto trading may be too late as the 2028 election cycle looms, according to TD Cowen."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T20:53:54+00:00",
+   "last_seen": "2026-10-12T20:53:54+00:00",
+   "summary": "Newly proposed rules for leveraged and margined crypto trading may be too late as the 2028 election cycle looms, according to TD Cowen.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "b66dbff0fa",
+   "title": "FTX\u2019s former Bitcoin mining bet gets new life as parent raises \u20ac800 million for AI",
+   "date": "2026-10-12T20:50:19+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "FTX\u2019s former Bitcoin mining bet gets new life as parent raises \u20ac800 million for AI",
+     "url": "https://cryptoslate.com/ftxs-former-bitcoin-mining-bet-gets-new-life-as-parent-raises-e800-million-for-ai/",
+     "date": "2026-10-12T20:50:19+00:00",
+     "summary": "The new equity backs a wider AI platform while SWI pursues its existing plan to reposition Genesis Digital Assets' mining sites. The post FTX&#8217;s former Bitcoin mining bet gets new life as parent raises \u20ac800 million for AI appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T20:50:19+00:00",
+   "last_seen": "2026-10-12T20:50:19+00:00",
+   "summary": "The new equity backs a wider AI platform while SWI pursues its existing plan to reposition Genesis Digital Assets' mining sites. The post FTX&#8217;s former Bitcoin mining bet gets new life as parent raises \u20ac800 million for AI appeared first on CryptoSlate .",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "3e4e6fdbdf",
+   "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
+   "date": "2026-10-12T20:46:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Meta's New Muse Wonder Finally Puts Zuckerberg in the Frontier AI Race",
+     "url": "https://decrypt.co/380768/meta-muse-wonder-zuckerberg-frontier-ai-race",
+     "date": "2026-10-12T20:46:04+00:00",
+     "summary": "Meta's new flagship beats GPT-6 Astra and Claude on memory, legal and marathon coding tests, but independent rankings still put Anthropic's Opus 5.5 on top."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T20:46:04+00:00",
+   "last_seen": "2026-10-12T20:46:04+00:00",
+   "summary": "Meta's new flagship beats GPT-6 Astra and Claude on memory, legal and marathon coding tests, but independent rankings still put Anthropic's Opus 5.5 on top.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "87fac6dc1d",
    "title": "Robinhood Reports $15B in Stock Token Trading as Chain Passes 100 Days",

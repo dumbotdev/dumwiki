@@ -1,6 +1,91 @@
 {
- "updated": "2026-10-12T21:35:34.921381+00:00",
+ "updated": "2026-10-12T22:35:25.431297+00:00",
  "events": [
+  {
+   "id": "ce0637319f",
+   "title": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway",
+   "date": "2026-10-12T22:10:39+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway",
+     "url": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading",
+     "date": "2026-10-12T22:10:39+00:00",
+     "summary": "Bitcoin Magazine Moscow Exchange to Launch Bitcoin Trading, Testing Underway Russia in recent months has paved the way to allow its citizens to trade bitcoin. This post Moscow Exchange to Launch Bitcoin Trading, Testing Underway first appeared on Bitcoin Magazine and is written..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T22:10:39+00:00",
+   "last_seen": "2026-10-12T22:10:39+00:00",
+   "summary": "Bitcoin Magazine Moscow Exchange to Launch Bitcoin Trading, Testing Underway Russia in recent months has paved the way to allow its citizens to trade bitcoin. This post Moscow Exchange to Launch Bitcoin Trading, Testing Underway first appeared on Bitcoin Magazine and is written...",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "4d47e3799f",
+   "title": "Global watchdog warns the $300 billion stablecoin market could face bank runs even with full reserves",
+   "date": "2026-10-12T22:10:30+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Global watchdog warns the $300 billion stablecoin market could face bank runs even with full reserves",
+     "url": "https://cryptoslate.com/global-watchdog-warns-the-300-billion-stablecoin-market-could-face-bank-runs-even-with-full-reserves/",
+     "date": "2026-10-12T22:10:30+00:00",
+     "summary": "For affiliated issuers with separate reserves, redemption demand could concentrate at one entity while moving backing across borders faces frictions. The post Global watchdog warns the $300 billion stablecoin market could face bank runs even with full reserves appeared first on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T22:10:30+00:00",
+   "last_seen": "2026-10-12T22:10:30+00:00",
+   "summary": "For affiliated issuers with separate reserves, redemption demand could concentrate at one entity while moving backing across borders faces frictions. The post Global watchdog warns the $300 billion stablecoin market could face bank runs even with full reserves appeared first on...",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "94efe26595",
+   "title": "Blur to shut down frontend next month as NFT trading volume dwindles",
+   "date": "2026-10-12T21:49:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Blur to shut down frontend next month as NFT trading volume dwindles",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
+     "date": "2026-10-12T21:49:02+00:00",
+     "summary": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T21:49:02+00:00",
+   "last_seen": "2026-10-12T21:49:02+00:00",
+   "summary": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%.",
+   "tags": [
+    "nfts"
+   ]
+  },
+  {
+   "id": "d10f34f117",
+   "title": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
+   "date": "2026-10-12T21:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "AI Will Hit 40% of Jobs, IMF Warns. Young People Are First in Line",
+     "url": "https://decrypt.co/380789/ai-hit-40-percent-jobs-imf-warns-young-people-first",
+     "date": "2026-10-12T21:46:03+00:00",
+     "summary": "IMF chief Kristalina Georgieva says AI investment is holding global growth near 3%, with Asian chipmakers winning big, while warning of a 'slow-moving tsunami' for young workers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T21:46:03+00:00",
+   "last_seen": "2026-10-12T21:46:03+00:00",
+   "summary": "IMF chief Kristalina Georgieva says AI investment is holding global growth near 3%, with Asian chipmakers winning big, while warning of a 'slow-moving tsunami' for young workers.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "93d5ab0246",
    "title": "Standard Chartered Will Hold Ripple's Stablecoin in Dubai\u2014And Let Clients Trade With It Without Moving It",
@@ -1668,13 +1753,22 @@
      "url": "https://cointelegraph.com/news/south-korea-jeonbuk-bank-bitcoin-backed-business-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-12T08:45:58+00:00",
      "summary": "Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans",
+     "url": "https://bitcoinmagazine.com/news/south-korea-bank-offers-bitcoin-loans",
+     "date": "2026-10-12T22:06:36+00:00",
+     "summary": "Bitcoin Magazine South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans The South Korean bank has become the first in the country to offer the bitcoin-related service. This post South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans first appeared on Bitcoin..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-12T08:45:58+00:00",
-   "last_seen": "2026-10-12T08:45:58+00:00",
-   "summary": "Jeonbuk Bank reportedly began offering Bitcoin-backed loans to corporate customers, with a third-party custodian holding the cryptocurrency used as collateral.",
-   "tags": []
+   "last_seen": "2026-10-12T22:06:36+00:00",
+   "summary": "Bitcoin Magazine South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans The South Korean bank has become the first in the country to offer the bitcoin-related service. This post South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans first appeared on Bitcoin...",
+   "tags": [
+    "bitcoin"
+   ]
   },
   {
    "id": "b12408020d",

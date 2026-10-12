@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-12T06:50:32.304459+00:00",
+ "updated": "2026-10-12T07:42:16.498893+00:00",
  "events": [
+  {
+   "id": "57b45927ee",
+   "title": "XRP rebounded as Binance spot turnover fell nearly 80%",
+   "date": "2026-10-12T07:30:02+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP rebounded as Binance spot turnover fell nearly 80%",
+     "url": "https://cryptoslate.com/xrp-futures-partially-rebuild-after-at-least-40-million-in-bullish-bets-were-liquidated/",
+     "date": "2026-10-12T07:30:02+00:00",
+     "summary": "Binance and Bybit exposure is returning after XRPL.to's sampled liquidation wave, while Binance spot turnover declined during the rebound. The post XRP rebounded as Binance spot turnover fell nearly 80% appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T07:30:02+00:00",
+   "last_seen": "2026-10-12T07:30:02+00:00",
+   "summary": "Binance and Bybit exposure is returning after XRPL.to's sampled liquidation wave, while Binance spot turnover declined during the rebound. The post XRP rebounded as Binance spot turnover fell nearly 80% appeared first on CryptoSlate .",
+   "tags": [
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "37e6064f76",
+   "title": "ENSv2 Activation Proposal Would Halt New ENSv1 Registrations",
+   "date": "2026-10-12T07:14:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "ENSv2 Activation Proposal Would Halt New ENSv1 Registrations",
+     "url": "https://thedefiant.io/news/nfts-and-web3/ensv2-activation-proposal-would-halt-new-ensv1-registrations",
+     "date": "2026-10-12T07:14:12+00:00",
+     "summary": "Existing .eth holders would have no migration deadline, while ENS Labs would hand its remaining ENSv2 admin roles to the DAO."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T07:14:12+00:00",
+   "last_seen": "2026-10-12T07:14:12+00:00",
+   "summary": "Existing .eth holders would have no migration deadline, while ENS Labs would hand its remaining ENSv2 admin roles to the DAO.",
+   "tags": [
+    "ethereum"
+   ]
+  },
   {
    "id": "90d1d699ec",
    "title": "Global watchdog flags stablecoin risks, AI threats ahead of G20",

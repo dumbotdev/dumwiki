@@ -1,6 +1,135 @@
 {
- "updated": "2026-10-12T09:42:01.276681+00:00",
+ "updated": "2026-10-12T10:39:56.936640+00:00",
  "events": [
+  {
+   "id": "8a13bde748",
+   "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
+   "date": "2026-10-12T10:27:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "SWI raises $894 million to repurpose former FTX bitcoin miner Genesis Digital to AI",
+     "url": "https://www.coindesk.com/business/2026/10/12/swi-raises-usd894-million-to-repurpose-former-ftx-bitcoin-miner-genesis-digital-to-ai",
+     "date": "2026-10-12T10:27:00+00:00",
+     "summary": "SWI Group said it would use the proceeds from an 800 million-euro ($894 million) fundraise to transform Genesis Digital Assets, acquired from the FTX bankruptcy, from a bitcoin miner to an AI-focused data center."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T10:27:00+00:00",
+   "last_seen": "2026-10-12T10:27:00+00:00",
+   "summary": "SWI Group said it would use the proceeds from an 800 million-euro ($894 million) fundraise to transform Genesis Digital Assets, acquired from the FTX bankruptcy, from a bitcoin miner to an AI-focused data center.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "39b3c1a876",
+   "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
+   "date": "2026-10-12T10:20:54+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Altcoins rally on thin trading as bitcoin holds below $83,500",
+     "url": "https://www.coindesk.com/markets/2026/10/12/altcoins-rally-on-thin-trading-as-bitcoin-holds-near-usd84-000",
+     "date": "2026-10-12T10:20:54+00:00",
+     "summary": "The CoinDesk 80 has risen around 3% in 24 hours, more than double the CoinDesk 5, while spot bitcoin ETFs lost $681 million last week."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T10:20:54+00:00",
+   "last_seen": "2026-10-12T10:20:54+00:00",
+   "summary": "The CoinDesk 80 has risen around 3% in 24 hours, more than double the CoinDesk 5, while spot bitcoin ETFs lost $681 million last week.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "markets"
+   ]
+  },
+  {
+   "id": "c2fcd8b79f",
+   "title": "UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief",
+   "date": "2026-10-12T10:12:48+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "UK Freezes $12M London Penthouse of Alleged Prince Group Finance Chief",
+     "url": "https://decrypt.co/380661/uk-freezes-12m-london-penthouse-of-alleged-prince-group-finance-chief",
+     "date": "2026-10-12T10:12:48+00:00",
+     "summary": "Thet Li is accused of running the finances of a scam empire tied to $14 billion in Bitcoin the U.S. has moved to seize."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T10:12:48+00:00",
+   "last_seen": "2026-10-12T10:12:48+00:00",
+   "summary": "Thet Li is accused of running the finances of a scam empire tied to $14 billion in Bitcoin the U.S. has moved to seize.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "2f50647ba6",
+   "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
+   "date": "2026-10-12T10:10:13+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
+     "url": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
+     "date": "2026-10-12T10:10:13+00:00",
+     "summary": "Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T10:10:13+00:00",
+   "last_seen": "2026-10-12T10:10:13+00:00",
+   "summary": "Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments.",
+   "tags": []
+  },
+  {
+   "id": "684c5a1678",
+   "title": "Switching from Cryptomus to Heleket leaves the same UK sanctions target",
+   "date": "2026-10-12T09:45:35+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Switching from Cryptomus to Heleket leaves the same UK sanctions target",
+     "url": "https://cryptoslate.com/cryptomus-and-heleket-share-one-uk-sanctions-target-raising-the-stakes-of-switching-payment-providers/",
+     "date": "2026-10-12T09:45:35+00:00",
+     "summary": "The October 8 notice names both brands under Xeltox, while separate exchange tracing highlights the need to check settlement routes. The post Switching from Cryptomus to Heleket leaves the same UK sanctions target appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T09:45:35+00:00",
+   "last_seen": "2026-10-12T09:45:35+00:00",
+   "summary": "The October 8 notice names both brands under Xeltox, while separate exchange tracing highlights the need to check settlement routes. The post Switching from Cryptomus to Heleket leaves the same UK sanctions target appeared first on CryptoSlate .",
+   "tags": [
+    "exchanges",
+    "legal"
+   ]
+  },
+  {
+   "id": "ae9506a298",
+   "title": "Kraken parent clears Dubai\u2019s final hurdle for dirham trading rollout",
+   "date": "2026-10-12T09:41:17+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Kraken parent clears Dubai\u2019s final hurdle for dirham trading rollout",
+     "url": "https://cointelegraph.com/news/kraken-receives-vara-approval-uae-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-12T09:41:17+00:00",
+     "summary": "Payward received full market approval from Dubai\u2019s VARA to expand its digital asset services in the UAE, building on the preliminary approval received in May."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T09:41:17+00:00",
+   "last_seen": "2026-10-12T09:41:17+00:00",
+   "summary": "Payward received full market approval from Dubai\u2019s VARA to expand its digital asset services in the UAE, building on the preliminary approval received in May.",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "738100d0ab",
    "title": "Standard Chartered launches custody for Ripple\u2019s RLUSD on XRP Ledger",

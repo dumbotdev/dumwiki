@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-12T01:38:54.104686+00:00",
+ "updated": "2026-10-12T02:38:42.558598+00:00",
  "events": [
+  {
+   "id": "596160005d",
+   "title": "Aave\u2019s USDG rollover plan has a yield below most quoted borrowing rates",
+   "date": "2026-10-12T02:00:47+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Aave\u2019s USDG rollover plan has a yield below most quoted borrowing rates",
+     "url": "https://cryptoslate.com/aaves-proposed-usdg-rollover-faces-higher-borrowing-costs-and-uncertain-rewards/",
+     "date": "2026-10-12T02:00:47+00:00",
+     "summary": "February PT yield trails three quoted funding rates; GHO was cheaper in the Oct. 7 snapshot, and replacement-token rewards remain unconfirmed. The post Aave\u2019s USDG rollover plan has a yield below most quoted borrowing rates appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T02:00:47+00:00",
+   "last_seen": "2026-10-12T02:00:47+00:00",
+   "summary": "February PT yield trails three quoted funding rates; GHO was cheaper in the Oct. 7 snapshot, and replacement-token rewards remain unconfirmed. The post Aave\u2019s USDG rollover plan has a yield below most quoted borrowing rates appeared first on CryptoSlate .",
+   "tags": [
+    "defi",
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "2918512bee",
+   "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+   "date": "2026-10-12T02:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Sui Foundation invests $30 million in DATA Network as AI data protocol migrates to Sui",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-11-sui-foundation-invests-30-million-data-network-418243",
+     "date": "2026-10-12T02:00:00+00:00",
+     "summary": "DATA Network is set to be upgraded to run as a protocol natively on Sui, and its independent chain will be retired."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T02:00:00+00:00",
+   "last_seen": "2026-10-12T02:00:00+00:00",
+   "summary": "DATA Network is set to be upgraded to run as a protocol natively on Sui, and its independent chain will be retired.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "ea47c0bfa7",
    "title": "XRP Ledger defends emergency patch for unlimited XRP bug",

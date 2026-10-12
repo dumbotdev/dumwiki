@@ -1,6 +1,171 @@
 {
- "updated": "2026-10-12T15:40:14.331836+00:00",
+ "updated": "2026-10-12T16:37:41.360463+00:00",
  "events": [
+  {
+   "id": "5498393c82",
+   "title": "Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis",
+   "date": "2026-10-12T16:32:17+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis",
+     "url": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
+     "date": "2026-10-12T16:32:17+00:00",
+     "summary": "The wallet manufacturer said its own systems and direct sales are unaffected, and that the reseller has stopped selling hardware wallets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T16:32:17+00:00",
+   "last_seen": "2026-10-12T16:32:17+00:00",
+   "summary": "The wallet manufacturer said its own systems and direct sales are unaffected, and that the reseller has stopped selling hardware wallets.",
+   "tags": []
+  },
+  {
+   "id": "903f4efd62",
+   "title": "Derive Proposes Treasury Funding for US-Regulated Derivatives Push",
+   "date": "2026-10-12T16:20:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Derive Proposes Treasury Funding for US-Regulated Derivatives Push",
+     "url": "https://thedefiant.io/news/defi/derive-proposes-treasury-funding-for-us-regulated-derivatives-push",
+     "date": "2026-10-12T16:20:49+00:00",
+     "summary": "The Foundation would gain authority to pursue approvals and establish or acquire entities, but the proposal sets no spending amount or launch date."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T16:20:49+00:00",
+   "last_seen": "2026-10-12T16:20:49+00:00",
+   "summary": "The Foundation would gain authority to pursue approvals and establish or acquire entities, but the proposal sets no spending amount or launch date.",
+   "tags": [
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "62612bf20e",
+   "title": "Eclair merges fixes for Lightning flaws that could burn Bitcoin in fees",
+   "date": "2026-10-12T16:20:36+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Eclair merges fixes for Lightning flaws that could burn Bitcoin in fees",
+     "url": "https://cryptoslate.com/eclair-merges-fixes-for-lightning-fee-losses-that-do-not-require-stolen-keys/",
+     "date": "2026-10-12T16:20:36+00:00",
+     "summary": "October funding and splicing repairs limit peer fees and verify backend transactions, while the latest listed release remains September's v0.14.3. The post Eclair merges fixes for Lightning flaws that could burn Bitcoin in fees appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T16:20:36+00:00",
+   "last_seen": "2026-10-12T16:20:36+00:00",
+   "summary": "October funding and splicing repairs limit peer fees and verify backend transactions, while the latest listed release remains September's v0.14.3. The post Eclair merges fixes for Lightning flaws that could burn Bitcoin in fees appeared first on CryptoSlate .",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "75d8f75134",
+   "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+   "date": "2026-10-12T16:18:03+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+     "url": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
+     "date": "2026-10-12T16:18:03+00:00",
+     "summary": "The Palantir UK chief said the U.S. is racing ahead on enterprise AI while Europe hesitates, and explained why he thinks the company faces intense political attacks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T16:18:03+00:00",
+   "last_seen": "2026-10-12T16:18:03+00:00",
+   "summary": "The Palantir UK chief said the U.S. is racing ahead on enterprise AI while Europe hesitates, and explained why he thinks the company faces intense political attacks.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "14cc8bcfd4",
+   "title": "NEXTPredict Paid $12,000 to Hedge Its Conference on a Prediction Market",
+   "date": "2026-10-12T16:01:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "NEXTPredict Paid $12,000 to Hedge Its Conference on a Prediction Market",
+     "url": "https://decrypt.co/380484/nextpredict-paid-12000-to-hedge-its-conference-on-a-prediction-market",
+     "date": "2026-10-12T16:01:04+00:00",
+     "summary": "Where event insurance deals with scrapped shows and what happens inside the venue, NEXTPredict is focusing on flight cancellations."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T16:01:04+00:00",
+   "last_seen": "2026-10-12T16:01:04+00:00",
+   "summary": "Where event insurance deals with scrapped shows and what happens inside the venue, NEXTPredict is focusing on flight cancellations.",
+   "tags": []
+  },
+  {
+   "id": "91e3253ae0",
+   "title": "Strategy Smash Buys $21.5M in Bitcoin as It Continues BTC Accumulation",
+   "date": "2026-10-12T15:56:59+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Strategy Smash Buys $21.5M in Bitcoin as It Continues BTC Accumulation",
+     "url": "https://bitcoinmagazine.com/news/strategy-smash-buys-21-5m-in-bitcoin",
+     "date": "2026-10-12T15:56:59+00:00",
+     "summary": "Bitcoin Magazine Strategy Smash Buys $21.5M in Bitcoin as It Continues BTC Accumulation Bitcoin juggernaut Strategy has bought more BTC as it pivots back to accumulating on a weekly basis.&#160; The Nasdaq-listed bitcoin treasury spent $21.5 million on 250 bitcoins from October..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T15:56:59+00:00",
+   "last_seen": "2026-10-12T15:56:59+00:00",
+   "summary": "Bitcoin Magazine Strategy Smash Buys $21.5M in Bitcoin as It Continues BTC Accumulation Bitcoin juggernaut Strategy has bought more BTC as it pivots back to accumulating on a weekly basis.&#160; The Nasdaq-listed bitcoin treasury spent $21.5 million on 250 bitcoins from October...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "fef7fece60",
+   "title": "XRP Ledger\u2019s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
+   "date": "2026-10-12T15:56:35+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "XRP Ledger\u2019s Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
+     "url": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
+     "date": "2026-10-12T15:56:35+00:00",
+     "summary": "An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token\u2019s total supply."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T15:56:35+00:00",
+   "last_seen": "2026-10-12T15:56:35+00:00",
+   "summary": "An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token\u2019s total supply.",
+   "tags": []
+  },
+  {
+   "id": "8c53d656b6",
+   "title": "THORChain Fees Rebound but Remain 84% Below September Surge",
+   "date": "2026-10-12T15:40:30+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "THORChain Fees Rebound but Remain 84% Below September Surge",
+     "url": "https://thedefiant.io/news/defi/thorchain-fees-rebound-but-remain-84-below-september-surge",
+     "date": "2026-10-12T15:40:30+00:00",
+     "summary": "The latest seven-day total is back above the pre-surge week, after fees plunged 91% in Oct. 2\u20138."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T15:40:30+00:00",
+   "last_seen": "2026-10-12T15:40:30+00:00",
+   "summary": "The latest seven-day total is back above the pre-surge week, after fees plunged 91% in Oct. 2\u20138.",
+   "tags": [
+    "markets"
+   ]
+  },
   {
    "id": "b6d475095c",
    "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
@@ -903,13 +1068,22 @@
      "url": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
      "date": "2026-10-12T09:35:21+00:00",
      "summary": "The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Standard Chartered Launches RLUSD Custody Through Dubai Branch",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-rlusd-custody-through-dubai-branch",
+     "date": "2026-10-12T15:40:46+00:00",
+     "summary": "A planned link with LMAX would let institutions use the stablecoin as collateral without transferring it to the trading venue."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-12T09:35:21+00:00",
-   "last_seen": "2026-10-12T09:35:21+00:00",
+   "last_seen": "2026-10-12T15:40:46+00:00",
    "summary": "The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model.",
-   "tags": []
+   "tags": [
+    "stablecoins"
+   ]
   },
   {
    "id": "d78c073983",
@@ -1192,13 +1366,22 @@
      "url": "https://cointelegraph.com/news/data-network-to-migrate-to-sui-retire-its-own-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-12T05:15:43+00:00",
      "summary": "The migration is backed by a $30 million investment from Sui Foundation."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Sui Backs DATA With $30 Million as Network Plans to Retire Its Chain",
+     "url": "https://thedefiant.io/news/blockchains/sui-backs-data-with-30-million-as-network-plans-to-retire-its-chain",
+     "date": "2026-10-12T15:48:21+00:00",
+     "summary": "DATA balances are slated to carry over one-for-one onto Sui, but support for validator staking and smart contracts on the chain formerly known as Story will wind down."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-12T05:15:43+00:00",
-   "last_seen": "2026-10-12T05:15:43+00:00",
-   "summary": "The migration is backed by a $30 million investment from Sui Foundation.",
-   "tags": []
+   "last_seen": "2026-10-12T15:48:21+00:00",
+   "summary": "DATA balances are slated to carry over one-for-one onto Sui, but support for validator staking and smart contracts on the chain formerly known as Story will wind down.",
+   "tags": [
+    "defi"
+   ]
   },
   {
    "id": "2d2a882c9b",

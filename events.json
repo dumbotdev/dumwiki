@@ -1,6 +1,236 @@
 {
- "updated": "2026-10-12T11:40:03.214658+00:00",
+ "updated": "2026-10-12T13:03:48.926608+00:00",
  "events": [
+  {
+   "id": "de729e26d8",
+   "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
+   "date": "2026-10-12T12:39:35+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
+     "url": "https://decrypt.co/380677/strategy-scoops-up-21-5m-in-bitcoin-buys-back-192m-in-strc",
+     "date": "2026-10-12T12:39:35+00:00",
+     "summary": "The purchase lifts Strategy's holdings to 848,250 BTC and follows a $176 million repurchase of STRC preferred stock the week before."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T12:39:35+00:00",
+   "last_seen": "2026-10-12T12:39:35+00:00",
+   "summary": "The purchase lifts Strategy's holdings to 848,250 BTC and follows a $176 million repurchase of STRC preferred stock the week before.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "97413145ac",
+   "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
+   "date": "2026-10-12T12:31:51+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
+     "url": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-12T12:31:51+00:00",
+     "summary": "Michael Saylor\u2019s Strategy said Bitcoin holdings reached 848,250 BTC after its latest purchase, while maintaining a $4.88 billion cash reserve."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T12:31:51+00:00",
+   "last_seen": "2026-10-12T12:31:51+00:00",
+   "summary": "Michael Saylor\u2019s Strategy said Bitcoin holdings reached 848,250 BTC after its latest purchase, while maintaining a $4.88 billion cash reserve.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "01d9900020",
+   "title": "Bitquery Says $10 Million Frozen in CryptoBilis-Linked Wallet Drains",
+   "date": "2026-10-12T12:25:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitquery Says $10 Million Frozen in CryptoBilis-Linked Wallet Drains",
+     "url": "https://thedefiant.io/news/hacks/bitquery-says-10-million-frozen-in-cryptobilis-linked-wallet-drains",
+     "date": "2026-10-12T12:25:19+00:00",
+     "summary": "The firm's $93.2 million loss estimate spans six chains, while Ledger's latest update offers no repayment plan for affected buyers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T12:25:19+00:00",
+   "last_seen": "2026-10-12T12:25:19+00:00",
+   "summary": "The firm's $93.2 million loss estimate spans six chains, while Ledger's latest update offers no repayment plan for affected buyers.",
+   "tags": []
+  },
+  {
+   "id": "560324bdfb",
+   "title": "\u2018There\u2019s always room for more orange\u2019: Michael Saylor\u2019s Strategy scoops up another 250 bitcoin for $21.5 million as holdings reach 848,250 BTC",
+   "date": "2026-10-12T12:13:45+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "\u2018There\u2019s always room for more orange\u2019: Michael Saylor\u2019s Strategy scoops up another 250 bitcoin for $21.5 million as holdings reach 848,250 BTC",
+     "url": "https://www.theblock.co/news/business/2026-10-12-theres-always-room-for-more-orange-michael-saylors-strategy-scoops-up-another-250-bitcoin-for-21-5-million-as-holdings-reach-848250-btc-418275",
+     "date": "2026-10-12T12:13:45+00:00",
+     "summary": "Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap \u2014 worth roughly $71 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T12:13:45+00:00",
+   "last_seen": "2026-10-12T12:13:45+00:00",
+   "summary": "Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap \u2014 worth roughly $71 billion.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "f69600f8b8",
+   "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+   "date": "2026-10-12T12:09:09+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+     "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+     "date": "2026-10-12T12:09:09+00:00",
+     "summary": "Ripple previously gave LMAX $150 million in financing to integrate RLUSD into its institutional infrastructure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T12:09:09+00:00",
+   "last_seen": "2026-10-12T12:09:09+00:00",
+   "summary": "Ripple previously gave LMAX $150 million in financing to integrate RLUSD into its institutional infrastructure.",
+   "tags": []
+  },
+  {
+   "id": "a0d28814a9",
+   "title": "Ledger claims CryptoBilis cases are limited as up to $93M is traced, $10M frozen",
+   "date": "2026-10-12T12:01:53+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ledger claims CryptoBilis cases are limited as up to $93M is traced, $10M frozen",
+     "url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
+     "date": "2026-10-12T12:01:53+00:00",
+     "summary": "Ledger said every confirmed case involves devices sold by the Southeast Asian reseller, but critics say the hardware-wallet maker must answer for an authorized sales channel."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T12:01:53+00:00",
+   "last_seen": "2026-10-12T12:01:53+00:00",
+   "summary": "Ledger said every confirmed case involves devices sold by the Southeast Asian reseller, but critics say the hardware-wallet maker must answer for an authorized sales channel.",
+   "tags": []
+  },
+  {
+   "id": "618c849dc0",
+   "title": "Evernorth names former Coinbase investment exec to steer 473 million XRP treasury ahead of Nasdaq debut",
+   "date": "2026-10-12T12:01:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Evernorth names former Coinbase investment exec to steer 473 million XRP treasury ahead of Nasdaq debut",
+     "url": "https://www.theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225",
+     "date": "2026-10-12T12:01:02+00:00",
+     "summary": "Evernorth plans to put its XRP holdings to work through lending, liquidity provision and yield strategies."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T12:01:02+00:00",
+   "last_seen": "2026-10-12T12:01:02+00:00",
+   "summary": "Evernorth plans to put its XRP holdings to work through lending, liquidity provision and yield strategies.",
+   "tags": [
+    "defi",
+    "exchanges",
+    "macro"
+   ]
+  },
+  {
+   "id": "57d562588b",
+   "title": "Thailand wants a piece of the $120 billion Bitcoin and Ethereum ETF market, but on its own terms",
+   "date": "2026-10-12T12:00:46+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Thailand wants a piece of the $120 billion Bitcoin and Ethereum ETF market, but on its own terms",
+     "url": "https://cryptoslate.com/thailand-wants-a-piece-of-the-120-billion-bitcoin-and-ethereum-etf-market-but-on-its-own-terms/",
+     "date": "2026-10-12T12:00:46+00:00",
+     "summary": "The SEC says the framework takes effect Oct. 16, with Bitcoin and Ethereum initially eligible and product-risk education required before trading. The post Thailand wants a piece of the $120 billion Bitcoin and Ethereum ETF market, but on its own terms appeared first on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T12:00:46+00:00",
+   "last_seen": "2026-10-12T12:00:46+00:00",
+   "summary": "The SEC says the framework takes effect Oct. 16, with Bitcoin and Ethereum initially eligible and product-risk education required before trading. The post Thailand wants a piece of the $120 billion Bitcoin and Ethereum ETF market, but on its own terms appeared first on...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum",
+    "regulation"
+   ]
+  },
+  {
+   "id": "ca4347d3a5",
+   "title": "Bybit Launches USDC-Funded Trading in More Than 1,000 US Stocks and ETFs",
+   "date": "2026-10-12T11:50:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bybit Launches USDC-Funded Trading in More Than 1,000 US Stocks and ETFs",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/bybit-launches-usdc-funded-trading-in-more-than-1-000-us-stocks-and-etfs",
+     "date": "2026-10-12T11:50:49+00:00",
+     "summary": "Alpaca executes trades and holds the underlying shares, giving eligible users a brokerage alternative to Bybit\u2019s tokenized xStocks products."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T11:50:49+00:00",
+   "last_seen": "2026-10-12T11:50:49+00:00",
+   "summary": "Alpaca executes trades and holds the underlying shares, giving eligible users a brokerage alternative to Bybit\u2019s tokenized xStocks products.",
+   "tags": [
+    "etfs",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "df8844e8cc",
+   "title": "Australia proposes leverage caps for crypto-settled derivatives",
+   "date": "2026-10-12T11:41:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Australia proposes leverage caps for crypto-settled derivatives",
+     "url": "https://cointelegraph.com/news/australia-asic-crypto-settled-cfd-protections?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-12T11:41:58+00:00",
+     "summary": "ASIC\u2019s proposal would extend leverage limits and protections against negative balances to certain derivatives settled in digital assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T11:41:58+00:00",
+   "last_seen": "2026-10-12T11:41:58+00:00",
+   "summary": "ASIC\u2019s proposal would extend leverage limits and protections against negative balances to certain derivatives settled in digital assets.",
+   "tags": []
+  },
+  {
+   "id": "fc4bbf5bff",
+   "title": "Bitcoin Ranges Near $83K as Traders Look to US Inflation Data",
+   "date": "2026-10-12T11:41:50+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Ranges Near $83K as Traders Look to US Inflation Data",
+     "url": "https://decrypt.co/380669/bitcoin-ranges-near-83k-as-traders-look-to-us-inflation-data",
+     "date": "2026-10-12T11:41:50+00:00",
+     "summary": "October rate-hike odds have slumped, but analysts say Treasury yields at two-decade highs are still keeping a lid on risk appetite."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-12T11:41:50+00:00",
+   "last_seen": "2026-10-12T11:41:50+00:00",
+   "summary": "October rate-hike odds have slumped, but analysts say Treasury yields at two-decade highs are still keeping a lid on risk appetite.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
   {
    "id": "b34e0a4cfb",
    "title": "Bitcoin holds $83,000 as dollar strength keeps markets on edge",

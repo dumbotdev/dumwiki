@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-13T01:39:20.754169+00:00",
+ "updated": "2026-10-13T02:39:12.251661+00:00",
  "events": [
+  {
+   "id": "c02ca12422",
+   "title": "Bitcoin slides below $82,000 as crypto liquidations surge past $770 million",
+   "date": "2026-10-13T01:57:49+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin slides below $82,000 as crypto liquidations surge past $770 million",
+     "url": "https://www.theblock.co/news/markets/2026-10-12-bitcoin-slides-crypto-liquidations-surge-418374",
+     "date": "2026-10-13T01:57:49+00:00",
+     "summary": "Crypto liquidations amounted to $771 million over the past 24 hours, including $685.6 million in long positions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T01:57:49+00:00",
+   "last_seen": "2026-10-13T01:57:49+00:00",
+   "summary": "Crypto liquidations amounted to $771 million over the past 24 hours, including $685.6 million in long positions.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "4c42ba9ed3",
+   "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
+   "date": "2026-10-13T01:54:31+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Meta claims new Muse Wonder AI models rival OpenAI, Anthropic",
+     "url": "https://cointelegraph.com/news/meta-launches-muse-wonder-ai-models-challenging-top-rivals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T01:54:31+00:00",
+     "summary": "Meta co-founder Mark Zuckerberg said its newest models are a step toward \u201cpersonal superintelligence.\u201d"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T01:54:31+00:00",
+   "last_seen": "2026-10-13T01:54:31+00:00",
+   "summary": "Meta co-founder Mark Zuckerberg said its newest models are a step toward \u201cpersonal superintelligence.\u201d",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "63c4f4432a",
    "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",

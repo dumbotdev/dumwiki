@@ -1,6 +1,151 @@
 {
- "updated": "2026-10-13T09:39:51.146649+00:00",
+ "updated": "2026-10-13T10:40:08.615452+00:00",
  "events": [
+  {
+   "id": "710fe54eeb",
+   "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+   "date": "2026-10-13T10:38:51+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",
+     "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-diverges-from-south-korean-stocks-as-ai-concerns-deepen-the-kospi-selloff",
+     "date": "2026-10-13T10:38:51+00:00",
+     "summary": "South Korea\u2019s chipmakers lead another sharp selloff as concerns over AI spending and Chinese competition grow, while bitcoin holds well above its summer lows."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T10:38:51+00:00",
+   "last_seen": "2026-10-13T10:38:51+00:00",
+   "summary": "South Korea\u2019s chipmakers lead another sharp selloff as concerns over AI spending and Chinese competition grow, while bitcoin holds well above its summer lows.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b59cfd8f08",
+   "title": "\u2018Leave\u2019: Crypto Backlash Over French Proposal to Report Wallets Over $112K",
+   "date": "2026-10-13T10:30:37+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "\u2018Leave\u2019: Crypto Backlash Over French Proposal to Report Wallets Over $112K",
+     "url": "https://decrypt.co/380808/leave-crypto-backlash-over-french-proposal-to-report-wallets-over-112k",
+     "date": "2026-10-13T10:30:37+00:00",
+     "summary": "The proposal would require crypto owners to report holdings over \u20ac100,000, sparking concerns following a wave of \"wrench attacks\" in France."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T10:30:37+00:00",
+   "last_seen": "2026-10-13T10:30:37+00:00",
+   "summary": "The proposal would require crypto owners to report holdings over \u20ac100,000, sparking concerns following a wave of \"wrench attacks\" in France.",
+   "tags": []
+  },
+  {
+   "id": "47d79647c7",
+   "title": "Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks",
+   "date": "2026-10-13T10:23:07+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Metaplanet to issue $329M convertible bonds to pay debt, fund share buybacks",
+     "url": "https://cointelegraph.com/news/metaplanet-329m-convertible-bonds-pay-debt-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T10:23:07+00:00",
+     "summary": "Metaplanet plans to issue zero-interest bonds with a five-year maturity to improve its debt structure and cut its reliance on Bitcoin-collateralized loans without selling holdings."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T10:23:07+00:00",
+   "last_seen": "2026-10-13T10:23:07+00:00",
+   "summary": "Metaplanet plans to issue zero-interest bonds with a five-year maturity to improve its debt structure and cut its reliance on Bitcoin-collateralized loans without selling holdings.",
+   "tags": []
+  },
+  {
+   "id": "d9709e94bd",
+   "title": "MediaMarktSaturn pulls Ledger products amid tampering reports",
+   "date": "2026-10-13T10:09:01+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "MediaMarktSaturn pulls Ledger products amid tampering reports",
+     "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T10:09:01+00:00",
+     "summary": "European retailer MediaMarkt pulled Ledger products as the wallet maker probes tampering reports beyond CryptoBilis in Southeast Asia."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T10:09:01+00:00",
+   "last_seen": "2026-10-13T10:09:01+00:00",
+   "summary": "European retailer MediaMarkt pulled Ledger products as the wallet maker probes tampering reports beyond CryptoBilis in Southeast Asia.",
+   "tags": []
+  },
+  {
+   "id": "c76cff184f",
+   "title": "Metaplanet Plans \u00a552 Billion Bond Sale to Refinance Bitcoin Loans",
+   "date": "2026-10-13T10:06:10+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Metaplanet Plans \u00a552 Billion Bond Sale to Refinance Bitcoin Loans",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/metaplanet-plans-52-billion-bond-sale-to-refinance-bitcoin-loans",
+     "date": "2026-10-13T10:06:10+00:00",
+     "summary": "The company would replace some Bitcoin-collateralized borrowing with unsecured debt and devote up to \u00a528.3 billion to share repurchases."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T10:06:10+00:00",
+   "last_seen": "2026-10-13T10:06:10+00:00",
+   "summary": "The company would replace some Bitcoin-collateralized borrowing with unsecured debt and devote up to \u00a528.3 billion to share repurchases.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "2f6113336a",
+   "title": "South Korea clears way for courts to seize and sell Bitcoin for unpaid debts under new November rules",
+   "date": "2026-10-13T10:00:29+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "South Korea clears way for courts to seize and sell Bitcoin for unpaid debts under new November rules",
+     "url": "https://cryptoslate.com/south-korea-clears-way-for-courts-to-seize-and-sell-bitcoin-for-unpaid-debts-under-new-november-rules/",
+     "date": "2026-10-13T10:00:29+00:00",
+     "summary": "The October 12 amendment standardizes court-led debt recovery, with separate procedures for exchange claims and directly held crypto. The post South Korea clears way for courts to seize and sell Bitcoin for unpaid debts under new November rules appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T10:00:29+00:00",
+   "last_seen": "2026-10-13T10:00:29+00:00",
+   "summary": "The October 12 amendment standardizes court-led debt recovery, with separate procedures for exchange claims and directly held crypto. The post South Korea clears way for courts to seize and sell Bitcoin for unpaid debts under new November rules appeared first on CryptoSlate .",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "ca104190c8",
+   "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
+   "date": "2026-10-13T09:42:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin hits $84K resistance as Korean tech rout deepens KOSPI losses",
+     "url": "https://cointelegraph.com/markets/bitcoin-hits-84k-resistance-as-korea-tech-sell-off-sends-kospi-down-74?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T09:42:00+00:00",
+     "summary": "Bitcoin\u2019s liquidity kept BTC price below $84,000 amid a mounting South Korean tech and semiconductor stock sell-off."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T09:42:00+00:00",
+   "last_seen": "2026-10-13T09:42:00+00:00",
+   "summary": "Bitcoin\u2019s liquidity kept BTC price below $84,000 amid a mounting South Korean tech and semiconductor stock sell-off.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "markets"
+   ]
+  },
   {
    "id": "7f35a3206c",
    "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",

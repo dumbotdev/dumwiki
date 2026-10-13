@@ -1,6 +1,89 @@
 {
- "updated": "2026-10-13T17:37:36.973100+00:00",
+ "updated": "2026-10-13T18:47:13.303731+00:00",
  "events": [
+  {
+   "id": "89174509c5",
+   "title": "cirBTC Borrowing on Morpho Tops $190 Million as Arc Liquidity Tightens",
+   "date": "2026-10-13T18:42:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "cirBTC Borrowing on Morpho Tops $190 Million as Arc Liquidity Tightens",
+     "url": "https://thedefiant.io/news/defi/cirbtc-borrowing-on-morpho-tops-190-million-as-arc-liquidity-tightens",
+     "date": "2026-10-13T18:42:26+00:00",
+     "summary": "About 97.4% of supplied USDC is borrowed in the main market, compared with 8.1% when Circle Mint opened access on Sept. 21."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T18:42:26+00:00",
+   "last_seen": "2026-10-13T18:42:26+00:00",
+   "summary": "About 97.4% of supplied USDC is borrowed in the main market, compared with 8.1% when Circle Mint opened access on Sept. 21.",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "1ea4454e56",
+   "title": "Avalanche Highlights KSD Links Ahead of Korea\u2019s 2027 Tokenization Rollout",
+   "date": "2026-10-13T18:40:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Avalanche Highlights KSD Links Ahead of Korea\u2019s 2027 Tokenization Rollout",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/avalanche-highlights-ksd-links-ahead-of-korea-s-2027-tokenization-rollout",
+     "date": "2026-10-13T18:40:46+00:00",
+     "summary": "KSD\u2019s platform is being built to connect with Avalanche, Hyperledger Besu and Hyperledger Fabric, with Samsung SDS targeting completion in February 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T18:40:46+00:00",
+   "last_seen": "2026-10-13T18:40:46+00:00",
+   "summary": "KSD\u2019s platform is being built to connect with Avalanche, Hyperledger Besu and Hyperledger Fabric, with Samsung SDS targeting completion in February 2027.",
+   "tags": []
+  },
+  {
+   "id": "c68c0c1f34",
+   "title": "Ethereum Name Service plans major .eth overhaul with one irreversible catch for domain holders",
+   "date": "2026-10-13T18:20:02+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum Name Service plans major .eth overhaul with one irreversible catch for domain holders",
+     "url": "https://cryptoslate.com/ethereum-name-service-plans-major-eth-overhaul-with-one-irreversible-catch-for-domain-holders/",
+     "date": "2026-10-13T18:20:02+00:00",
+     "summary": "The pending activation draft sets no migration deadline, while moving a name would permanently end its management on v1. The post Ethereum Name Service plans major .eth overhaul with one irreversible catch for domain holders appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T18:20:02+00:00",
+   "last_seen": "2026-10-13T18:20:02+00:00",
+   "summary": "The pending activation draft sets no migration deadline, while moving a name would permanently end its management on v1. The post Ethereum Name Service plans major .eth overhaul with one irreversible catch for domain holders appeared first on CryptoSlate .",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "b10d34177c",
+   "title": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
+   "date": "2026-10-13T17:37:46+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "AI Researchers Are Smoking Cigarettes to Prove AI Will Cure Cancer, Says Palantir Exec",
+     "url": "https://decrypt.co/380857/ai-researchers-smoking-cigarettes-prove-ai-cure-cancer",
+     "date": "2026-10-13T17:37:46+00:00",
+     "summary": "Palantir CTO Shyam Sankar says many AI researchers have taken up smoking to signal their faith in AI."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T17:37:46+00:00",
+   "last_seen": "2026-10-13T17:37:46+00:00",
+   "summary": "Palantir CTO Shyam Sankar says many AI researchers have taken up smoking to signal their faith in AI.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "9152d87b46",
    "title": "The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?",
@@ -543,12 +626,19 @@
      "url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
      "date": "2026-10-13T13:42:25+00:00",
      "summary": "Strive added 3,311 BTC between Oct. 5 and Oct. 9, bringing holdings to 32,773 BTC and narrowing the gap with MARA."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
+     "url": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
+     "date": "2026-10-13T18:15:05+00:00",
+     "summary": "The Nasdaq-listed asset manager bought the Bitcoin at an average of about $84,500 during a rough week for the market, lifting its total stash to 32,773 BTC."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-13T13:42:25+00:00",
-   "last_seen": "2026-10-13T13:42:25+00:00",
-   "summary": "Strive added 3,311 BTC between Oct. 5 and Oct. 9, bringing holdings to 32,773 BTC and narrowing the gap with MARA.",
+   "last_seen": "2026-10-13T18:15:05+00:00",
+   "summary": "The Nasdaq-listed asset manager bought the Bitcoin at an average of about $84,500 during a rough week for the market, lifting its total stash to 32,773 BTC.",
    "tags": [
     "bitcoin",
     "funding"

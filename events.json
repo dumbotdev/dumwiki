@@ -1,6 +1,150 @@
 {
- "updated": "2026-10-13T14:43:14.457692+00:00",
+ "updated": "2026-10-13T15:40:57.994398+00:00",
  "events": [
+  {
+   "id": "fc19410e2e",
+   "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
+   "date": "2026-10-13T15:27:32+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",
+     "url": "https://cointelegraph.com/markets/bitcoin-keeps-up-pressure-on-84k-as-us-stocks-sidestep-korea-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T15:27:32+00:00",
+     "summary": "Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea\u2019s tech-stock rout."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T15:27:32+00:00",
+   "last_seen": "2026-10-13T15:27:32+00:00",
+   "summary": "Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea\u2019s tech-stock rout.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "cd6d492b0e",
+   "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+   "date": "2026-10-13T15:24:52+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+     "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
+     "date": "2026-10-13T15:24:52+00:00",
+     "summary": "A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cryptocurrency at knifepoint, furthering concerns of \"wrench attacks\" spreading in the country."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T15:24:52+00:00",
+   "last_seen": "2026-10-13T15:24:52+00:00",
+   "summary": "A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cryptocurrency at knifepoint, furthering concerns of \"wrench attacks\" spreading in the country.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "9a01d6d81a",
+   "title": "Zest Sets Oct. 23 Deadline to Exit aeUSDC on Stacks Market V1",
+   "date": "2026-10-13T15:10:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Zest Sets Oct. 23 Deadline to Exit aeUSDC on Stacks Market V1",
+     "url": "https://thedefiant.io/news/defi/zest-sets-oct-23-deadline-to-exit-aeusdc-on-stacks-market-v1",
+     "date": "2026-10-13T15:10:56+00:00",
+     "summary": "The lending protocol says Allbridge will end its aeUSDC bridge to Stacks on Nov. 3. Its one-transaction migration to V2 excludes aeUSDC."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T15:10:56+00:00",
+   "last_seen": "2026-10-13T15:10:56+00:00",
+   "summary": "The lending protocol says Allbridge will end its aeUSDC bridge to Stacks on Nov. 3. Its one-transaction migration to V2 excludes aeUSDC.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "9c99fa4f78",
+   "title": "Anza Sets Oct. 21 for Solana\u2019s Alpenglow Mainnet Upgrade",
+   "date": "2026-10-13T15:06:22+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Anza Sets Oct. 21 for Solana\u2019s Alpenglow Mainnet Upgrade",
+     "url": "https://thedefiant.io/news/blockchains/anza-sets-oct-21-for-solana-s-alpenglow-mainnet-upgrade",
+     "date": "2026-10-13T15:06:22+00:00",
+     "summary": "The upgrade targets 150-millisecond finality, while validators and block-data providers face software changes before the switch."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T15:06:22+00:00",
+   "last_seen": "2026-10-13T15:06:22+00:00",
+   "summary": "The upgrade targets 150-millisecond finality, while validators and block-data providers face software changes before the switch.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "0dd43ac0db",
+   "title": "DRW and Marex complete OTC swap referencing tokenized S&P iBoxx Index",
+   "date": "2026-10-13T15:00:29+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "DRW and Marex complete OTC swap referencing tokenized S&P iBoxx Index",
+     "url": "https://www.theblock.co/news/markets/2026-10-13-drw-marex-first-otc-swap-tokenized-sp-iboxx-index-canton-network-418440",
+     "date": "2026-10-13T15:00:29+00:00",
+     "summary": "DRW and Marex completed the first OTC swap referencing a fully tokenized index on Derivnex via the Canton Network, with Kaiko data."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T15:00:29+00:00",
+   "last_seen": "2026-10-13T15:00:29+00:00",
+   "summary": "DRW and Marex completed the first OTC swap referencing a fully tokenized index on Derivnex via the Canton Network, with Kaiko data.",
+   "tags": []
+  },
+  {
+   "id": "eb5df45907",
+   "title": "AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch",
+   "date": "2026-10-13T14:51:28+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch",
+     "url": "https://decrypt.co/380833/ai-powered-playstation-crack-could-let-you-play-gta-6-on-pc-at-launch",
+     "date": "2026-10-13T14:51:28+00:00",
+     "summary": "AnyPS5 is working to get any PS5 game running natively on PC\u2014and gamers are hoping it'll work for the next instalment of Grand Theft Auto."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T14:51:28+00:00",
+   "last_seen": "2026-10-13T14:51:28+00:00",
+   "summary": "AnyPS5 is working to get any PS5 game running natively on PC\u2014and gamers are hoping it'll work for the next instalment of Grand Theft Auto.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "4bfadf6e47",
+   "title": "Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe",
+   "date": "2026-10-13T14:45:08+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ledger confirms hardware implant in CryptoBilis reseller units as MediaMarkt suspends sales in Europe",
+     "url": "https://www.theblock.co/news/business/2026-10-13-ledger-confirms-hardware-implant-cryptobilis-reseller-units-mediamarkt-suspends-sales-europe-418442",
+     "date": "2026-10-13T14:45:08+00:00",
+     "summary": "Ledger confirmed a hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T14:45:08+00:00",
+   "last_seen": "2026-10-13T14:45:08+00:00",
+   "summary": "Ledger confirmed a hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales.",
+   "tags": []
+  },
   {
    "id": "6f4a2de057",
    "title": "StarkWare Launches Shadow Accounts on Starknet",
@@ -55,11 +199,18 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/interactive-brokers-launches-ethereum-staking-through-zerohash",
      "date": "2026-10-13T14:14:06+00:00",
      "summary": "Eligible clients keep at least 70% of staking rewards under the broker\u2019s agreement, while withdrawals remain subject to network waiting periods."
+    },
+    {
+     "source": "The Block",
+     "title": "Interactive Brokers expands crypto services with Ethereum staking via Zerohash",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-13-interactive-brokers-ethereum-staking-zerohash-418457",
+     "date": "2026-10-13T15:24:14+00:00",
+     "summary": "Interactive Brokers now lets eligible clients stake ETH through its Client Portal, with zerohash providing the service."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-13T14:14:06+00:00",
-   "last_seen": "2026-10-13T14:14:06+00:00",
+   "last_seen": "2026-10-13T15:24:14+00:00",
    "summary": "Eligible clients keep at least 70% of staking rewards under the broker\u2019s agreement, while withdrawals remain subject to network waiting periods.",
    "tags": [
     "defi",

@@ -1,6 +1,111 @@
 {
- "updated": "2026-10-13T13:45:28.968499+00:00",
+ "updated": "2026-10-13T14:43:14.457692+00:00",
  "events": [
+  {
+   "id": "6f4a2de057",
+   "title": "StarkWare Launches Shadow Accounts on Starknet",
+   "date": "2026-10-13T14:42:17+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "StarkWare Launches Shadow Accounts on Starknet",
+     "url": "https://thedefiant.io/news/blockchains/starkware-launches-shadow-accounts-on-starknet",
+     "date": "2026-10-13T14:42:17+00:00",
+     "summary": "Apps can hold DeFi positions under separate, persistent identities, but balances, amounts and contract calls remain public."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T14:42:17+00:00",
+   "last_seen": "2026-10-13T14:42:17+00:00",
+   "summary": "Apps can hold DeFi positions under separate, persistent identities, but balances, amounts and contract calls remain public.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "41ea86e5b5",
+   "title": "Bitcoin\u2019s quantum-safe protection gets 82% cheaper as researchers race to secure 6 million exposed BTC",
+   "date": "2026-10-13T14:20:26+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s quantum-safe protection gets 82% cheaper as researchers race to secure 6 million exposed BTC",
+     "url": "https://cryptoslate.com/bitcoins-quantum-safe-protection-gets-82-cheaper-as-researchers-race-to-secure-6-million-exposed-btc/",
+     "date": "2026-10-13T14:20:26+00:00",
+     "summary": "Cheaper GPU computation supports specially prepared QSB spends, while conventional funding signatures and direct miner access limit practical use. The post Bitcoin&#8217;s quantum-safe protection gets 82% cheaper as researchers race to secure 6 million exposed BTC appeared first..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T14:20:26+00:00",
+   "last_seen": "2026-10-13T14:20:26+00:00",
+   "summary": "Cheaper GPU computation supports specially prepared QSB spends, while conventional funding signatures and direct miner access limit practical use. The post Bitcoin&#8217;s quantum-safe protection gets 82% cheaper as researchers race to secure 6 million exposed BTC appeared first...",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "c185ca68aa",
+   "title": "Interactive Brokers Launches Ethereum Staking Through Zerohash",
+   "date": "2026-10-13T14:14:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Interactive Brokers Launches Ethereum Staking Through Zerohash",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/interactive-brokers-launches-ethereum-staking-through-zerohash",
+     "date": "2026-10-13T14:14:06+00:00",
+     "summary": "Eligible clients keep at least 70% of staking rewards under the broker\u2019s agreement, while withdrawals remain subject to network waiting periods."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T14:14:06+00:00",
+   "last_seen": "2026-10-13T14:14:06+00:00",
+   "summary": "Eligible clients keep at least 70% of staking rewards under the broker\u2019s agreement, while withdrawals remain subject to network waiting periods.",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "42ae99f8b3",
+   "title": "Anthropic warns \u2018AI worms\u2019 may autonomously spread across devices like a virus",
+   "date": "2026-10-13T13:55:09+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Anthropic warns \u2018AI worms\u2019 may autonomously spread across devices like a virus",
+     "url": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T13:55:09+00:00",
+     "summary": "Anthropic warned that rogue \u201cAI worms\u201d are months away from the ability to self-replicate and autonomously infect user devices such as home appliances and other internet-connected devices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T13:55:09+00:00",
+   "last_seen": "2026-10-13T13:55:09+00:00",
+   "summary": "Anthropic warned that rogue \u201cAI worms\u201d are months away from the ability to self-replicate and autonomously infect user devices such as home appliances and other internet-connected devices.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "7ead10f599",
+   "title": "Trezor Shrinks Reseller Network After Hardware Wallet Supply-Chain Incidents",
+   "date": "2026-10-13T13:51:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Trezor Shrinks Reseller Network After Hardware Wallet Supply-Chain Incidents",
+     "url": "https://thedefiant.io/news/security/trezor-shrinks-reseller-network-after-hardware-wallet-supply-chain-incidents",
+     "date": "2026-10-13T13:51:05+00:00",
+     "summary": "CryptoBilis is already off Trezor\u2019s seller list. The company says the wider reduction is preventive and that it has no evidence its devices were compromised."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T13:51:05+00:00",
+   "last_seen": "2026-10-13T13:51:05+00:00",
+   "summary": "CryptoBilis is already off Trezor\u2019s seller list. The company says the wider reduction is preventive and that it has no evidence its devices were compromised.",
+   "tags": []
+  },
   {
    "id": "7567859935",
    "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",

@@ -1,6 +1,156 @@
 {
- "updated": "2026-10-13T15:40:57.994398+00:00",
+ "updated": "2026-10-13T16:40:15.822192+00:00",
  "events": [
+  {
+   "id": "521d5e54f3",
+   "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
+   "date": "2026-10-13T16:14:50+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
+     "url": "https://decrypt.co/380848/trezor-cuts-resellers-ledger-finds-spy-implant-crypto-wallets",
+     "date": "2026-10-13T16:14:50+00:00",
+     "summary": "Trezor is ending reseller authorizations on January 1, 2027, after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden implant that sent out users' recovery phrases."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T16:14:50+00:00",
+   "last_seen": "2026-10-13T16:14:50+00:00",
+   "summary": "Trezor is ending reseller authorizations on January 1, 2027, after Ledger confirmed that wallets sold by a Southeast Asian retailer carried a hidden implant that sent out users' recovery phrases.",
+   "tags": []
+  },
+  {
+   "id": "3733cb375d",
+   "title": "Trezor Reduces Number of Resellers Following Ledger Drainage Incident",
+   "date": "2026-10-13T16:01:03+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Trezor Reduces Number of Resellers Following Ledger Drainage Incident",
+     "url": "https://bitcoinmagazine.com/news/trezor-reduces-resellers-after-ledger-mess",
+     "date": "2026-10-13T16:01:03+00:00",
+     "summary": "Bitcoin Magazine Trezor Reduces Number of Resellers Following Ledger Drainage Incident Hardware manufacturer Trezor has said it is checking which vendors it works with following reports of lost funds from Ledger models. This post Trezor Reduces Number of Resellers Following..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T16:01:03+00:00",
+   "last_seen": "2026-10-13T16:01:03+00:00",
+   "summary": "Bitcoin Magazine Trezor Reduces Number of Resellers Following Ledger Drainage Incident Hardware manufacturer Trezor has said it is checking which vendors it works with following reports of lost funds from Ledger models. This post Trezor Reduces Number of Resellers Following...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "5daae1dbb0",
+   "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
+   "date": "2026-10-13T16:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ripple, Stripe-owned Privy partner to bring embedded wallets to XRP Ledger",
+     "url": "https://www.theblock.co/news/business/2026-10-13-stripe-privy-ripple-xrp-ledger-wallets-418463",
+     "date": "2026-10-13T16:00:00+00:00",
+     "summary": "Developers can now build XRPL wallets into apps via Privy, with support for XRP, RLUSD, AI agent payments and x402."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T16:00:00+00:00",
+   "last_seen": "2026-10-13T16:00:00+00:00",
+   "summary": "Developers can now build XRPL wallets into apps via Privy, with support for XRP, RLUSD, AI agent payments and x402.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "d5c042b1e4",
+   "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
+   "date": "2026-10-13T15:57:55+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Strive reports $208M in warrant exercises as Bitcoin holdings jump 11%",
+     "url": "https://cointelegraph.com/news/strive-bitcoin-holdings-32773-btc-warrant-exercises?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T15:57:55+00:00",
+     "summary": "Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to expand its treasury through equity financing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T15:57:55+00:00",
+   "last_seen": "2026-10-13T15:57:55+00:00",
+   "summary": "Strive is now the fifth-largest publicly traded corporate Bitcoin holder, with 32,773 BTC, as it continues to expand its treasury through equity financing.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "fa673127d0",
+   "title": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
+   "date": "2026-10-13T15:52:09+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
+     "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
+     "date": "2026-10-13T15:52:09+00:00",
+     "summary": "MNX is offering a different way to trade the future valuations of private AI companies, including OpenAI, Anthropic and DeepSeek."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T15:52:09+00:00",
+   "last_seen": "2026-10-13T15:52:09+00:00",
+   "summary": "MNX is offering a different way to trade the future valuations of private AI companies, including OpenAI, Anthropic and DeepSeek.",
+   "tags": [
+    "ai",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "48d29936c8",
+   "title": "Strive Buys More Bitcoin, Crosses 30,000 BTC Mark",
+   "date": "2026-10-13T15:48:14+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Strive Buys More Bitcoin, Crosses 30,000 BTC Mark",
+     "url": "https://bitcoinmagazine.com/news/strive-buys-more-bitcoin-to-hit-30000-btc",
+     "date": "2026-10-13T15:48:14+00:00",
+     "summary": "Bitcoin Magazine Strive Buys More Bitcoin, Crosses 30,000 BTC Mark The bitcoin treasury company is still the fifth biggest in the space. This post Strive Buys More Bitcoin, Crosses 30,000 BTC Mark first appeared on Bitcoin Magazine and is written by Mathew Di Salvo ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T15:48:14+00:00",
+   "last_seen": "2026-10-13T15:48:14+00:00",
+   "summary": "Bitcoin Magazine Strive Buys More Bitcoin, Crosses 30,000 BTC Mark The bitcoin treasury company is still the fifth biggest in the space. This post Strive Buys More Bitcoin, Crosses 30,000 BTC Mark first appeared on Bitcoin Magazine and is written by Mathew Di Salvo .",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "a31a82a2d9",
+   "title": "A $5 billion Bitcoin fortune is at stake, but UK court says being defrauded isn\u2019t enough to claim it",
+   "date": "2026-10-13T15:40:44+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "A $5 billion Bitcoin fortune is at stake, but UK court says being defrauded isn\u2019t enough to claim it",
+     "url": "https://cryptoslate.com/a-5-billion-bitcoin-fortune-is-at-stake-but-uk-court-says-being-defrauded-isnt-enough-to-claim-it/",
+     "date": "2026-10-13T15:40:44+00:00",
+     "summary": "The preliminary ruling leaves ownership and distribution unresolved, with victims still required to establish rights under Chinese law. The post A $5 billion Bitcoin fortune is at stake, but UK court says being defrauded isn&#8217;t enough to claim it appeared first on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T15:40:44+00:00",
+   "last_seen": "2026-10-13T15:40:44+00:00",
+   "summary": "The preliminary ruling leaves ownership and distribution unresolved, with victims still required to establish rights under Chinese law. The post A $5 billion Bitcoin fortune is at stake, but UK court says being defrauded isn&#8217;t enough to claim it appeared first on...",
+   "tags": [
+    "bitcoin",
+    "legal",
+    "regulation"
+   ]
+  },
   {
    "id": "fc19410e2e",
    "title": "Bitcoin keeps up pressure on $84K as US stocks skirt Korea tech sell-off",

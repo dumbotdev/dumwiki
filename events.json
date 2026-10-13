@@ -1,6 +1,204 @@
 {
- "updated": "2026-10-13T10:40:08.615452+00:00",
+ "updated": "2026-10-13T11:38:50.318535+00:00",
  "events": [
+  {
+   "id": "32ec544402",
+   "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
+   "date": "2026-10-13T11:38:19+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
+     "url": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
+     "date": "2026-10-13T11:38:19+00:00",
+     "summary": "A UK judge ruled Chinese law applies to victims' claims over 61,000 seized bitcoin, leaving ownership undecided."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T11:38:19+00:00",
+   "last_seen": "2026-10-13T11:38:19+00:00",
+   "summary": "A UK judge ruled Chinese law applies to victims' claims over 61,000 seized bitcoin, leaving ownership undecided.",
+   "tags": [
+    "bitcoin",
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "ed865247a7",
+   "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
+   "date": "2026-10-13T11:26:45+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
+     "date": "2026-10-13T11:26:45+00:00",
+     "summary": "Your day-ahead look for Oct. 13, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T11:26:45+00:00",
+   "last_seen": "2026-10-13T11:26:45+00:00",
+   "summary": "Your day-ahead look for Oct. 13, 2026",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "69c8b9d784",
+   "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
+   "date": "2026-10-13T11:11:27+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "ENS seeks DAO approval to activate upgraded Ethereum naming system",
+     "url": "https://cointelegraph.com/news/ens-dao-ensv2-upgrade-eth-domain-registrations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T11:11:27+00:00",
+     "summary": "New .eth registrations would pause for hours during the transition, while existing domain holders could renew their names without migrating."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T11:11:27+00:00",
+   "last_seen": "2026-10-13T11:11:27+00:00",
+   "summary": "New .eth registrations would pause for hours during the transition, while existing domain holders could renew their names without migrating.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "7c7c4140de",
+   "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
+   "date": "2026-10-13T11:06:39+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
+     "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
+     "date": "2026-10-13T11:06:39+00:00",
+     "summary": "Investors are positioning ahead of today's bank earnings reports and Wednesday\u2019s U.S. inflation data."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T11:06:39+00:00",
+   "last_seen": "2026-10-13T11:06:39+00:00",
+   "summary": "Investors are positioning ahead of today's bank earnings reports and Wednesday\u2019s U.S. inflation data.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "macro"
+   ]
+  },
+  {
+   "id": "0981e1c02b",
+   "title": "Russia\u2019s largest bank Sberbank secures approval to trade crypto",
+   "date": "2026-10-13T11:02:47+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Russia\u2019s largest bank Sberbank secures approval to trade crypto",
+     "url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
+     "date": "2026-10-13T11:02:47+00:00",
+     "summary": "Sberbank plans to open crypto trading to all clients Dec. 1 and is already testing BTC, ETH and USDT trades in its app."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T11:02:47+00:00",
+   "last_seen": "2026-10-13T11:02:47+00:00",
+   "summary": "Sberbank plans to open crypto trading to all clients Dec. 1 and is already testing BTC, ETH and USDT trades in its app.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "6123d7635c",
+   "title": "Strategy spent nearly nine times as much on STRC buybacks as Bitcoin last week",
+   "date": "2026-10-13T11:00:38+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Strategy spent nearly nine times as much on STRC buybacks as Bitcoin last week",
+     "url": "https://cryptoslate.com/strategys-bitcoin-buying-hits-lowest-level-since-december-as-strc-buybacks-reach-record-192-million/",
+     "date": "2026-10-13T11:00:38+00:00",
+     "summary": "Strategy (formerly MicroStrategy) bought 250 Bitcoin for $21.5 million last week while spending $192.4 million to repurchase its STRC preferred shares. On Oct. 12, the Michael Saylor-founded company disclosed that it acquired just 250 Bitcoin for about $21.5 million between Oct...."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T11:00:38+00:00",
+   "last_seen": "2026-10-13T11:00:38+00:00",
+   "summary": "Strategy (formerly MicroStrategy) bought 250 Bitcoin for $21.5 million last week while spending $192.4 million to repurchase its STRC preferred shares. On Oct. 12, the Michael Saylor-founded company disclosed that it acquired just 250 Bitcoin for about $21.5 million between Oct....",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "1ef13cd466",
+   "title": "Now Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants",
+   "date": "2026-10-13T11:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Now Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants",
+     "url": "https://bitcoinmagazine.com/culture/moonflower-colorado-bitcoin-merchants",
+     "date": "2026-10-13T11:00:00+00:00",
+     "summary": "Bitcoin Magazine Now Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants Delicious Bitcoin Latte at Moonflower, Steak and Eggs at Butcher Block Cafe, and Navigating 300+ Colorado Bitcoin Merchants. This post Now Accepting Bitcoin: Moonflower Coffee and 300+..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T11:00:00+00:00",
+   "last_seen": "2026-10-13T11:00:00+00:00",
+   "summary": "Bitcoin Magazine Now Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants Delicious Bitcoin Latte at Moonflower, Steak and Eggs at Butcher Block Cafe, and Navigating 300+ Colorado Bitcoin Merchants. This post Now Accepting Bitcoin: Moonflower Coffee and 300+...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "8bb288c2bb",
+   "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
+   "date": "2026-10-13T10:51:33+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "UK Moves Closer to Keeping $5B Bitcoin Haul After High Court Ruling",
+     "url": "https://decrypt.co/380818/uk-moves-closer-to-keeping-5b-bitcoin-haul-after-high-court-ruling",
+     "date": "2026-10-13T10:51:33+00:00",
+     "summary": "A judge ruled that Chinese law should govern fraud victims' claims to the 61,000 BTC seized from Zhimin Qian, in a blow to the claimants."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T10:51:33+00:00",
+   "last_seen": "2026-10-13T10:51:33+00:00",
+   "summary": "A judge ruled that Chinese law should govern fraud victims' claims to the 61,000 BTC seized from Zhimin Qian, in a blow to the claimants.",
+   "tags": [
+    "bitcoin",
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "41f6a44c48",
+   "title": "Live updates: Bitcoin whipsaws between $81,000 and $84,000 as altcoins slide",
+   "date": "2026-10-13T10:46:57+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Bitcoin whipsaws between $81,000 and $84,000 as altcoins slide",
+     "url": "https://www.coindesk.com/markets/2026/10/13/live-updates-bitcoin-whipsaws-between-usd81-000-and-usd84-000-as-altcoins-slide",
+     "date": "2026-10-13T10:46:57+00:00",
+     "summary": "Bitcoin bounced back from an early dip as ZEC, HYPE and SOL led altcoin losses. JPMorgan fell after kicking off U.S. earnings season."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T10:46:57+00:00",
+   "last_seen": "2026-10-13T10:46:57+00:00",
+   "summary": "Bitcoin bounced back from an early dip as ZEC, HYPE and SOL led altcoin losses. JPMorgan fell after kicking off U.S. earnings season.",
+   "tags": [
+    "bitcoin",
+    "solana"
+   ]
+  },
   {
    "id": "710fe54eeb",
    "title": "Bitcoin diverges from South Korean stocks as AI concerns deepen the Kospi selloff",

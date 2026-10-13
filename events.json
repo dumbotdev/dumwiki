@@ -1,6 +1,88 @@
 {
- "updated": "2026-10-13T21:48:12.361135+00:00",
+ "updated": "2026-10-13T22:48:19.089227+00:00",
  "events": [
+  {
+   "id": "14875b3128",
+   "title": "Ledger Asks Resellers to Halt Sales in Seven Asian Markets",
+   "date": "2026-10-13T22:12:02+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ledger Asks Resellers to Halt Sales in Seven Asian Markets",
+     "url": "https://thedefiant.io/news/security/ledger-asks-resellers-to-halt-sales-in-seven-asian-markets",
+     "date": "2026-10-13T22:12:02+00:00",
+     "summary": "The hardware-wallet maker says confirmed incidents remain confined to Southeast Asia, with no indication its systems or direct sales channel were compromised."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T22:12:02+00:00",
+   "last_seen": "2026-10-13T22:12:02+00:00",
+   "summary": "The hardware-wallet maker says confirmed incidents remain confined to Southeast Asia, with no indication its systems or direct sales channel were compromised.",
+   "tags": []
+  },
+  {
+   "id": "5633f92501",
+   "title": "Optimism\u2019s OP Jumps 18%, Extending Four-Week Gain to 66%",
+   "date": "2026-10-13T21:58:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Optimism\u2019s OP Jumps 18%, Extending Four-Week Gain to 66%",
+     "url": "https://thedefiant.io/news/markets/optimism-s-op-jumps-18-extending-four-week-gain-to-66",
+     "date": "2026-10-13T21:58:39+00:00",
+     "summary": "OP outpaced bitcoin and ether over matched daily and multiweek windows, though Starknet\u2019s STRK posted a much larger four-week rally."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T21:58:39+00:00",
+   "last_seen": "2026-10-13T21:58:39+00:00",
+   "summary": "OP outpaced bitcoin and ether over matched daily and multiweek windows, though Starknet\u2019s STRK posted a much larger four-week rally.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "markets"
+   ]
+  },
+  {
+   "id": "1897d2e3ba",
+   "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+   "date": "2026-10-13T21:52:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "BNY, Citadel Securities test tokenized U.S. Treasuries to speed up Wall Street financing",
+     "url": "https://www.coindesk.com/business/2026/10/13/bny-citadel-securities-test-tokenized-u-s-treasuries-to-speed-up-wall-street-financing",
+     "date": "2026-10-13T21:52:00+00:00",
+     "summary": "The transaction shows how blockchain-based government bonds could help trading firms move collateral faster between settlement and financing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T21:52:00+00:00",
+   "last_seen": "2026-10-13T21:52:00+00:00",
+   "summary": "The transaction shows how blockchain-based government bonds could help trading firms move collateral faster between settlement and financing.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "9d92a0d323",
+   "title": "Lido DAO exposes token flaw and forces a budget review",
+   "date": "2026-10-13T21:50:56+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Lido DAO exposes token flaw and forces a budget review",
+     "url": "https://cryptoslate.com/lido-dao-exposes-token-flaw-and-forces-a-budget-review/",
+     "date": "2026-10-13T21:50:56+00:00",
+     "summary": "A proposed budget link could pass genuine savings into LDO purchases, while corrected scenarios show why counter resets cannot improve underlying profit. The post Lido DAO exposes token flaw and forces a budget review appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T21:50:56+00:00",
+   "last_seen": "2026-10-13T21:50:56+00:00",
+   "summary": "A proposed budget link could pass genuine savings into LDO purchases, while corrected scenarios show why counter resets cannot improve underlying profit. The post Lido DAO exposes token flaw and forces a budget review appeared first on CryptoSlate .",
+   "tags": []
+  },
   {
    "id": "85832193eb",
    "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",

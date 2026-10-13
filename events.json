@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-13T06:49:27.386847+00:00",
+ "updated": "2026-10-13T07:42:14.015657+00:00",
  "events": [
+  {
+   "id": "698514ecb6",
+   "title": "Sanctioned A7 Announces USDT-to-SWIFT Payment Service",
+   "date": "2026-10-13T06:59:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Sanctioned A7 Announces USDT-to-SWIFT Payment Service",
+     "url": "https://thedefiant.io/converge/regulation/sanctioned-a7-announces-usdt-to-swift-payment-service",
+     "date": "2026-10-13T06:59:06+00:00",
+     "summary": "A7 International advertises a 0.3% fee and payouts in four currencies, but its public materials do not name the banks that would execute the transfers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T06:59:06+00:00",
+   "last_seen": "2026-10-13T06:59:06+00:00",
+   "summary": "A7 International advertises a 0.3% fee and payouts in four currencies, but its public materials do not name the banks that would execute the transfers.",
+   "tags": []
+  },
   {
    "id": "e45be8cb8a",
    "title": "Ledger Says CryptoBilis-Sold Wallet Implants Transmit Recovery Phrases Over LTE",

@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-13T03:39:57.204370+00:00",
+ "updated": "2026-10-13T04:40:33.944297+00:00",
  "events": [
+  {
+   "id": "55fee29059",
+   "title": "Crypto Trader \u2018Realist\u2019 Reports Knifepoint Robbery at UK Home",
+   "date": "2026-10-13T04:36:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Crypto Trader \u2018Realist\u2019 Reports Knifepoint Robbery at UK Home",
+     "url": "https://thedefiant.io/news/hacks/crypto-trader-realist-reports-knifepoint-robbery-at-uk-home",
+     "date": "2026-10-13T04:36:19+00:00",
+     "summary": "The trader valued the robbery at about $800,000. Transaction records show the Solana address he identified received nearly 719,000 USDC, which later moved on."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T04:36:19+00:00",
+   "last_seen": "2026-10-13T04:36:19+00:00",
+   "summary": "The trader valued the robbery at about $800,000. Transaction records show the Solana address he identified received nearly 719,000 USDC, which later moved on.",
+   "tags": [
+    "solana",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "c51cda1ca3",
+   "title": "Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data",
+   "date": "2026-10-13T04:18:30+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin whale moves $378 million in BTC after six years of dormancy: onchain data",
+     "url": "https://www.theblock.co/news/markets/2026-10-13-bitcoin-whale-moves-378-million-418383",
+     "date": "2026-10-13T04:18:30+00:00",
+     "summary": "The wallet originally received 4,582 BTC in March 2020, when the holdings were worth roughly $40.8 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T04:18:30+00:00",
+   "last_seen": "2026-10-13T04:18:30+00:00",
+   "summary": "The wallet originally received 4,582 BTC in March 2020, when the holdings were worth roughly $40.8 million.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "0a4cf305f0",
+   "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
+   "date": "2026-10-13T04:18:20+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin rebounds above $83,000 as it decouples from tumbling Korean stocks and Nasdaq futures",
+     "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-rebounds-above-usd83-000-as-it-decouples-from-tumbling-korean-stocks-and-nasdaq-futures",
+     "date": "2026-10-13T04:18:20+00:00",
+     "summary": "Bitcoin climbed back above $83,000 after an early dip, decoupling from a sharp slide in Korean chip stocks and weakness in Nasdaq futures ahead of Thursday\u2019s US CPI report."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T04:18:20+00:00",
+   "last_seen": "2026-10-13T04:18:20+00:00",
+   "summary": "Bitcoin climbed back above $83,000 after an early dip, decoupling from a sharp slide in Korean chip stocks and weakness in Nasdaq futures ahead of Thursday\u2019s US CPI report.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "afcf10de83",
    "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",

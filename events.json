@@ -1,6 +1,110 @@
 {
- "updated": "2026-10-13T19:50:23.211438+00:00",
+ "updated": "2026-10-13T20:53:21.944710+00:00",
  "events": [
+  {
+   "id": "b23a6ba76a",
+   "title": "BNY and Citadel Securities Use Tokenized Treasury in Overnight Repo",
+   "date": "2026-10-13T20:47:14+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "BNY and Citadel Securities Use Tokenized Treasury in Overnight Repo",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
+     "date": "2026-10-13T20:47:14+00:00",
+     "summary": "A two-year note settled within minutes on BNY\u2019s private digital ledger before Citadel Securities used it to raise cash."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T20:47:14+00:00",
+   "last_seen": "2026-10-13T20:47:14+00:00",
+   "summary": "A two-year note settled within minutes on BNY\u2019s private digital ledger before Citadel Securities used it to raise cash.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "c8a7a8b247",
+   "title": "Ledger\u2019s crypto wallet implant scare triggers Trezor reseller crackdown as security fears spread",
+   "date": "2026-10-13T20:40:49+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ledger\u2019s crypto wallet implant scare triggers Trezor reseller crackdown as security fears spread",
+     "url": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-triggers-trezor-reseller-crackdown-as-security-fears-spread/",
+     "date": "2026-10-13T20:40:49+00:00",
+     "summary": "Trezor is cutting authorized resellers after a hardware-implant attack against rival Ledger exposed vulnerabilities in cryptocurrency wallet distribution. In an Oct. 13 letter, Trezor Chief Commercial Officer Danny Sanders said selected partners would lose their authorization on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T20:40:49+00:00",
+   "last_seen": "2026-10-13T20:40:49+00:00",
+   "summary": "Trezor is cutting authorized resellers after a hardware-implant attack against rival Ledger exposed vulnerabilities in cryptocurrency wallet distribution. In an Oct. 13 letter, Trezor Chief Commercial Officer Danny Sanders said selected partners would lose their authorization on...",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "eb9cdc7746",
+   "title": "FBI Reports $17 Billion Scam-Center Tally as West Africa Raids Net 28 Arrests",
+   "date": "2026-10-13T20:39:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "FBI Reports $17 Billion Scam-Center Tally as West Africa Raids Net 28 Arrests",
+     "url": "https://thedefiant.io/news/security/fbi-reports-17-billion-scam-center-tally-as-west-africa-raids-net-28-arrests",
+     "date": "2026-10-13T20:39:35+00:00",
+     "summary": "DOJ says a coordinated enforcement week removed more than 3.7 million online accounts, pages and groups and identified over $11 million in potentially freezable funds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T20:39:35+00:00",
+   "last_seen": "2026-10-13T20:39:35+00:00",
+   "summary": "DOJ says a coordinated enforcement week removed more than 3.7 million online accounts, pages and groups and identified over $11 million in potentially freezable funds.",
+   "tags": []
+  },
+  {
+   "id": "ac98e87c07",
+   "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
+   "date": "2026-10-13T20:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Binance Is Shutting Down Its Bitcoin Mining Pool After Six Years",
+     "url": "https://decrypt.co/380870/binance-shutting-down-bitcoin-mining-pool",
+     "date": "2026-10-13T20:16:03+00:00",
+     "summary": "Binance will discontinue Binance Pool, Pool Savings, Cloud Mining, and other related services in a retreat from mining infrastructure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T20:16:03+00:00",
+   "last_seen": "2026-10-13T20:16:03+00:00",
+   "summary": "Binance will discontinue Binance Pool, Pool Savings, Cloud Mining, and other related services in a retreat from mining infrastructure.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "5567e63919",
+   "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+   "date": "2026-10-13T19:48:06+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+     "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T19:48:06+00:00",
+     "summary": "Tokenized equities have reached nearly $3.3 billion in value as investors embrace round-the-clock access beyond Wall Street hours."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T19:48:06+00:00",
+   "last_seen": "2026-10-13T19:48:06+00:00",
+   "summary": "Tokenized equities have reached nearly $3.3 billion in value as investors embrace round-the-clock access beyond Wall Street hours.",
+   "tags": [
+    "solana"
+   ]
+  },
   {
    "id": "f4395ff528",
    "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",

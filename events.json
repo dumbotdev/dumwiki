@@ -1,6 +1,90 @@
 {
- "updated": "2026-10-13T05:38:59.797615+00:00",
+ "updated": "2026-10-13T06:49:27.386847+00:00",
  "events": [
+  {
+   "id": "e45be8cb8a",
+   "title": "Ledger Says CryptoBilis-Sold Wallet Implants Transmit Recovery Phrases Over LTE",
+   "date": "2026-10-13T06:46:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ledger Says CryptoBilis-Sold Wallet Implants Transmit Recovery Phrases Over LTE",
+     "url": "https://thedefiant.io/news/security/ledger-says-cryptobilis-sold-wallet-implants-transmit-recovery-phrases-over-lte",
+     "date": "2026-10-13T06:46:55+00:00",
+     "summary": "Ledger says the added hardware leaves the secure chip and operating system untouched. Its Genuine Check cannot rule out this kind of tampering."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T06:46:55+00:00",
+   "last_seen": "2026-10-13T06:46:55+00:00",
+   "summary": "Ledger says the added hardware leaves the secure chip and operating system untouched. Its Genuine Check cannot rule out this kind of tampering.",
+   "tags": []
+  },
+  {
+   "id": "9ddeb59c5e",
+   "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+   "date": "2026-10-13T05:45:10+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin whale that sat through the March 2020 crash moves $378 million",
+     "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-whale-that-sat-through-the-march-2020-crash-moves-usd378-million",
+     "date": "2026-10-13T05:45:10+00:00",
+     "summary": "A bitcoin whale that received coins days before the Covid crash and sat through it has moved millions on-chain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T05:45:10+00:00",
+   "last_seen": "2026-10-13T05:45:10+00:00",
+   "summary": "A bitcoin whale that received coins days before the Covid crash and sat through it has moved millions on-chain.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "51002de3dc",
+   "title": "Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues",
+   "date": "2026-10-13T05:44:14+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Binance VIP head says hedge funds are actively exploring arbitrage opportunities on crypto venues",
+     "url": "https://www.theblock.co/news/business/2026-10-13-binance-vip-head-hedge-funds-exploring-arbitrage-418389",
+     "date": "2026-10-13T05:44:14+00:00",
+     "summary": "The executive cited improved depth, 24/7 trading and weekend price discovery as reasons why the opportunities have become more relevant."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T05:44:14+00:00",
+   "last_seen": "2026-10-13T05:44:14+00:00",
+   "summary": "The executive cited improved depth, 24/7 trading and weekend price discovery as reasons why the opportunities have become more relevant.",
+   "tags": [
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "466c6c0b72",
+   "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
+   "date": "2026-10-13T05:38:37+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Blur is shutting down its website, so why are NFT collectors cheering?",
+     "url": "https://cointelegraph.com/news/blur-is-shutting-down-its-website-so-why-are-nft-collectors-cheering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T05:38:37+00:00",
+     "summary": "Blur\u2019s planned website closure revived criticism of the royalty policies and token rewards that helped it overtake OpenSea during the NFT boom, but hurt creators."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T05:38:37+00:00",
+   "last_seen": "2026-10-13T05:38:37+00:00",
+   "summary": "Blur\u2019s planned website closure revived criticism of the royalty policies and token rewards that helped it overtake OpenSea during the NFT boom, but hurt creators.",
+   "tags": [
+    "nfts"
+   ]
+  },
   {
    "id": "7799c4e418",
    "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia\u2019s chip rout wipes out $800 million",

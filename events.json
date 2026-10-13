@@ -1,6 +1,91 @@
 {
- "updated": "2026-10-13T22:48:19.089227+00:00",
+ "updated": "2026-10-13T23:44:36.159774+00:00",
  "events": [
+  {
+   "id": "66fa8bd593",
+   "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+   "date": "2026-10-13T23:28:19+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+     "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T23:28:19+00:00",
+     "summary": "The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T23:28:19+00:00",
+   "last_seen": "2026-10-13T23:28:19+00:00",
+   "summary": "The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred.",
+   "tags": []
+  },
+  {
+   "id": "1ff8341713",
+   "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+   "date": "2026-10-13T23:23:05+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Strive raising $500 million to buy additional bitcoin with new preferred share class",
+     "url": "https://www.coindesk.com/markets/2026/10/13/strive-to-ipo-second-preferred-share-class-as-it-looks-to-further-build-bitcoin-treasury",
+     "date": "2026-10-13T23:23:05+00:00",
+     "summary": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%)."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T23:23:05+00:00",
+   "last_seen": "2026-10-13T23:23:05+00:00",
+   "summary": "SATS will offer a fixed 15% dividend yield at par and be junior to the company's existing SATA, which pays a variable rate (currently 13%).",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
+  {
+   "id": "a007c99bd9",
+   "title": "US deposit rates choke USDC adoption, and a BIS model reveals why",
+   "date": "2026-10-13T23:10:52+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "US deposit rates choke USDC adoption, and a BIS model reveals why",
+     "url": "https://cryptoslate.com/us-deposit-rates-choke-usdc-adoption-and-a-bis-model-reveals-why/",
+     "date": "2026-10-13T23:10:52+00:00",
+     "summary": "Historical estimates point to stronger USDC growth sensitivity to deposit repricing, while exchange rewards complicate adoption forecasts. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T23:10:52+00:00",
+   "last_seen": "2026-10-13T23:10:52+00:00",
+   "summary": "Historical estimates point to stronger USDC growth sensitivity to deposit repricing, while exchange rewards complicate adoption forecasts. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "macro",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "8f5fbee9e7",
+   "title": "Researchers Build First Working Post-Quantum Defense for Bitcoin\u2019s Lightning Network",
+   "date": "2026-10-13T22:49:07+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Researchers Build First Working Post-Quantum Defense for Bitcoin\u2019s Lightning Network",
+     "url": "https://bitcoinmagazine.com/news/quantum-defense-for-bitcoins-lightning",
+     "date": "2026-10-13T22:49:07+00:00",
+     "summary": "Bitcoin Magazine Researchers Build First Working Post-Quantum Defense for Bitcoin\u2019s Lightning Network Second-layer solutions like Lightning may also need protection from quantum computers. Here\u2019s how a research team appears to have cracked it. This post Researchers Build First..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T22:49:07+00:00",
+   "last_seen": "2026-10-13T22:49:07+00:00",
+   "summary": "Bitcoin Magazine Researchers Build First Working Post-Quantum Defense for Bitcoin\u2019s Lightning Network Second-layer solutions like Lightning may also need protection from quantum computers. Here\u2019s how a research team appears to have cracked it. This post Researchers Build First...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "14875b3128",
    "title": "Ledger Asks Resellers to Halt Sales in Seven Asian Markets",
@@ -3989,13 +4074,21 @@
      "url": "https://thedefiant.io/news/cefi/kraken-plans-uae-launch-after-securing-full-dubai-license",
      "date": "2026-10-12T08:41:25+00:00",
      "summary": "The planned rollout includes dirham deposits and withdrawals, AED trading pairs, staking and xStocks, with retail investors covered by Payward\u2019s license."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch",
+     "url": "https://bitcoinmagazine.com/news/kraken-parent-payward-wins-full-dubai-license-plans-uae-launch",
+     "date": "2026-10-13T22:52:10+00:00",
+     "summary": "Bitcoin Magazine Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch Kraken currently has more than 100 licenses and registrations worldwide. This post Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch first appeared on Bitcoin Magazine and is written..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-12T08:41:25+00:00",
-   "last_seen": "2026-10-12T08:41:25+00:00",
-   "summary": "The planned rollout includes dirham deposits and withdrawals, AED trading pairs, staking and xStocks, with retail investors covered by Payward\u2019s license.",
+   "last_seen": "2026-10-13T22:52:10+00:00",
+   "summary": "Bitcoin Magazine Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch Kraken currently has more than 100 licenses and registrations worldwide. This post Kraken Parent Payward Wins Full Dubai License, Plans UAE Launch first appeared on Bitcoin Magazine and is written...",
    "tags": [
+    "bitcoin",
     "defi",
     "exchanges"
    ]

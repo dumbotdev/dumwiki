@@ -1,6 +1,132 @@
 {
- "updated": "2026-10-13T12:49:23.852818+00:00",
+ "updated": "2026-10-13T13:45:28.968499+00:00",
  "events": [
+  {
+   "id": "7567859935",
+   "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
+   "date": "2026-10-13T13:42:25+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
+     "url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
+     "date": "2026-10-13T13:42:25+00:00",
+     "summary": "Strive added 3,311 BTC between Oct. 5 and Oct. 9, bringing holdings to 32,773 BTC and narrowing the gap with MARA."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T13:42:25+00:00",
+   "last_seen": "2026-10-13T13:42:25+00:00",
+   "summary": "Strive added 3,311 BTC between Oct. 5 and Oct. 9, bringing holdings to 32,773 BTC and narrowing the gap with MARA.",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "38bb697095",
+   "title": "Is Bitcoin kidding itself about the Lightning Network?",
+   "date": "2026-10-13T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Is Bitcoin kidding itself about the Lightning Network?",
+     "url": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T13:30:00+00:00",
+     "summary": "Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain over everyday adoption."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T13:30:00+00:00",
+   "last_seen": "2026-10-13T13:30:00+00:00",
+   "summary": "Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain over everyday adoption.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "54144edeb7",
+   "title": "Alex Gladstein: How The Bitcoin-AI Convergence Impacts the Fight for Freedom",
+   "date": "2026-10-13T13:24:43+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Alex Gladstein: How The Bitcoin-AI Convergence Impacts the Fight for Freedom",
+     "url": "https://bitcoinmagazine.com/videos/alex-gladstein-how-the-bitcoin-ai-convergence-impacts-the-fight-for-freedom",
+     "date": "2026-10-13T13:24:43+00:00",
+     "summary": "Bitcoin Magazine Alex Gladstein: How The Bitcoin-AI Convergence Impacts the Fight for Freedom AI risk isn't human extinction, says HRF\u2019s Alex Gladstein\u2014it\u2019s centralized control. He explains why local, open-source AI is vital for protecting freedom. This post Alex Gladstein: How..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T13:24:43+00:00",
+   "last_seen": "2026-10-13T13:24:43+00:00",
+   "summary": "Bitcoin Magazine Alex Gladstein: How The Bitcoin-AI Convergence Impacts the Fight for Freedom AI risk isn't human extinction, says HRF\u2019s Alex Gladstein\u2014it\u2019s centralized control. He explains why local, open-source AI is vital for protecting freedom. This post Alex Gladstein: How...",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "03fc3acc02",
+   "title": "Digital cash offers \u2018cash-like privacy,\u2019 but bank data breaches threaten users: BIS",
+   "date": "2026-10-13T13:17:17+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Digital cash offers \u2018cash-like privacy,\u2019 but bank data breaches threaten users: BIS",
+     "url": "https://cointelegraph.com/news/bis-digital-cash-privacy-bank-data-breaches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T13:17:17+00:00",
+     "summary": "BIS said that digital cash can achieve \u201ccash-like privacy,\u201d however, the technology isn\u2019t yet production-ready due to risks such as bank data breaches."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T13:17:17+00:00",
+   "last_seen": "2026-10-13T13:17:17+00:00",
+   "summary": "BIS said that digital cash can achieve \u201ccash-like privacy,\u201d however, the technology isn\u2019t yet production-ready due to risks such as bank data breaches.",
+   "tags": []
+  },
+  {
+   "id": "25e6ce6901",
+   "title": "Matt Dines: Why a Rising Dollar is Bullish for Bitcoin",
+   "date": "2026-10-13T13:17:03+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Matt Dines: Why a Rising Dollar is Bullish for Bitcoin",
+     "url": "https://bitcoinmagazine.com/videos/matt-dines-why-a-rising-dollar-is-bullish-for-bitcoin",
+     "date": "2026-10-13T13:17:03+00:00",
+     "summary": "Bitcoin Magazine Matt Dines: Why a Rising Dollar is Bullish for Bitcoin The dollar and Bitcoin are both rising\u2014a bullish sign, says Build Asset Management's Matt Dines. He breaks down the shift to a new US-led monetary order. This post Matt Dines: Why a Rising Dollar is Bullish..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T13:17:03+00:00",
+   "last_seen": "2026-10-13T13:17:03+00:00",
+   "summary": "Bitcoin Magazine Matt Dines: Why a Rising Dollar is Bullish for Bitcoin The dollar and Bitcoin are both rising\u2014a bullish sign, says Build Asset Management's Matt Dines. He breaks down the shift to a new US-led monetary order. This post Matt Dines: Why a Rising Dollar is Bullish...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "18cdb089f1",
+   "title": "Sky\u2019s $4.4 billion liquidity disclosure shows why USDS cash-outs need a separate bank route",
+   "date": "2026-10-13T13:00:58+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Sky\u2019s $4.4 billion liquidity disclosure shows why USDS cash-outs need a separate bank route",
+     "url": "https://cryptoslate.com/skys-4-4b-liquidity-disclosure-shows-why-stablecoin-supply-is-not-a-cash-ledger/",
+     "date": "2026-10-13T13:00:58+00:00",
+     "summary": "Sky\u2019s October 9 PSM disclosure highlights existing conversion liquidity, while borrowing and token migration need not bring matching new dollars into crypto. The post Sky\u2019s $4.4 billion liquidity disclosure shows why USDS cash-outs need a separate bank route appeared first on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T13:00:58+00:00",
+   "last_seen": "2026-10-13T13:00:58+00:00",
+   "summary": "Sky\u2019s October 9 PSM disclosure highlights existing conversion liquidity, while borrowing and token migration need not bring matching new dollars into crypto. The post Sky\u2019s $4.4 billion liquidity disclosure shows why USDS cash-outs need a separate bank route appeared first on...",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "ac76402e53",
    "title": "Russia clears Sberbank for crypto trading ahead of December launch",

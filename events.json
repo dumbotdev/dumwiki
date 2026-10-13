@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-13T02:39:12.251661+00:00",
+ "updated": "2026-10-13T03:39:57.204370+00:00",
  "events": [
+  {
+   "id": "afcf10de83",
+   "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+   "date": "2026-10-13T02:41:30+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "South Korea moves to block 27 crypto websites, including KuCoin, MEXC",
+     "url": "https://cointelegraph.com/news/south-korea-moves-to-block-27-crypto-websites-including-kucoin-mexc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T02:41:30+00:00",
+     "summary": "Authorities said the restrictions are aimed at unregistered exchanges and have acknowledged that customers could have difficulty withdrawing assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T02:41:30+00:00",
+   "last_seen": "2026-10-13T02:41:30+00:00",
+   "summary": "Authorities said the restrictions are aimed at unregistered exchanges and have acknowledged that customers could have difficulty withdrawing assets.",
+   "tags": []
+  },
   {
    "id": "c02ca12422",
    "title": "Bitcoin slides below $82,000 as crypto liquidations surge past $770 million",

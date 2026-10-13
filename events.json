@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-13T00:51:09.681357+00:00",
+ "updated": "2026-10-13T01:39:20.754169+00:00",
  "events": [
+  {
+   "id": "63c4f4432a",
+   "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
+   "date": "2026-10-13T00:52:52+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
+     "url": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T00:52:52+00:00",
+     "summary": "The optional feature hides transaction details until their order is finalized, preventing bots from exploiting pending trades."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T00:52:52+00:00",
+   "last_seen": "2026-10-13T00:52:52+00:00",
+   "summary": "The optional feature hides transaction details until their order is finalized, preventing bots from exploiting pending trades.",
+   "tags": []
+  },
   {
    "id": "ce0637319f",
    "title": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway",

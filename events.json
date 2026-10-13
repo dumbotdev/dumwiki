@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-13T04:40:33.944297+00:00",
+ "updated": "2026-10-13T05:38:59.797615+00:00",
  "events": [
+  {
+   "id": "7799c4e418",
+   "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia\u2019s chip rout wipes out $800 million",
+   "date": "2026-10-13T05:27:17+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Tokenized SanDisk bets saw more liquidations than XRP as Asia\u2019s chip rout wipes out $800 million",
+     "url": "https://www.coindesk.com/markets/2026/10/13/tokenized-sandisk-bets-saw-more-liquidations-than-xrp-as-asia-s-chip-rout-wipes-out-usd800-million",
+     "date": "2026-10-13T05:27:17+00:00",
+     "summary": "About $800 million in leveraged positions were wiped out over 24 hours, 86% of them bullish. Chip-stock contracts on crypto exchanges took a chunk of the damage."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T05:27:17+00:00",
+   "last_seen": "2026-10-13T05:27:17+00:00",
+   "summary": "About $800 million in leveraged positions were wiped out over 24 hours, 86% of them bullish. Chip-stock contracts on crypto exchanges took a chunk of the damage.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "c513d07106",
+   "title": "Binance to shut down crypto mining pool services in November",
+   "date": "2026-10-13T05:23:26+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance to shut down crypto mining pool services in November",
+     "url": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T05:23:26+00:00",
+     "summary": "Binance will discontinue its mining pool and related services on Nov. 10, urging miners to move to alternative pools before the shutdown."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T05:23:26+00:00",
+   "last_seen": "2026-10-13T05:23:26+00:00",
+   "summary": "Binance will discontinue its mining pool and related services on Nov. 10, urging miners to move to alternative pools before the shutdown.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "13d1fd81e4",
+   "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
+   "date": "2026-10-13T04:43:18+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Once-largest Ethereum NFT marketplace Blur is shutting down after volumes collapse 99%",
+     "url": "https://www.coindesk.com/tech/2026/10/13/once-largest-ethereum-nft-marketplace-blur-is-shutting-down-after-volumes-collapse-99",
+     "date": "2026-10-13T04:43:18+00:00",
+     "summary": "Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T04:43:18+00:00",
+   "last_seen": "2026-10-13T04:43:18+00:00",
+   "summary": "Blur will close its website on Nov. 12 after monthly trading fell from about $1.43 billion at its 2023 peak to under $7 million, ten days after sister project Blast announced its own shutdown.",
+   "tags": [
+    "ethereum",
+    "nfts"
+   ]
+  },
   {
    "id": "55fee29059",
    "title": "Crypto Trader \u2018Realist\u2019 Reports Knifepoint Robbery at UK Home",

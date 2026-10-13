@@ -1,6 +1,131 @@
 {
- "updated": "2026-10-13T16:40:15.822192+00:00",
+ "updated": "2026-10-13T17:37:36.973100+00:00",
  "events": [
+  {
+   "id": "9152d87b46",
+   "title": "The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?",
+   "date": "2026-10-13T17:05:39+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?",
+     "url": "https://bitcoinmagazine.com/news/amount-of-bitcoin-exchanges-is-shrinking",
+     "date": "2026-10-13T17:05:39+00:00",
+     "summary": "Bitcoin Magazine The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent? A CryptoQuant researcher has said that bitcoin\u2019s supply dynamics could soon help its price. This post The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent? first appeared on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T17:05:39+00:00",
+   "last_seen": "2026-10-13T17:05:39+00:00",
+   "summary": "Bitcoin Magazine The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent? A CryptoQuant researcher has said that bitcoin\u2019s supply dynamics could soon help its price. This post The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent? first appeared on...",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "3419c41d40",
+   "title": "MNX Launches Futures on AI Lab IPOs and Revenue",
+   "date": "2026-10-13T17:03:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "MNX Launches Futures on AI Lab IPOs and Revenue",
+     "url": "https://thedefiant.io/news/markets/mnx-launches-futures-on-ai-lab-ipos-and-revenue",
+     "date": "2026-10-13T17:03:26+00:00",
+     "summary": "The contracts offer leveraged exposure rather than shares, with settlement tied to IPO filings, private-market valuations or revenue estimates."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T17:03:26+00:00",
+   "last_seen": "2026-10-13T17:03:26+00:00",
+   "summary": "The contracts offer leveraged exposure rather than shares, with settlement tied to IPO filings, private-market valuations or revenue estimates.",
+   "tags": [
+    "ai",
+    "funding",
+    "legal"
+   ]
+  },
+  {
+   "id": "9eca482318",
+   "title": "Australia moves to close crypto derivatives loophole after retail traders lose A$458 million",
+   "date": "2026-10-13T17:00:31+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Australia moves to close crypto derivatives loophole after retail traders lose A$458 million",
+     "url": "https://cryptoslate.com/australia-moves-to-close-crypto-derivatives-loophole-after-retail-traders-lose-a458-million/",
+     "date": "2026-10-13T17:00:31+00:00",
+     "summary": "The proposal would bring qualifying token-settled derivatives within existing retail safeguards, with some fixed-expiry crypto products remaining outside. The post Australia moves to close crypto derivatives loophole after retail traders lose A$458 million appeared first on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T17:00:31+00:00",
+   "last_seen": "2026-10-13T17:00:31+00:00",
+   "summary": "The proposal would bring qualifying token-settled derivatives within existing retail safeguards, with some fixed-expiry crypto products remaining outside. The post Australia moves to close crypto derivatives loophole after retail traders lose A$458 million appeared first on...",
+   "tags": []
+  },
+  {
+   "id": "35599d346f",
+   "title": "How the SEC\u2019s lack of leadership could facilitate crypto rulemaking",
+   "date": "2026-10-13T16:51:25+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "How the SEC\u2019s lack of leadership could facilitate crypto rulemaking",
+     "url": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T16:51:25+00:00",
+     "summary": "A recent change in the SEC\u2019s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T16:51:25+00:00",
+   "last_seen": "2026-10-13T16:51:25+00:00",
+   "summary": "A recent change in the SEC\u2019s rules on quorum could make it easier for the agency to amend its approach to crypto regulation in the absence of a market structure bill.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "70d2a01304",
+   "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
+   "date": "2026-10-13T16:46:05+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Shakes Off Spooky Season Jitters: Can Bulls Keep It Going?",
+     "url": "https://decrypt.co/380842/bitcoin-shakes-off-spooky-season-jitters",
+     "date": "2026-10-13T16:46:05+00:00",
+     "summary": "Bitcoin dipped below $81,000 before buyers stepped in, but the Fear and Greed Index says traders aren't convinced yet."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T16:46:05+00:00",
+   "last_seen": "2026-10-13T16:46:05+00:00",
+   "summary": "Bitcoin dipped below $81,000 before buyers stepped in, but the Fear and Greed Index says traders aren't convinced yet.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "077314c249",
+   "title": "Mezo Sets Oct. 13 Bridge-Out Deadline for swBTC and USDe",
+   "date": "2026-10-13T16:44:38+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Mezo Sets Oct. 13 Bridge-Out Deadline for swBTC and USDe",
+     "url": "https://thedefiant.io/news/blockchains/mezo-sets-oct-13-bridge-out-deadline-for-swbtc-and-usde",
+     "date": "2026-10-13T16:44:38+00:00",
+     "summary": "SolvBTC and xSolvBTC withdrawals will close Oct. 29. Deposits are already suspended for all four tokens."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T16:44:38+00:00",
+   "last_seen": "2026-10-13T16:44:38+00:00",
+   "summary": "SolvBTC and xSolvBTC withdrawals will close Oct. 29. Deposits are already suspended for all four tokens.",
+   "tags": []
+  },
   {
    "id": "521d5e54f3",
    "title": "Trezor Cuts Its Resellers After Ledger Finds Spy Implant in Crypto Wallets",
@@ -705,12 +830,19 @@
      "url": "https://www.theblock.co/news/regulation/2026-10-13-uk-high-court-rules-chinese-law-governs-claims-over-5-billion-in-seized-bitcoin-418409",
      "date": "2026-10-13T11:38:19+00:00",
      "summary": "A UK judge ruled Chinese law applies to victims' claims over 61,000 seized bitcoin, leaving ownership undecided."
+    },
+    {
+     "source": "The Defiant",
+     "title": "UK Court Rules Chinese Law Governs Victims\u2019 Claims to 61,000 Bitcoin",
+     "url": "https://thedefiant.io/news/regulation/uk-court-rules-chinese-law-governs-victims-claims-to-61-000-bitcoin",
+     "date": "2026-10-13T17:31:48+00:00",
+     "summary": "The roughly $5.1 billion holding remains contested after victims lost their bid to rely on English law to establish ownership."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-13T11:38:19+00:00",
-   "last_seen": "2026-10-13T11:38:19+00:00",
-   "summary": "A UK judge ruled Chinese law applies to victims' claims over 61,000 seized bitcoin, leaving ownership undecided.",
+   "last_seen": "2026-10-13T17:31:48+00:00",
+   "summary": "The roughly $5.1 billion holding remains contested after victims lost their bid to rely on English law to establish ownership.",
    "tags": [
     "bitcoin",
     "legal",

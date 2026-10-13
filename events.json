@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-13T07:42:14.015657+00:00",
+ "updated": "2026-10-13T08:42:04.327210+00:00",
  "events": [
+  {
+   "id": "27a6ec2a02",
+   "title": "21Shares Lists Anthropic Synthetic ETP on Vienna MTF",
+   "date": "2026-10-13T08:16:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "21Shares Lists Anthropic Synthetic ETP on Vienna MTF",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/21shares-lists-anthropic-synthetic-etp-on-vienna-mtf",
+     "date": "2026-10-13T08:16:44+00:00",
+     "summary": "CLAU holds FalconX notes tied to perpetual futures, with financing and funding costs on top of its 1% annual product fee."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T08:16:44+00:00",
+   "last_seen": "2026-10-13T08:16:44+00:00",
+   "summary": "CLAU holds FalconX notes tied to perpetual futures, with financing and funding costs on top of its 1% annual product fee.",
+   "tags": [
+    "funding"
+   ]
+  },
   {
    "id": "698514ecb6",
    "title": "Sanctioned A7 Announces USDT-to-SWIFT Payment Service",

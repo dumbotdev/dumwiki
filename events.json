@@ -1,6 +1,196 @@
 {
- "updated": "2026-10-13T18:47:13.303731+00:00",
+ "updated": "2026-10-13T19:50:23.211438+00:00",
  "events": [
+  {
+   "id": "f4395ff528",
+   "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
+   "date": "2026-10-13T19:38:12+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
+     "url": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
+     "date": "2026-10-13T19:38:12+00:00",
+     "summary": "A wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T19:38:12+00:00",
+   "last_seen": "2026-10-13T19:38:12+00:00",
+   "summary": "A wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "605b6d16b2",
+   "title": "DOJ Announces Two Arrests in North Korean \u2018Laptop Farm\u2019 Crackdown",
+   "date": "2026-10-13T19:31:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "DOJ Announces Two Arrests in North Korean \u2018Laptop Farm\u2019 Crackdown",
+     "url": "https://thedefiant.io/news/security/doj-announces-two-arrests-in-north-korean-laptop-farm-crackdown",
+     "date": "2026-10-13T19:31:16+00:00",
+     "summary": "Prosecutors allege a scheme affecting more than 70 US employers generated about $3 million. The Ohio indictment describes cryptocurrency transfers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T19:31:16+00:00",
+   "last_seen": "2026-10-13T19:31:16+00:00",
+   "summary": "Prosecutors allege a scheme affecting more than 70 US employers generated about $3 million. The Ohio indictment describes cryptocurrency transfers.",
+   "tags": []
+  },
+  {
+   "id": "0c352d6d98",
+   "title": "Bitcoin defies $800 million crypto wipeout as South Korea\u2019s AI stock market crashes",
+   "date": "2026-10-13T19:30:31+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin defies $800 million crypto wipeout as South Korea\u2019s AI stock market crashes",
+     "url": "https://cryptoslate.com/bitcoin-defies-800-million-crypto-wipeout-as-south-koreas-ai-stock-market-crashes/",
+     "date": "2026-10-13T19:30:31+00:00",
+     "summary": "Bitcoin rebounded above $83,000 on Tuesday despite a sharp Asian stock selloff, as cryptocurrency liquidations exceeded $800 million. BTC recovered after briefly slipping below $81,000, while semiconductor shares continued a deepening rout that sent South Korea's benchmark KOSPI..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T19:30:31+00:00",
+   "last_seen": "2026-10-13T19:30:31+00:00",
+   "summary": "Bitcoin rebounded above $83,000 on Tuesday despite a sharp Asian stock selloff, as cryptocurrency liquidations exceeded $800 million. BTC recovered after briefly slipping below $81,000, while semiconductor shares continued a deepening rout that sent South Korea's benchmark KOSPI...",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "bac51efa69",
+   "title": "Parlays Drive Kalshi\u2019s $3.9 Billion Trading Days, Analysis Finds",
+   "date": "2026-10-13T19:29:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Parlays Drive Kalshi\u2019s $3.9 Billion Trading Days, Analysis Finds",
+     "url": "https://thedefiant.io/news/markets/parlays-drive-kalshi-s-3-9-billion-trading-days-analysis-finds",
+     "date": "2026-10-13T19:29:33+00:00",
+     "summary": "Combos supplied roughly 70% of weekend notional volume, according to Bitcoin.com\u2019s analysis, but that measure is not cash spent by buyers or a count of new users."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T19:29:33+00:00",
+   "last_seen": "2026-10-13T19:29:33+00:00",
+   "summary": "Combos supplied roughly 70% of weekend notional volume, according to Bitcoin.com\u2019s analysis, but that measure is not cash spent by buyers or a count of new users.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "f7b37b0d16",
+   "title": "JUP Rises 51% in Four Weeks as Jupiter Fees Decline",
+   "date": "2026-10-13T19:26:27+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "JUP Rises 51% in Four Weeks as Jupiter Fees Decline",
+     "url": "https://thedefiant.io/news/markets/jup-rises-51-in-four-weeks-as-jupiter-fees-decline",
+     "date": "2026-10-13T19:26:27+00:00",
+     "summary": "JUP outpaced bitcoin and ether despite a 5.6% weekly pullback. Fees across Jupiter\u2019s products fell to $16.82 million in the latest complete 28-day period."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T19:26:27+00:00",
+   "last_seen": "2026-10-13T19:26:27+00:00",
+   "summary": "JUP outpaced bitcoin and ether despite a 5.6% weekly pullback. Fees across Jupiter\u2019s products fell to $16.82 million in the latest complete 28-day period.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "56c3d1a069",
+   "title": "Robinhood Opens Social Trading Feed to Eligible US Customers",
+   "date": "2026-10-13T19:10:25+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Robinhood Opens Social Trading Feed to Eligible US Customers",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-opens-social-trading-feed-to-eligible-us-customers",
+     "date": "2026-10-13T19:10:25+00:00",
+     "summary": "Users can share charts and portfolio allocations, while a rollout on the Legend desktop platform is planned in the coming weeks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T19:10:25+00:00",
+   "last_seen": "2026-10-13T19:10:25+00:00",
+   "summary": "Users can share charts and portfolio allocations, while a rollout on the Legend desktop platform is planned in the coming weeks.",
+   "tags": []
+  },
+  {
+   "id": "5bf8b137f6",
+   "title": "Trezor reduces resellers as a \u2018preventative step\u2019 amid Ledger tampering reports",
+   "date": "2026-10-13T19:07:04+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Trezor reduces resellers as a \u2018preventative step\u2019 amid Ledger tampering reports",
+     "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T19:07:04+00:00",
+     "summary": "CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor\u2019s list of authorized entities starting Jan. 1."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T19:07:04+00:00",
+   "last_seen": "2026-10-13T19:07:04+00:00",
+   "summary": "CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor\u2019s list of authorized entities starting Jan. 1.",
+   "tags": []
+  },
+  {
+   "id": "7db4c19822",
+   "title": "Blockchain.com Seeks CFTC Licenses for US Derivatives and Prediction Markets",
+   "date": "2026-10-13T19:03:30+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Blockchain.com Seeks CFTC Licenses for US Derivatives and Prediction Markets",
+     "url": "https://thedefiant.io/converge/regulation/blockchain-com-seeks-cftc-licenses-for-us-derivatives-and-prediction-markets",
+     "date": "2026-10-13T19:03:30+00:00",
+     "summary": "The company is seeking both exchange and futures-broker registrations to serve retail and institutional customers. The proposed US offering still requires approval."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T19:03:30+00:00",
+   "last_seen": "2026-10-13T19:03:30+00:00",
+   "summary": "The company is seeking both exchange and futures-broker registrations to serve retail and institutional customers. The proposed US offering still requires approval.",
+   "tags": [
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "ae46e1ee59",
+   "title": "Base Introduces Earn & Borrow With Aave and Morpho",
+   "date": "2026-10-13T19:01:43+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Base Introduces Earn & Borrow With Aave and Morpho",
+     "url": "https://thedefiant.io/news/defi/base-introduces-earn-borrow-with-aave-and-morpho",
+     "date": "2026-10-13T19:01:43+00:00",
+     "summary": "Apps can embed variable-rate stablecoin lending and crypto-backed loans, while borrowers remain subject to the underlying protocols\u2019 liquidation rules."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T19:01:43+00:00",
+   "last_seen": "2026-10-13T19:01:43+00:00",
+   "summary": "Apps can embed variable-rate stablecoin lending and crypto-backed loans, while borrowers remain subject to the underlying protocols\u2019 liquidation rules.",
+   "tags": [
+    "defi",
+    "markets",
+    "stablecoins"
+   ]
+  },
   {
    "id": "89174509c5",
    "title": "cirBTC Borrowing on Morpho Tops $190 Million as Arc Liquidity Tightens",
@@ -1185,12 +1375,19 @@
      "url": "https://cointelegraph.com/news/mediamarkt-pulls-ledger-wallet-security-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-13T10:09:01+00:00",
      "summary": "European retailer MediaMarkt pulled Ledger products as the wallet maker probes tampering reports beyond CryptoBilis in Southeast Asia."
+    },
+    {
+     "source": "The Defiant",
+     "title": "MediaMarktSaturn Pulls Ledger Products Amid Tampering Reports",
+     "url": "https://thedefiant.io/news/security/mediamarktsaturn-pulls-ledger-products-amid-tampering-reports",
+     "date": "2026-10-13T19:09:53+00:00",
+     "summary": "The retailer says the withdrawal covers all its countries. Ledger says no fund losses were reported in the German case and directs existing buyers to support."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-13T10:09:01+00:00",
-   "last_seen": "2026-10-13T10:09:01+00:00",
-   "summary": "European retailer MediaMarkt pulled Ledger products as the wallet maker probes tampering reports beyond CryptoBilis in Southeast Asia.",
+   "last_seen": "2026-10-13T19:09:53+00:00",
+   "summary": "The retailer says the withdrawal covers all its countries. Ledger says no fund losses were reported in the German case and directs existing buyers to support.",
    "tags": []
   },
   {
@@ -3910,16 +4107,24 @@
      "url": "https://thedefiant.io/news/markets/strk-gains-322-in-four-weeks-outpacing-bitcoin-and-ether",
      "date": "2026-10-12T00:59:46+00:00",
      "summary": "Starknet\u2019s DeFi TVL rose about 5% over a slightly shorter period, while its proposed Layer 1 shift remains under discussion."
+    },
+    {
+     "source": "The Defiant",
+     "title": "APT Gains 51% in Four Weeks, Outpacing Bitcoin and Ether",
+     "url": "https://thedefiant.io/news/markets/apt-gains-51-in-four-weeks-outpacing-bitcoin-and-ether",
+     "date": "2026-10-13T19:24:15+00:00",
+     "summary": "The token's weekly return is nearly flat, while DefiLlama's tracked stablecoin market cap on Aptos has fallen 17.5% over four weeks."
     }
    ],
-   "score": 11,
+   "score": 12,
    "first_seen": "2026-10-11T23:28:09+00:00",
-   "last_seen": "2026-10-12T00:59:46+00:00",
+   "last_seen": "2026-10-13T19:24:15+00:00",
    "summary": "The token retained its lead despite a 1.7% weekly decline, while Avalanche shortened the minimum commitment for validators during the period.",
    "tags": [
     "bitcoin",
     "defi",
-    "ethereum"
+    "ethereum",
+    "stablecoins"
    ]
   },
   {

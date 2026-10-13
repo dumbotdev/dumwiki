@@ -1,6 +1,169 @@
 {
- "updated": "2026-10-13T08:42:04.327210+00:00",
+ "updated": "2026-10-13T09:39:51.146649+00:00",
  "events": [
+  {
+   "id": "7f35a3206c",
+   "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+   "date": "2026-10-13T09:27:47+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ledger says 'spy' chip inside CryptoBilis Ledger devices transmitted wallet keys over mobile network",
+     "url": "https://www.coindesk.com/tech/2026/10/13/ledger-says-spy-chip-inside-cryptobilis-ledger-devices-transmitted-wallet-keys-over-mobile-network",
+     "date": "2026-10-13T09:27:47+00:00",
+     "summary": "The hardware-wallet maker gave its first public account of how a covert component in devices sold by CryptoBilis could steal users\u2019 master keys without changing Ledger\u2019s software."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T09:27:47+00:00",
+   "last_seen": "2026-10-13T09:27:47+00:00",
+   "summary": "The hardware-wallet maker gave its first public account of how a covert component in devices sold by CryptoBilis could steal users\u2019 master keys without changing Ledger\u2019s software.",
+   "tags": []
+  },
+  {
+   "id": "34acdfbf5d",
+   "title": "UK court ruling boosts government\u2019s chances of keeping $5 billion in seized bitcoin",
+   "date": "2026-10-13T09:25:03+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "UK court ruling boosts government\u2019s chances of keeping $5 billion in seized bitcoin",
+     "url": "https://www.coindesk.com/policy/2026/10/13/u-k-court-ruling-boosts-government-s-chances-of-keeping-gbp3-8-billion-seized-bitcoin",
+     "date": "2026-10-13T09:25:03+00:00",
+     "summary": "The decision concerns 61,000 BTC seized by the Metropolitan Police in its investigation into Zhimin Qian, who pleaded guilty to defrauding thousands of people in China."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T09:25:03+00:00",
+   "last_seen": "2026-10-13T09:25:03+00:00",
+   "summary": "The decision concerns 61,000 BTC seized by the Metropolitan Police in its investigation into Zhimin Qian, who pleaded guilty to defrauding thousands of people in China.",
+   "tags": [
+    "bitcoin",
+    "legal"
+   ]
+  },
+  {
+   "id": "d73fce60b8",
+   "title": "Autheo\u2019s THEO Plunges 92% After Suspected Bridge Exploit on Base",
+   "date": "2026-10-13T09:17:57+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Autheo\u2019s THEO Plunges 92% After Suspected Bridge Exploit on Base",
+     "url": "https://thedefiant.io/news/hacks/autheo-s-theo-plunges-92-after-suspected-bridge-exploit-on-base",
+     "date": "2026-10-13T09:17:57+00:00",
+     "summary": "Autheo urged users not to buy, sell or bridge THEO after a 19 million-token mint and subsequent sales on Base."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T09:17:57+00:00",
+   "last_seen": "2026-10-13T09:17:57+00:00",
+   "summary": "Autheo urged users not to buy, sell or bridge THEO after a 19 million-token mint and subsequent sales on Base.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "6814699fe2",
+   "title": "Karpel\u00e8s Says Airport-Bought Ledger Flex Contained Spy Implant",
+   "date": "2026-10-13T09:15:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Karpel\u00e8s Says Airport-Bought Ledger Flex Contained Spy Implant",
+     "url": "https://thedefiant.io/news/security/karpel-s-says-airport-bought-ledger-flex-contained-spy-implant",
+     "date": "2026-10-13T09:15:07+00:00",
+     "summary": "Buyer Ben Yorke identified Metapod as the retailer. Ledger says verified fund losses in its investigation remain tied to CryptoBilis-sold wallets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T09:15:07+00:00",
+   "last_seen": "2026-10-13T09:15:07+00:00",
+   "summary": "Buyer Ben Yorke identified Metapod as the retailer. Ledger says verified fund losses in its investigation remain tied to CryptoBilis-sold wallets.",
+   "tags": []
+  },
+  {
+   "id": "dcfda9e2f4",
+   "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
+   "date": "2026-10-13T09:12:45+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "NFT Marketplace Blur to Shut Down Website, Stop New Blend Loans Next Month",
+     "url": "https://decrypt.co/380802/nft-marketplace-blur-to-shut-down-website-stop-new-blend-loans-next-month",
+     "date": "2026-10-13T09:12:45+00:00",
+     "summary": "The shutdown comes as NFT trading volumes have collapsed from their 2021-2022 peak, with market revenue projected at $318 million this year."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T09:12:45+00:00",
+   "last_seen": "2026-10-13T09:12:45+00:00",
+   "summary": "The shutdown comes as NFT trading volumes have collapsed from their 2021-2022 peak, with market revenue projected at $318 million this year.",
+   "tags": [
+    "nfts"
+   ]
+  },
+  {
+   "id": "160ec85d9c",
+   "title": "Chinese fraud victims lose key court battle over 61,000 Bitcoin",
+   "date": "2026-10-13T09:03:06+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Chinese fraud victims lose key court battle over 61,000 Bitcoin",
+     "url": "https://cointelegraph.com/news/uk-court-chinese-law-61k-bitcoin-fraud-victims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T09:03:06+00:00",
+     "summary": "Chinese fraud victims seeking to recover 61,000 seized Bitcoin face a legal setback after a UK court ruled that Chinese law governs their claims."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T09:03:06+00:00",
+   "last_seen": "2026-10-13T09:03:06+00:00",
+   "summary": "Chinese fraud victims seeking to recover 61,000 seized Bitcoin face a legal setback after a UK court ruled that Chinese law governs their claims.",
+   "tags": [
+    "bitcoin",
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "6f04267c67",
+   "title": "IMF finds over half of tokenized US stock trading happens after Wall Street closes",
+   "date": "2026-10-13T08:50:47+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "IMF finds over half of tokenized US stock trading happens after Wall Street closes",
+     "url": "https://cryptoslate.com/imf-finds-over-half-of-tokenized-us-stock-trading-happens-after-wall-street-closes/",
+     "date": "2026-10-13T08:50:47+00:00",
+     "summary": "More than half of volume in the five-product sample came outside regular US hours, while volatility was about 1.5 times that of traditional counterparts. The post IMF finds over half of tokenized US stock trading happens after Wall Street closes appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T08:50:47+00:00",
+   "last_seen": "2026-10-13T08:50:47+00:00",
+   "summary": "More than half of volume in the five-product sample came outside regular US hours, while volatility was about 1.5 times that of traditional counterparts. The post IMF finds over half of tokenized US stock trading happens after Wall Street closes appeared first on CryptoSlate .",
+   "tags": []
+  },
+  {
+   "id": "73866e66e8",
+   "title": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis",
+   "date": "2026-10-13T08:45:10+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ledger details LTE-enabled spy implants in wallets sold by CryptoBilis",
+     "url": "https://cointelegraph.com/news/ledger-cellular-implants-wallets-sold-cryptobilis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T08:45:10+00:00",
+     "summary": "Ledger detailed how LTE-enabled implants exposed wallet recovery phrases as CryptoBilis halted sales and Trezor and OneKey cut ties with the reseller."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T08:45:10+00:00",
+   "last_seen": "2026-10-13T08:45:10+00:00",
+   "summary": "Ledger detailed how LTE-enabled implants exposed wallet recovery phrases as CryptoBilis halted sales and Trezor and OneKey cut ties with the reseller.",
+   "tags": []
+  },
   {
    "id": "27a6ec2a02",
    "title": "21Shares Lists Anthropic Synthetic ETP on Vienna MTF",

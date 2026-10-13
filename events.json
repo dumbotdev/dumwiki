@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-13T20:53:21.944710+00:00",
+ "updated": "2026-10-13T21:48:12.361135+00:00",
  "events": [
+  {
+   "id": "85832193eb",
+   "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+   "date": "2026-10-13T21:46:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI Engineer Arrested for Bugging Office, Company Says AI Caught Him",
+     "url": "https://decrypt.co/380896/openai-engineer-arrested-bugging-office-ai-caught-him",
+     "date": "2026-10-13T21:46:04+00:00",
+     "summary": "A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T21:46:04+00:00",
+   "last_seen": "2026-10-13T21:46:04+00:00",
+   "summary": "A Saudi national working at OpenAI allegedly hid an encrypted audio recorder behind a TV in an executive meeting room. OpenAI says its own models helped trace it back to him.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "6fb0434f78",
+   "title": "Collector Crypt Logs $151 Million in Monthly Pack Sales",
+   "date": "2026-10-13T21:25:41+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Collector Crypt Logs $151 Million in Monthly Pack Sales",
+     "url": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-logs-151-million-in-monthly-pack-sales",
+     "date": "2026-10-13T21:25:41+00:00",
+     "summary": "Solana pack buyers doubled in the third quarter, but 548 wallets accounted for 83% of spending, according to Pine Analytics."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T21:25:41+00:00",
+   "last_seen": "2026-10-13T21:25:41+00:00",
+   "summary": "Solana pack buyers doubled in the third quarter, but 548 wallets accounted for 83% of spending, according to Pine Analytics.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "ea459c67b9",
+   "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million\u2014And Users Get Grief Resources",
+   "date": "2026-10-13T21:16:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Character.AI Files for Bankruptcy as Disney Bids $20 Million\u2014And Users Get Grief Resources",
+     "url": "https://decrypt.co/380894/character-ai-bankruptcy-disney-users-grief-resources",
+     "date": "2026-10-13T21:16:04+00:00",
+     "summary": "The chatbot app once valued at $1 billion is up for sale in a Delaware court, two weeks after launching new models. If nobody buys it, it shuts down."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T21:16:04+00:00",
+   "last_seen": "2026-10-13T21:16:04+00:00",
+   "summary": "The chatbot app once valued at $1 billion is up for sale in a Delaware court, two weeks after launching new models. If nobody buys it, it shuts down.",
+   "tags": [
+    "ai",
+    "legal"
+   ]
+  },
   {
    "id": "b23a6ba76a",
    "title": "BNY and Citadel Securities Use Tokenized Treasury in Overnight Repo",

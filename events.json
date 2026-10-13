@@ -1,6 +1,167 @@
 {
- "updated": "2026-10-13T11:38:50.318535+00:00",
+ "updated": "2026-10-13T12:49:23.852818+00:00",
  "events": [
+  {
+   "id": "ac76402e53",
+   "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+   "date": "2026-10-13T12:22:24+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Russia clears Sberbank for crypto trading ahead of December launch",
+     "url": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-13T12:22:24+00:00",
+     "summary": "Russia\u2019s largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Ether and Tether USDt trading."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T12:22:24+00:00",
+   "last_seen": "2026-10-13T12:22:24+00:00",
+   "summary": "Russia\u2019s largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Ether and Tether USDt trading.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "eb6b6e2544",
+   "title": "DRW and Marex Execute Bond-Index Swap on Canton",
+   "date": "2026-10-13T12:20:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "DRW and Marex Execute Bond-Index Swap on Canton",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/drw-and-marex-execute-bond-index-swap-on-canton",
+     "date": "2026-10-13T12:20:50+00:00",
+     "summary": "The Derivnex trade links a shared contract record to licensed S&P benchmark data, with cash and collateral integration planned next."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T12:20:50+00:00",
+   "last_seen": "2026-10-13T12:20:50+00:00",
+   "summary": "The Derivnex trade links a shared contract record to licensed S&P benchmark data, with cash and collateral integration planned next.",
+   "tags": []
+  },
+  {
+   "id": "1d991a9c1a",
+   "title": "Mysten Reports Sui's First Native Quantum-Safe Devnet Transaction",
+   "date": "2026-10-13T12:10:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Mysten Reports Sui's First Native Quantum-Safe Devnet Transaction",
+     "url": "https://thedefiant.io/news/blockchains/mysten-reports-sui-s-first-native-quantum-safe-devnet-transaction",
+     "date": "2026-10-13T12:10:08+00:00",
+     "summary": "The devnet implementation adds ML-DSA-65 account signatures. Native mainnet support is targeted for Q1 2027, subject to audits and testnet feedback."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T12:10:08+00:00",
+   "last_seen": "2026-10-13T12:10:08+00:00",
+   "summary": "The devnet implementation adds ML-DSA-65 account signatures. Native mainnet support is targeted for Q1 2027, subject to audits and testnet feedback.",
+   "tags": []
+  },
+  {
+   "id": "ea7ea70747",
+   "title": "More than half of Ethena\u2019s USDe backing is allocated to lending",
+   "date": "2026-10-13T12:00:32+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "More than half of Ethena\u2019s USDe backing is allocated to lending",
+     "url": "https://cryptoslate.com/ethenas-usde-has-51-2-of-backing-in-lending-making-redemption-liquidity-the-key-test/",
+     "date": "2026-10-13T12:00:32+00:00",
+     "summary": "LlamaRisk\u2019s October 12 snapshot makes available pool assets, institutional recall terms and conditional redemption access central to holders\u2019 exits. The post More than half of Ethena\u2019s USDe backing is allocated to lending appeared first on CryptoSlate ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T12:00:32+00:00",
+   "last_seen": "2026-10-13T12:00:32+00:00",
+   "summary": "LlamaRisk\u2019s October 12 snapshot makes available pool assets, institutional recall terms and conditional redemption access central to holders\u2019 exits. The post More than half of Ethena\u2019s USDe backing is allocated to lending appeared first on CryptoSlate .",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "4391fa7dec",
+   "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
+   "date": "2026-10-13T11:58:04+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
+     "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
+     "date": "2026-10-13T11:58:04+00:00",
+     "summary": "The country\u2019s regulators are stepping up their earlier restrictions on mobile apps to websites, targeting unregistered exchanges before investors report losses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T11:58:04+00:00",
+   "last_seen": "2026-10-13T11:58:04+00:00",
+   "summary": "The country\u2019s regulators are stepping up their earlier restrictions on mobile apps to websites, targeting unregistered exchanges before investors report losses.",
+   "tags": []
+  },
+  {
+   "id": "dc686e9b83",
+   "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+   "date": "2026-10-13T11:56:04+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
+     "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
+     "date": "2026-10-13T11:56:04+00:00",
+     "summary": "The $911 billion Pittsburgh-based asset manager is teaming up with Prometheum to bring blockchain-based share classes of its funds to traditional brokerage accounts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T11:56:04+00:00",
+   "last_seen": "2026-10-13T11:56:04+00:00",
+   "summary": "The $911 billion Pittsburgh-based asset manager is teaming up with Prometheum to bring blockchain-based share classes of its funds to traditional brokerage accounts.",
+   "tags": []
+  },
+  {
+   "id": "e839ee8b6e",
+   "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
+   "date": "2026-10-13T11:53:15+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
+     "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
+     "date": "2026-10-13T11:53:15+00:00",
+     "summary": "Ledger says the hidden chip reads the 24-word phrase off the screen during setup, leaving the Secure Element and its software untouched."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T11:53:15+00:00",
+   "last_seen": "2026-10-13T11:53:15+00:00",
+   "summary": "Ledger says the hidden chip reads the 24-word phrase off the screen during setup, leaving the Secure Element and its software untouched.",
+   "tags": []
+  },
+  {
+   "id": "4eb477c150",
+   "title": "Morning Minute: Bitcoin Gets Spooked as \u2018Uptober\u2019 Lets Down",
+   "date": "2026-10-13T11:40:51+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Bitcoin Gets Spooked as \u2018Uptober\u2019 Lets Down",
+     "url": "https://decrypt.co/380828/morning-minute-bitcoin-gets-spooked-as-uptober-lets-down",
+     "date": "2026-10-13T11:40:51+00:00",
+     "summary": "Crypto majors are red, alts are down bad and onchain is facing capitulation. This was not the \u2018Uptober\u2019 that was promised\u2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-13T11:40:51+00:00",
+   "last_seen": "2026-10-13T11:40:51+00:00",
+   "summary": "Crypto majors are red, alts are down bad and onchain is facing capitulation. This was not the \u2018Uptober\u2019 that was promised\u2026",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "32ec544402",
    "title": "UK High Court rules Chinese law governs claims over $5 billion in seized bitcoin",
@@ -663,11 +824,18 @@
      "url": "https://cointelegraph.com/news/binance-shut-down-crypto-mining-pool-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-13T05:23:26+00:00",
      "summary": "Binance will discontinue its mining pool and related services on Nov. 10, urging miners to move to alternative pools before the shutdown."
+    },
+    {
+     "source": "The Block",
+     "title": "Binance to shut down mining pool, cloud mining and related services",
+     "url": "https://www.theblock.co/news/business/2026-10-13-binance-to-shut-down-mining-pool-cloud-mining-and-related-services-418410",
+     "date": "2026-10-13T11:40:56+00:00",
+     "summary": "Binance said it will shut down its mining pool, cloud mining, and Pool Savings services on Nov. 10."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-13T05:23:26+00:00",
-   "last_seen": "2026-10-13T05:23:26+00:00",
+   "last_seen": "2026-10-13T11:40:56+00:00",
    "summary": "Binance will discontinue its mining pool and related services on Nov. 10, urging miners to move to alternative pools before the shutdown.",
    "tags": [
     "exchanges"

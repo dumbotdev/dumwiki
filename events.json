@@ -1,6 +1,171 @@
 {
- "updated": "2026-10-14T20:51:04.703404+00:00",
+ "updated": "2026-10-14T21:50:48.380389+00:00",
  "events": [
+  {
+   "id": "53a210ead1",
+   "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+   "date": "2026-10-14T21:46:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+     "url": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+     "date": "2026-10-14T21:46:04+00:00",
+     "summary": "After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T21:46:04+00:00",
+   "last_seen": "2026-10-14T21:46:04+00:00",
+   "summary": "After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "51b9f974b3",
+   "title": "VanEck Seeks to Withdraw Lido Staked Ethereum ETF Filing",
+   "date": "2026-10-14T21:33:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "VanEck Seeks to Withdraw Lido Staked Ethereum ETF Filing",
+     "url": "https://thedefiant.io/converge/tokens/vaneck-seeks-to-withdraw-lido-staked-ethereum-etf-filing",
+     "date": "2026-10-14T21:33:00+00:00",
+     "summary": "The proposed fund would have held stETH directly and offered brokerage-account exposure to Lido\u2019s liquid-staking token. Its registration never became effective."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T21:33:00+00:00",
+   "last_seen": "2026-10-14T21:33:00+00:00",
+   "summary": "The proposed fund would have held stETH directly and offered brokerage-account exposure to Lido\u2019s liquid-staking token. Its registration never became effective.",
+   "tags": [
+    "etfs",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "7a5cbda090",
+   "title": "Russia\u2019s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies",
+   "date": "2026-10-14T21:30:14+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Russia\u2019s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies",
+     "url": "https://bitcoinmagazine.com/news/russia-central-bank-gives-sberbank-license",
+     "date": "2026-10-14T21:30:14+00:00",
+     "summary": "Bitcoin Magazine Russia\u2019s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies Sberbank will debut its bitcoin-related products in December. This post Russia\u2019s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies first appeared on Bitcoin Magazine and is..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T21:30:14+00:00",
+   "last_seen": "2026-10-14T21:30:14+00:00",
+   "summary": "Bitcoin Magazine Russia\u2019s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies Sberbank will debut its bitcoin-related products in December. This post Russia\u2019s Central Bank Authorizes Sberbank to Exchange Cryptocurrencies first appeared on Bitcoin Magazine and is...",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "492f46cf2e",
+   "title": "Tempo Takes Zones Privacy System Into Production With Deel",
+   "date": "2026-10-14T21:21:53+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tempo Takes Zones Privacy System Into Production With Deel",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/tempo-takes-zones-privacy-system-into-production-with-deel",
+     "date": "2026-10-14T21:21:53+00:00",
+     "summary": "Contractor balances and payout history stay out of public view, while Deel retains records for reconciliation and audit."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T21:21:53+00:00",
+   "last_seen": "2026-10-14T21:21:53+00:00",
+   "summary": "Contractor balances and payout history stay out of public view, while Deel retains records for reconciliation and audit.",
+   "tags": []
+  },
+  {
+   "id": "5f50e45a8f",
+   "title": "Algorand Marketing Chief Resigns After CEO and CTO Departures",
+   "date": "2026-10-14T21:20:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Algorand Marketing Chief Resigns After CEO and CTO Departures",
+     "url": "https://thedefiant.io/news/people/algorand-marketing-chief-resigns-after-ceo-and-cto-departures",
+     "date": "2026-10-14T21:20:09+00:00",
+     "summary": "Marc Vanlerberghe\u2019s exit comes as new CEO William Herkelrath reviews initiatives and partnerships with the aim of making Algorand self-sustaining."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T21:20:09+00:00",
+   "last_seen": "2026-10-14T21:20:09+00:00",
+   "summary": "Marc Vanlerberghe\u2019s exit comes as new CEO William Herkelrath reviews initiatives and partnerships with the aim of making Algorand self-sustaining.",
+   "tags": []
+  },
+  {
+   "id": "7e1f7bc03d",
+   "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+   "date": "2026-10-14T21:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+     "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+     "date": "2026-10-14T21:16:03+00:00",
+     "summary": "Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T21:16:03+00:00",
+   "last_seen": "2026-10-14T21:16:03+00:00",
+   "summary": "Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "427e520ee9",
+   "title": "Surging dollar forces Bitcoin sell-off as rate hike odds double",
+   "date": "2026-10-14T21:10:50+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Surging dollar forces Bitcoin sell-off as rate hike odds double",
+     "url": "https://cryptoslate.com/surging-dollar-forces-bitcoin-sell-off-as-rate-hike-odds-double/",
+     "date": "2026-10-14T21:10:50+00:00",
+     "summary": "September US inflation reached 3.7%, lifting yields as markets increased bets on another rate rise before the October 27\u201328 Fed meeting. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T21:10:50+00:00",
+   "last_seen": "2026-10-14T21:10:50+00:00",
+   "summary": "September US inflation reached 3.7%, lifting yields as markets increased bets on another rate rise before the October 27\u201328 Fed meeting. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "5eac197f98",
+   "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+   "date": "2026-10-14T20:56:22+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Organizations join forces to fight Illinois crypto tax, after 6-month pause",
+     "url": "https://cointelegraph.com/news/cci-ba-fight-illinois-crypto-tax-pause?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-14T20:56:22+00:00",
+     "summary": "Illinois officials already agreed to delay implementation of a 0.2% tax on crypto assets, but industry-aligned organizations are pushing for summary judgment on the merits."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T20:56:22+00:00",
+   "last_seen": "2026-10-14T20:56:22+00:00",
+   "summary": "Illinois officials already agreed to delay implementation of a 0.2% tax on crypto assets, but industry-aligned organizations are pushing for summary judgment on the merits.",
+   "tags": []
+  },
   {
    "id": "d108b32015",
    "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",

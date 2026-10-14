@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-14T16:54:15.992666+00:00",
+ "updated": "2026-10-14T17:51:19.709310+00:00",
  "events": [
+  {
+   "id": "ae6b4e7de2",
+   "title": "\u2018You\u2019re committing crime in broad daylight\u2019: Kalshi CEO defends prediction markets amid insider trading concerns",
+   "date": "2026-10-14T17:47:18+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "\u2018You\u2019re committing crime in broad daylight\u2019: Kalshi CEO defends prediction markets amid insider trading concerns",
+     "url": "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601",
+     "date": "2026-10-14T17:47:18+00:00",
+     "summary": "As insider trading concerns are accumulating, one of the biggest platforms said its markets make it easier to suss out bad actors."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T17:47:18+00:00",
+   "last_seen": "2026-10-14T17:47:18+00:00",
+   "summary": "As insider trading concerns are accumulating, one of the biggest platforms said its markets make it easier to suss out bad actors.",
+   "tags": []
+  },
+  {
+   "id": "e927f19f53",
+   "title": "Rocket Pool Voters Back rETH Withdrawals, Keep 4 ETH Bonds",
+   "date": "2026-10-14T17:33:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Rocket Pool Voters Back rETH Withdrawals, Keep 4 ETH Bonds",
+     "url": "https://thedefiant.io/news/defi/rocket-pool-voters-back-reth-withdrawals-keep-4-eth-bonds",
+     "date": "2026-10-14T17:33:56+00:00",
+     "summary": "Voters chose random megapool exits and deferred an onchain governance expansion. The full Saturn 2 upgrade package still needs ratification."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T17:33:56+00:00",
+   "last_seen": "2026-10-14T17:33:56+00:00",
+   "summary": "Voters chose random megapool exits and deferred an onchain governance expansion. The full Saturn 2 upgrade package still needs ratification.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "11fbd99e04",
+   "title": "Bubblemaps Alleges Anglio-Linked Wallets Traded Ahead of Pump.fun Calls",
+   "date": "2026-10-14T17:14:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bubblemaps Alleges Anglio-Linked Wallets Traded Ahead of Pump.fun Calls",
+     "url": "https://thedefiant.io/news/tokens/bubblemaps-alleges-anglio-linked-wallets-traded-ahead-of-pump-fun-calls",
+     "date": "2026-10-14T17:14:39+00:00",
+     "summary": "The analytics firm estimates $50,000 in trading profits and $80,000 in callout rewards, as Pump.fun shifts payouts toward followers\u2019 returns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T17:14:39+00:00",
+   "last_seen": "2026-10-14T17:14:39+00:00",
+   "summary": "The analytics firm estimates $50,000 in trading profits and $80,000 in callout rewards, as Pump.fun shifts payouts toward followers\u2019 returns.",
+   "tags": []
+  },
+  {
+   "id": "e67b5b2216",
+   "title": "OCC report finds debanking efforts tied to crypto activities",
+   "date": "2026-10-14T17:03:20+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "OCC report finds debanking efforts tied to crypto activities",
+     "url": "https://cointelegraph.com/news/occ-trump-debanking-crypto-activities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-14T17:03:20+00:00",
+     "summary": "The report from the US banking regulator did not include specific examples of debanking related to crypto, but mentioned it alongside ties to oil, gas and firearms."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T17:03:20+00:00",
+   "last_seen": "2026-10-14T17:03:20+00:00",
+   "summary": "The report from the US banking regulator did not include specific examples of debanking related to crypto, but mentioned it alongside ties to oil, gas and firearms.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "26655afb7f",
    "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
@@ -1542,11 +1622,18 @@
      "url": "https://bitcoinmagazine.com/news/standard-chartered-debuts-bitcoin-trading-2",
      "date": "2026-10-14T16:22:15+00:00",
      "summary": "Bitcoin Magazine Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients The service allows affluent clients to buy bitcoin via their bank accounts. This post Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients first appeared on Bitcoin Magazine and is..."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
+     "url": "https://decrypt.co/380967/standard-chartered-bitcoin-ethereum-trading",
+     "date": "2026-10-14T17:46:05+00:00",
+     "summary": "The British bank won Dubai regulatory approval to let affluent clients buy BTC and ETH straight from their bank accounts, with custody and settlement kept in-house."
     }
    ],
-   "score": 40,
+   "score": 50,
    "first_seen": "2026-10-14T06:12:46+00:00",
-   "last_seen": "2026-10-14T16:22:15+00:00",
+   "last_seen": "2026-10-14T17:46:05+00:00",
    "summary": "Bitcoin Magazine Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients The service allows affluent clients to buy bitcoin via their bank accounts. This post Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients first appeared on Bitcoin Magazine and is...",
    "tags": [
     "bitcoin",

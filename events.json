@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-14T03:52:56.291610+00:00",
+ "updated": "2026-10-14T04:52:54.816067+00:00",
  "events": [
+  {
+   "id": "ead950ba29",
+   "title": "South Korea locks out crypto users as 27 exchange sites go dark",
+   "date": "2026-10-14T04:30:38+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "South Korea locks out crypto users as 27 exchange sites go dark",
+     "url": "https://cryptoslate.com/south-korea-locks-out-crypto-users-as-27-exchange-sites-go-dark/",
+     "date": "2026-10-14T04:30:38+00:00",
+     "summary": "FIU plans withdrawal guidance through DAXA with operators\u2019 cooperation as website restrictions raise access concerns for existing users. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T04:30:38+00:00",
+   "last_seen": "2026-10-14T04:30:38+00:00",
+   "summary": "FIU plans withdrawal guidance through DAXA with operators\u2019 cooperation as website restrictions raise access concerns for existing users. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "71b54d256f",
    "title": "Bitcoin climbs toward $84,000 after Fed\u2019s Williams sees no rate hikes in 2027",
@@ -1087,12 +1108,19 @@
      "url": "https://thedefiant.io/news/blockchains/anza-sets-oct-21-for-solana-s-alpenglow-mainnet-upgrade",
      "date": "2026-10-13T15:06:22+00:00",
      "summary": "The upgrade targets 150-millisecond finality, while validators and block-data providers face software changes before the switch."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "Solana sets Oct. 21 for Alpenglow upgrade targeting 150-millisecond finality",
+     "url": "https://www.coindesk.com/tech/2026/10/14/solana-sets-oct-21-for-alpenglow-upgrade-targeting-150-millisecond-finality",
+     "date": "2026-10-14T04:11:16+00:00",
+     "summary": "The switch will replace Solana\u2019s existing validator voting system, remove vote transactions from blocks and could sharply change headline transaction counts even if user activity stays flat."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-13T15:06:22+00:00",
-   "last_seen": "2026-10-13T15:06:22+00:00",
-   "summary": "The upgrade targets 150-millisecond finality, while validators and block-data providers face software changes before the switch.",
+   "last_seen": "2026-10-14T04:11:16+00:00",
+   "summary": "The switch will replace Solana\u2019s existing validator voting system, remove vote transactions from blocks and could sharply change headline transaction counts even if user activity stays flat.",
    "tags": [
     "solana"
    ]

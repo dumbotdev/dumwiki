@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-14T01:47:17.840466+00:00",
+ "updated": "2026-10-14T02:50:03.921834+00:00",
  "events": [
+  {
+   "id": "1e29285197",
+   "title": "Coinbase lays out flexible designs as key priority for Bitcoin\u2019s post-quantum migration",
+   "date": "2026-10-14T02:49:34+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Coinbase lays out flexible designs as key priority for Bitcoin\u2019s post-quantum migration",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-13-coinbase-bitcoin-post-quantum-migration-418509",
+     "date": "2026-10-14T02:49:34+00:00",
+     "summary": "Coinbase published priorities for Bitcoin's post-quantum transition, urging early preparation for signature upgrades and fund migration."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T02:49:34+00:00",
+   "last_seen": "2026-10-14T02:49:34+00:00",
+   "summary": "Coinbase published priorities for Bitcoin's post-quantum transition, urging early preparation for signature upgrades and fund migration.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "f69c6ecfc0",
+   "title": "SkyAI risks SEC offer failure if SOL falls under $100",
+   "date": "2026-10-14T02:20:08+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "SkyAI risks SEC offer failure if SOL falls under $100",
+     "url": "https://cryptoslate.com/skyai-risks-sec-offer-failure-if-sol-falls-under-100/",
+     "date": "2026-10-14T02:20:08+00:00",
+     "summary": "SkyAI reports about 80% of the required cash and approximately 600,000 SOL retained, while its proposed tender still carries waivable conditions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T02:20:08+00:00",
+   "last_seen": "2026-10-14T02:20:08+00:00",
+   "summary": "SkyAI reports about 80% of the required cash and approximately 600,000 SOL retained, while its proposed tender still carries waivable conditions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "regulation",
+    "solana"
+   ]
+  },
+  {
+   "id": "04e3560d07",
+   "title": "Bitwise\u2019s Hougan says Q3 charts point to \u2018crypto spring\u2019",
+   "date": "2026-10-14T02:19:56+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitwise\u2019s Hougan says Q3 charts point to \u2018crypto spring\u2019",
+     "url": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-14T02:19:56+00:00",
+     "summary": "Bitwise\u2019s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T02:19:56+00:00",
+   "last_seen": "2026-10-14T02:19:56+00:00",
+   "summary": "Bitwise\u2019s Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher.",
+   "tags": []
+  },
   {
    "id": "19d6e74496",
    "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",

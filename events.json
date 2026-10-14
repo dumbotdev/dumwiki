@@ -1,6 +1,131 @@
 {
- "updated": "2026-10-14T10:52:25.368733+00:00",
+ "updated": "2026-10-14T11:52:25.234362+00:00",
  "events": [
+  {
+   "id": "e27a8579ac",
+   "title": "How Bitcoin Works",
+   "date": "2026-10-14T11:52:16+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "How Bitcoin Works",
+     "url": "https://www.theblock.co/learn/campus/how-bitcoin-works-417659",
+     "date": "2026-10-14T11:52:16+00:00",
+     "summary": "Bitcoin 201 examines Bitcoin as a secure monetary network. It follows the system from rule enforcement and monetary design through fees, privacy, scaling, security, governance, mining economics, energy use, Lightning, and long-term adoption."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T11:52:16+00:00",
+   "last_seen": "2026-10-14T11:52:16+00:00",
+   "summary": "Bitcoin 201 examines Bitcoin as a secure monetary network. It follows the system from rule enforcement and monetary design through fees, privacy, scaling, security, governance, mining economics, energy use, Lightning, and long-term adoption.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "6dc05710b5",
+   "title": "Qivalis Secures Dutch E-Money License for Planned Euro Stablecoin",
+   "date": "2026-10-14T11:33:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Qivalis Secures Dutch E-Money License for Planned Euro Stablecoin",
+     "url": "https://thedefiant.io/converge/regulation/qivalis-secures-dutch-e-money-license-for-planned-euro-stablecoin",
+     "date": "2026-10-14T11:33:11+00:00",
+     "summary": "The 37-bank venture plans to distribute its token through financial intermediaries, with issuance expected in the coming months."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T11:33:11+00:00",
+   "last_seen": "2026-10-14T11:33:11+00:00",
+   "summary": "The 37-bank venture plans to distribute its token through financial intermediaries, with issuance expected in the coming months.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "9c8265f144",
+   "title": "Here's how analysts see U.S. inflation influencing bitcoin",
+   "date": "2026-10-14T11:15:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Here's how analysts see U.S. inflation influencing bitcoin",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/14/here-s-how-analysts-see-u-s-inflation-influencing-bitcoin",
+     "date": "2026-10-14T11:15:00+00:00",
+     "summary": "Your day-ahead look for Oct. 14, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T11:15:00+00:00",
+   "last_seen": "2026-10-14T11:15:00+00:00",
+   "summary": "Your day-ahead look for Oct. 14, 2026",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "52f5ebc6d8",
+   "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
+   "date": "2026-10-14T11:12:36+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Dutch central bank grants Qivalis e-money license for MiCA-compliant euro token",
+     "url": "https://www.coindesk.com/policy/2026/10/14/dutch-regulator-approves-qivalis-as-electronic-money-institution-under-mica-rules",
+     "date": "2026-10-14T11:12:36+00:00",
+     "summary": "Backed by BBVA, BNP Paribas, and ING, Qivalis secured Dutch regulatory authorization to offer onchain euro settlement infrastructure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T11:12:36+00:00",
+   "last_seen": "2026-10-14T11:12:36+00:00",
+   "summary": "Backed by BBVA, BNP Paribas, and ING, Qivalis secured Dutch regulatory authorization to offer onchain euro settlement infrastructure.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "b219062ef2",
+   "title": "Strive bought $280 million in Bitcoin, but Bitcoin per common share rose just 1.72%",
+   "date": "2026-10-14T11:10:07+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Strive bought $280 million in Bitcoin, but Bitcoin per common share rose just 1.72%",
+     "url": "https://cryptoslate.com/strives-bitcoin-buying-diverges-from-strategys-preferred-buyback-focus/",
+     "date": "2026-10-14T11:10:07+00:00",
+     "summary": "Strive added 3,311 BTC, but gross Bitcoin per effective common share increased just 1.72% as common and preferred share counts grew. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T11:10:07+00:00",
+   "last_seen": "2026-10-14T11:10:07+00:00",
+   "summary": "Strive added 3,311 BTC, but gross Bitcoin per effective common share increased just 1.72% as common and preferred share counts grew. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "63584d93ec",
+   "title": "Coins.ph says Philippine central bank license intact amid revocation claims",
+   "date": "2026-10-14T11:05:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Coins.ph says Philippine central bank license intact amid revocation claims",
+     "url": "https://cointelegraph.com/news/coinsph-says-bsp-license-intact-amid-claims-of-potential-revocation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-14T11:05:00+00:00",
+     "summary": "Coins.ph says its Philippine central bank license remains intact amid reports of possible revocation over alleged offshore gambling transactions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T11:05:00+00:00",
+   "last_seen": "2026-10-14T11:05:00+00:00",
+   "summary": "Coins.ph says its Philippine central bank license remains intact amid reports of possible revocation over alleged offshore gambling transactions.",
+   "tags": []
+  },
   {
    "id": "91dba11acb",
    "title": "Bitcoin holds above $83,000 ahead of U.S. inflation data as altcoins lag",

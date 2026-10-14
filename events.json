@@ -1,6 +1,175 @@
 {
- "updated": "2026-10-14T14:52:44.364364+00:00",
+ "updated": "2026-10-14T15:56:52.397840+00:00",
  "events": [
+  {
+   "id": "118c87f0f2",
+   "title": "Standard Chartered pushes $2 trillion stablecoin market forecast to 2030 as supply growth stalls",
+   "date": "2026-10-14T15:47:18+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Standard Chartered pushes $2 trillion stablecoin market forecast to 2030 as supply growth stalls",
+     "url": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
+     "date": "2026-10-14T15:47:18+00:00",
+     "summary": "Standard Chartered Bank has pushed its $2 trillion stablecoin market forecast to 2030 from 2028 because supply growth has stalled this year."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T15:47:18+00:00",
+   "last_seen": "2026-10-14T15:47:18+00:00",
+   "summary": "Standard Chartered Bank has pushed its $2 trillion stablecoin market forecast to 2030 from 2028 because supply growth has stalled this year.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "dfc99e2f07",
+   "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
+   "date": "2026-10-14T15:35:36+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "AI agents make 138 million crypto payments as U.S. dominates spending on AI models",
+     "url": "https://www.coindesk.com/business/2026/10/14/ai-agents-make-138-million-crypto-payments-as-u-s-dominates-spending-on-ai-models",
+     "date": "2026-10-14T15:35:36+00:00",
+     "summary": "U.S.-linked wallets account for just over 88% of tracked AI model payments, dwarfing China\u2019s 0.1% share, according to new Chainalysis research."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T15:35:36+00:00",
+   "last_seen": "2026-10-14T15:35:36+00:00",
+   "summary": "U.S.-linked wallets account for just over 88% of tracked AI model payments, dwarfing China\u2019s 0.1% share, according to new Chainalysis research.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "33dfa72bea",
+   "title": "Bitcoin Fog operator\u2019s conviction upheld without Chainalysis disclosing source code",
+   "date": "2026-10-14T15:30:57+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin Fog operator\u2019s conviction upheld without Chainalysis disclosing source code",
+     "url": "https://cryptoslate.com/bitcoin-fog-appeal-upheld-wallet-tracing-without-requiring-its-source-code/",
+     "date": "2026-10-14T15:30:57+00:00",
+     "summary": "The September 25 ruling relied on corroborated Reactor testimony and a case-specific failure to justify source-code access. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T15:30:57+00:00",
+   "last_seen": "2026-10-14T15:30:57+00:00",
+   "summary": "The September 25 ruling relied on corroborated Reactor testimony and a case-specific failure to justify source-code access. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "e0bdcef0d7",
+   "title": "EBA Names USDC the EU\u2019s First \u2018Significant\u2019 E-Money Token",
+   "date": "2026-10-14T15:12:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "EBA Names USDC the EU\u2019s First \u2018Significant\u2019 E-Money Token",
+     "url": "https://thedefiant.io/converge/regulation/eba-names-usdc-the-eu-s-first-significant-e-money-token",
+     "date": "2026-10-14T15:12:07+00:00",
+     "summary": "Financial supervision shifts to the EBA on Nov. 12, while France\u2019s ACPR keeps responsibility for governance and other corporate matters."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T15:12:07+00:00",
+   "last_seen": "2026-10-14T15:12:07+00:00",
+   "summary": "Financial supervision shifts to the EBA on Nov. 12, while France\u2019s ACPR keeps responsibility for governance and other corporate matters.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "bea0aae20e",
+   "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
+   "date": "2026-10-14T15:05:15+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto Long & Short: Why gold and bitcoin belong in the same portfolio",
+     "url": "https://www.coindesk.com/coindesk-indices/2026/10/14/crypto-long-and-short-why-gold-and-bitcoin-belong-in-the-same-portfolio",
+     "date": "2026-10-14T15:05:15+00:00",
+     "summary": ""
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T15:05:15+00:00",
+   "last_seen": "2026-10-14T15:05:15+00:00",
+   "summary": "",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "96919f75ba",
+   "title": "Bitcoin plunges to $81,300 support as Fed hike odds hit 55% amid $100 million crypto wipeout",
+   "date": "2026-10-14T15:00:32+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin plunges to $81,300 support as Fed hike odds hit 55% amid $100 million crypto wipeout",
+     "url": "https://cryptoslate.com/bitcoin-plunges-to-81300-support-as-fed-hike-odds-hit-55-amid-100-million-crypto-wipeout/",
+     "date": "2026-10-14T15:00:32+00:00",
+     "summary": "Bitcoin fell below $83,000 on Wednesday as hotter-than-expected US core inflation data revived expectations of further Federal Reserve interest rate hikes, triggering a fresh wave of liquidations across the cryptocurrency market. CoinGlass data showed that over $100 million in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T15:00:32+00:00",
+   "last_seen": "2026-10-14T15:00:32+00:00",
+   "summary": "Bitcoin fell below $83,000 on Wednesday as hotter-than-expected US core inflation data revived expectations of further Federal Reserve interest rate hikes, triggering a fresh wave of liquidations across the cryptocurrency market. CoinGlass data showed that over $100 million in...",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "6793405519",
+   "title": "StarkWare launches OffMarket to let Polymarket users trade more privately",
+   "date": "2026-10-14T15:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "StarkWare launches OffMarket to let Polymarket users trade more privately",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-14-starkware-launches-offmarket-to-let-polymarket-users-trade-more-privately-418567",
+     "date": "2026-10-14T15:00:00+00:00",
+     "summary": "StarkWare has opened OffMarket to the public, allowing Polymarket users to trade without publicly linking positions to their accounts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T15:00:00+00:00",
+   "last_seen": "2026-10-14T15:00:00+00:00",
+   "summary": "StarkWare has opened OffMarket to the public, allowing Polymarket users to trade without publicly linking positions to their accounts.",
+   "tags": []
+  },
+  {
+   "id": "2d46f06624",
+   "title": "Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table",
+   "date": "2026-10-14T14:51:44+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table",
+     "url": "https://decrypt.co/380950/bitcoin-falls-hot-inflation-fed-hike-odds",
+     "date": "2026-10-14T14:51:44+00:00",
+     "summary": "September CPI hit 3.7%, above forecasts, sending Treasury yields higher and dragging crypto down with stocks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T14:51:44+00:00",
+   "last_seen": "2026-10-14T14:51:44+00:00",
+   "summary": "September CPI hit 3.7%, above forecasts, sending Treasury yields higher and dragging crypto down with stocks.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
   {
    "id": "4462c018f4",
    "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
@@ -261,11 +430,18 @@
      "url": "https://thedefiant.io/news/regulation/richard-heart-detained-in-istanbul-on-interpol-notice-turkish-media-report",
      "date": "2026-10-14T14:05:53+00:00",
      "summary": "Interpol\u2019s public record identifies Finland as the requesting jurisdiction and lists aggravated tax fraud; Heart\u2019s separate SEC case was dismissed in 2025."
+    },
+    {
+     "source": "The Block",
+     "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
+     "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
+     "date": "2026-10-14T15:53:15+00:00",
+     "summary": "Turkish reports say $4 million and 64 watches were seized. Police have yet to confirm Heart\u2019s detention."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-10-14T14:03:20+00:00",
-   "last_seen": "2026-10-14T14:05:53+00:00",
+   "last_seen": "2026-10-14T15:53:15+00:00",
    "summary": "Interpol\u2019s public record identifies Finland as the requesting jurisdiction and lists aggravated tax fraud; Heart\u2019s separate SEC case was dismissed in 2025.",
    "tags": [
     "legal",

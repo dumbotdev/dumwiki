@@ -1,6 +1,89 @@
 {
- "updated": "2026-10-14T17:51:19.709310+00:00",
+ "updated": "2026-10-14T19:00:22.394766+00:00",
  "events": [
+  {
+   "id": "573ea0304d",
+   "title": "Ripple targets trillion-dollar securities markets with new US brokerage and South Korean deals",
+   "date": "2026-10-14T18:40:19+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ripple targets trillion-dollar securities markets with new US brokerage and South Korean deals",
+     "url": "https://cryptoslate.com/ripple-targets-trillion-dollar-securities-markets-with-new-us-brokerage-and-south-korean-deals/",
+     "date": "2026-10-14T18:40:19+00:00",
+     "summary": "Ripple calls Meritz its fourth Korean institutional partner this year, with custody and tokenization cooperation to widen as regulation develops. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T18:40:19+00:00",
+   "last_seen": "2026-10-14T18:40:19+00:00",
+   "summary": "Ripple calls Meritz its fourth Korean institutional partner this year, with custody and tokenization cooperation to widen as regulation develops. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "fd180e5859",
+   "title": "Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month",
+   "date": "2026-10-14T18:25:54+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month",
+     "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
+     "date": "2026-10-14T18:25:54+00:00",
+     "summary": "SkyAI's SOL treasury fell 70% in under a month, with 400,000 SOL unexplained. Bastion Trading won't tender at $3 a share and wants $3.50."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T18:25:54+00:00",
+   "last_seen": "2026-10-14T18:25:54+00:00",
+   "summary": "SkyAI's SOL treasury fell 70% in under a month, with 400,000 SOL unexplained. Bastion Trading won't tender at $3 a share and wants $3.50.",
+   "tags": [
+    "macro",
+    "solana"
+   ]
+  },
+  {
+   "id": "d7be75caf8",
+   "title": "US authorities dismantle crypto scam network that stole tens of millions",
+   "date": "2026-10-14T17:56:45+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US authorities dismantle crypto scam network that stole tens of millions",
+     "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-14T17:56:45+00:00",
+     "summary": "Brooklyn prosecutors and the FBI seized 112 servers and shut down 241 websites linked to investment scams that targeted Russian-speaking Americans."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T17:56:45+00:00",
+   "last_seen": "2026-10-14T17:56:45+00:00",
+   "summary": "Brooklyn prosecutors and the FBI seized 112 servers and shut down 241 websites linked to investment scams that targeted Russian-speaking Americans.",
+   "tags": []
+  },
+  {
+   "id": "0385b3fe16",
+   "title": "Ethereum\u2019s quantum race takes a new turn as zkSync courts banks and Starknet weighs exit",
+   "date": "2026-10-14T17:50:35+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum\u2019s quantum race takes a new turn as zkSync courts banks and Starknet weighs exit",
+     "url": "https://cryptoslate.com/ethereums-quantum-race-takes-a-new-turn-as-zksync-courts-banks-and-starknet-weighs-exit/",
+     "date": "2026-10-14T17:50:35+00:00",
+     "summary": "ZkSync announced Airbender Prime, a prover that Matter Labs says handled 99% of 7,200 consecutive Ethereum mainnet blocks in under 10 seconds each on a single NVIDIA RTX PRO 6000 Blackwell GPU. The announcement came five days after Starknet said it is actively considering..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T17:50:35+00:00",
+   "last_seen": "2026-10-14T17:50:35+00:00",
+   "summary": "ZkSync announced Airbender Prime, a prover that Matter Labs says handled 99% of 7,200 consecutive Ethereum mainnet blocks in under 10 seconds each on a single NVIDIA RTX PRO 6000 Blackwell GPU. The announcement came five days after Starknet said it is actively considering...",
+   "tags": [
+    "ethereum"
+   ]
+  },
   {
    "id": "ae6b4e7de2",
    "title": "\u2018You\u2019re committing crime in broad daylight\u2019: Kalshi CEO defends prediction markets amid insider trading concerns",

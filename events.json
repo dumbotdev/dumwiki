@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-14T19:00:22.394766+00:00",
+ "updated": "2026-10-14T19:50:18.242235+00:00",
  "events": [
+  {
+   "id": "ce9a323fe4",
+   "title": "Solana Sets a Date for Its Next Major Upgrade",
+   "date": "2026-10-14T19:16:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Solana Sets a Date for Its Next Major Upgrade",
+     "url": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
+     "date": "2026-10-14T19:16:04+00:00",
+     "summary": "Solana's Alpenglow upgrade replaces the TowerBFT voting system on October 21, cutting finality from 12.8 seconds to a target of 150ms and pulling vote transactions out of blocks entirely."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T19:16:04+00:00",
+   "last_seen": "2026-10-14T19:16:04+00:00",
+   "summary": "Solana's Alpenglow upgrade replaces the TowerBFT voting system on October 21, cutting finality from 12.8 seconds to a target of 150ms and pulling vote transactions out of blocks entirely.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "859f50584a",
+   "title": "Specter Links ProveX\u2019s January ETH Inflows to Earlier Heart-Linked Funds",
+   "date": "2026-10-14T19:11:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Specter Links ProveX\u2019s January ETH Inflows to Earlier Heart-Linked Funds",
+     "url": "https://thedefiant.io/news/hacks/specter-links-provex-s-january-eth-inflows-to-earlier-heart-linked-funds",
+     "date": "2026-10-14T19:11:18+00:00",
+     "summary": "The receiving address was published by Heart for a campaign that warned participants their coins could be sold and they would receive no benefit."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T19:11:18+00:00",
+   "last_seen": "2026-10-14T19:11:18+00:00",
+   "summary": "The receiving address was published by Heart for a campaign that warned participants their coins could be sold and they would receive no benefit.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "91c3fcf78f",
+   "title": "EU authority classifies Circle\u2019s USDC as \u2018significant\u2019 under MiCA",
+   "date": "2026-10-14T19:03:52+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "EU authority classifies Circle\u2019s USDC as \u2018significant\u2019 under MiCA",
+     "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-14T19:03:52+00:00",
+     "summary": "The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classification as a \u201csignificant e-money token.\u201c"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T19:03:52+00:00",
+   "last_seen": "2026-10-14T19:03:52+00:00",
+   "summary": "The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classification as a \u201csignificant e-money token.\u201c",
+   "tags": [
+    "regulation",
+    "stablecoins"
+   ]
+  },
   {
    "id": "573ea0304d",
    "title": "Ripple targets trillion-dollar securities markets with new US brokerage and South Korean deals",
@@ -3519,15 +3583,24 @@
      "url": "https://www.coindesk.com/business/2026/10/13/russia-s-largest-bank-sberbank-secures-approval-to-trade-crypto",
      "date": "2026-10-13T11:02:47+00:00",
      "summary": "Sberbank plans to open crypto trading to all clients Dec. 1 and is already testing BTC, ETH and USDT trades in its app."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+     "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+     "date": "2026-10-14T19:46:03+00:00",
+     "summary": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-13T11:02:47+00:00",
-   "last_seen": "2026-10-13T11:02:47+00:00",
-   "summary": "Sberbank plans to open crypto trading to all clients Dec. 1 and is already testing BTC, ETH and USDT trades in its app.",
+   "last_seen": "2026-10-14T19:46:03+00:00",
+   "summary": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
    "tags": [
     "bitcoin",
     "ethereum",
+    "exchanges",
+    "regulation",
     "stablecoins"
    ]
   },

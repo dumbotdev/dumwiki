@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-13T23:44:36.159774+00:00",
+ "updated": "2026-10-14T01:03:00.352582+00:00",
  "events": [
+  {
+   "id": "19d6e74496",
+   "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+   "date": "2026-10-14T01:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Largest Philippines crypto exchange, Coins.ph, said to face central bank regulatory action",
+     "url": "https://www.coindesk.com/policy/2026/10/13/largest-philippines-crypto-exchange-coins-ph-said-to-face-central-bank-regulatory-action",
+     "date": "2026-10-14T01:00:00+00:00",
+     "summary": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T01:00:00+00:00",
+   "last_seen": "2026-10-14T01:00:00+00:00",
+   "summary": "The exchange, which has over 18 million customers, is said to have handled business transactions involving restricted offshore gaming and gambling companies.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "3bb31c86ac",
+   "title": "Metaplanet unveils $380 million share buyback after stock crashes nearly 90% from peak",
+   "date": "2026-10-14T00:30:45+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Metaplanet unveils $380 million share buyback after stock crashes nearly 90% from peak",
+     "url": "https://cryptoslate.com/metaplanet-unveils-380-million-share-buyback-after-stock-crashes-nearly-90-from-peak/",
+     "date": "2026-10-14T00:30:45+00:00",
+     "summary": "Metaplanet plans to raise $329 million to refinance Bitcoin-backed loans and fund share buybacks after its stock has declined 90% from its peak. On Oct. 13, the Japanese Bitcoin treasury company announced plans to issue \u00a552 billion ($329 million) in unsecured, zero-coupon..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T00:30:45+00:00",
+   "last_seen": "2026-10-14T00:30:45+00:00",
+   "summary": "Metaplanet plans to raise $329 million to refinance Bitcoin-backed loans and fund share buybacks after its stock has declined 90% from its peak. On Oct. 13, the Japanese Bitcoin treasury company announced plans to issue \u00a552 billion ($329 million) in unsecured, zero-coupon...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
   {
    "id": "66fa8bd593",
    "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",

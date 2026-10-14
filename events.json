@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-14T07:54:49.953152+00:00",
+ "updated": "2026-10-14T08:54:37.291711+00:00",
  "events": [
+  {
+   "id": "642121ebb9",
+   "title": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
+   "date": "2026-10-14T08:48:11+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",
+     "url": "https://www.coindesk.com/policy/2026/10/14/proposed-french-tax-on-regulated-stablecoins-could-drive-crypto-traders-offshore",
+     "date": "2026-10-14T08:48:11+00:00",
+     "summary": "Chainalysis CEO in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T08:48:11+00:00",
+   "last_seen": "2026-10-14T08:48:11+00:00",
+   "summary": "Chainalysis CEO in France Francois Volpoet warned the proposed 31.4% tax on regulated stablecoins could push traders toward unmonitored offshore channels.",
+   "tags": []
+  },
+  {
+   "id": "6e086b559e",
+   "title": "PancakeSwap Proposes 88% LP Fee Share and 69% CAKE Emissions Cut",
+   "date": "2026-10-14T08:01:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "PancakeSwap Proposes 88% LP Fee Share and 69% CAKE Emissions Cut",
+     "url": "https://thedefiant.io/news/defi/pancakeswap-proposes-88-lp-fee-share-and-69-cake-emissions-cut",
+     "date": "2026-10-14T08:01:08+00:00",
+     "summary": "The discussion-stage plan would send the remaining v3 and Infinity fees to the treasury, while leaving v2\u2019s CAKE burn mechanism intact."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T08:01:08+00:00",
+   "last_seen": "2026-10-14T08:01:08+00:00",
+   "summary": "The discussion-stage plan would send the remaining v3 and Infinity fees to the treasury, while leaving v2\u2019s CAKE burn mechanism intact.",
+   "tags": [
+    "macro"
+   ]
+  },
   {
    "id": "a5864c681e",
    "title": "Binance updates Anthropic mark per second to stop liquidation",
@@ -34,15 +74,23 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-bitcoin-and-ether-trading-for-affluent-uae-clients",
      "date": "2026-10-14T06:12:46+00:00",
      "summary": "The bank\u2019s closed-loop service bars external crypto transfers and charges a spread of up to 2%."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "Standard Chartered unlocks direct bitcoin and ether trading for affluent UAE clients",
+     "url": "https://www.coindesk.com/business/2026/10/14/standard-chartered-unlocks-direct-bitcoin-and-ether-trading-for-affluent-uae-clients",
+     "date": "2026-10-14T08:10:07+00:00",
+     "summary": "The bank manages custody and settlement in-house via a closed-loop model, removing the need for separate crypto wallets."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-14T06:12:46+00:00",
-   "last_seen": "2026-10-14T06:12:46+00:00",
-   "summary": "The bank\u2019s closed-loop service bars external crypto transfers and charges a spread of up to 2%.",
+   "last_seen": "2026-10-14T08:10:07+00:00",
+   "summary": "The bank manages custody and settlement in-house via a closed-loop model, removing the need for separate crypto wallets.",
    "tags": [
     "bitcoin",
-    "ethereum"
+    "ethereum",
+    "legal"
    ]
   },
   {

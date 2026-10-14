@@ -1,6 +1,92 @@
 {
- "updated": "2026-10-14T04:52:54.816067+00:00",
+ "updated": "2026-10-14T05:49:51.668455+00:00",
  "events": [
+  {
+   "id": "f8f8266ad8",
+   "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+   "date": "2026-10-14T05:44:51+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",
+     "url": "https://www.coindesk.com/tech/2026/10/14/coinbase-which-holds-5-of-all-bitcoin-wants-the-quantum-fix-started-now",
+     "date": "2026-10-14T05:44:51+00:00",
+     "summary": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T05:44:51+00:00",
+   "last_seen": "2026-10-14T05:44:51+00:00",
+   "summary": "Coinbase says bitcoin should start preparing for quantum computers now, with flexible addresses, a backup quantum-proof key and a separate debate over lost coins.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "a6199bb8a5",
+   "title": "Starknet introduces wallet privacy feature for DeFi activity",
+   "date": "2026-10-14T05:32:14+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Starknet introduces wallet privacy feature for DeFi activity",
+     "url": "https://cointelegraph.com/news/starknet-introduces-wallet-privacy-feature-for-defi-activity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-14T05:32:14+00:00",
+     "summary": "Starknet\u2019s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T05:32:14+00:00",
+   "last_seen": "2026-10-14T05:32:14+00:00",
+   "summary": "Starknet\u2019s Shadow Accounts allow users to obscure connections between their main wallets and DeFi activity, though transactions remain visible onchain.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "1f0692b06d",
+   "title": "Fed\u2019s Williams sees AI supply squeeze lasting beyond 2 years",
+   "date": "2026-10-14T05:30:10+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Fed\u2019s Williams sees AI supply squeeze lasting beyond 2 years",
+     "url": "https://cointelegraph.com/markets/feds-williams-sees-ai-supply-squeeze-lasting-beyond-2-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-14T05:30:10+00:00",
+     "summary": "New York Fed President John Williams\u2019 comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T05:30:10+00:00",
+   "last_seen": "2026-10-14T05:30:10+00:00",
+   "summary": "New York Fed President John Williams\u2019 comments came as he reaffirmed his view that the US Federal Reserve may need to raise interest rates once more this year.",
+   "tags": [
+    "ai",
+    "macro"
+   ]
+  },
+  {
+   "id": "4e86e93287",
+   "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+   "date": "2026-10-14T05:24:12+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ripple adds Stripe-owned wallets to XRP Ledger as AI payments pass 14 million",
+     "url": "https://www.coindesk.com/tech/2026/10/14/ripple-adds-stripe-owned-wallets-to-xrp-ledger-as-ai-payments-pass-14-million",
+     "date": "2026-10-14T05:24:12+00:00",
+     "summary": "The integration will let software pay for online services using XRP and RLUSD, while questions remain about how much real economic activity the transactions represent."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T05:24:12+00:00",
+   "last_seen": "2026-10-14T05:24:12+00:00",
+   "summary": "The integration will let software pay for online services using XRP and RLUSD, while questions remain about how much real economic activity the transactions represent.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "ead950ba29",
    "title": "South Korea locks out crypto users as 27 exchange sites go dark",

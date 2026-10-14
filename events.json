@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-14T02:50:03.921834+00:00",
+ "updated": "2026-10-14T03:52:56.291610+00:00",
  "events": [
+  {
+   "id": "71b54d256f",
+   "title": "Bitcoin climbs toward $84,000 after Fed\u2019s Williams sees no rate hikes in 2027",
+   "date": "2026-10-14T03:50:54+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin climbs toward $84,000 after Fed\u2019s Williams sees no rate hikes in 2027",
+     "url": "https://www.coindesk.com/markets/2026/10/14/bitcoin-climbs-toward-usd84-000-after-fed-s-williams-sees-no-rate-hikes-in-2027",
+     "date": "2026-10-14T03:50:54+00:00",
+     "summary": "ZEC led a broad bounce among major tokens, and Korean chipmakers snapped a five-day losing streak ahead of Thursday\u2019s U.S. inflation data."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T03:50:54+00:00",
+   "last_seen": "2026-10-14T03:50:54+00:00",
+   "summary": "ZEC led a broad bounce among major tokens, and Korean chipmakers snapped a five-day losing streak ahead of Thursday\u2019s U.S. inflation data.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
   {
    "id": "1e29285197",
    "title": "Coinbase lays out flexible designs as key priority for Bitcoin\u2019s post-quantum migration",

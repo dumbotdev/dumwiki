@@ -1,6 +1,178 @@
 {
- "updated": "2026-10-14T13:02:34.162346+00:00",
+ "updated": "2026-10-14T13:53:26.068886+00:00",
  "events": [
+  {
+   "id": "bb0db2728c",
+   "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
+   "date": "2026-10-14T13:51:12+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",
+     "url": "https://www.coindesk.com/opinion/2026/10/14/the-battle-over-the-ratepayer-protection-act-is-just-getting-started",
+     "date": "2026-10-14T13:51:12+00:00",
+     "summary": "Congress must decide how the U.S. can build the infrastructure its booming digital economy requires while protecting the communities that host it."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T13:51:12+00:00",
+   "last_seen": "2026-10-14T13:51:12+00:00",
+   "summary": "Congress must decide how the U.S. can build the infrastructure its booming digital economy requires while protecting the communities that host it.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "f54e5c36fa",
+   "title": "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad",
+   "date": "2026-10-14T13:41:21+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Notorious Crypto Celeb Meme Coin Promoter Plots Second Wave on New Launchpad",
+     "url": "https://decrypt.co/380928/notorious-crypto-celeb-meme-coin-promoter-plots-second-wave-on-new-launchpad",
+     "date": "2026-10-14T13:41:21+00:00",
+     "summary": "Sahil Arora says he's not done with celebrity meme coins, and that Fomo presents new possible strategies for his controversial schemes."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T13:41:21+00:00",
+   "last_seen": "2026-10-14T13:41:21+00:00",
+   "summary": "Sahil Arora says he's not done with celebrity meme coins, and that Fomo presents new possible strategies for his controversial schemes.",
+   "tags": [
+    "memecoins"
+   ]
+  },
+  {
+   "id": "0dc44109b9",
+   "title": "Bitcoin whales accumulate ahead of crucial US inflation report as $744 million exits ETFs",
+   "date": "2026-10-14T13:30:53+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin whales accumulate ahead of crucial US inflation report as $744 million exits ETFs",
+     "url": "https://cryptoslate.com/bitcoin-whales-accumulate-ahead-of-crucial-us-inflation-report-as-744-million-exits-etfs/",
+     "date": "2026-10-14T13:30:53+00:00",
+     "summary": "Bitcoin whales are accumulating before Wednesday&#039;s US inflation report, despite $744 million in recent spot ETF withdrawals. According to an Oct. 13 CryptoQuant report, large holders have increased their combined Bitcoin holdings to 3.03 million BTC, with accumulation..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T13:30:53+00:00",
+   "last_seen": "2026-10-14T13:30:53+00:00",
+   "summary": "Bitcoin whales are accumulating before Wednesday&#039;s US inflation report, despite $744 million in recent spot ETF withdrawals. According to an Oct. 13 CryptoQuant report, large holders have increased their combined Bitcoin holdings to 3.03 million BTC, with accumulation...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "macro"
+   ]
+  },
+  {
+   "id": "a533f69389",
+   "title": "\u2018Bunker mode\u2019 won\u2019t protect your crypto, critics say",
+   "date": "2026-10-14T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "\u2018Bunker mode\u2019 won\u2019t protect your crypto, critics say",
+     "url": "https://cointelegraph.com/magazine/bunker-mode-wont-protect-your-crypto-critics-say?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-14T13:30:00+00:00",
+     "summary": "Even if Justin Drake\u2019s prediction that AI could break cryptography proves correct, critics say \u201cbunker mode\u201d is an impractical suggestion that\u2019s unlikely to protect your crypto."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T13:30:00+00:00",
+   "last_seen": "2026-10-14T13:30:00+00:00",
+   "summary": "Even if Justin Drake\u2019s prediction that AI could break cryptography proves correct, critics say \u201cbunker mode\u201d is an impractical suggestion that\u2019s unlikely to protect your crypto.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "7a2452fc6b",
+   "title": "OCC Finds Debanking Policies at Nine Major US Banks",
+   "date": "2026-10-14T13:28:38+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OCC Finds Debanking Policies at Nine Major US Banks",
+     "url": "https://thedefiant.io/converge/regulation/occ-finds-debanking-policies-at-nine-major-us-banks",
+     "date": "2026-10-14T13:28:38+00:00",
+     "summary": "Digital-asset issuers and exchanges faced restrictions, while the regulator is considering further rules without announcing bank-specific penalties."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T13:28:38+00:00",
+   "last_seen": "2026-10-14T13:28:38+00:00",
+   "summary": "Digital-asset issuers and exchanges faced restrictions, while the regulator is considering further rules without announcing bank-specific penalties.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "81e520a70a",
+   "title": "Strategy\u2019s preferred stock financing may cost it bitcoin, K33 argues",
+   "date": "2026-10-14T13:20:46+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Strategy\u2019s preferred stock financing may cost it bitcoin, K33 argues",
+     "url": "https://www.theblock.co/news/markets/2026-10-14-strategys-preferred-stock-financing-may-cost-it-bitcoin-k33-argues-418543",
+     "date": "2026-10-14T13:20:46+00:00",
+     "summary": "K33 argues Strategy could accumulate more bitcoin over time by relying on common stock issuance rather than preferred shares."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T13:20:46+00:00",
+   "last_seen": "2026-10-14T13:20:46+00:00",
+   "summary": "K33 argues Strategy could accumulate more bitcoin over time by relying on common stock issuance rather than preferred shares.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "fb8416ba51",
+   "title": "EQX Plans 11 Tokenized Stock and ETF Markets on Hyperliquid",
+   "date": "2026-10-14T13:19:45+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "EQX Plans 11 Tokenized Stock and ETF Markets on Hyperliquid",
+     "url": "https://thedefiant.io/news/defi/eqx-plans-11-tokenized-stock-and-etf-markets-on-hyperliquid",
+     "date": "2026-10-14T13:19:45+00:00",
+     "summary": "The share-backed tokens would trade on HyperCore against USDC, with US persons excluded under EQX\u2019s eligibility rules."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T13:19:45+00:00",
+   "last_seen": "2026-10-14T13:19:45+00:00",
+   "summary": "The share-backed tokens would trade on HyperCore against USDC, with US persons excluded under EQX\u2019s eligibility rules.",
+   "tags": [
+    "etfs",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "6e30dc7c7a",
+   "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+   "date": "2026-10-14T13:07:45+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Kraken parent Payward to become first crypto firm to buy a EU bank as it expands into deposits, lending",
+     "url": "https://www.coindesk.com/business/2026/10/14/kraken-parent-payward-to-become-first-crypto-firm-to-buy-a-eu-bank-as-it-expands-into-deposits-lending",
+     "date": "2026-10-14T13:07:45+00:00",
+     "summary": "Payward agreed to buy Lithuania\u2019s Saldo Bank, which holds $190 million in total assets, securing an EU license for deposits and lending."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T13:07:45+00:00",
+   "last_seen": "2026-10-14T13:07:45+00:00",
+   "summary": "Payward agreed to buy Lithuania\u2019s Saldo Bank, which holds $190 million in total assets, securing an EU license for deposits and lending.",
+   "tags": [
+    "defi",
+    "exchanges"
+   ]
+  },
   {
    "id": "74fa3b97b5",
    "title": "DriveWealth to use Ripple\u2019s RLUSD for stablecoin settlement, cross-border payments",
@@ -44,6 +216,27 @@
    "tags": [
     "funding",
     "stablecoins"
+   ]
+  },
+  {
+   "id": "1ec5825ae8",
+   "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
+   "date": "2026-10-14T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Canada crypto remittances to Asian countries surge 141% to $2.36B: Chainalysis",
+     "url": "https://cointelegraph.com/news/canada-crypto-remittances-asia-surge-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-14T13:00:00+00:00",
+     "summary": "Remittance-sized crypto transfers from Canada to three Asian countries reached $2.36 billion, while transfers to the Philippines alone rose 28% to $61 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T13:00:00+00:00",
+   "last_seen": "2026-10-14T13:00:00+00:00",
+   "summary": "Remittance-sized crypto transfers from Canada to three Asian countries reached $2.36 billion, while transfers to the Philippines alone rose 28% to $61 million.",
+   "tags": [
+    "markets"
    ]
   },
   {
@@ -185,12 +378,19 @@
      "url": "https://www.theblock.co/news/deals/2026-10-14-evernorth-taps-ripple-kraken-coinbase-bitgo-xrp-treasury-work-418503",
      "date": "2026-10-14T12:00:00+00:00",
      "summary": "Evernorth said it is planning a phased move into XRP lending and yield strategies following its Nasdaq debut."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Evernorth Taps Ripple, Kraken, Coinbase and BitGo for XRP Yield Push",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/evernorth-taps-ripple-kraken-coinbase-and-bitgo-for-xrp-yield-push",
+     "date": "2026-10-14T13:07:23+00:00",
+     "summary": "The Nasdaq-listed treasury company plans to start institutional strategies in Q4, with direct XRP Ledger credit-market investments to follow as the infrastructure matures."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-14T12:00:00+00:00",
-   "last_seen": "2026-10-14T12:00:00+00:00",
-   "summary": "Evernorth said it is planning a phased move into XRP lending and yield strategies following its Nasdaq debut.",
+   "last_seen": "2026-10-14T13:07:23+00:00",
+   "summary": "The Nasdaq-listed treasury company plans to start institutional strategies in Q4, with direct XRP Ledger credit-market investments to follow as the infrastructure matures.",
    "tags": [
     "defi",
     "exchanges",
@@ -1009,11 +1209,18 @@
      "url": "https://thedefiant.io/news/security/ledger-asks-resellers-to-halt-sales-in-seven-asian-markets",
      "date": "2026-10-13T22:12:02+00:00",
      "summary": "The hardware-wallet maker says confirmed incidents remain confined to Southeast Asia, with no indication its systems or direct sales channel were compromised."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
+     "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
+     "date": "2026-10-14T13:47:44+00:00",
+     "summary": "European electronics chain MediaMarkt Saturn has also halted Ledger sales after a customer in Germany reported finding an implant."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-13T22:12:02+00:00",
-   "last_seen": "2026-10-13T22:12:02+00:00",
+   "last_seen": "2026-10-14T13:47:44+00:00",
    "summary": "The hardware-wallet maker says confirmed incidents remain confined to Southeast Asia, with no indication its systems or direct sales channel were compromised.",
    "tags": []
   },
@@ -1155,11 +1362,18 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/bny-and-citadel-securities-use-tokenized-treasury-in-overnight-repo",
      "date": "2026-10-13T20:47:14+00:00",
      "summary": "A two-year note settled within minutes on BNY\u2019s private digital ledger before Citadel Securities used it to raise cash."
+    },
+    {
+     "source": "The Block",
+     "title": "BNY, Citadel Securities complete Treasury repo in first use of tokenized assets on major triparty platform",
+     "url": "https://www.theblock.co/news/business/2026-10-14-bny-citadel-securities-complete-treasury-repo-in-first-use-of-tokenized-assets-on-major-triparty-platform-418534",
+     "date": "2026-10-14T13:21:37+00:00",
+     "summary": "BNY and Citadel Securities completed the first tokenized U.S. Treasury repo workflow on a major triparty platform."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-13T20:47:14+00:00",
-   "last_seen": "2026-10-13T20:47:14+00:00",
+   "last_seen": "2026-10-14T13:21:37+00:00",
    "summary": "A two-year note settled within minutes on BNY\u2019s private digital ledger before Citadel Securities used it to raise cash.",
    "tags": [
     "macro"

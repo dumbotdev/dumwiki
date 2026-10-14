@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-14T08:54:37.291711+00:00",
+ "updated": "2026-10-14T09:52:22.926943+00:00",
  "events": [
+  {
+   "id": "694edd40c0",
+   "title": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
+   "date": "2026-10-14T09:45:53+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Bitcoin tumbles from near $84,000 ahead of U.S. inflation data",
+     "url": "https://www.coindesk.com/business/2026/10/14/live-updates-bitcoin-tumbles-from-near-usd84-000-ahead-of-u-s-inflation-data",
+     "date": "2026-10-14T09:45:53+00:00",
+     "summary": "A brief run at $84,000 faded within the hour as tech stocks stalled and the chip selloff rolled on. Traders are waiting on the September CPI print."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T09:45:53+00:00",
+   "last_seen": "2026-10-14T09:45:53+00:00",
+   "summary": "A brief run at $84,000 faded within the hour as tech stocks stalled and the chip selloff rolled on. Traders are waiting on the September CPI print.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "68deacb298",
+   "title": "Interactive Brokers moves into Ethereum\u2019s $110 billion staking market as institutional demand accelerates",
+   "date": "2026-10-14T09:10:03+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Interactive Brokers moves into Ethereum\u2019s $110 billion staking market as institutional demand accelerates",
+     "url": "https://cryptoslate.com/interactive-brokers-moves-into-ethereums-110-billion-staking-market-as-institutional-demand-accelerates/",
+     "date": "2026-10-14T09:10:03+00:00",
+     "summary": "Zerohash rewards can compound after fees, while eligibility rules and unstaking delays limit access to the service and funds. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T09:10:03+00:00",
+   "last_seen": "2026-10-14T09:10:03+00:00",
+   "summary": "Zerohash rewards can compound after fees, while eligibility rules and unstaking delays limit access to the service and funds. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
   {
    "id": "642121ebb9",
    "title": "Proposed French tax on regulated stablecoins could drive crypto traders offshore",

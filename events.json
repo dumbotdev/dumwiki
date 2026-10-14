@@ -1,6 +1,91 @@
 {
- "updated": "2026-10-14T19:50:18.242235+00:00",
+ "updated": "2026-10-14T20:51:04.703404+00:00",
  "events": [
+  {
+   "id": "d108b32015",
+   "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
+   "date": "2026-10-14T20:30:15+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
+     "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+     "date": "2026-10-14T20:30:15+00:00",
+     "summary": "Leadership at the White House is shifting once again, as Patrick Witt\u2019s tenure as the administration\u2019s top crypto adviser comes to an end."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T20:30:15+00:00",
+   "last_seen": "2026-10-14T20:30:15+00:00",
+   "summary": "Leadership at the White House is shifting once again, as Patrick Witt\u2019s tenure as the administration\u2019s top crypto adviser comes to an end.",
+   "tags": []
+  },
+  {
+   "id": "ba9c9d0c4e",
+   "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
+   "date": "2026-10-14T20:16:05+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
+     "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+     "date": "2026-10-14T20:16:05+00:00",
+     "summary": "A new Chainalysis report found payments through Coinbase\u2019s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T20:16:05+00:00",
+   "last_seen": "2026-10-14T20:16:05+00:00",
+   "summary": "A new Chainalysis report found payments through Coinbase\u2019s x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.",
+   "tags": [
+    "ai",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "5825a1ba13",
+   "title": "XLM Drops 4%, Lagging Bitcoin and Ether",
+   "date": "2026-10-14T20:08:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "XLM Drops 4%, Lagging Bitcoin and Ether",
+     "url": "https://thedefiant.io/news/markets/xlm-drops-4-lagging-bitcoin-and-ether",
+     "date": "2026-10-14T20:08:16+00:00",
+     "summary": "Stellar announced native Chainlink data services for DeFi applications, while XLM\u2019s seven-day loss reached 7.85%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T20:08:16+00:00",
+   "last_seen": "2026-10-14T20:08:16+00:00",
+   "summary": "Stellar announced native Chainlink data services for DeFi applications, while XLM\u2019s seven-day loss reached 7.85%.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "bd63a7e97c",
+   "title": "Kraken moves to acquire $181 million European bank in major push beyond crypto trading",
+   "date": "2026-10-14T19:50:24+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Kraken moves to acquire $181 million European bank in major push beyond crypto trading",
+     "url": "https://cryptoslate.com/kraken-moves-to-acquire-181-million-european-bank-in-major-push-beyond-crypto-trading/",
+     "date": "2026-10-14T19:50:24+00:00",
+     "summary": "Kraken&#039;s parent company, Payward, has agreed to acquire a European bank as it expands beyond cryptocurrency trading into traditional financial services. On Oct. 14, the company announced a definitive agreement to purchase Saldo Finance Oy, a Finnish holding company that..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T19:50:24+00:00",
+   "last_seen": "2026-10-14T19:50:24+00:00",
+   "summary": "Kraken&#039;s parent company, Payward, has agreed to acquire a European bank as it expands beyond cryptocurrency trading into traditional financial services. On Oct. 14, the company announced a definitive agreement to purchase Saldo Finance Oy, a Finnish holding company that...",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "ce9a323fe4",
    "title": "Solana Sets a Date for Its Next Major Upgrade",
@@ -1575,16 +1660,24 @@
      "url": "https://bitcoinmagazine.com/news/kraken-parent-company-to-buy-saldo-bank",
      "date": "2026-10-14T16:30:01+00:00",
      "summary": "Bitcoin Magazine Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push Top crypto exchange Kraken is pushing to offer other services other than digital assets. This post Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push first appeared on..."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Kraken Parent Payward Agrees to Buy Lithuania\u2019s Saldo Bank",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/kraken-parent-payward-agrees-to-buy-lithuania-s-saldo-bank",
+     "date": "2026-10-14T20:16:08+00:00",
+     "summary": "Saldo reported \u20ac196.9 million in assets at the end of June. The acquisition is expected to close in 2027, subject to regulatory approval."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-10-14T10:21:34+00:00",
-   "last_seen": "2026-10-14T16:30:01+00:00",
+   "last_seen": "2026-10-14T20:16:08+00:00",
    "summary": "Bitcoin Magazine Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push Top crypto exchange Kraken is pushing to offer other services other than digital assets. This post Kraken Parent Company Payward to Buy Saldo Bank in European Banking Push first appeared on...",
    "tags": [
     "bitcoin",
     "defi",
-    "exchanges"
+    "exchanges",
+    "funding"
    ]
   },
   {

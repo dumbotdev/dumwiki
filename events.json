@@ -1,6 +1,299 @@
 {
- "updated": "2026-10-14T13:53:26.068886+00:00",
+ "updated": "2026-10-14T14:52:44.364364+00:00",
  "events": [
+  {
+   "id": "4462c018f4",
+   "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
+   "date": "2026-10-14T14:49:32+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "EasyA hits $1.1 billion valuation, targets 2027 public listing and tokenized shares",
+     "url": "https://www.coindesk.com/business/2026/10/14/easya-hits-usd1-1-billion-valuation-targets-2027-public-listing-and-tokenized-shares",
+     "date": "2026-10-14T14:49:32+00:00",
+     "summary": "The blockchain and AI developer platform has completed two years of audits and wants its shares available onchain from the first day of trading."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T14:49:32+00:00",
+   "last_seen": "2026-10-14T14:49:32+00:00",
+   "summary": "The blockchain and AI developer platform has completed two years of audits and wants its shares available onchain from the first day of trading.",
+   "tags": [
+    "ai",
+    "funding"
+   ]
+  },
+  {
+   "id": "23743a24ba",
+   "title": "Babylon Advances Native Bitcoin Collateral Plan for Aave V4",
+   "date": "2026-10-14T14:39:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Babylon Advances Native Bitcoin Collateral Plan for Aave V4",
+     "url": "https://thedefiant.io/news/defi/babylon-advances-native-bitcoin-collateral-plan-for-aave-v4",
+     "date": "2026-10-14T14:39:12+00:00",
+     "summary": "The proposal would keep collateral on Bitcoin but use WBTC to settle permissionless liquidations. Risk settings and further governance votes are still pending."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T14:39:12+00:00",
+   "last_seen": "2026-10-14T14:39:12+00:00",
+   "summary": "The proposal would keep collateral on Bitcoin but use WBTC to settle permissionless liquidations. Risk settings and further governance votes are still pending.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "eb7672a4ac",
+   "title": "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
+   "date": "2026-10-14T14:32:39+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Strive buys $235 million in bitcoin as warrant exercises yield $369 million",
+     "url": "https://www.theblock.co/news/business/2026-10-14-strive-buys-235-million-in-bitcoin-warrant-yield-369-million-418556",
+     "date": "2026-10-14T14:32:39+00:00",
+     "summary": "Strive acquired 2,822 bitcoin for $235 million following $369.2 million in gross proceeds from traditional warrant exercises."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T14:32:39+00:00",
+   "last_seen": "2026-10-14T14:32:39+00:00",
+   "summary": "Strive acquired 2,822 bitcoin for $235 million following $369.2 million in gross proceeds from traditional warrant exercises.",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
+  {
+   "id": "1f4af17164",
+   "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+   "date": "2026-10-14T14:31:14+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "BlackRock's crypto ETF assets surge 63% but remain far below 2025 peak",
+     "url": "https://www.coindesk.com/markets/2026/10/14/blackrock-s-crypto-etf-assets-surge-63-but-remain-far-below-2025-peak",
+     "date": "2026-10-14T14:31:14+00:00",
+     "summary": "The asset manager's crypto assets surged 63% to $79.6 billion as investors returned, but holdings remain 23% below year-ago levels."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T14:31:14+00:00",
+   "last_seen": "2026-10-14T14:31:14+00:00",
+   "summary": "The asset manager's crypto assets surged 63% to $79.6 billion as investors returned, but holdings remain 23% below year-ago levels.",
+   "tags": [
+    "etfs",
+    "markets"
+   ]
+  },
+  {
+   "id": "74a71dfefb",
+   "title": "Low East Coast diesel stocks could delay inflation relief for Bitcoin investors",
+   "date": "2026-10-14T14:30:46+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Low East Coast diesel stocks could delay inflation relief for Bitcoin investors",
+     "url": "https://cryptoslate.com/bitcoins-inflation-relief-case-faces-an-east-coast-winter-diesel-stock-gap/",
+     "date": "2026-10-14T14:30:46+00:00",
+     "summary": "EIA forecasts winter distillate inventories 20\u201330% below normal, while falling diesel prices keep the inflation and Bitcoin implications conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T14:30:46+00:00",
+   "last_seen": "2026-10-14T14:30:46+00:00",
+   "summary": "EIA forecasts winter distillate inventories 20\u201330% below normal, while falling diesel prices keep the inflation and Bitcoin implications conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "ea06f35e80",
+   "title": "Bitcoin Slips Below $83,000 After Hotter-Than-Expected US Inflation Data",
+   "date": "2026-10-14T14:30:22+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Slips Below $83,000 After Hotter-Than-Expected US Inflation Data",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-on-cpi-inflation-data",
+     "date": "2026-10-14T14:30:22+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Slips Below $83,000 After Hotter-Than-Expected US Inflation Data The price of bitcoin slid Wednesday after data dropped showing that U.S. consumer prices shot up more than expected in September due to rising gasoline prices.&#160; The biggest..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T14:30:22+00:00",
+   "last_seen": "2026-10-14T14:30:22+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Slips Below $83,000 After Hotter-Than-Expected US Inflation Data The price of bitcoin slid Wednesday after data dropped showing that U.S. consumer prices shot up more than expected in September due to rising gasoline prices.&#160; The biggest...",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "5c9117482c",
+   "title": "Capitalism is Broken and Bitcoin is the Great Equalizer | Natalie Brunell",
+   "date": "2026-10-14T14:22:57+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Capitalism is Broken and Bitcoin is the Great Equalizer | Natalie Brunell",
+     "url": "https://bitcoinmagazine.com/videos/capitalism-is-broken-and-bitcoin-is-the-great-equalizer-natalie-brunell",
+     "date": "2026-10-14T14:22:57+00:00",
+     "summary": "Bitcoin Magazine Capitalism is Broken and Bitcoin is the Great Equalizer | Natalie Brunell Young people are angry at capitalism, but Natalie Brunell says they blame the wrong target. She explains how Bitcoin can fix a rigged bank-fiat system. This post Capitalism is Broken and..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T14:22:57+00:00",
+   "last_seen": "2026-10-14T14:22:57+00:00",
+   "summary": "Bitcoin Magazine Capitalism is Broken and Bitcoin is the Great Equalizer | Natalie Brunell Young people are angry at capitalism, but Natalie Brunell says they blame the wrong target. She explains how Bitcoin can fix a rigged bank-fiat system. This post Capitalism is Broken and...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "f2c1b3efd8",
+   "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+   "date": "2026-10-14T14:21:15+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin price dips below $82K as high oil prices spike US CPI inflation",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-14T14:21:15+00:00",
+     "summary": "Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T14:21:15+00:00",
+   "last_seen": "2026-10-14T14:21:15+00:00",
+   "summary": "Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation.",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "1a79f44332",
+   "title": "Blue Coin Capital CIO: MSTR\u2019S BTC Buying Engine is About to IGNITE | Mike Treidl",
+   "date": "2026-10-14T14:14:59+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Blue Coin Capital CIO: MSTR\u2019S BTC Buying Engine is About to IGNITE | Mike Treidl",
+     "url": "https://bitcoinmagazine.com/videos/blue-coin-capital-cio-mstrs-btc-buying-engine-is-about-to-ignite-mike-treidl",
+     "date": "2026-10-14T14:14:59+00:00",
+     "summary": "Bitcoin Magazine Blue Coin Capital CIO: MSTR&#8217;S BTC Buying Engine is About to IGNITE | Mike Treidl Bitcoin treasury firms switch to perpetual preferred equity. Mike Treidl explains how preferreds prevent default and create a second BTC-buying engine. This post Blue Coin..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T14:14:59+00:00",
+   "last_seen": "2026-10-14T14:14:59+00:00",
+   "summary": "Bitcoin Magazine Blue Coin Capital CIO: MSTR&#8217;S BTC Buying Engine is About to IGNITE | Mike Treidl Bitcoin treasury firms switch to perpetual preferred equity. Mike Treidl explains how preferreds prevent default and create a second BTC-buying engine. This post Blue Coin...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "414c0bb70d",
+   "title": "Ekubo Adds Shadow Accounts for Liquidity Providers",
+   "date": "2026-10-14T14:09:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ekubo Adds Shadow Accounts for Liquidity Providers",
+     "url": "https://thedefiant.io/news/defi/ekubo-adds-shadow-accounts-for-liquidity-providers",
+     "date": "2026-10-14T14:09:05+00:00",
+     "summary": "The feature uses existing pools rather than a separate private market; LP positions and transaction details remain visible onchain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T14:09:05+00:00",
+   "last_seen": "2026-10-14T14:09:05+00:00",
+   "summary": "The feature uses existing pools rather than a separate private market; LP positions and transaction details remain visible onchain.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "f4a9a8a065",
+   "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+   "date": "2026-10-14T14:08:43+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Former FTX Europe chief targets U.S. tokenized stock trading with new SEC exemption",
+     "url": "https://www.coindesk.com/business/2026/10/14/former-ftx-europe-chief-targets-u-s-stock-tokenization-with-new-sec-exemption",
+     "date": "2026-10-14T14:08:43+00:00",
+     "summary": "Nasdaq-listed Perpetuals.com is the second company to pursue a U.S. tokenized stock marketplace under the SEC's new framework, following a joint venture between OKX and NYSE parent ICE."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T14:08:43+00:00",
+   "last_seen": "2026-10-14T14:08:43+00:00",
+   "summary": "Nasdaq-listed Perpetuals.com is the second company to pursue a U.S. tokenized stock marketplace under the SEC's new framework, following a joint venture between OKX and NYSE parent ICE.",
+   "tags": [
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "c3e0159bc8",
+   "title": "Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report",
+   "date": "2026-10-14T14:03:20+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report",
+     "url": "https://decrypt.co/380948/hex-founder-richard-heart-detained-in-istanbul-on-interpol-red-notice-report",
+     "date": "2026-10-14T14:03:20+00:00",
+     "summary": "Turkish police and intelligence officers reportedly seized cash, phones, jewelry and firearms at the crypto founder's address in Be\u015fikta\u015f."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Richard Heart Detained in Istanbul on Interpol Notice, Turkish Media Report",
+     "url": "https://thedefiant.io/news/regulation/richard-heart-detained-in-istanbul-on-interpol-notice-turkish-media-report",
+     "date": "2026-10-14T14:05:53+00:00",
+     "summary": "Interpol\u2019s public record identifies Finland as the requesting jurisdiction and lists aggravated tax fraud; Heart\u2019s separate SEC case was dismissed in 2025."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-10-14T14:03:20+00:00",
+   "last_seen": "2026-10-14T14:05:53+00:00",
+   "summary": "Interpol\u2019s public record identifies Finland as the requesting jurisdiction and lists aggravated tax fraud; Heart\u2019s separate SEC case was dismissed in 2025.",
+   "tags": [
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "9d4048e843",
+   "title": "Bastion Demands $3.50 SkyAI Tender Price and Board Overhaul",
+   "date": "2026-10-14T13:59:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bastion Demands $3.50 SkyAI Tender Price and Board Overhaul",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/bastion-demands-3-50-skyai-tender-price-and-board-overhaul",
+     "date": "2026-10-14T13:59:39+00:00",
+     "summary": "The shareholder says it will not participate on current terms. SkyAI\u2019s latest filing reports 600,000 SOL remaining and cash covering about 80% of the proposed offer."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T13:59:39+00:00",
+   "last_seen": "2026-10-14T13:59:39+00:00",
+   "summary": "The shareholder says it will not participate on current terms. SkyAI\u2019s latest filing reports 600,000 SOL remaining and cash covering about 80% of the proposed offer.",
+   "tags": [
+    "markets",
+    "solana"
+   ]
+  },
   {
    "id": "bb0db2728c",
    "title": "America's growing digital economy requires power grid updates. Who will foot the bill?",

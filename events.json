@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-14T05:49:51.668455+00:00",
+ "updated": "2026-10-14T07:06:19.493324+00:00",
  "events": [
+  {
+   "id": "48d1aa483e",
+   "title": "Standard Chartered Launches Bitcoin and Ether Trading for Affluent UAE Clients",
+   "date": "2026-10-14T06:12:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Standard Chartered Launches Bitcoin and Ether Trading for Affluent UAE Clients",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-bitcoin-and-ether-trading-for-affluent-uae-clients",
+     "date": "2026-10-14T06:12:46+00:00",
+     "summary": "The bank\u2019s closed-loop service bars external crypto transfers and charges a spread of up to 2%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T06:12:46+00:00",
+   "last_seen": "2026-10-14T06:12:46+00:00",
+   "summary": "The bank\u2019s closed-loop service bars external crypto transfers and charges a spread of up to 2%.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
   {
    "id": "f8f8266ad8",
    "title": "Coinbase, which holds 5% of all bitcoin, wants the quantum fix started now",

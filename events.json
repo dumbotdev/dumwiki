@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-14T07:06:19.493324+00:00",
+ "updated": "2026-10-14T07:54:49.953152+00:00",
  "events": [
+  {
+   "id": "a5864c681e",
+   "title": "Binance updates Anthropic mark per second to stop liquidation",
+   "date": "2026-10-14T07:20:13+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance updates Anthropic mark per second to stop liquidation",
+     "url": "https://cryptoslate.com/binance-updates-anthropic-mark-per-second-to-stop-liquidation/",
+     "date": "2026-10-14T07:20:13+00:00",
+     "summary": "Shunyet Jan describes Binance\u2019s perpetual pricing method, while 21Shares\u2019 certificate adds issuer-only recourse, affiliated note terms and costs beyond the 1% fee. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T07:20:13+00:00",
+   "last_seen": "2026-10-14T07:20:13+00:00",
+   "summary": "Shunyet Jan describes Binance\u2019s perpetual pricing method, while 21Shares\u2019 certificate adds issuer-only recourse, affiliated note terms and costs beyond the 1% fee. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The...",
+   "tags": [
+    "exchanges",
+    "markets"
+   ]
+  },
   {
    "id": "48d1aa483e",
    "title": "Standard Chartered Launches Bitcoin and Ether Trading for Affluent UAE Clients",

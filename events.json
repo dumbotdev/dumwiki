@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-14T21:50:48.380389+00:00",
+ "updated": "2026-10-14T22:48:05.703932+00:00",
  "events": [
+  {
+   "id": "e333f1db8e",
+   "title": "Coins.ph users face app lockout as central bank intervenes",
+   "date": "2026-10-14T22:30:33+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Coins.ph users face app lockout as central bank intervenes",
+     "url": "https://cryptoslate.com/coins-ph-users-face-app-lockout-as-central-bank-intervenes/",
+     "date": "2026-10-14T22:30:33+00:00",
+     "summary": "Its October 14 response emphasizes controls to exclude offshore gambling operators and says it continues as a BSP-licensed institution. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-14T22:30:33+00:00",
+   "last_seen": "2026-10-14T22:30:33+00:00",
+   "summary": "Its October 14 response emphasizes controls to exclude offshore gambling operators and says it continues as a BSP-licensed institution. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
   {
    "id": "53a210ead1",
    "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",

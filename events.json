@@ -1,6 +1,251 @@
 {
- "updated": "2026-10-15T11:51:40.934097+00:00",
+ "updated": "2026-10-15T13:06:12.571521+00:00",
  "events": [
+  {
+   "id": "9230f52a85",
+   "title": "Helius CEO Mert Mumtaz joins NEAR Foundation Council",
+   "date": "2026-10-15T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Helius CEO Mert Mumtaz joins NEAR Foundation Council",
+     "url": "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656",
+     "date": "2026-10-15T13:00:00+00:00",
+     "summary": "Helius CEO Mert Mumtaz joined NEAR Foundation's Council, which oversees the foundation and its most significant decisions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T13:00:00+00:00",
+   "last_seen": "2026-10-15T13:00:00+00:00",
+   "summary": "Helius CEO Mert Mumtaz joined NEAR Foundation's Council, which oversees the foundation and its most significant decisions.",
+   "tags": []
+  },
+  {
+   "id": "0c81ebf828",
+   "title": "Ledger Blames Organized Group for Months-Long Wallet Tampering Campaign",
+   "date": "2026-10-15T12:48:22+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ledger Blames Organized Group for Months-Long Wallet Tampering Campaign",
+     "url": "https://thedefiant.io/news/security/ledger-blames-organized-group-for-months-long-wallet-tampering-campaign",
+     "date": "2026-10-15T12:48:22+00:00",
+     "summary": "The company is keeping devices off authorized resellers' displays and reiterating an existing ban on reselling returns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T12:48:22+00:00",
+   "last_seen": "2026-10-15T12:48:22+00:00",
+   "summary": "The company is keeping devices off authorized resellers' displays and reiterating an existing ban on reselling returns.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "7171f3bd4a",
+   "title": "Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up",
+   "date": "2026-10-15T12:42:30+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Zcash Tanks Double Digits After 'Meteoric Rise' Sees Leverage Build Up",
+     "url": "https://decrypt.co/381015/zcash-tanks-double-digits-after-meteoric-rise-sees-leverage-build-up",
+     "date": "2026-10-15T12:42:30+00:00",
+     "summary": "Experts blame a build up in leverage for Zcash's drop in value, as well as growing concerns about AI breaking crypto encryption."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T12:42:30+00:00",
+   "last_seen": "2026-10-15T12:42:30+00:00",
+   "summary": "Experts blame a build up in leverage for Zcash's drop in value, as well as growing concerns about AI breaking crypto encryption.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "43a7e467aa",
+   "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
+   "date": "2026-10-15T12:35:24+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers",
+     "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers",
+     "date": "2026-10-15T12:35:24+00:00",
+     "summary": "The scheme allegedly stole tens of millions through Russian-language Facebook ads and fake advisers, then went after victims again with fake recovery offers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T12:35:24+00:00",
+   "last_seen": "2026-10-15T12:35:24+00:00",
+   "summary": "The scheme allegedly stole tens of millions through Russian-language Facebook ads and fake advisers, then went after victims again with fake recovery offers.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "3083f5fdb2",
+   "title": "Jupiter Launches Unaudited YOLO Beta With Up to 1,000x Leverage",
+   "date": "2026-10-15T12:32:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Jupiter Launches Unaudited YOLO Beta With Up to 1,000x Leverage",
+     "url": "https://thedefiant.io/news/defi/jupiter-launches-unaudited-yolo-beta-with-up-to-1-000x-leverage",
+     "date": "2026-10-15T12:32:49+00:00",
+     "summary": "Users trade against a house, and profits can be queued without a guaranteed payout time if its funds run low."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T12:32:49+00:00",
+   "last_seen": "2026-10-15T12:32:49+00:00",
+   "summary": "Users trade against a house, and profits can be queued without a guaranteed payout time if its funds run low.",
+   "tags": []
+  },
+  {
+   "id": "3c2ff4fbff",
+   "title": "Crypto scammers stole millions from victims, then returned pretending to help recover their money",
+   "date": "2026-10-15T12:20:40+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Crypto scammers stole millions from victims, then returned pretending to help recover their money",
+     "url": "https://cryptoslate.com/crypto-scammers-stole-millions-from-victims-then-returned-pretending-to-help-recover-their-money/",
+     "date": "2026-10-15T12:20:40+00:00",
+     "summary": "Prosecutors say recovered data showed the same scammers returning weeks later with false promises to recover stolen assets. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T12:20:40+00:00",
+   "last_seen": "2026-10-15T12:20:40+00:00",
+   "summary": "Prosecutors say recovered data showed the same scammers returning weeks later with false promises to recover stolen assets. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "1cc215c65f",
+   "title": "Starknet Puts Independent L1 Research to a Community Vote",
+   "date": "2026-10-15T12:20:32+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Starknet Puts Independent L1 Research to a Community Vote",
+     "url": "https://thedefiant.io/news/blockchains/starknet-puts-independent-l1-research-to-a-community-vote",
+     "date": "2026-10-15T12:20:32+00:00",
+     "summary": "The seven-day poll gives STRK stakers and delegators a say, but any transition away from Ethereum settlement would need a separate governance process."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T12:20:32+00:00",
+   "last_seen": "2026-10-15T12:20:32+00:00",
+   "summary": "The seven-day poll gives STRK stakers and delegators a say, but any transition away from Ethereum settlement would need a separate governance process.",
+   "tags": [
+    "ethereum",
+    "legal"
+   ]
+  },
+  {
+   "id": "e39df05f9c",
+   "title": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest",
+   "date": "2026-10-15T12:12:57+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest",
+     "url": "https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T12:12:57+00:00",
+     "summary": "The HEX token\u2019s price declined by 30% following local media reports of the Istanbul arrest of founder Richard Schueler, nearly two years after Interpol issued a \u201cRed Notice.\u201d"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T12:12:57+00:00",
+   "last_seen": "2026-10-15T12:12:57+00:00",
+   "summary": "The HEX token\u2019s price declined by 30% following local media reports of the Istanbul arrest of founder Richard Schueler, nearly two years after Interpol issued a \u201cRed Notice.\u201d",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "71788ebad8",
+   "title": "Morning Minute: Solana Is About To Get Faster",
+   "date": "2026-10-15T12:07:08+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Solana Is About To Get Faster",
+     "url": "https://decrypt.co/381018/morning-minute-solana-is-about-to-get-faster",
+     "date": "2026-10-15T12:07:08+00:00",
+     "summary": "Alpenglow is coming next week, slashing Solana finality from 12.8 seconds to a target of about 150 milliseconds\u2014some 85 times faster."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T12:07:08+00:00",
+   "last_seen": "2026-10-15T12:07:08+00:00",
+   "summary": "Alpenglow is coming next week, slashing Solana finality from 12.8 seconds to a target of about 150 milliseconds\u2014some 85 times faster.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "8806cb9b9e",
+   "title": "Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
+   "date": "2026-10-15T12:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
+     "url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
+     "date": "2026-10-15T12:00:00+00:00",
+     "summary": "Ledger\u2019s Atom will run apps like WhatsApp and Instragram and let users switch between smartphone functions and a protected mode for managing digital assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T12:00:00+00:00",
+   "last_seen": "2026-10-15T12:00:00+00:00",
+   "summary": "Ledger\u2019s Atom will run apps like WhatsApp and Instragram and let users switch between smartphone functions and a protected mode for managing digital assets.",
+   "tags": []
+  },
+  {
+   "id": "e10f6b8f96",
+   "title": "Ledger\u2019s answer to wallet tampering costs $849 and ships next year",
+   "date": "2026-10-15T12:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ledger\u2019s answer to wallet tampering costs $849 and ships next year",
+     "url": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T12:00:00+00:00",
+     "summary": "Ledger\u2019s new Atom combines crypto wallet security with everyday apps and is expected to ship in summer 2027 as the company investigates tampered wallets sold in Asia."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T12:00:00+00:00",
+   "last_seen": "2026-10-15T12:00:00+00:00",
+   "summary": "Ledger\u2019s new Atom combines crypto wallet security with everyday apps and is expected to ship in summer 2027 as the company investigates tampered wallets sold in Asia.",
+   "tags": []
+  },
+  {
+   "id": "fb45d53229",
+   "title": "Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets",
+   "date": "2026-10-15T12:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets",
+     "url": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
+     "date": "2026-10-15T12:00:00+00:00",
+     "summary": "Ledger unveiled Atom, an Android-based security device with Solana Mobile integration, AI-agent controls, and hardware-tampering protections."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T12:00:00+00:00",
+   "last_seen": "2026-10-15T12:00:00+00:00",
+   "summary": "Ledger unveiled Atom, an Android-based security device with Solana Mobile integration, AI-agent controls, and hardware-tampering protections.",
+   "tags": [
+    "solana"
+   ]
+  },
   {
    "id": "86e3ee8d19",
    "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",

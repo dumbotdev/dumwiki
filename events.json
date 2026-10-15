@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-15T19:01:04.094185+00:00",
+ "updated": "2026-10-15T19:47:12.686065+00:00",
  "events": [
+  {
+   "id": "7669589ec0",
+   "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+   "date": "2026-10-15T19:16:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+     "url": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
+     "date": "2026-10-15T19:16:04+00:00",
+     "summary": "In a note to investors, Matt Hougan used a \u201cChoose Your Own Adventure\u201d framework to argue that superabundance, an AI bust or a muddle-through economy all ultimately funnel to the same place: Bitcoin higher."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T19:16:04+00:00",
+   "last_seen": "2026-10-15T19:16:04+00:00",
+   "summary": "In a note to investors, Matt Hougan used a \u201cChoose Your Own Adventure\u201d framework to argue that superabundance, an AI bust or a muddle-through economy all ultimately funnel to the same place: Bitcoin higher.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "2414a9f731",
+   "title": "South Korea names two crypto firms in breach wave that also hit major banks",
+   "date": "2026-10-15T19:00:53+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "South Korea names two crypto firms in breach wave that also hit major banks",
+     "url": "https://cryptoslate.com/south-korea-names-two-crypto-firms-in-breach-wave-that-also-hit-major-banks/",
+     "date": "2026-10-15T19:00:53+00:00",
+     "summary": "Streami and Pravang are among 16 affected financial companies as the FSC outlines plans for a wider security overhaul. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T19:00:53+00:00",
+   "last_seen": "2026-10-15T19:00:53+00:00",
+   "summary": "Streami and Pravang are among 16 affected financial companies as the FSC outlines plans for a wider security overhaul. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "4f941ba724",
    "title": "At the White House, crypto policy vacancy looms large",

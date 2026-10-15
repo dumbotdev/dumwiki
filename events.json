@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-15T19:47:12.686065+00:00",
+ "updated": "2026-10-15T20:51:28.758913+00:00",
  "events": [
+  {
+   "id": "dd895858ca",
+   "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+   "date": "2026-10-15T20:31:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",
+     "url": "https://decrypt.co/381079/russia-ban-peer-to-peer-bitcoin-trading",
+     "date": "2026-10-15T20:31:04+00:00",
+     "summary": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T20:31:04+00:00",
+   "last_seen": "2026-10-15T20:31:04+00:00",
+   "summary": "Russians have until July 1, 2027 to buy and sell crypto directly with each other. After that, every trade runs through a broker or exchange approved by the Bank of Russia.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "b7b654a6c7",
+   "title": "Bitcoin\u2019s Volatility Has Fallen Within S&P 500 Ranks, Study Shows",
+   "date": "2026-10-15T20:30:46+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin\u2019s Volatility Has Fallen Within S&P 500 Ranks, Study Shows",
+     "url": "https://bitcoinmagazine.com/news/bitcoins-volatility-has-fallen-study-shows",
+     "date": "2026-10-15T20:30:46+00:00",
+     "summary": "Bitcoin Magazine Bitcoin&#8217;s Volatility Has Fallen Within S&P 500 Ranks, Study Shows Grayscale research shows that bitcoin\u2019s realized volatility is in the same range as a number of S&#038;P 500 stocks. This post Bitcoin&#8217;s Volatility Has Fallen Within S&P 500 Ranks,..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T20:30:46+00:00",
+   "last_seen": "2026-10-15T20:30:46+00:00",
+   "summary": "Bitcoin Magazine Bitcoin&#8217;s Volatility Has Fallen Within S&P 500 Ranks, Study Shows Grayscale research shows that bitcoin\u2019s realized volatility is in the same range as a number of S&#038;P 500 stocks. This post Bitcoin&#8217;s Volatility Has Fallen Within S&P 500 Ranks,...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "6c7144e118",
+   "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+   "date": "2026-10-15T20:21:11+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance.US seeks $1B valuation in potential $100M funding round: Report",
+     "url": "https://cointelegraph.com/news/binance-us-funding-valuation-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T20:21:11+00:00",
+     "summary": "The crypto exchange was reportedly looking to use the additional funding to regain market share following Binance\u2019s 2023 settlement with US authorities."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T20:21:11+00:00",
+   "last_seen": "2026-10-15T20:21:11+00:00",
+   "summary": "The crypto exchange was reportedly looking to use the additional funding to regain market share following Binance\u2019s 2023 settlement with US authorities.",
+   "tags": [
+    "exchanges",
+    "funding",
+    "legal"
+   ]
+  },
+  {
+   "id": "7b8d8372e2",
+   "title": "84 million XRP added to exchange wallets as price slipped toward $1.30",
+   "date": "2026-10-15T20:00:30+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "84 million XRP added to exchange wallets as price slipped toward $1.30",
+     "url": "https://cryptoslate.com/xrp-exchange-wallets-added-84-million-tokens-in-three-days-as-price-slipped-toward-1-30/",
+     "date": "2026-10-15T20:00:30+00:00",
+     "summary": "The October 12\u201315 custody build raises a supply question, but the balance data cannot establish completed sales. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T20:00:30+00:00",
+   "last_seen": "2026-10-15T20:00:30+00:00",
+   "summary": "The October 12\u201315 custody build raises a supply question, but the balance data cannot establish completed sales. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "funding",
+    "markets"
+   ]
+  },
   {
    "id": "7669589ec0",
    "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",

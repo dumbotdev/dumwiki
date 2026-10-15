@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-15T21:50:29.316633+00:00",
+ "updated": "2026-10-15T22:47:41.801265+00:00",
  "events": [
+  {
+   "id": "edd2d15836",
+   "title": "Quantum fixes protect Bitcoin, but legit owners risk lockout",
+   "date": "2026-10-15T22:40:17+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Quantum fixes protect Bitcoin, but legit owners risk lockout",
+     "url": "https://cryptoslate.com/quantum-fixes-protect-bitcoin-but-legit-owners-risk-lockout/",
+     "date": "2026-10-15T22:40:17+00:00",
+     "summary": "Nic Carter&#039;s hypothetical attack highlights why safer signatures would leave an ownership choice for holders unable to migrate or prove prior control. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T22:40:17+00:00",
+   "last_seen": "2026-10-15T22:40:17+00:00",
+   "summary": "Nic Carter&#039;s hypothetical attack highlights why safer signatures would leave an ownership choice for holders unable to migrate or prove prior control. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "f3db911161",
+   "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+   "date": "2026-10-15T22:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Hidden Text, a Fake Mailbox: How Researchers Got Rogue AI Agents to Talk",
+     "url": "https://decrypt.co/381109/researchers-fleet-rouge-ai-agents-talk-alibaba",
+     "date": "2026-10-15T22:16:03+00:00",
+     "summary": "Researchers added hidden text to contact AI agents probing Alibaba\u2019s map service, getting replies about their tasks as investigators traced activity to Tencent Cloud infrastructure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T22:16:03+00:00",
+   "last_seen": "2026-10-15T22:16:03+00:00",
+   "summary": "Researchers added hidden text to contact AI agents probing Alibaba\u2019s map service, getting replies about their tasks as investigators traced activity to Tencent Cloud infrastructure.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "f6c7a49859",
+   "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
+   "date": "2026-10-15T22:15:56+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "MSCI finalizes index rules that put Strategy, crypto treasury firms at risk of exclusion",
+     "url": "https://www.theblock.co/news/business/2026-10-15-msci-rules-could-exclude-strategy-mstr-from-indexes-418729",
+     "date": "2026-10-15T22:15:56+00:00",
+     "summary": "MSCI's new non-operating company rules could exclude Strategy, Metaplanet and SharpLink. The final list of affected firms is due Nov. 11."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T22:15:56+00:00",
+   "last_seen": "2026-10-15T22:15:56+00:00",
+   "summary": "MSCI's new non-operating company rules could exclude Strategy, Metaplanet and SharpLink. The final list of affected firms is due Nov. 11.",
+   "tags": [
+    "macro"
+   ]
+  },
   {
    "id": "e8d487503a",
    "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",

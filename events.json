@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-15T04:51:54.315489+00:00",
+ "updated": "2026-10-15T05:50:33.540657+00:00",
  "events": [
+  {
+   "id": "14bb7ae94e",
+   "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+   "date": "2026-10-15T05:00:40+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",
+     "url": "https://cointelegraph.com/news/australia-seeks-feedback-on-crypto-platform-rules-ahead-of-2027-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T05:00:40+00:00",
+     "summary": "The consultation follows Parliament\u2019s passage of digital asset legislation in April, with Australia\u2019s securities regulator now proposing capital, custody and trading standards for crypto platforms."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T05:00:40+00:00",
+   "last_seen": "2026-10-15T05:00:40+00:00",
+   "summary": "The consultation follows Parliament\u2019s passage of digital asset legislation in April, with Australia\u2019s securities regulator now proposing capital, custody and trading standards for crypto platforms.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "2eb1f5f95d",
    "title": "Qivalis wins Dutch EMI license, but MiCA rules block launch",

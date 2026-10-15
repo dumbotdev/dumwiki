@@ -1,6 +1,114 @@
 {
- "updated": "2026-10-15T03:53:18.195959+00:00",
+ "updated": "2026-10-15T04:51:54.315489+00:00",
  "events": [
+  {
+   "id": "2eb1f5f95d",
+   "title": "Qivalis wins Dutch EMI license, but MiCA rules block launch",
+   "date": "2026-10-15T04:40:28+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Qivalis wins Dutch EMI license, but MiCA rules block launch",
+     "url": "https://cryptoslate.com/qivalis-wins-dutch-emi-license-but-mica-rules-block-launch/",
+     "date": "2026-10-15T04:40:28+00:00",
+     "summary": "The company says issuance is planned in the coming months, subject to MiCA requirements and white-paper publication. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T04:40:28+00:00",
+   "last_seen": "2026-10-15T04:40:28+00:00",
+   "summary": "The company says issuance is planned in the coming months, subject to MiCA requirements and white-paper publication. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "fc494ea4a3",
+   "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
+   "date": "2026-10-15T04:38:48+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
+     "url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
+     "date": "2026-10-15T04:38:48+00:00",
+     "summary": "Asian equities tumbled on Thursday, with South Korea's Kospi losing 8% and Japan's Nikkei 225 declining 5% during morning trading."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T04:38:48+00:00",
+   "last_seen": "2026-10-15T04:38:48+00:00",
+   "summary": "Asian equities tumbled on Thursday, with South Korea's Kospi losing 8% and Japan's Nikkei 225 declining 5% during morning trading.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "34c311828b",
+   "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+   "date": "2026-10-15T04:25:15+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Nearly $1 billion in crypto bets liquidated as bitcoin, ether and XRP slide",
+     "url": "https://www.coindesk.com/markets/2026/10/15/nearly-usd1-billion-in-crypto-bets-liquidated-as-bitcoin-ether-and-xrp-slide",
+     "date": "2026-10-15T04:25:15+00:00",
+     "summary": "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T04:25:15+00:00",
+   "last_seen": "2026-10-15T04:25:15+00:00",
+   "summary": "Ether accounted for nearly 60% of the forced closures across the two largest cryptocurrencies, falling roughly twice as much as bitcoin.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "1b4bd6de69",
+   "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+   "date": "2026-10-15T04:13:56+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin mining pool once handling 2.3% of network shuts after hashrate falls 65%",
+     "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-mining-pool-once-handling-2-3-of-network-shuts-after-hashrate-falls-65",
+     "date": "2026-10-15T04:13:56+00:00",
+     "summary": "Computing power directed at Binance Pool has fallen from 26 EH/s in December to about 9 EH/s. Its remaining miners must choose another provider before a Nov. 10 cutoff."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T04:13:56+00:00",
+   "last_seen": "2026-10-15T04:13:56+00:00",
+   "summary": "Computing power directed at Binance Pool has fallen from 26 EH/s in December to about 9 EH/s. Its remaining miners must choose another provider before a Nov. 10 cutoff.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "6237ab1471",
+   "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+   "date": "2026-10-15T03:57:45+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin wilts as Fed rate uncertainty weighs. Kospi plunges 8%",
+     "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-is-back-below-usd81-000-as-fed-rate-uncertainty-weighs",
+     "date": "2026-10-15T03:57:45+00:00",
+     "summary": "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday\u2019s inflation report, but have since cooled."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T03:57:45+00:00",
+   "last_seen": "2026-10-15T03:57:45+00:00",
+   "summary": "Bets on an October Fed rate hike briefly spiked to nearly 50% after Wednesday\u2019s inflation report, but have since cooled.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
   {
    "id": "0ba576536c",
    "title": "Bitcoin miners plunge up to 13% in Wall Street\u2019s worst selloff since July",

@@ -1,6 +1,44 @@
 {
- "updated": "2026-10-15T01:00:29.343063+00:00",
+ "updated": "2026-10-15T01:48:50.038506+00:00",
  "events": [
+  {
+   "id": "569ba92a2a",
+   "title": "Firelight forces XRP-linked tokens lockup as withdrawal delay queue grows",
+   "date": "2026-10-15T01:30:51+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Firelight forces XRP-linked tokens lockup as withdrawal delay queue grows",
+     "url": "https://cryptoslate.com/firelight-forces-xrp-linked-tokens-lockup-as-withdrawal-delay-queue-grows/",
+     "date": "2026-10-15T01:30:51+00:00",
+     "summary": "The October 6 activation moved existing FXRP stakes automatically into pooled cover backing, pairing fee income with claim exposure and longer withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T01:30:51+00:00",
+   "last_seen": "2026-10-15T01:30:51+00:00",
+   "summary": "The October 6 activation moved existing FXRP stakes automatically into pooled cover backing, pairing fee income with claim exposure and longer withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": []
+  },
+  {
+   "id": "d92223225c",
+   "title": "Polygon gains US payments licenses after closing Coinme deal",
+   "date": "2026-10-15T00:55:21+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Polygon gains US payments licenses after closing Coinme deal",
+     "url": "https://cointelegraph.com/news/polygon-gains-us-payments-licenses-after-closing-coinme-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T00:55:21+00:00",
+     "summary": "The deal gives Polygon access to 37 money transmitter licenses and 11 state exemptions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T00:55:21+00:00",
+   "last_seen": "2026-10-15T00:55:21+00:00",
+   "summary": "The deal gives Polygon access to 37 money transmitter licenses and 11 state exemptions.",
+   "tags": []
+  },
   {
    "id": "b86fc05108",
    "title": "Solana sets October 21 for massive Alpenglow upgrade that could make transactions 99% faster to finalize",
@@ -73,11 +111,18 @@
      "url": "https://thedefiant.io/converge/tokens/vaneck-seeks-to-withdraw-lido-staked-ethereum-etf-filing",
      "date": "2026-10-14T21:33:00+00:00",
      "summary": "The proposed fund would have held stETH directly and offered brokerage-account exposure to Lido\u2019s liquid-staking token. Its registration never became effective."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "VanEck seeks to withdraw application for Lido staked Ether ETF",
+     "url": "https://cointelegraph.com/news/vaneck-seeks-to-withdraw-application-for-lido-staked-ether-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T01:21:52+00:00",
+     "summary": "VanEck initially filed an S-1 registration statement for the exchange-traded fund in October last year."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-14T21:33:00+00:00",
-   "last_seen": "2026-10-14T21:33:00+00:00",
+   "last_seen": "2026-10-15T01:21:52+00:00",
    "summary": "The proposed fund would have held stETH directly and offered brokerage-account exposure to Lido\u2019s liquid-staking token. Its registration never became effective.",
    "tags": [
     "etfs",

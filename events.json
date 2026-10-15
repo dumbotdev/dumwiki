@@ -1,6 +1,153 @@
 {
- "updated": "2026-10-15T16:55:00.166591+00:00",
+ "updated": "2026-10-15T17:49:03.956087+00:00",
  "events": [
+  {
+   "id": "9e65f8154e",
+   "title": "Google Says AI Isn't Building Itself Yet\u2014Even Though It Writes 75% of the Code",
+   "date": "2026-10-15T17:36:05+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Google Says AI Isn't Building Itself Yet\u2014Even Though It Writes 75% of the Code",
+     "url": "https://decrypt.co/381061/google-deepmind-ai-isnt-building-itself-writes-most-code",
+     "date": "2026-10-15T17:36:05+00:00",
+     "summary": "Google DeepMind's first internal audit of AI-driven research finds no measurable speedup in AI progress."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T17:36:05+00:00",
+   "last_seen": "2026-10-15T17:36:05+00:00",
+   "summary": "Google DeepMind's first internal audit of AI-driven research finds no measurable speedup in AI progress.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "61886dc966",
+   "title": "Bitcoin\u2019s $100,000 dream slips away as $939 million crypto wipeout pushes traders toward $78,000",
+   "date": "2026-10-15T17:30:25+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s $100,000 dream slips away as $939 million crypto wipeout pushes traders toward $78,000",
+     "url": "https://cryptoslate.com/bitcoins-100000-dream-slips-away-as-939-million-crypto-wipeout-pushes-traders-toward-78000/",
+     "date": "2026-10-15T17:30:25+00:00",
+     "summary": "Bitcoin registered an intraday low of $79,730 before recovering to around $82,000 as surging US wholesale inflation intensified a cryptocurrency selloff that triggered nearly $940 million in liquidations. This price action extended losses as stronger-than-expected inflation data..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T17:30:25+00:00",
+   "last_seen": "2026-10-15T17:30:25+00:00",
+   "summary": "Bitcoin registered an intraday low of $79,730 before recovering to around $82,000 as surging US wholesale inflation intensified a cryptocurrency selloff that triggered nearly $940 million in liquidations. This price action extended losses as stronger-than-expected inflation data...",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "89d10e2f9b",
+   "title": "IPX Exchange, the Agentic OS and Tokenized Exchange for IP, Closes $4M Seed Round at a $125M Valuation",
+   "date": "2026-10-15T17:20:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "IPX Exchange, the Agentic OS and Tokenized Exchange for IP, Closes $4M Seed Round at a $125M Valuation",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/ipx-exchange-closes-4m-seed-round-at-125m-valuation",
+     "date": "2026-10-15T17:20:06+00:00",
+     "summary": "IPX, an agentic operating system and tokenized exchange for intellectual property built on Base, closed a $4 million seed round at a $125 million valuation. Bitsurge Holdings led the round alongside YICIPX Holdings Family Office."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T17:20:06+00:00",
+   "last_seen": "2026-10-15T17:20:06+00:00",
+   "summary": "IPX, an agentic operating system and tokenized exchange for intellectual property built on Base, closed a $4 million seed round at a $125 million valuation. Bitsurge Holdings led the round alongside YICIPX Holdings Family Office.",
+   "tags": [
+    "exchanges",
+    "funding"
+   ]
+  },
+  {
+   "id": "e14f435c0f",
+   "title": "Ripple Prime Rolls Out Traditional-Asset Perps Linked to Trade.xyz, Bloomberg Reports",
+   "date": "2026-10-15T17:18:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ripple Prime Rolls Out Traditional-Asset Perps Linked to Trade.xyz, Bloomberg Reports",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-prime-rolls-out-traditional-asset-perps-linked-to-trade-xyz-bloomberg-reports",
+     "date": "2026-10-15T17:18:56+00:00",
+     "summary": "The reported rollout builds on Ripple Prime\u2019s existing Hyperliquid access, which lets institutions combine onchain derivatives with other exposures in one margin framework."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T17:18:56+00:00",
+   "last_seen": "2026-10-15T17:18:56+00:00",
+   "summary": "The reported rollout builds on Ripple Prime\u2019s existing Hyperliquid access, which lets institutions combine onchain derivatives with other exposures in one margin framework.",
+   "tags": []
+  },
+  {
+   "id": "fc4e3a0549",
+   "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+   "date": "2026-10-15T17:14:45+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
+     "url": "https://cointelegraph.com/news/bo-hines-donald-trump-crypto-advisor-nxum-tether-conflict?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T17:14:45+00:00",
+     "summary": "The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIUS stablecoin bill."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T17:14:45+00:00",
+   "last_seen": "2026-10-15T17:14:45+00:00",
+   "summary": "The Wall Street Journal reported that a company co-founded by Bo Hines benefited from the passage of the GENIUS stablecoin bill.",
+   "tags": [
+    "regulation",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "aa988363f6",
+   "title": "Russia Bars Self-Custody Withdrawals From Regulated Crypto Accounts",
+   "date": "2026-10-15T17:08:03+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Russia Bars Self-Custody Withdrawals From Regulated Crypto Accounts",
+     "url": "https://thedefiant.io/news/regulation/russia-bars-self-custody-withdrawals-from-regulated-crypto-accounts",
+     "date": "2026-10-15T17:08:03+00:00",
+     "summary": "A separate restriction on direct crypto trades between individuals takes effect July 1, 2027, requiring residents to use authorized intermediaries."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T17:08:03+00:00",
+   "last_seen": "2026-10-15T17:08:03+00:00",
+   "summary": "A separate restriction on direct crypto trades between individuals takes effect July 1, 2027, requiring residents to use authorized intermediaries.",
+   "tags": []
+  },
+  {
+   "id": "f7b536d83f",
+   "title": "Trump\u2019s crypto bill loses its White House negotiator as Patrick Witt exits",
+   "date": "2026-10-15T17:00:01+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Trump\u2019s crypto bill loses its White House negotiator as Patrick Witt exits",
+     "url": "https://cryptoslate.com/trumps-crypto-policy-power-shifts-toward-sec-and-cftc-as-white-house-team-empties/",
+     "date": "2026-10-15T17:00:01+00:00",
+     "summary": "President Donald Trump&#039;s crypto agenda has lost a White House negotiator as Patrick Witt confirms his departure and the administration&#039;s flagship digital-asset legislation remains stalled in Congress. On Oct. 15, Patrick Witt, executive director of the White House..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T17:00:01+00:00",
+   "last_seen": "2026-10-15T17:00:01+00:00",
+   "summary": "President Donald Trump&#039;s crypto agenda has lost a White House negotiator as Patrick Witt confirms his departure and the administration&#039;s flagship digital-asset legislation remains stalled in Congress. On Oct. 15, Patrick Witt, executive director of the White House...",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "381760f624",
    "title": "Sweden revisits digital krona as ECB advances digital euro plans",

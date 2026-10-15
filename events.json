@@ -1,6 +1,254 @@
 {
- "updated": "2026-10-15T09:52:31.150945+00:00",
+ "updated": "2026-10-15T10:53:18.794424+00:00",
  "events": [
+  {
+   "id": "da03fcaa30",
+   "title": "Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower",
+   "date": "2026-10-15T10:52:11+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower",
+     "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
+     "date": "2026-10-15T10:52:11+00:00",
+     "summary": "Bitcoin fell to just above $80,000 as South Korea\u2019s Kospi plunged 8%, while the CoinDesk 80 fell 2.2% and all but six CoinDesk 100 members declined."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T10:52:11+00:00",
+   "last_seen": "2026-10-15T10:52:11+00:00",
+   "summary": "Bitcoin fell to just above $80,000 as South Korea\u2019s Kospi plunged 8%, while the CoinDesk 80 fell 2.2% and all but six CoinDesk 100 members declined.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "9c6f57e462",
+   "title": "Lido Adds Direct ETH Staking From Four Layer 2s to Its Interface",
+   "date": "2026-10-15T10:49:25+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Lido Adds Direct ETH Staking From Four Layer 2s to Its Interface",
+     "url": "https://thedefiant.io/news/defi/lido-adds-direct-eth-staking-from-four-layer-2s-to-its-interface",
+     "date": "2026-10-15T10:49:25+00:00",
+     "summary": "Users receive wstETH from local liquidity pools, while ETH is bridged to Ethereum for staking and the pools are replenished in the background."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T10:49:25+00:00",
+   "last_seen": "2026-10-15T10:49:25+00:00",
+   "summary": "Users receive wstETH from local liquidity pools, while ETH is bridged to Ethereum for staking and the pools are replenished in the background.",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "df57b32a4b",
+   "title": "HashKey Chain Admin Moves 142,818 USDT With Temporary Contract Swap",
+   "date": "2026-10-15T10:45:57+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "HashKey Chain Admin Moves 142,818 USDT With Temporary Contract Swap",
+     "url": "https://thedefiant.io/news/security/hashkey-chain-admin-moves-142-818-usdt-with-temporary-contract-swap",
+     "date": "2026-10-15T10:45:57+00:00",
+     "summary": "The original deposit code was restored about six minutes later, but a three-of-five multisig retains immediate upgrade powers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T10:45:57+00:00",
+   "last_seen": "2026-10-15T10:45:57+00:00",
+   "summary": "The original deposit code was restored about six minutes later, but a three-of-five multisig retains immediate upgrade powers.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "6b2c4cda99",
+   "title": "White House crypto council chief Patrick Witt steps down",
+   "date": "2026-10-15T10:41:09+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "White House crypto council chief Patrick Witt steps down",
+     "url": "https://cointelegraph.com/news/white-house-crypto-council-director-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T10:41:09+00:00",
+     "summary": "Witt\u2019s departure leaves a leadership gap at the White House Crypto Council and marks the fourth high-profile exit from the advisory group."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T10:41:09+00:00",
+   "last_seen": "2026-10-15T10:41:09+00:00",
+   "summary": "Witt\u2019s departure leaves a leadership gap at the White House Crypto Council and marks the fourth high-profile exit from the advisory group.",
+   "tags": []
+  },
+  {
+   "id": "2c8b6a97be",
+   "title": "BVNK Launches Global Money Platform Linking Stablecoins to Mastercard Rails",
+   "date": "2026-10-15T10:34:38+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "BVNK Launches Global Money Platform Linking Stablecoins to Mastercard Rails",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/bvnk-launches-global-money-platform-linking-stablecoins-to-mastercard-rails",
+     "date": "2026-10-15T10:34:38+00:00",
+     "summary": "Nuvei and Marqeta are among the first planned integrators; local-payout coverage is expected to expand in 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T10:34:38+00:00",
+   "last_seen": "2026-10-15T10:34:38+00:00",
+   "summary": "Nuvei and Marqeta are among the first planned integrators; local-payout coverage is expected to expand in 2027.",
+   "tags": []
+  },
+  {
+   "id": "789866fa67",
+   "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
+   "date": "2026-10-15T10:22:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
+     "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T10:22:00+00:00",
+     "summary": "Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum\u2019s quantum-security upgrade timeline."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T10:22:00+00:00",
+   "last_seen": "2026-10-15T10:22:00+00:00",
+   "summary": "Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereum\u2019s quantum-security upgrade timeline.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "9b1dd2849e",
+   "title": "Live updates: Bitcoin back under $81,000 as AI selloff worsens",
+   "date": "2026-10-15T10:16:15+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Bitcoin back under $81,000 as AI selloff worsens",
+     "url": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
+     "date": "2026-10-15T10:16:15+00:00",
+     "summary": "September inflation came in above forecasts and the selloff in AI stocks picked up speed, dragging bitcoin back toward last week\u2019s low."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T10:16:15+00:00",
+   "last_seen": "2026-10-15T10:16:15+00:00",
+   "summary": "September inflation came in above forecasts and the selloff in AI stocks picked up speed, dragging bitcoin back toward last week\u2019s low.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "b4227c7c6a",
+   "title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
+   "date": "2026-10-15T10:01:21+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
+     "url": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers",
+     "date": "2026-10-15T10:01:21+00:00",
+     "summary": "The scammers also ran a fake recovery service, contacting victims weeks later with promises to get their stolen crypto back."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T10:01:21+00:00",
+   "last_seen": "2026-10-15T10:01:21+00:00",
+   "summary": "The scammers also ran a fake recovery service, contacting victims weeks later with promises to get their stolen crypto back.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "dfb48e444c",
+   "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
+   "date": "2026-10-15T10:00:56+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
+     "url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
+     "date": "2026-10-15T10:00:56+00:00",
+     "summary": "Jeff Yan told Bloomberg that U.S. regulatory oversight should apply to the firms using the blockchain, not to the underlying network itself."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T10:00:56+00:00",
+   "last_seen": "2026-10-15T10:00:56+00:00",
+   "summary": "Jeff Yan told Bloomberg that U.S. regulatory oversight should apply to the firms using the blockchain, not to the underlying network itself.",
+   "tags": []
+  },
+  {
+   "id": "e0c5a1605a",
+   "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
+   "date": "2026-10-15T10:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
+     "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T10:00:00+00:00",
+     "summary": "Compromised suppliers, developer tools and infrastructure components outside security audits drove about 77% of the quarter\u2019s total losses, according to Hacken."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T10:00:00+00:00",
+   "last_seen": "2026-10-15T10:00:00+00:00",
+   "summary": "Compromised suppliers, developer tools and infrastructure components outside security audits drove about 77% of the quarter\u2019s total losses, according to Hacken.",
+   "tags": []
+  },
+  {
+   "id": "8391ecc26f",
+   "title": "Australia\u2019s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+   "date": "2026-10-15T09:53:37+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Australia\u2019s financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+     "url": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
+     "date": "2026-10-15T09:53:37+00:00",
+     "summary": "The country\u2019s regulator, ASIC, has proposed tougher rules to protect users\u2019 digital assets, crypto trading and to safeguard the country\u2019s financial stability."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T09:53:37+00:00",
+   "last_seen": "2026-10-15T09:53:37+00:00",
+   "summary": "The country\u2019s regulator, ASIC, has proposed tougher rules to protect users\u2019 digital assets, crypto trading and to safeguard the country\u2019s financial stability.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "393c3d6410",
+   "title": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
+   "date": "2026-10-15T09:48:07+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
+     "url": "https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T09:48:07+00:00",
+     "summary": "Bitcoin price action continued to see contagion from a Korean tech sell-off after the KOSPI Index fell 7.5% on Thursday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T09:48:07+00:00",
+   "last_seen": "2026-10-15T09:48:07+00:00",
+   "summary": "Bitcoin price action continued to see contagion from a Korean tech sell-off after the KOSPI Index fell 7.5% on Thursday.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
   {
    "id": "d8e4acef7e",
    "title": "Bitcoin\u2019s $80,000 buy wall hides a liquidation trap that could send prices toward $78,000",

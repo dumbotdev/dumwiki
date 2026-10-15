@@ -1,6 +1,263 @@
 {
- "updated": "2026-10-15T13:58:30.789411+00:00",
+ "updated": "2026-10-15T14:52:42.424473+00:00",
  "events": [
+  {
+   "id": "fc7472f554",
+   "title": "Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid",
+   "date": "2026-10-15T14:43:35+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid",
+     "url": "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681",
+     "date": "2026-10-15T14:43:35+00:00",
+     "summary": "Ripple Prime has added RWA perpetual swaps tied to equities, ETFs, metals, energy and currencies, with 24/7 trading and settlement."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T14:43:35+00:00",
+   "last_seen": "2026-10-15T14:43:35+00:00",
+   "summary": "Ripple Prime has added RWA perpetual swaps tied to equities, ETFs, metals, energy and currencies, with 24/7 trading and settlement.",
+   "tags": [
+    "etfs",
+    "legal"
+   ]
+  },
+  {
+   "id": "ee522c6558",
+   "title": "Aztec Targets Full Post-Quantum Migration by End of 2030",
+   "date": "2026-10-15T14:37:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aztec Targets Full Post-Quantum Migration by End of 2030",
+     "url": "https://thedefiant.io/news/blockchains/aztec-targets-full-post-quantum-migration-by-end-of-2030",
+     "date": "2026-10-15T14:37:31+00:00",
+     "summary": "The privacy Layer 2 plans hardened developer libraries in early 2027, while its full migration also depends on changes to Ethereum."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T14:37:31+00:00",
+   "last_seen": "2026-10-15T14:37:31+00:00",
+   "summary": "The privacy Layer 2 plans hardened developer libraries in early 2027, while its full migration also depends on changes to Ethereum.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "402dbf9f3a",
+   "title": "OKX Opens Onchain Spot and Perps Beta With Simulated TradFi Trading",
+   "date": "2026-10-15T14:34:52+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OKX Opens Onchain Spot and Perps Beta With Simulated TradFi Trading",
+     "url": "https://thedefiant.io/converge/cefi/okx-opens-onchain-spot-and-perps-beta-with-simulated-tradfi-trading",
+     "date": "2026-10-15T14:34:52+00:00",
+     "summary": "The points competition shares a 250,000 USDT reward pool with Outcomes. Funded trading is scheduled to follow after the contest ends."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T14:34:52+00:00",
+   "last_seen": "2026-10-15T14:34:52+00:00",
+   "summary": "The points competition shares a 250,000 USDT reward pool with Outcomes. Funded trading is scheduled to follow after the contest ends.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "c825c68792",
+   "title": "Tether Routed Payments to Hines's Firm During White House Tenure, WSJ Reports",
+   "date": "2026-10-15T14:31:28+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tether Routed Payments to Hines's Firm During White House Tenure, WSJ Reports",
+     "url": "https://thedefiant.io/converge/regulation/tether-routed-payments-to-hines-s-firm-during-white-house-tenure-wsj-reports",
+     "date": "2026-10-15T14:31:28+00:00",
+     "summary": "The Journal says Nxum earned $6.3 million from the arrangement; a firm representative said Hines received no Tether-derived funds while in government."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T14:31:28+00:00",
+   "last_seen": "2026-10-15T14:31:28+00:00",
+   "summary": "The Journal says Nxum earned $6.3 million from the arrangement; a firm representative said Hines received no Tether-derived funds while in government.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "cd161efc7c",
+   "title": "AI agents keep coming back for crypto as x402 wallet refill rate surges to 89%",
+   "date": "2026-10-15T14:30:53+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "AI agents keep coming back for crypto as x402 wallet refill rate surges to 89%",
+     "url": "https://cryptoslate.com/ai-agents-keep-coming-back-for-crypto-as-x402-wallet-refill-rate-surges-to-89/",
+     "date": "2026-10-15T14:30:53+00:00",
+     "summary": "Chainalysis\u2019s rate covers wallets already active on multiple days, leaving overall retention and independent commercial demand unmeasured. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T14:30:53+00:00",
+   "last_seen": "2026-10-15T14:30:53+00:00",
+   "summary": "Chainalysis\u2019s rate covers wallets already active on multiple days, leaving overall retention and independent commercial demand unmeasured. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "093c13cf71",
+   "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+   "date": "2026-10-15T14:27:18+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Ethereum, Altcoins See 'Outsized Drawdowns' Due to Macro Pressures",
+     "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
+     "date": "2026-10-15T14:27:18+00:00",
+     "summary": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T14:27:18+00:00",
+   "last_seen": "2026-10-15T14:27:18+00:00",
+   "summary": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day.",
+   "tags": [
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "69fd6cc655",
+   "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
+   "date": "2026-10-15T14:26:53+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Starknet opens seven-day vote on independent Layer 1 over quantum risks",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-15-starknet-opens-seven-day-vote-on-independent-layer-1-over-quantum-risks-418673",
+     "date": "2026-10-15T14:26:53+00:00",
+     "summary": "Starknet opened a seven-day poll on Thursday asking STRK holders whether to research an independent post-quantum Layer 1."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T14:26:53+00:00",
+   "last_seen": "2026-10-15T14:26:53+00:00",
+   "summary": "Starknet opened a seven-day poll on Thursday asking STRK holders whether to research an independent post-quantum Layer 1.",
+   "tags": []
+  },
+  {
+   "id": "3a2661a0f2",
+   "title": "Tokenization Is About Much More Than Bringing Assets Onchain",
+   "date": "2026-10-15T14:25:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tokenization Is About Much More Than Bringing Assets Onchain",
+     "url": "https://thedefiant.io/news/research-and-opinion/tokenization-is-about-much-more-than-bringing-assets-onchain",
+     "date": "2026-10-15T14:25:08+00:00",
+     "summary": "Instant settlement, automated coupon payments and collateral that can be re-pledged in DeFi are what separate a tokenized asset from its offchain version."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T14:25:08+00:00",
+   "last_seen": "2026-10-15T14:25:08+00:00",
+   "summary": "Instant settlement, automated coupon payments and collateral that can be re-pledged in DeFi are what separate a tokenized asset from its offchain version.",
+   "tags": [
+    "defi",
+    "legal"
+   ]
+  },
+  {
+   "id": "676efe5698",
+   "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
+   "date": "2026-10-15T14:22:43+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027",
+     "url": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T14:22:43+00:00",
+     "summary": "Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T14:22:43+00:00",
+   "last_seen": "2026-10-15T14:22:43+00:00",
+   "summary": "Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "5c272fae43",
+   "title": "Firelight Adds $30.5 Million of Cover to Kraken USDC Vault",
+   "date": "2026-10-15T14:21:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Firelight Adds $30.5 Million of Cover to Kraken USDC Vault",
+     "url": "https://thedefiant.io/news/defi/firelight-adds-30-5-million-of-cover-to-kraken-usdc-vault",
+     "date": "2026-10-15T14:21:46+00:00",
+     "summary": "Depositors face a $100,000 cap per address per coverage period, with payouts handled by Sentora rather than guaranteed by Kraken."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T14:21:46+00:00",
+   "last_seen": "2026-10-15T14:21:46+00:00",
+   "summary": "Depositors face a $100,000 cap per address per coverage period, with payouts handled by Sentora rather than guaranteed by Kraken.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "a0732929e1",
+   "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
+   "date": "2026-10-15T14:16:55+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
+     "url": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T14:16:55+00:00",
+     "summary": "The Nasdaq-listed treasury company holds about $237 million in TRX tokens and plans to raise additional capital to fund its purchases, alongside its daily accumulation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T14:16:55+00:00",
+   "last_seen": "2026-10-15T14:16:55+00:00",
+   "summary": "The Nasdaq-listed treasury company holds about $237 million in TRX tokens and plans to raise additional capital to fund its purchases, alongside its daily accumulation.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "bcb1940780",
+   "title": "Bitwise CIO argues bitcoin will benefit whether AI booms or busts",
+   "date": "2026-10-15T14:01:06+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitwise CIO argues bitcoin will benefit whether AI booms or busts",
+     "url": "https://www.theblock.co/news/markets/2026-10-15-bitwise-cio-argues-bitcoin-will-benefit-whether-ai-booms-or-busts-418668",
+     "date": "2026-10-15T14:01:06+00:00",
+     "summary": "Bitwise CIO Matt Hougan predicts an AI bubble collapse would prompt government bailouts and eventually fuel a bitcoin rally."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T14:01:06+00:00",
+   "last_seen": "2026-10-15T14:01:06+00:00",
+   "summary": "Bitwise CIO Matt Hougan predicts an AI bubble collapse would prompt government bailouts and eventually fuel a bitcoin rally.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "markets"
+   ]
+  },
   {
    "id": "0f01703c56",
    "title": "US Wholesale Inflation Accelerates to 6.3% as Bitcoin Slips",

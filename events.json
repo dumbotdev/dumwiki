@@ -1,6 +1,131 @@
 {
- "updated": "2026-10-15T22:47:41.801265+00:00",
+ "updated": "2026-10-15T23:43:40.148950+00:00",
  "events": [
+  {
+   "id": "48c06cf80f",
+   "title": "MSCI Adopts Rules Putting Strategy and Metaplanet at Risk of Index Removal",
+   "date": "2026-10-15T23:34:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "MSCI Adopts Rules Putting Strategy and Metaplanet at Risk of Index Removal",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/msci-adopts-rules-putting-strategy-and-metaplanet-at-risk-of-index-removal",
+     "date": "2026-10-15T23:34:48+00:00",
+     "summary": "A May simulation flagged both companies for deletion and SharpLink for a watchlist. MSCI will publish its final list on Nov. 11."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T23:34:48+00:00",
+   "last_seen": "2026-10-15T23:34:48+00:00",
+   "summary": "A May simulation flagged both companies for deletion and SharpLink for a watchlist. MSCI will publish its final list on Nov. 11.",
+   "tags": []
+  },
+  {
+   "id": "06c19e95c8",
+   "title": "Google Cuts Quantum Magic-State Errors 40-Fold on Willow",
+   "date": "2026-10-15T23:27:03+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Google Cuts Quantum Magic-State Errors 40-Fold on Willow",
+     "url": "https://thedefiant.io/news/infrastructure/google-cuts-quantum-magic-state-errors-40-fold-on-willow",
+     "date": "2026-10-15T23:27:03+00:00",
+     "summary": "The Science result reaches about 99.99% state fidelity, validating a technique already assumed in quantum resource estimates."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T23:27:03+00:00",
+   "last_seen": "2026-10-15T23:27:03+00:00",
+   "summary": "The Science result reaches about 99.99% state fidelity, validating a technique already assumed in quantum resource estimates.",
+   "tags": []
+  },
+  {
+   "id": "fe2693829e",
+   "title": "Pirate Chain Says Exploit Created 39.8 Million ARRR",
+   "date": "2026-10-15T23:21:21+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Pirate Chain Says Exploit Created 39.8 Million ARRR",
+     "url": "https://thedefiant.io/news/hacks/pirate-chain-says-exploit-created-39-8-million-arrr",
+     "date": "2026-10-15T23:21:21+00:00",
+     "summary": "The network remains operational, but users have been asked not to move funds while developers work on recovery."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T23:21:21+00:00",
+   "last_seen": "2026-10-15T23:21:21+00:00",
+   "summary": "The network remains operational, but users have been asked not to move funds while developers work on recovery.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "2d15256c8f",
+   "title": "bOSMO Bug Leaves Little Backing, Prompts Holder Compensation Plan",
+   "date": "2026-10-15T23:18:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "bOSMO Bug Leaves Little Backing, Prompts Holder Compensation Plan",
+     "url": "https://thedefiant.io/news/security/bosmo-bug-leaves-little-backing-prompts-holder-compensation-plan",
+     "date": "2026-10-15T23:18:39+00:00",
+     "summary": "The contract still allows cheap minting, putting liquidity pools at risk. bOSMO bought after the snapshot will not be compensated."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T23:18:39+00:00",
+   "last_seen": "2026-10-15T23:18:39+00:00",
+   "summary": "The contract still allows cheap minting, putting liquidity pools at risk. bOSMO bought after the snapshot will not be compensated.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "12e2f18a0d",
+   "title": "Brooklyn DA Pulls the Plug on Crypto Scam Network",
+   "date": "2026-10-15T23:03:27+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Brooklyn DA Pulls the Plug on Crypto Scam Network",
+     "url": "https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam",
+     "date": "2026-10-15T23:03:27+00:00",
+     "summary": "Bitcoin Magazine Brooklyn DA Pulls the Plug on Crypto Scam Network 112 servers and 241 fake sites knocked offline in one of the largest cyber takedowns ever by a local prosecutor. This post Brooklyn DA Pulls the Plug on Crypto Scam Network first appeared on Bitcoin Magazine and..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T23:03:27+00:00",
+   "last_seen": "2026-10-15T23:03:27+00:00",
+   "summary": "Bitcoin Magazine Brooklyn DA Pulls the Plug on Crypto Scam Network 112 servers and 241 fake sites knocked offline in one of the largest cyber takedowns ever by a local prosecutor. This post Brooklyn DA Pulls the Plug on Crypto Scam Network first appeared on Bitcoin Magazine and...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "af7c4478bb",
+   "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+   "date": "2026-10-15T22:42:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Scammer loses $4.8M stored on tampered Ledgers: Asia Express",
+     "url": "https://cointelegraph.com/magazine/scammer-loses-48m-stored-on-tampered-ledgers-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T22:42:58+00:00",
+     "summary": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T22:42:58+00:00",
+   "last_seen": "2026-10-15T22:42:58+00:00",
+   "summary": "A scammer reportedly lost $4.8M of stolen money after storing the funds on tampered Ledgers. Bitcoin and Ether ETFs launch trading in Thailand and South Korea blocks 27 exchanges.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum",
+    "security"
+   ]
+  },
   {
    "id": "edd2d15836",
    "title": "Quantum fixes protect Bitcoin, but legit owners risk lockout",

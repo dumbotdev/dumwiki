@@ -1,6 +1,52 @@
 {
- "updated": "2026-10-15T08:55:38.088879+00:00",
+ "updated": "2026-10-15T09:52:31.150945+00:00",
  "events": [
+  {
+   "id": "d8e4acef7e",
+   "title": "Bitcoin\u2019s $80,000 buy wall hides a liquidation trap that could send prices toward $78,000",
+   "date": "2026-10-15T09:40:18+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s $80,000 buy wall hides a liquidation trap that could send prices toward $78,000",
+     "url": "https://cryptoslate.com/bitcoins-80000-buy-wall-hides-a-liquidation-trap-that-could-send-prices-toward-78000/",
+     "date": "2026-10-15T09:40:18+00:00",
+     "summary": "Bitcoin registered an intraday low of $81,514.28 on Oct. 14 as September CPI came in hotter than forecast, with headline inflation at 3.7% year over year against 3.6% expected and core at 2.6% against 2.5%. Glassnode&#039;s latest on-chain data suggests a calmer holder base than..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T09:40:18+00:00",
+   "last_seen": "2026-10-15T09:40:18+00:00",
+   "summary": "Bitcoin registered an intraday low of $81,514.28 on Oct. 14 as September CPI came in hotter than forecast, with headline inflation at 3.7% year over year against 3.6% expected and core at 2.6% against 2.5%. Glassnode&#039;s latest on-chain data suggests a calmer holder base than...",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "48dba74a33",
+   "title": "Thailand crypto ETFs may see slow start despite new rules: CoinShares",
+   "date": "2026-10-15T09:36:20+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Thailand crypto ETFs may see slow start despite new rules: CoinShares",
+     "url": "https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T09:36:20+00:00",
+     "summary": "Thailand\u2019s new Bitcoin and Ether ETF rules take effect Friday, but CoinShares expects modest initial inflows as existing investment options compete for demand."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T09:36:20+00:00",
+   "last_seen": "2026-10-15T09:36:20+00:00",
+   "summary": "Thailand\u2019s new Bitcoin and Ether ETF rules take effect Friday, but CoinShares expects modest initial inflows as existing investment options compete for demand.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
   {
    "id": "af07fa1d0a",
    "title": "9 mega banks block crypto accounts, but new OCC rules bite back",
@@ -1273,14 +1319,22 @@
      "url": "https://thedefiant.io/news/defi/babylon-advances-native-bitcoin-collateral-plan-for-aave-v4",
      "date": "2026-10-14T14:39:12+00:00",
      "summary": "The proposal would keep collateral on Bitcoin but use WBTC to settle permissionless liquidations. Risk settings and further governance votes are still pending."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
+     "url": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T09:14:28+00:00",
+     "summary": "Babylon\u2019s proposal to bring native Bitcoin collateral to Aave V4 has entered a new governance stage, but further votes and security reviews remain before launch."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-14T14:39:12+00:00",
-   "last_seen": "2026-10-14T14:39:12+00:00",
-   "summary": "The proposal would keep collateral on Bitcoin but use WBTC to settle permissionless liquidations. Risk settings and further governance votes are still pending.",
+   "last_seen": "2026-10-15T09:14:28+00:00",
+   "summary": "Babylon\u2019s proposal to bring native Bitcoin collateral to Aave V4 has entered a new governance stage, but further votes and security reviews remain before launch.",
    "tags": [
     "bitcoin",
+    "defi",
     "markets"
    ]
   },
@@ -1507,11 +1561,18 @@
      "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
      "date": "2026-10-14T15:53:15+00:00",
      "summary": "Turkish reports say $4 million and 64 watches were seized. Police have yet to confirm Heart\u2019s detention."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "Hex founder Richard Heart arrested in Istanbul, Turkish media report",
+     "url": "https://www.coindesk.com/policy/2026/10/15/hex-founder-richard-heart-arrested-in-istanbul-turkish-media-report",
+     "date": "2026-10-15T09:20:57+00:00",
+     "summary": "Police reportedly seized $4 million in cash and 64 luxury watches during a raid on the crypto founder's Istanbul residence."
     }
    ],
-   "score": 30,
+   "score": 40,
    "first_seen": "2026-10-14T14:03:20+00:00",
-   "last_seen": "2026-10-14T15:53:15+00:00",
+   "last_seen": "2026-10-15T09:20:57+00:00",
    "summary": "Interpol\u2019s public record identifies Finland as the requesting jurisdiction and lists aggravated tax fraud; Heart\u2019s separate SEC case was dismissed in 2025.",
    "tags": [
     "legal",

@@ -1,6 +1,199 @@
 {
- "updated": "2026-10-15T14:52:42.424473+00:00",
+ "updated": "2026-10-15T15:53:40.866110+00:00",
  "events": [
+  {
+   "id": "b639e605ac",
+   "title": "Bitcoin Briefly Slides Below $80,000 On More Hot Inflation Data",
+   "date": "2026-10-15T15:53:12+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Briefly Slides Below $80,000 On More Hot Inflation Data",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-briefly-dips-below-80000",
+     "date": "2026-10-15T15:53:12+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Briefly Slides Below $80,000 On More Hot Inflation Data Bitcoin has recovered slightly despite its price getting hit again by hotter-than-expected inflation data. This post Bitcoin Briefly Slides Below $80,000 On More Hot Inflation Data first appeared on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T15:53:12+00:00",
+   "last_seen": "2026-10-15T15:53:12+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Briefly Slides Below $80,000 On More Hot Inflation Data Bitcoin has recovered slightly despite its price getting hit again by hotter-than-expected inflation data. This post Bitcoin Briefly Slides Below $80,000 On More Hot Inflation Data first appeared on...",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "f319394653",
+   "title": "Australia eyes A$14 million capital rule as crypto regulatory crackdown deepens",
+   "date": "2026-10-15T15:50:10+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Australia eyes A$14 million capital rule as crypto regulatory crackdown deepens",
+     "url": "https://cryptoslate.com/australia-eyes-a14-million-capital-rule-as-crypto-regulatory-crackdown-deepens/",
+     "date": "2026-10-15T15:50:10+00:00",
+     "summary": "The proposed A$200,000 custody floor comes with asset and revenue tests and requirements for the outside custodian. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T15:50:10+00:00",
+   "last_seen": "2026-10-15T15:50:10+00:00",
+   "summary": "The proposed A$200,000 custody floor comes with asset and revenue tests and requirements for the outside custodian. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "aa7b5f2c12",
+   "title": "DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings",
+   "date": "2026-10-15T15:48:32+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "DeFi Development boosts CHAD dividend to 14% amid push to grow Solana holdings",
+     "url": "https://www.theblock.co/news/markets/2026-10-15-defi-development-chad-dividend-rate-14-418694",
+     "date": "2026-10-15T15:48:32+00:00",
+     "summary": "DeFi Development is raising the dividend rate on its CHAD preferred stock to 14% from 13% as it taps CHAD sales to grow its Solana treasury."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T15:48:32+00:00",
+   "last_seen": "2026-10-15T15:48:32+00:00",
+   "summary": "DeFi Development is raising the dividend rate on its CHAD preferred stock to 14% from 13% as it taps CHAD sales to grow its Solana treasury.",
+   "tags": [
+    "defi",
+    "macro",
+    "solana"
+   ]
+  },
+  {
+   "id": "53b27186e0",
+   "title": "Bitcoin Holds Above $81,000 as Producer Prices Post Largest Jump Since 2022",
+   "date": "2026-10-15T15:48:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Holds Above $81,000 as Producer Prices Post Largest Jump Since 2022",
+     "url": "https://thedefiant.io/news/markets/bitcoin-holds-above-81000-producer-prices-largest-jump-since-2022-oct-15-2026",
+     "date": "2026-10-15T15:48:05+00:00",
+     "summary": "Wholesale prices rose 1.3% in September, with energy accounting for more than 80% of the increase. Bitcoin rose less than half a percent over 24 hours through the first two hours of U.S. trading, and none of the five largest tokens moved more than 1% in either direction."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T15:48:05+00:00",
+   "last_seen": "2026-10-15T15:48:05+00:00",
+   "summary": "Wholesale prices rose 1.3% in September, with energy accounting for more than 80% of the increase. Bitcoin rose less than half a percent over 24 hours through the first two hours of U.S. trading, and none of the five largest tokens moved more than 1% in either direction.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "8f72d70543",
+   "title": "Visa Direct Moves USDC Prefunding Into Production With Inyo Global",
+   "date": "2026-10-15T15:36:52+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Visa Direct Moves USDC Prefunding Into Production With Inyo Global",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/visa-direct-moves-usdc-prefunding-into-production-with-inyo-global",
+     "date": "2026-10-15T15:36:52+00:00",
+     "summary": "Eligible payment providers can fund cross-border payouts around the clock through the same Inyo APIs they already use."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T15:36:52+00:00",
+   "last_seen": "2026-10-15T15:36:52+00:00",
+   "summary": "Eligible payment providers can fund cross-border payouts around the clock through the same Inyo APIs they already use.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "3e34f67a70",
+   "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
+   "date": "2026-10-15T15:20:41+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Whipsaws as Crypto Liquidations Near $1 Billion",
+     "url": "https://decrypt.co/381044/bitcoin-whipsaws-crypto-liquidations-near-1-billion",
+     "date": "2026-10-15T15:20:41+00:00",
+     "summary": "Hot inflation data revived Fed rate-hike bets, and leveraged bulls paid the bill as nearly $1 billion in crypto positions were liquidated."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T15:20:41+00:00",
+   "last_seen": "2026-10-15T15:20:41+00:00",
+   "summary": "Hot inflation data revived Fed rate-hike bets, and leveraged bulls paid the bill as nearly $1 billion in crypto positions were liquidated.",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets",
+    "regulation"
+   ]
+  },
+  {
+   "id": "3a9ce4f50c",
+   "title": "Crypto.com Launches Predict Pro With Order Books and Sports Combos",
+   "date": "2026-10-15T15:12:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Crypto.com Launches Predict Pro With Order Books and Sports Combos",
+     "url": "https://thedefiant.io/news/markets/crypto-com-launches-predict-pro-with-order-books-and-sports-combos",
+     "date": "2026-10-15T15:12:13+00:00",
+     "summary": "The platform connects US traders to OG.com Markets and supports sports combinations of two to 20 predictions, with any losing leg making the entire combo a loss."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T15:12:13+00:00",
+   "last_seen": "2026-10-15T15:12:13+00:00",
+   "summary": "The platform connects US traders to OG.com Markets and supports sports combinations of two to 20 predictions, with any losing leg making the entire combo a loss.",
+   "tags": []
+  },
+  {
+   "id": "630bd9acb9",
+   "title": "Bitcoin slips under $80K after US PPI gains most in four years",
+   "date": "2026-10-15T15:10:44+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin slips under $80K after US PPI gains most in four years",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T15:10:44+00:00",
+     "summary": "BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly gain since March 2022"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T15:10:44+00:00",
+   "last_seen": "2026-10-15T15:10:44+00:00",
+   "summary": "BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations by 100 basis points for the largest monthly gain since March 2022",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "169dfba23b",
+   "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+   "date": "2026-10-15T15:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
+     "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
+     "date": "2026-10-15T15:00:00+00:00",
+     "summary": ""
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T15:00:00+00:00",
+   "last_seen": "2026-10-15T15:00:00+00:00",
+   "summary": "",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "fc7472f554",
    "title": "Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid",

@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-14T23:43:21.837772+00:00",
+ "updated": "2026-10-15T01:00:29.343063+00:00",
  "events": [
+  {
+   "id": "b86fc05108",
+   "title": "Solana sets October 21 for massive Alpenglow upgrade that could make transactions 99% faster to finalize",
+   "date": "2026-10-15T00:00:17+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Solana sets October 21 for massive Alpenglow upgrade that could make transactions 99% faster to finalize",
+     "url": "https://cryptoslate.com/solana-sets-october-21-for-massive-alpenglow-upgrade-that-could-make-transactions-99-faster-to-finalize/",
+     "date": "2026-10-15T00:00:17+00:00",
+     "summary": "The mainnet plan calls for a live consensus replacement, with roughly 150ms finality dependent on network conditions and a coordinated validator handoff. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T00:00:17+00:00",
+   "last_seen": "2026-10-15T00:00:17+00:00",
+   "summary": "The mainnet plan calls for a live consensus replacement, with roughly 150ms finality dependent on network conditions and a coordinated validator handoff. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "solana"
+   ]
+  },
   {
    "id": "e333f1db8e",
    "title": "Coins.ph users face app lockout as central bank intervenes",

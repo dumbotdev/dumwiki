@@ -1,6 +1,219 @@
 {
- "updated": "2026-10-15T13:06:12.571521+00:00",
+ "updated": "2026-10-15T13:58:30.789411+00:00",
  "events": [
+  {
+   "id": "0f01703c56",
+   "title": "US Wholesale Inflation Accelerates to 6.3% as Bitcoin Slips",
+   "date": "2026-10-15T13:53:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "US Wholesale Inflation Accelerates to 6.3% as Bitcoin Slips",
+     "url": "https://thedefiant.io/news/markets/us-wholesale-inflation-accelerates-to-6-3-as-bitcoin-slips",
+     "date": "2026-10-15T13:53:19+00:00",
+     "summary": "Gasoline producer prices jumped 20.3% in September, while Polymarket traders put a 72.5% probability on the Fed holding rates at its next meeting."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T13:53:19+00:00",
+   "last_seen": "2026-10-15T13:53:19+00:00",
+   "summary": "Gasoline producer prices jumped 20.3% in September, while Polymarket traders put a 72.5% probability on the Fed holding rates at its next meeting.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "036ac6ba95",
+   "title": "Safe Launches Safenet Aegis Security Network on Three Chains",
+   "date": "2026-10-15T13:38:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Safe Launches Safenet Aegis Security Network on Three Chains",
+     "url": "https://thedefiant.io/news/security/safe-launches-safenet-aegis-security-network-on-three-chains",
+     "date": "2026-10-15T13:38:04+00:00",
+     "summary": "Checks cost 0.40 USDC, paid to security providers, while onchain enforcement requires enabling a Guard on the Safe account."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T13:38:04+00:00",
+   "last_seen": "2026-10-15T13:38:04+00:00",
+   "summary": "Checks cost 0.40 USDC, paid to security providers, while onchain enforcement requires enabling a Guard on the Safe account.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "3dc803a419",
+   "title": "Latin America\u2019s MSTR: How OranjeBTC is Running the Saylor Playbook in Brazil | Gui Gomes",
+   "date": "2026-10-15T13:34:18+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Latin America\u2019s MSTR: How OranjeBTC is Running the Saylor Playbook in Brazil | Gui Gomes",
+     "url": "https://bitcoinmagazine.com/videos/latin-americas-mstr-how-oranjebtc-is-running-the-saylor-playbook-in-brazil-gui-gomes",
+     "date": "2026-10-15T13:34:18+00:00",
+     "summary": "Bitcoin Magazine Latin America\u2019s MSTR: How OranjeBTC is Running the Saylor Playbook in Brazil | Gui Gomes Bitcoin is the best collateral, says OranjeBTC CEO Gui Gomes. He breaks down BTC-backed loans, Brazil's adoption, and the path to global reserve status. This post Latin..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T13:34:18+00:00",
+   "last_seen": "2026-10-15T13:34:18+00:00",
+   "summary": "Bitcoin Magazine Latin America\u2019s MSTR: How OranjeBTC is Running the Saylor Playbook in Brazil | Gui Gomes Bitcoin is the best collateral, says OranjeBTC CEO Gui Gomes. He breaks down BTC-backed loans, Brazil's adoption, and the path to global reserve status. This post Latin...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "27709569da",
+   "title": "Ledger Announces Atom Touchscreen Android Device",
+   "date": "2026-10-15T13:32:21+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Ledger Announces Atom Touchscreen Android Device",
+     "url": "https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device",
+     "date": "2026-10-15T13:32:21+00:00",
+     "summary": "Ledger says the Android-based Atom will carry anti-tamper protections and be sold only on its site, as it probes tampered resold wallets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T13:32:21+00:00",
+   "last_seen": "2026-10-15T13:32:21+00:00",
+   "summary": "Ledger says the Android-based Atom will carry anti-tamper protections and be sold only on its site, as it probes tampered resold wallets.",
+   "tags": []
+  },
+  {
+   "id": "2dd9bc9329",
+   "title": "Can the SEC and CFTC\u2019s pro-crypto rules be overturned? Legal opinion",
+   "date": "2026-10-15T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Can the SEC and CFTC\u2019s pro-crypto rules be overturned? Legal opinion",
+     "url": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T13:30:00+00:00",
+     "summary": "The SEC and the CFTC have issued a raft of pro-crypto rules recently. But will the rules hold up in court, and can they be easily rolled back by the \u201canti-crypto army\u201d?"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T13:30:00+00:00",
+   "last_seen": "2026-10-15T13:30:00+00:00",
+   "summary": "The SEC and the CFTC have issued a raft of pro-crypto rules recently. But will the rules hold up in court, and can they be easily rolled back by the \u201canti-crypto army\u201d?",
+   "tags": [
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "79c65e0ab6",
+   "title": "Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst",
+   "date": "2026-10-15T13:28:48+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst",
+     "url": "https://bitcoinmagazine.com/videos/charles-edwards-why-quantum-risk-could-be-massive-btc-upside-catalyst",
+     "date": "2026-10-15T13:28:48+00:00",
+     "summary": "Bitcoin Magazine Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst What will push Bitcoin to new highs? Charles Edwards breaks down key catalysts, from Fed policy shifts and government adoption to ETF institutional inflows. This post Charles Edwards: Why..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T13:28:48+00:00",
+   "last_seen": "2026-10-15T13:28:48+00:00",
+   "summary": "Bitcoin Magazine Charles Edwards: Why Quantum Risk Could Be MASSIVE BTC Upside Catalyst What will push Bitcoin to new highs? Charles Edwards breaks down key catalysts, from Fed policy shifts and government adoption to ETF institutional inflows. This post Charles Edwards: Why...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "macro"
+   ]
+  },
+  {
+   "id": "3795838e06",
+   "title": "Wellington-Altus\u2019 James Thorne: Bitcoin \u201cSupercycle\u201d has Begun",
+   "date": "2026-10-15T13:23:35+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Wellington-Altus\u2019 James Thorne: Bitcoin \u201cSupercycle\u201d has Begun",
+     "url": "https://bitcoinmagazine.com/videos/wellington-altus-james-thorne-bitcoin-supercycle-has-begun",
+     "date": "2026-10-15T13:23:35+00:00",
+     "summary": "Bitcoin Magazine Wellington-Altus&#8217; James Thorne: Bitcoin &#8220;Supercycle&#8221; has Begun Is Bitcoin in a generational supercycle? Wellington-Altus's James Thorne explains why changing market structures signal the end of the four-year cycle. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T13:23:35+00:00",
+   "last_seen": "2026-10-15T13:23:35+00:00",
+   "summary": "Bitcoin Magazine Wellington-Altus&#8217; James Thorne: Bitcoin &#8220;Supercycle&#8221; has Begun Is Bitcoin in a generational supercycle? Wellington-Altus's James Thorne explains why changing market structures signal the end of the four-year cycle. This post...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "9b8669133a",
+   "title": "Ethereum\u2019s faster-exit plan would leave new validators waiting to earn",
+   "date": "2026-10-15T13:20:02+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum\u2019s faster-exit plan would leave new validators waiting to earn",
+     "url": "https://cryptoslate.com/ethereums-faster-exit-plan-would-preserve-an-earnings-hurdle-for-new-stakers/",
+     "date": "2026-10-15T13:20:02+00:00",
+     "summary": "A dated three-week entry estimate shows how direct deposits and pooled holdings bear the cost of inactive staking capital. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T13:20:02+00:00",
+   "last_seen": "2026-10-15T13:20:02+00:00",
+   "summary": "A dated three-week entry estimate shows how direct deposits and pooled holdings bear the cost of inactive staking capital. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "cbee4696cb",
+   "title": "Troy Cross: Number Go Up \u2013 The Solution to Bitcoin\u2019s Marketing Problem?",
+   "date": "2026-10-15T13:18:09+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Troy Cross: Number Go Up \u2013 The Solution to Bitcoin\u2019s Marketing Problem?",
+     "url": "https://bitcoinmagazine.com/videos/troy-cross-number-go-up-the-solution-to-bitcoins-marketing-problem",
+     "date": "2026-10-15T13:18:09+00:00",
+     "summary": "Bitcoin Magazine Troy Cross: Number Go Up &#8211; The Solution to Bitcoin&#8217;s Marketing Problem? Can Bitcoin separate money and state? Troy Cross argues it puts a check on endless printing as a safe haven, while academics will be the last to adopt it. This post Troy Cross:..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T13:18:09+00:00",
+   "last_seen": "2026-10-15T13:18:09+00:00",
+   "summary": "Bitcoin Magazine Troy Cross: Number Go Up &#8211; The Solution to Bitcoin&#8217;s Marketing Problem? Can Bitcoin separate money and state? Troy Cross argues it puts a check on endless printing as a safe haven, while academics will be the last to adopt it. This post Troy Cross:...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "bdc47d728d",
+   "title": "Stripe and Plasma to Develop Multi-Currency Stablecoin Cards",
+   "date": "2026-10-15T13:09:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Stripe and Plasma to Develop Multi-Currency Stablecoin Cards",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/stripe-and-plasma-to-develop-multi-currency-stablecoin-cards",
+     "date": "2026-10-15T13:09:51+00:00",
+     "summary": "Plasma plans to move to Stripe\u2019s card infrastructure, with direct euro spending among the capabilities under development."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T13:09:51+00:00",
+   "last_seen": "2026-10-15T13:09:51+00:00",
+   "summary": "Plasma plans to move to Stripe\u2019s card infrastructure, with direct euro spending among the capabilities under development.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "9230f52a85",
    "title": "Helius CEO Mert Mumtaz joins NEAR Foundation Council",

@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-15T10:53:18.794424+00:00",
+ "updated": "2026-10-15T11:51:40.934097+00:00",
  "events": [
+  {
+   "id": "86e3ee8d19",
+   "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
+   "date": "2026-10-15T11:48:42+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
+     "url": "https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data",
+     "date": "2026-10-15T11:48:42+00:00",
+     "summary": "Odds of an October Fed hike have climbed to 29% from 18% a week ago, and analysts see Bitcoin range-bound until the picture clears."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T11:48:42+00:00",
+   "last_seen": "2026-10-15T11:48:42+00:00",
+   "summary": "Odds of an October Fed hike have climbed to 29% from 18% a week ago, and analysts see Bitcoin range-bound until the picture clears.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "7af3aa5ada",
+   "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
+   "date": "2026-10-15T11:15:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
+     "date": "2026-10-15T11:15:00+00:00",
+     "summary": "Your day-ahead look for Oct. 15, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T11:15:00+00:00",
+   "last_seen": "2026-10-15T11:15:00+00:00",
+   "summary": "Your day-ahead look for Oct. 15, 2026",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "1872c681a5",
+   "title": "Bitcoin\u2019s AI-driven rally faces a hidden danger if the machines get richer but workers don\u2019t",
+   "date": "2026-10-15T11:00:07+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s AI-driven rally faces a hidden danger if the machines get richer but workers don\u2019t",
+     "url": "https://cryptoslate.com/bitcoins-ai-driven-rally-faces-a-hidden-danger-if-the-machines-get-richer-but-workers-dont/",
+     "date": "2026-10-15T11:00:07+00:00",
+     "summary": "Bitwise CIO Matt Hougan argued in an Oct. 14 memo that nearly every macroeconomic path ends with Bitcoin higher, including an extraordinary AI productivity boom that makes scarce assets more valuable. Two days earlier, the Bank for International Settlements published a working..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T11:00:07+00:00",
+   "last_seen": "2026-10-15T11:00:07+00:00",
+   "summary": "Bitwise CIO Matt Hougan argued in an Oct. 14 memo that nearly every macroeconomic path ends with Bitcoin higher, including an extraordinary AI productivity boom that makes scarce assets more valuable. Two days earlier, the Bank for International Settlements published a working...",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "markets"
+   ]
+  },
   {
    "id": "da03fcaa30",
    "title": "Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower",
@@ -1439,11 +1505,18 @@
      "url": "https://thedefiant.io/converge/regulation/eba-names-usdc-the-eu-s-first-significant-e-money-token",
      "date": "2026-10-14T15:12:07+00:00",
      "summary": "Financial supervision shifts to the EBA on Nov. 12, while France\u2019s ACPR keeps responsibility for governance and other corporate matters."
+    },
+    {
+     "source": "The Block",
+     "title": "EBA designates Circle\u2019s USDC as the EU\u2019s first \u2018significant\u2019 e-money token",
+     "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
+     "date": "2026-10-15T11:10:07+00:00",
+     "summary": "The EBA classified Circle\u2019s USDC as the EU\u2019s first \"significant\" e-money token, with new supervisory responsibilities beginning Nov. 12."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-14T15:12:07+00:00",
-   "last_seen": "2026-10-14T15:12:07+00:00",
+   "last_seen": "2026-10-15T11:10:07+00:00",
    "summary": "Financial supervision shifts to the EBA on Nov. 12, while France\u2019s ACPR keeps responsibility for governance and other corporate matters.",
    "tags": [
     "stablecoins"

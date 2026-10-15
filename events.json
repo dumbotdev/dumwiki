@@ -1,6 +1,113 @@
 {
- "updated": "2026-10-15T15:53:40.866110+00:00",
+ "updated": "2026-10-15T16:55:00.166591+00:00",
  "events": [
+  {
+   "id": "381760f624",
+   "title": "Sweden revisits digital krona as ECB advances digital euro plans",
+   "date": "2026-10-15T16:49:59+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Sweden revisits digital krona as ECB advances digital euro plans",
+     "url": "https://cointelegraph.com/news/sweden-riksbank-digital-krona-cbdc-legislation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T16:49:59+00:00",
+     "summary": "Sweden\u2019s Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreign-currency stablecoins and the future of domestic payments."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T16:49:59+00:00",
+   "last_seen": "2026-10-15T16:49:59+00:00",
+   "summary": "Sweden\u2019s Riksbank has recommended that lawmakers prepare for a possible digital krona, citing concerns over foreign-currency stablecoins and the future of domestic payments.",
+   "tags": []
+  },
+  {
+   "id": "be02bf0a7c",
+   "title": "Schwab Completes Retail Bitcoin and Ether Rollout, Begins Crypto Transfers",
+   "date": "2026-10-15T16:30:41+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Schwab Completes Retail Bitcoin and Ether Rollout, Begins Crypto Transfers",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/schwab-completes-retail-bitcoin-and-ether-rollout-begins-crypto-transfers",
+     "date": "2026-10-15T16:30:41+00:00",
+     "summary": "Solana, Avalanche and Chainlink are planned by year-end as CEO Rick Wurster points to crypto as a source of transaction-based revenue."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T16:30:41+00:00",
+   "last_seen": "2026-10-15T16:30:41+00:00",
+   "summary": "Solana, Avalanche and Chainlink are planned by year-end as CEO Rick Wurster points to crypto as a source of transaction-based revenue.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "7535b7bf65",
+   "title": "CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat",
+   "date": "2026-10-15T16:06:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "CleanSpark and BitFuFu see bitcoin production slip in September as Canaan remains flat",
+     "url": "https://www.theblock.co/news/business/2026-10-15-cleanspark-bitfufu-bitcoin-production-slip-september-canaan-remains-flat-418686",
+     "date": "2026-10-15T16:06:00+00:00",
+     "summary": "CleanSpark is ending monthly mining reports, while BitFuFu faces uncertainty over its Ethiopia deal."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T16:06:00+00:00",
+   "last_seen": "2026-10-15T16:06:00+00:00",
+   "summary": "CleanSpark is ending monthly mining reports, while BitFuFu faces uncertainty over its Ethiopia deal.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "d6bba14ea6",
+   "title": "Multiliquid, a settlement platform for tokenized assets, raises $8 million",
+   "date": "2026-10-15T16:00:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Multiliquid, a settlement platform for tokenized assets, raises $8 million",
+     "url": "https://www.theblock.co/news/deals/2026-10-15-multiliquid-tokenized-assets-funding-418693",
+     "date": "2026-10-15T16:00:02+00:00",
+     "summary": "Multiliquid has raised $8 million across its pre-seed and seed rounds, with Polychain leading the seed round."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T16:00:02+00:00",
+   "last_seen": "2026-10-15T16:00:02+00:00",
+   "summary": "Multiliquid has raised $8 million across its pre-seed and seed rounds, with Polychain leading the seed round.",
+   "tags": [
+    "funding",
+    "legal"
+   ]
+  },
+  {
+   "id": "c5944564aa",
+   "title": "Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users",
+   "date": "2026-10-15T15:58:08+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users",
+     "url": "https://bitcoinmagazine.com/news/ledger-says-crime-group-spent-millions",
+     "date": "2026-10-15T15:58:08+00:00",
+     "summary": "Bitcoin Magazine Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users Hardware wallet manufacturer Ledger has released a statement following a \u201csophisticated\u201d supply chain attack. This post Ledger Says Organized Crime Group Spent Millions Targeting..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T15:58:08+00:00",
+   "last_seen": "2026-10-15T15:58:08+00:00",
+   "summary": "Bitcoin Magazine Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users Hardware wallet manufacturer Ledger has released a statement following a \u201csophisticated\u201d supply chain attack. This post Ledger Says Organized Crime Group Spent Millions Targeting...",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
   {
    "id": "b639e605ac",
    "title": "Bitcoin Briefly Slides Below $80,000 On More Hot Inflation Data",
@@ -85,6 +192,28 @@
    "summary": "Wholesale prices rose 1.3% in September, with energy accounting for more than 80% of the increase. Bitcoin rose less than half a percent over 24 hours through the first two hours of U.S. trading, and none of the five largest tokens moved more than 1% in either direction.",
    "tags": [
     "bitcoin"
+   ]
+  },
+  {
+   "id": "e18daf69dc",
+   "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
+   "date": "2026-10-15T15:46:05+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Mastercard brings stablecoin balances into traditional banking and card payments",
+     "url": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T15:46:05+00:00",
+     "summary": "The launch of Global Money Platform marks Mastercard\u2019s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T15:46:05+00:00",
+   "last_seen": "2026-10-15T15:46:05+00:00",
+   "summary": "The launch of Global Money Platform marks Mastercard\u2019s first major integration with BVNK since its August acquisition, with Nuvei and Marqeta among the first companies to adopt the platform.",
+   "tags": [
+    "funding",
+    "stablecoins"
    ]
   },
   {
@@ -1069,13 +1198,22 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/bvnk-launches-global-money-platform-linking-stablecoins-to-mastercard-rails",
      "date": "2026-10-15T10:34:38+00:00",
      "summary": "Nuvei and Marqeta are among the first planned integrators; local-payout coverage is expected to expand in 2027."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Mastercard and BVNK Launch 'Global Money Platform' to Merge Fiat and Stablecoins",
+     "url": "https://decrypt.co/381057/mastercard-bvnk-global-money-platform-fiat-stablecoins",
+     "date": "2026-10-15T16:28:50+00:00",
+     "summary": "The first major integration since Mastercard\u2019s $1.8 billion BVNK acquisition lets banks, fintechs and enterprises hold, convert, and spend fiat and stablecoins through a single API, with agentic commerce support planned."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-15T10:34:38+00:00",
-   "last_seen": "2026-10-15T10:34:38+00:00",
-   "summary": "Nuvei and Marqeta are among the first planned integrators; local-payout coverage is expected to expand in 2027.",
-   "tags": []
+   "last_seen": "2026-10-15T16:28:50+00:00",
+   "summary": "The first major integration since Mastercard\u2019s $1.8 billion BVNK acquisition lets banks, fintechs and enterprises hold, convert, and spend fiat and stablecoins through a single API, with agentic commerce support planned.",
+   "tags": [
+    "funding"
+   ]
   },
   {
    "id": "789866fa67",

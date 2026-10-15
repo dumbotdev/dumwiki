@@ -1,6 +1,87 @@
 {
- "updated": "2026-10-15T05:50:33.540657+00:00",
+ "updated": "2026-10-15T07:07:28.110800+00:00",
  "events": [
+  {
+   "id": "620af9742f",
+   "title": "Ethereum HEX Sinks 31% After Reports of Richard Heart's Detention",
+   "date": "2026-10-15T06:53:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ethereum HEX Sinks 31% After Reports of Richard Heart's Detention",
+     "url": "https://thedefiant.io/news/markets/ethereum-hex-sinks-31-after-reports-of-richard-heart-s-detention",
+     "date": "2026-10-15T06:53:08+00:00",
+     "summary": "A Uniswap pool handling about $703,000 in daily HEX trading held just $354,000 in liquidity, adding execution risk for sellers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T06:53:08+00:00",
+   "last_seen": "2026-10-15T06:53:08+00:00",
+   "summary": "A Uniswap pool handling about $703,000 in daily HEX trading held just $354,000 in liquidity, adding execution risk for sellers.",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "3d8723cbbd",
+   "title": "USDC splits global reserves as EBA enforces Nov 12 handover",
+   "date": "2026-10-15T06:30:14+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "USDC splits global reserves as EBA enforces Nov 12 handover",
+     "url": "https://cryptoslate.com/usdc-splits-global-reserves-as-eba-enforces-nov-12-handover/",
+     "date": "2026-10-15T06:30:14+00:00",
+     "summary": "The EBA&#039;s designation brings dual supervision of Circle&#039;s EU issuer, while its Oct. 1 response seeks more flexible reserve requirements. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T06:30:14+00:00",
+   "last_seen": "2026-10-15T06:30:14+00:00",
+   "summary": "The EBA&#039;s designation brings dual supervision of Circle&#039;s EU issuer, while its Oct. 1 response seeks more flexible reserve requirements. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "10f8350748",
+   "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+   "date": "2026-10-15T06:17:58+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "BlackRock's Fink names a U.S. recession trigger, sounds alarm over $40 trillion national debt",
+     "url": "https://www.coindesk.com/markets/2026/10/15/blackrock-s-larry-fink-names-a-u-s-recession-trigger-and-its-tied-to-ai",
+     "date": "2026-10-15T06:17:58+00:00",
+     "summary": "BlackRock's CEO says \"a moratorium of some sort\" on data center buildouts would put the U.S. in a recession."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T06:17:58+00:00",
+   "last_seen": "2026-10-15T06:17:58+00:00",
+   "summary": "BlackRock's CEO says \"a moratorium of some sort\" on data center buildouts would put the U.S. in a recession.",
+   "tags": []
+  },
+  {
+   "id": "ceb8e89d88",
+   "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+   "date": "2026-10-15T05:52:21+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "South Korea plans cybersecurity overhaul after attacks hit banks, crypto firms",
+     "url": "https://cointelegraph.com/news/south-korea-cybersecurity-overhaul-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T05:52:21+00:00",
+     "summary": "South Korea is proposing tougher cybersecurity assessments after a review identified security deficiencies at 130 financial firms."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T05:52:21+00:00",
+   "last_seen": "2026-10-15T05:52:21+00:00",
+   "summary": "South Korea is proposing tougher cybersecurity assessments after a review identified security deficiencies at 130 financial firms.",
+   "tags": []
+  },
   {
    "id": "14bb7ae94e",
    "title": "Australia seeks feedback on crypto platform rules ahead of 2027 rollout",

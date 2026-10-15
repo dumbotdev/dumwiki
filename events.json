@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-15T20:51:28.758913+00:00",
+ "updated": "2026-10-15T21:50:29.316633+00:00",
  "events": [
+  {
+   "id": "e8d487503a",
+   "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
+   "date": "2026-10-15T21:46:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
+     "url": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
+     "date": "2026-10-15T21:46:04+00:00",
+     "summary": "Google's Willow chip cut errors 40x on the scarce \u201cmagic states\u201d quantum computers burn through, a step toward smaller, useful machines\u2014and toward ones that could threaten today's encryption."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T21:46:04+00:00",
+   "last_seen": "2026-10-15T21:46:04+00:00",
+   "summary": "Google's Willow chip cut errors 40x on the scarce \u201cmagic states\u201d quantum computers burn through, a step toward smaller, useful machines\u2014and toward ones that could threaten today's encryption.",
+   "tags": []
+  },
+  {
+   "id": "57a790f161",
+   "title": "Farcaster acquired by Balaji\u2019s Network School, with new \u2018social smart contract\u2019 for users",
+   "date": "2026-10-15T21:41:14+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Farcaster acquired by Balaji\u2019s Network School, with new \u2018social smart contract\u2019 for users",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-15-network-school-acquires-farcaster-from-neynar-418720",
+     "date": "2026-10-15T21:41:14+00:00",
+     "summary": "Balaji Srinivasan's Network School acquired Farcaster from Neynar. Users must sign a \"social smart contract\" or drop to read-only access."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T21:41:14+00:00",
+   "last_seen": "2026-10-15T21:41:14+00:00",
+   "summary": "Balaji Srinivasan's Network School acquired Farcaster from Neynar. Users must sign a \"social smart contract\" or drop to read-only access.",
+   "tags": []
+  },
+  {
+   "id": "a33f9d2856",
+   "title": "Aave V4\u2019s Arc Markets Connect Dollar-Euro Loans to Shared Liquidity",
+   "date": "2026-10-15T21:18:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aave V4\u2019s Arc Markets Connect Dollar-Euro Loans to Shared Liquidity",
+     "url": "https://thedefiant.io/news/defi/aave-v4-s-arc-markets-connect-dollar-euro-loans-to-shared-liquidity",
+     "date": "2026-10-15T21:18:33+00:00",
+     "summary": "The deployment launched Sept. 16 with four reserve assets. Its Forex market lets borrowers pledge EURC, which is not eligible collateral in Arc\u2019s Main market."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T21:18:33+00:00",
+   "last_seen": "2026-10-15T21:18:33+00:00",
+   "summary": "The deployment launched Sept. 16 with four reserve assets. Its Forex market lets borrowers pledge EURC, which is not eligible collateral in Arc\u2019s Main market.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "14666d197a",
+   "title": "Two firms control corporate Bitcoin buys, even as business adoption broadens",
+   "date": "2026-10-15T21:10:08+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Two firms control corporate Bitcoin buys, even as business adoption broadens",
+     "url": "https://cryptoslate.com/two-firms-control-corporate-bitcoin-buys-even-as-business-adoption-broadens/",
+     "date": "2026-10-15T21:10:08+00:00",
+     "summary": "River\u2019s net holdings figures show concentration, while issuer disclosures separate fresh purchases from merger transfers, expected financing and share buybacks. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T21:10:08+00:00",
+   "last_seen": "2026-10-15T21:10:08+00:00",
+   "summary": "River\u2019s net holdings figures show concentration, while issuer disclosures separate fresh purchases from merger transfers, expected financing and share buybacks. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "dd895858ca",
    "title": "Russia Will Soon Ban Peer-to-Peer Bitcoin Trading, Central Bank Confirms",

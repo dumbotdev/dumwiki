@@ -1,6 +1,71 @@
 {
- "updated": "2026-10-15T02:52:03.883529+00:00",
+ "updated": "2026-10-15T03:53:18.195959+00:00",
  "events": [
+  {
+   "id": "0ba576536c",
+   "title": "Bitcoin miners plunge up to 13% in Wall Street\u2019s worst selloff since July",
+   "date": "2026-10-15T03:29:22+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin miners plunge up to 13% in Wall Street\u2019s worst selloff since July",
+     "url": "https://cointelegraph.com/markets/bitcoin-miners-plunge-up-to-13-in-wall-streets-worst-selloff-since-july?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T03:29:22+00:00",
+     "summary": "TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hotter inflation hit AI infrastructure companies."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T03:29:22+00:00",
+   "last_seen": "2026-10-15T03:29:22+00:00",
+   "summary": "TeraWulf, Core Scientific, Cipher Mining and IREN each lost more than 12% as hotter inflation hit AI infrastructure companies.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "e2c947d30d",
+   "title": "Ledger Wallet Tampering: What Is Confirmed and What Owners Should Know",
+   "date": "2026-10-15T02:53:59+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ledger Wallet Tampering: What Is Confirmed and What Owners Should Know",
+     "url": "https://thedefiant.io/news/security/ledger-wallet-tampering-what-is-confirmed-and-what-owners-should-know",
+     "date": "2026-10-15T02:53:59+00:00",
+     "summary": "Ledger tells CryptoBilis buyers to leave unused wallets uninitialized and move assets from already-set-up devices to a new device with a new recovery phrase."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T02:53:59+00:00",
+   "last_seen": "2026-10-15T02:53:59+00:00",
+   "summary": "Ledger tells CryptoBilis buyers to leave unused wallets uninitialized and move assets from already-set-up devices to a new device with a new recovery phrase.",
+   "tags": []
+  },
+  {
+   "id": "48dd1ba7c1",
+   "title": "US Event-Contract Rules: What the CFTC Has Changed and What Remains Unresolved",
+   "date": "2026-10-15T02:53:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "US Event-Contract Rules: What the CFTC Has Changed and What Remains Unresolved",
+     "url": "https://thedefiant.io/news/regulation/us-event-contract-rules-what-the-cftc-has-changed-and-what-remains-unresolved",
+     "date": "2026-10-15T02:53:06+00:00",
+     "summary": "A guide to the proposed swap definition, the adopted casino-wager exclusion and the court split over state gambling laws\u2014and why each has a different legal effect."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T02:53:06+00:00",
+   "last_seen": "2026-10-15T02:53:06+00:00",
+   "summary": "A guide to the proposed swap definition, the adopted casino-wager exclusion and the court split over state gambling laws\u2014and why each has a different legal effect.",
+   "tags": [
+    "legal",
+    "regulation"
+   ]
+  },
   {
    "id": "569ba92a2a",
    "title": "Firelight forces XRP-linked tokens lockup as withdrawal delay queue grows",

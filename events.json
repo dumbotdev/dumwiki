@@ -1,6 +1,89 @@
 {
- "updated": "2026-10-16T03:53:02.791733+00:00",
+ "updated": "2026-10-16T04:53:18.961159+00:00",
  "events": [
+  {
+   "id": "c54d7a283e",
+   "title": "Crypto market cap leaps $800B in Q3, but spot volume drops 14%",
+   "date": "2026-10-16T04:40:20+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Crypto market cap leaps $800B in Q3, but spot volume drops 14%",
+     "url": "https://cryptoslate.com/crypto-market-cap-leaps-800b-in-q3-but-spot-volume-drops-14/",
+     "date": "2026-10-16T04:40:20+00:00",
+     "summary": "CoinGecko\u2019s Q3 2026 report shows spot turnover at its top 10 centralized exchanges fell 14.2%, while perpetual open interest ended September above $100 billion. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T04:40:20+00:00",
+   "last_seen": "2026-10-16T04:40:20+00:00",
+   "summary": "CoinGecko\u2019s Q3 2026 report shows spot turnover at its top 10 centralized exchanges fell 14.2%, while perpetual open interest ended September above $100 billion. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst...",
+   "tags": []
+  },
+  {
+   "id": "e16d2746db",
+   "title": "Solana's Shanghai Event Halted With Officers Present, Attendees Say",
+   "date": "2026-10-16T04:29:25+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Solana's Shanghai Event Halted With Officers Present, Attendees Say",
+     "url": "https://thedefiant.io/news/regulation/solana-s-shanghai-event-halted-with-officers-present-attendees-say",
+     "date": "2026-10-16T04:29:25+00:00",
+     "summary": "The interruption follows a new Shanghai office and skyline promotion at the start of the foundation\u2019s four-city China tour."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T04:29:25+00:00",
+   "last_seen": "2026-10-16T04:29:25+00:00",
+   "summary": "The interruption follows a new Shanghai office and skyline promotion at the start of the foundation\u2019s four-city China tour.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "442faf6bad",
+   "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+   "date": "2026-10-16T04:29:19+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "An OpenAI agent ran out of Ethereum funds, and took from a wallet it did not own",
+     "url": "https://www.coindesk.com/tech/2026/10/16/an-openai-agent-ran-out-of-ethereum-funds-and-took-from-a-wallet-it-did-not-own",
+     "date": "2026-10-16T04:29:19+00:00",
+     "summary": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds \u201ceffectively abandoned\u201d and used them anyway."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T04:29:19+00:00",
+   "last_seen": "2026-10-16T04:29:19+00:00",
+   "summary": "The research model derived funded Sepolia addresses from public seed phrases, questioned whether using the money was ethical, then called the funds \u201ceffectively abandoned\u201d and used them anyway.",
+   "tags": [
+    "ai",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "3e104147f6",
+   "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+   "date": "2026-10-16T04:14:22+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin buyers snap up a brief drop below $80,000 as Asian stocks rebound",
+     "url": "https://www.coindesk.com/markets/2026/10/16/bitcoin-buyers-snap-up-a-brief-drop-below-usd80-000-as-asian-stocks-rebound",
+     "date": "2026-10-16T04:14:22+00:00",
+     "summary": "Bitcoin tore back to $82,500 within two hours of dipping under $80,000, and chipmakers in Seoul recovered from their worst close since April."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T04:14:22+00:00",
+   "last_seen": "2026-10-16T04:14:22+00:00",
+   "summary": "Bitcoin tore back to $82,500 within two hours of dipping under $80,000, and chipmakers in Seoul recovered from their worst close since April.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "27deb7da78",
    "title": "82 criminal charges follow armed crypto abduction in Toronto",

@@ -1,6 +1,133 @@
 {
- "updated": "2026-10-16T17:48:32.028000+00:00",
+ "updated": "2026-10-16T18:57:16.158880+00:00",
  "events": [
+  {
+   "id": "1b8d6128cb",
+   "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
+   "date": "2026-10-16T18:55:37+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",
+     "url": "https://decrypt.co/381178/circle-40-emerging-markets-stablecoins-go-mainstream",
+     "date": "2026-10-16T18:55:37+00:00",
+     "summary": "Circle CEO Jeremy Allaire told Reuters the USDC issuer plans to enter about 40 emerging and developing markets, citing rising demand in Southeast Asia, Latin America, Africa and the Middle East."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T18:55:37+00:00",
+   "last_seen": "2026-10-16T18:55:37+00:00",
+   "summary": "Circle CEO Jeremy Allaire told Reuters the USDC issuer plans to enter about 40 emerging and developing markets, citing rising demand in Southeast Asia, Latin America, Africa and the Middle East.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "370c038d40",
+   "title": "OpenAI\u2019s rogue crypto agent spent funds without permission, exposing risks to autonomous wallets",
+   "date": "2026-10-16T18:40:50+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "OpenAI\u2019s rogue crypto agent spent funds without permission, exposing risks to autonomous wallets",
+     "url": "https://cryptoslate.com/openai-research-model-questioned-wallet-permission-then-spent-testnet-eth-anyway-in-june-2026/",
+     "date": "2026-10-16T18:40:50+00:00",
+     "summary": "The October 15 report update describes an internal GPT-5.6 Sol model checking 362 addresses and omitting the account spending from its completion report. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T18:40:50+00:00",
+   "last_seen": "2026-10-16T18:40:50+00:00",
+   "summary": "The October 15 report update describes an internal GPT-5.6 Sol model checking 362 addresses and omitting the account spending from its completion report. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "ai",
+    "solana"
+   ]
+  },
+  {
+   "id": "8fe5ba6807",
+   "title": "SEI Perpetual Futures Trade on CFTC-Regulated OG.com Markets",
+   "date": "2026-10-16T18:32:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SEI Perpetual Futures Trade on CFTC-Regulated OG.com Markets",
+     "url": "https://thedefiant.io/news/cefi/sei-perpetual-futures-trade-on-cftc-regulated-og-com-markets",
+     "date": "2026-10-16T18:32:37+00:00",
+     "summary": "The dollar-settled contracts have no expiry, a 100-SEI minimum order and funding calculated every eight hours."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T18:32:37+00:00",
+   "last_seen": "2026-10-16T18:32:37+00:00",
+   "summary": "The dollar-settled contracts have no expiry, a 100-SEI minimum order and funding calculated every eight hours.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "0db0d1cf97",
+   "title": "Hot Inflation Data Puts Bitcoin Under Pressure, but \u2018Difficult\u2019 Isn\u2019t \u2018Bearish\u2019: CoinShares",
+   "date": "2026-10-16T18:30:57+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Hot Inflation Data Puts Bitcoin Under Pressure, but \u2018Difficult\u2019 Isn\u2019t \u2018Bearish\u2019: CoinShares",
+     "url": "https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares",
+     "date": "2026-10-16T18:30:57+00:00",
+     "summary": "Bitcoin Magazine Hot Inflation Data Puts Bitcoin Under Pressure, but \u2018Difficult\u2019 Isn\u2019t \u2018Bearish\u2019: CoinShares Bitcoin is still reacting to weekly data but long-term investors shouldn\u2019t be worried, according to the European asset manager. This post Hot Inflation Data Puts Bitcoin..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T18:30:57+00:00",
+   "last_seen": "2026-10-16T18:30:57+00:00",
+   "summary": "Bitcoin Magazine Hot Inflation Data Puts Bitcoin Under Pressure, but \u2018Difficult\u2019 Isn\u2019t \u2018Bearish\u2019: CoinShares Bitcoin is still reacting to weekly data but long-term investors shouldn\u2019t be worried, according to the European asset manager. This post Hot Inflation Data Puts Bitcoin...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "1c297d7ad6",
+   "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
+   "date": "2026-10-16T18:16:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Treasury Giant Strategy Faces Index Removal Under Finalized MSCI Rules",
+     "url": "https://decrypt.co/381168/bitcoin-treasury-giant-strategy-faces-index-removal-under-finalized-msci-rules",
+     "date": "2026-10-16T18:16:04+00:00",
+     "summary": "The index provider will classify \u201cnon-operating companies\u201d as ineligible starting Nov. 30, targeting firms whose balance sheets are dominated by a single asset."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T18:16:04+00:00",
+   "last_seen": "2026-10-16T18:16:04+00:00",
+   "summary": "The index provider will classify \u201cnon-operating companies\u201d as ineligible starting Nov. 30, targeting firms whose balance sheets are dominated by a single asset.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "a08386b5ca",
+   "title": "Karpel\u00e8s Reports Ledger Implants in Devices From Two More Resellers",
+   "date": "2026-10-16T18:13:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Karpel\u00e8s Reports Ledger Implants in Devices From Two More Resellers",
+     "url": "https://thedefiant.io/news/security/karpel-s-reports-ledger-implants-in-devices-from-two-more-resellers",
+     "date": "2026-10-16T18:13:04+00:00",
+     "summary": "Ledger says German stock inspections found no tampering and it has not verified a drain tied to a device bought outside Southeast Asia. Its authenticity check cannot detect the added hardware."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T18:13:04+00:00",
+   "last_seen": "2026-10-16T18:13:04+00:00",
+   "summary": "Ledger says German stock inspections found no tampering and it has not verified a drain tied to a device bought outside Southeast Asia. Its authenticity check cannot detect the added hardware.",
+   "tags": []
+  },
   {
    "id": "94c9e71a4a",
    "title": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",

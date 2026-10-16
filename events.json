@@ -1,6 +1,89 @@
 {
- "updated": "2026-10-16T11:51:01.898249+00:00",
+ "updated": "2026-10-16T13:05:12.027877+00:00",
  "events": [
+  {
+   "id": "cd53efc356",
+   "title": "Institutions managing \u20ac800 billion ask what crypto tokens actually earn",
+   "date": "2026-10-16T13:00:10+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Institutions managing \u20ac800 billion ask what crypto tokens actually earn",
+     "url": "https://cryptoslate.com/e800b-in-wealth-managers-rethink-how-they-allocate-to-crypto/",
+     "date": "2026-10-16T13:00:10+00:00",
+     "summary": "Brendan Ma, head of investment strategy at the Arbitrum Foundation, said he met with representatives of institutions managing about \u20ac800 billion in assets over 48 hours of closed-door meetings to discuss crypto. Private bankers and wealth managers kept returning to one problem:..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T13:00:10+00:00",
+   "last_seen": "2026-10-16T13:00:10+00:00",
+   "summary": "Brendan Ma, head of investment strategy at the Arbitrum Foundation, said he met with representatives of institutions managing about \u20ac800 billion in assets over 48 hours of closed-door meetings to discuss crypto. Private bankers and wealth managers kept returning to one problem:...",
+   "tags": []
+  },
+  {
+   "id": "7532a83bb2",
+   "title": "Sazmining Brings Proto\u2019s Immersion Hashboards to Individual Owners, With 0% Financing From $1,397 Down",
+   "date": "2026-10-16T12:42:22+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Sazmining Brings Proto\u2019s Immersion Hashboards to Individual Owners, With 0% Financing From $1,397 Down",
+     "url": "https://bitcoinmagazine.com/press-releases/sazmining-brings-protos-immersion-hashboards-to-individual-owners-with-0-financing-from-1397-down",
+     "date": "2026-10-16T12:42:22+00:00",
+     "summary": "Bitcoin Magazine Sazmining Brings Proto\u2019s Immersion Hashboards to Individual Owners, With 0% Financing From $1,397 Down Proto immersion hashboards, built for efficiency and long service life, are now available for outright purchase through Sazmining\u2019s mining-as-a-service..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T12:42:22+00:00",
+   "last_seen": "2026-10-16T12:42:22+00:00",
+   "summary": "Bitcoin Magazine Sazmining Brings Proto\u2019s Immersion Hashboards to Individual Owners, With 0% Financing From $1,397 Down Proto immersion hashboards, built for efficiency and long service life, are now available for outright purchase through Sazmining\u2019s mining-as-a-service...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "cc9f2ec420",
+   "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
+   "date": "2026-10-16T12:22:18+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Scammer Lost $4.8M in Bitcoin to Tampered Ledger Wallets: Chainalysis",
+     "url": "https://decrypt.co/381141/scammer-lost-4-8m-in-bitcoin-to-tampered-ledger-wallets-chainalysis",
+     "date": "2026-10-16T12:22:18+00:00",
+     "summary": "The funds came from a task scam that paid people to fake product sales and reviews, then demanded deposits before releasing their pay."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T12:22:18+00:00",
+   "last_seen": "2026-10-16T12:22:18+00:00",
+   "summary": "The funds came from a task scam that paid people to fake product sales and reviews, then demanded deposits before releasing their pay.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "c74a5bb1a7",
+   "title": "Oil stocks on land are near a decade low, complicating Bitcoin\u2019s inflation relief hopes",
+   "date": "2026-10-16T12:00:11+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Oil stocks on land are near a decade low, complicating Bitcoin\u2019s inflation relief hopes",
+     "url": "https://cryptoslate.com/bitcoins-inflation-relief-case-faces-a-113-million-barrel-onshore-oil-draw/",
+     "date": "2026-10-16T12:00:11+00:00",
+     "summary": "The IEA\u2019s September estimates show oil accumulating at sea while land-based buffers shrink, leaving inflation and financing relief uncertain. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T12:00:11+00:00",
+   "last_seen": "2026-10-16T12:00:11+00:00",
+   "summary": "The IEA\u2019s September estimates show oil accumulating at sea while land-based buffers shrink, leaving inflation and financing relief uncertain. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
   {
    "id": "5ca7fe9d70",
    "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",

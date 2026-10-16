@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-16T20:50:35.581600+00:00",
+ "updated": "2026-10-16T21:48:54.282007+00:00",
  "events": [
+  {
+   "id": "342452ad9e",
+   "title": "Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps",
+   "date": "2026-10-16T21:32:28+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps",
+     "url": "https://thedefiant.io/news/security/anthropic-says-claude-traced-nist-curve-seeds-to-1990s-timestamps",
+     "date": "2026-10-16T21:32:28+00:00",
+     "summary": "The finding is not a cryptographic break; published code covers five NIST prime-curve seeds and four binary-curve seeds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T21:32:28+00:00",
+   "last_seen": "2026-10-16T21:32:28+00:00",
+   "summary": "The finding is not a cryptographic break; published code covers five NIST prime-curve seeds and four binary-curve seeds.",
+   "tags": []
+  },
+  {
+   "id": "d5f353ea0b",
+   "title": "Cardano governance hits a wall as treasury reaches 91% cap",
+   "date": "2026-10-16T21:10:02+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Cardano governance hits a wall as treasury reaches 91% cap",
+     "url": "https://cryptoslate.com/cardano-has-42-6-million-ada-left-under-its-current-treasury-spending-limit/",
+     "date": "2026-10-16T21:10:02+00:00",
+     "summary": "Thirty enacted withdrawals have used 457.4 million ADA of the 500 million allowance, which incoming funds and refunds do not replenish. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T21:10:02+00:00",
+   "last_seen": "2026-10-16T21:10:02+00:00",
+   "summary": "Thirty enacted withdrawals have used 457.4 million ADA of the 500 million allowance, which incoming funds and refunds do not replenish. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "macro"
+   ]
+  },
   {
    "id": "45c2d9a9be",
    "title": "Strive\u2019s bitcoin buying spree earns 27% price target hike from TD Cowen",

@@ -1,6 +1,128 @@
 {
- "updated": "2026-10-16T16:52:16.961392+00:00",
+ "updated": "2026-10-16T17:48:32.028000+00:00",
  "events": [
+  {
+   "id": "94c9e71a4a",
+   "title": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
+   "date": "2026-10-16T17:48:06+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "India's Cyber Agency Says AI Agents Read Confidential Business Records Without Authorization",
+     "url": "https://decrypt.co/381165/indias-cyber-agency-ai-agents-read-confidential-business-records",
+     "date": "2026-10-16T17:48:06+00:00",
+     "summary": "India's CERT-In says AI agents exceeded their assigned tasks in tests and read confidential records on live Indian systems."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T17:48:06+00:00",
+   "last_seen": "2026-10-16T17:48:06+00:00",
+   "summary": "India's CERT-In says AI agents exceeded their assigned tasks in tests and read confidential records on live Indian systems.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "93b251c129",
+   "title": "STRK\u2019s L1 Bet: Eli Ben-Sasson on Starknet\u2019s Exit Plan",
+   "date": "2026-10-16T17:33:25+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "STRK\u2019s L1 Bet: Eli Ben-Sasson on Starknet\u2019s Exit Plan",
+     "url": "https://thedefiant.io/podcasts-and-videos/podcast/strk-s-l1-bet-eli-ben-sasson-on-starknet-s-exit-plan",
+     "date": "2026-10-16T17:33:25+00:00",
+     "summary": "Starknet says it is \u201cactively considering becoming an L1\u201d \u2014 leaving Ethereum to become what it calls the first fully quantum-resistant network, with 2027 as the target. StarkWare co-founder and CEO Eli Ben-Sasson joins Camila Russo to explain the plan. The announcement came as a..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T17:33:25+00:00",
+   "last_seen": "2026-10-16T17:33:25+00:00",
+   "summary": "Starknet says it is \u201cactively considering becoming an L1\u201d \u2014 leaving Ethereum to become what it calls the first fully quantum-resistant network, with 2027 as the target. StarkWare co-founder and CEO Eli Ben-Sasson joins Camila Russo to explain the plan. The announcement came as a...",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "b5c039770c",
+   "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
+   "date": "2026-10-16T17:30:09+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race",
+     "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-16T17:30:09+00:00",
+     "summary": "At least two industry-aligned PACs have poured more than $52 million into opposing Sherrod Brown\u2019s return to the Senate."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T17:30:09+00:00",
+   "last_seen": "2026-10-16T17:30:09+00:00",
+   "summary": "At least two industry-aligned PACs have poured more than $52 million into opposing Sherrod Brown\u2019s return to the Senate.",
+   "tags": []
+  },
+  {
+   "id": "5ed49bc16b",
+   "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
+   "date": "2026-10-16T17:21:45+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Stablecoin remittances cost 84% less than traditional transfers, report finds",
+     "url": "https://cointelegraph.com/news/stablecoin-remittances-cost-savings-traditional-transfers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-16T17:21:45+00:00",
+     "summary": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional international bank wires."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T17:21:45+00:00",
+   "last_seen": "2026-10-16T17:21:45+00:00",
+   "summary": "Borderless.xyz data shows major savings on cross-border business payments, with stablecoin transfers also settling faster than traditional international bank wires.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "22a0b3bd5b",
+   "title": "Coinbase to power stablecoin-backed cards for Marqeta customers",
+   "date": "2026-10-16T17:21:29+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Coinbase to power stablecoin-backed cards for Marqeta customers",
+     "url": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833",
+     "date": "2026-10-16T17:21:29+00:00",
+     "summary": "The expanded partnership builds on Marqeta\u2019s work powering Coinbase\u2019s U.S. debit card offering in 2020."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T17:21:29+00:00",
+   "last_seen": "2026-10-16T17:21:29+00:00",
+   "summary": "The expanded partnership builds on Marqeta\u2019s work powering Coinbase\u2019s U.S. debit card offering in 2020.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "c1b3c46d5e",
+   "title": "Only 18% of Uniswap v3 positions under $1,000 beat holding after gas, study finds",
+   "date": "2026-10-16T17:20:21+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Only 18% of Uniswap v3 positions under $1,000 beat holding after gas, study finds",
+     "url": "https://cryptoslate.com/uniswap-v4-can-cut-transfer-costs-while-lps-remain-exposed-to-price-swings/",
+     "date": "2026-10-16T17:20:21+00:00",
+     "summary": "Bitquery\u2019s updated v3 sample shows small positions losing their edge after gas, while v4\u2019s activity data offers no matched return comparison. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T17:20:21+00:00",
+   "last_seen": "2026-10-16T17:20:21+00:00",
+   "summary": "Bitquery\u2019s updated v3 sample shows small positions losing their edge after gas, while v4\u2019s activity data offers no matched return comparison. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
   {
    "id": "692aa2ca3c",
    "title": "CFTC Wants to Drop Gemini\u2019s $5M Settlement. A Judge Just Said No",

@@ -1,6 +1,68 @@
 {
- "updated": "2026-10-16T05:49:35.076502+00:00",
+ "updated": "2026-10-16T07:06:16.750231+00:00",
  "events": [
+  {
+   "id": "37baf41e9e",
+   "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
+   "date": "2026-10-16T06:11:22+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
+     "url": "https://cointelegraph.com/news/openai-model-spent-testnet-eth-without-authorization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-16T06:11:22+00:00",
+     "summary": "An OpenAI research model checked 362 wallet addresses, questioned whether using the funds was ethical and proceeded with a transaction it later omitted from its final task summary."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T06:11:22+00:00",
+   "last_seen": "2026-10-16T06:11:22+00:00",
+   "summary": "An OpenAI research model checked 362 wallet addresses, questioned whether using the funds was ethical and proceeded with a transaction it later omitted from its final task summary.",
+   "tags": []
+  },
+  {
+   "id": "d7e3dab3ec",
+   "title": "Celestia\u2019s TIA Climbs 59% in Four Weeks as Blob Demand Slips",
+   "date": "2026-10-16T05:58:10+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Celestia\u2019s TIA Climbs 59% in Four Weeks as Blob Demand Slips",
+     "url": "https://thedefiant.io/news/tokens/celestia-s-tia-climbs-59-in-four-weeks-as-blob-demand-slips",
+     "date": "2026-10-16T05:58:10+00:00",
+     "summary": "Daily blob data fell during the rally, while Celestia\u2019s new Fibre throughput benchmark remains separate from mainnet usage."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T05:58:10+00:00",
+   "last_seen": "2026-10-16T05:58:10+00:00",
+   "summary": "Daily blob data fell during the rally, while Celestia\u2019s new Fibre throughput benchmark remains separate from mainnet usage.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "87d1099f00",
+   "title": "XRP has failed to make holders rich like bitcoin and ether. Here\u2019s why",
+   "date": "2026-10-16T05:53:58+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "XRP has failed to make holders rich like bitcoin and ether. Here\u2019s why",
+     "url": "https://www.coindesk.com/markets/2026/10/16/xrp-has-failed-to-make-holders-rich-like-bitcoin-and-ether-here-s-why",
+     "date": "2026-10-16T05:53:58+00:00",
+     "summary": "XRP remains below its 2017-cycle high while bitcoin, ether and other major tokens have surged, enriching their holders."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T05:53:58+00:00",
+   "last_seen": "2026-10-16T05:53:58+00:00",
+   "summary": "XRP remains below its 2017-cycle high while bitcoin, ether and other major tokens have surged, enriching their holders.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
   {
    "id": "9684ae74f1",
    "title": "US federal judge denies joint Gemini-CFTC bid to undo $5 million settlement",

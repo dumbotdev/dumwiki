@@ -1,6 +1,67 @@
 {
- "updated": "2026-10-15T23:43:40.148950+00:00",
+ "updated": "2026-10-16T00:59:58.929535+00:00",
  "events": [
+  {
+   "id": "d8f55923c0",
+   "title": "Judge Rejects Gemini-CFTC Bid to Lift Settlement Restrictions",
+   "date": "2026-10-16T00:39:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Judge Rejects Gemini-CFTC Bid to Lift Settlement Restrictions",
+     "url": "https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions",
+     "date": "2026-10-16T00:39:04+00:00",
+     "summary": "Gemini has already paid the $5 million penalty. A permanent injunction and restrictions on publicly denying the case's findings remain in place."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T00:39:04+00:00",
+   "last_seen": "2026-10-16T00:39:04+00:00",
+   "summary": "Gemini has already paid the $5 million penalty. A permanent injunction and restrictions on publicly denying the case's findings remain in place.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "9bf1475d15",
+   "title": "Ledger wants customers to trust its new $849 device as criminals compromise existing wallets",
+   "date": "2026-10-16T00:00:02+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ledger wants customers to trust its new $849 device as criminals compromise existing wallets",
+     "url": "https://cryptoslate.com/ledger-wants-customers-to-trust-its-new-849-device-as-criminals-compromise-existing-wallets/",
+     "date": "2026-10-16T00:00:02+00:00",
+     "summary": "Reservations are open for the data-only device, which pairs everyday apps with hardware approvals and targets 2027 delivery. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T00:00:02+00:00",
+   "last_seen": "2026-10-16T00:00:02+00:00",
+   "summary": "Reservations are open for the data-only device, which pairs everyday apps with hardware approvals and targets 2027 delivery. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "1d87c5ad92",
+   "title": "CoreWeave, Broadcom Join Objections to OKX-ICE Stock Tokenization",
+   "date": "2026-10-15T23:58:41+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "CoreWeave, Broadcom Join Objections to OKX-ICE Stock Tokenization",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/coreweave-broadcom-join-objections-to-okx-ice-stock-tokenization",
+     "date": "2026-10-15T23:58:41+00:00",
+     "summary": "The venture now discloses nine issuer objections, each of which bars the affected stock token from trading under the SEC\u2019s conditional exemption."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-15T23:58:41+00:00",
+   "last_seen": "2026-10-15T23:58:41+00:00",
+   "summary": "The venture now discloses nine issuer objections, each of which bars the affected stock token from trading under the SEC\u2019s conditional exemption.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "48c06cf80f",
    "title": "MSCI Adopts Rules Putting Strategy and Metaplanet at Risk of Index Removal",
@@ -12,13 +73,41 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/msci-adopts-rules-putting-strategy-and-metaplanet-at-risk-of-index-removal",
      "date": "2026-10-15T23:34:48+00:00",
      "summary": "A May simulation flagged both companies for deletion and SharpLink for a watchlist. MSCI will publish its final list on Nov. 11."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "MSCI adopts index exclusion rules that could oust Strategy",
+     "url": "https://cointelegraph.com/news/msci-adopts-index-exclusion-rules-that-could-oust-strategy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-16T00:48:20+00:00",
+     "summary": "Strategy, Metaplanet and Upexi were previously identified for deletion under the methodology, with MSCI set to announce its final list on Nov. 11."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-10-15T23:34:48+00:00",
+   "last_seen": "2026-10-16T00:48:20+00:00",
+   "summary": "Strategy, Metaplanet and Upexi were previously identified for deletion under the methodology, with MSCI set to announce its final list on Nov. 11.",
+   "tags": []
+  },
+  {
+   "id": "7fe05eb3a8",
+   "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+   "date": "2026-10-15T23:34:19+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Australia releases draft bill to adopt OECD crypto tax reporting framework",
+     "url": "https://cointelegraph.com/news/australia-releases-draft-bill-to-adopt-oecd-crypto-tax-reporting-framework?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-15T23:34:19+00:00",
+     "summary": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028."
     }
    ],
    "score": 10,
-   "first_seen": "2026-10-15T23:34:48+00:00",
-   "last_seen": "2026-10-15T23:34:48+00:00",
-   "summary": "A May simulation flagged both companies for deletion and SharpLink for a watchlist. MSCI will publish its final list on Nov. 11.",
-   "tags": []
+   "first_seen": "2026-10-15T23:34:19+00:00",
+   "last_seen": "2026-10-15T23:34:19+00:00",
+   "summary": "Australia is among 77 jurisdictions committed to adopting CARF, with its first international exchanges of crypto tax data expected in 2028.",
+   "tags": [
+    "regulation"
+   ]
   },
   {
    "id": "06c19e95c8",

@@ -1,6 +1,133 @@
 {
- "updated": "2026-10-16T10:52:36.730389+00:00",
+ "updated": "2026-10-16T11:51:01.898249+00:00",
  "events": [
+  {
+   "id": "5ca7fe9d70",
+   "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
+   "date": "2026-10-16T11:46:54+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Google Clears a Major Quantum Hurdle, Bitcoin Still Safe",
+     "url": "https://decrypt.co/381138/morning-minute-google-clears-a-major-quantum-hurdle-bitcoin-still-safe",
+     "date": "2026-10-16T11:46:54+00:00",
+     "summary": "Plus, crypto majors rebound despite hot PPI and Saylor\u2019s Strategy is at risk of removal from a major index."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T11:46:54+00:00",
+   "last_seen": "2026-10-16T11:46:54+00:00",
+   "summary": "Plus, crypto majors rebound despite hot PPI and Saylor\u2019s Strategy is at risk of removal from a major index.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "15c0bd4727",
+   "title": "OpenAI says research model spent another wallet\u2019s testnet ETH without authorization on coding task",
+   "date": "2026-10-16T11:34:54+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "OpenAI says research model spent another wallet\u2019s testnet ETH without authorization on coding task",
+     "url": "https://www.theblock.co/news/business/2026-10-16-openai-says-research-model-spent-another-wallets-testnet-eth-without-authorization-on-coding-task-418798",
+     "date": "2026-10-16T11:34:54+00:00",
+     "summary": "OpenAI's research model used another wallet's testnet ETH without permission to complete a coding task in June."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T11:34:54+00:00",
+   "last_seen": "2026-10-16T11:34:54+00:00",
+   "summary": "OpenAI's research model used another wallet's testnet ETH without permission to complete a coding task in June.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "5b8011e432",
+   "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
+   "date": "2026-10-16T11:15:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Traders will soon be able to bet on whether Coinbase, Robinhood and Marathon will hit their targets",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/16/traders-will-soon-be-able-to-bet-on-whether-coinbase-robinhood-and-marathon-will-hit-their-targets",
+     "date": "2026-10-16T11:15:00+00:00",
+     "summary": "Your day-ahead look for Oct. 16, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T11:15:00+00:00",
+   "last_seen": "2026-10-16T11:15:00+00:00",
+   "summary": "Your day-ahead look for Oct. 16, 2026",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "4051019063",
+   "title": "Ripple opens Wall Street\u2019s door to Hyperliquid\u2019s $59 billion trading market",
+   "date": "2026-10-16T11:00:56+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ripple opens Wall Street\u2019s door to Hyperliquid\u2019s $59 billion trading market",
+     "url": "https://cryptoslate.com/ripple-opens-wall-streets-door-to-hyperliquids-59-billion-trading-market/",
+     "date": "2026-10-16T11:00:56+00:00",
+     "summary": "Institutions trade swaps referencing more than 100 traditional financial markets around the clock, with Ripple Prime as the principal counterparty, Ripple announced on Oct. 15. The swaps cover stocks, equity indices, ETFs, metals, energy and foreign exchange, and they reference..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T11:00:56+00:00",
+   "last_seen": "2026-10-16T11:00:56+00:00",
+   "summary": "Institutions trade swaps referencing more than 100 traditional financial markets around the clock, with Ripple Prime as the principal counterparty, Ripple announced on Oct. 15. The swaps cover stocks, equity indices, ETFs, metals, energy and foreign exchange, and they reference...",
+   "tags": [
+    "etfs",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "5204ce54b1",
+   "title": "Circle targets 40 new markets as stablecoin demand grows globally",
+   "date": "2026-10-16T10:54:35+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Circle targets 40 new markets as stablecoin demand grows globally",
+     "url": "https://www.coindesk.com/business/2026/10/16/circle-targets-40-new-markets-as-stablecoin-demand-grows-globally",
+     "date": "2026-10-16T10:54:35+00:00",
+     "summary": "The stablecoin issuer\u2019s CEO Jerermy Allaire told Reuters demand for digital dollars is growing across Asia, Africa and Latin America as banks and payment firms."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T10:54:35+00:00",
+   "last_seen": "2026-10-16T10:54:35+00:00",
+   "summary": "The stablecoin issuer\u2019s CEO Jerermy Allaire told Reuters demand for digital dollars is growing across Asia, Africa and Latin America as banks and payment firms.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "36d1b56102",
+   "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
+   "date": "2026-10-16T10:52:26+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Quantum Alliance forms amid warnings 6.4 million bitcoin face future quantum threat",
+     "url": "https://www.coindesk.com/tech/2026/10/16/experts-agree-quantum-computers-could-put-satoshi-s-bitcoin-at-risk-but-not-on-what-s-next",
+     "date": "2026-10-16T10:52:26+00:00",
+     "summary": "Nine crypto companies launched the Quantum Alliance to jointly prepare for quantum attacks, but they disagree on when the threat will arrive and whether vulnerable BTC should be frozen."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T10:52:26+00:00",
+   "last_seen": "2026-10-16T10:52:26+00:00",
+   "summary": "Nine crypto companies launched the Quantum Alliance to jointly prepare for quantum attacks, but they disagree on when the threat will arrive and whether vulnerable BTC should be frozen.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "5406e56b01",
    "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
@@ -312,12 +439,19 @@
      "url": "https://thedefiant.io/news/regulation/solana-postpones-shanghai-event-citing-registration-surge",
      "date": "2026-10-16T08:58:56+00:00",
      "summary": "The official tour site still lists three more China stops, but registration pages for Hangzhou, Shenzhen and Beijing show sign-ups closed."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Solana\u2019s Liu says Shanghai event postponed over registration surge",
+     "url": "https://cointelegraph.com/news/solana-shanghai-postponed-exceeding-event-cap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-16T11:22:47+00:00",
+     "summary": "Solana Foundation President Lily Liu said registrations quadrupled overnight, exceeding the attendance limit registered with local authorities."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-16T08:58:56+00:00",
-   "last_seen": "2026-10-16T08:58:56+00:00",
-   "summary": "The official tour site still lists three more China stops, but registration pages for Hangzhou, Shenzhen and Beijing show sign-ups closed.",
+   "last_seen": "2026-10-16T11:22:47+00:00",
+   "summary": "Solana Foundation President Lily Liu said registrations quadrupled overnight, exceeding the attendance limit registered with local authorities.",
    "tags": [
     "markets",
     "solana"
@@ -1589,11 +1723,18 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/visa-direct-moves-usdc-prefunding-into-production-with-inyo-global",
      "date": "2026-10-15T15:36:52+00:00",
      "summary": "Eligible payment providers can fund cross-border payouts around the clock through the same Inyo APIs they already use."
+    },
+    {
+     "source": "The Block",
+     "title": "Visa Direct moves USDC prefunding into commercial production with Inyo Global",
+     "url": "https://www.theblock.co/news/business/2026-10-16-visa-direct-moves-usdc-prefunding-into-commercial-production-with-inyo-global-418802",
+     "date": "2026-10-16T11:25:12+00:00",
+     "summary": "Visa Direct has brought USDC prefunding into commercial production with Inyo Global as its first commercial enabler."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-15T15:36:52+00:00",
-   "last_seen": "2026-10-15T15:36:52+00:00",
+   "last_seen": "2026-10-16T11:25:12+00:00",
    "summary": "Eligible payment providers can fund cross-border payouts around the clock through the same Inyo APIs they already use.",
    "tags": [
     "stablecoins"

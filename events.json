@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-16T01:48:11.428797+00:00",
+ "updated": "2026-10-16T02:51:36.450645+00:00",
  "events": [
+  {
+   "id": "27deb7da78",
+   "title": "82 criminal charges follow armed crypto abduction in Toronto",
+   "date": "2026-10-16T02:20:21+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "82 criminal charges follow armed crypto abduction in Toronto",
+     "url": "https://cryptoslate.com/82-criminal-charges-follow-armed-crypto-abduction-in-toronto/",
+     "date": "2026-10-16T02:20:21+00:00",
+     "summary": "Toronto police allege attackers sought cryptocurrency and business security access; searches uncovered ammunition stolen from the military. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T02:20:21+00:00",
+   "last_seen": "2026-10-16T02:20:21+00:00",
+   "summary": "Toronto police allege attackers sought cryptocurrency and business security access; searches uncovered ammunition stolen from the military. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "d8f55923c0",
    "title": "Judge Rejects Gemini-CFTC Bid to Lift Settlement Restrictions",

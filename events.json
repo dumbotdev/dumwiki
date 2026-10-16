@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-16T21:48:54.282007+00:00",
+ "updated": "2026-10-16T22:48:53.259662+00:00",
  "events": [
+  {
+   "id": "c488ee48cf",
+   "title": "Cross River Bank links $2.4B RLUSD to core banking system",
+   "date": "2026-10-16T22:30:17+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Cross River Bank links $2.4B RLUSD to core banking system",
+     "url": "https://cryptoslate.com/cross-river-bank-links-2-4b-rlusd-to-core-banking-system/",
+     "date": "2026-10-16T22:30:17+00:00",
+     "summary": "The bank says fintechs can access dollar and RLUSD payments through one API, with availability limited to some US states. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T22:30:17+00:00",
+   "last_seen": "2026-10-16T22:30:17+00:00",
+   "summary": "The bank says fintechs can access dollar and RLUSD payments through one API, with availability limited to some US states. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "792278f58e",
+   "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
+   "date": "2026-10-16T22:12:36+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
+     "url": "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves",
+     "date": "2026-10-16T22:12:36+00:00",
+     "summary": "Bitcoin Magazine Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves Chainalysis has revealed that a victim of last week\u2019s Ledger theft was a scammer themself. This post Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T22:12:36+00:00",
+   "last_seen": "2026-10-16T22:12:36+00:00",
+   "summary": "Bitcoin Magazine Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves Chainalysis has revealed that a victim of last week\u2019s Ledger theft was a scammer themself. This post Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "342452ad9e",
    "title": "Anthropic Says Claude Traced NIST Curve Seeds to 1990s Timestamps",

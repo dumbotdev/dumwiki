@@ -1,6 +1,68 @@
 {
- "updated": "2026-10-16T18:57:16.158880+00:00",
+ "updated": "2026-10-16T19:46:11.350989+00:00",
  "events": [
+  {
+   "id": "a1456cef4b",
+   "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
+   "date": "2026-10-16T19:44:29+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
+     "url": "https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-custody-and-credit-alan-lane-on-banking-lessons",
+     "date": "2026-10-16T19:44:29+00:00",
+     "summary": "Bitcoin Magazine BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons CPAs, wealth advisors, and lenders gather in Denver for BFFS26, featuring Patrick Lowry on public-company Bitcoin treasury reserves and Wyoming Deputy Secretary of State..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T19:44:29+00:00",
+   "last_seen": "2026-10-16T19:44:29+00:00",
+   "summary": "Bitcoin Magazine BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons CPAs, wealth advisors, and lenders gather in Denver for BFFS26, featuring Patrick Lowry on public-company Bitcoin treasury reserves and Wyoming Deputy Secretary of State...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "0e0f4f0103",
+   "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+   "date": "2026-10-16T19:36:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+     "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
+     "date": "2026-10-16T19:36:04+00:00",
+     "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T19:36:04+00:00",
+   "last_seen": "2026-10-16T19:36:04+00:00",
+   "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet.",
+   "tags": []
+  },
+  {
+   "id": "957eefa87e",
+   "title": "Sazmining Now Sells Jack Dorsey\u2019s Proto Immersion Hashboards",
+   "date": "2026-10-16T19:19:40+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Sazmining Now Sells Jack Dorsey\u2019s Proto Immersion Hashboards",
+     "url": "https://bitcoinmagazine.com/news/sazmining-now-sells-proto-hashboards",
+     "date": "2026-10-16T19:19:40+00:00",
+     "summary": "Bitcoin Magazine Sazmining Now Sells Jack Dorsey\u2019s Proto Immersion Hashboards Block\u2019s Proto mining hashboards are now available on Sazmining\u2019s mining-as-a-service platform. This post Sazmining Now Sells Jack Dorsey\u2019s Proto Immersion Hashboards first appeared on Bitcoin Magazine..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T19:19:40+00:00",
+   "last_seen": "2026-10-16T19:19:40+00:00",
+   "summary": "Bitcoin Magazine Sazmining Now Sells Jack Dorsey\u2019s Proto Immersion Hashboards Block\u2019s Proto mining hashboards are now available on Sazmining\u2019s mining-as-a-service platform. This post Sazmining Now Sells Jack Dorsey\u2019s Proto Immersion Hashboards first appeared on Bitcoin Magazine...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "1b8d6128cb",
    "title": "Circle Plans Push Into 40 Emerging Markets as Stablecoins Go Mainstream, CEO Says",

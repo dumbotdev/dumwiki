@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-16T07:06:16.750231+00:00",
+ "updated": "2026-10-16T07:54:32.324608+00:00",
  "events": [
+  {
+   "id": "5b5b802d19",
+   "title": "Binance stock put options lock full USDC reserves for sellers",
+   "date": "2026-10-16T07:30:48+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance stock put options lock full USDC reserves for sellers",
+     "url": "https://cryptoslate.com/binance-stock-put-options-lock-full-usdc-reserves-for-sellers/",
+     "date": "2026-10-16T07:30:48+00:00",
+     "summary": "Binance\u2019s seller FAQ requires full purchase funds and allows early assignment, but its linked terms still describe long-only trading. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T07:30:48+00:00",
+   "last_seen": "2026-10-16T07:30:48+00:00",
+   "summary": "Binance\u2019s seller FAQ requires full purchase funds and allows early assignment, but its linked terms still describe long-only trading. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
   {
    "id": "37baf41e9e",
    "title": "OpenAI model helped itself to testnet crypto, then kept quiet about it",
@@ -218,14 +240,22 @@
      "url": "https://thedefiant.io/news/regulation/judge-rejects-gemini-cftc-bid-to-lift-settlement-restrictions",
      "date": "2026-10-16T00:39:04+00:00",
      "summary": "Gemini has already paid the $5 million penalty. A permanent injunction and restrictions on publicly denying the case's findings remain in place."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Judge rejects CFTC, Gemini bid to undo $5M settlement",
+     "url": "https://cointelegraph.com/news/judge-rejects-cftc-gemini-5m-settlement-reversal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-16T07:43:29+00:00",
+     "summary": "Judge ruled changes in CFTC enforcement priorities and allegations of misconduct by its enforcement division were insufficient to overturn Gemini\u2019s January 2025 settlement."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-16T00:39:04+00:00",
-   "last_seen": "2026-10-16T00:39:04+00:00",
-   "summary": "Gemini has already paid the $5 million penalty. A permanent injunction and restrictions on publicly denying the case's findings remain in place.",
+   "last_seen": "2026-10-16T07:43:29+00:00",
+   "summary": "Judge ruled changes in CFTC enforcement priorities and allegations of misconduct by its enforcement division were insufficient to overturn Gemini\u2019s January 2025 settlement.",
    "tags": [
-    "legal"
+    "legal",
+    "regulation"
    ]
   },
   {

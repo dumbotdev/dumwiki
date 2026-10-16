@@ -1,6 +1,110 @@
 {
- "updated": "2026-10-16T13:05:12.027877+00:00",
+ "updated": "2026-10-16T13:56:25.295168+00:00",
  "events": [
+  {
+   "id": "c46c9c1d88",
+   "title": "Crypto Analyst Lark Davis: The Bitcoin Bull Run has Begun",
+   "date": "2026-10-16T13:48:18+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Crypto Analyst Lark Davis: The Bitcoin Bull Run has Begun",
+     "url": "https://bitcoinmagazine.com/videos/crypto-analyst-lark-davis-the-bitcoin-bull-run-has-begun",
+     "date": "2026-10-16T13:48:18+00:00",
+     "summary": "Bitcoin Magazine Crypto Analyst Lark Davis: The Bitcoin Bull Run has Begun Bitcoin trades sideways in $80Ks, but Lark Davis sees a major cycle ahead. He explains on-chain signals, whale accumulation, and a $57K market bottom. This post Crypto Analyst Lark Davis: The Bitcoin Bull..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T13:48:18+00:00",
+   "last_seen": "2026-10-16T13:48:18+00:00",
+   "summary": "Bitcoin Magazine Crypto Analyst Lark Davis: The Bitcoin Bull Run has Begun Bitcoin trades sideways in $80Ks, but Lark Davis sees a major cycle ahead. He explains on-chain signals, whale accumulation, and a $57K market bottom. This post Crypto Analyst Lark Davis: The Bitcoin Bull...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "f27999775e",
+   "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
+   "date": "2026-10-16T13:33:40+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Deutsche Bank prepares German crypto custody launch, eyes Asia: Report",
+     "url": "https://cointelegraph.com/news/deutsche-bank-crypto-custody-expansion-asia-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-16T13:33:40+00:00",
+     "summary": "Germany\u2019s largest bank reportedly plans to expand its digital asset custody services to Asian financial centers due to the growth of the digital asset economy."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T13:33:40+00:00",
+   "last_seen": "2026-10-16T13:33:40+00:00",
+   "summary": "Germany\u2019s largest bank reportedly plans to expand its digital asset custody services to Asian financial centers due to the growth of the digital asset economy.",
+   "tags": []
+  },
+  {
+   "id": "fdc451d23b",
+   "title": "How Ethereum Works",
+   "date": "2026-10-16T13:31:07+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "How Ethereum Works",
+     "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
+     "date": "2026-10-16T13:31:07+00:00",
+     "summary": "The focus is how Ethereum works under the hood: how it tracks and updates state, how transactions flow through the network, how computation is priced through gas, how smart contracts and token standards make Ethereum programmable, and how other Layer 1 blockchains approach the..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T13:31:07+00:00",
+   "last_seen": "2026-10-16T13:31:07+00:00",
+   "summary": "The focus is how Ethereum works under the hood: how it tracks and updates state, how transactions flow through the network, how computation is priced through gas, how smart contracts and token standards make Ethereum programmable, and how other Layer 1 blockchains approach the...",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "cc56ccd690",
+   "title": "Math Professor Warns of Threat to Bitcoin from AI Pivot",
+   "date": "2026-10-16T13:25:44+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Math Professor Warns of Threat to Bitcoin from AI Pivot",
+     "url": "https://bitcoinmagazine.com/videos/math-professor-warns-of-threat-to-bitcoin-from-ai-pivot",
+     "date": "2026-10-16T13:25:44+00:00",
+     "summary": "Bitcoin Magazine Math Professor Warns of Threat to Bitcoin from AI Pivot Could anyone actually break Bitcoin? Math professor Micah Warren applies game theory to explain why miner incentives and strong security prevent attacks. This post Math Professor Warns of Threat to Bitcoin..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T13:25:44+00:00",
+   "last_seen": "2026-10-16T13:25:44+00:00",
+   "summary": "Bitcoin Magazine Math Professor Warns of Threat to Bitcoin from AI Pivot Could anyone actually break Bitcoin? Math professor Micah Warren applies game theory to explain why miner incentives and strong security prevent attacks. This post Math Professor Warns of Threat to Bitcoin...",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "917735ed97",
+   "title": "Morgan Stanley\u2019s Amy Oldenburg: The Digital Gold Investment Case for Bitcoin",
+   "date": "2026-10-16T13:20:36+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Morgan Stanley\u2019s Amy Oldenburg: The Digital Gold Investment Case for Bitcoin",
+     "url": "https://bitcoinmagazine.com/videos/morgan-stanleys-amy-oldenburg-the-digital-gold-investment-case-for-bitcoin",
+     "date": "2026-10-16T13:20:36+00:00",
+     "summary": "Bitcoin Magazine Morgan Stanley\u2019s Amy Oldenburg: The Digital Gold Investment Case for Bitcoin Bitcoin's digital gold case is strong, says Morgan Stanley\u2019s Amy Oldenburg, but she wants less tech risk correlation and more gold-like trade behavior. This post Morgan Stanley\u2019s Amy..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T13:20:36+00:00",
+   "last_seen": "2026-10-16T13:20:36+00:00",
+   "summary": "Bitcoin Magazine Morgan Stanley\u2019s Amy Oldenburg: The Digital Gold Investment Case for Bitcoin Bitcoin's digital gold case is strong, says Morgan Stanley\u2019s Amy Oldenburg, but she wants less tech risk correlation and more gold-like trade behavior. This post Morgan Stanley\u2019s Amy...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "cd53efc356",
    "title": "Institutions managing \u20ac800 billion ask what crypto tokens actually earn",

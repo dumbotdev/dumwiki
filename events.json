@@ -1,6 +1,158 @@
 {
- "updated": "2026-10-16T15:51:44.558334+00:00",
+ "updated": "2026-10-16T16:52:16.961392+00:00",
  "events": [
+  {
+   "id": "692aa2ca3c",
+   "title": "CFTC Wants to Drop Gemini\u2019s $5M Settlement. A Judge Just Said No",
+   "date": "2026-10-16T16:36:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "CFTC Wants to Drop Gemini\u2019s $5M Settlement. A Judge Just Said No",
+     "url": "https://decrypt.co/381149/cftc-wants-drop-gemini-5m-settlement-judge-said-no",
+     "date": "2026-10-16T16:36:04+00:00",
+     "summary": "The judge ruled that a shift in the CFTC\u2019s enforcement priorities and misconduct allegations against its enforcement division weren\u2019t enough to reopen a deal Gemini signed weeks before trial."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T16:36:04+00:00",
+   "last_seen": "2026-10-16T16:36:04+00:00",
+   "summary": "The judge ruled that a shift in the CFTC\u2019s enforcement priorities and misconduct allegations against its enforcement division weren\u2019t enough to reopen a deal Gemini signed weeks before trial.",
+   "tags": [
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "c389408da1",
+   "title": "MSCI To Move Forward With Proposal That Could Exclude Strategy From Index",
+   "date": "2026-10-16T16:32:41+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "MSCI To Move Forward With Proposal That Could Exclude Strategy From Index",
+     "url": "https://bitcoinmagazine.com/news/msci-could-exclude-strategy-from-index",
+     "date": "2026-10-16T16:32:41+00:00",
+     "summary": "Bitcoin Magazine MSCI To Move Forward With Proposal That Could Exclude Strategy From Index MSCI has adopted new rules that could push Bitcoin treasury Strategy out of its global equity benchmarks. This post MSCI To Move Forward With Proposal That Could Exclude Strategy From..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T16:32:41+00:00",
+   "last_seen": "2026-10-16T16:32:41+00:00",
+   "summary": "Bitcoin Magazine MSCI To Move Forward With Proposal That Could Exclude Strategy From Index MSCI has adopted new rules that could push Bitcoin treasury Strategy out of its global equity benchmarks. This post MSCI To Move Forward With Proposal That Could Exclude Strategy From...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "206e2f83cb",
+   "title": "NEAR Intents Postmortem Links $3.8 Million Exploit to Deposit Bug",
+   "date": "2026-10-16T16:28:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "NEAR Intents Postmortem Links $3.8 Million Exploit to Deposit Bug",
+     "url": "https://thedefiant.io/news/security/near-intents-postmortem-links-3-8-million-exploit-to-deposit-bug",
+     "date": "2026-10-16T16:28:04+00:00",
+     "summary": "The protocol removed deposit notifications after another critical bug report and says all affected users were made whole."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T16:28:04+00:00",
+   "last_seen": "2026-10-16T16:28:04+00:00",
+   "summary": "The protocol removed deposit notifications after another critical bug report and says all affected users were made whole.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "75cb486c8f",
+   "title": "MSCI\u2019s new rules could squeeze Strategy\u2019s Bitcoin buying machine",
+   "date": "2026-10-16T16:20:08+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "MSCI\u2019s new rules could squeeze Strategy\u2019s Bitcoin buying machine",
+     "url": "https://cryptoslate.com/strategys-mstr-69-decline-exposes-a-bigger-danger-behind-mscis-2-8-billion-selling-threat/",
+     "date": "2026-10-16T16:20:08+00:00",
+     "summary": "MSCI approved rules threatening Strategy&#039;s index membership as its shares trade nearly 69% below their peak. On Oct. 15, the global index provider announced that it would adopt a new methodology excluding companies classified as non-operating businesses from its Global..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T16:20:08+00:00",
+   "last_seen": "2026-10-16T16:20:08+00:00",
+   "summary": "MSCI approved rules threatening Strategy&#039;s index membership as its shares trade nearly 69% below their peak. On Oct. 15, the global index provider announced that it would adopt a new methodology excluding companies classified as non-operating businesses from its Global...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "02dc21da50",
+   "title": "Bitcoin Bounces, But Where Does It Go Next? Here\u2019s What the Charts Say",
+   "date": "2026-10-16T16:06:05+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Bounces, But Where Does It Go Next? Here\u2019s What the Charts Say",
+     "url": "https://decrypt.co/381150/bitcoin-price-rebounds-where-next-charts",
+     "date": "2026-10-16T16:06:05+00:00",
+     "summary": "Technical indicators suggest the bullish trend remains intact, but prediction market traders are sending mix signals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T16:06:05+00:00",
+   "last_seen": "2026-10-16T16:06:05+00:00",
+   "summary": "Technical indicators suggest the bullish trend remains intact, but prediction market traders are sending mix signals.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "a7d7b13fd3",
+   "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
+   "date": "2026-10-16T15:52:28+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto Biz: Wall Street closes at 4. Tokenized stocks keep trading",
+     "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-16T15:52:28+00:00",
+     "summary": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T15:52:28+00:00",
+   "last_seen": "2026-10-16T15:52:28+00:00",
+   "summary": "Tokenized stocks are drawing trading activity beyond Wall Street hours, while Bitcoin miners confront costly AI expansion and new accounting rules could benefit stablecoins.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "67bd1d1d45",
+   "title": "Bitcoin price steadies around $82K after Fed\u2019s Warsh avoids rate-hike hints",
+   "date": "2026-10-16T15:45:43+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin price steadies around $82K after Fed\u2019s Warsh avoids rate-hike hints",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-steadies-82k-fed-warsh-avoids-rate-hike-hints?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-16T15:45:43+00:00",
+     "summary": "Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T15:45:43+00:00",
+   "last_seen": "2026-10-16T15:45:43+00:00",
+   "summary": "Bitcoin held above $80,000 as South Korean tech stocks recovered from a sell-off and traders lowered their expectations for a Federal Reserve interest-rate hike.",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
   {
    "id": "2cec6d90a7",
    "title": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
@@ -56,13 +208,22 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/deutsche-bank-plans-crypto-custody-launch-within-weeks",
      "date": "2026-10-16T15:05:02+00:00",
      "summary": "The European offering will serve corporate and institutional clients, with expansion into Asian financial centres targeted for 2027."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report",
+     "url": "https://bitcoinmagazine.com/news/deutsche-bank-will-debut-bitcoin-custody",
+     "date": "2026-10-16T16:35:55+00:00",
+     "summary": "Bitcoin Magazine Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report The German lender is moving fast with its crypto custody service. This post Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report first appeared on Bitcoin Magazine and is written by Mathew Di..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-16T15:05:02+00:00",
-   "last_seen": "2026-10-16T15:05:02+00:00",
-   "summary": "The European offering will serve corporate and institutional clients, with expansion into Asian financial centres targeted for 2027.",
-   "tags": []
+   "last_seen": "2026-10-16T16:35:55+00:00",
+   "summary": "Bitcoin Magazine Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report The German lender is moving fast with its crypto custody service. This post Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report first appeared on Bitcoin Magazine and is written by Mathew Di...",
+   "tags": [
+    "bitcoin"
+   ]
   },
   {
    "id": "0bcc063588",

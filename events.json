@@ -1,6 +1,122 @@
 {
- "updated": "2026-10-16T13:56:25.295168+00:00",
+ "updated": "2026-10-16T14:53:22.042589+00:00",
  "events": [
+  {
+   "id": "547cc96e48",
+   "title": "Tokenized Equities Reached $3.8 Billion This Year, DWF Labs Says",
+   "date": "2026-10-16T14:40:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tokenized Equities Reached $3.8 Billion This Year, DWF Labs Says",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-equities-reached-3-8-billion-this-year-dwf-labs-says",
+     "date": "2026-10-16T14:40:00+00:00",
+     "summary": "The report puts weekly spot trading on decentralized exchanges at $2.54 billion, 55 times the January level, with Ondo's issuer share down to 26% from 56%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T14:40:00+00:00",
+   "last_seen": "2026-10-16T14:40:00+00:00",
+   "summary": "The report puts weekly spot trading on decentralized exchanges at $2.54 billion, 55 times the January level, with Ondo's issuer share down to 26% from 56%.",
+   "tags": []
+  },
+  {
+   "id": "902d2900d8",
+   "title": "Filecoin Plans to Shift Block Rewards Toward Paid Storage",
+   "date": "2026-10-16T14:35:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Filecoin Plans to Shift Block Rewards Toward Paid Storage",
+     "url": "https://thedefiant.io/news/tokens/filecoin-plans-to-shift-block-rewards-toward-paid-storage",
+     "date": "2026-10-16T14:35:48+00:00",
+     "summary": "Under FIP-0118, the consensus share of each block reward falls from 95% toward a 50% floor over about nine quarters, and any service share left unearned is burned."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T14:35:48+00:00",
+   "last_seen": "2026-10-16T14:35:48+00:00",
+   "summary": "Under FIP-0118, the consensus share of each block reward falls from 95% toward a 50% floor over about nine quarters, and any service share left unearned is burned.",
+   "tags": []
+  },
+  {
+   "id": "471889292a",
+   "title": "Nasdaq-Listed Perpetuals Files to Trade Tokenized US Stocks Under SEC Exemption",
+   "date": "2026-10-16T14:32:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Nasdaq-Listed Perpetuals Files to Trade Tokenized US Stocks Under SEC Exemption",
+     "url": "https://thedefiant.io/news/regulation/perpetuals-tokenized-us-stocks-sec-innovation-exemption",
+     "date": "2026-10-16T14:32:00+00:00",
+     "summary": "The company run by former FTX Europe head Patrick Gruhn says it has published a notice of intent to rely on the SEC's five-year relief. A 30-day waiting period follows."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T14:32:00+00:00",
+   "last_seen": "2026-10-16T14:32:00+00:00",
+   "summary": "The company run by former FTX Europe head Patrick Gruhn says it has published a notice of intent to rely on the SEC's five-year relief. A 30-day waiting period follows.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "e7f49306bd",
+   "title": "Strategy conditionally declares daily dividends as STRC hovers below $100",
+   "date": "2026-10-16T14:11:03+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Strategy conditionally declares daily dividends as STRC hovers below $100",
+     "url": "https://cointelegraph.com/news/strategy-daily-dividends-strc-hovers-below-100?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-16T14:11:03+00:00",
+     "summary": "Strategy conditionally declared daily dividends on STRC, which continued to hover below its $100 par value."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T14:11:03+00:00",
+   "last_seen": "2026-10-16T14:11:03+00:00",
+   "summary": "Strategy conditionally declared daily dividends on STRC, which continued to hover below its $100 par value.",
+   "tags": []
+  },
+  {
+   "id": "1445b56bc4",
+   "title": "Fortitude sold $8.3 million in borrowed Zcash to fund its mining expansion",
+   "date": "2026-10-16T14:00:05+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Fortitude sold $8.3 million in borrowed Zcash to fund its mining expansion",
+     "url": "https://cryptoslate.com/zcashs-mining-boom-can-grow-without-creating-a-new-token-bid/",
+     "date": "2026-10-16T14:00:05+00:00",
+     "summary": "Fortitude\u2019s dollar-repayable ZEC borrowing can finance expansion through coin sales, while additional machines compete for existing block rewards. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T14:00:05+00:00",
+   "last_seen": "2026-10-16T14:00:05+00:00",
+   "summary": "Fortitude\u2019s dollar-repayable ZEC borrowing can finance expansion through coin sales, while additional machines compete for existing block rewards. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "7a5cbe2af8",
+   "title": "Ledger\u2019s early implant warnings deserved more action, Karpel\u00e8s says",
+   "date": "2026-10-16T13:51:35+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ledger\u2019s early implant warnings deserved more action, Karpel\u00e8s says",
+     "url": "https://cointelegraph.com/news/ledger-early-implant-warnings-mark-karpeles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-16T13:51:35+00:00",
+     "summary": "Ledger was contacted about tampered hardware wallets risks months before its latest security crisis, with former Mt. Gox CEO Mark Karpel\u00e8s questioning its response."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T13:51:35+00:00",
+   "last_seen": "2026-10-16T13:51:35+00:00",
+   "summary": "Ledger was contacted about tampered hardware wallets risks months before its latest security crisis, with former Mt. Gox CEO Mark Karpel\u00e8s questioning its response.",
+   "tags": []
+  },
   {
    "id": "c46c9c1d88",
    "title": "Crypto Analyst Lark Davis: The Bitcoin Bull Run has Begun",

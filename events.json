@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-16T07:54:32.324608+00:00",
+ "updated": "2026-10-16T08:54:32.749623+00:00",
  "events": [
+  {
+   "id": "7cc3f00a90",
+   "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
+   "date": "2026-10-16T08:34:48+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "MSCI approves rules that could eject Strategy, Metaplanet from equity indexes",
+     "url": "https://www.coindesk.com/markets/2026/10/16/msci-approves-rules-that-could-eject-strategy-metaplanet-from-equity-indexes",
+     "date": "2026-10-16T08:34:48+00:00",
+     "summary": "The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T08:34:48+00:00",
+   "last_seen": "2026-10-16T08:34:48+00:00",
+   "summary": "The rules proposed in August would see companies that exist mainly to hold investments as no longer eligible for index inclusion.",
+   "tags": []
+  },
+  {
+   "id": "a9f1ec1fa7",
+   "title": "Native Bitcoin collateral on Aave triggers WBTC pool deficit",
+   "date": "2026-10-16T08:30:32+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Native Bitcoin collateral on Aave triggers WBTC pool deficit",
+     "url": "https://cryptoslate.com/native-bitcoin-collateral-on-aave-triggers-wbtc-pool-deficit/",
+     "date": "2026-10-16T08:30:32+00:00",
+     "summary": "Hub suppliers would finance fast exits before permissioned buyers acquire the vaults, with escrow shortfalls reported as deficits. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T08:30:32+00:00",
+   "last_seen": "2026-10-16T08:30:32+00:00",
+   "summary": "Hub suppliers would finance fast exits before permissioned buyers acquire the vaults, with escrow shortfalls reported as deficits. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "2f9f2069df",
+   "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
+   "date": "2026-10-16T07:59:46+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Capital B reports $78M H1 loss driven by Bitcoin impairment charge",
+     "url": "https://cointelegraph.com/news/capital-b-78m-h1-loss-bitcoin-impairment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-16T07:59:46+00:00",
+     "summary": "Europe\u2019s second-largest Bitcoin treasury raised $30 million and increased its Bitcoin holdings by 11% in the first half of 2026, despite reporting a $75 million Bitcoin impairment loss."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T07:59:46+00:00",
+   "last_seen": "2026-10-16T07:59:46+00:00",
+   "summary": "Europe\u2019s second-largest Bitcoin treasury raised $30 million and increased its Bitcoin holdings by 11% in the first half of 2026, despite reporting a $75 million Bitcoin impairment loss.",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "macro"
+   ]
+  },
   {
    "id": "5b5b802d19",
    "title": "Binance stock put options lock full USDC reserves for sellers",

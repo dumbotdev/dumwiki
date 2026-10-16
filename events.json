@@ -1,6 +1,264 @@
 {
- "updated": "2026-10-16T14:53:22.042589+00:00",
+ "updated": "2026-10-16T15:51:44.558334+00:00",
  "events": [
+  {
+   "id": "2cec6d90a7",
+   "title": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
+   "date": "2026-10-16T15:43:58+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Three Canadian Armed Forces Members Charged in Kidnapping of Crypto Exchange Owner",
+     "url": "https://decrypt.co/381148/three-canadian-armed-forces-members-charged-in-kidnapping-of-crypto-exchange-owner",
+     "date": "2026-10-16T15:43:58+00:00",
+     "summary": "Police seized guns, silencers and more than 2,000 rounds of ammunition, nearly all of it allegedly stolen from the Canadian military."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T15:43:58+00:00",
+   "last_seen": "2026-10-16T15:43:58+00:00",
+   "summary": "Police seized guns, silencers and more than 2,000 rounds of ammunition, nearly all of it allegedly stolen from the Canadian military.",
+   "tags": [
+    "exchanges",
+    "legal",
+    "security"
+   ]
+  },
+  {
+   "id": "57aeab1ad4",
+   "title": "Microsoft exposes how USDT-funded phishing network targeted 75,000 organizations",
+   "date": "2026-10-16T15:20:01+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Microsoft exposes how USDT-funded phishing network targeted 75,000 organizations",
+     "url": "https://cryptoslate.com/microsoft-exposes-how-usdt-funded-phishing-network-targeted-75000-organizations/",
+     "date": "2026-10-16T15:20:01+00:00",
+     "summary": "Domain seizures and account shutdowns hit YAM Store and phishing-kit services, while reported asset freezes remain unquantified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T15:20:01+00:00",
+   "last_seen": "2026-10-16T15:20:01+00:00",
+   "summary": "Domain seizures and account shutdowns hit YAM Store and phishing-kit services, while reported asset freezes remain unquantified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "d3c9020585",
+   "title": "Deutsche Bank Plans Crypto Custody Launch Within Weeks",
+   "date": "2026-10-16T15:05:02+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Deutsche Bank Plans Crypto Custody Launch Within Weeks",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/deutsche-bank-plans-crypto-custody-launch-within-weeks",
+     "date": "2026-10-16T15:05:02+00:00",
+     "summary": "The European offering will serve corporate and institutional clients, with expansion into Asian financial centres targeted for 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T15:05:02+00:00",
+   "last_seen": "2026-10-16T15:05:02+00:00",
+   "summary": "The European offering will serve corporate and institutional clients, with expansion into Asian financial centres targeted for 2027.",
+   "tags": []
+  },
+  {
+   "id": "0bcc063588",
+   "title": "Mizuho, MUFG and SMBC Complete Joint Yen Stablecoin Pilot",
+   "date": "2026-10-16T15:04:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Mizuho, MUFG and SMBC Complete Joint Yen Stablecoin Pilot",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/mizuho-mufg-and-smbc-complete-joint-yen-stablecoin-pilot",
+     "date": "2026-10-16T15:04:54+00:00",
+     "summary": "The July trial covered issuance, transfer and redemption for Mitsubishi Corporation, while the banks have targeted commercial transactions in fiscal 2026."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T15:04:54+00:00",
+   "last_seen": "2026-10-16T15:04:54+00:00",
+   "summary": "The July trial covered issuance, transfer and redemption for Mitsubishi Corporation, while the banks have targeted commercial transactions in fiscal 2026.",
+   "tags": [
+    "legal",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "e6f03bc213",
+   "title": "Binance.US Seeks Up to $100 Million at $1 Billion Valuation, Bloomberg Reports",
+   "date": "2026-10-16T15:04:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance.US Seeks Up to $100 Million at $1 Billion Valuation, Bloomberg Reports",
+     "url": "https://thedefiant.io/news/cefi/binance-us-seeks-up-to-100-million-at-1-billion-valuation-bloomberg-reports",
+     "date": "2026-10-16T15:04:47+00:00",
+     "summary": "Trump-affiliated World Liberty Financial was made aware of the fundraising but is not participating, according to Bloomberg."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T15:04:47+00:00",
+   "last_seen": "2026-10-16T15:04:47+00:00",
+   "summary": "Trump-affiliated World Liberty Financial was made aware of the fundraising but is not participating, according to Bloomberg.",
+   "tags": [
+    "exchanges",
+    "funding"
+   ]
+  },
+  {
+   "id": "6ee2b6c53d",
+   "title": "Network School Takes Over Farcaster With New Posting Rules",
+   "date": "2026-10-16T15:02:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Network School Takes Over Farcaster With New Posting Rules",
+     "url": "https://thedefiant.io/news/nfts-and-web3/network-school-takes-over-farcaster-with-new-posting-rules",
+     "date": "2026-10-16T15:02:44+00:00",
+     "summary": "The new social smart contract gives the core team authority to update conduct rules, with humans and AI already reviewing posts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T15:02:44+00:00",
+   "last_seen": "2026-10-16T15:02:44+00:00",
+   "summary": "The new social smart contract gives the core team authority to update conduct rules, with humans and AI already reviewing posts.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "a3bbf66581",
+   "title": "AMC CEO Says Company Won\u2019t Consent to Robinhood Stock Tokens in US",
+   "date": "2026-10-16T15:01:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "AMC CEO Says Company Won\u2019t Consent to Robinhood Stock Tokens in US",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/amc-ceo-says-company-won-t-consent-to-robinhood-stock-tokens-in-us",
+     "date": "2026-10-16T15:01:49+00:00",
+     "summary": "Robinhood\u2019s offshore tokens do not convey shareholder rights, while the SEC\u2019s new US trading framework gives issuers a limited right to object."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T15:01:49+00:00",
+   "last_seen": "2026-10-16T15:01:49+00:00",
+   "summary": "Robinhood\u2019s offshore tokens do not convey shareholder rights, while the SEC\u2019s new US trading framework gives issuers a limited right to object.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "b0ae403c88",
+   "title": "Unagi Puts Persona and Ultimate Champions Up for Sale in Liquidation",
+   "date": "2026-10-16T15:00:40+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Unagi Puts Persona and Ultimate Champions Up for Sale in Liquidation",
+     "url": "https://thedefiant.io/news/nfts-and-web3/unagi-puts-persona-and-ultimate-champions-up-for-sale-in-liquidation",
+     "date": "2026-10-16T15:00:40+00:00",
+     "summary": "The sale includes Persona\u2019s intellectual property, a treasury of 957 NFTs and the UNA token contracts, with offers due November 2."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T15:00:40+00:00",
+   "last_seen": "2026-10-16T15:00:40+00:00",
+   "summary": "The sale includes Persona\u2019s intellectual property, a treasury of 957 NFTs and the UNA token contracts, with offers due November 2.",
+   "tags": [
+    "macro",
+    "markets",
+    "nfts"
+   ]
+  },
+  {
+   "id": "cde0c313a6",
+   "title": "INJ Surges 27%, Outpacing NEAR and Sei",
+   "date": "2026-10-16T14:58:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "INJ Surges 27%, Outpacing NEAR and Sei",
+     "url": "https://thedefiant.io/news/markets/inj-surges-27-outpacing-near-and-sei",
+     "date": "2026-10-16T14:58:50+00:00",
+     "summary": "INJ outpaced NEAR, Sei and Cosmos Hub over 24 hours, while a proposed 21Shares fund would hold the token directly and allow discretionary staking."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T14:58:50+00:00",
+   "last_seen": "2026-10-16T14:58:50+00:00",
+   "summary": "INJ outpaced NEAR, Sei and Cosmos Hub over 24 hours, while a proposed 21Shares fund would hold the token directly and allow discretionary staking.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "1a2e2499a8",
+   "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
+   "date": "2026-10-16T14:58:29+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
+     "url": "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826",
+     "date": "2026-10-16T14:58:29+00:00",
+     "summary": "Circle breaks down its USDC revenue: about $1.4 billion in H1 2026, $819 million to partners and transaction costs, $473 million reinvested."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T14:58:29+00:00",
+   "last_seen": "2026-10-16T14:58:29+00:00",
+   "summary": "Circle breaks down its USDC revenue: about $1.4 billion in H1 2026, $819 million to partners and transaction costs, $473 million reinvested.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "a5decc0be8",
+   "title": "Big Tech's AI auditors will only see what they're shown",
+   "date": "2026-10-16T14:58:22+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Big Tech's AI auditors will only see what they're shown",
+     "url": "https://www.coindesk.com/opinion/2026/10/16/big-tech-s-ai-auditors-will-only-see-what-they-re-shown",
+     "date": "2026-10-16T14:58:22+00:00",
+     "summary": "If the White House accord's audits are going to be worth anything, auditors should be able to choose what they test, writes Samuel Vance-Law, head of research at the Decentralization Research Center."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T14:58:22+00:00",
+   "last_seen": "2026-10-16T14:58:22+00:00",
+   "summary": "If the White House accord's audits are going to be worth anything, auditors should be able to choose what they test, writes Samuel Vance-Law, head of research at the Decentralization Research Center.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "01101412de",
+   "title": "Coinbase and Marqeta Expand Partnership for Enterprise Stablecoin Cards",
+   "date": "2026-10-16T14:57:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coinbase and Marqeta Expand Partnership for Enterprise Stablecoin Cards",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-and-marqeta-expand-partnership-for-enterprise-stablecoin-cards",
+     "date": "2026-10-16T14:57:56+00:00",
+     "summary": "The planned offering would let businesses fund card programs around the clock, with Coinbase holding balances and Base providing onchain settlement infrastructure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T14:57:56+00:00",
+   "last_seen": "2026-10-16T14:57:56+00:00",
+   "summary": "The planned offering would let businesses fund card programs around the clock, with Coinbase holding balances and Base providing onchain settlement infrastructure.",
+   "tags": [
+    "exchanges",
+    "legal",
+    "stablecoins"
+   ]
+  },
   {
    "id": "547cc96e48",
    "title": "Tokenized Equities Reached $3.8 Billion This Year, DWF Labs Says",

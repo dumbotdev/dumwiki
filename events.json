@@ -1,6 +1,172 @@
 {
- "updated": "2026-10-16T09:52:22.224108+00:00",
+ "updated": "2026-10-16T10:52:36.730389+00:00",
  "events": [
+  {
+   "id": "5406e56b01",
+   "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
+   "date": "2026-10-16T10:48:49+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Tokenized Tesla surges as Elon Musk unveils SpaceX-powered flying Roadster prototype",
+     "url": "https://www.coindesk.com/business/2026/10/16/elon-musk-s-flying-roadster-reveal-sent-tesla-crypto-trading-into-overdrive-while-stock-markets-were-closed",
+     "date": "2026-10-16T10:48:49+00:00",
+     "summary": "Volume in Hyperliquid\u2019s Tesla contract hit $47 million in one hour after Elon Musk\u2019s flying Roadster demo, up from $2.8 million, with U.S. stocks closed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T10:48:49+00:00",
+   "last_seen": "2026-10-16T10:48:49+00:00",
+   "summary": "Volume in Hyperliquid\u2019s Tesla contract hit $47 million in one hour after Elon Musk\u2019s flying Roadster demo, up from $2.8 million, with U.S. stocks closed.",
+   "tags": []
+  },
+  {
+   "id": "19b72c0515",
+   "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+   "date": "2026-10-16T10:41:03+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Altcoins outpace bitcoin as celestia jumps 16%, Warsh silent on interest-rate plans",
+     "url": "https://www.coindesk.com/markets/2026/10/16/altcoins-outpace-bitcoin-as-celestia-jumps-16-warsh-silent-on-interest-rate-plans",
+     "date": "2026-10-16T10:41:03+00:00",
+     "summary": "Celestia jumped 16%, injective rose 7.7% and layerzero added 7.3% while bitcoin held little changed near $82,100 and Fed Chair Warsh gave no sign on interest rates."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T10:41:03+00:00",
+   "last_seen": "2026-10-16T10:41:03+00:00",
+   "summary": "Celestia jumped 16%, injective rose 7.7% and layerzero added 7.3% while bitcoin held little changed near $82,100 and Fed Chair Warsh gave no sign on interest rates.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "6f5c458f12",
+   "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
+   "date": "2026-10-16T10:39:08+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI Model Used Testnet Ethereum Wallet Without Permission to Finish Coding Task",
+     "url": "https://decrypt.co/381123/openai-model-used-testnet-ethereum-wallet-without-permission-to-finish-coding-task",
+     "date": "2026-10-16T10:39:08+00:00",
+     "summary": "The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T10:39:08+00:00",
+   "last_seen": "2026-10-16T10:39:08+00:00",
+   "summary": "The internal model derived keys from public developer recovery phrases, spent another account's test ETH, and left it out of its report.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "edd26e7420",
+   "title": "Jupiter Says YOLO Hit $1 Billion in Volume in Under 24 Hours",
+   "date": "2026-10-16T10:32:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Jupiter Says YOLO Hit $1 Billion in Volume in Under 24 Hours",
+     "url": "https://thedefiant.io/news/defi/jupiter-says-yolo-hit-1-billion-in-volume-in-under-24-hours",
+     "date": "2026-10-16T10:32:47+00:00",
+     "summary": "The unaudited beta counts leveraged trading exposure, while winners depend on a separate house pool funded by trader losses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T10:32:47+00:00",
+   "last_seen": "2026-10-16T10:32:47+00:00",
+   "summary": "The unaudited beta counts leveraged trading exposure, while winners depend on a separate house pool funded by trader losses.",
+   "tags": []
+  },
+  {
+   "id": "f52adf3e99",
+   "title": "CONNECT recap: Liquidity is tokenization\u2019s next challenge, everyday stablecoins",
+   "date": "2026-10-16T10:27:18+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "CONNECT recap: Liquidity is tokenization\u2019s next challenge, everyday stablecoins",
+     "url": "https://cointelegraph.com/news/connect-recap-tokenizations-next-challenge-is-building-liquidity-gsr-executive-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-16T10:27:18+00:00",
+     "summary": "Panelists at Cointelegraph\u2019s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T10:27:18+00:00",
+   "last_seen": "2026-10-16T10:27:18+00:00",
+   "summary": "Panelists at Cointelegraph\u2019s Singapore CONNECT event explored opportunities in tokenized markets, the future of everyday stablecoin payments and the evolving landscape for crypto investors.",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "129a93f56b",
+   "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+   "date": "2026-10-16T10:24:30+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Scammer gets scammed in Ledger spy-chip exploit, loses almost $5 million in bitcoin",
+     "url": "https://www.coindesk.com/business/2026/10/16/scammer-gets-scammed-in-ledger-spy-chip-exploit-loses-almost-usd5-million-in-bitcoin",
+     "date": "2026-10-16T10:24:30+00:00",
+     "summary": "Chainalysis says a fraudster who tricked people through fake online jobs became one of the biggest victims of the compromised hardware wallets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T10:24:30+00:00",
+   "last_seen": "2026-10-16T10:24:30+00:00",
+   "summary": "Chainalysis says a fraudster who tricked people through fake online jobs became one of the biggest victims of the compromised hardware wallets.",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "5d61d910d5",
+   "title": "GTA 6 Trailer Features Meme Coin\u2014And Solana Copycat Soars 2,900%",
+   "date": "2026-10-16T10:16:06+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "GTA 6 Trailer Features Meme Coin\u2014And Solana Copycat Soars 2,900%",
+     "url": "https://decrypt.co/381122/gta-6-trailer-features-meme-coin-and-solana-copycat-soars-2900",
+     "date": "2026-10-16T10:16:06+00:00",
+     "summary": "Rockstar released the launch trailer for GTA VI, revealing a potential meme coin in the upcoming game and sending degens wild."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T10:16:06+00:00",
+   "last_seen": "2026-10-16T10:16:06+00:00",
+   "summary": "Rockstar released the launch trailer for GTA VI, revealing a potential meme coin in the upcoming game and sending degens wild.",
+   "tags": [
+    "memecoins",
+    "solana"
+   ]
+  },
+  {
+   "id": "820699ba38",
+   "title": "Google demonstrates quantum computing breakthrough as observers weigh Q-day implications",
+   "date": "2026-10-16T10:13:32+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Google demonstrates quantum computing breakthrough as observers weigh Q-day implications",
+     "url": "https://www.theblock.co/news/web3/2026-10-16-google-quantum-computing-breakthrough-418787",
+     "date": "2026-10-16T10:13:32+00:00",
+     "summary": "Google demonstrated \"magic state cultivation,\" potentially helping address one of quantum computing's most significant bottlenecks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T10:13:32+00:00",
+   "last_seen": "2026-10-16T10:13:32+00:00",
+   "summary": "Google demonstrated \"magic state cultivation,\" potentially helping address one of quantum computing's most significant bottlenecks.",
+   "tags": []
+  },
   {
    "id": "7a9c794368",
    "title": "Live updates: Bitcoin back above $82,000, ZEC jumps 11% as ETF outflows continue",

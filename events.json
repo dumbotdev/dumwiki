@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-17T15:44:55.728978+00:00",
+ "updated": "2026-10-17T16:47:01.026208+00:00",
  "events": [
+  {
+   "id": "5fe48a7b39",
+   "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+   "date": "2026-10-17T16:01:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+     "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+     "date": "2026-10-17T16:01:03+00:00",
+     "summary": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T16:01:03+00:00",
+   "last_seen": "2026-10-17T16:01:03+00:00",
+   "summary": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s.",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
   {
    "id": "e2eb89d3cc",
    "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",

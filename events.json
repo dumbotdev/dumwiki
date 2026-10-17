@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-17T10:45:42.971250+00:00",
+ "updated": "2026-10-17T11:44:10.741039+00:00",
  "events": [
+  {
+   "id": "6e33b5515b",
+   "title": "The hidden trade behind Strive\u2019s 16.7% Bitcoin income offer",
+   "date": "2026-10-17T11:00:07+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "The hidden trade behind Strive\u2019s 16.7% Bitcoin income offer",
+     "url": "https://cryptoslate.com/the-hidden-trade-behind-strives-16-7-bitcoin-income-offer/",
+     "date": "2026-10-17T11:00:07+00:00",
+     "summary": "There&#039;s a Bitcoin company that&#039;s now offering investors a 15% annual dividend, paid in small installments every business day. While a 15% dividend is high enough to grab everyone&#039;s attention, the more revealing number is what buyers agreed to pay for it. On Oct...."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T11:00:07+00:00",
+   "last_seen": "2026-10-17T11:00:07+00:00",
+   "summary": "There&#039;s a Bitcoin company that&#039;s now offering investors a 15% annual dividend, paid in small installments every business day. While a 15% dividend is high enough to grab everyone&#039;s attention, the more revealing number is what buyers agreed to pay for it. On Oct....",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "4b3eba541c",
    "title": "Circle\u2019s Allaire says stablecoin issuer looking to enter 40 developing markets: Report",

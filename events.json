@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-16T23:42:13.032909+00:00",
+ "updated": "2026-10-17T01:01:35.044072+00:00",
  "events": [
+  {
+   "id": "6f8bf8d7bb",
+   "title": "Kevin Boon Succeeds Evan Cheng as Mysten Labs CEO",
+   "date": "2026-10-16T23:52:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Kevin Boon Succeeds Evan Cheng as Mysten Labs CEO",
+     "url": "https://thedefiant.io/news/people/kevin-boon-succeeds-evan-cheng-as-mysten-labs-ceo",
+     "date": "2026-10-16T23:52:16+00:00",
+     "summary": "Cheng will remain CTO and personally lead a new AI business unit building agent infrastructure tied to Sui and Walrus."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-16T23:52:16+00:00",
+   "last_seen": "2026-10-16T23:52:16+00:00",
+   "summary": "Cheng will remain CTO and personally lead a new AI business unit building agent infrastructure tied to Sui and Walrus.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "c488ee48cf",
    "title": "Cross River Bank links $2.4B RLUSD to core banking system",

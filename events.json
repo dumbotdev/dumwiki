@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-17T07:46:53.307777+00:00",
+ "updated": "2026-10-17T08:48:01.221430+00:00",
  "events": [
+  {
+   "id": "f180d1c3eb",
+   "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+   "date": "2026-10-17T08:32:11+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Lagarde says euro-area economy is resilient, digital euro imminent",
+     "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-17T08:32:11+00:00",
+     "summary": "\u201cThe digital euro will further stimulate innovation and competition in retail payments,\u201d according to the ECB president."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T08:32:11+00:00",
+   "last_seen": "2026-10-17T08:32:11+00:00",
+   "summary": "\u201cThe digital euro will further stimulate innovation and competition in retail payments,\u201d according to the ECB president.",
+   "tags": []
+  },
+  {
+   "id": "71a7fcb81a",
+   "title": "Strive Prices $630 Million SATS Preferred Offering at $90",
+   "date": "2026-10-17T08:14:03+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Strive Prices $630 Million SATS Preferred Offering at $90",
+     "url": "https://thedefiant.io/converge/cefi/strive-prices-630-million-sats-preferred-offering-at-90",
+     "date": "2026-10-17T08:14:03+00:00",
+     "summary": "The $100 dividend base implies a 16.7% simple annual yield at the offer price, above SATA's initial 15%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T08:14:03+00:00",
+   "last_seen": "2026-10-17T08:14:03+00:00",
+   "summary": "The $100 dividend base implies a 16.7% simple annual yield at the offer price, above SATA's initial 15%.",
+   "tags": [
+    "defi",
+    "markets"
+   ]
+  },
+  {
+   "id": "a941b7697f",
+   "title": "Ether ETFs Lose $320 Million, Overtaking Bitcoin's Weekly Outflows",
+   "date": "2026-10-17T07:55:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ether ETFs Lose $320 Million, Overtaking Bitcoin's Weekly Outflows",
+     "url": "https://thedefiant.io/news/markets/ether-etfs-lose-320-million-overtaking-bitcoin-s-weekly-outflows",
+     "date": "2026-10-17T07:55:49+00:00",
+     "summary": "Five crypto ETF groups tracked by Farside lost $610.7 million during Oct. 12\u201316, while bitcoin withdrawals slowed 66% from the preceding week."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T07:55:49+00:00",
+   "last_seen": "2026-10-17T07:55:49+00:00",
+   "summary": "Five crypto ETF groups tracked by Farside lost $610.7 million during Oct. 12\u201316, while bitcoin withdrawals slowed 66% from the preceding week.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
   {
    "id": "843f089109",
    "title": "Strategy Slides 9.6% After MSCI Decision, Outpacing Bitcoin\u2019s Drop",

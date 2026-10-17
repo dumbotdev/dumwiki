@@ -1,6 +1,91 @@
 {
- "updated": "2026-10-17T07:00:51.887853+00:00",
+ "updated": "2026-10-17T07:46:53.307777+00:00",
  "events": [
+  {
+   "id": "843f089109",
+   "title": "Strategy Slides 9.6% After MSCI Decision, Outpacing Bitcoin\u2019s Drop",
+   "date": "2026-10-17T07:44:41+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Strategy Slides 9.6% After MSCI Decision, Outpacing Bitcoin\u2019s Drop",
+     "url": "https://thedefiant.io/converge/markets/strategy-slides-9-6-after-msci-decision-outpacing-bitcoin-s-drop",
+     "date": "2026-10-17T07:44:41+00:00",
+     "summary": "The company\u2019s disclosed bitcoin holdings remained about $5.1 billion above cost. MSCI\u2019s final affected-company list is due Nov. 11."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T07:44:41+00:00",
+   "last_seen": "2026-10-17T07:44:41+00:00",
+   "summary": "The company\u2019s disclosed bitcoin holdings remained about $5.1 billion above cost. MSCI\u2019s final affected-company list is due Nov. 11.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "4fae30544b",
+   "title": "DTCC Outlines 25-Security Tokenization Rollout on Canton and Besu",
+   "date": "2026-10-17T07:32:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "DTCC Outlines 25-Security Tokenization Rollout on Canton and Besu",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-outlines-25-security-tokenization-rollout-on-canton-and-besu",
+     "date": "2026-10-17T07:32:11+00:00",
+     "summary": "Tokens will be backed 1:1 by securities held at DTC, with Stellar and Circle\u2019s Arc anticipated in 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T07:32:11+00:00",
+   "last_seen": "2026-10-17T07:32:11+00:00",
+   "summary": "Tokens will be backed 1:1 by securities held at DTC, with Stellar and Circle\u2019s Arc anticipated in 2027.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f245158387",
+   "title": "Bitget to discontinue services for some users in one-off exercise",
+   "date": "2026-10-17T07:26:57+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitget to discontinue services for some users in one-off exercise",
+     "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-17T07:26:57+00:00",
+     "summary": "Bitget says user funds are safe and exchange will continue to operate during the change."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T07:26:57+00:00",
+   "last_seen": "2026-10-17T07:26:57+00:00",
+   "summary": "Bitget says user funds are safe and exchange will continue to operate during the change.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "c3518804f2",
+   "title": "Bitcoin\u2019s inflation hedge has a hidden cost, and leverage makes it worse",
+   "date": "2026-10-17T07:00:46+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s inflation hedge has a hidden cost, and leverage makes it worse",
+     "url": "https://cryptoslate.com/bitcoins-inflation-hedge-has-a-hidden-cost-and-leverage-makes-it-worse/",
+     "date": "2026-10-17T07:00:46+00:00",
+     "summary": "Borrowing costs, missed interest income, and futures fees can all eat into returns even when Bitcoin holds its value. That&#039;s a big problem, and it gets even worse when inflation stays high. September&#039;s US inflation report showed consumer prices up 3.7% year over year,..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T07:00:46+00:00",
+   "last_seen": "2026-10-17T07:00:46+00:00",
+   "summary": "Borrowing costs, missed interest income, and futures fees can all eat into returns even when Bitcoin holds its value. That&#039;s a big problem, and it gets even worse when inflation stays high. September&#039;s US inflation report showed consumer prices up 3.7% year over year,...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
   {
    "id": "447fce53ef",
    "title": "\u2018Wow, it\u2019s a real discovery\u2019: Claude cracks a 25-year NSA number mystery",

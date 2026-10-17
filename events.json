@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-17T19:41:55.611820+00:00",
+ "updated": "2026-10-17T20:45:24.020049+00:00",
  "events": [
+  {
+   "id": "d4314718f6",
+   "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
+   "date": "2026-10-17T19:56:25+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
+     "url": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
+     "date": "2026-10-17T19:56:25+00:00",
+     "summary": "Applied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price, liquidity and volatility."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T19:56:25+00:00",
+   "last_seen": "2026-10-17T19:56:25+00:00",
+   "summary": "Applied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price, liquidity and volatility.",
+   "tags": [
+    "defi",
+    "markets"
+   ]
+  },
+  {
+   "id": "642bf8f0d6",
+   "title": "French Assembly Backs Tax on Crypto-to-Stablecoin Swaps by One Vote",
+   "date": "2026-10-17T19:42:21+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "French Assembly Backs Tax on Crypto-to-Stablecoin Swaps by One Vote",
+     "url": "https://thedefiant.io/news/regulation/french-assembly-backs-tax-on-crypto-to-stablecoin-swaps-by-one-vote",
+     "date": "2026-10-17T19:42:21+00:00",
+     "summary": "The 2027 budget amendment would end tax deferral for swaps into single-currency stablecoins from January 1, but it is not yet law."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T19:42:21+00:00",
+   "last_seen": "2026-10-17T19:42:21+00:00",
+   "summary": "The 2027 budget amendment would end tax deferral for swaps into single-currency stablecoins from January 1, but it is not yet law.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "70628b2987",
    "title": "Who opened your crypto wallet before it reached your hands?",

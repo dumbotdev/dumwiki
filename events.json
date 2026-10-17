@@ -1,6 +1,68 @@
 {
- "updated": "2026-10-17T14:44:54.632523+00:00",
+ "updated": "2026-10-17T15:44:55.728978+00:00",
  "events": [
+  {
+   "id": "e2eb89d3cc",
+   "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+   "date": "2026-10-17T15:01:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+     "url": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
+     "date": "2026-10-17T15:01:03+00:00",
+     "summary": "StepFun's STEPX Neo opened for pre-orders in China on Oct. 13 at 3,999 yuan, with an AI agent built into the operating system instead of bolted on as an app."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T15:01:03+00:00",
+   "last_seen": "2026-10-17T15:01:03+00:00",
+   "summary": "StepFun's STEPX Neo opened for pre-orders in China on Oct. 13 at 3,999 yuan, with an AI agent built into the operating system instead of bolted on as an app.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "5bf8f74de8",
+   "title": "Stablecoin cards are booming, but who makes money when you swipe?",
+   "date": "2026-10-17T15:00:18+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Stablecoin cards are booming, but who makes money when you swipe?",
+     "url": "https://cryptoslate.com/stablecoin-cards-are-booming-but-who-makes-money-when-you-swipe/",
+     "date": "2026-10-17T15:00:18+00:00",
+     "summary": "Someone paying for lunch with a stablecoin card doesn&#039;t need the restaurant to know what USDC is. The card works like any other at the terminal, with the customer&#039;s digital dollar balance funding the purchase while the merchant receives regular dollars through its..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T15:00:18+00:00",
+   "last_seen": "2026-10-17T15:00:18+00:00",
+   "summary": "Someone paying for lunch with a stablecoin card doesn&#039;t need the restaurant to know what USDC is. The card works like any other at the terminal, with the customer&#039;s digital dollar balance funding the purchase while the merchant receives regular dollars through its...",
+   "tags": [
+    "funding",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "1792bcb60a",
+   "title": "Citrini sees a tokenization boom. The harder question is who profits",
+   "date": "2026-10-17T15:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Citrini sees a tokenization boom. The harder question is who profits",
+     "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+     "date": "2026-10-17T15:00:00+00:00",
+     "summary": "The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols capture the revenue."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T15:00:00+00:00",
+   "last_seen": "2026-10-17T15:00:00+00:00",
+   "summary": "The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols capture the revenue.",
+   "tags": []
+  },
   {
    "id": "891fafd9b1",
    "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",

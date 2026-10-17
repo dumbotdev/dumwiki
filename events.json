@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-17T18:48:39.066463+00:00",
+ "updated": "2026-10-17T19:41:55.611820+00:00",
  "events": [
+  {
+   "id": "70628b2987",
+   "title": "Who opened your crypto wallet before it reached your hands?",
+   "date": "2026-10-17T19:00:25+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Who opened your crypto wallet before it reached your hands?",
+     "url": "https://cryptoslate.com/who-handled-your-wallet-before-you-did/",
+     "date": "2026-10-17T19:00:25+00:00",
+     "summary": "In early October, customers in Southeast Asia discovered that their crypto had disappeared from Ledger hardware wallets that still seemed to be working normally. They bought the devices through CryptoBilis, an authorized reseller, and believed their private keys were protected..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T19:00:25+00:00",
+   "last_seen": "2026-10-17T19:00:25+00:00",
+   "summary": "In early October, customers in Southeast Asia discovered that their crypto had disappeared from Ledger hardware wallets that still seemed to be working normally. They bought the devices through CryptoBilis, an authorized reseller, and believed their private keys were protected...",
+   "tags": []
+  },
   {
    "id": "bf8cb524eb",
    "title": "Turkey confirms Hex founder Richard Heart\u2019s arrest, says police seized $7.15 million and six cold wallets",

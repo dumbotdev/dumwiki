@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-17T11:44:10.741039+00:00",
+ "updated": "2026-10-17T12:55:19.162332+00:00",
  "events": [
+  {
+   "id": "174f8cc11a",
+   "title": "Eclair patches a browser attack that could send commands to your Lightning node",
+   "date": "2026-10-17T12:00:20+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Eclair patches a browser attack that could send commands to your Lightning node",
+     "url": "https://cryptoslate.com/eclair-blocks-browser-requests-that-could-let-a-webpage-control-a-bitcoin-lightning-node/",
+     "date": "2026-10-17T12:00:20+00:00",
+     "summary": "The Oct. 15 release blocks a cached-authentication route to Eclair&#039;s API and requires direct browser interfaces to add a backend. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T12:00:20+00:00",
+   "last_seen": "2026-10-17T12:00:20+00:00",
+   "summary": "The Oct. 15 release blocks a cached-authentication route to Eclair&#039;s API and requires direct browser interfaces to add a backend. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "da6a7bebb5",
+   "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+   "date": "2026-10-17T12:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds",
+     "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds",
+     "date": "2026-10-17T12:00:00+00:00",
+     "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T12:00:00+00:00",
+   "last_seen": "2026-10-17T12:00:00+00:00",
+   "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth, cutting ten-week growth from 15% to 12%.",
+   "tags": [
+    "macro",
+    "stablecoins"
+   ]
+  },
   {
    "id": "6e33b5515b",
    "title": "The hidden trade behind Strive\u2019s 16.7% Bitcoin income offer",

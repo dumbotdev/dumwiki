@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-17T05:47:06.859683+00:00",
+ "updated": "2026-10-17T07:00:51.887853+00:00",
  "events": [
+  {
+   "id": "447fce53ef",
+   "title": "\u2018Wow, it\u2019s a real discovery\u2019: Claude cracks a 25-year NSA number mystery",
+   "date": "2026-10-17T06:39:48+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "\u2018Wow, it\u2019s a real discovery\u2019: Claude cracks a 25-year NSA number mystery",
+     "url": "https://www.coindesk.com/tech/2026/10/17/wow-it-s-a-real-discovery-claude-cracks-a-25-year-nsa-number-mystery",
+     "date": "2026-10-17T06:39:48+00:00",
+     "summary": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn\u2019t gone anywhere."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T06:39:48+00:00",
+   "last_seen": "2026-10-17T06:39:48+00:00",
+   "summary": "Numbers the spy agency handed over in the 1990s, long suspected of hiding a backdoor, turn out to have come from a basic computer program. Bitcoin was never on that list, and its quantum problem hasn\u2019t gone anywhere.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "675db73890",
+   "title": "Celestia\u2019s TIA Jumps 23% in a Day, Extending Four-Week Rally",
+   "date": "2026-10-17T05:58:10+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Celestia\u2019s TIA Jumps 23% in a Day, Extending Four-Week Rally",
+     "url": "https://thedefiant.io/news/tokens/celestia-s-tia-jumps-23-in-a-day-extending-four-week-rally",
+     "date": "2026-10-17T05:58:10+00:00",
+     "summary": "Daily transaction fees rose to $158, but data posted to Celestia slipped on the latest complete day."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T05:58:10+00:00",
+   "last_seen": "2026-10-17T05:58:10+00:00",
+   "summary": "Daily transaction fees rose to $158, but data posted to Celestia slipped on the latest complete day.",
+   "tags": [
+    "markets"
+   ]
+  },
   {
    "id": "7545199ee7",
    "title": "Bitget to End Services for Some Users, With Account-Specific Deadlines",

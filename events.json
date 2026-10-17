@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-17T13:45:40.181442+00:00",
+ "updated": "2026-10-17T14:44:54.632523+00:00",
  "events": [
+  {
+   "id": "891fafd9b1",
+   "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+   "date": "2026-10-17T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+     "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+     "date": "2026-10-17T14:00:00+00:00",
+     "summary": "CEO Marc Boiron said the Coinme acquisition will help Polygon control customer relationships and capture revenue that previously went to payment intermediaries."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T14:00:00+00:00",
+   "last_seen": "2026-10-17T14:00:00+00:00",
+   "summary": "CEO Marc Boiron said the Coinme acquisition will help Polygon control customer relationships and capture revenue that previously went to payment intermediaries.",
+   "tags": [
+    "funding"
+   ]
+  },
   {
    "id": "4cced0c281",
    "title": "Binance Pool shuts on November 10, with record access ending two weeks later",

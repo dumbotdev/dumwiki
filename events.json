@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-17T12:55:19.162332+00:00",
+ "updated": "2026-10-17T13:45:40.181442+00:00",
  "events": [
+  {
+   "id": "4cced0c281",
+   "title": "Binance Pool shuts on November 10, with record access ending two weeks later",
+   "date": "2026-10-17T13:30:39+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance Pool shuts on November 10, with record access ending two weeks later",
+     "url": "https://cryptoslate.com/binance-will-shut-its-mining-pool-on-nov-10-giving-miners-a-deadline-to-move/",
+     "date": "2026-10-17T13:30:39+00:00",
+     "summary": "Mining stops at 07:00 UTC, while final payments depend on eligibility and historical pages close two weeks later. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T13:30:39+00:00",
+   "last_seen": "2026-10-17T13:30:39+00:00",
+   "summary": "Mining stops at 07:00 UTC, while final payments depend on eligibility and historical pages close two weeks later. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "c5ed4b79ed",
+   "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
+   "date": "2026-10-17T13:01:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
+     "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+     "date": "2026-10-17T13:01:04+00:00",
+     "summary": "AI companies charge by the token, and most people burn them on jobs a cheap model could do. Here's how to spend less and get better results, from your first prompt to your first agent."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T13:01:04+00:00",
+   "last_seen": "2026-10-17T13:01:04+00:00",
+   "summary": "AI companies charge by the token, and most people burn them on jobs a cheap model could do. Here's how to spend less and get better results, from your first prompt to your first agent.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "6d2c391a67",
+   "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+   "date": "2026-10-17T12:58:03+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+     "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-17T12:58:03+00:00",
+     "summary": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T12:58:03+00:00",
+   "last_seen": "2026-10-17T12:58:03+00:00",
+   "summary": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report.",
+   "tags": [
+    "solana"
+   ]
+  },
   {
    "id": "174f8cc11a",
    "title": "Eclair patches a browser attack that could send commands to your Lightning node",

@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-17T04:49:36.487167+00:00",
+ "updated": "2026-10-17T05:47:06.859683+00:00",
  "events": [
+  {
+   "id": "7545199ee7",
+   "title": "Bitget to End Services for Some Users, With Account-Specific Deadlines",
+   "date": "2026-10-17T05:26:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitget to End Services for Some Users, With Account-Specific Deadlines",
+     "url": "https://thedefiant.io/news/cefi/bitget-to-end-services-for-some-users-with-account-specific-deadlines",
+     "date": "2026-10-17T05:26:37+00:00",
+     "summary": "The exchange's terms list Russia, Belarus and Kazakhstan as prohibited jurisdictions, while an affected user reports an Oct. 21 deadline."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T05:26:37+00:00",
+   "last_seen": "2026-10-17T05:26:37+00:00",
+   "summary": "The exchange's terms list Russia, Belarus and Kazakhstan as prohibited jurisdictions, while an affected user reports an Oct. 21 deadline.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "e717ff1e55",
+   "title": "Cardano shifts $26M to USDCx as bridge controls freeze payouts",
+   "date": "2026-10-17T05:00:24+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Cardano shifts $26M to USDCx as bridge controls freeze payouts",
+     "url": "https://cryptoslate.com/cardano-shifts-26m-to-usdcx-as-bridge-controls-freeze-payouts/",
+     "date": "2026-10-17T05:00:24+00:00",
+     "summary": "Converted Intersect-administered budgets reduce ADA exposure, while milestone release and stablecoin cash-out conditions still govern access to usable money. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T05:00:24+00:00",
+   "last_seen": "2026-10-17T05:00:24+00:00",
+   "summary": "Converted Intersect-administered budgets reduce ADA exposure, while milestone release and stablecoin cash-out conditions still govern access to usable money. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "7f358f46c1",
    "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google\u2019s new Willow breakthrough",

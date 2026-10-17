@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-17T17:43:16.537151+00:00",
+ "updated": "2026-10-17T18:48:39.066463+00:00",
  "events": [
+  {
+   "id": "bf8cb524eb",
+   "title": "Turkey confirms Hex founder Richard Heart\u2019s arrest, says police seized $7.15 million and six cold wallets",
+   "date": "2026-10-17T18:14:43+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Turkey confirms Hex founder Richard Heart\u2019s arrest, says police seized $7.15 million and six cold wallets",
+     "url": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
+     "date": "2026-10-17T18:14:43+00:00",
+     "summary": "Police reportedly seized $7.15 million in cash, six cold wallets, seven firearms and 1,400 rounds of ammunition in searches of 15 addresses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-17T18:14:43+00:00",
+   "last_seen": "2026-10-17T18:14:43+00:00",
+   "summary": "Police reportedly seized $7.15 million in cash, six cold wallets, seven firearms and 1,400 rounds of ammunition in searches of 15 addresses.",
+   "tags": []
+  },
   {
    "id": "30118eb23e",
    "title": "Injective Activates Fixed Gas Costs for Exchange Transactions",

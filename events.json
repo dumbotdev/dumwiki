@@ -1,6 +1,67 @@
 {
- "updated": "2026-10-18T13:45:25.733999+00:00",
+ "updated": "2026-10-18T14:45:27.302037+00:00",
  "events": [
+  {
+   "id": "d4a2aaf55b",
+   "title": "Claude unpicks an NSA mystery behind Ethereum passkey security",
+   "date": "2026-10-18T14:00:41+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Claude unpicks an NSA mystery behind Ethereum passkey security",
+     "url": "https://cryptoslate.com/claude-unpicks-an-nsa-mystery-behind-ethereum-passkey-security/",
+     "date": "2026-10-18T14:00:41+00:00",
+     "summary": "Anthropic\u2019s timestamp recipe reconstructs P-256\u2019s public seed, adding provenance evidence while leaving selection criteria and base-point origins unexplained. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T14:00:41+00:00",
+   "last_seen": "2026-10-18T14:00:41+00:00",
+   "summary": "Anthropic\u2019s timestamp recipe reconstructs P-256\u2019s public seed, adding provenance evidence while leaving selection criteria and base-point origins unexplained. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "b438f78f34",
+   "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+   "date": "2026-10-18T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+     "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+     "date": "2026-10-18T14:00:00+00:00",
+     "summary": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto rails."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T14:00:00+00:00",
+   "last_seen": "2026-10-18T14:00:00+00:00",
+   "summary": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto rails.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "08312074b2",
+   "title": "Most Americans polled oppose betting on elections: Reuters",
+   "date": "2026-10-18T13:48:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Most Americans polled oppose betting on elections: Reuters",
+     "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-18T13:48:00+00:00",
+     "summary": "The prediction market industry enables people to bet on US \u200celections and sporting events."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T13:48:00+00:00",
+   "last_seen": "2026-10-18T13:48:00+00:00",
+   "summary": "The prediction market industry enables people to bet on US \u200celections and sporting events.",
+   "tags": []
+  },
   {
    "id": "937530273d",
    "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",

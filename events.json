@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-18T05:47:07.655971+00:00",
+ "updated": "2026-10-18T06:59:51.157543+00:00",
  "events": [
+  {
+   "id": "460b3aabdb",
+   "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+   "date": "2026-10-18T06:26:53+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+     "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-18T06:26:53+00:00",
+     "summary": "The round brings AIsa\u2019s total funding to more than $9 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T06:26:53+00:00",
+   "last_seen": "2026-10-18T06:26:53+00:00",
+   "summary": "The round brings AIsa\u2019s total funding to more than $9 million.",
+   "tags": [
+    "funding",
+    "stablecoins"
+   ]
+  },
   {
    "id": "e7909bb07d",
    "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",

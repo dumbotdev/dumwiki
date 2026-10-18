@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-18T22:44:00.290823+00:00",
+ "updated": "2026-10-18T23:40:37.159946+00:00",
  "events": [
+  {
+   "id": "72ea09f6d2",
+   "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+   "date": "2026-10-18T23:28:06+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",
+     "url": "https://www.coindesk.com/business/2026/10/18/sec-tokenized-stock-framework-faces-issuer-pushback-as-broadcom-verizon-object-to-okx-ice-listing",
+     "date": "2026-10-18T23:28:06+00:00",
+     "summary": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC\u2019s framework."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T23:28:06+00:00",
+   "last_seen": "2026-10-18T23:28:06+00:00",
+   "summary": "Eight more companies objected to trading on the planned OKX-ICE venue, while Nasdaq has separately said it would opt out under the SEC\u2019s framework.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "cd2481b019",
+   "title": "Richard Heart caught \u2018off-guard,\u2019 QDay gets even closer: Hodler\u2019s Digest",
+   "date": "2026-10-18T22:58:17+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Richard Heart caught \u2018off-guard,\u2019 QDay gets even closer: Hodler\u2019s Digest",
+     "url": "https://cointelegraph.com/magazine/richard-heart-caught-with-pants-down-qday-gets-even-closer-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-18T22:58:17+00:00",
+     "summary": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T22:58:17+00:00",
+   "last_seen": "2026-10-18T22:58:17+00:00",
+   "summary": "HEX founder Richard Heart detained in early morning raid in Istanbul, Starknet plunges almost 50% as it votes to become an L1, and Bitwise says all signs point to Crypto Spring.",
+   "tags": []
+  },
   {
    "id": "a8dbd4c9b7",
    "title": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",

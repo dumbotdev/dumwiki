@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-18T06:59:51.157543+00:00",
+ "updated": "2026-10-18T07:46:34.090348+00:00",
  "events": [
+  {
+   "id": "d36f675539",
+   "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+   "date": "2026-10-18T07:13:32+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+     "url": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+     "date": "2026-10-18T07:13:32+00:00",
+     "summary": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T07:13:32+00:00",
+   "last_seen": "2026-10-18T07:13:32+00:00",
+   "summary": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "f82e58d524",
+   "title": "The crypto privacy rule Trump\u2019s Treasury proposed, and Trump\u2019s Treasury buried",
+   "date": "2026-10-18T07:00:23+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "The crypto privacy rule Trump\u2019s Treasury proposed, and Trump\u2019s Treasury buried",
+     "url": "https://cryptoslate.com/the-crypto-privacy-rule-trumps-treasury-proposed-and-trumps-treasury-buried/",
+     "date": "2026-10-18T07:00:23+00:00",
+     "summary": "On Dec. 18, 2020, with Christmas a week away and Donald Trump preparing to leave the White House, Steven Mnuchin&#039;s Treasury Department announced a plan that would require crypto exchanges and other financial institutions to collect more information about transactions..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T07:00:23+00:00",
+   "last_seen": "2026-10-18T07:00:23+00:00",
+   "summary": "On Dec. 18, 2020, with Christmas a week away and Donald Trump preparing to leave the White House, Steven Mnuchin&#039;s Treasury Department announced a plan that would require crypto exchanges and other financial institutions to collect more information about transactions...",
+   "tags": [
+    "macro"
+   ]
+  },
   {
    "id": "460b3aabdb",
    "title": "Tether backs AIsa as strategic investor, completing seed extension round",

@@ -1,6 +1,90 @@
 {
- "updated": "2026-10-18T11:43:32.196131+00:00",
+ "updated": "2026-10-18T12:55:07.229258+00:00",
  "events": [
+  {
+   "id": "38eae4b936",
+   "title": "CryptoQuant CEO sees $30,000 Bitcoin floor even if ETFs and treasury firms exit",
+   "date": "2026-10-18T12:30:34+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "CryptoQuant CEO sees $30,000 Bitcoin floor even if ETFs and treasury firms exit",
+     "url": "https://cryptoslate.com/cryptoquant-ceo-sees-30000-bitcoin-floor-even-if-etfs-and-treasury-firms-exit/",
+     "date": "2026-10-18T12:30:34+00:00",
+     "summary": "Bitcoin could find support near $30,000 even if institutional investors unwind their accumulated exposure, CryptoQuant&#039;s chief executive argues. The scenario would require reversing roughly $58 billion in net inflows to US spot Bitcoin exchange-traded funds (ETFs) and..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T12:30:34+00:00",
+   "last_seen": "2026-10-18T12:30:34+00:00",
+   "summary": "Bitcoin could find support near $30,000 even if institutional investors unwind their accumulated exposure, CryptoQuant&#039;s chief executive argues. The scenario would require reversing roughly $58 billion in net inflows to US spot Bitcoin exchange-traded funds (ETFs) and...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "macro"
+   ]
+  },
+  {
+   "id": "929266befc",
+   "title": "Prediction markets have a major problem as most Americans reject betting on elections",
+   "date": "2026-10-18T12:00:10+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Prediction markets have a major problem as most Americans reject betting on elections",
+     "url": "https://cryptoslate.com/prediction-markets-have-a-major-problem-as-most-americans-reject-betting-on-elections/",
+     "date": "2026-10-18T12:00:10+00:00",
+     "summary": "Prediction markets want you to see them (and use them) as one of the best possible instruments for finding out what\u2019s happening in the world. Open any election market, and you\u2019re immediately given a probability that shifts in real time as people trade. It\u2019s a single number, easy..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T12:00:10+00:00",
+   "last_seen": "2026-10-18T12:00:10+00:00",
+   "summary": "Prediction markets want you to see them (and use them) as one of the best possible instruments for finding out what\u2019s happening in the world. Open any election market, and you\u2019re immediately given a probability that shifts in real time as people trade. It\u2019s a single number, easy...",
+   "tags": []
+  },
+  {
+   "id": "0a6c3b760d",
+   "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+   "date": "2026-10-18T12:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+     "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+     "date": "2026-10-18T12:00:00+00:00",
+     "summary": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T12:00:00+00:00",
+   "last_seen": "2026-10-18T12:00:00+00:00",
+   "summary": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "18c2bda64b",
+   "title": "BitTorrent Ushers in Next-Gen Web3 Infrastructure with Strategic Rebrand and Inaugural BTT Burn",
+   "date": "2026-10-18T11:58:10+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "BitTorrent Ushers in Next-Gen Web3 Infrastructure with Strategic Rebrand and Inaugural BTT Burn",
+     "url": "https://cryptoslate.com/bittorrent-ushers-in-next-gen-web3-infrastructure-with-strategic-rebrand-and-inaugural-btt-burn/",
+     "date": "2026-10-18T11:58:10+00:00",
+     "summary": "Overview: The first round of BTT repurchased with decentralized service revenue has been completely burned, as BitTorrent leverages its reimagined architecture to pivot toward Web3 and AI infrastructure. BitTorrent, a cornerstone of decentralized infrastructure in the TRON..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T11:58:10+00:00",
+   "last_seen": "2026-10-18T11:58:10+00:00",
+   "summary": "Overview: The first round of BTT repurchased with decentralized service revenue has been completely burned, as BitTorrent leverages its reimagined architecture to pivot toward Web3 and AI infrastructure. BitTorrent, a cornerstone of decentralized infrastructure in the TRON...",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "674c7370f5",
    "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",

@@ -1,6 +1,132 @@
 {
- "updated": "2026-10-18T15:45:21.561900+00:00",
+ "updated": "2026-10-18T16:47:49.779336+00:00",
  "events": [
+  {
+   "id": "f37dccd860",
+   "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+   "date": "2026-10-18T16:33:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+     "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+     "date": "2026-10-18T16:33:00+00:00",
+     "summary": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T16:33:00+00:00",
+   "last_seen": "2026-10-18T16:33:00+00:00",
+   "summary": "Wall Street's fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "0bb0c1720c",
+   "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
+   "date": "2026-10-18T16:31:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
+     "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
+     "date": "2026-10-18T16:31:03+00:00",
+     "summary": "MapQuest\u2019s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T16:31:03+00:00",
+   "last_seen": "2026-10-18T16:31:03+00:00",
+   "summary": "MapQuest\u2019s app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows.",
+   "tags": []
+  },
+  {
+   "id": "7b1aaadc1a",
+   "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
+   "date": "2026-10-18T16:07:43+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
+     "url": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
+     "date": "2026-10-18T16:07:43+00:00",
+     "summary": "The attacker, after minting 10 million CYS, managed to bridge about $727,000 in proceeds to Ethereum through Mayan, deBridge and SWFT's Bridgers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T16:07:43+00:00",
+   "last_seen": "2026-10-18T16:07:43+00:00",
+   "summary": "The attacker, after minting 10 million CYS, managed to bridge about $727,000 in proceeds to Ethereum through Mayan, deBridge and SWFT's Bridgers.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "47c451c162",
+   "title": "Two Aave stablecoin backstops shrank $12.4 million as reward rates rose",
+   "date": "2026-10-18T16:00:22+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Two Aave stablecoin backstops shrank $12.4 million as reward rates rose",
+     "url": "https://cryptoslate.com/two-aave-stablecoin-backstops-shrank-12-4-million-as-reward-rates-rose/",
+     "date": "2026-10-18T16:00:22+00:00",
+     "summary": "Two tracked Ethereum V3 Umbrella stakes fell 9.7%, while their implied annualized reward run rate stayed near $2 million. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T16:00:22+00:00",
+   "last_seen": "2026-10-18T16:00:22+00:00",
+   "summary": "Two tracked Ethereum V3 Umbrella stakes fell 9.7%, while their implied annualized reward run rate stayed near $2 million. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum",
+    "macro",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "bd13c0ab88",
+   "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+   "date": "2026-10-18T16:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+     "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+     "date": "2026-10-18T16:00:00+00:00",
+     "summary": "Parliament passed a law taxing crypto withdrawals above deposits rather than individual trades, featuring a one-time declaration mechanism."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T16:00:00+00:00",
+   "last_seen": "2026-10-18T16:00:00+00:00",
+   "summary": "Parliament passed a law taxing crypto withdrawals above deposits rather than individual trades, featuring a one-time declaration mechanism.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "48f6abf5cb",
+   "title": "JUST Completes 5th JST Buyback & Burn: Over 170M Tokens (~$23.53M) Burned Ahead of Major Deflationary Upgrade",
+   "date": "2026-10-18T15:45:05+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "JUST Completes 5th JST Buyback & Burn: Over 170M Tokens (~$23.53M) Burned Ahead of Major Deflationary Upgrade",
+     "url": "https://cryptoslate.com/just-completes-5th-jst-buyback-burn-over-170m-tokens-23-53m-burned-ahead-of-major-deflationary-upgrade/",
+     "date": "2026-10-18T15:45:05+00:00",
+     "summary": "On October 17, JUST, the leading DeFi infrastructure in the TRON ecosystem, announced the completion of its fifth buyback and burn of its native token JST as scheduled. Over 170M JST were burned in this round (approx. 1.72% of total supply), backed by nearly $23.53M in capital..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T15:45:05+00:00",
+   "last_seen": "2026-10-18T15:45:05+00:00",
+   "summary": "On October 17, JUST, the leading DeFi infrastructure in the TRON ecosystem, announced the completion of its fifth buyback and burn of its native token JST as scheduled. Over 170M JST were burned in this round (approx. 1.72% of total supply), backed by nearly $23.53M in capital...",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "c159414447",
    "title": "Qubic Halts Network After $1.3 Million Wallet Drain",

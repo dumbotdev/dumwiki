@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-18T14:45:27.302037+00:00",
+ "updated": "2026-10-18T15:45:21.561900+00:00",
  "events": [
+  {
+   "id": "c159414447",
+   "title": "Qubic Halts Network After $1.3 Million Wallet Drain",
+   "date": "2026-10-18T15:09:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Qubic Halts Network After $1.3 Million Wallet Drain",
+     "url": "https://thedefiant.io/news/hacks/qubic-halts-network-after-1-3-million-wallet-drain",
+     "date": "2026-10-18T15:09:55+00:00",
+     "summary": "Qubic says 87.1% of the drained QU remains immobilized on its network, while MEXC froze the account receiving the rest."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T15:09:55+00:00",
+   "last_seen": "2026-10-18T15:09:55+00:00",
+   "summary": "Qubic says 87.1% of the drained QU remains immobilized on its network, while MEXC froze the account receiving the rest.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "777518429c",
+   "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+   "date": "2026-10-18T15:01:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+     "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+     "date": "2026-10-18T15:01:04+00:00",
+     "summary": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T15:01:04+00:00",
+   "last_seen": "2026-10-18T15:01:04+00:00",
+   "summary": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "815d3dc21b",
+   "title": "SEC approves Coinbase earnings bets that stay settled when the numbers change",
+   "date": "2026-10-18T15:00:36+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "SEC approves Coinbase earnings bets that stay settled when the numbers change",
+     "url": "https://cryptoslate.com/sec-approves-coinbase-earnings-bets-that-stay-settled-when-the-numbers-change/",
+     "date": "2026-10-18T15:00:36+00:00",
+     "summary": "Cboe&#039;s rules cover Coinbase trading volume and MARA Bitcoin output, with separate procedures for missing or delayed figures. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T15:00:36+00:00",
+   "last_seen": "2026-10-18T15:00:36+00:00",
+   "summary": "Cboe&#039;s rules cover Coinbase trading volume and MARA Bitcoin output, with separate procedures for missing or delayed figures. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "regulation"
+   ]
+  },
   {
    "id": "d4a2aaf55b",
    "title": "Claude unpicks an NSA mystery behind Ethereum passkey security",

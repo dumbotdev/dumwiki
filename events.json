@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-18T08:48:24.056436+00:00",
+ "updated": "2026-10-18T09:47:42.223490+00:00",
  "events": [
+  {
+   "id": "ea7312ba8b",
+   "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+   "date": "2026-10-18T09:14:26+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+     "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-18T09:14:26+00:00",
+     "summary": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T09:14:26+00:00",
+   "last_seen": "2026-10-18T09:14:26+00:00",
+   "summary": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts.",
+   "tags": []
+  },
   {
    "id": "d36f675539",
    "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",

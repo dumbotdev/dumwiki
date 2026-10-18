@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-18T16:47:49.779336+00:00",
+ "updated": "2026-10-18T17:42:57.028248+00:00",
  "events": [
+  {
+   "id": "c65d8f87da",
+   "title": "Crypto doesn\u2019t need your party to win, just its candidates",
+   "date": "2026-10-18T17:00:57+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Crypto doesn\u2019t need your party to win, just its candidates",
+     "url": "https://cryptoslate.com/crypto-doesnt-need-your-party-to-win-just-its-candidates/",
+     "date": "2026-10-18T17:00:57+00:00",
+     "summary": "The crypto industry has finally found a way to participate in America&#039;s partisan warfare without committing to either of the (only) two available parties: help elect people who agree with it about crypto, then let them argue about everything else. Fairshake&#039;s latest..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T17:00:57+00:00",
+   "last_seen": "2026-10-18T17:00:57+00:00",
+   "summary": "The crypto industry has finally found a way to participate in America&#039;s partisan warfare without committing to either of the (only) two available parties: help elect people who agree with it about crypto, then let them argue about everything else. Fairshake&#039;s latest...",
+   "tags": []
+  },
   {
    "id": "f37dccd860",
    "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",

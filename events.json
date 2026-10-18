@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-18T10:46:15.477130+00:00",
+ "updated": "2026-10-18T11:43:32.196131+00:00",
  "events": [
+  {
+   "id": "674c7370f5",
+   "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+   "date": "2026-10-18T10:43:12+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+     "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-18T10:43:12+00:00",
+     "summary": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Cysic Halts Bridge After Unauthorized Mint of 10 Million CYS",
+     "url": "https://thedefiant.io/news/hacks/cysic-halts-bridge-after-unauthorized-mint-of-10-million-cys",
+     "date": "2026-10-18T11:10:38+00:00",
+     "summary": "About 2.8 million CYS remain frozen at the recipient address, while onchain records show some tokens were sold before the blacklist took effect."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-10-18T10:43:12+00:00",
+   "last_seen": "2026-10-18T11:10:38+00:00",
+   "summary": "About 2.8 million CYS remain frozen at the recipient address, while onchain records show some tokens were sold before the blacklist took effect.",
+   "tags": []
+  },
   {
    "id": "ea7312ba8b",
    "title": "Chinese suspect in $75M international crime network arrested in Bangkok",

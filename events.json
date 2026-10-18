@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-18T19:41:11.723477+00:00",
+ "updated": "2026-10-18T20:45:07.806771+00:00",
  "events": [
+  {
+   "id": "a8dbd4c9b7",
+   "title": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
+   "date": "2026-10-18T19:50:28+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
+     "url": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
+     "date": "2026-10-18T19:50:28+00:00",
+     "summary": "Kalshi, Polymarket, Robinhood and Underdog, which also received cease-and-desist orders, have not filed suits in Missouri, according to court records."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T19:50:28+00:00",
+   "last_seen": "2026-10-18T19:50:28+00:00",
+   "summary": "Kalshi, Polymarket, Robinhood and Underdog, which also received cease-and-desist orders, have not filed suits in Missouri, according to court records.",
+   "tags": [
+    "legal"
+   ]
+  },
   {
    "id": "3840610efd",
    "title": "Zcash\u2019s planned Sprout freeze would leave private keys unable to move funds",

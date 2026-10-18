@@ -1,6 +1,91 @@
 {
- "updated": "2026-10-18T12:55:07.229258+00:00",
+ "updated": "2026-10-18T13:45:25.733999+00:00",
  "events": [
+  {
+   "id": "937530273d",
+   "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+   "date": "2026-10-18T13:01:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+     "url": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+     "date": "2026-10-18T13:01:04+00:00",
+     "summary": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle\u2019s USDC most sensitive."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T13:01:04+00:00",
+   "last_seen": "2026-10-18T13:01:04+00:00",
+   "summary": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle\u2019s USDC most sensitive.",
+   "tags": [
+    "macro",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "804245598c",
+   "title": "Trump waives new Russia tariffs as October 18 oil deadline arrives",
+   "date": "2026-10-18T13:00:30+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Trump waives new Russia tariffs as October 18 oil deadline arrives",
+     "url": "https://cryptoslate.com/trump-waives-new-russia-tariffs-as-october-18-oil-deadline-arrives/",
+     "date": "2026-10-18T13:00:30+00:00",
+     "summary": "The waiver has no fixed expiry, and any Bitcoin benefit depends on how it affects inflation and financing conditions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T13:00:30+00:00",
+   "last_seen": "2026-10-18T13:00:30+00:00",
+   "summary": "The waiver has no fixed expiry, and any Bitcoin benefit depends on how it affects inflation and financing conditions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "6ec69b6723",
+   "title": "Bitcoin\u2019s $100,000 year-end hope divides analysts as inflation clouds outlook",
+   "date": "2026-10-18T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin\u2019s $100,000 year-end hope divides analysts as inflation clouds outlook",
+     "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+     "date": "2026-10-18T13:00:00+00:00",
+     "summary": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T13:00:00+00:00",
+   "last_seen": "2026-10-18T13:00:00+00:00",
+   "summary": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "7dc9b43702",
+   "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+   "date": "2026-10-18T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+     "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+     "date": "2026-10-18T13:00:00+00:00",
+     "summary": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T13:00:00+00:00",
+   "last_seen": "2026-10-18T13:00:00+00:00",
+   "summary": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews.",
+   "tags": []
+  },
   {
    "id": "38eae4b936",
    "title": "CryptoQuant CEO sees $30,000 Bitcoin floor even if ETFs and treasury firms exit",

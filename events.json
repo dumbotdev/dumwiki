@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-18T01:01:43.816757+00:00",
+ "updated": "2026-10-18T01:47:08.009619+00:00",
  "events": [
+  {
+   "id": "e7909bb07d",
+   "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+   "date": "2026-10-18T01:06:35+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+     "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+     "date": "2026-10-18T01:06:35+00:00",
+     "summary": "Coinbase, Circle\u2019s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T01:06:35+00:00",
+   "last_seen": "2026-10-18T01:06:35+00:00",
+   "summary": "Coinbase, Circle\u2019s largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee.",
+   "tags": [
+    "exchanges",
+    "legal",
+    "stablecoins"
+   ]
+  },
   {
    "id": "944948d34f",
    "title": "TRON moved $2.2 trillion in stablecoins while TRX supply grew for 108 straight days",

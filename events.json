@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-18T18:50:09.927508+00:00",
+ "updated": "2026-10-18T19:41:11.723477+00:00",
  "events": [
+  {
+   "id": "3840610efd",
+   "title": "Zcash\u2019s planned Sprout freeze would leave private keys unable to move funds",
+   "date": "2026-10-18T19:00:34+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Zcash\u2019s planned Sprout freeze would leave private keys unable to move funds",
+     "url": "https://cryptoslate.com/zcashs-planned-sprout-freeze-would-leave-private-keys-unable-to-move-funds/",
+     "date": "2026-10-18T19:00:34+00:00",
+     "summary": "NU7 would leave legacy funds issued but unspendable, even with intact keys, while the mainnet activation decision remains pending. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-18T19:00:34+00:00",
+   "last_seen": "2026-10-18T19:00:34+00:00",
+   "summary": "NU7 would leave legacy funds issued but unspendable, even with intact keys, while the mainnet activation decision remains pending. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
   {
    "id": "6c3cf2f592",
    "title": "The White House's crypto chief departs: State of Crypto",

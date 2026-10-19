@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-19T05:51:18.956049+00:00",
+ "updated": "2026-10-19T07:13:10.605337+00:00",
  "events": [
+  {
+   "id": "bccc1b9bfe",
+   "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+   "date": "2026-10-19T06:23:16+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",
+     "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-whale-moves-usd34-million-in-btc-it-got-in-2013-when-coins-traded-at-usd131",
+     "date": "2026-10-19T06:23:16+00:00",
+     "summary": "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. It is one of several long-dormant wallets to wake up recently."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T06:23:16+00:00",
+   "last_seen": "2026-10-19T06:23:16+00:00",
+   "summary": "A bitcoin wallet dormant since 2013 moved 411 BTC, now worth about $34 million. It is one of several long-dormant wallets to wake up recently.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "fdd3452db9",
+   "title": "Zoom adds \u2018proof of human\u2019 badges to show you\u2019re not a deepfake",
+   "date": "2026-10-19T05:55:44+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Zoom adds \u2018proof of human\u2019 badges to show you\u2019re not a deepfake",
+     "url": "https://cointelegraph.com/news/zoom-proof-of-human-badges-world-id-ai-deepfakes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T05:55:44+00:00",
+     "summary": "Sam Altman-backed World has rolled out biometric verification badges for Zoom enterprise users, aiming to combat AI deepfake impersonation and fraud."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T05:55:44+00:00",
+   "last_seen": "2026-10-19T05:55:44+00:00",
+   "summary": "Sam Altman-backed World has rolled out biometric verification badges for Zoom enterprise users, aiming to combat AI deepfake impersonation and fraud.",
+   "tags": [
+    "ai",
+    "legal"
+   ]
+  },
   {
    "id": "b7d3ff59d8",
    "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",

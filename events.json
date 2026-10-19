@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-19T02:51:42.723722+00:00",
+ "updated": "2026-10-19T03:56:13.990593+00:00",
  "events": [
+  {
+   "id": "3ac2364d7b",
+   "title": "Bitcoin, Korea\u2019s Kospi and Nasdaq futures rally as China GDP beats estimates",
+   "date": "2026-10-19T03:36:58+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin, Korea\u2019s Kospi and Nasdaq futures rally as China GDP beats estimates",
+     "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-korea-s-kospi-and-nasdaq-futures-rally-as-china-gdp-beats-estimates",
+     "date": "2026-10-19T03:36:58+00:00",
+     "summary": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T03:36:58+00:00",
+   "last_seen": "2026-10-19T03:36:58+00:00",
+   "summary": "Bitcoin, Nasdaq futures and Asian stocks rally as stronger-than-expected China GDP and falling oil prices lift risk appetite.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
   {
    "id": "4f16d08a2f",
    "title": "Deutsche Bank targets Asia crypto custody expansion in 2027 as German launch nears",

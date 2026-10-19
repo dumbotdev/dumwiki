@@ -1,6 +1,74 @@
 {
- "updated": "2026-10-19T16:54:55.229824+00:00",
+ "updated": "2026-10-19T17:48:29.836010+00:00",
  "events": [
+  {
+   "id": "f9477ba70c",
+   "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+   "date": "2026-10-19T17:31:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",
+     "url": "https://decrypt.co/381343/jpmorgan-jpm-coin-ethereum-bank-dollars",
+     "date": "2026-10-19T17:31:04+00:00",
+     "summary": "JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of the week."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T17:31:04+00:00",
+   "last_seen": "2026-10-19T17:31:04+00:00",
+   "summary": "JPMorgan is rolling out JPM Coin on Ethereum for institutional clients, a token backed by dollars in its accounts that settles in seconds, any day of the week.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "378aa28e64",
+   "title": "Lighter Launches BTC and ETH Binary Options on Core",
+   "date": "2026-10-19T17:23:21+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Lighter Launches BTC and ETH Binary Options on Core",
+     "url": "https://thedefiant.io/news/defi/lighter-launches-btc-and-eth-binary-options-on-core",
+     "date": "2026-10-19T17:23:21+00:00",
+     "summary": "The Up/Down contracts pay winning shares 1 USDC and require full funding, with no leverage or liquidations."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T17:23:21+00:00",
+   "last_seen": "2026-10-19T17:23:21+00:00",
+   "summary": "The Up/Down contracts pay winning shares 1 USDC and require full funding, with no leverage or liquidations.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "funding",
+    "markets",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "2bec934041",
+   "title": "STRK Sinks 38% in a Week as Starknet Rally Reverses",
+   "date": "2026-10-19T17:19:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "STRK Sinks 38% in a Week as Starknet Rally Reverses",
+     "url": "https://thedefiant.io/news/markets/strk-sinks-38-in-a-week-as-starknet-rally-reverses",
+     "date": "2026-10-19T17:19:16+00:00",
+     "summary": "Starknet\u2019s DeFi TVL fell a smaller 5.3%, while voting on research into an independent Layer 1 remains open until Oct. 22."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T17:19:16+00:00",
+   "last_seen": "2026-10-19T17:19:16+00:00",
+   "summary": "Starknet\u2019s DeFi TVL fell a smaller 5.3%, while voting on research into an independent Layer 1 remains open until Oct. 22.",
+   "tags": [
+    "defi",
+    "markets"
+   ]
+  },
   {
    "id": "ba68a181e4",
    "title": "U.S. CFTC rebuffs CME legal stance in consequential fight over perpetual futures",
@@ -1070,12 +1138,19 @@
      "url": "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889",
      "date": "2026-10-19T10:42:07+00:00",
      "summary": "Revolut secured a Gibraltar DLT licence for a new entity to support its international crypto expansion strategy."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Revolut secures Gibraltar crypto license to support global expansion",
+     "url": "https://cointelegraph.com/news/revolut-secures-gibraltar-crypto-license-to-support-global-expansion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T17:24:49+00:00",
+     "summary": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-19T10:42:07+00:00",
-   "last_seen": "2026-10-19T10:42:07+00:00",
-   "summary": "Revolut secured a Gibraltar DLT licence for a new entity to support its international crypto expansion strategy.",
+   "last_seen": "2026-10-19T17:24:49+00:00",
+   "summary": "The UK-based fintech will use the authorization to offer crypto services in additional international markets, though it has not disclosed specific countries or launch dates.",
    "tags": []
   },
   {

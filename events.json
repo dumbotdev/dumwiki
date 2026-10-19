@@ -1,6 +1,176 @@
 {
- "updated": "2026-10-19T13:06:05.477840+00:00",
+ "updated": "2026-10-19T14:02:41.278321+00:00",
  "events": [
+  {
+   "id": "6a2cda1067",
+   "title": "SkyAI Sells Entire Solana Treasury, Launches $201 Million Tender",
+   "date": "2026-10-19T13:49:25+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SkyAI Sells Entire Solana Treasury, Launches $201 Million Tender",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/skyai-sells-entire-solana-treasury-launches-201-million-tender",
+     "date": "2026-10-19T13:49:25+00:00",
+     "summary": "The company reports $223.8 million in cash and has dropped the offer\u2019s SOL-price condition, while retaining a $3 share price challenged by Bastion Trading."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T13:49:25+00:00",
+   "last_seen": "2026-10-19T13:49:25+00:00",
+   "summary": "The company reports $223.8 million in cash and has dropped the offer\u2019s SOL-price condition, while retaining a $3 share price challenged by Bastion Trading.",
+   "tags": [
+    "macro",
+    "markets",
+    "solana"
+   ]
+  },
+  {
+   "id": "2ae85e17d7",
+   "title": "Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC",
+   "date": "2026-10-19T13:45:41+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Strive scoops up another 1,223 bitcoin for $100 million as total holdings reach 36,818 BTC",
+     "url": "https://www.theblock.co/news/business/2026-10-19-strive-scoops-1223-bitcoin-100-million-total-holdings-reach-36818-btc-421020",
+     "date": "2026-10-19T13:45:41+00:00",
+     "summary": "Strive paid approximately $81,734 on average per bitcoin, adding to the 2,822 BTC it had acquired earlier last week."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T13:45:41+00:00",
+   "last_seen": "2026-10-19T13:45:41+00:00",
+   "summary": "Strive paid approximately $81,734 on average per bitcoin, adding to the 2,822 BTC it had acquired earlier last week.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "c5d726f55c",
+   "title": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
+   "date": "2026-10-19T13:36:46+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitmine adds 12,535 ETH as treasury reaches 6.04 million tokens",
+     "url": "https://www.theblock.co/news/business/2026-10-19-bitmine-adds-12535-eth-as-treasury-reaches-6-04-million-tokens-421018",
+     "date": "2026-10-19T13:36:46+00:00",
+     "summary": "Bitmine bought 12,535 ETH last week, lifting its treasury to 6.04 million tokens and total investment holdings to $15.1 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T13:36:46+00:00",
+   "last_seen": "2026-10-19T13:36:46+00:00",
+   "summary": "Bitmine bought 12,535 ETH last week, lifting its treasury to 6.04 million tokens and total investment holdings to $15.1 billion.",
+   "tags": [
+    "ethereum",
+    "macro"
+   ]
+  },
+  {
+   "id": "454d0dd40b",
+   "title": "Made an \u2018honest\u2019 mistake with crypto taxes? New bill offers way out",
+   "date": "2026-10-19T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Made an \u2018honest\u2019 mistake with crypto taxes? New bill offers way out",
+     "url": "https://cointelegraph.com/magazine/made-an-honest-mistake-with-crypto-taxes-new-bill-offers-way-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T13:30:00+00:00",
+     "summary": "A proposed US bill would let crypto investors correct past tax reporting mistakes through a dedicated disclosure program, with reduced penalties for eligible taxpayers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T13:30:00+00:00",
+   "last_seen": "2026-10-19T13:30:00+00:00",
+   "summary": "A proposed US bill would let crypto investors correct past tax reporting mistakes through a dedicated disclosure program, with reduced penalties for eligible taxpayers.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "83db9ab487",
+   "title": "Ethereum\u2019s faster proofs face Vitalik\u2019s next test: a hard cost limit",
+   "date": "2026-10-19T13:20:55+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum\u2019s faster proofs face Vitalik\u2019s next test: a hard cost limit",
+     "url": "https://cryptoslate.com/vitaliks-zkevm-cost-demand-puts-ethereums-gas-pricing-under-a-second-test/",
+     "date": "2026-10-19T13:20:55+00:00",
+     "summary": "Fast sampled blocks do not establish the maximum proving burden, while Ethereum\u2019s CPU gas analysis excludes proof generation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T13:20:55+00:00",
+   "last_seen": "2026-10-19T13:20:55+00:00",
+   "summary": "Fast sampled blocks do not establish the maximum proving burden, while Ethereum\u2019s CPU gas analysis excludes proof generation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "8927cf8d7d",
+   "title": "Public companies object to OKX-ICE\u2019s tokenized stock plan",
+   "date": "2026-10-19T13:13:53+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Public companies object to OKX-ICE\u2019s tokenized stock plan",
+     "url": "https://cointelegraph.com/news/public-companies-object-okx-ice-tokenized-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T13:13:53+00:00",
+     "summary": "Nine public companies objected to having their shares offered in tokenized form by OKX and ICE, testing whether platforms can create blockchain-based markets without issuer consent."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T13:13:53+00:00",
+   "last_seen": "2026-10-19T13:13:53+00:00",
+   "summary": "Nine public companies objected to having their shares offered in tokenized form by OKX and ICE, testing whether platforms can create blockchain-based markets without issuer consent.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "3fdd713904",
+   "title": "THORChain Keeps ZEC Swaps Halted After Bug Triggers Vault Slash",
+   "date": "2026-10-19T13:11:40+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "THORChain Keeps ZEC Swaps Halted After Bug Triggers Vault Slash",
+     "url": "https://thedefiant.io/news/security/thorchain-keeps-zec-swaps-halted-after-bug-triggers-vault-slash",
+     "date": "2026-10-19T13:11:40+00:00",
+     "summary": "Onchain records show about 140 RUNE deducted from 18 node accounts. The fix is scheduled for the v3.21 upgrade around Oct. 23."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T13:11:40+00:00",
+   "last_seen": "2026-10-19T13:11:40+00:00",
+   "summary": "Onchain records show about 140 RUNE deducted from 18 node accounts. The fix is scheduled for the v3.21 upgrade around Oct. 23.",
+   "tags": []
+  },
+  {
+   "id": "5cc2caa3f0",
+   "title": "THORChain Targets Rujira Restart With v3.21 Exploit Fix",
+   "date": "2026-10-19T13:10:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "THORChain Targets Rujira Restart With v3.21 Exploit Fix",
+     "url": "https://thedefiant.io/news/security/thorchain-targets-rujira-restart-with-v3-21-exploit-fix",
+     "date": "2026-10-19T13:10:58+00:00",
+     "summary": "The upgrade targets block 28,366,100 around Oct. 23, while Rujira plans to request a conditional 24-hour liquidation grace period for borrowers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T13:10:58+00:00",
+   "last_seen": "2026-10-19T13:10:58+00:00",
+   "summary": "The upgrade targets block 28,366,100 around Oct. 23, while Rujira plans to request a conditional 24-hour liquidation grace period for borrowers.",
+   "tags": [
+    "markets",
+    "security"
+   ]
+  },
   {
    "id": "dbb9e5bb61",
    "title": "Financial Repression in the Age of AI",

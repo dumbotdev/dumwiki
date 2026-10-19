@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-19T07:13:10.605337+00:00",
+ "updated": "2026-10-19T08:04:59.452842+00:00",
  "events": [
+  {
+   "id": "bcad3e4409",
+   "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+   "date": "2026-10-19T07:54:13+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+     "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T07:54:13+00:00",
+     "summary": "US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T07:54:13+00:00",
+   "last_seen": "2026-10-19T07:54:13+00:00",
+   "summary": "US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "c8e78be4dd",
+   "title": "JPMorgan Extends JPM Coin to Ethereum for Institutional Clients",
+   "date": "2026-10-19T07:53:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "JPMorgan Extends JPM Coin to Ethereum for Institutional Clients",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-extends-jpm-coin-to-ethereum-for-institutional-clients",
+     "date": "2026-10-19T07:53:33+00:00",
+     "summary": "The bank-issued dollar token remains restricted to approved counterparties, bringing permissioned bank money onto another public blockchain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T07:53:33+00:00",
+   "last_seen": "2026-10-19T07:53:33+00:00",
+   "summary": "The bank-issued dollar token remains restricted to approved counterparties, bringing permissioned bank money onto another public blockchain.",
+   "tags": [
+    "ethereum"
+   ]
+  },
   {
    "id": "bccc1b9bfe",
    "title": "Bitcoin whale moves $34 million in BTC it got in 2013 when coins traded at $131",

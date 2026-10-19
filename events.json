@@ -1,6 +1,87 @@
 {
- "updated": "2026-10-19T20:52:29.127403+00:00",
+ "updated": "2026-10-19T21:49:45.639954+00:00",
  "events": [
+  {
+   "id": "d52e06a528",
+   "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
+   "date": "2026-10-19T21:46:05+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",
+     "url": "https://decrypt.co/381382/strive-buys-335-million-bitcoin",
+     "date": "2026-10-19T21:46:05+00:00",
+     "summary": "The Nasdaq-listed bitcoin holder bought as warrant holders exercised, bringing in $369 million, and it now plans a $630 million sale of 15% preferred stock."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T21:46:05+00:00",
+   "last_seen": "2026-10-19T21:46:05+00:00",
+   "summary": "The Nasdaq-listed bitcoin holder bought as warrant holders exercised, bringing in $369 million, and it now plans a $630 million sale of 15% preferred stock.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "6d29f1ddab",
+   "title": "Hoskinson reveals new code for Cardano, but $63M TVL exposes a gap",
+   "date": "2026-10-19T21:20:24+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Hoskinson reveals new code for Cardano, but $63M TVL exposes a gap",
+     "url": "https://cryptoslate.com/hoskinson-reveals-new-code-for-cardano-but-63m-tvl-exposes-a-gap/",
+     "date": "2026-10-19T21:20:24+00:00",
+     "summary": "Charles Hoskinson is developing a new programming language for Cardano as the blockchain approaches a pivotal test of commercial demand. The Cardano founder said he is working with developer Lucas Rosa, a software engineer at Input Output Global, on a language supporting..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T21:20:24+00:00",
+   "last_seen": "2026-10-19T21:20:24+00:00",
+   "summary": "Charles Hoskinson is developing a new programming language for Cardano as the blockchain approaches a pivotal test of commercial demand. The Cardano founder said he is working with developer Lucas Rosa, a software engineer at Input Output Global, on a language supporting...",
+   "tags": []
+  },
+  {
+   "id": "c7aa20733c",
+   "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
+   "date": "2026-10-19T21:15:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Anthropic Gives 5% of Itself to the Public. Musk Answers by Giving Away SpaceX Shares",
+     "url": "https://decrypt.co/381371/anthropic-gives-public-musk-answers-spacex-shares",
+     "date": "2026-10-19T21:15:04+00:00",
+     "summary": "Anthropic committed 5% of its shares to a public benefit fund, and within hours Elon Musk promised a SpaceX share to every American child."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T21:15:04+00:00",
+   "last_seen": "2026-10-19T21:15:04+00:00",
+   "summary": "Anthropic committed 5% of its shares to a public benefit fund, and within hours Elon Musk promised a SpaceX share to every American child.",
+   "tags": []
+  },
+  {
+   "id": "7c93857e1c",
+   "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+   "date": "2026-10-19T21:04:34+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback",
+     "url": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T21:04:34+00:00",
+     "summary": "The former medical device maker has liquidated its Solana treasury and is offering to repurchase shares and warrants using its $223.8 million cash holdings."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T21:04:34+00:00",
+   "last_seen": "2026-10-19T21:04:34+00:00",
+   "summary": "The former medical device maker has liquidated its Solana treasury and is offering to repurchase shares and warrants using its $223.8 million cash holdings.",
+   "tags": [
+    "macro",
+    "solana"
+   ]
+  },
   {
    "id": "ac9f6a36f3",
    "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",

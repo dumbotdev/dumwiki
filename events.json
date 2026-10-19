@@ -1,6 +1,267 @@
 {
- "updated": "2026-10-19T11:54:28.815587+00:00",
+ "updated": "2026-10-19T13:06:05.477840+00:00",
  "events": [
+  {
+   "id": "dbb9e5bb61",
+   "title": "Financial Repression in the Age of AI",
+   "date": "2026-10-19T12:47:13+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Financial Repression in the Age of AI",
+     "url": "https://bitcoinmagazine.com/videos/financial-repression-in-the-age-of-ai",
+     "date": "2026-10-19T12:47:13+00:00",
+     "summary": "Bitcoin Magazine Financial Repression in the Age of AI Offshoring left the U.S. dependent on rivals for critical tech, says Craig Tindale. Drawing on Hamilton &#038; Eisenhower, he frames AI as a defense mandate. This post Financial Repression in the Age of AI first appeared on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T12:47:13+00:00",
+   "last_seen": "2026-10-19T12:47:13+00:00",
+   "summary": "Bitcoin Magazine Financial Repression in the Age of AI Offshoring left the U.S. dependent on rivals for critical tech, says Craig Tindale. Drawing on Hamilton &#038; Eisenhower, he frames AI as a defense mandate. This post Financial Repression in the Age of AI first appeared on...",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "0660e3aa07",
+   "title": "Richard Byworth: Bitcoin\u2019s Next Run \u201cJust a Mater of Time\u201d thanks to Seller Exhaustion",
+   "date": "2026-10-19T12:41:42+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Richard Byworth: Bitcoin\u2019s Next Run \u201cJust a Mater of Time\u201d thanks to Seller Exhaustion",
+     "url": "https://bitcoinmagazine.com/videos/richard-byworth-bitcoins-next-run-just-a-mater-of-time-thanks-to-seller-exhaustion",
+     "date": "2026-10-19T12:41:42+00:00",
+     "summary": "Bitcoin Magazine Richard Byworth: Bitcoin\u2019s Next Run \u201cJust a Mater of Time\u201d thanks to Seller Exhaustion Can you earn yield on Bitcoin safely? Richard Byworth warns against covered calls in rallies, making the case for basis trades for market-neutral yield. This post Richard..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T12:41:42+00:00",
+   "last_seen": "2026-10-19T12:41:42+00:00",
+   "summary": "Bitcoin Magazine Richard Byworth: Bitcoin\u2019s Next Run \u201cJust a Mater of Time\u201d thanks to Seller Exhaustion Can you earn yield on Bitcoin safely? Richard Byworth warns against covered calls in rallies, making the case for basis trades for market-neutral yield. This post Richard...",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
+  {
+   "id": "6603c93518",
+   "title": "$20B AUM Siebert Analyst: Bitcoin to $175K in 2027",
+   "date": "2026-10-19T12:35:37+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "$20B AUM Siebert Analyst: Bitcoin to $175K in 2027",
+     "url": "https://bitcoinmagazine.com/videos/20b-aum-siebert-analyst-bitcoin-to-175k-in-2027",
+     "date": "2026-10-19T12:35:37+00:00",
+     "summary": "Bitcoin Magazine $20B AUM Siebert Analyst: Bitcoin to $175K in 2027 Siebert Financial targets $175K Bitcoin and $350 Strategy. Brian Vieten details the path from the $58K low, ETF demand, and Strategy's digital credit engine. This post $20B AUM Siebert Analyst: Bitcoin to $175K..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T12:35:37+00:00",
+   "last_seen": "2026-10-19T12:35:37+00:00",
+   "summary": "Bitcoin Magazine $20B AUM Siebert Analyst: Bitcoin to $175K in 2027 Siebert Financial targets $175K Bitcoin and $350 Strategy. Brian Vieten details the path from the $58K low, ETF demand, and Strategy's digital credit engine. This post $20B AUM Siebert Analyst: Bitcoin to $175K...",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "16a786f4b6",
+   "title": "Jeff Park: What The AI Pain Trade Means For Bitcoin",
+   "date": "2026-10-19T12:30:46+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Jeff Park: What The AI Pain Trade Means For Bitcoin",
+     "url": "https://bitcoinmagazine.com/videos/jeff-park-what-the-ai-pain-trade-means-for-bitcoin",
+     "date": "2026-10-19T12:30:46+00:00",
+     "summary": "Bitcoin Magazine Jeff Park: What The AI Pain Trade Means For Bitcoin From Strategy to Google, firms adopt preferred securities. Jeff Park explains why digital credit is the future of income and valuation. This post Jeff Park: What The AI Pain Trade Means For Bitcoin first..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T12:30:46+00:00",
+   "last_seen": "2026-10-19T12:30:46+00:00",
+   "summary": "Bitcoin Magazine Jeff Park: What The AI Pain Trade Means For Bitcoin From Strategy to Google, firms adopt preferred securities. Jeff Park explains why digital credit is the future of income and valuation. This post Jeff Park: What The AI Pain Trade Means For Bitcoin first...",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "a9b39e260c",
+   "title": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC",
+   "date": "2026-10-19T12:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Strategy buys $22M in Bitcoin, repurchases $193M in STRC",
+     "url": "https://cointelegraph.com/news/strategy-btc-22-million-buy-strc-buyback-193-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T12:30:00+00:00",
+     "summary": "Strategy added 267 Bitcoin to its holdings as it bought back 1.94 million STRC shares and boosted its preferred stock buyback program to $3 billion."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Strategy Buys $22M in Bitcoin, Buys Back $193M of STRC",
+     "url": "https://decrypt.co/381302/strategy-buys-22m-in-bitcoin-buys-back-193m-of-strc",
+     "date": "2026-10-19T13:04:48+00:00",
+     "summary": "The Bitcoin treasury firm raised its preferred stock buyback cap to $3 billion and now holds 848,517 BTC, bought at an average of $75,446."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-10-19T12:30:00+00:00",
+   "last_seen": "2026-10-19T13:04:48+00:00",
+   "summary": "Strategy added 267 Bitcoin to its holdings as it bought back 1.94 million STRC shares and boosted its preferred stock buyback program to $3 billion.",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "55a3b27c19",
+   "title": "Fundstrat Analyst Sean Farrell: Bitcoin to $100k by Year End + MSTR MSCI Exclusion",
+   "date": "2026-10-19T12:22:41+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Fundstrat Analyst Sean Farrell: Bitcoin to $100k by Year End + MSTR MSCI Exclusion",
+     "url": "https://bitcoinmagazine.com/videos/fundstrat-analyst-sean-farrell-bitcoin-to-100k-by-year-end-mstr-msci-exclusion",
+     "date": "2026-10-19T12:22:41+00:00",
+     "summary": "Bitcoin Magazine Fundstrat Analyst Sean Farrell: Bitcoin to $100k by Year End + MSTR MSCI Exclusion Where is Bitcoin headed by year-end? Fundstrat's Sean Farrell sees $95K\u2013$100K as possible, explaining bond volatility impacts and the broader regime shift. This post Fundstrat..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T12:22:41+00:00",
+   "last_seen": "2026-10-19T12:22:41+00:00",
+   "summary": "Bitcoin Magazine Fundstrat Analyst Sean Farrell: Bitcoin to $100k by Year End + MSTR MSCI Exclusion Where is Bitcoin headed by year-end? Fundstrat's Sean Farrell sees $95K\u2013$100K as possible, explaining bond volatility impacts and the broader regime shift. This post Fundstrat...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "13b7efd899",
+   "title": "Circle removes USDC redemption surcharges as Express keeps its 0.05% fee",
+   "date": "2026-10-19T12:20:06+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Circle removes USDC redemption surcharges as Express keeps its 0.05% fee",
+     "url": "https://cryptoslate.com/circle-to-drop-extra-usdc-cash-out-fees-from-october-19/",
+     "date": "2026-10-19T12:20:06+00:00",
+     "summary": "Existing Mint customers switch at their next billing period on or after that date; Express still costs 0.05% before conditional credits. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T12:20:06+00:00",
+   "last_seen": "2026-10-19T12:20:06+00:00",
+   "summary": "Existing Mint customers switch at their next billing period on or after that date; Express still costs 0.05% before conditional credits. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "96a62c6024",
+   "title": "Morning Minute: Crypto Rebounds as 'Black Monday' Looms",
+   "date": "2026-10-19T12:19:39+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Crypto Rebounds as 'Black Monday' Looms",
+     "url": "https://decrypt.co/381297/morning-minute-crypto-rebounds-as-black-monday-looms",
+     "date": "2026-10-19T12:19:39+00:00",
+     "summary": "The original \u201cBlack Monday\u201d occurred 39 years ago today. Is history about to repeat itself?"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T12:19:39+00:00",
+   "last_seen": "2026-10-19T12:19:39+00:00",
+   "summary": "The original \u201cBlack Monday\u201d occurred 39 years ago today. Is history about to repeat itself?",
+   "tags": []
+  },
+  {
+   "id": "a052b8b4fb",
+   "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
+   "date": "2026-10-19T12:16:58+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Cardano founder Charles Hoskinson is building a new programming language for the network",
+     "url": "https://www.coindesk.com/tech/2026/10/19/cardano-founder-charles-hoskinson-is-building-a-new-programming-language-for-the-network",
+     "date": "2026-10-19T12:16:58+00:00",
+     "summary": "Hoskinson said on X the language will bundle transaction requests with cryptographic proofs. He hasn\u2019t shared a name, specs or a release date."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T12:16:58+00:00",
+   "last_seen": "2026-10-19T12:16:58+00:00",
+   "summary": "Hoskinson said on X the language will bundle transaction requests with cryptographic proofs. He hasn\u2019t shared a name, specs or a release date.",
+   "tags": []
+  },
+  {
+   "id": "c75cf61ded",
+   "title": "\u2018We found room for more orange\u2019: Michael Saylor\u2019s Strategy buys another 267 bitcoin for $22 million",
+   "date": "2026-10-19T12:10:14+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "\u2018We found room for more orange\u2019: Michael Saylor\u2019s Strategy buys another 267 bitcoin for $22 million",
+     "url": "https://www.theblock.co/news/business/2026-10-19-we-found-room-for-more-orange-michael-saylors-strategy-buys-more-bitcoin-418895",
+     "date": "2026-10-19T12:10:14+00:00",
+     "summary": "Strategy's BTC holdings account for around 4% of the total bitcoin supply, with $5.9 billion in paper gains."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T12:10:14+00:00",
+   "last_seen": "2026-10-19T12:10:14+00:00",
+   "summary": "Strategy's BTC holdings account for around 4% of the total bitcoin supply, with $5.9 billion in paper gains.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "efc8612038",
+   "title": "\u2018Terrifying Precedent\u2019: Dutch Hand US Data From Seized Anti-Fascist Server",
+   "date": "2026-10-19T12:07:46+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "\u2018Terrifying Precedent\u2019: Dutch Hand US Data From Seized Anti-Fascist Server",
+     "url": "https://decrypt.co/381296/terrifying-precedent-dutch-hand-us-data-from-seized-anti-fascist-server",
+     "date": "2026-10-19T12:07:46+00:00",
+     "summary": "Police seized the Autistici/Inventati server under a 1981 treaty after the U.S. designated the Italian activist group \u201cglobal terrorists.\u201d"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T12:07:46+00:00",
+   "last_seen": "2026-10-19T12:07:46+00:00",
+   "summary": "Police seized the Autistici/Inventati server under a 1981 treaty after the U.S. designated the Italian activist group \u201cglobal terrorists.\u201d",
+   "tags": []
+  },
+  {
+   "id": "f03c7d58e0",
+   "title": "World Liberty\u2019s USD1 stablecoin sheds $400M in market cap in two weeks",
+   "date": "2026-10-19T11:57:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "World Liberty\u2019s USD1 stablecoin sheds $400M in market cap in two weeks",
+     "url": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T11:57:58+00:00",
+     "summary": "World Liberty Financial\u2019s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T11:57:58+00:00",
+   "last_seen": "2026-10-19T11:57:58+00:00",
+   "summary": "World Liberty Financial\u2019s USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain.",
+   "tags": [
+    "ethereum",
+    "stablecoins"
+   ]
+  },
   {
    "id": "a9df530e7b",
    "title": "Sam Altman's World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk",

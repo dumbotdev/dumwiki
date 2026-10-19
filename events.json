@@ -1,6 +1,127 @@
 {
- "updated": "2026-10-19T14:56:39.441047+00:00",
+ "updated": "2026-10-19T15:51:36.032624+00:00",
  "events": [
+  {
+   "id": "4ec0640b92",
+   "title": "Maple\u2019s SYRUP Slides 24% in a Week, Underperforming Bitcoin and Ether",
+   "date": "2026-10-19T15:41:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Maple\u2019s SYRUP Slides 24% in a Week, Underperforming Bitcoin and Ether",
+     "url": "https://thedefiant.io/news/tokens/maple-s-syrup-slides-24-in-a-week-underperforming-bitcoin-and-ether",
+     "date": "2026-10-19T15:41:13+00:00",
+     "summary": "Maple still has $2.71 billion in TVL, while September\u2019s revenue-funded token buybacks doubled from August."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T15:41:13+00:00",
+   "last_seen": "2026-10-19T15:41:13+00:00",
+   "summary": "Maple still has $2.71 billion in TVL, while September\u2019s revenue-funded token buybacks doubled from August.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "bab99d1399",
+   "title": "Visa and Mesh Plan Crypto Spending From Wallet Balances",
+   "date": "2026-10-19T15:40:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Visa and Mesh Plan Crypto Spending From Wallet Balances",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/visa-and-mesh-plan-crypto-spending-from-wallet-balances",
+     "date": "2026-10-19T15:40:48+00:00",
+     "summary": "Merchants would receive fiat through Visa payments, while Mesh handles conversion. Initial availability and participating platforms have yet to be announced."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T15:40:48+00:00",
+   "last_seen": "2026-10-19T15:40:48+00:00",
+   "summary": "Merchants would receive fiat through Visa payments, while Mesh handles conversion. Initial availability and participating platforms have yet to be announced.",
+   "tags": []
+  },
+  {
+   "id": "e4f5081870",
+   "title": "Aave\u2019s proposed USAT gateway could cut off the return swap after a deposit",
+   "date": "2026-10-19T15:20:01+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Aave\u2019s proposed USAT gateway could cut off the return swap after a deposit",
+     "url": "https://cryptoslate.com/aaves-proposed-usat-gateway-would-require-continuing-approval-to-swap-back/",
+     "date": "2026-10-19T15:20:01+00:00",
+     "summary": "GHO would remain transferable, while a return swap, withdrawal of USAT and issuer redemption would each face separate conditions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T15:20:01+00:00",
+   "last_seen": "2026-10-19T15:20:01+00:00",
+   "summary": "GHO would remain transferable, while a return swap, withdrawal of USAT and issuer redemption would each face separate conditions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "676bb480dc",
+   "title": "Tom Lee\u2019s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line",
+   "date": "2026-10-19T15:13:42+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Tom Lee\u2019s Bitmine Adds $30 Million in Ethereum as Buying Nears Its Finish Line",
+     "url": "https://decrypt.co/381311/tom-lee-bitmine-adds-30-million-ethereum-buying-nears-finish-line",
+     "date": "2026-10-19T15:13:42+00:00",
+     "summary": "The purchase lifts Bitmine\u2019s stash to 6.04 million ETH\u20144.9% of supply and 99% of the way to its \u201cAlchemy of 5%\u201d goal\u2014as chairman Tom Lee framed a market-wide selloff as an attractive entry point."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T15:13:42+00:00",
+   "last_seen": "2026-10-19T15:13:42+00:00",
+   "summary": "The purchase lifts Bitmine\u2019s stash to 6.04 million ETH\u20144.9% of supply and 99% of the way to its \u201cAlchemy of 5%\u201d goal\u2014as chairman Tom Lee framed a market-wide selloff as an attractive entry point.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "6a2ae824dc",
+   "title": "AnchorWatch Trust Company launches bitcoin custody service with up to $370 million in insurance per client",
+   "date": "2026-10-19T15:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "AnchorWatch Trust Company launches bitcoin custody service with up to $370 million in insurance per client",
+     "url": "https://www.theblock.co/news/business/2026-10-19-anchorwatch-bitcoin-custody-insurance-421011",
+     "date": "2026-10-19T15:00:00+00:00",
+     "summary": "AnchorWatch launched Nevada-chartered bitcoin custody with a $10,000 monthly fee cap and optional insurance of up to $370 million per client."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T15:00:00+00:00",
+   "last_seen": "2026-10-19T15:00:00+00:00",
+   "summary": "AnchorWatch launched Nevada-chartered bitcoin custody with a $10,000 monthly fee cap and optional insurance of up to $370 million per client.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "7c0e237d88",
+   "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
+   "date": "2026-10-19T14:58:40+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Zerohash rolls out a new tool to move crypto without copying wallet addresses",
+     "url": "https://www.coindesk.com/business/2026/10/19/zerohash-rolls-out-a-new-tool-to-move-crypto-without-copying-wallet-addresses",
+     "date": "2026-10-19T14:58:40+00:00",
+     "summary": "The launch comes as Zerohash bids for a federal trust charter."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T14:58:40+00:00",
+   "last_seen": "2026-10-19T14:58:40+00:00",
+   "summary": "The launch comes as Zerohash bids for a federal trust charter.",
+   "tags": []
+  },
   {
    "id": "d4d8389ced",
    "title": "Sparkassen Begin Bitcoin Trading Through DekaBank in Banking App",
@@ -76,11 +197,18 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/skyai-sells-entire-solana-treasury-launches-201-million-tender",
      "date": "2026-10-19T13:49:25+00:00",
      "summary": "The company reports $223.8 million in cash and has dropped the offer\u2019s SOL-price condition, while retaining a $3 share price challenged by Bastion Trading."
+    },
+    {
+     "source": "The Block",
+     "title": "SkyAI sells off entire Solana treasury as it launches $201 million buyback",
+     "url": "https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037",
+     "date": "2026-10-19T15:28:43+00:00",
+     "summary": "SkyAI holds $223.8 million in cash after selling all its SOL, with its $3 buyback running through Oct. 29."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-19T13:49:25+00:00",
-   "last_seen": "2026-10-19T13:49:25+00:00",
+   "last_seen": "2026-10-19T15:28:43+00:00",
    "summary": "The company reports $223.8 million in cash and has dropped the offer\u2019s SOL-price condition, while retaining a $3 share price challenged by Bastion Trading.",
    "tags": [
     "macro",

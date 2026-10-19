@@ -1,6 +1,47 @@
 {
- "updated": "2026-10-19T01:03:21.554668+00:00",
+ "updated": "2026-10-19T01:49:51.059599+00:00",
  "events": [
+  {
+   "id": "a4bacdd8da",
+   "title": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
+   "date": "2026-10-19T01:10:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
+     "date": "2026-10-19T01:10:00+00:00",
+     "summary": "World ID for Zoom is generally available after a beta that began in April, and is designed to spot deepfaked participants on Zoom calls."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T01:10:00+00:00",
+   "last_seen": "2026-10-19T01:10:00+00:00",
+   "summary": "World ID for Zoom is generally available after a beta that began in April, and is designed to spot deepfaked participants on Zoom calls.",
+   "tags": []
+  },
+  {
+   "id": "4982092ca8",
+   "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+   "date": "2026-10-19T01:03:27+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Qubic freezes chain after attacker drains 1.4K wallets with weak seeds",
+     "url": "https://cointelegraph.com/news/qubic-freezes-chain-after-attacker-drains-14k-wallets-with-weak-seeds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T01:03:27+00:00",
+     "summary": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T01:03:27+00:00",
+   "last_seen": "2026-10-19T01:03:27+00:00",
+   "summary": "Qubic says 87.1% of the stolen funds remain onchain and the rest were frozen at crypto exchange MEXC, as network validators prepare to vote on a recovery plan.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "72ea09f6d2",
    "title": "SEC tokenized stock framework faces issuer pushback as Broadcom, Verizon object to OKX-ICE listing",

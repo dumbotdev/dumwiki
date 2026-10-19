@@ -1,6 +1,153 @@
 {
- "updated": "2026-10-19T19:02:43.223548+00:00",
+ "updated": "2026-10-19T19:52:06.481006+00:00",
  "events": [
+  {
+   "id": "8df9a4fef8",
+   "title": "Hackers Are Running Apple's iOS on Android Phones for the First Time",
+   "date": "2026-10-19T19:46:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Hackers Are Running Apple's iOS on Android Phones for the First Time",
+     "url": "https://decrypt.co/381351/hackers-running-apple-ios-android-phones",
+     "date": "2026-10-19T19:46:04+00:00",
+     "summary": "Hobbyists are booting iOS 16 on Xiaomi and Nothing phones and posting the proof. It barely works, but it suggests Apple's software is no longer welded to Apple's hardware."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T19:46:04+00:00",
+   "last_seen": "2026-10-19T19:46:04+00:00",
+   "summary": "Hobbyists are booting iOS 16 on Xiaomi and Nothing phones and posting the proof. It barely works, but it suggests Apple's software is no longer welded to Apple's hardware.",
+   "tags": []
+  },
+  {
+   "id": "5e3ea7f115",
+   "title": "The Architecture of Money: Mapping Financial Power in the Age of Bitcoin",
+   "date": "2026-10-19T19:44:04+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "The Architecture of Money: Mapping Financial Power in the Age of Bitcoin",
+     "url": "https://bitcoinmagazine.com/culture/the-architecture-of-money-mapping-financial-power-in-the-age-of-bitcoin",
+     "date": "2026-10-19T19:44:04+00:00",
+     "summary": "Bitcoin Magazine The Architecture of Money: Mapping Financial Power in the Age of Bitcoin Carlijn Kingma, Thomas Bollen, and Martijn Jeroen van der Linden on The Waterworks of Money, the hidden structures of finance, and bitcoin's place in Europe's monetary future. This post The..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T19:44:04+00:00",
+   "last_seen": "2026-10-19T19:44:04+00:00",
+   "summary": "Bitcoin Magazine The Architecture of Money: Mapping Financial Power in the Age of Bitcoin Carlijn Kingma, Thomas Bollen, and Martijn Jeroen van der Linden on The Waterworks of Money, the hidden structures of finance, and bitcoin's place in Europe's monetary future. This post The...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "d2aaf428be",
+   "title": "Super League Stockholders Approve Metaplanet\u2019s 2,100 BTC Investment, Paving Way for \u2018Superplanet\u2019",
+   "date": "2026-10-19T19:32:17+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Super League Stockholders Approve Metaplanet\u2019s 2,100 BTC Investment, Paving Way for \u2018Superplanet\u2019",
+     "url": "https://bitcoinmagazine.com/news/metaplanet-super-league-deal-approved",
+     "date": "2026-10-19T19:32:17+00:00",
+     "summary": "Bitcoin Magazine Super League Stockholders Approve Metaplanet&#8217;s 2,100 BTC Investment, Paving Way for &#8216;Superplanet&#8217; Japanese bitcoin giant Metaplanet is acquiring around 96% of Nasdaq-listed Super League. This post Super League Stockholders Approve..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T19:32:17+00:00",
+   "last_seen": "2026-10-19T19:32:17+00:00",
+   "summary": "Bitcoin Magazine Super League Stockholders Approve Metaplanet&#8217;s 2,100 BTC Investment, Paving Way for &#8216;Superplanet&#8217; Japanese bitcoin giant Metaplanet is acquiring around 96% of Nasdaq-listed Super League. This post Super League Stockholders Approve...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "bf7e6ea7f2",
+   "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
+   "date": "2026-10-19T19:16:19+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations",
+     "url": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T19:16:19+00:00",
+     "summary": "Mesh will connect crypto and stablecoin wallets to Visa\u2019s global payment network, allowing users to spend digital assets without a separate card."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T19:16:19+00:00",
+   "last_seen": "2026-10-19T19:16:19+00:00",
+   "summary": "Mesh will connect crypto and stablecoin wallets to Visa\u2019s global payment network, allowing users to spend digital assets without a separate card.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "4079471540",
+   "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
+   "date": "2026-10-19T19:16:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments",
+     "url": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments",
+     "date": "2026-10-19T19:16:04+00:00",
+     "summary": "Unveiled at Money20/20, the API-based tool combines payment and blockchain intelligence to flag fraud, scams and sanctions exposure before funds move on-chain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T19:16:04+00:00",
+   "last_seen": "2026-10-19T19:16:04+00:00",
+   "summary": "Unveiled at Money20/20, the API-based tool combines payment and blockchain intelligence to flag fraud, scams and sanctions exposure before funds move on-chain.",
+   "tags": [
+    "legal",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "17823e2f85",
+   "title": "France\u2019s Stablecoin Swap Tax Faces Oct. 20 Budget Vote",
+   "date": "2026-10-19T19:12:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "France\u2019s Stablecoin Swap Tax Faces Oct. 20 Budget Vote",
+     "url": "https://thedefiant.io/news/regulation/france-s-stablecoin-swap-tax-faces-oct-20-budget-vote",
+     "date": "2026-10-19T19:12:04+00:00",
+     "summary": "Deputies approved the amendment by one vote. If enacted, it would end tax deferral for conversions into single-currency e-money tokens from January 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T19:12:04+00:00",
+   "last_seen": "2026-10-19T19:12:04+00:00",
+   "summary": "Deputies approved the amendment by one vote. If enacted, it would end tax deferral for conversions into single-currency e-money tokens from January 2027.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "ac00a289cc",
+   "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
+   "date": "2026-10-19T19:03:23+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Mastercard launches stablecoin risk screening for banks and payment providers",
+     "url": "https://cointelegraph.com/news/mastercard-stablecoin-risk-screening-banks-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T19:03:23+00:00",
+     "summary": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T19:03:23+00:00",
+   "last_seen": "2026-10-19T19:03:23+00:00",
+   "summary": "The new service combines payment data and blockchain analytics to help banks detect suspicious stablecoin transactions before settlement.",
+   "tags": [
+    "legal",
+    "stablecoins"
+   ]
+  },
   {
    "id": "5b146016b6",
    "title": "Strategy\u2019s discretionary cash falls 72% as buyback authorization rises to $3 billion",

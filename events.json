@@ -1,6 +1,130 @@
 {
- "updated": "2026-10-19T19:52:06.481006+00:00",
+ "updated": "2026-10-19T20:52:29.127403+00:00",
  "events": [
+  {
+   "id": "ac9f6a36f3",
+   "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+   "date": "2026-10-19T20:46:05+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "XRP Ledger Repairs Its Lending Protocol Before It Goes Live",
+     "url": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live",
+     "date": "2026-10-19T20:46:05+00:00",
+     "summary": "XRP developers published a second amendment to repair the ledger\u2019s new uncollateralized lending feature while the original still awaits validator approval."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T20:46:05+00:00",
+   "last_seen": "2026-10-19T20:46:05+00:00",
+   "summary": "XRP developers published a second amendment to repair the ledger\u2019s new uncollateralized lending feature while the original still awaits validator approval.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "ce58961bc4",
+   "title": "Crypto PAC pours $362K into California race voters essentially decided in August",
+   "date": "2026-10-19T20:22:41+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto PAC pours $362K into California race voters essentially decided in August",
+     "url": "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T20:22:41+00:00",
+     "summary": "A Fairshake affiliate is supporting incumbent Aisha Wahab through ads in November, but the congresswoman already won a special election in the district."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T20:22:41+00:00",
+   "last_seen": "2026-10-19T20:22:41+00:00",
+   "summary": "A Fairshake affiliate is supporting incumbent Aisha Wahab through ads in November, but the congresswoman already won a special election in the district.",
+   "tags": []
+  },
+  {
+   "id": "0c4aa14b87",
+   "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+   "date": "2026-10-19T20:21:13+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Tether: Senator's investigation misses positive work that's led to lower Iran volumes",
+     "url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes",
+     "date": "2026-10-19T20:21:13+00:00",
+     "summary": "The stablecoin issuer's CEO, Paolo Ardoino, has been defending against accusations that the firm's stablecoins have fueled financial activity in Iran."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T20:21:13+00:00",
+   "last_seen": "2026-10-19T20:21:13+00:00",
+   "summary": "The stablecoin issuer's CEO, Paolo Ardoino, has been defending against accusations that the firm's stablecoins have fueled financial activity in Iran.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "1afdf54cc0",
+   "title": "Sentora\u2019s OUSD Lending Vault Holds $42.5 Million on Tempo",
+   "date": "2026-10-19T20:02:10+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Sentora\u2019s OUSD Lending Vault Holds $42.5 Million on Tempo",
+     "url": "https://thedefiant.io/news/defi/sentora-s-ousd-lending-vault-holds-42-5-million-on-tempo",
+     "date": "2026-10-19T20:02:10+00:00",
+     "summary": "The Morpho vault lends against cbBTC collateral, but nearly all its assets remain idle rather than deployed into loans."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T20:02:10+00:00",
+   "last_seen": "2026-10-19T20:02:10+00:00",
+   "summary": "The Morpho vault lends against cbBTC collateral, but nearly all its assets remain idle rather than deployed into loans.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "6b3f7a4b1d",
+   "title": "Kraken\u2019s opt-in European wallet can expose spot holdings to futures losses",
+   "date": "2026-10-19T20:00:12+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Kraken\u2019s opt-in European wallet can expose spot holdings to futures losses",
+     "url": "https://cryptoslate.com/krakens-opt-in-european-wallet-can-expose-spot-holdings-to-futures-losses/",
+     "date": "2026-10-19T20:00:12+00:00",
+     "summary": "After eligible EEA Kraken Pro users opt in, default cross margin can draw on their full eligible balance, including qualifying Earn holdings. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T20:00:12+00:00",
+   "last_seen": "2026-10-19T20:00:12+00:00",
+   "summary": "After eligible EEA Kraken Pro users opt in, default cross margin can draw on their full eligible balance, including qualifying Earn holdings. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "8a873ef58a",
+   "title": "Market participants weigh in on SEC\u2019s proposed crypto regulations",
+   "date": "2026-10-19T19:54:38+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Market participants weigh in on SEC\u2019s proposed crypto regulations",
+     "url": "https://cointelegraph.com/news/public-comments-us-sec-proposed-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T19:54:38+00:00",
+     "summary": "The financial agency is scheduled to close public comments on its \u2018Regulation Crypto Assets\u2019 proposed in August."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T19:54:38+00:00",
+   "last_seen": "2026-10-19T19:54:38+00:00",
+   "summary": "The financial agency is scheduled to close public comments on its \u2018Regulation Crypto Assets\u2019 proposed in August.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "8df9a4fef8",
    "title": "Hackers Are Running Apple's iOS on Android Phones for the First Time",

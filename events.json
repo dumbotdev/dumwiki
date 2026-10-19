@@ -1,6 +1,215 @@
 {
- "updated": "2026-10-19T09:55:54.747457+00:00",
+ "updated": "2026-10-19T10:51:52.208495+00:00",
  "events": [
+  {
+   "id": "5646cfcd09",
+   "title": "Revolut secures Gibraltar crypto licence to support international expansion plans",
+   "date": "2026-10-19T10:42:07+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Revolut secures Gibraltar crypto licence to support international expansion plans",
+     "url": "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889",
+     "date": "2026-10-19T10:42:07+00:00",
+     "summary": "Revolut secured a Gibraltar DLT licence for a new entity to support its international crypto expansion strategy."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T10:42:07+00:00",
+   "last_seen": "2026-10-19T10:42:07+00:00",
+   "summary": "Revolut secured a Gibraltar DLT licence for a new entity to support its international crypto expansion strategy.",
+   "tags": []
+  },
+  {
+   "id": "01e13e758c",
+   "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
+   "date": "2026-10-19T10:31:09+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
+     "url": "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
+     "date": "2026-10-19T10:31:09+00:00",
+     "summary": "The victim was hit over the head before his teenage sister alerted police, who arrested all three men at the scene in May."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T10:31:09+00:00",
+   "last_seen": "2026-10-19T10:31:09+00:00",
+   "summary": "The victim was hit over the head before his teenage sister alerted police, who arrested all three men at the scene in May.",
+   "tags": []
+  },
+  {
+   "id": "6ff7fd63b4",
+   "title": "XRP\u2019s 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue",
+   "date": "2026-10-19T10:30:55+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP\u2019s 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue",
+     "url": "https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/",
+     "date": "2026-10-19T10:30:55+00:00",
+     "summary": "US-listed XRP exchange-traded funds ended a 13-week inflow streak as investors withdrew nearly $576 million from four major cryptocurrency ETF categories. Data from SoSoValue showed that XRP funds recorded $1.84 million in net outflows during the week ended Oct. 16, reversing..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T10:30:55+00:00",
+   "last_seen": "2026-10-19T10:30:55+00:00",
+   "summary": "US-listed XRP exchange-traded funds ended a 13-week inflow streak as investors withdrew nearly $576 million from four major cryptocurrency ETF categories. Data from SoSoValue showed that XRP funds recorded $1.84 million in net outflows during the week ended Oct. 16, reversing...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "73e8af511b",
+   "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+   "date": "2026-10-19T10:26:33+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+     "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
+     "date": "2026-10-19T10:26:33+00:00",
+     "summary": "Bitcoin rose 0.8% to around $82,700 as China\u2019s GDP beat estimates and Nasdaq futures rebounded, while the CoinDesk 80 gained 1.3% and DeFi led gains."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T10:26:33+00:00",
+   "last_seen": "2026-10-19T10:26:33+00:00",
+   "summary": "Bitcoin rose 0.8% to around $82,700 as China\u2019s GDP beat estimates and Nasdaq futures rebounded, while the CoinDesk 80 gained 1.3% and DeFi led gains.",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
+  {
+   "id": "18ebf9c7e7",
+   "title": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
+   "date": "2026-10-19T10:22:30+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
+     "url": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T10:22:30+00:00",
+     "summary": "France\u2019s National Assembly adopted a crypto tax amendment targeting certain stablecoin swaps, while separate proposals on exit taxes and self-custodial wallet reporting remain under consideration."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T10:22:30+00:00",
+   "last_seen": "2026-10-19T10:22:30+00:00",
+   "summary": "France\u2019s National Assembly adopted a crypto tax amendment targeting certain stablecoin swaps, while separate proposals on exit taxes and self-custodial wallet reporting remain under consideration.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "bfa05bf5ea",
+   "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
+   "date": "2026-10-19T10:20:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
+     "url": "https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T10:20:00+00:00",
+     "summary": "Analysts expect Bitcoin to retest $80,000 support again as stock markets attempt to recover last week\u2019s losses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T10:20:00+00:00",
+   "last_seen": "2026-10-19T10:20:00+00:00",
+   "summary": "Analysts expect Bitcoin to retest $80,000 support again as stock markets attempt to recover last week\u2019s losses.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "bcd8012aec",
+   "title": "BingX, YouHodler added to ESMA MiCA register in latest update",
+   "date": "2026-10-19T10:13:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "BingX, YouHodler added to ESMA MiCA register in latest update",
+     "url": "https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T10:13:00+00:00",
+     "summary": "ESMA\u2019s latest MiCA register update includes BingX, YouHodler and Banco Santander\u2019s Openbank, bringing the total to 375 unique CASPs."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T10:13:00+00:00",
+   "last_seen": "2026-10-19T10:13:00+00:00",
+   "summary": "ESMA\u2019s latest MiCA register update includes BingX, YouHodler and Banco Santander\u2019s Openbank, bringing the total to 375 unique CASPs.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "48a128aa4e",
+   "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
+   "date": "2026-10-19T10:11:21+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
+     "url": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
+     "date": "2026-10-19T10:11:21+00:00",
+     "summary": "Zakura says a single published Zcash address could let a future quantum attacker link every payment a wallet has ever received."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T10:11:21+00:00",
+   "last_seen": "2026-10-19T10:11:21+00:00",
+   "summary": "Zakura says a single published Zcash address could let a future quantum attacker link every payment a wallet has ever received.",
+   "tags": []
+  },
+  {
+   "id": "4cbbbba7af",
+   "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+   "date": "2026-10-19T10:03:47+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+     "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
+     "date": "2026-10-19T10:03:47+00:00",
+     "summary": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T10:03:47+00:00",
+   "last_seen": "2026-10-19T10:03:47+00:00",
+   "summary": "JPMorgan's dollar deposit token is heading to Ethereum as the lender looks to offer it to wider selection of institutional clients.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "227a0541b0",
+   "title": "Cipher\u2019s $850 million AI bet deepens investor scrutiny as Bitcoin miner\u2019s stock plunges 52%",
+   "date": "2026-10-19T10:00:14+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Cipher\u2019s $850 million AI bet deepens investor scrutiny as Bitcoin miner\u2019s stock plunges 52%",
+     "url": "https://cryptoslate.com/ciphers-850-million-ai-bet-deepens-investor-scrutiny-as-bitcoin-miners-stock-plunges-52/",
+     "date": "2026-10-19T10:00:14+00:00",
+     "summary": "The completed exchange expands Cipher&#039;s share base as it adds $850 million in zero-coupon debt to support data-center development. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T10:00:14+00:00",
+   "last_seen": "2026-10-19T10:00:14+00:00",
+   "summary": "The completed exchange expands Cipher&#039;s share base as it adds $850 million in zero-coupon debt to support data-center development. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "exchanges"
+   ]
+  },
   {
    "id": "c9dfc67a41",
    "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",

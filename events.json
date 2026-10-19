@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-19T10:51:52.208495+00:00",
+ "updated": "2026-10-19T11:54:28.815587+00:00",
  "events": [
+  {
+   "id": "a9df530e7b",
+   "title": "Sam Altman's World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk",
+   "date": "2026-10-19T11:40:40+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Sam Altman's World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk",
+     "url": "https://decrypt.co/381288/sam-altmans-world-takes-proof-of-human-ids-to-banks-citing-40b-ai-fraud-risk",
+     "date": "2026-10-19T11:40:40+00:00",
+     "summary": "Bain Capital, VanEck and Pantera Capital are among design partners for the offering, which also lets users delegate proofs to AI agents."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T11:40:40+00:00",
+   "last_seen": "2026-10-19T11:40:40+00:00",
+   "summary": "Bain Capital, VanEck and Pantera Capital are among design partners for the offering, which also lets users delegate proofs to AI agents.",
+   "tags": [
+    "ai",
+    "legal"
+   ]
+  },
+  {
+   "id": "6b90c9eb20",
+   "title": "XRP holders can now earn fees from Kraken\u2019s DeFi customers, but there is a catch",
+   "date": "2026-10-19T11:20:50+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP holders can now earn fees from Kraken\u2019s DeFi customers, but there is a catch",
+     "url": "https://cryptoslate.com/xrp-holders-can-now-earn-fees-from-krakens-defi-customers-but-there-is-a-catch/",
+     "date": "2026-10-19T11:20:50+00:00",
+     "summary": "Sentora\u2019s Firelight coverage pays premiums from vault yield, while FXRP providers\u2019 shared backing can absorb validated losses after a stablecoin buffer. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T11:20:50+00:00",
+   "last_seen": "2026-10-19T11:20:50+00:00",
+   "summary": "Sentora\u2019s Firelight coverage pays premiums from vault yield, while FXRP providers\u2019 shared backing can absorb validated losses after a stablecoin buffer. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "defi",
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "95b6ebe734",
+   "title": "Strategy on verge of golden cross, just weeks after bitcoin flashed same bullish signal",
+   "date": "2026-10-19T11:15:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Strategy on verge of golden cross, just weeks after bitcoin flashed same bullish signal",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
+     "date": "2026-10-19T11:15:00+00:00",
+     "summary": "Your day-ahead look for Oct. 19, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T11:15:00+00:00",
+   "last_seen": "2026-10-19T11:15:00+00:00",
+   "summary": "Your day-ahead look for Oct. 19, 2026",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "32b17b5ec2",
+   "title": "Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead a rebound",
+   "date": "2026-10-19T11:05:54+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead a rebound",
+     "url": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
+     "date": "2026-10-19T11:05:54+00:00",
+     "summary": "Tech futures bounced after last week\u2019s 5.5% rout, and bitcoin followed them up before sellers knocked it back. Earnings this week put the AI trade to the test again."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T11:05:54+00:00",
+   "last_seen": "2026-10-19T11:05:54+00:00",
+   "summary": "Tech futures bounced after last week\u2019s 5.5% rout, and bitcoin followed them up before sellers knocked it back. Earnings this week put the AI trade to the test again.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
   {
    "id": "5646cfcd09",
    "title": "Revolut secures Gibraltar crypto licence to support international expansion plans",
@@ -229,6 +317,28 @@
    "summary": "Curator-managed lending strategies are attracting institutional capital, while exposing depositors to collateral, liquidity and smart-contract risks.",
    "tags": [
     "defi"
+   ]
+  },
+  {
+   "id": "65a52ba6e5",
+   "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
+   "date": "2026-10-19T09:15:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
+     "url": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
+     "date": "2026-10-19T09:15:00+00:00",
+     "summary": "The Nvidia-backed company planned to deliver 23,000 AI chips in the U.K. next year, but its grid connection may not be ready until the 2030s."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T09:15:00+00:00",
+   "last_seen": "2026-10-19T09:15:00+00:00",
+   "summary": "The Nvidia-backed company planned to deliver 23,000 AI chips in the U.K. next year, but its grid connection may not be ready until the 2030s.",
+   "tags": [
+    "ai",
+    "bitcoin"
    ]
   },
   {

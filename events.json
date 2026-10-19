@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-19T22:48:35.254389+00:00",
+ "updated": "2026-10-19T23:48:11.053615+00:00",
  "events": [
+  {
+   "id": "c842a8c772",
+   "title": "Whale loses $469,000 in hours on Hyperliquid, yet re-enters with $16M ETH short bet",
+   "date": "2026-10-19T23:40:46+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Whale loses $469,000 in hours on Hyperliquid, yet re-enters with $16M ETH short bet",
+     "url": "https://cryptoslate.com/hyperliquid-wallet-adds-to-eth-short-after-19-8m-in-forced-closures/",
+     "date": "2026-10-19T23:40:46+00:00",
+     "summary": "The unknown trader realized about $469,000 in losses before fees overnight, then added another 1,126 ETH of shorts. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T23:40:46+00:00",
+   "last_seen": "2026-10-19T23:40:46+00:00",
+   "summary": "The unknown trader realized about $469,000 in losses before fees overnight, then added another 1,126 ETH of shorts. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum"
+   ]
+  },
   {
    "id": "91542c3b21",
    "title": "Papertrade Keeps PAPER Non-Transferable, Citing Perp Attack Risks",
@@ -362,14 +383,22 @@
      "url": "https://bitcoinmagazine.com/news/metaplanet-super-league-deal-approved",
      "date": "2026-10-19T19:32:17+00:00",
      "summary": "Bitcoin Magazine Super League Stockholders Approve Metaplanet&#8217;s 2,100 BTC Investment, Paving Way for &#8216;Superplanet&#8217; Japanese bitcoin giant Metaplanet is acquiring around 96% of Nasdaq-listed Super League. This post Super League Stockholders Approve..."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Super League Shareholders Back Metaplanet\u2019s 2,100 BTC Investment",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/super-league-shareholders-back-metaplanet-s-2-100-btc-investment",
+     "date": "2026-10-19T23:18:24+00:00",
+     "summary": "The gaming-media company plans to become Superplanet, a Nasdaq-listed US Bitcoin treasury platform, with closing expected in Q4 2026."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-19T19:32:17+00:00",
-   "last_seen": "2026-10-19T19:32:17+00:00",
+   "last_seen": "2026-10-19T23:18:24+00:00",
    "summary": "Bitcoin Magazine Super League Stockholders Approve Metaplanet&#8217;s 2,100 BTC Investment, Paving Way for &#8216;Superplanet&#8217; Japanese bitcoin giant Metaplanet is acquiring around 96% of Nasdaq-listed Super League. This post Super League Stockholders Approve...",
    "tags": [
-    "bitcoin"
+    "bitcoin",
+    "macro"
    ]
   },
   {

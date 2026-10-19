@@ -1,6 +1,127 @@
 {
- "updated": "2026-10-19T17:48:29.836010+00:00",
+ "updated": "2026-10-19T19:02:43.223548+00:00",
  "events": [
+  {
+   "id": "5b146016b6",
+   "title": "Strategy\u2019s discretionary cash falls 72% as buyback authorization rises to $3 billion",
+   "date": "2026-10-19T19:00:23+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Strategy\u2019s discretionary cash falls 72% as buyback authorization rises to $3 billion",
+     "url": "https://cryptoslate.com/strategys-discretionary-cash-falls-72-as-buyback-authorization-rises-to-3-billion/",
+     "date": "2026-10-19T19:00:23+00:00",
+     "summary": "Strategy&#039;s discretionary USD Cash fell to $447.3 million as the company spent another $193.1 million on STRC buybacks and raised its preferred-stock repurchase authorization to $3 billion. The Michael Saylor-led company disclosed on Oct. 19 that it bought Bitcoin for $22.1..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T19:00:23+00:00",
+   "last_seen": "2026-10-19T19:00:23+00:00",
+   "summary": "Strategy&#039;s discretionary USD Cash fell to $447.3 million as the company spent another $193.1 million on STRC buybacks and raised its preferred-stock repurchase authorization to $3 billion. The Michael Saylor-led company disclosed on Oct. 19 that it bought Bitcoin for $22.1...",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "24b50d5ae7",
+   "title": "Why Some of America\u2019s Biggest Companies Are Objecting to Tokenized Shares",
+   "date": "2026-10-19T18:46:05+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Why Some of America\u2019s Biggest Companies Are Objecting to Tokenized Shares",
+     "url": "https://decrypt.co/381349/why-some-america-biggest-companies-objecting-tokenized-shares",
+     "date": "2026-10-19T18:46:05+00:00",
+     "summary": "Nine companies, including Verizon, Broadcom and UnitedHealth, have objected to having their shares traded on the planned OKX-ICE tokenized stock venue."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T18:46:05+00:00",
+   "last_seen": "2026-10-19T18:46:05+00:00",
+   "summary": "Nine companies, including Verizon, Broadcom and UnitedHealth, have objected to having their shares traded on the planned OKX-ICE tokenized stock venue.",
+   "tags": []
+  },
+  {
+   "id": "5f4b9a7212",
+   "title": "US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems",
+   "date": "2026-10-19T18:16:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "US Orders Civilian Agencies to Rip DeepSeek Out of Government Systems",
+     "url": "https://decrypt.co/381347/us-orders-civilian-agencies-rip-deepseek-out-government-systems",
+     "date": "2026-10-19T18:16:04+00:00",
+     "summary": "The Department of Homeland Security told civilian agencies to remove China's DeepSeek and any service built on it, and banned buying more, citing the risk of sensitive data reaching Beijing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T18:16:04+00:00",
+   "last_seen": "2026-10-19T18:16:04+00:00",
+   "summary": "The Department of Homeland Security told civilian agencies to remove China's DeepSeek and any service built on it, and banned buying more, citing the risk of sensitive data reaching Beijing.",
+   "tags": []
+  },
+  {
+   "id": "eba5ae5af9",
+   "title": "Rain Says Western Union's Stablecard Is Live in 37 Markets",
+   "date": "2026-10-19T18:09:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Rain Says Western Union's Stablecard Is Live in 37 Markets",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/rain-says-western-union-s-stablecard-is-live-in-37-markets",
+     "date": "2026-10-19T18:09:42+00:00",
+     "summary": "The USDPT-backed Visa card is getting a Money20/20 promotion offering up to $40 in purchase-only credits, subject to in-person signup and approval."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T18:09:42+00:00",
+   "last_seen": "2026-10-19T18:09:42+00:00",
+   "summary": "The USDPT-backed Visa card is getting a Money20/20 promotion offering up to $40 in purchase-only credits, subject to in-person signup and approval.",
+   "tags": []
+  },
+  {
+   "id": "8140e75e3f",
+   "title": "Wall Street\u2019s Bitcoin bears quietly retreated despite recent plunge toward $80,000",
+   "date": "2026-10-19T18:00:34+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Wall Street\u2019s Bitcoin bears quietly retreated despite recent plunge toward $80,000",
+     "url": "https://cryptoslate.com/wall-streets-bitcoin-bears-quietly-retreated-despite-recent-plunge-toward-80000/",
+     "date": "2026-10-19T18:00:34+00:00",
+     "summary": "CFTC data for Oct. 13 show rising spread legs lifted gross longs despite fewer outright longs, without establishing spot buying. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T18:00:34+00:00",
+   "last_seen": "2026-10-19T18:00:34+00:00",
+   "summary": "CFTC data for Oct. 13 show rising spread legs lifted gross longs despite fewer outright longs, without establishing spot buying. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "markets",
+    "regulation"
+   ]
+  },
+  {
+   "id": "e433a1fea0",
+   "title": "Pump.fun Adds Pre-IPO Tokens to Its Launch Pairings",
+   "date": "2026-10-19T17:58:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Pump.fun Adds Pre-IPO Tokens to Its Launch Pairings",
+     "url": "https://thedefiant.io/news/defi/pump-fun-adds-pre-ipo-tokens-to-its-launch-pairings",
+     "date": "2026-10-19T17:58:50+00:00",
+     "summary": "The eight PreStocks assets offer economic exposure rather than shareholder rights and are unavailable to US persons."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T17:58:50+00:00",
+   "last_seen": "2026-10-19T17:58:50+00:00",
+   "summary": "The eight PreStocks assets offer economic exposure rather than shareholder rights and are unavailable to US persons.",
+   "tags": []
+  },
   {
    "id": "f9477ba70c",
    "title": "JPMorgan's JPM Coin Arrives on Ethereum, Putting Bank Dollars on a Public Blockchain",

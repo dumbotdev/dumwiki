@@ -1,6 +1,111 @@
 {
- "updated": "2026-10-19T21:49:45.639954+00:00",
+ "updated": "2026-10-19T22:48:35.254389+00:00",
  "events": [
+  {
+   "id": "91542c3b21",
+   "title": "Papertrade Keeps PAPER Non-Transferable, Citing Perp Attack Risks",
+   "date": "2026-10-19T22:43:41+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Papertrade Keeps PAPER Non-Transferable, Citing Perp Attack Risks",
+     "url": "https://thedefiant.io/news/tokens/papertrade-keeps-paper-non-transferable-citing-perp-attack-risks",
+     "date": "2026-10-19T22:43:41+00:00",
+     "summary": "Holders who earned PAPER through trading losses can stake it for USDC distributions, but still have no date when they can transfer or sell their tokens."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T22:43:41+00:00",
+   "last_seen": "2026-10-19T22:43:41+00:00",
+   "summary": "Holders who earned PAPER through trading losses can stake it for USDC distributions, but still have no date when they can transfer or sell their tokens.",
+   "tags": [
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "24057efe5d",
+   "title": "Crypto hacks surge 55% to $1.2B, but key theft drops by 30%",
+   "date": "2026-10-19T22:30:40+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Crypto hacks surge 55% to $1.2B, but key theft drops by 30%",
+     "url": "https://cryptoslate.com/crypto-hacks-surge-55-to-1-2b-but-key-theft-drops-by-30/",
+     "date": "2026-10-19T22:30:40+00:00",
+     "summary": "The quarterly shift toward contract losses and September&#039;s Bitget and Liquid failures challenge a fixed hierarchy of security controls. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T22:30:40+00:00",
+   "last_seen": "2026-10-19T22:30:40+00:00",
+   "summary": "The quarterly shift toward contract losses and September&#039;s Bitget and Liquid failures challenge a fixed hierarchy of security controls. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "cba72873c4",
+   "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
+   "date": "2026-10-19T22:28:17+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
+     "url": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company",
+     "date": "2026-10-19T22:28:17+00:00",
+     "summary": "Bitcoin Magazine AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month AnchorWatch\u2019s AnchorWatch Trust Company has now opened its custody service. This post AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T22:28:17+00:00",
+   "last_seen": "2026-10-19T22:28:17+00:00",
+   "summary": "Bitcoin Magazine AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month AnchorWatch\u2019s AnchorWatch Trust Company has now opened its custody service. This post AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "2125883b41",
+   "title": "Arcus Adds Stock Tokens and WETH as Perpetual Collateral",
+   "date": "2026-10-19T22:20:45+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Arcus Adds Stock Tokens and WETH as Perpetual Collateral",
+     "url": "https://thedefiant.io/news/defi/arcus-adds-stock-tokens-and-weth-as-perpetual-collateral",
+     "date": "2026-10-19T22:20:45+00:00",
+     "summary": "The early-access feature uses automatic USDG loans at 50% initial loan-to-value, with non-USDG deposits capped at $20,000 per account."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T22:20:45+00:00",
+   "last_seen": "2026-10-19T22:20:45+00:00",
+   "summary": "The early-access feature uses automatic USDG loans at 50% initial loan-to-value, with non-USDG deposits capped at $20,000 per account.",
+   "tags": []
+  },
+  {
+   "id": "ca64076c85",
+   "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
+   "date": "2026-10-19T22:00:53+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "BlackRock files for bitcoin ETF offering downside protection and upside exposure to IBIT",
+     "url": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087",
+     "date": "2026-10-19T22:00:53+00:00",
+     "summary": "One of the world's largest investment managers, BlackRock has filed for another bitcoin fund, marking its third tied to the asset."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T22:00:53+00:00",
+   "last_seen": "2026-10-19T22:00:53+00:00",
+   "summary": "One of the world's largest investment managers, BlackRock has filed for another bitcoin fund, marking its third tied to the asset.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
   {
    "id": "d52e06a528",
    "title": "Strive Buys $335 Million in Bitcoin After Investors Pour In $369 Million",

@@ -1,6 +1,44 @@
 {
- "updated": "2026-10-19T04:54:56.397304+00:00",
+ "updated": "2026-10-19T05:51:18.956049+00:00",
  "events": [
+  {
+   "id": "b7d3ff59d8",
+   "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+   "date": "2026-10-19T05:23:02+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Zcash developers plan a fix to keep ZEC swaps private from future quantum computers",
+     "url": "https://www.coindesk.com/tech/2026/10/19/zcash-developers-plan-a-fix-to-keep-zec-swaps-private-from-future-quantum-computers",
+     "date": "2026-10-19T05:23:02+00:00",
+     "summary": "The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR\u2019s public chain can\u2019t expose a user\u2019s wider payment history."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T05:23:02+00:00",
+   "last_seen": "2026-10-19T05:23:02+00:00",
+   "summary": "The team behind Zakura wants every swap through NEAR Intents to get its own key, so a refund address left on NEAR\u2019s public chain can\u2019t expose a user\u2019s wider payment history.",
+   "tags": []
+  },
+  {
+   "id": "495299e564",
+   "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+   "date": "2026-10-19T05:14:06+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "South Korea to meet crypto exchanges amid calls for tax delay",
+     "url": "https://cointelegraph.com/news/south-korea-to-meet-crypto-exchanges-amid-calls-for-tax-delay?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-19T05:14:06+00:00",
+     "summary": "Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax\u2019s start date back two years."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T05:14:06+00:00",
+   "last_seen": "2026-10-19T05:14:06+00:00",
+   "summary": "Finance officials are reportedly set to meet major crypto exchanges on Tuesday, days after a lawmaker introduced legislation that could push the tax\u2019s start date back two years.",
+   "tags": []
+  },
   {
    "id": "d7d20cd8f1",
    "title": "XRP Ledger is set to fix its lending code before anyone can use it",

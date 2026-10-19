@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-19T14:02:41.278321+00:00",
+ "updated": "2026-10-19T14:56:39.441047+00:00",
  "events": [
+  {
+   "id": "d4d8389ced",
+   "title": "Sparkassen Begin Bitcoin Trading Through DekaBank in Banking App",
+   "date": "2026-10-19T14:21:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Sparkassen Begin Bitcoin Trading Through DekaBank in Banking App",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/sparkassen-begin-bitcoin-trading-through-dekabank-in-banking-app",
+     "date": "2026-10-19T14:21:44+00:00",
+     "summary": "Deka lists five participating savings banks, with more than 230 expressing interest. Trades cost \u20ac0.99 plus a spread, and withdrawals are limited to approved custodians."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T14:21:44+00:00",
+   "last_seen": "2026-10-19T14:21:44+00:00",
+   "summary": "Deka lists five participating savings banks, with more than 230 expressing interest. Trades cost \u20ac0.99 plus a spread, and withdrawals are limited to approved custodians.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "fac72ecdb4",
+   "title": "Binance\u2019s SOXL mark fell 5.9% despite a 3% price band. Here\u2019s why",
+   "date": "2026-10-19T14:20:42+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance\u2019s SOXL mark fell 5.9% despite a 3% price band. Here\u2019s why",
+     "url": "https://cryptoslate.com/binances-soxl-selloff-shows-how-a-3-price-band-can-allow-larger-losses/",
+     "date": "2026-10-19T14:20:42+00:00",
+     "summary": "A moving weekend index helps explain how a 5.9% opening-to-low mark decline coexisted with minute-close mark/index gaps below 3%. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T14:20:42+00:00",
+   "last_seen": "2026-10-19T14:20:42+00:00",
+   "summary": "A moving weekend index helps explain how a 5.9% opening-to-low mark decline coexisted with minute-close mark/index gaps below 3%. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "681bd645c0",
+   "title": "Echo Protocol Winds Down, Halting New Deposits and Borrowing",
+   "date": "2026-10-19T14:13:28+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Echo Protocol Winds Down, Halting New Deposits and Borrowing",
+     "url": "https://thedefiant.io/news/defi/echo-protocol-winds-down-halting-new-deposits-and-borrowing",
+     "date": "2026-10-19T14:13:28+00:00",
+     "summary": "Withdrawals and repayments remain open, but the shutdown notice gives conflicting November deadlines before collateral liquidation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T14:13:28+00:00",
+   "last_seen": "2026-10-19T14:13:28+00:00",
+   "summary": "Withdrawals and repayments remain open, but the shutdown notice gives conflicting November deadlines before collateral liquidation.",
+   "tags": [
+    "markets"
+   ]
+  },
   {
    "id": "6a2cda1067",
    "title": "SkyAI Sells Entire Solana Treasury, Launches $201 Million Tender",

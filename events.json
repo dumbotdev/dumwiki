@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-20T04:51:50.905549+00:00",
+ "updated": "2026-10-20T05:50:30.843915+00:00",
  "events": [
+  {
+   "id": "d5e4ee8a75",
+   "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+   "date": "2026-10-20T05:39:20+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US Bitcoin ETFs draw $527M in biggest showing since September",
+     "url": "https://cointelegraph.com/markets/bitcoin-etfs-527m-inflows-biggest-since-september?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T05:39:20+00:00",
+     "summary": "BlackRock\u2019s IBIT led the gains with $665.2 million in inflows, offsetting withdrawals from Fidelity and Grayscale, while other funds recorded no net flows."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T05:39:20+00:00",
+   "last_seen": "2026-10-20T05:39:20+00:00",
+   "summary": "BlackRock\u2019s IBIT led the gains with $665.2 million in inflows, offsetting withdrawals from Fidelity and Grayscale, while other funds recorded no net flows.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "6cf097af66",
+   "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
+   "date": "2026-10-20T05:14:11+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Sophon sets Nov. 25 withdrawal deadline ahead of mainnet shutdown",
+     "url": "https://cointelegraph.com/news/sophon-sets-nov-25-withdrawal-deadline-ahead-of-mainnet-shutdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T05:14:11+00:00",
+     "summary": "In June, Sophon\u2019s developers said the costs of maintaining a standalone blockchain no longer justified its benefits and announced plans to focus on consumer finance and AI applications on Base."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T05:14:11+00:00",
+   "last_seen": "2026-10-20T05:14:11+00:00",
+   "summary": "In June, Sophon\u2019s developers said the costs of maintaining a standalone blockchain no longer justified its benefits and announced plans to focus on consumer finance and AI applications on Base.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "f2c3e13dfa",
    "title": "French MPs back crypto tax, and stablecoin swaps take the hit",

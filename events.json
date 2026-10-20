@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-20T05:50:30.843915+00:00",
+ "updated": "2026-10-20T07:06:17.726936+00:00",
  "events": [
+  {
+   "id": "b4a541ec87",
+   "title": "BlackRock\u2019s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
+   "date": "2026-10-20T07:05:24+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "BlackRock\u2019s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",
+     "url": "https://www.theblock.co/news/markets/2026-10-20-blackrock-ibit-bitcoin-etf-665-million-421102",
+     "date": "2026-10-20T07:05:24+00:00",
+     "summary": "Min Jung, associate researcher at Presto Research, said investors could be positioning for a potential 'catch-up trade' in bitcoin."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T07:05:24+00:00",
+   "last_seen": "2026-10-20T07:05:24+00:00",
+   "summary": "Min Jung, associate researcher at Presto Research, said investors could be positioning for a potential 'catch-up trade' in bitcoin.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "9468308a07",
+   "title": "JPMorgan drops JPM Coin on Ethereum with zero retail access",
+   "date": "2026-10-20T06:30:25+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "JPMorgan drops JPM Coin on Ethereum with zero retail access",
+     "url": "https://cryptoslate.com/jpmorgan-drops-jpm-coin-on-ethereum-with-zero-retail-access/",
+     "date": "2026-10-20T06:30:25+00:00",
+     "summary": "JPM Coin gives the bank&#039;s institutional clients an Ethereum payment route, with direct fund subscriptions still unannounced. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T06:30:25+00:00",
+   "last_seen": "2026-10-20T06:30:25+00:00",
+   "summary": "JPM Coin gives the bank&#039;s institutional clients an Ethereum payment route, with direct fund subscriptions still unannounced. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum"
+   ]
+  },
   {
    "id": "d5e4ee8a75",
    "title": "US Bitcoin ETFs draw $527M in biggest showing since September",

@@ -1,6 +1,91 @@
 {
- "updated": "2026-10-20T19:00:28.111178+00:00",
+ "updated": "2026-10-20T19:50:44.329571+00:00",
  "events": [
+  {
+   "id": "6e94e96839",
+   "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+   "date": "2026-10-20T19:19:54+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+     "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+     "date": "2026-10-20T19:19:54+00:00",
+     "summary": "As the SEC\u2019s comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T19:19:54+00:00",
+   "last_seen": "2026-10-20T19:19:54+00:00",
+   "summary": "As the SEC\u2019s comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "7e7271ad9d",
+   "title": "Utah likens Kalshi to a \u2018back-alley gambling den\u2019 in lawsuit naming Susquehanna firms",
+   "date": "2026-10-20T19:12:38+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Utah likens Kalshi to a \u2018back-alley gambling den\u2019 in lawsuit naming Susquehanna firms",
+     "url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
+     "date": "2026-10-20T19:12:38+00:00",
+     "summary": "Utah seeks to recover alleged gambling profits and block Kalshi bets across sports, politics and culture."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T19:12:38+00:00",
+   "last_seen": "2026-10-20T19:12:38+00:00",
+   "summary": "Utah seeks to recover alleged gambling profits and block Kalshi bets across sports, politics and culture.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "98a963d5ad",
+   "title": "Extended Plans Oct. 22 Settlement Move From Starknet to Arc",
+   "date": "2026-10-20T19:10:40+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Extended Plans Oct. 22 Settlement Move From Starknet to Arc",
+     "url": "https://thedefiant.io/news/defi/extended-plans-oct-22-settlement-move-from-starknet-to-arc",
+     "date": "2026-10-20T19:10:40+00:00",
+     "summary": "Extended says holders of more than $1 of USDT or wBTC in a sub-account must convert or withdraw to avoid forced closures, but its notices give conflicting deadlines."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T19:10:40+00:00",
+   "last_seen": "2026-10-20T19:10:40+00:00",
+   "summary": "Extended says holders of more than $1 of USDT or wBTC in a sub-account must convert or withdraw to avoid forced closures, but its notices give conflicting deadlines.",
+   "tags": [
+    "legal",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "585dfb12f2",
+   "title": "US orders DeepSeek purge from federal systems as Chinese AI rival opens its technology to the world",
+   "date": "2026-10-20T19:10:30+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "US orders DeepSeek purge from federal systems as Chinese AI rival opens its technology to the world",
+     "url": "https://cryptoslate.com/us-orders-deepseek-purge-from-federal-systems-as-chinese-ai-rival-opens-its-technology-to-the-world/",
+     "date": "2026-10-20T19:10:30+00:00",
+     "summary": "The October 20 notice covers tools built using DeepSeek implementations, with a 60-day exception period tied to July issuance. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T19:10:30+00:00",
+   "last_seen": "2026-10-20T19:10:30+00:00",
+   "summary": "The October 20 notice covers tools built using DeepSeek implementations, with a 60-day exception period tied to July issuance. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "d548fa5942",
    "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
@@ -1346,11 +1431,18 @@
      "url": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-20T13:04:28+00:00",
      "summary": "The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
+     "url": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
+     "date": "2026-10-20T19:31:04+00:00",
+     "summary": "FINMA waived the diversification rules for the fund but leaned hard on custody and investor-protection safeguards."
     }
    ],
-   "score": 30,
+   "score": 40,
    "first_seen": "2026-10-20T10:09:57+00:00",
-   "last_seen": "2026-10-20T13:04:28+00:00",
+   "last_seen": "2026-10-20T19:31:04+00:00",
    "summary": "The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications.",
    "tags": [
     "bitcoin",

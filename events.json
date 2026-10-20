@@ -1,6 +1,133 @@
 {
- "updated": "2026-10-20T10:51:23.585703+00:00",
+ "updated": "2026-10-20T11:51:13.041669+00:00",
  "events": [
+  {
+   "id": "927f8e3596",
+   "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+   "date": "2026-10-20T11:25:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+     "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
+     "date": "2026-10-20T11:25:00+00:00",
+     "summary": "Amendment I-3898 removes tax deferral for MiCA-compliant stablecoins starting January 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T11:25:00+00:00",
+   "last_seen": "2026-10-20T11:25:00+00:00",
+   "summary": "Amendment I-3898 removes tax deferral for MiCA-compliant stablecoins starting January 2027.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "bf36d1bc00",
+   "title": "Netflix FTX trailer was \u2018enough to upset me\u2019 in first 30 seconds: former FTX COO",
+   "date": "2026-10-20T11:23:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Netflix FTX trailer was \u2018enough to upset me\u2019 in first 30 seconds: former FTX COO",
+     "url": "https://cointelegraph.com/news/netflix-ftx-trailer-upset-first-30-seconds-ftx-coo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T11:23:00+00:00",
+     "summary": "Constance Wang criticized the streamer\u2019s portrayal of her former FTX colleagues as not matching her own experience with Sam Bankman-Fried and Caroline Ellison."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T11:23:00+00:00",
+   "last_seen": "2026-10-20T11:23:00+00:00",
+   "summary": "Constance Wang criticized the streamer\u2019s portrayal of her former FTX colleagues as not matching her own experience with Sam Bankman-Fried and Caroline Ellison.",
+   "tags": []
+  },
+  {
+   "id": "29077cc8b9",
+   "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
+   "date": "2026-10-20T11:14:21+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
+     "date": "2026-10-20T11:14:21+00:00",
+     "summary": "Your day-ahead look for Oct. 20, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T11:14:21+00:00",
+   "last_seen": "2026-10-20T11:14:21+00:00",
+   "summary": "Your day-ahead look for Oct. 20, 2026",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "c5955ff16b",
+   "title": "Kazakhstan court orders curbs on Coinbase, BingX and four others",
+   "date": "2026-10-20T11:12:21+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Kazakhstan court orders curbs on Coinbase, BingX and four others",
+     "url": "https://cointelegraph.com/news/kazakhstan-court-limits-coinbase-bingx-four?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T11:12:21+00:00",
+     "summary": "Nine other crypto platforms voluntarily restricted app access in Kazakhstan, prompting the regulator to withdraw its claims against them."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T11:12:21+00:00",
+   "last_seen": "2026-10-20T11:12:21+00:00",
+   "summary": "Nine other crypto platforms voluntarily restricted app access in Kazakhstan, prompting the regulator to withdraw its claims against them.",
+   "tags": [
+    "exchanges",
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "7069e7ce7d",
+   "title": "Revolut Disruption Hits Payments and Crypto Services",
+   "date": "2026-10-20T10:54:21+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Revolut Disruption Hits Payments and Crypto Services",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/revolut-disruption-hits-payments-and-crypto-services",
+     "date": "2026-10-20T10:54:21+00:00",
+     "summary": "The company said customer money and data were safe, while sign-in and ATM withdrawals were also affected."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T10:54:21+00:00",
+   "last_seen": "2026-10-20T10:54:21+00:00",
+   "summary": "The company said customer money and data were safe, while sign-in and ATM withdrawals were also affected.",
+   "tags": []
+  },
+  {
+   "id": "57ccdecfae",
+   "title": "BlackRock\u2019s proposed Bitcoin ETF would hold no Bitcoin or spot ETF shares",
+   "date": "2026-10-20T10:50:15+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "BlackRock\u2019s proposed Bitcoin ETF would hold no Bitcoin or spot ETF shares",
+     "url": "https://cryptoslate.com/blackrocks-new-bitcoin-etf-wont-buy-btc-raising-questions-about-future-demand/",
+     "date": "2026-10-20T10:50:15+00:00",
+     "summary": "BlackRock filed with the SEC on Oct. 19 for the iShares Bitcoin Managed Protection ETF (PBIT), a fund that would hold options and fixed-income securities and gain Bitcoin exposure through derivatives. The preliminary prospectus excludes direct Bitcoin and spot Bitcoin ETP..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T10:50:15+00:00",
+   "last_seen": "2026-10-20T10:50:15+00:00",
+   "summary": "BlackRock filed with the SEC on Oct. 19 for the iShares Bitcoin Managed Protection ETF (PBIT), a fund that would hold options and fixed-income securities and gain Bitcoin exposure through derivatives. The preliminary prospectus excludes direct Bitcoin and spot Bitcoin ETP...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "regulation"
+   ]
+  },
   {
    "id": "95b460fb1e",
    "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
@@ -56,13 +183,23 @@
      "url": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-20T10:20:13+00:00",
      "summary": "Mt. Gox extended its repayment deadline by another year as some creditors remain unpaid due to incomplete procedures and payment processing issues."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Mt. Gox Pushes Repayment Deadline to 2027 With $2.8B in Bitcoin Still to Distribute",
+     "url": "https://decrypt.co/381392/mt-gox-pushes-repayment-deadline-to-2027-with-2-8b-in-bitcoin-still-to-distribute",
+     "date": "2026-10-20T10:55:48+00:00",
+     "summary": "The defunct exchange's trustee said many creditors still have not completed the procedures needed to get their Bitcoin back."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-20T10:20:13+00:00",
-   "last_seen": "2026-10-20T10:20:13+00:00",
+   "last_seen": "2026-10-20T10:55:48+00:00",
    "summary": "Mt. Gox extended its repayment deadline by another year as some creditors remain unpaid due to incomplete procedures and payment processing issues.",
-   "tags": []
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
   },
   {
    "id": "1c134ac02a",
@@ -234,11 +371,18 @@
      "url": "https://cointelegraph.com/markets/jpmorgan-bitcoin-outperform-stocks-gold-annual-returns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-20T08:54:27+00:00",
      "summary": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "JPMorgan sees 10% annual bitcoin returns, topping stocks, bonds and gold over next decade",
+     "url": "https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade",
+     "date": "2026-10-20T11:10:40+00:00",
+     "summary": "The report marks the first time JPMorgan has put a range on bitcoin returns in its research, though the bank remains cautious about BTC's role in portfolios."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-20T08:54:27+00:00",
-   "last_seen": "2026-10-20T08:54:27+00:00",
+   "last_seen": "2026-10-20T11:10:40+00:00",
    "summary": "JPMorgan included Bitcoin in its long-term capital market outlook for the first time but warned that volatility and unstable correlations limit its role in investment portfolios.",
    "tags": [
     "bitcoin"

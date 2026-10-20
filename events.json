@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-20T01:04:50.520478+00:00",
+ "updated": "2026-10-20T01:50:58.177740+00:00",
  "events": [
+  {
+   "id": "4e0b1b6be9",
+   "title": "Aster Sets PAPER Perp Delisting After Transferability Decision",
+   "date": "2026-10-20T01:47:17+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aster Sets PAPER Perp Delisting After Transferability Decision",
+     "url": "https://thedefiant.io/news/tokens/aster-sets-paper-perp-delisting-after-transferability-decision",
+     "date": "2026-10-20T01:47:17+00:00",
+     "summary": "Paragon had already halted its PAPER market and settled open positions at $0.026296 after Papertrade ruled out token transfers for now."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T01:47:17+00:00",
+   "last_seen": "2026-10-20T01:47:17+00:00",
+   "summary": "Paragon had already halted its PAPER market and settled open positions at $0.026296 after Papertrade ruled out token transfers for now.",
+   "tags": []
+  },
+  {
+   "id": "017aebfbb6",
+   "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
+   "date": "2026-10-20T01:35:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin rally could revive treasury buying, but easy-money days over",
+     "url": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T01:35:00+00:00",
+     "summary": "\u201cA return to last year\u2019s indiscriminate capital raising looks unlikely,\u201d said Bitfinex head of derivatives Jag Kooner."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T01:35:00+00:00",
+   "last_seen": "2026-10-20T01:35:00+00:00",
+   "summary": "\u201cA return to last year\u2019s indiscriminate capital raising looks unlikely,\u201d said Bitfinex head of derivatives Jag Kooner.",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
   {
    "id": "c842a8c772",
    "title": "Whale loses $469,000 in hours on Hyperliquid, yet re-enters with $16M ETH short bet",

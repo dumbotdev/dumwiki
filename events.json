@@ -1,6 +1,111 @@
 {
- "updated": "2026-10-20T19:50:44.329571+00:00",
+ "updated": "2026-10-20T20:52:42.955538+00:00",
  "events": [
+  {
+   "id": "e4bf8e5b55",
+   "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+   "date": "2026-10-20T20:38:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+     "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T20:38:00+00:00",
+     "summary": "The firms are seeking clearer guidance on the classification of crypto assets and secondary-market trading as the SEC\u2019s public comment period comes to a close."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T20:38:00+00:00",
+   "last_seen": "2026-10-20T20:38:00+00:00",
+   "summary": "The firms are seeking clearer guidance on the classification of crypto assets and secondary-market trading as the SEC\u2019s public comment period comes to a close.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "ecff9f6d8c",
+   "title": "JPMorgan models Bitcoin reaching $385,000 in 10-year bull case despite CEO Jamie Dimon\u2019s criticism",
+   "date": "2026-10-20T20:30:10+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "JPMorgan models Bitcoin reaching $385,000 in 10-year bull case despite CEO Jamie Dimon\u2019s criticism",
+     "url": "https://cryptoslate.com/jpmorgan-models-bitcoin-reaching-385000-in-10-year-bull-case-despite-ceo-jamie-dimons-criticism/",
+     "date": "2026-10-20T20:30:10+00:00",
+     "summary": "A report page shared by @Matt_Hougan shows the 10-to-15-year assumptions, while the firm stops short of a bitcoin allocation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T20:30:10+00:00",
+   "last_seen": "2026-10-20T20:30:10+00:00",
+   "summary": "A report page shared by @Matt_Hougan shows the 10-to-15-year assumptions, while the firm stops short of a bitcoin allocation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "8cd13ad556",
+   "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+   "date": "2026-10-20T20:16:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+     "url": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
+     "date": "2026-10-20T20:16:04+00:00",
+     "summary": "Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T20:16:04+00:00",
+   "last_seen": "2026-10-20T20:16:04+00:00",
+   "summary": "Sixteen companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, up from nine just four days earlier, according to an updated public notice.",
+   "tags": []
+  },
+  {
+   "id": "62601e8f30",
+   "title": "Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend",
+   "date": "2026-10-20T20:13:19+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend",
+     "url": "https://bitcoinmagazine.com/news/strive-debuts-new-preferred-stock",
+     "date": "2026-10-20T20:13:19+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend Strive\u2019s second preferred stock offering, SATS, debuted Tuesday on the Nasdaq. This post Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend first appeared on Bitcoin Magazine..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T20:13:19+00:00",
+   "last_seen": "2026-10-20T20:13:19+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend Strive\u2019s second preferred stock offering, SATS, debuted Tuesday on the Nasdaq. This post Bitcoin Treasury Strive Debuts New Preferred Stock With 15% Dividend first appeared on Bitcoin Magazine...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "02832e8d5b",
+   "title": "Crypto\u2019s 2026 shutdown wave claims 82 projects. What went wrong?",
+   "date": "2026-10-20T19:59:39+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto\u2019s 2026 shutdown wave claims 82 projects. What went wrong?",
+     "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T19:59:39+00:00",
+     "summary": "Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and gaming."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T19:59:39+00:00",
+   "last_seen": "2026-10-20T19:59:39+00:00",
+   "summary": "Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and gaming.",
+   "tags": [
+    "defi",
+    "funding"
+   ]
+  },
   {
    "id": "6e94e96839",
    "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
@@ -1553,12 +1658,19 @@
      "url": "https://thedefiant.io/news/hacks/drift-linked-wallet-sends-54-8-million-in-eth-to-tornado-cash",
      "date": "2026-10-20T09:12:49+00:00",
      "summary": "Five Etherscan-labeled Drift exploiter wallets still hold about 84,164 ETH as recovery efforts continue after April\u2019s attack."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+     "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+     "date": "2026-10-20T20:46:04+00:00",
+     "summary": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-20T09:12:49+00:00",
-   "last_seen": "2026-10-20T09:12:49+00:00",
-   "summary": "Five Etherscan-labeled Drift exploiter wallets still hold about 84,164 ETH as recovery efforts continue after April\u2019s attack.",
+   "last_seen": "2026-10-20T20:46:04+00:00",
+   "summary": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more.",
    "tags": [
     "ethereum",
     "security"

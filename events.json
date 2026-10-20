@@ -1,6 +1,90 @@
 {
- "updated": "2026-10-20T07:56:27.733108+00:00",
+ "updated": "2026-10-20T08:55:02.663824+00:00",
  "events": [
+  {
+   "id": "4b19750d5d",
+   "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+   "date": "2026-10-20T08:24:01+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin ETFs just saw their biggest day in a month thanks entirely to BlackRock",
+     "url": "https://www.coindesk.com/business/2026/10/20/bitcoin-etfs-just-saw-their-biggest-day-in-a-month-thanks-entirely-to-blackrock",
+     "date": "2026-10-20T08:24:01+00:00",
+     "summary": "Fidelity's FBTC and Grayscale's GBTC saw outflows of $83.6 million and $54.9 million, respectively."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T08:24:01+00:00",
+   "last_seen": "2026-10-20T08:24:01+00:00",
+   "summary": "Fidelity's FBTC and Grayscale's GBTC saw outflows of $83.6 million and $54.9 million, respectively.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "de0481d3ea",
+   "title": "BNB Chain splits asset power across 4 roles while admins hold the key",
+   "date": "2026-10-20T08:20:20+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "BNB Chain splits asset power across 4 roles while admins hold the key",
+     "url": "https://cryptoslate.com/bnb-chain-splits-asset-power-across-4-roles-while-admins-hold-the-key/",
+     "date": "2026-10-20T08:20:20+00:00",
+     "summary": "Jenner\u2019s testnet release separates CAS20 creation from issuer powers, while shared compliance lists would depend on another network switch. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T08:20:20+00:00",
+   "last_seen": "2026-10-20T08:20:20+00:00",
+   "summary": "Jenner\u2019s testnet release separates CAS20 creation from issuer powers, while shared compliance lists would depend on another network switch. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "7ab406d3f6",
+   "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
+   "date": "2026-10-20T08:12:57+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "BlackRock files for third Bitcoin ETF, still no Solana or XRP",
+     "url": "https://cointelegraph.com/news/blackrock-ishares-bitcoin-managed-protection-etf-pbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T08:12:57+00:00",
+     "summary": "BlackRock\u2019s proposed Bitcoin fund would use options to limit potential losses and gains, adding another strategy to its existing Bitcoin and Ether ETF lineup."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T08:12:57+00:00",
+   "last_seen": "2026-10-20T08:12:57+00:00",
+   "summary": "BlackRock\u2019s proposed Bitcoin fund would use options to limit potential losses and gains, adding another strategy to its existing Bitcoin and Ether ETF lineup.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "d638b554df",
+   "title": "SlowMist Says Qubic Wallet Keys Could Be Recovered From Six Network Samples",
+   "date": "2026-10-20T08:02:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SlowMist Says Qubic Wallet Keys Could Be Recovered From Six Network Samples",
+     "url": "https://thedefiant.io/news/security/slowmist-says-qubic-wallet-keys-could-be-recovered-from-six-network-samples",
+     "date": "2026-10-20T08:02:39+00:00",
+     "summary": "The 4.26.4 patch separates new account seeds from the exposed random stream but leaves header generation unchanged."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T08:02:39+00:00",
+   "last_seen": "2026-10-20T08:02:39+00:00",
+   "summary": "The 4.26.4 patch separates new account seeds from the exposed random stream but leaves header generation unchanged.",
+   "tags": []
+  },
   {
    "id": "8048c45b1b",
    "title": "Lido Engineer Warns of Staking Deposit Hijack at Glamsterdam",

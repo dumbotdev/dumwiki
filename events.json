@@ -1,6 +1,47 @@
 {
- "updated": "2026-10-20T01:50:58.177740+00:00",
+ "updated": "2026-10-20T02:52:43.946604+00:00",
  "events": [
+  {
+   "id": "d30b52f62c",
+   "title": "Ramp Seeks OCC Trust Bank Charter for Digital Asset Custody",
+   "date": "2026-10-20T02:39:23+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ramp Seeks OCC Trust Bank Charter for Digital Asset Custody",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/ramp-seeks-occ-trust-bank-charter-for-digital-asset-custody",
+     "date": "2026-10-20T02:39:23+00:00",
+     "summary": "The proposed bank would not take deposits or make commercial loans; Ramp says it would build products alongside its banking partners."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T02:39:23+00:00",
+   "last_seen": "2026-10-20T02:39:23+00:00",
+   "summary": "The proposed bank would not take deposits or make commercial loans; Ramp says it would build products alongside its banking partners.",
+   "tags": []
+  },
+  {
+   "id": "ab71069c7c",
+   "title": "Binance opens free AI trading, yet user liability remains 100%",
+   "date": "2026-10-20T01:50:08+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance opens free AI trading, yet user liability remains 100%",
+     "url": "https://cryptoslate.com/binance-opens-free-ai-trading-yet-user-liability-remains-100/",
+     "date": "2026-10-20T01:50:08+00:00",
+     "summary": "Standard includes 250,000 monthly usage credits and live deployment, while users must approve workflows and supply trading funds. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T01:50:08+00:00",
+   "last_seen": "2026-10-20T01:50:08+00:00",
+   "summary": "Standard includes 250,000 monthly usage credits and live deployment, while users must approve workflows and supply trading funds. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai",
+    "exchanges"
+   ]
+  },
   {
    "id": "4e0b1b6be9",
    "title": "Aster Sets PAPER Perp Delisting After Transferability Decision",

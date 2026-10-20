@@ -1,6 +1,137 @@
 {
- "updated": "2026-10-20T09:52:22.476777+00:00",
+ "updated": "2026-10-20T10:51:23.585703+00:00",
  "events": [
+  {
+   "id": "95b460fb1e",
+   "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
+   "date": "2026-10-20T10:22:55+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin drops to $81,400 as Asian chip stocks tumble, options traders seek downside protection",
+     "url": "https://www.coindesk.com/markets/2026/10/20/bitcoin-drops-to-usd81-400-as-asian-chip-stocks-tumble-options-traders-seek-downside-protection",
+     "date": "2026-10-20T10:22:55+00:00",
+     "summary": "Bitcoin slipped 0.5% to around $81,400 even after the biggest daily spot ETF inflow in nearly a month as South Korea's Kospi index fell 3.7% on AI worries."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T10:22:55+00:00",
+   "last_seen": "2026-10-20T10:22:55+00:00",
+   "summary": "Bitcoin slipped 0.5% to around $81,400 even after the biggest daily spot ETF inflow in nearly a month as South Korea's Kospi index fell 3.7% on AI worries.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "8acc727d79",
+   "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
+   "date": "2026-10-20T10:20:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "XRP 30-day exchange inflows pass 6B tokens as whales move to the sidelines",
+     "url": "https://cointelegraph.com/markets/xrp-30-day-exchange-inflows-pass-6b-tokens-as-whales-move-to-the-sidelines?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T10:20:58+00:00",
+     "summary": "More than 6 billion XRP reached exchanges tracked by CryptoQuant in the 30 days to Oct. 19, the most since March."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T10:20:58+00:00",
+   "last_seen": "2026-10-20T10:20:58+00:00",
+   "summary": "More than 6 billion XRP reached exchanges tracked by CryptoQuant in the 30 days to Oct. 19, the most since March.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "e3f6476a2c",
+   "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
+   "date": "2026-10-20T10:20:13+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Mt. Gox pushes creditor repayment deadline to 2027 in sixth extension",
+     "url": "https://cointelegraph.com/news/mt-gox-creditor-repayment-deadline-extended-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T10:20:13+00:00",
+     "summary": "Mt. Gox extended its repayment deadline by another year as some creditors remain unpaid due to incomplete procedures and payment processing issues."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T10:20:13+00:00",
+   "last_seen": "2026-10-20T10:20:13+00:00",
+   "summary": "Mt. Gox extended its repayment deadline by another year as some creditors remain unpaid due to incomplete procedures and payment processing issues.",
+   "tags": []
+  },
+  {
+   "id": "1c134ac02a",
+   "title": "Live updates: Market jitters persist as the AI selloff deepens",
+   "date": "2026-10-20T10:14:19+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Market jitters persist as the AI selloff deepens",
+     "url": "https://www.coindesk.com/markets/2026/10/20/live-updates-market-jitters-persist-as-the-ai-selloff-deepens",
+     "date": "2026-10-20T10:14:19+00:00",
+     "summary": "South Korea\u2019s KOSPI fell almost 4%, accompanied by one of the weakest IPO debuts in the country\u2019s history, with data centre company Elice tumbling around 30%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T10:14:19+00:00",
+   "last_seen": "2026-10-20T10:14:19+00:00",
+   "summary": "South Korea\u2019s KOSPI fell almost 4%, accompanied by one of the weakest IPO debuts in the country\u2019s history, with data centre company Elice tumbling around 30%.",
+   "tags": [
+    "ai",
+    "funding"
+   ]
+  },
+  {
+   "id": "121735cea2",
+   "title": "FINMA Approves First Swiss Retail Bitcoin ETF",
+   "date": "2026-10-20T10:09:57+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "FINMA Approves First Swiss Retail Bitcoin ETF",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/finma-approves-first-swiss-retail-bitcoin-etf",
+     "date": "2026-10-20T10:09:57+00:00",
+     "summary": "The regulator granted an exemption from diversification rules while requiring custody safeguards and clear warnings about volatility and losses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T10:09:57+00:00",
+   "last_seen": "2026-10-20T10:09:57+00:00",
+   "summary": "The regulator granted an exemption from diversification rules while requiring custody safeguards and clear warnings about volatility and losses.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "regulation"
+   ]
+  },
+  {
+   "id": "b350e54e88",
+   "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
+   "date": "2026-10-20T10:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitget plans Thai crypto exchange acquisition weeks after $388M hack",
+     "url": "https://cointelegraph.com/news/bitget-plans-thai-crypto-exchange-acquisition-weeks-after-388m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T10:00:00+00:00",
+     "summary": "The proposed acquisition would give Bitget a route into Thailand\u2019s crypto market through a locally licensed operator."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T10:00:00+00:00",
+   "last_seen": "2026-10-20T10:00:00+00:00",
+   "summary": "The proposed acquisition would give Bitget a route into Thailand\u2019s crypto market through a locally licensed operator.",
+   "tags": [
+    "exchanges",
+    "funding",
+    "security"
+   ]
+  },
   {
    "id": "b2fe0a7c55",
    "title": "Bitcoin ETF comeback exposes a $630 million divide with Ethereum as BlackRock dominates",

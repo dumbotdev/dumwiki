@@ -1,6 +1,216 @@
 {
- "updated": "2026-10-20T11:51:13.041669+00:00",
+ "updated": "2026-10-20T13:05:55.675130+00:00",
  "events": [
+  {
+   "id": "2509c9fef2",
+   "title": "Stablecoins move over $400 million per hour on average as off-hours transfers dominate, Coinbase and The Block study finds",
+   "date": "2026-10-20T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Stablecoins move over $400 million per hour on average as off-hours transfers dominate, Coinbase and The Block study finds",
+     "url": "https://www.theblock.co/news/web3/2026-10-20-stablecoins-move-400-million-per-hour-421111",
+     "date": "2026-10-20T13:00:00+00:00",
+     "summary": "Stablecoins are on track to reach $1.5 trillion in quarterly adjusted transfer volume by the end of 2027 at current growth rates, according to the report."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T13:00:00+00:00",
+   "last_seen": "2026-10-20T13:00:00+00:00",
+   "summary": "Stablecoins are on track to reach $1.5 trillion in quarterly adjusted transfer volume by the end of 2027 at current growth rates, according to the report.",
+   "tags": [
+    "exchanges",
+    "macro"
+   ]
+  },
+  {
+   "id": "5e51f8e712",
+   "title": "Liquid Says Bitcoin Swaps Are Restored While Peg-Outs Stay Frozen",
+   "date": "2026-10-20T12:57:34+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Liquid Says Bitcoin Swaps Are Restored While Peg-Outs Stay Frozen",
+     "url": "https://thedefiant.io/news/security/liquid-says-bitcoin-swaps-are-restored-while-peg-outs-stay-frozen",
+     "date": "2026-10-20T12:57:34+00:00",
+     "summary": "Reserves still cover about 85.8% of outstanding L-BTC, leaving a roughly 603 BTC shortfall."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T12:57:34+00:00",
+   "last_seen": "2026-10-20T12:57:34+00:00",
+   "summary": "Reserves still cover about 85.8% of outstanding L-BTC, leaving a roughly 603 BTC shortfall.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "3a1ce11cd8",
+   "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
+   "date": "2026-10-20T12:40:17+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
+     "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
+     "date": "2026-10-20T12:40:17+00:00",
+     "summary": "Seven more issuers have opted out of being listed on the planned tokenized stock venue under the SEC's framework, bringing its disclosed objection count to 16."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T12:40:17+00:00",
+   "last_seen": "2026-10-20T12:40:17+00:00",
+   "summary": "Seven more issuers have opted out of being listed on the planned tokenized stock venue under the SEC's framework, bringing its disclosed objection count to 16.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "a87bf470d1",
+   "title": "Sam Callahan: Bitcoin Doesn\u2019t Need Rate Cuts to Succeed",
+   "date": "2026-10-20T12:40:11+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Sam Callahan: Bitcoin Doesn\u2019t Need Rate Cuts to Succeed",
+     "url": "https://bitcoinmagazine.com/videos/sam-callahan-bitcoin-doesnt-need-rate-cuts-to-succeed",
+     "date": "2026-10-20T12:40:11+00:00",
+     "summary": "Bitcoin Magazine Sam Callahan: Bitcoin Doesn&#8217;t Need Rate Cuts to Succeed The USD lost 20% purchasing power in 5 years. Sam Callahan breaks down financial repression, core PCE spikes, and the U.S. bond market's historic drawdown. This post Sam Callahan: Bitcoin..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T12:40:11+00:00",
+   "last_seen": "2026-10-20T12:40:11+00:00",
+   "summary": "Bitcoin Magazine Sam Callahan: Bitcoin Doesn&#8217;t Need Rate Cuts to Succeed The USD lost 20% purchasing power in 5 years. Sam Callahan breaks down financial repression, core PCE spikes, and the U.S. bond market's historic drawdown. This post Sam Callahan: Bitcoin...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "eecaf77848",
+   "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
+   "date": "2026-10-20T12:38:28+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Drift exploiter sends $61M ETH to Tornado Cash, holds $194M",
+     "url": "https://cointelegraph.com/news/drift-exploiter-eth-tornado-cash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T12:38:28+00:00",
+     "summary": "The April 1 hack caused about $295 million in losses and was later attributed to a North Korean threat group in a Mandiant investigation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T12:38:28+00:00",
+   "last_seen": "2026-10-20T12:38:28+00:00",
+   "summary": "The April 1 hack caused about $295 million in losses and was later attributed to a North Korean threat group in a Mandiant investigation.",
+   "tags": [
+    "ethereum",
+    "security"
+   ]
+  },
+  {
+   "id": "37c1a0e78c",
+   "title": "Michael Howell: Bitcoin as the Apex Liquidity Asset",
+   "date": "2026-10-20T12:33:35+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Michael Howell: Bitcoin as the Apex Liquidity Asset",
+     "url": "https://bitcoinmagazine.com/videos/michael-howell-bitcoin-as-the-apex-liquidity-asset",
+     "date": "2026-10-20T12:33:35+00:00",
+     "summary": "Bitcoin Magazine Michael Howell: Bitcoin as the Apex Liquidity Asset CrossBorder Capital's Michael Howell explains why global liquidity drives markets and why Bitcoin is emerging as the apex asset in a debasement world. This post Michael Howell: Bitcoin as the Apex Liquidity..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T12:33:35+00:00",
+   "last_seen": "2026-10-20T12:33:35+00:00",
+   "summary": "Bitcoin Magazine Michael Howell: Bitcoin as the Apex Liquidity Asset CrossBorder Capital's Michael Howell explains why global liquidity drives markets and why Bitcoin is emerging as the apex asset in a debasement world. This post Michael Howell: Bitcoin as the Apex Liquidity...",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
+  {
+   "id": "5a8949bac2",
+   "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+   "date": "2026-10-20T12:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Tx launches USTX stablecoin to pull RWA liquidity onto its chain",
+     "url": "https://cointelegraph.com/news/tx-ustx-stablecoin-rwa-liquidity-chain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T12:30:00+00:00",
+     "summary": "The Brale-issued token can be minted with USDC from eight networks and is designed to settle tokenized stocks and other assets on tx."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T12:30:00+00:00",
+   "last_seen": "2026-10-20T12:30:00+00:00",
+   "summary": "The Brale-issued token can be minted with USDC from eight networks and is designed to settle tokenized stocks and other assets on tx.",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "4153d57696",
+   "title": "Lloyds and Barclays among UK banks named in crypto transfer complaints, advocacy group says",
+   "date": "2026-10-20T12:13:44+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Lloyds and Barclays among UK banks named in crypto transfer complaints, advocacy group says",
+     "url": "https://cointelegraph.com/news/uk-banks-crypto-transfer-complaints-stand-with-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T12:13:44+00:00",
+     "summary": "UK banks are facing scrutiny over crypto transfer limits and bans as Stand With Crypto reports thousands of complaints ahead of the country\u2019s 2027 regulatory regime."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T12:13:44+00:00",
+   "last_seen": "2026-10-20T12:13:44+00:00",
+   "summary": "UK banks are facing scrutiny over crypto transfer limits and bans as Stand With Crypto reports thousands of complaints ahead of the country\u2019s 2027 regulatory regime.",
+   "tags": []
+  },
+  {
+   "id": "ac1b583f10",
+   "title": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
+   "date": "2026-10-20T12:06:44+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Nine Blue Chip Companies Say No to Tokenized Stocks",
+     "url": "https://decrypt.co/381399/morning-minute-nine-blue-chip-companies-say-no-to-tokenized-stocks",
+     "date": "2026-10-20T12:06:44+00:00",
+     "summary": "If companies are objecting, does that deflate the tokenized stock hopes before they begin to materialize? And who is impacted the most?"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T12:06:44+00:00",
+   "last_seen": "2026-10-20T12:06:44+00:00",
+   "summary": "If companies are objecting, does that deflate the tokenized stock hopes before they begin to materialize? And who is impacted the most?",
+   "tags": []
+  },
+  {
+   "id": "3fc26b5bc0",
+   "title": "Bitcoin fell 1.3% while Nasdaq-100 lost 5.5% in last week\u2019s tech selloff",
+   "date": "2026-10-20T11:50:45+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin fell 1.3% while Nasdaq-100 lost 5.5% in last week\u2019s tech selloff",
+     "url": "https://cryptoslate.com/bitcoin-holds-up-as-hedge-funds-dump-tech-at-fastest-pace-in-a-decade/",
+     "date": "2026-10-20T11:50:45+00:00",
+     "summary": "Bitcoin lost less than the Nasdaq-100 in last week&#039;s tech selloff. Hedge funds cut technology positions at the fastest pace since at least 2016 over the five trading sessions through Oct. 15, according to a report citing Goldman Sachs prime brokerage data. The Nasdaq-100..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T11:50:45+00:00",
+   "last_seen": "2026-10-20T11:50:45+00:00",
+   "summary": "Bitcoin lost less than the Nasdaq-100 in last week&#039;s tech selloff. Hedge funds cut technology positions at the fastest pace since at least 2016 over the five trading sessions through Oct. 15, according to a report citing Goldman Sachs prime brokerage data. The Nasdaq-100...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "927f8e3596",
    "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
@@ -234,11 +444,18 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/finma-approves-first-swiss-retail-bitcoin-etf",
      "date": "2026-10-20T10:09:57+00:00",
      "summary": "The regulator granted an exemption from diversification rules while requiring custody safeguards and clear warnings about volatility and losses."
+    },
+    {
+     "source": "The Block",
+     "title": "Swiss regulator FINMA approves country\u2019s first spot bitcoin ETF for retail investors",
+     "url": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
+     "date": "2026-10-20T12:15:05+00:00",
+     "summary": "FINMA approved Switzerland's first retail bitcoin ETF, following earlier crypto ETP listings and a fund restricted to qualified investors."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-20T10:09:57+00:00",
-   "last_seen": "2026-10-20T10:09:57+00:00",
+   "last_seen": "2026-10-20T12:15:05+00:00",
    "summary": "The regulator granted an exemption from diversification rules while requiring custody safeguards and clear warnings about volatility and losses.",
    "tags": [
     "bitcoin",
@@ -1135,12 +1352,19 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/super-league-shareholders-back-metaplanet-s-2-100-btc-investment",
      "date": "2026-10-19T23:18:24+00:00",
      "summary": "The gaming-media company plans to become Superplanet, a Nasdaq-listed US Bitcoin treasury platform, with closing expected in Q4 2026."
+    },
+    {
+     "source": "CryptoSlate",
+     "title": "Super League shareholders approve Metaplanet\u2019s 2,100 BTC investment",
+     "url": "https://cryptoslate.com/metaplanets-3-4-billion-bitcoin-financing-plan-takes-major-step-toward-wall-street/",
+     "date": "2026-10-20T12:50:21+00:00",
+     "summary": "Shareholders cleared a condition for Metaplanet&#039;s investment, with the Superplanet name and SUPA ticker contingent on a fourth-quarter closing. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-10-19T19:32:17+00:00",
-   "last_seen": "2026-10-19T23:18:24+00:00",
-   "summary": "Bitcoin Magazine Super League Stockholders Approve Metaplanet&#8217;s 2,100 BTC Investment, Paving Way for &#8216;Superplanet&#8217; Japanese bitcoin giant Metaplanet is acquiring around 96% of Nasdaq-listed Super League. This post Super League Stockholders Approve...",
+   "last_seen": "2026-10-20T12:50:21+00:00",
+   "summary": "Shareholders cleared a condition for Metaplanet&#039;s investment, with the Superplanet name and SUPA ticker contingent on a fourth-quarter closing. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
    "tags": [
     "bitcoin",
     "macro"
@@ -1200,12 +1424,19 @@
      "url": "https://thedefiant.io/news/regulation/france-s-stablecoin-swap-tax-faces-oct-20-budget-vote",
      "date": "2026-10-19T19:12:04+00:00",
      "summary": "Deputies approved the amendment by one vote. If enacted, it would end tax deferral for conversions into single-currency e-money tokens from January 2027."
+    },
+    {
+     "source": "The Defiant",
+     "title": "France Moves Budget Vote Carrying Stablecoin Tax to Nov. 3",
+     "url": "https://thedefiant.io/news/regulation/france-moves-budget-vote-carrying-stablecoin-tax-to-nov-3",
+     "date": "2026-10-20T11:53:34+00:00",
+     "summary": "The proposal would end tax deferral on gains from swaps into single-currency stablecoins from January 2027. It remains subject to further parliamentary votes."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-10-19T19:12:04+00:00",
-   "last_seen": "2026-10-19T19:12:04+00:00",
-   "summary": "Deputies approved the amendment by one vote. If enacted, it would end tax deferral for conversions into single-currency e-money tokens from January 2027.",
+   "last_seen": "2026-10-20T11:53:34+00:00",
+   "summary": "The proposal would end tax deferral on gains from swaps into single-currency stablecoins from January 2027. It remains subject to further parliamentary votes.",
    "tags": [
     "stablecoins"
    ]

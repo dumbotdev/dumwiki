@@ -1,6 +1,65 @@
 {
- "updated": "2026-10-20T14:54:24.320906+00:00",
+ "updated": "2026-10-20T15:52:42.898490+00:00",
  "events": [
+  {
+   "id": "9cdcb49f9d",
+   "title": "XRP Ledger\u2019s booming activity faces scrutiny as 110 bot wallets dominate RLUSD payments",
+   "date": "2026-10-20T15:20:21+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP Ledger\u2019s booming activity faces scrutiny as 110 bot wallets dominate RLUSD payments",
+     "url": "https://cryptoslate.com/xrp-ledgers-booming-activity-faces-scrutiny-as-110-bot-wallets-dominate-rlusd-payments/",
+     "date": "2026-10-20T15:20:21+00:00",
+     "summary": "Bitquery&#039;s September 19\u2013October 18 study separates automated counts from billions in larger transfers, including issuer flows. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T15:20:21+00:00",
+   "last_seen": "2026-10-20T15:20:21+00:00",
+   "summary": "Bitquery&#039;s September 19\u2013October 18 study separates automated counts from billions in larger transfers, including issuer flows. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "e95c676e98",
+   "title": "Lulo Says Boost Deposits Face 6.4% Drawdown From Neutrl Exposure",
+   "date": "2026-10-20T15:18:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Lulo Says Boost Deposits Face 6.4% Drawdown From Neutrl Exposure",
+     "url": "https://thedefiant.io/news/defi/lulo-says-boost-deposits-face-6-4-drawdown-from-neutrl-exposure",
+     "date": "2026-10-20T15:18:18+00:00",
+     "summary": "Protected deposits are unaffected, Lulo says, while Neutrl's redemption contract offers 0.51 USDC per NUSD."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T15:18:18+00:00",
+   "last_seen": "2026-10-20T15:18:18+00:00",
+   "summary": "Protected deposits are unaffected, Lulo says, while Neutrl's redemption contract offers 0.51 USDC per NUSD.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "002c825edd",
+   "title": "Celestia Activates Fibre, Opening Direct Validator Uploads for Rollups",
+   "date": "2026-10-20T15:11:45+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Celestia Activates Fibre, Opening Direct Validator Uploads for Rollups",
+     "url": "https://thedefiant.io/news/infrastructure/celestia-activates-fibre-opening-direct-validator-uploads-for-rollups",
+     "date": "2026-10-20T15:11:45+00:00",
+     "summary": "The initial release allows 128 MiB blobs and 200 Fibre submissions per block, using smaller uploads and a slower block cadence than its terabit benchmark."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T15:11:45+00:00",
+   "last_seen": "2026-10-20T15:11:45+00:00",
+   "summary": "The initial release allows 128 MiB blobs and 200 Fibre submissions per block, using smaller uploads and a slower block cadence than its terabit benchmark.",
+   "tags": []
+  },
   {
    "id": "34c7cecd66",
    "title": "1inch Winds Down Card, Urges Balance Withdrawals by Dec. 18",

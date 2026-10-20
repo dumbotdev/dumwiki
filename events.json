@@ -1,6 +1,157 @@
 {
- "updated": "2026-10-20T13:58:24.314240+00:00",
+ "updated": "2026-10-20T14:54:24.320906+00:00",
  "events": [
+  {
+   "id": "34c7cecd66",
+   "title": "1inch Winds Down Card, Urges Balance Withdrawals by Dec. 18",
+   "date": "2026-10-20T14:47:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "1inch Winds Down Card, Urges Balance Withdrawals by Dec. 18",
+     "url": "https://thedefiant.io/converge/cefi/1inch-winds-down-card-urges-balance-withdrawals-by-dec-18",
+     "date": "2026-10-20T14:47:50+00:00",
+     "summary": "Existing cards and accounts remain accessible for now, but the issuer and provider\u2014not 1inch\u2014control when card functionality ends."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T14:47:50+00:00",
+   "last_seen": "2026-10-20T14:47:50+00:00",
+   "summary": "Existing cards and accounts remain accessible for now, but the issuer and provider\u2014not 1inch\u2014control when card functionality ends.",
+   "tags": []
+  },
+  {
+   "id": "412a1db45c",
+   "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
+   "date": "2026-10-20T14:31:29+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
+     "url": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
+     "date": "2026-10-20T14:31:29+00:00",
+     "summary": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T14:31:29+00:00",
+   "last_seen": "2026-10-20T14:31:29+00:00",
+   "summary": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "a2e6bae66e",
+   "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
+   "date": "2026-10-20T14:28:39+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
+     "url": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
+     "date": "2026-10-20T14:28:39+00:00",
+     "summary": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T14:28:39+00:00",
+   "last_seen": "2026-10-20T14:28:39+00:00",
+   "summary": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "03d6e33056",
+   "title": "Sberbank Gains Russian Crypto Exchange Authorization Ahead of Planned December Launch",
+   "date": "2026-10-20T14:19:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Sberbank Gains Russian Crypto Exchange Authorization Ahead of Planned December Launch",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/sberbank-gains-russian-crypto-exchange-authorization-ahead-of-planned-december-launch",
+     "date": "2026-10-20T14:19:56+00:00",
+     "summary": "The bank plans to offer Bitcoin, Ether and USDT through its existing apps, while Russian rules impose testing and purchase limits on non-qualified investors."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T14:19:56+00:00",
+   "last_seen": "2026-10-20T14:19:56+00:00",
+   "summary": "The bank plans to offer Bitcoin, Ether and USDT through its existing apps, while Russian rules impose testing and purchase limits on non-qualified investors.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "605aa26364",
+   "title": "French Lawmakers Back Stablecoin Swap Tax by Just One Vote",
+   "date": "2026-10-20T14:04:10+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "French Lawmakers Back Stablecoin Swap Tax by Just One Vote",
+     "url": "https://decrypt.co/381413/french-lawmakers-back-stablecoin-swap-tax-by-just-one-vote",
+     "date": "2026-10-20T14:04:10+00:00",
+     "summary": "The amendment would make swapping crypto into euro or dollar stablecoins taxable in France from 2027, with gains measured coin by coin."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T14:04:10+00:00",
+   "last_seen": "2026-10-20T14:04:10+00:00",
+   "summary": "The amendment would make swapping crypto into euro or dollar stablecoins taxable in France from 2027, with gains measured coin by coin.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "69d60ab95d",
+   "title": "Crypto wallet security crisis deepens as NGRAVE users face $2.65 million phishing attack",
+   "date": "2026-10-20T14:00:51+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Crypto wallet security crisis deepens as NGRAVE users face $2.65 million phishing attack",
+     "url": "https://cryptoslate.com/crypto-wallet-security-crisis-deepens-as-ngrave-users-face-2-65-million-phishing-attack/",
+     "date": "2026-10-20T14:00:51+00:00",
+     "summary": "Bitquery follows funds into XMR1 purchases on Hyperliquid, but cannot confirm every wallet belonged to an NGRAVE user. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T14:00:51+00:00",
+   "last_seen": "2026-10-20T14:00:51+00:00",
+   "summary": "Bitquery follows funds into XMR1 purchases on Hyperliquid, but cannot confirm every wallet belonged to an NGRAVE user. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "6cb9d82a3e",
+   "title": "Injective partners with BDACS to bring Korean won stablecoin to RWA ecosystem",
+   "date": "2026-10-20T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Injective partners with BDACS to bring Korean won stablecoin to RWA ecosystem",
+     "url": "https://www.theblock.co/news/markets/2026-10-20-injective-partners-bdacs-418883",
+     "date": "2026-10-20T14:00:00+00:00",
+     "summary": "The move comes amid South Korea's regulatory developments to establish a framework for Korean won-denominated stablecoins."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T14:00:00+00:00",
+   "last_seen": "2026-10-20T14:00:00+00:00",
+   "summary": "The move comes amid South Korea's regulatory developments to establish a framework for Korean won-denominated stablecoins.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "63bea5b275",
    "title": "Blockchain.com Launches Options Trading on Seven Cryptoassets",

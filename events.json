@@ -1,6 +1,172 @@
 {
- "updated": "2026-10-20T20:52:42.955538+00:00",
+ "updated": "2026-10-20T21:51:12.324564+00:00",
  "events": [
+  {
+   "id": "bb2f07be1a",
+   "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+   "date": "2026-10-20T21:46:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",
+     "url": "https://decrypt.co/381467/openai-buys-orchestra-bio-ai-agents-drug-development",
+     "date": "2026-10-20T21:46:04+00:00",
+     "summary": "The ChatGPT maker is folding Orchestra\u2019s drug-program agents into Rosalind, its life sciences suite, betting AI can shave time off the decade-plus it takes to bring a medicine to patients."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T21:46:04+00:00",
+   "last_seen": "2026-10-20T21:46:04+00:00",
+   "summary": "The ChatGPT maker is folding Orchestra\u2019s drug-program agents into Rosalind, its life sciences suite, betting AI can shave time off the decade-plus it takes to bring a medicine to patients.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "cad2a911ac",
+   "title": "Drift hacker washes $63M through Tornado Cash, leaving recovery claims in limbo",
+   "date": "2026-10-20T21:40:15+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Drift hacker washes $63M through Tornado Cash, leaving recovery claims in limbo",
+     "url": "https://cryptoslate.com/drift-hacker-washes-63m-through-tornado-cash-leaving-recovery-claims-in-limbo/",
+     "date": "2026-10-20T21:40:15+00:00",
+     "summary": "The address Etherscan labels \u201cDrift Exploiter 5\u201d made 258 deposits on October 20, nearly emptying this wallet. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T21:40:15+00:00",
+   "last_seen": "2026-10-20T21:40:15+00:00",
+   "summary": "The address Etherscan labels \u201cDrift Exploiter 5\u201d made 258 deposits on October 20, nearly emptying this wallet. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "5ff8c2c242",
+   "title": "NEAR Opens Vote to Cut Token Issuance to 1.6%",
+   "date": "2026-10-20T21:38:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "NEAR Opens Vote to Cut Token Issuance to 1.6%",
+     "url": "https://thedefiant.io/news/blockchains/near-opens-vote-to-cut-token-issuance-to-1-6",
+     "date": "2026-10-20T21:38:18+00:00",
+     "summary": "HSP-029 would lower issuance over 24 months after a 90-day grace period, but validators must separately adopt a network upgrade."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T21:38:18+00:00",
+   "last_seen": "2026-10-20T21:38:18+00:00",
+   "summary": "HSP-029 would lower issuance over 24 months after a 90-day grace period, but validators must separately adopt a network upgrade.",
+   "tags": []
+  },
+  {
+   "id": "36fb78ded3",
+   "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+   "date": "2026-10-20T21:19:15+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Utah AG sues Kalshi, pursues profits from prediction market company",
+     "url": "https://cointelegraph.com/news/utah-lawsuit-kalshi-susquehanna-prediction-markets-illegal-bets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T21:19:15+00:00",
+     "summary": "Derek Brown likened the prediction market company to a \u201cpublic nuisance\u201c that was \u201ccausing a significant and substantial ongoing harm\u201c to state residents."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T21:19:15+00:00",
+   "last_seen": "2026-10-20T21:19:15+00:00",
+   "summary": "Derek Brown likened the prediction market company to a \u201cpublic nuisance\u201c that was \u201ccausing a significant and substantial ongoing harm\u201c to state residents.",
+   "tags": []
+  },
+  {
+   "id": "5d50d4896b",
+   "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+   "date": "2026-10-20T21:16:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "JPMorgan Puts a Number on Bitcoin for the First Time: 10% a Year, With a Big Caveat",
+     "url": "https://decrypt.co/381464/jpmorgan-bitcoin-forecast-first-time-stocks-gold",
+     "date": "2026-10-20T21:16:04+00:00",
+     "summary": "J.P. Morgan Asset Management\u2019s 2027 Long-Term Capital Market Assumptions project a 10% annual return for Bitcoin over 10 to 15 years, though the firm isn\u2019t adding it to its main portfolio models."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T21:16:04+00:00",
+   "last_seen": "2026-10-20T21:16:04+00:00",
+   "summary": "J.P. Morgan Asset Management\u2019s 2027 Long-Term Capital Market Assumptions project a 10% annual return for Bitcoin over 10 to 15 years, though the firm isn\u2019t adding it to its main portfolio models.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "256f0e9a56",
+   "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+   "date": "2026-10-20T21:12:21+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "U.S. CFTC sets agenda for AI forum, exploring trading and agentic finance",
+     "url": "https://www.coindesk.com/policy/2026/10/20/u-s-cftc-sets-agenda-for-ai-forum-exploring-trading-and-agentic-finance",
+     "date": "2026-10-20T21:12:21+00:00",
+     "summary": "A Commodity Futures Trading Commission task force is scheduled for October 28 to talk about how the latest \"super intelligence\" technology may impact markets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T21:12:21+00:00",
+   "last_seen": "2026-10-20T21:12:21+00:00",
+   "summary": "A Commodity Futures Trading Commission task force is scheduled for October 28 to talk about how the latest \"super intelligence\" technology may impact markets.",
+   "tags": [
+    "ai",
+    "regulation"
+   ]
+  },
+  {
+   "id": "f415a5dd84",
+   "title": "Liquid Network Announces Final Stages of Recovery Following Massive Hack",
+   "date": "2026-10-20T21:10:58+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Liquid Network Announces Final Stages of Recovery Following Massive Hack",
+     "url": "https://bitcoinmagazine.com/news/liquid-network-announces-recovery",
+     "date": "2026-10-20T21:10:58+00:00",
+     "summary": "Bitcoin Magazine Liquid Network Announces Final Stages of Recovery Following Massive Hack One month after hackers pinched 4,000 bitcoins, the Liquid Network is up and running again. This post Liquid Network Announces Final Stages of Recovery Following Massive Hack first appeared..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T21:10:58+00:00",
+   "last_seen": "2026-10-20T21:10:58+00:00",
+   "summary": "Bitcoin Magazine Liquid Network Announces Final Stages of Recovery Following Massive Hack One month after hackers pinched 4,000 bitcoins, the Liquid Network is up and running again. This post Liquid Network Announces Final Stages of Recovery Following Massive Hack first appeared...",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "2b99fbb5db",
+   "title": "Swiss Financial Regulator Gives Green Light to Country\u2019s First Bitcoin ETF",
+   "date": "2026-10-20T20:53:32+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Swiss Financial Regulator Gives Green Light to Country\u2019s First Bitcoin ETF",
+     "url": "https://bitcoinmagazine.com/news/swiss-regulator-green-lights-bitcoin-etf",
+     "date": "2026-10-20T20:53:32+00:00",
+     "summary": "Bitcoin Magazine Swiss Financial Regulator Gives Green Light to Country\u2019s First Bitcoin ETF Bitcoin exchange-traded funds were only available to institutional investors \u2014 until now. This post Swiss Financial Regulator Gives Green Light to Country\u2019s First Bitcoin ETF first..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T20:53:32+00:00",
+   "last_seen": "2026-10-20T20:53:32+00:00",
+   "summary": "Bitcoin Magazine Swiss Financial Regulator Gives Green Light to Country\u2019s First Bitcoin ETF Bitcoin exchange-traded funds were only available to institutional investors \u2014 until now. This post Swiss Financial Regulator Gives Green Light to Country\u2019s First Bitcoin ETF first...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "regulation"
+   ]
+  },
   {
    "id": "e4bf8e5b55",
    "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",

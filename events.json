@@ -1,6 +1,91 @@
 {
- "updated": "2026-10-20T17:47:53.240465+00:00",
+ "updated": "2026-10-20T19:00:28.111178+00:00",
  "events": [
+  {
+   "id": "d548fa5942",
+   "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+   "date": "2026-10-20T18:31:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+     "url": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
+     "date": "2026-10-20T18:31:04+00:00",
+     "summary": "U.S. spot Bitcoin ETFs took in $526.7 million on Monday, their biggest day since Sept. 22. BlackRock's IBIT supplied all of it while Fidelity and Grayscale funds bled."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T18:31:04+00:00",
+   "last_seen": "2026-10-20T18:31:04+00:00",
+   "summary": "U.S. spot Bitcoin ETFs took in $526.7 million on Monday, their biggest day since Sept. 22. BlackRock's IBIT supplied all of it while Fidelity and Grayscale funds bled.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "0151f3016e",
+   "title": "OKX-ICE\u2019s Andrew Cuomo calls issuer objections a \u2018natural response\u2019 to tokenized stock plans",
+   "date": "2026-10-20T18:26:29+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "OKX-ICE\u2019s Andrew Cuomo calls issuer objections a \u2018natural response\u2019 to tokenized stock plans",
+     "url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+     "date": "2026-10-20T18:26:29+00:00",
+     "summary": "The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T18:26:29+00:00",
+   "last_seen": "2026-10-20T18:26:29+00:00",
+   "summary": "The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "9b81c05a38",
+   "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+   "date": "2026-10-20T18:14:28+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+     "url": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
+     "date": "2026-10-20T18:14:28+00:00",
+     "summary": "J.P. Morgan Asset Management's first long-term bitcoin forecast projects a 10% annual return but flags 55% volatility as a barrier to portfolio adoption."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T18:14:28+00:00",
+   "last_seen": "2026-10-20T18:14:28+00:00",
+   "summary": "J.P. Morgan Asset Management's first long-term bitcoin forecast projects a 10% annual return but flags 55% volatility as a barrier to portfolio adoption.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "67dfe79306",
+   "title": "Elon Musk and Anthropic unveil AI wealth-sharing plans that could reach over $110 billion",
+   "date": "2026-10-20T18:00:52+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Elon Musk and Anthropic unveil AI wealth-sharing plans that could reach over $110 billion",
+     "url": "https://cryptoslate.com/elon-musk-and-anthropic-unveil-ai-wealth-sharing-plans-that-could-reach-over-110-billion/",
+     "date": "2026-10-20T18:00:52+00:00",
+     "summary": "Musk&#039;s 2027 promise concerns his own holdings, while Anthropic&#039;s initial allocation needs stockholder approval and future additions remain discretionary. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T18:00:52+00:00",
+   "last_seen": "2026-10-20T18:00:52+00:00",
+   "summary": "Musk&#039;s 2027 promise concerns his own holdings, while Anthropic&#039;s initial allocation needs stockholder approval and future additions remain discretionary. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The...",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "12c8e70ac6",
    "title": "Ethereum Staking Hits Record 43.8 Million ETH, Bitwise Says",

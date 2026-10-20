@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-20T07:06:17.726936+00:00",
+ "updated": "2026-10-20T07:56:27.733108+00:00",
  "events": [
+  {
+   "id": "8048c45b1b",
+   "title": "Lido Engineer Warns of Staking Deposit Hijack at Glamsterdam",
+   "date": "2026-10-20T07:49:17+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Lido Engineer Warns of Staking Deposit Hijack at Glamsterdam",
+     "url": "https://thedefiant.io/news/security/lido-engineer-warns-of-staking-deposit-hijack-at-glamsterdam",
+     "date": "2026-10-20T07:49:17+00:00",
+     "summary": "The related consensus-specs issue was closed as \u2018not planned\u2019; its author points to pre-deposit checks as a defense."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T07:49:17+00:00",
+   "last_seen": "2026-10-20T07:49:17+00:00",
+   "summary": "The related consensus-specs issue was closed as \u2018not planned\u2019; its author points to pre-deposit checks as a defense.",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "b4a541ec87",
    "title": "BlackRock\u2019s IBIT Bitcoin ETF draws $665 million inflow, highest since October 2025",

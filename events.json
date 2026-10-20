@@ -1,6 +1,226 @@
 {
- "updated": "2026-10-20T16:52:24.243683+00:00",
+ "updated": "2026-10-20T17:47:53.240465+00:00",
  "events": [
+  {
+   "id": "12c8e70ac6",
+   "title": "Ethereum Staking Hits Record 43.8 Million ETH, Bitwise Says",
+   "date": "2026-10-20T17:45:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ethereum Staking Hits Record 43.8 Million ETH, Bitwise Says",
+     "url": "https://thedefiant.io/news/blockchains/ethereum-staking-hits-record-43-8-million-eth-bitwise-says",
+     "date": "2026-10-20T17:45:11+00:00",
+     "summary": "Ethereum's gross annualized staking yield fell to 2.63% from 2.81%, while Solana also saw more stake and lower returns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T17:45:11+00:00",
+   "last_seen": "2026-10-20T17:45:11+00:00",
+   "summary": "Ethereum's gross annualized staking yield fell to 2.63% from 2.81%, while Solana also saw more stake and lower returns.",
+   "tags": [
+    "defi",
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "a503299576",
+   "title": "Bitcoin's Next Move: Here's What to Watch",
+   "date": "2026-10-20T17:45:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin's Next Move: Here's What to Watch",
+     "url": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
+     "date": "2026-10-20T17:45:04+00:00",
+     "summary": "Bitcoin trades just below $83,000, above both the short-term and long-term moving averages. Here are the levels traders are watching."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T17:45:04+00:00",
+   "last_seen": "2026-10-20T17:45:04+00:00",
+   "summary": "Bitcoin trades just below $83,000, above both the short-term and long-term moving averages. Here are the levels traders are watching.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "fa7a3726ff",
+   "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+   "date": "2026-10-20T17:38:03+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+     "url": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T17:38:03+00:00",
+     "summary": "The Bitcoin treasury company could acquire an estimated 7,372 BTC with its net proceeds, potentially surpassing Metaplanet\u2019s holdings if it allocates the full amount."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T17:38:03+00:00",
+   "last_seen": "2026-10-20T17:38:03+00:00",
+   "summary": "The Bitcoin treasury company could acquire an estimated 7,372 BTC with its net proceeds, potentially surpassing Metaplanet\u2019s holdings if it allocates the full amount.",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "4b72c2a317",
+   "title": "COMP Jumps 27%, Outpacing Bitcoin and Ether",
+   "date": "2026-10-20T17:28:52+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "COMP Jumps 27%, Outpacing Bitcoin and Ether",
+     "url": "https://thedefiant.io/news/tokens/comp-jumps-27-outpacing-bitcoin-and-ether",
+     "date": "2026-10-20T17:28:52+00:00",
+     "summary": "COMP also led both benchmarks over seven and 28 days, while Compound\u2019s total value locked remained below its late-September level."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T17:28:52+00:00",
+   "last_seen": "2026-10-20T17:28:52+00:00",
+   "summary": "COMP also led both benchmarks over seven and 28 days, while Compound\u2019s total value locked remained below its late-September level.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "76d8d88c34",
+   "title": "Bitcoin Could Outperform Most Assets, JPMorgan Says \u2014 But the Bank Still Won\u2019t Recommend It",
+   "date": "2026-10-20T17:27:14+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Could Outperform Most Assets, JPMorgan Says \u2014 But the Bank Still Won\u2019t Recommend It",
+     "url": "https://bitcoinmagazine.com/news/jpmorgan-says-bitcoin-could-outperform",
+     "date": "2026-10-20T17:27:14+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Could Outperform Most Assets, JPMorgan Says \u2014 But the Bank Still Won\u2019t Recommend It The bank has said bitcoin could do better than stocks and bonds over the next 10 years but says it is still too volatile. This post Bitcoin Could Outperform Most Assets,..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T17:27:14+00:00",
+   "last_seen": "2026-10-20T17:27:14+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Could Outperform Most Assets, JPMorgan Says \u2014 But the Bank Still Won\u2019t Recommend It The bank has said bitcoin could do better than stocks and bonds over the next 10 years but says it is still too volatile. This post Bitcoin Could Outperform Most Assets,...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "876eca4b50",
+   "title": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation",
+   "date": "2026-10-20T17:11:47+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation",
+     "url": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
+     "date": "2026-10-20T17:11:47+00:00",
+     "summary": "Nectar Group, the developer of bitcoin income platform HoneyB, has raised $5 million in a seed funding round."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T17:11:47+00:00",
+   "last_seen": "2026-10-20T17:11:47+00:00",
+   "summary": "Nectar Group, the developer of bitcoin income platform HoneyB, has raised $5 million in a seed funding round.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "funding"
+   ]
+  },
+  {
+   "id": "5767fa75db",
+   "title": "Utah Sues Kalshi and Susquehanna Firms to Halt Alleged Illegal Betting",
+   "date": "2026-10-20T17:07:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Utah Sues Kalshi and Susquehanna Firms to Halt Alleged Illegal Betting",
+     "url": "https://thedefiant.io/news/regulation/utah-sues-kalshi-and-susquehanna-firms-to-halt-alleged-illegal-betting",
+     "date": "2026-10-20T17:07:44+00:00",
+     "summary": "The state seeks injunctions, restitution and profits, alleging that market makers helped sustain wagering despite Kalshi\u2019s federal court defeat."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T17:07:44+00:00",
+   "last_seen": "2026-10-20T17:07:44+00:00",
+   "summary": "The state seeks injunctions, restitution and profits, alleging that market makers helped sustain wagering despite Kalshi\u2019s federal court defeat.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "09de03513e",
+   "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
+   "date": "2026-10-20T17:03:26+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
+     "url": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
+     "date": "2026-10-20T17:03:26+00:00",
+     "summary": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T17:03:26+00:00",
+   "last_seen": "2026-10-20T17:03:26+00:00",
+   "summary": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "5339a9befd",
+   "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+   "date": "2026-10-20T17:02:31+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+     "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
+     "date": "2026-10-20T17:02:31+00:00",
+     "summary": "Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T17:02:31+00:00",
+   "last_seen": "2026-10-20T17:02:31+00:00",
+   "summary": "Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "1fc7c74f1c",
+   "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+   "date": "2026-10-20T16:47:48+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+     "url": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T16:47:48+00:00",
+     "summary": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T16:47:48+00:00",
+   "last_seen": "2026-10-20T16:47:48+00:00",
+   "summary": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins.",
+   "tags": [
+    "legal",
+    "stablecoins"
+   ]
+  },
   {
    "id": "a3357a5c3b",
    "title": "Bitcoin\u2019s next selloff could be amplified by the traders still betting on its recovery",

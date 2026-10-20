@@ -1,6 +1,153 @@
 {
- "updated": "2026-10-20T13:05:55.675130+00:00",
+ "updated": "2026-10-20T13:58:24.314240+00:00",
  "events": [
+  {
+   "id": "63bea5b275",
+   "title": "Blockchain.com Launches Options Trading on Seven Cryptoassets",
+   "date": "2026-10-20T13:56:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Blockchain.com Launches Options Trading on Seven Cryptoassets",
+     "url": "https://thedefiant.io/news/cefi/blockchain-com-launches-options-trading-on-seven-cryptoassets",
+     "date": "2026-10-20T13:56:56+00:00",
+     "summary": "Buyers fund contracts in USDC and cannot exit before expiry. US and UK residents are among those excluded."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T13:56:56+00:00",
+   "last_seen": "2026-10-20T13:56:56+00:00",
+   "summary": "Buyers fund contracts in USDC and cannot exit before expiry. US and UK residents are among those excluded.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "e910eee3fc",
+   "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+   "date": "2026-10-20T13:35:08+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+     "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
+     "date": "2026-10-20T13:35:08+00:00",
+     "summary": "The court injunctions apply strictly to users within the AIFC and do not extend across the rest of Kazakhstan."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T13:35:08+00:00",
+   "last_seen": "2026-10-20T13:35:08+00:00",
+   "summary": "The court injunctions apply strictly to users within the AIFC and do not extend across the rest of Kazakhstan.",
+   "tags": [
+    "exchanges",
+    "legal"
+   ]
+  },
+  {
+   "id": "5f1caf4d3f",
+   "title": "MEXC to End Services for Users in Russia and Belarus",
+   "date": "2026-10-20T13:32:03+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "MEXC to End Services for Users in Russia and Belarus",
+     "url": "https://thedefiant.io/news/cefi/mexc-to-end-services-for-users-in-russia-and-belarus",
+     "date": "2026-10-20T13:32:03+00:00",
+     "summary": "Affected customers will receive individual deadlines for closing positions and withdrawing assets. Users without a notice can continue subject to the exchange\u2019s terms."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T13:32:03+00:00",
+   "last_seen": "2026-10-20T13:32:03+00:00",
+   "summary": "Affected customers will receive individual deadlines for closing positions and withdrawing assets. Users without a notice can continue subject to the exchange\u2019s terms.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "7d12e3bbef",
+   "title": "Bitget to Buy Licensed Thai Exchange From Japan's GMO Internet",
+   "date": "2026-10-20T13:30:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitget to Buy Licensed Thai Exchange From Japan's GMO Internet",
+     "url": "https://thedefiant.io/news/cefi/bitget-to-buy-licensed-thai-exchange-from-japan-s-gmo-internet",
+     "date": "2026-10-20T13:30:18+00:00",
+     "summary": "The Japanese seller disclosed the deal to the Tokyo Stock Exchange four weeks ago, with the price withheld at the buyer's request"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T13:30:18+00:00",
+   "last_seen": "2026-10-20T13:30:18+00:00",
+   "summary": "The Japanese seller disclosed the deal to the Tokyo Stock Exchange four weeks ago, with the price withheld at the buyer's request",
+   "tags": [
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "f7651c4ab2",
+   "title": "Agents can trade 24/7 \u2014 but Yat Siu warns you could lose access at any time",
+   "date": "2026-10-20T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Agents can trade 24/7 \u2014 but Yat Siu warns you could lose access at any time",
+     "url": "https://cointelegraph.com/magazine/ai-trade-sleep-yat-siu-warns-losing-agent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T13:30:00+00:00",
+     "summary": "The Animoca Brands chairman explains that AI agents can make trades while you sleep, but users need to plan for the day they lose access to the bots."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T13:30:00+00:00",
+   "last_seen": "2026-10-20T13:30:00+00:00",
+   "summary": "The Animoca Brands chairman explains that AI agents can make trades while you sleep, but users need to plan for the day they lose access to the bots.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "590b305822",
+   "title": "Issuer Blacklists Recovered Nothing in 60 Crypto Exploits, Blockaid Finds",
+   "date": "2026-10-20T13:22:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Issuer Blacklists Recovered Nothing in 60 Crypto Exploits, Blockaid Finds",
+     "url": "https://thedefiant.io/news/security/issuer-blacklists-recovered-nothing-in-60-crypto-exploits-blockaid-finds",
+     "date": "2026-10-20T13:22:35+00:00",
+     "summary": "Victims got back $9.8 million of the $1.18 billion traced between January and August, and every dollar frozen or returned came through governance or validator action"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T13:22:35+00:00",
+   "last_seen": "2026-10-20T13:22:35+00:00",
+   "summary": "Victims got back $9.8 million of the $1.18 billion traced between January and August, and every dollar frozen or returned came through governance or validator action",
+   "tags": []
+  },
+  {
+   "id": "e5c83efa25",
+   "title": "Walt Plans AI Perpetuals Trading Through Mira, ChatGPT and Claude",
+   "date": "2026-10-20T13:22:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Walt Plans AI Perpetuals Trading Through Mira, ChatGPT and Claude",
+     "url": "https://thedefiant.io/news/defi/walt-plans-ai-perpetuals-trading-through-mira-chatgpt-and-claude",
+     "date": "2026-10-20T13:22:00+00:00",
+     "summary": "Order execution would be off by default, with AI agents restricted to a dedicated trading account that users choose to fund."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T13:22:00+00:00",
+   "last_seen": "2026-10-20T13:22:00+00:00",
+   "summary": "Order execution would be off by default, with AI agents restricted to a dedicated trading account that users choose to fund.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "2509c9fef2",
    "title": "Stablecoins move over $400 million per hour on average as off-hours transfers dominate, Coinbase and The Block study finds",
@@ -451,12 +598,19 @@
      "url": "https://www.theblock.co/news/regulation/2026-10-20-swiss-regulator-finma-approves-countrys-first-spot-bitcoin-etf-for-retail-investors-421127",
      "date": "2026-10-20T12:15:05+00:00",
      "summary": "FINMA approved Switzerland's first retail bitcoin ETF, following earlier crypto ETP listings and a fund restricted to qualified investors."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "FINMA approves Switzerland\u2019s first Bitcoin ETF for retail investors",
+     "url": "https://cointelegraph.com/news/finma-approves-switzerlands-first-bitcoin-etf-retail?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T13:04:28+00:00",
+     "summary": "The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-10-20T10:09:57+00:00",
-   "last_seen": "2026-10-20T12:15:05+00:00",
-   "summary": "The regulator granted an exemption from diversification rules while requiring custody safeguards and clear warnings about volatility and losses.",
+   "last_seen": "2026-10-20T13:04:28+00:00",
+   "summary": "The Swiss regulator cited a growing appetite for cryptocurrency investments and said that multiple fund providers have submitted Bitcoin ETF applications.",
    "tags": [
     "bitcoin",
     "etfs",

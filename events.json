@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-20T22:49:22.726093+00:00",
+ "updated": "2026-10-20T23:44:54.115502+00:00",
  "events": [
+  {
+   "id": "9b21b64db4",
+   "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+   "date": "2026-10-20T23:26:02+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",
+     "url": "https://cointelegraph.com/news/qubic-restarts-blockchain-opens-recovery-claims-after-14m-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-20T23:26:02+00:00",
+     "summary": "The network\u2019s validators approved a recovery plan and opened claims until May 1, 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T23:26:02+00:00",
+   "last_seen": "2026-10-20T23:26:02+00:00",
+   "summary": "The network\u2019s validators approved a recovery plan and opened claims until May 1, 2027.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "ca700b8c68",
+   "title": "BNB Chain burns $1.2B in October tokens, leaving real supply impact hidden",
+   "date": "2026-10-20T22:50:17+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "BNB Chain burns $1.2B in October tokens, leaving real supply impact hidden",
+     "url": "https://cryptoslate.com/bnb-chain-burns-1-2b-in-october-tokens-leaving-real-supply-impact-hidden/",
+     "date": "2026-10-20T22:50:17+00:00",
+     "summary": "October\u2019s burn retired about 30,369 more BNB than July\u2019s, while most of the dollar increase reflected a higher implied valuation per coin. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T22:50:17+00:00",
+   "last_seen": "2026-10-20T22:50:17+00:00",
+   "summary": "October\u2019s burn retired about 30,369 more BNB than July\u2019s, while most of the dollar increase reflected a higher implied valuation per coin. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "funding"
+   ]
+  },
   {
    "id": "9338d0164e",
    "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",

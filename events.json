@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-20T21:51:12.324564+00:00",
+ "updated": "2026-10-20T22:49:22.726093+00:00",
  "events": [
+  {
+   "id": "9338d0164e",
+   "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
+   "date": "2026-10-20T22:16:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "People Are Vibe Coding the Ads Out of Their Smart TVs: Here's How",
+     "url": "https://decrypt.co/381456/vibe-coding-ads-out-smart-tvs-heres-how",
+     "date": "2026-10-20T22:16:04+00:00",
+     "summary": "A viral Claude Code prompt lets Android TV owners switch off sponsored rows and tracking software and build their own home screens, with no root access and every change reversible."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T22:16:04+00:00",
+   "last_seen": "2026-10-20T22:16:04+00:00",
+   "summary": "A viral Claude Code prompt lets Android TV owners switch off sponsored rows and tracking software and build their own home screens, with no root access and every change reversible.",
+   "tags": []
+  },
   {
    "id": "bb2f07be1a",
    "title": "OpenAI Buys Orchestra Bio to Put AI Agents in Charge of Drug Development Grunt Work",

@@ -1,6 +1,90 @@
 {
- "updated": "2026-10-21T21:53:44.848472+00:00",
+ "updated": "2026-10-21T22:50:19.664663+00:00",
  "events": [
+  {
+   "id": "0f0711e1e5",
+   "title": "Obol Urges Immediate Charon Upgrade After CA Key Compromise",
+   "date": "2026-10-21T22:40:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Obol Urges Immediate Charon Upgrade After CA Key Compromise",
+     "url": "https://thedefiant.io/news/security/obol-urges-immediate-charon-upgrade-after-ca-key-compromise",
+     "date": "2026-10-21T22:40:13+00:00",
+     "summary": "The patch updates certificate checks in Go. Obol's mainnet cluster balances totaled 422,862 ETH in its latest daily snapshot."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T22:40:13+00:00",
+   "last_seen": "2026-10-21T22:40:13+00:00",
+   "summary": "The patch updates certificate checks in Go. Obol's mainnet cluster balances totaled 422,862 ETH in its latest daily snapshot.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "2908e0fb32",
+   "title": "Railway Urges All Users to Rotate Secrets After Security Incident",
+   "date": "2026-10-21T22:34:10+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Railway Urges All Users to Rotate Secrets After Security Incident",
+     "url": "https://thedefiant.io/news/security/railway-urges-all-users-to-rotate-secrets-after-security-incident",
+     "date": "2026-10-21T22:34:10+00:00",
+     "summary": "Deployments remain paused, preventing customers from updating applications with replacement credentials."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T22:34:10+00:00",
+   "last_seen": "2026-10-21T22:34:10+00:00",
+   "summary": "Deployments remain paused, preventing customers from updating applications with replacement credentials.",
+   "tags": []
+  },
+  {
+   "id": "977d53d327",
+   "title": "Why earning XRP yield through this wallet could actually cost you money",
+   "date": "2026-10-21T22:00:04+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Why earning XRP yield through this wallet could actually cost you money",
+     "url": "https://cryptoslate.com/xaman-xrp-yield-fees/",
+     "date": "2026-10-21T22:00:04+00:00",
+     "summary": "Xaman\u2019s hypothetical return example puts fee recovery near 15 months for 100 XRP, while current vault terms differ. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T22:00:04+00:00",
+   "last_seen": "2026-10-21T22:00:04+00:00",
+   "summary": "Xaman\u2019s hypothetical return example puts fee recovery near 15 months for 100 XRP, while current vault terms differ. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "e764836500",
+   "title": "American Bankers Association: OCC\u2019s GENIUS rules \u2018undermine\u2019 US Congress",
+   "date": "2026-10-21T21:53:48+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "American Bankers Association: OCC\u2019s GENIUS rules \u2018undermine\u2019 US Congress",
+     "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-21T21:53:48+00:00",
+     "summary": "Banking advocacy organizations are pushing back against the OCC\u2019s finalized rules on a stablecoin law, arguing against changes to provisions on yield."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T21:53:48+00:00",
+   "last_seen": "2026-10-21T21:53:48+00:00",
+   "summary": "Banking advocacy organizations are pushing back against the OCC\u2019s finalized rules on a stablecoin law, arguing against changes to provisions on yield.",
+   "tags": [
+    "defi",
+    "regulation",
+    "stablecoins"
+   ]
+  },
   {
    "id": "083a62bfdf",
    "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble\u2014And Compares GPUs to Airline Seats",

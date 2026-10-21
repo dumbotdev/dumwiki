@@ -1,6 +1,217 @@
 {
- "updated": "2026-10-21T10:52:57.636261+00:00",
+ "updated": "2026-10-21T11:52:50.781009+00:00",
  "events": [
+  {
+   "id": "bc8ea51f9e",
+   "title": "Lido\u2019s proposed exits would pay lenders with borrower collateral",
+   "date": "2026-10-21T11:50:55+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Lido\u2019s proposed exits would pay lenders with borrower collateral",
+     "url": "https://cryptoslate.com/lidos-proposed-exits-could-unwind-eth-loans-before-borrowers-reach-liquidation/",
+     "date": "2026-10-21T11:50:55+00:00",
+     "summary": "Fallback Exits would reduce debt alongside collateral, while healthy-position eligibility and the lender\u2019s route to ETH remain unsettled. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T11:50:55+00:00",
+   "last_seen": "2026-10-21T11:50:55+00:00",
+   "summary": "Fallback Exits would reduce debt alongside collateral, while healthy-position eligibility and the lender\u2019s route to ETH remain unsettled. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "6036ae775c",
+   "title": "Binance to Reprice bStocks Collateral While US Stock Markets Are Closed",
+   "date": "2026-10-21T11:23:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance to Reprice bStocks Collateral While US Stock Markets Are Closed",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/binance-to-reprice-bstocks-collateral-while-us-stock-markets-are-closed",
+     "date": "2026-10-21T11:23:00+00:00",
+     "summary": "The change reaches Cross Margin and both Portfolio Margin products, allowing weekend trading to weaken account buffers before underlying shares resume trading."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T11:23:00+00:00",
+   "last_seen": "2026-10-21T11:23:00+00:00",
+   "summary": "The change reaches Cross Margin and both Portfolio Margin products, allowing weekend trading to weaken account buffers before underlying shares resume trading.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "2ca7985521",
+   "title": "Bitcoin is back near $83,000. Here\u2019s how to assess its support",
+   "date": "2026-10-21T11:20:29+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin is back near $83,000. Here\u2019s how to assess its support",
+     "url": "https://cryptoslate.com/bitcoin-is-back-near-83000-heres-how-to-assess-its-support/",
+     "date": "2026-10-21T11:20:29+00:00",
+     "summary": "Glassnode\u2019s proximity framework sets out how nearby inventory and actual buying could confirm support before the Oct. 27\u201328 Fed meeting. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T11:20:29+00:00",
+   "last_seen": "2026-10-21T11:20:29+00:00",
+   "summary": "Glassnode\u2019s proximity framework sets out how nearby inventory and actual buying could confirm support before the Oct. 27\u201328 Fed meeting. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "b7d25c3da9",
+   "title": "'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger",
+   "date": "2026-10-21T11:19:34+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "'Mentality Issue': PlayStation Founder Waves Away Disc Ownership Anger",
+     "url": "https://decrypt.co/381483/mentality-issue-playstation-founder-waves-away-disc-ownership-anger",
+     "date": "2026-10-21T11:19:34+00:00",
+     "summary": "PlayStation founder Ken Kutaragi pushed back against anger at Sony's decision to stop producing physical game discs."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T11:19:34+00:00",
+   "last_seen": "2026-10-21T11:19:34+00:00",
+   "summary": "PlayStation founder Ken Kutaragi pushed back against anger at Sony's decision to stop producing physical game discs.",
+   "tags": []
+  },
+  {
+   "id": "e15989183d",
+   "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+   "date": "2026-10-21T11:15:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin risk management grows more popular as the 'just bet on price' era fades",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/21/bitcoin-risk-management-grows-more-popular-as-the-just-bet-on-price-era-fades",
+     "date": "2026-10-21T11:15:00+00:00",
+     "summary": "Your day-ahead look for Oct. 21, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T11:15:00+00:00",
+   "last_seen": "2026-10-21T11:15:00+00:00",
+   "summary": "Your day-ahead look for Oct. 21, 2026",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "1afc8b1648",
+   "title": "OCC Finalizes GENIUS Act Rule, Drops Third-Party Yield Presumption",
+   "date": "2026-10-21T11:12:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OCC Finalizes GENIUS Act Rule, Drops Third-Party Yield Presumption",
+     "url": "https://thedefiant.io/converge/regulation/occ-finalizes-genius-act-rule-drops-third-party-yield-presumption",
+     "date": "2026-10-21T11:12:00+00:00",
+     "summary": "The rule takes effect Jan. 18, 2027, while existing issuers with substantially complete OCC applications pending can seek temporary compliance waivers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T11:12:00+00:00",
+   "last_seen": "2026-10-21T11:12:00+00:00",
+   "summary": "The rule takes effect Jan. 18, 2027, while existing issuers with substantially complete OCC applications pending can seek temporary compliance waivers.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "dacbba1bcf",
+   "title": "First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act",
+   "date": "2026-10-21T11:01:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "First out the gate: OCC debuts final rule implementing Trump-signed GENIUS Act",
+     "url": "https://www.theblock.co/news/regulation/2026-10-21-occ-final-rule-implementing-trump-signed-genius-act-421470",
+     "date": "2026-10-21T11:01:02+00:00",
+     "summary": "OCC published its final GENIUS Act stablecoin rule, effective Jan. 18, dropping a proposed presumption on third-party rewards arrangements."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T11:01:02+00:00",
+   "last_seen": "2026-10-21T11:01:02+00:00",
+   "summary": "OCC published its final GENIUS Act stablecoin rule, effective Jan. 18, dropping a proposed presumption on third-party rewards arrangements.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "2f4a9dd982",
+   "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+   "date": "2026-10-21T11:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "OCC's final rule to start fresh in weighing stablecoin rewards against GENIUS Act ban",
+     "url": "https://www.coindesk.com/policy/2026/10/21/occ-s-final-rule-to-start-fresh-in-weighing-stablecoin-rewards-against-genius-act-ban",
+     "date": "2026-10-21T11:00:00+00:00",
+     "summary": "The U.S. Office of the Comptroller of the Currency is the first of several federal agencies to finish writing regulations under the act."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T11:00:00+00:00",
+   "last_seen": "2026-10-21T11:00:00+00:00",
+   "summary": "The U.S. Office of the Comptroller of the Currency is the first of several federal agencies to finish writing regulations under the act.",
+   "tags": [
+    "regulation",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "d5d2e8766b",
+   "title": "BitGo launches innovation unit to design crypto\u2019s next breakout application",
+   "date": "2026-10-21T11:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "BitGo launches innovation unit to design crypto\u2019s next breakout application",
+     "url": "https://www.theblock.co/news/business/2026-10-21-bitgo-launches-research-unit-421502",
+     "date": "2026-10-21T11:00:00+00:00",
+     "summary": "BitGo Labs will initially focus on the intersection of AI and crypto, stating that the AI economy needs crypto financial infrastructure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T11:00:00+00:00",
+   "last_seen": "2026-10-21T11:00:00+00:00",
+   "summary": "BitGo Labs will initially focus on the intersection of AI and crypto, stating that the AI economy needs crypto financial infrastructure.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "9e2b4fce6d",
+   "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
+   "date": "2026-10-21T10:50:52+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
+     "url": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-21T10:50:52+00:00",
+     "summary": "PancakeSwap\u2019s proposed fee-sharing overhaul would give liquidity providers 88% of swap fees and cut CAKE emissions by 69%, as BNB Chain\u2019s DeFi activity expands."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T10:50:52+00:00",
+   "last_seen": "2026-10-21T10:50:52+00:00",
+   "summary": "PancakeSwap\u2019s proposed fee-sharing overhaul would give liquidity providers 88% of swap fees and cut CAKE emissions by 69%, as BNB Chain\u2019s DeFi activity expands.",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "8f09a59d0e",
    "title": "Binance will reprice stock-token collateral even when Wall Street is closed",

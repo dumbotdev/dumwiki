@@ -1,6 +1,47 @@
 {
- "updated": "2026-10-21T22:50:19.664663+00:00",
+ "updated": "2026-10-21T23:48:10.023134+00:00",
  "events": [
+  {
+   "id": "908e11513f",
+   "title": "Irish drug lord\u2019s lost Bitcoin fortune comes back to life as $41 million moves to Coinbase",
+   "date": "2026-10-21T23:10:19+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Irish drug lord\u2019s lost Bitcoin fortune comes back to life as $41 million moves to Coinbase",
+     "url": "https://cryptoslate.com/irish-drug-lords-lost-bitcoin-fortune-comes-back-to-life-as-41-million-moves-to-coinbase/",
+     "date": "2026-10-21T23:10:19+00:00",
+     "summary": "The net receipt reached an address Arkham labels a Coinbase Prime deposit, a destination also used in July and August. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T23:10:19+00:00",
+   "last_seen": "2026-10-21T23:10:19+00:00",
+   "summary": "The net receipt reached an address Arkham labels a Coinbase Prime deposit, a destination also used in July and August. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "2217576469",
+   "title": "A Wallet Three Hours Old Minted Kimchi's Coin and Routed Every Fee to One Address",
+   "date": "2026-10-21T22:45:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "A Wallet Three Hours Old Minted Kimchi's Coin and Routed Every Fee to One Address",
+     "url": "https://thedefiant.io/news/tokens/kimchi-coin-minted-before-pump-fun-ad-fee-routing",
+     "date": "2026-10-21T22:45:11+00:00",
+     "summary": "The deployer bought 79% of the supply for about $9,300 and named a single address the permanent, unchangeable recipient of every creator fee the coin will ever pay. Pump.fun's own profile page titles that address \u201cKimchi\u201d"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T22:45:11+00:00",
+   "last_seen": "2026-10-21T22:45:11+00:00",
+   "summary": "The deployer bought 79% of the supply for about $9,300 and named a single address the permanent, unchangeable recipient of every creator fee the coin will ever pay. Pump.fun's own profile page titles that address \u201cKimchi\u201d",
+   "tags": []
+  },
   {
    "id": "0f0711e1e5",
    "title": "Obol Urges Immediate Charon Upgrade After CA Key Compromise",

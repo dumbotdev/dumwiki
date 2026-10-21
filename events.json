@@ -1,6 +1,112 @@
 {
- "updated": "2026-10-21T17:50:07.392474+00:00",
+ "updated": "2026-10-21T19:01:55.649180+00:00",
  "events": [
+  {
+   "id": "58cc4a5e6f",
+   "title": "OpenAI reveals AI agents disabled safety monitors, with one falsely denying its actions",
+   "date": "2026-10-21T19:00:01+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "OpenAI reveals AI agents disabled safety monitors, with one falsely denying its actions",
+     "url": "https://cryptoslate.com/openai-reveals-ai-agents-disabled-safety-monitors-with-one-falsely-denying-its-actions/",
+     "date": "2026-10-21T19:00:01+00:00",
+     "summary": "Sol suppressed human alerts while Astra removed a program&#039;s monitoring integration; OpenAI has updated reviews and says motive remains unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T19:00:01+00:00",
+   "last_seen": "2026-10-21T19:00:01+00:00",
+   "summary": "Sol suppressed human alerts while Astra removed a program&#039;s monitoring integration; OpenAI has updated reviews and says motive remains unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "ai",
+    "solana"
+   ]
+  },
+  {
+   "id": "9715c20776",
+   "title": "Robinhood single-stock perps could be a \u2018strong positive\u2019 for HOOD shares, Mizuho says",
+   "date": "2026-10-21T18:54:36+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Robinhood single-stock perps could be a \u2018strong positive\u2019 for HOOD shares, Mizuho says",
+     "url": "https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639",
+     "date": "2026-10-21T18:54:36+00:00",
+     "summary": "A Mizuho survey of 600+ Robinhood users finds 94% would trade single-stock perpetual futures, mostly with new money."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T18:54:36+00:00",
+   "last_seen": "2026-10-21T18:54:36+00:00",
+   "summary": "A Mizuho survey of 600+ Robinhood users finds 94% would trade single-stock perpetual futures, mostly with new money.",
+   "tags": []
+  },
+  {
+   "id": "12c68c593c",
+   "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
+   "date": "2026-10-21T18:46:08+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
+     "url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
+     "date": "2026-10-21T18:46:08+00:00",
+     "summary": "OpenAI says its models found PHP2Shell and led a two-month coalition to fix it. It's the same AI that broke into Hugging Face and an Australian government portal this year."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T18:46:08+00:00",
+   "last_seen": "2026-10-21T18:46:08+00:00",
+   "summary": "OpenAI says its models found PHP2Shell and led a two-month coalition to fix it. It's the same AI that broke into Hugging Face and an Australian government portal this year.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "b163a921e6",
+   "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
+   "date": "2026-10-21T17:59:36+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rewards rule",
+     "url": "https://www.theblock.co/news/regulation/2026-10-21-american-bankers-association-accuses-occ-undermining-congress-stablecoin-rewards-rule-421629",
+     "date": "2026-10-21T17:59:36+00:00",
+     "summary": "The fight between banks and crypto has reignited after a top banking regulator declined to weigh in on third-party stablecoin rewards."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T17:59:36+00:00",
+   "last_seen": "2026-10-21T17:59:36+00:00",
+   "summary": "The fight between banks and crypto has reignited after a top banking regulator declined to weigh in on third-party stablecoin rewards.",
+   "tags": [
+    "regulation",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "42ee61eec3",
+   "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+   "date": "2026-10-21T17:57:39+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+     "url": "https://cointelegraph.com/news/cardano-foundation-urges-eu-against-expanding-mica-rules-to-defi-and-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-21T17:57:39+00:00",
+     "summary": "The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for crypto businesses across the EU."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T17:57:39+00:00",
+   "last_seen": "2026-10-21T17:57:39+00:00",
+   "summary": "The foundation called for regulation based on financial risks rather than technology, warning that overlapping rules could create uncertainty for crypto businesses across the EU.",
+   "tags": [
+    "defi",
+    "regulation"
+   ]
+  },
   {
    "id": "4045d0903b",
    "title": "Declining a Bitcoin loan may not spare a cash purchase from futures rules, CFTC says",
@@ -346,13 +452,21 @@
      "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
      "date": "2026-10-21T16:16:05+00:00",
      "summary": "Musk said both boards formed committees to weigh a tie-up that would combine Tesla\u2019s 11,509 BTC and SpaceX\u2019s 18,712 BTC\u2014roughly $2.5 billion worth\u2014onto a single balance sheet."
+    },
+    {
+     "source": "Decrypt",
+     "title": "How a SpaceX and Tesla Merger Would Reshape Musk\u2019s AI Empire",
+     "url": "https://decrypt.co/381543/elon-musk-spacex-tesla-merger-ai-empire",
+     "date": "2026-10-21T18:16:03+00:00",
+     "summary": "Both boards are now studying a tie-up that would put Grok, X, Starlink, orbital data centers, a chip megafactory and Optimus robots under one roof\u2014and under one man's control."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-10-21T16:16:05+00:00",
-   "last_seen": "2026-10-21T16:16:05+00:00",
+   "last_seen": "2026-10-21T18:16:03+00:00",
    "summary": "Musk said both boards formed committees to weigh a tie-up that would combine Tesla\u2019s 11,509 BTC and SpaceX\u2019s 18,712 BTC\u2014roughly $2.5 billion worth\u2014onto a single balance sheet.",
    "tags": [
+    "ai",
     "bitcoin",
     "macro"
    ]

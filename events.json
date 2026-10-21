@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-21T05:50:45.564845+00:00",
+ "updated": "2026-10-21T07:08:29.656811+00:00",
  "events": [
+  {
+   "id": "472d4ba666",
+   "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+   "date": "2026-10-21T05:56:29+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Malaysia central bank launches DLT platform for tokenized bonds",
+     "url": "https://cointelegraph.com/news/malaysia-central-bank-tokenized-bonds-sukuk-dlt-platform?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-21T05:56:29+00:00",
+     "summary": "The platform tracks tokenized securities ownership and transfers, linking to Malaysia\u2019s RENTAS+ system to settle corresponding payments in central bank money."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T05:56:29+00:00",
+   "last_seen": "2026-10-21T05:56:29+00:00",
+   "summary": "The platform tracks tokenized securities ownership and transfers, linking to Malaysia\u2019s RENTAS+ system to settle corresponding payments in central bank money.",
+   "tags": []
+  },
   {
    "id": "ba52c4ca0f",
    "title": "SlowMist Urges Crypto Platforms to Prepare for Critical PHP Fixes",

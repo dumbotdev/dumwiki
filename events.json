@@ -1,6 +1,256 @@
 {
- "updated": "2026-10-21T15:55:18.044369+00:00",
+ "updated": "2026-10-21T16:53:54.278551+00:00",
  "events": [
+  {
+   "id": "a558ab28a2",
+   "title": "FCA Proposes Guidance on When DeFi Interfaces Need UK Authorization",
+   "date": "2026-10-21T16:53:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "FCA Proposes Guidance on When DeFi Interfaces Need UK Authorization",
+     "url": "https://thedefiant.io/news/regulation/fca-proposes-guidance-on-when-defi-interfaces-need-uk-authorization",
+     "date": "2026-10-21T16:53:04+00:00",
+     "summary": "A separate paper explains how regulated firms must manage DeFi risks. Both consultations close Nov. 18."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T16:53:04+00:00",
+   "last_seen": "2026-10-21T16:53:04+00:00",
+   "summary": "A separate paper explains how regulated firms must manage DeFi risks. Both consultations close Nov. 18.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "e2df63c49c",
+   "title": "NSA Urges PHP Users to Patch or Take Systems Offline",
+   "date": "2026-10-21T16:51:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "NSA Urges PHP Users to Patch or Take Systems Offline",
+     "url": "https://thedefiant.io/news/security/nsa-urges-php-users-to-patch-or-take-systems-offline",
+     "date": "2026-10-21T16:51:42+00:00",
+     "summary": "PHP has released fixes for two flaws rated 9.2 that can let unauthenticated attackers run code on web servers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T16:51:42+00:00",
+   "last_seen": "2026-10-21T16:51:42+00:00",
+   "summary": "PHP has released fixes for two flaws rated 9.2 that can let unauthenticated attackers run code on web servers.",
+   "tags": []
+  },
+  {
+   "id": "38c8323590",
+   "title": "Eclair Patches Lightning Bugs That Could Let Peers Steal Funds",
+   "date": "2026-10-21T16:50:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Eclair Patches Lightning Bugs That Could Let Peers Steal Funds",
+     "url": "https://thedefiant.io/news/security/eclair-patches-lightning-bugs-that-could-let-peers-steal-funds",
+     "date": "2026-10-21T16:50:48+00:00",
+     "summary": "The second security release in five days lets node operators upgrade without closing channels, though Eclair must be stopped and restarted."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T16:50:48+00:00",
+   "last_seen": "2026-10-21T16:50:48+00:00",
+   "summary": "The second security release in five days lets node operators upgrade without closing channels, though Eclair must be stopped and restarted.",
+   "tags": []
+  },
+  {
+   "id": "13d135fcdd",
+   "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
+   "date": "2026-10-21T16:46:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
+     "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
+     "date": "2026-10-21T16:46:04+00:00",
+     "summary": "Formed with the Dogecoin Foundation and led by MyDoge founder Jordan Jefferson, the new company consolidates the MyDoge wallet, DogeOS app platform, and Such App to build an economy around DOGE."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T16:46:04+00:00",
+   "last_seen": "2026-10-21T16:46:04+00:00",
+   "summary": "Formed with the Dogecoin Foundation and led by MyDoge founder Jordan Jefferson, the new company consolidates the MyDoge wallet, DogeOS app platform, and Such App to build an economy around DOGE.",
+   "tags": [
+    "memecoins"
+   ]
+  },
+  {
+   "id": "b1e3ebef2a",
+   "title": "Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO",
+   "date": "2026-10-21T16:44:01+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Dataline raises $10.6 million for decentralized data network for AI agents, plans ICO",
+     "url": "https://www.theblock.co/news/deals/2026-10-21-dataline-decentralized-data-network-ai-agents-funding-ico-421596",
+     "date": "2026-10-21T16:44:01+00:00",
+     "summary": "The startup also plans to hold a public token sale through Uniswap's auction platform, with details expected next week."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T16:44:01+00:00",
+   "last_seen": "2026-10-21T16:44:01+00:00",
+   "summary": "The startup also plans to hold a public token sale through Uniswap's auction platform, with details expected next week.",
+   "tags": [
+    "ai",
+    "funding"
+   ]
+  },
+  {
+   "id": "fb6b28b2df",
+   "title": "Bitcoin Lightning developers sound alarm over security flaws as second patch lands in five days",
+   "date": "2026-10-21T16:30:34+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin Lightning developers sound alarm over security flaws as second patch lands in five days",
+     "url": "https://cryptoslate.com/bitcoin-lightning-developers-sound-alarm-over-security-flaws-as-second-patch-lands-in-five-days/",
+     "date": "2026-10-21T16:30:34+00:00",
+     "summary": "Version 0.14.5 addresses issues exploitable by malicious nodes and lets Eclair operators upgrade without closing existing channels. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T16:30:34+00:00",
+   "last_seen": "2026-10-21T16:30:34+00:00",
+   "summary": "Version 0.14.5 addresses issues exploitable by malicious nodes and lets Eclair operators upgrade without closing existing channels. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "155c09305f",
+   "title": "Beyond HODLing: How Bitcoin-Backed Loans Can Unlock New Financial Opportunities",
+   "date": "2026-10-21T16:24:07+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Beyond HODLing: How Bitcoin-Backed Loans Can Unlock New Financial Opportunities",
+     "url": "https://bitcoinmagazine.com/markets/beyond-hodling-how-bitcoin-backed-loans-can-unlock-new-financial-opportunities",
+     "date": "2026-10-21T16:24:07+00:00",
+     "summary": "Bitcoin Magazine Beyond HODLing: How Bitcoin-Backed Loans Can Unlock New Financial Opportunities SALT Lending highlights how Bitcoin holders can access liquidity for real estate, business expansion, and other financial opportunities without selling their Bitcoin. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T16:24:07+00:00",
+   "last_seen": "2026-10-21T16:24:07+00:00",
+   "summary": "Bitcoin Magazine Beyond HODLing: How Bitcoin-Backed Loans Can Unlock New Financial Opportunities SALT Lending highlights how Bitcoin holders can access liquidity for real estate, business expansion, and other financial opportunities without selling their Bitcoin. This post...",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
+  {
+   "id": "ad83de376c",
+   "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
+   "date": "2026-10-21T16:23:44+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Trump to throw spotlight on overseas crypto abuses at White House event",
+     "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event",
+     "date": "2026-10-21T16:23:44+00:00",
+     "summary": "The president is hosting a cybercrime event that will highlight U.S. authorities' efforts to crack down on crypto scams run by foreign criminal organizations."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T16:23:44+00:00",
+   "last_seen": "2026-10-21T16:23:44+00:00",
+   "summary": "The president is hosting a cybercrime event that will highlight U.S. authorities' efforts to crack down on crypto scams run by foreign criminal organizations.",
+   "tags": []
+  },
+  {
+   "id": "2bd8457dad",
+   "title": "Sunrise Brings Backpack\u2019s Tokenized Meta Shares to Solana",
+   "date": "2026-10-21T16:23:30+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Sunrise Brings Backpack\u2019s Tokenized Meta Shares to Solana",
+     "url": "https://thedefiant.io/news/tokens/sunrise-brings-backpack-s-tokenized-meta-shares-to-solana",
+     "date": "2026-10-21T16:23:30+00:00",
+     "summary": "Redemption requires an eligible, verified Backpack account, and transfers from Backpack to another brokerage are not yet supported."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T16:23:30+00:00",
+   "last_seen": "2026-10-21T16:23:30+00:00",
+   "summary": "Redemption requires an eligible, verified Backpack account, and transfers from Backpack to another brokerage are not yet supported.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "bbe9439834",
+   "title": "Musk\u2019s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+   "date": "2026-10-21T16:16:05+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Musk\u2019s SpaceX-Tesla Merger Would Create a Bitcoin Treasury Behemoth",
+     "url": "https://decrypt.co/381538/musk-spacex-tesla-merger-bitcoin-treasury-behemoth",
+     "date": "2026-10-21T16:16:05+00:00",
+     "summary": "Musk said both boards formed committees to weigh a tie-up that would combine Tesla\u2019s 11,509 BTC and SpaceX\u2019s 18,712 BTC\u2014roughly $2.5 billion worth\u2014onto a single balance sheet."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T16:16:05+00:00",
+   "last_seen": "2026-10-21T16:16:05+00:00",
+   "summary": "Musk said both boards formed committees to weigh a tie-up that would combine Tesla\u2019s 11,509 BTC and SpaceX\u2019s 18,712 BTC\u2014roughly $2.5 billion worth\u2014onto a single balance sheet.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "f8c8b7c864",
+   "title": "Kalshi Pushes Deeper Into Crypto Derivatives With Bitcoin-Backed Margin Loans",
+   "date": "2026-10-21T16:11:52+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Kalshi Pushes Deeper Into Crypto Derivatives With Bitcoin-Backed Margin Loans",
+     "url": "https://bitcoinmagazine.com/news/kalshi-pushes-deeper-bitcoin-derivatives",
+     "date": "2026-10-21T16:11:52+00:00",
+     "summary": "Bitcoin Magazine Kalshi Pushes Deeper Into Crypto Derivatives With Bitcoin-Backed Margin Loans A new tri-party lending structure with BitGo lets Kalshi Prime clients borrow against bitcoin to margin perpetual futures. This post Kalshi Pushes Deeper Into Crypto Derivatives With..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T16:11:52+00:00",
+   "last_seen": "2026-10-21T16:11:52+00:00",
+   "summary": "Bitcoin Magazine Kalshi Pushes Deeper Into Crypto Derivatives With Bitcoin-Backed Margin Loans A new tri-party lending structure with BitGo lets Kalshi Prime clients borrow against bitcoin to margin perpetual futures. This post Kalshi Pushes Deeper Into Crypto Derivatives With...",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
+  {
+   "id": "f2a19bb27e",
+   "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+   "date": "2026-10-21T16:09:26+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Chainlink, Cardano, other blockchain groups push SEC for clearer crypto rules",
+     "url": "https://cointelegraph.com/news/chainlink-cardano-and-other-blockchain-groups-push-sec-for-clearer-crypto-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-21T16:09:26+00:00",
+     "summary": "Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T16:09:26+00:00",
+   "last_seen": "2026-10-21T16:09:26+00:00",
+   "summary": "Six major blockchain organizations urged the SEC to formally recognize digital commodities as non-securities in its proposed regulatory framework.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "30408d3024",
    "title": "Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite",
@@ -1387,12 +1637,19 @@
      "url": "https://www.coindesk.com/markets/2026/10/21/spacex-and-tesla-explore-merger-that-would-unite-more-than-30-000-bitcoin",
      "date": "2026-10-21T09:23:00+00:00",
      "summary": "Independent committees are assessing a potential tie-up, while strong SpaceX earnings lift shares ahead of Tesla\u2019s results."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Tesla and SpaceX Explore Merger That Could Unite 30,221 Bitcoin",
+     "url": "https://thedefiant.io/news/markets/tesla-and-spacex-explore-merger-that-could-unite-30-221-bitcoin",
+     "date": "2026-10-21T16:38:20+00:00",
+     "summary": "Their disclosed bitcoin positions would together rank sixth among CoinGecko\u2019s tracked public companies. Musk says no transaction terms have been agreed."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-21T09:23:00+00:00",
-   "last_seen": "2026-10-21T09:23:00+00:00",
-   "summary": "Independent committees are assessing a potential tie-up, while strong SpaceX earnings lift shares ahead of Tesla\u2019s results.",
+   "last_seen": "2026-10-21T16:38:20+00:00",
+   "summary": "Their disclosed bitcoin positions would together rank sixth among CoinGecko\u2019s tracked public companies. Musk says no transaction terms have been agreed.",
    "tags": [
     "bitcoin"
    ]

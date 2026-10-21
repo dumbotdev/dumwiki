@@ -1,6 +1,110 @@
 {
- "updated": "2026-10-21T20:52:50.151745+00:00",
+ "updated": "2026-10-21T21:53:44.848472+00:00",
  "events": [
+  {
+   "id": "083a62bfdf",
+   "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble\u2014And Compares GPUs to Airline Seats",
+   "date": "2026-10-21T21:31:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Ken Griffin Says AI Is 'Almost Certainly' in a Bubble\u2014And Compares GPUs to Airline Seats",
+     "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
+     "date": "2026-10-21T21:31:02+00:00",
+     "summary": "Citadel's founder says investors are almost certainly in an AI bubble, warns a chip glut could crash prices like empty airline seats, yet expects the survivors to lead for decades."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T21:31:02+00:00",
+   "last_seen": "2026-10-21T21:31:02+00:00",
+   "summary": "Citadel's founder says investors are almost certainly in an AI bubble, warns a chip glut could crash prices like empty airline seats, yet expects the survivors to lead for decades.",
+   "tags": [
+    "ai",
+    "markets"
+   ]
+  },
+  {
+   "id": "21d0730f9b",
+   "title": "eMudhra's Weak Certificate Keys Prompt Emergency Trust Updates",
+   "date": "2026-10-21T21:24:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "eMudhra's Weak Certificate Keys Prompt Emergency Trust Updates",
+     "url": "https://thedefiant.io/news/security/emudhra-s-weak-certificate-keys-prompt-emergency-trust-updates",
+     "date": "2026-10-21T21:24:58+00:00",
+     "summary": "One recovered private key was just 4. The company says the flaw went undetected through two independent audit cycles."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T21:24:58+00:00",
+   "last_seen": "2026-10-21T21:24:58+00:00",
+   "summary": "One recovered private key was just 4. The company says the flaw went undetected through two independent audit cycles.",
+   "tags": []
+  },
+  {
+   "id": "06c75d5a8b",
+   "title": "Matter Labs Debuts Prividium Commander For Institutions",
+   "date": "2026-10-21T21:13:40+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Matter Labs Debuts Prividium Commander For Institutions",
+     "url": "https://thedefiant.io/news/infrastructure/matter-labs-prividium-commander-institutions",
+     "date": "2026-10-21T21:13:40+00:00",
+     "summary": "The control plane for bank digital-asset operations is generally available at launch. Its revenue goes to Matter Labs, not ZKsync tokenholders, CEO Alex Gluchowski told The Defiant."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T21:13:40+00:00",
+   "last_seen": "2026-10-21T21:13:40+00:00",
+   "summary": "The control plane for bank digital-asset operations is generally available at launch. Its revenue goes to Matter Labs, not ZKsync tokenholders, CEO Alex Gluchowski told The Defiant.",
+   "tags": []
+  },
+  {
+   "id": "088036c105",
+   "title": "Tesla\u2013SpaceX merger talks could put 30,221 Bitcoin under one roof",
+   "date": "2026-10-21T21:00:13+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Tesla\u2013SpaceX merger talks could put 30,221 Bitcoin under one roof",
+     "url": "https://cryptoslate.com/tesla-spacex-merger-talks-bitcoin/",
+     "date": "2026-10-21T21:00:13+00:00",
+     "summary": "Elon Musk confirmed that Tesla and SpaceX are exploring a merger that could combine their existing Bitcoin holdings under one company. Speaking during SpaceX&#039;s Oct. 20 earnings call, Musk said both companies had established special committees of independent directors to..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T21:00:13+00:00",
+   "last_seen": "2026-10-21T21:00:13+00:00",
+   "summary": "Elon Musk confirmed that Tesla and SpaceX are exploring a merger that could combine their existing Bitcoin holdings under one company. Speaking during SpaceX&#039;s Oct. 20 earnings call, Musk said both companies had established special committees of independent directors to...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "5c1136b39f",
+   "title": "Three Companies Have Notified the SEC of Intention To Start Tokenized Stocks Trading",
+   "date": "2026-10-21T20:55:23+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Three Companies Have Notified the SEC of Intention To Start Tokenized Stocks Trading",
+     "url": "https://bitcoinmagazine.com/news/companies-apply-to-list-tokenized-stocks",
+     "date": "2026-10-21T20:55:23+00:00",
+     "summary": "Bitcoin Magazine Three Companies Have Notified the SEC of Intention To Start Tokenized Stocks Trading The Securities and Exchange Commission is taking applications from companies wanting to list tokenized stocks. This post Three Companies Have Notified the SEC of Intention To..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T20:55:23+00:00",
+   "last_seen": "2026-10-21T20:55:23+00:00",
+   "summary": "Bitcoin Magazine Three Companies Have Notified the SEC of Intention To Start Tokenized Stocks Trading The Securities and Exchange Commission is taking applications from companies wanting to list tokenized stocks. This post Three Companies Have Notified the SEC of Intention To...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "regulation"
+   ]
+  },
   {
    "id": "f7c55c9868",
    "title": "Mastercard Opens AI Machine-Payment Pilot to Developers",
@@ -5937,6 +6041,29 @@
    "tags": [
     "legal",
     "stablecoins"
+   ]
+  },
+  {
+   "id": "73e64b8912",
+   "title": "He Lost $14M to FTX. Now He\u2019s Putting Real Stocks on Solana | Armani Ferrante (Backpack)",
+   "date": "2026-10-19T16:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "He Lost $14M to FTX. Now He\u2019s Putting Real Stocks on Solana | Armani Ferrante (Backpack)",
+     "url": "https://thedefiant.io/podcasts-and-videos/podcast/he-lost-usd14m-to-ftx-now-he-s-putting-real-stocks-on-solana-or-armani-ferrante-backpack",
+     "date": "2026-10-19T16:00:00+00:00",
+     "summary": "What do you actually own when you buy a tokenized stock? Backpack founder Armani Ferrante breaks down the transfer agent, DTCC, SPV debt-security and Backpack models. Backpack\u2019s version is 1:1 redeemable stock you can move between your brokerage and DeFi. Armani explains how..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-19T16:00:00+00:00",
+   "last_seen": "2026-10-19T16:00:00+00:00",
+   "summary": "What do you actually own when you buy a tokenized stock? Backpack founder Armani Ferrante breaks down the transfer agent, DTCC, SPV debt-security and Backpack models. Backpack\u2019s version is 1:1 redeemable stock you can move between your brokerage and DeFi. Armani explains how...",
+   "tags": [
+    "ai",
+    "defi",
+    "solana"
    ]
   },
   {

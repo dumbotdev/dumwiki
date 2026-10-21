@@ -1,6 +1,63 @@
 {
- "updated": "2026-10-21T04:52:38.353109+00:00",
+ "updated": "2026-10-21T05:50:45.564845+00:00",
  "events": [
+  {
+   "id": "ba52c4ca0f",
+   "title": "SlowMist Urges Crypto Platforms to Prepare for Critical PHP Fixes",
+   "date": "2026-10-21T05:46:01+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SlowMist Urges Crypto Platforms to Prepare for Critical PHP Fixes",
+     "url": "https://thedefiant.io/news/security/slowmist-urges-crypto-platforms-to-prepare-for-critical-php-fixes",
+     "date": "2026-10-21T05:46:01+00:00",
+     "summary": "PHP plans to publish patches at 10 a.m. ET on Oct. 21, with affected versions and technical details due alongside the release."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T05:46:01+00:00",
+   "last_seen": "2026-10-21T05:46:01+00:00",
+   "summary": "PHP plans to publish patches at 10 a.m. ET on Oct. 21, with affected versions and technical details due alongside the release.",
+   "tags": []
+  },
+  {
+   "id": "d244c7cd75",
+   "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+   "date": "2026-10-21T05:25:57+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ripple brings Wall Street into 24/7 stock bets, but HSBC warns markets are still thin",
+     "url": "https://www.coindesk.com/markets/2026/10/21/ripple-brings-wall-street-into-24-7-stock-bets-but-hsbc-warns-markets-are-still-thin",
+     "date": "2026-10-21T05:25:57+00:00",
+     "summary": "Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers for large positions could prove harder."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T05:25:57+00:00",
+   "last_seen": "2026-10-21T05:25:57+00:00",
+   "summary": "Institutions can trade through Ripple Prime and post RLUSD as collateral. Finding enough buyers and sellers for large positions could prove harder.",
+   "tags": []
+  },
+  {
+   "id": "317a59c959",
+   "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
+   "date": "2026-10-21T05:15:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Tech giants rush to block 8 eMudhra certs that could enable fake sites",
+     "url": "https://cointelegraph.com/news/tech-giants-rush-to-block-flawed-emudhra-certs-that-could-enable-fake-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-21T05:15:00+00:00",
+     "summary": "A private key generation flaw allowed anyone to guess them and forge HTTPS certificates for any website."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T05:15:00+00:00",
+   "last_seen": "2026-10-21T05:15:00+00:00",
+   "summary": "A private key generation flaw allowed anyone to guess them and forge HTTPS certificates for any website.",
+   "tags": []
+  },
   {
    "id": "36cc049aa4",
    "title": "Switzerland approves landmark Bitcoin ETF after ruling trading volume sufficient",

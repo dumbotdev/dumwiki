@@ -1,6 +1,215 @@
 {
- "updated": "2026-10-21T14:53:21.001646+00:00",
+ "updated": "2026-10-21T15:55:18.044369+00:00",
  "events": [
+  {
+   "id": "30408d3024",
+   "title": "Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite",
+   "date": "2026-10-21T15:46:14+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite",
+     "url": "https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings",
+     "date": "2026-10-21T15:46:14+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite The price of bitcoin is rising fast \u2014 with the stock market \u2014 as investors feel bullish on tech. This post Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite first appeared on Bitcoin..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T15:46:14+00:00",
+   "last_seen": "2026-10-21T15:46:14+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite The price of bitcoin is rising fast \u2014 with the stock market \u2014 as investors feel bullish on tech. This post Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite first appeared on Bitcoin...",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "2e25378d21",
+   "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
+   "date": "2026-10-21T15:43:32+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "What Is a Bitcoin-Backed Loan? Borrowing Against BTC Explained",
+     "url": "https://decrypt.co/resources/what-is-a-bitcoin-backed-loan-borrowing-against-btc-explained",
+     "date": "2026-10-21T15:43:32+00:00",
+     "summary": "Bitcoin-backed loans let holders borrow cash or stablecoins without selling BTC. Here's how collateral, LTV and liquidations work."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T15:43:32+00:00",
+   "last_seen": "2026-10-21T15:43:32+00:00",
+   "summary": "Bitcoin-backed loans let holders borrow cash or stablecoins without selling BTC. Here's how collateral, LTV and liquidations work.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "22eaf101d7",
+   "title": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
+   "date": "2026-10-21T15:35:16+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "PHP Panic: Two Critical Bugs Put 70% of the Internet at Risk, and Everyone Is Freaking Out",
+     "url": "https://decrypt.co/381519/php-panic-critical-bugs-70-percent-internet-risk-everyone-freaking-out",
+     "date": "2026-10-21T15:35:16+00:00",
+     "summary": "Two critical bugs in PHP, the language running most of the web, let strangers take over servers without a password. The patch is out, attacks started early, and governments pulled the plug."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T15:35:16+00:00",
+   "last_seen": "2026-10-21T15:35:16+00:00",
+   "summary": "Two critical bugs in PHP, the language running most of the web, let strangers take over servers without a password. The patch is out, attacks started early, and governments pulled the plug.",
+   "tags": []
+  },
+  {
+   "id": "1a1e1632c5",
+   "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+   "date": "2026-10-21T15:22:46+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
+     "url": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
+     "date": "2026-10-21T15:22:46+00:00",
+     "summary": "The startup is retiring its own blockchain and moving to Sui with a $30 million investment as it narrows its focus to AI training data."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T15:22:46+00:00",
+   "last_seen": "2026-10-21T15:22:46+00:00",
+   "summary": "The startup is retiring its own blockchain and moving to Sui with a $30 million investment as it narrows its focus to AI training data.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "38d5a22696",
+   "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+   "date": "2026-10-21T15:13:17+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin price tags $84.6K as US stocks head higher on SpaceX Q3 earnings beat",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-tags-846k-as-us-stocks-head-higher-on-spacex-q3-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-21T15:13:17+00:00",
+     "summary": "Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T15:13:17+00:00",
+   "last_seen": "2026-10-21T15:13:17+00:00",
+   "summary": "Bitcoin extended gains to approach $85,000 after US stock markets reacted to higher-than-expected SpaceX earnings.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "9441c5a4f6",
+   "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
+   "date": "2026-10-21T15:12:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
+     "url": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
+     "date": "2026-10-21T15:12:00+00:00",
+     "summary": "Grayscale expands in-kind subscriptions to 10 crypto funds, letting eligible investors swap tokens for shares without selling for cash."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T15:12:00+00:00",
+   "last_seen": "2026-10-21T15:12:00+00:00",
+   "summary": "Grayscale expands in-kind subscriptions to 10 crypto funds, letting eligible investors swap tokens for shares without selling for cash.",
+   "tags": [
+    "etfs"
+   ]
+  },
+  {
+   "id": "8673de30b5",
+   "title": "XRP flashes a potential bottom signal, but $15.7 billion in exchange supply threatens recovery",
+   "date": "2026-10-21T15:10:57+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP flashes a potential bottom signal, but $15.7 billion in exchange supply threatens recovery",
+     "url": "https://cryptoslate.com/xrp-flashes-a-potential-bottom-signal-but-15-7-billion-in-exchange-supply-threatens-recovery/",
+     "date": "2026-10-21T15:10:57+00:00",
+     "summary": "XRP&#039;s 365-day MVRV ratio has fallen to about 0.92, which places holders in the metric&#039;s window roughly 8% below their cost basis, while XRP trades near $1.33, according to Santiment. Glassnode warned Oct. 19 that more than 40% of large-cap altcoins sit near their own..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T15:10:57+00:00",
+   "last_seen": "2026-10-21T15:10:57+00:00",
+   "summary": "XRP&#039;s 365-day MVRV ratio has fallen to about 0.92, which places holders in the metric&#039;s window roughly 8% below their cost basis, while XRP trades near $1.33, according to Santiment. Glassnode warned Oct. 19 that more than 40% of large-cap altcoins sit near their own...",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "345f8fca08",
+   "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
+   "date": "2026-10-21T15:09:22+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
+     "url": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
+     "date": "2026-10-21T15:09:22+00:00",
+     "summary": "When it comes to the U.S., Bybit will look to work with with someone like Interactive Brokers (IB), for example, said CEO Ben Zhou."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T15:09:22+00:00",
+   "last_seen": "2026-10-21T15:09:22+00:00",
+   "summary": "When it comes to the U.S., Bybit will look to work with with someone like Interactive Brokers (IB), for example, said CEO Ben Zhou.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "8cbc73666c",
+   "title": "Japan's Prime Minister Urges PHP Patching, Suggests Temporary Site Shutdowns",
+   "date": "2026-10-21T15:01:45+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Japan's Prime Minister Urges PHP Patching, Suggests Temporary Site Shutdowns",
+     "url": "https://thedefiant.io/news/security/japan-s-prime-minister-urges-php-patching-suggests-temporary-site-shutdowns",
+     "date": "2026-10-21T15:01:45+00:00",
+     "summary": "Fixes are now available for two critical flaws that can let attackers run code on web servers without logging in."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T15:01:45+00:00",
+   "last_seen": "2026-10-21T15:01:45+00:00",
+   "summary": "Fixes are now available for two critical flaws that can let attackers run code on web servers without logging in.",
+   "tags": []
+  },
+  {
+   "id": "171fa80a0f",
+   "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+   "date": "2026-10-21T15:00:53+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
+     "url": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
+     "date": "2026-10-21T15:00:53+00:00",
+     "summary": "Real-world assets already back the largest stablecoins, yet borrowing against them onchain still runs through variable-rate pools. Peter Gaffney of O2O Capital Partners explains why fixed-rate, fixed-term lending is the missing piece, and how a 5% shift in Sky and Ethena..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T15:00:53+00:00",
+   "last_seen": "2026-10-21T15:00:53+00:00",
+   "summary": "Real-world assets already back the largest stablecoins, yet borrowing against them onchain still runs through variable-rate pools. Peter Gaffney of O2O Capital Partners explains why fixed-rate, fixed-term lending is the missing piece, and how a 5% shift in Sky and Ethena...",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "32cf35ed78",
    "title": "President Trump to Highlight Crackdown on Overseas Crypto Scams",

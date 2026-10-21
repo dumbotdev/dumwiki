@@ -1,6 +1,112 @@
 {
- "updated": "2026-10-21T13:57:55.130678+00:00",
+ "updated": "2026-10-21T14:53:21.001646+00:00",
  "events": [
+  {
+   "id": "32cf35ed78",
+   "title": "President Trump to Highlight Crackdown on Overseas Crypto Scams",
+   "date": "2026-10-21T14:52:06+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "President Trump to Highlight Crackdown on Overseas Crypto Scams",
+     "url": "https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown",
+     "date": "2026-10-21T14:52:06+00:00",
+     "summary": "Bitcoin Magazine President Trump to Highlight Crackdown on Overseas Crypto Scams Trump to tout seizures of fraudulent crypto sites at White House cybercrime event as FBI data shows $11.3 billion in U.S. crypto fraud losses in 2025. This post President Trump to Highlight..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T14:52:06+00:00",
+   "last_seen": "2026-10-21T14:52:06+00:00",
+   "summary": "Bitcoin Magazine President Trump to Highlight Crackdown on Overseas Crypto Scams Trump to tout seizures of fraudulent crypto sites at White House cybercrime event as FBI data shows $11.3 billion in U.S. crypto fraud losses in 2025. This post President Trump to Highlight...",
+   "tags": [
+    "bitcoin",
+    "legal"
+   ]
+  },
+  {
+   "id": "6790078b9a",
+   "title": "Anza\u2019s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+   "date": "2026-10-21T14:24:39+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Anza\u2019s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
+     "date": "2026-10-21T14:24:39+00:00",
+     "summary": "Solana activated Alpenglow, replacing TowerBFT and cutting transaction finality from 12.8 seconds to about 150 milliseconds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T14:24:39+00:00",
+   "last_seen": "2026-10-21T14:24:39+00:00",
+   "summary": "Solana activated Alpenglow, replacing TowerBFT and cutting transaction finality from 12.8 seconds to about 150 milliseconds.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "e98c23c41f",
+   "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+   "date": "2026-10-21T14:24:25+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Solana Alpenglow Goes Live in 'Most Ambitious' Upgrade Since Ethereum's Merge",
+     "url": "https://decrypt.co/381484/solana-alpenglow-goes-live-in-most-ambitious-upgrade-since-ethereums-merge",
+     "date": "2026-10-21T14:24:25+00:00",
+     "summary": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T14:24:25+00:00",
+   "last_seen": "2026-10-21T14:24:25+00:00",
+   "summary": "The new consensus protocol retires TowerBFT, which had run Solana since its 2020 launch, after a handoff on the live network.",
+   "tags": [
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "060d76bc13",
+   "title": "Polkadot Warns Fearless Wallet Users to Move Funds After Private-Key Leak",
+   "date": "2026-10-21T14:21:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Polkadot Warns Fearless Wallet Users to Move Funds After Private-Key Leak",
+     "url": "https://thedefiant.io/news/security/polkadot-warns-fearless-wallet-users-to-move-funds-after-private-key-leak",
+     "date": "2026-10-21T14:21:15+00:00",
+     "summary": "Chrome still listed an affected extension version with 6,000 users as the foundation urged holders to create fresh keys."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T14:21:15+00:00",
+   "last_seen": "2026-10-21T14:21:15+00:00",
+   "summary": "Chrome still listed an affected extension version with 6,000 users as the foundation urged holders to create fresh keys.",
+   "tags": []
+  },
+  {
+   "id": "38b1ea2678",
+   "title": "Solana\u2019s Alpenglow launches on mainnet, targets 99% faster finality",
+   "date": "2026-10-21T13:57:14+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Solana\u2019s Alpenglow launches on mainnet, targets 99% faster finality",
+     "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-21T13:57:14+00:00",
+     "summary": "Solana\u2019s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T13:57:14+00:00",
+   "last_seen": "2026-10-21T13:57:14+00:00",
+   "summary": "Solana\u2019s first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications.",
+   "tags": [
+    "legal",
+    "solana"
+   ]
+  },
   {
    "id": "ed275cf6f5",
    "title": "J.P. Morgan Reveals First-Ever Bitcoin Price Forecast in Long-Term Capital Market Report",
@@ -43,6 +149,28 @@
    "tags": [
     "bitcoin",
     "defi"
+   ]
+  },
+  {
+   "id": "6d03fa8d1b",
+   "title": "Crypto rallies point to slower USDC growth and faster USDT growth, study finds",
+   "date": "2026-10-21T13:50:28+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Crypto rallies point to slower USDC growth and faster USDT growth, study finds",
+     "url": "https://cryptoslate.com/usdc-and-usdt-growth-challenge-bitcoins-dry-powder-signal/",
+     "date": "2026-10-21T13:50:28+00:00",
+     "summary": "Coin Metrics finds opposite relationships with prior non-stablecoin crypto returns, complicating the case that combined issuance measures fresh Bitcoin demand. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T13:50:28+00:00",
+   "last_seen": "2026-10-21T13:50:28+00:00",
+   "summary": "Coin Metrics finds opposite relationships with prior non-stablecoin crypto returns, complicating the case that combined issuance measures fresh Bitcoin demand. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst...",
+   "tags": [
+    "bitcoin",
+    "stablecoins"
    ]
   },
   {

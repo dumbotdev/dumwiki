@@ -1,6 +1,155 @@
 {
- "updated": "2026-10-21T16:53:54.278551+00:00",
+ "updated": "2026-10-21T17:50:07.392474+00:00",
  "events": [
+  {
+   "id": "4045d0903b",
+   "title": "Declining a Bitcoin loan may not spare a cash purchase from futures rules, CFTC says",
+   "date": "2026-10-21T17:40:18+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Declining a Bitcoin loan may not spare a cash purchase from futures rules, CFTC says",
+     "url": "https://cryptoslate.com/declining-a-bitcoin-loan-may-not-spare-a-cash-purchase-from-futures-rules-cftc-says/",
+     "date": "2026-10-21T17:40:18+00:00",
+     "summary": "The preliminary interpretation turns on applicable credit offers and actual delivery, rather than the buyer\u2019s use of financing alone. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T17:40:18+00:00",
+   "last_seen": "2026-10-21T17:40:18+00:00",
+   "summary": "The preliminary interpretation turns on applicable credit offers and actual delivery, rather than the buyer\u2019s use of financing alone. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "3f58e897fc",
+   "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
+   "date": "2026-10-21T17:31:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
+     "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
+     "date": "2026-10-21T17:31:03+00:00",
+     "summary": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T17:31:03+00:00",
+   "last_seen": "2026-10-21T17:31:03+00:00",
+   "summary": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "1556766a06",
+   "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
+   "date": "2026-10-21T17:25:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "UK financial watchdog opens consultations for DeFi guidance, crypto laws",
+     "url": "https://cointelegraph.com/news/uk-fca-consultations-defi-crypto-laws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-21T17:25:00+00:00",
+     "summary": "The UK Financial Conduct Authority consultations came just weeks after the agency opened applications for companies under its new crypto regulatory regime."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T17:25:00+00:00",
+   "last_seen": "2026-10-21T17:25:00+00:00",
+   "summary": "The UK Financial Conduct Authority consultations came just weeks after the agency opened applications for companies under its new crypto regulatory regime.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "3ff7d36eba",
+   "title": "Polymarket US Sues Ohio to Block Sports-Contract Crackdown",
+   "date": "2026-10-21T17:15:03+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Polymarket US Sues Ohio to Block Sports-Contract Crackdown",
+     "url": "https://thedefiant.io/news/regulation/polymarket-us-sues-ohio-to-block-sports-contract-crackdown",
+     "date": "2026-10-21T17:15:03+00:00",
+     "summary": "The exchange seeks preliminary and permanent injunctions after Ohio demanded an immediate halt to sports contracts and written confirmation of compliance by Oct. 16."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T17:15:03+00:00",
+   "last_seen": "2026-10-21T17:15:03+00:00",
+   "summary": "The exchange seeks preliminary and permanent injunctions after Ohio demanded an immediate halt to sports contracts and written confirmation of compliance by Oct. 16.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "38421cd7a5",
+   "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
+   "date": "2026-10-21T17:10:54+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Treasury Secretary Bessent likens GENIUS Act to Lincoln-era banking reform",
+     "url": "https://cointelegraph.com/news/occ-finalizes-stablecoin-rules-genius-act-bessent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-21T17:10:54+00:00",
+     "summary": "The OCC has finalized rules for stablecoin reserves and redemptions, with Bessent calling the GENIUS Act a \u201cwatershed moment for American finance.\u201d"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T17:10:54+00:00",
+   "last_seen": "2026-10-21T17:10:54+00:00",
+   "summary": "The OCC has finalized rules for stablecoin reserves and redemptions, with Bessent calling the GENIUS Act a \u201cwatershed moment for American finance.\u201d",
+   "tags": [
+    "macro",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "212a66cecf",
+   "title": "Crypto security chiefs sound alarm as PHP emergency patch scrambles devs worldwide",
+   "date": "2026-10-21T17:00:04+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Crypto security chiefs sound alarm as PHP emergency patch scrambles devs worldwide",
+     "url": "https://cryptoslate.com/crypto-security-chiefs-sound-alarm-as-php-emergency-patch-scrambles-devs-worldwide/",
+     "date": "2026-10-21T17:00:04+00:00",
+     "summary": "PHP released fixes on Oct. 21 for two critical vulnerabilities that can let unauthenticated attackers run code on web servers, as crypto security executives urged operators to patch and check overlooked infrastructure. The PHP team&#039;s security advisory identifies..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T17:00:04+00:00",
+   "last_seen": "2026-10-21T17:00:04+00:00",
+   "summary": "PHP released fixes on Oct. 21 for two critical vulnerabilities that can let unauthenticated attackers run code on web servers, as crypto security executives urged operators to patch and check overlooked infrastructure. The PHP team&#039;s security advisory identifies...",
+   "tags": []
+  },
+  {
+   "id": "3acab1e448",
+   "title": "OKX Combines Euro and EURC Liquidity in One Spot Order Book",
+   "date": "2026-10-21T16:54:03+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OKX Combines Euro and EURC Liquidity in One Spot Order Book",
+     "url": "https://thedefiant.io/converge/cefi/okx-combines-euro-and-eurc-liquidity-in-one-spot-order-book",
+     "date": "2026-10-21T16:54:03+00:00",
+     "summary": "Eligible EEA users can convert euros to EURC at 1:1 and choose either settlement asset, with fees depending on their tier and transaction."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T16:54:03+00:00",
+   "last_seen": "2026-10-21T16:54:03+00:00",
+   "summary": "Eligible EEA users can convert euros to EURC at 1:1 and choose either settlement asset, with fees depending on their tier and transaction.",
+   "tags": [
+    "defi",
+    "exchanges",
+    "legal"
+   ]
+  },
   {
    "id": "a558ab28a2",
    "title": "FCA Proposes Guidance on When DeFi Interfaces Need UK Authorization",
@@ -979,13 +1128,22 @@
      "url": "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535",
      "date": "2026-10-21T12:44:53+00:00",
      "summary": "Standard Chartered has signed definitive agreements to acquire Zodia Custody, subject to regulatory approval."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody",
+     "url": "https://bitcoinmagazine.com/news/standard-chartered-to-buy-zodia-custodian",
+     "date": "2026-10-21T17:28:34+00:00",
+     "summary": "Bitcoin Magazine Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody British bank Standard Chartered will integrate Zodia Custody\u2019s bitcoin and crypto services into its own. This post Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia..."
     }
    ],
-   "score": 30,
+   "score": 40,
    "first_seen": "2026-10-21T12:06:23+00:00",
-   "last_seen": "2026-10-21T12:44:53+00:00",
-   "summary": "Custody operations will join the bank\u2019s Securities Services business, while software and professional services will move to Zodia Solutions under SC Ventures.",
-   "tags": []
+   "last_seen": "2026-10-21T17:28:34+00:00",
+   "summary": "Bitcoin Magazine Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody British bank Standard Chartered will integrate Zodia Custody\u2019s bitcoin and crypto services into its own. This post Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia...",
+   "tags": [
+    "bitcoin"
+   ]
   },
   {
    "id": "d040a54f24",

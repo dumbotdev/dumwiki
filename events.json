@@ -1,6 +1,90 @@
 {
- "updated": "2026-10-21T03:53:58.529551+00:00",
+ "updated": "2026-10-21T04:52:38.353109+00:00",
  "events": [
+  {
+   "id": "36cc049aa4",
+   "title": "Switzerland approves landmark Bitcoin ETF after ruling trading volume sufficient",
+   "date": "2026-10-21T04:40:25+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Switzerland approves landmark Bitcoin ETF after ruling trading volume sufficient",
+     "url": "https://cryptoslate.com/switzerland-approves-landmark-bitcoin-etf-after-ruling-trading-volume-sufficient/",
+     "date": "2026-10-21T04:40:25+00:00",
+     "summary": "FINMA permits a Swiss-law retail fund to concentrate on Bitcoin while keeping custody safeguards, risk disclosures and sales duties. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T04:40:25+00:00",
+   "last_seen": "2026-10-21T04:40:25+00:00",
+   "summary": "FINMA permits a Swiss-law retail fund to concentrate on Bitcoin while keeping custody safeguards, risk disclosures and sales duties. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "a4abcb88bc",
+   "title": "Solana\u2019s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+   "date": "2026-10-21T04:35:52+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Solana\u2019s Alpenglow, its biggest network overhaul since 2020, goes live Wednesday",
+     "url": "https://www.coindesk.com/tech/2026/10/21/solana-s-alpenglow-its-biggest-network-overhaul-since-2020-goes-live-wednesday",
+     "date": "2026-10-21T04:35:52+00:00",
+     "summary": "Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T04:35:52+00:00",
+   "last_seen": "2026-10-21T04:35:52+00:00",
+   "summary": "Alpenglow will replace the voting system Solana has used since 2020, targeting roughly 150-millisecond finality after months of testing that included a failed migration and rollback.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "1988a9728d",
+   "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+   "date": "2026-10-21T04:11:58+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+     "url": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+     "date": "2026-10-21T04:11:58+00:00",
+     "summary": "Eight secret keys at eMudhra, an Indian firm that vouches for websites, were compromised. Browsers and software makers are rushing out fixes."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T04:11:58+00:00",
+   "last_seen": "2026-10-21T04:11:58+00:00",
+   "summary": "Eight secret keys at eMudhra, an Indian firm that vouches for websites, were compromised. Browsers and software makers are rushing out fixes.",
+   "tags": []
+  },
+  {
+   "id": "afe685fe68",
+   "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+   "date": "2026-10-21T04:07:07+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+     "url": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+     "date": "2026-10-21T04:07:07+00:00",
+     "summary": "Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T04:07:07+00:00",
+   "last_seen": "2026-10-21T04:07:07+00:00",
+   "summary": "Strong results from SpaceX and Super Micro sent Asian chip stocks surging, and ZEC led crypto higher after developers set a date for its next network upgrade.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
   {
    "id": "2529a474de",
    "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",

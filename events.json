@@ -1,6 +1,110 @@
 {
- "updated": "2026-10-21T07:59:30.964794+00:00",
+ "updated": "2026-10-21T08:56:22.135675+00:00",
  "events": [
+  {
+   "id": "ca8d5fdf0b",
+   "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
+   "date": "2026-10-21T08:47:11+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Tether leads $15 million funding round for AI-focused payment startup Mural",
+     "url": "https://www.coindesk.com/business/2026/10/21/tether-leads-usd15-million-series-a-for-ai-focused-payment-startup-mural",
+     "date": "2026-10-21T08:47:11+00:00",
+     "summary": "The Series A round, which included participation from North Island Ventures and existing investors, brings New York-based Mural's total funding to $28 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T08:47:11+00:00",
+   "last_seen": "2026-10-21T08:47:11+00:00",
+   "summary": "The Series A round, which included participation from North Island Ventures and existing investors, brings New York-based Mural's total funding to $28 million.",
+   "tags": [
+    "funding",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "4cb272be04",
+   "title": "Quantum-proof Bitcoin signatures would clog network nodes with 10x larger data",
+   "date": "2026-10-21T08:30:07+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Quantum-proof Bitcoin signatures would clog network nodes with 10x larger data",
+     "url": "https://cryptoslate.com/quantum-proof-bitcoin-signatures-would-clog-network-nodes-with-10x-larger-data/",
+     "date": "2026-10-21T08:30:07+00:00",
+     "summary": "SHRINCS keeps a larger signing path for recovery, while compact signatures require reliable counters and tighter custody coordination. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T08:30:07+00:00",
+   "last_seen": "2026-10-21T08:30:07+00:00",
+   "summary": "SHRINCS keeps a larger signing path for recovery, while compact signatures require reliable counters and tighter custody coordination. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "459aa4fabc",
+   "title": "PancakeSwap Opens 'The Flip' Vote With CAKE Supply Condition",
+   "date": "2026-10-21T08:16:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "PancakeSwap Opens 'The Flip' Vote With CAKE Supply Condition",
+     "url": "https://thedefiant.io/news/defi/pancakeswap-opens-the-flip-vote-with-cake-supply-condition",
+     "date": "2026-10-21T08:16:47+00:00",
+     "summary": "The final plan retains CAKE buybacks from non-stablecoin protocol fees and phases a roughly 69% cut in effective daily emissions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T08:16:47+00:00",
+   "last_seen": "2026-10-21T08:16:47+00:00",
+   "summary": "The final plan retains CAKE buybacks from non-stablecoin protocol fees and phases a roughly 69% cut in effective daily emissions.",
+   "tags": []
+  },
+  {
+   "id": "fe08ec9720",
+   "title": "Ether ETF outflows continue, pass $1B in October so far",
+   "date": "2026-10-21T08:11:50+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ether ETF outflows continue, pass $1B in October so far",
+     "url": "https://cointelegraph.com/markets/ether-etf-outflows-near-1-1-billion-october?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-21T08:11:50+00:00",
+     "summary": "US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday\u2019s spike."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T08:11:50+00:00",
+   "last_seen": "2026-10-21T08:11:50+00:00",
+   "summary": "US spot Ether ETFs have shed $1.08 billion so far in October, the biggest monthly outflow of 2026, while Bitcoin ETF inflows slowed after Monday\u2019s spike.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "49a1c801b1",
+   "title": "Zcash developers confirm November date for upgrade that triples payment speed",
+   "date": "2026-10-21T08:10:12+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Zcash developers confirm November date for upgrade that triples payment speed",
+     "url": "https://www.coindesk.com/markets/2026/10/21/zcash-developers-confirm-november-date-for-upgrade-that-triples-payment-speed",
+     "date": "2026-10-21T08:10:12+00:00",
+     "summary": "The NU7 upgrade will cut the time between Zcash blocks to 25 seconds from 75 seconds. The chosen block height still has to be merged into the spec and shipped in node software."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T08:10:12+00:00",
+   "last_seen": "2026-10-21T08:10:12+00:00",
+   "summary": "The NU7 upgrade will cut the time between Zcash blocks to 25 seconds from 75 seconds. The chosen block height still has to be merged into the spec and shipped in node software.",
+   "tags": []
+  },
   {
    "id": "34d603a229",
    "title": "B\u00fcrgel Says PHP Exploits Are Circulating Ahead of Critical Patches",

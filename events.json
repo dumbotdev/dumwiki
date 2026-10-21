@@ -1,6 +1,47 @@
 {
- "updated": "2026-10-21T01:52:15.076061+00:00",
+ "updated": "2026-10-21T02:51:52.721740+00:00",
  "events": [
+  {
+   "id": "2529a474de",
+   "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+   "date": "2026-10-21T02:30:08+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+     "url": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
+     "date": "2026-10-21T02:30:08+00:00",
+     "summary": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T02:30:08+00:00",
+   "last_seen": "2026-10-21T02:30:08+00:00",
+   "summary": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
+   "tags": [
+    "ethereum",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "0112bdcecd",
+   "title": "Kazakhstan shuts down mobile access to 6 major crypto exchanges",
+   "date": "2026-10-21T02:20:32+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Kazakhstan shuts down mobile access to 6 major crypto exchanges",
+     "url": "https://cryptoslate.com/kazakhstan-shuts-down-mobile-access-to-6-major-crypto-exchanges/",
+     "date": "2026-10-21T02:20:32+00:00",
+     "summary": "September orders bind Apple and Google upon service and target unauthorized services in the AIFC; implementation remains unconfirmed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T02:20:32+00:00",
+   "last_seen": "2026-10-21T02:20:32+00:00",
+   "summary": "September orders bind Apple and Google upon service and target unauthorized services in the AIFC; implementation remains unconfirmed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
   {
    "id": "8e9c666a31",
    "title": "Musk says SpaceX-Tesla merger a \u2018good idea\u2019 as AI revenue jumps ninefold",

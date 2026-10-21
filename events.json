@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-21T07:08:29.656811+00:00",
+ "updated": "2026-10-21T07:59:30.964794+00:00",
  "events": [
+  {
+   "id": "34d603a229",
+   "title": "B\u00fcrgel Says PHP Exploits Are Circulating Ahead of Critical Patches",
+   "date": "2026-10-21T07:58:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "B\u00fcrgel Says PHP Exploits Are Circulating Ahead of Critical Patches",
+     "url": "https://thedefiant.io/news/security/b-rgel-says-php-exploits-are-circulating-ahead-of-critical-patches",
+     "date": "2026-10-21T07:58:31+00:00",
+     "summary": "PHP\u2019s fixes are scheduled for 10 a.m. ET; security advisories urge operators to restrict exposed services and prepare to patch immediately."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T07:58:31+00:00",
+   "last_seen": "2026-10-21T07:58:31+00:00",
+   "summary": "PHP\u2019s fixes are scheduled for 10 a.m. ET; security advisories urge operators to restrict exposed services and prepare to patch immediately.",
+   "tags": []
+  },
+  {
+   "id": "40f8677986",
+   "title": "Germany\u2019s main savings bank network launches Bitcoin trading",
+   "date": "2026-10-21T07:10:17+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Germany\u2019s main savings bank network launches Bitcoin trading",
+     "url": "https://cryptoslate.com/germanys-main-savings-bank-network-launches-bitcoin-trading/",
+     "date": "2026-10-21T07:10:17+00:00",
+     "summary": "Deka\u2019s launch brings crypto trading to participating savings banks, with a \u20ac0.99 order fee plus a spread and restricted transfers. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T07:10:17+00:00",
+   "last_seen": "2026-10-21T07:10:17+00:00",
+   "summary": "Deka\u2019s launch brings crypto trading to participating savings banks, with a \u20ac0.99 order fee plus a spread and restricted transfers. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "472d4ba666",
    "title": "Malaysia central bank launches DLT platform for tokenized bonds",

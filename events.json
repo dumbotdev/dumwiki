@@ -1,6 +1,67 @@
 {
- "updated": "2026-10-21T19:01:55.649180+00:00",
+ "updated": "2026-10-21T19:50:34.653109+00:00",
  "events": [
+  {
+   "id": "b4c34e8967",
+   "title": "13 JPMD Lookalikes Emerge Amid JPMorgan\u2019s Ethereum Launch",
+   "date": "2026-10-21T19:48:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "13 JPMD Lookalikes Emerge Amid JPMorgan\u2019s Ethereum Launch",
+     "url": "https://thedefiant.io/converge/security/13-jpmd-lookalikes-emerge-amid-jpmorgan-s-ethereum-launch",
+     "date": "2026-10-21T19:48:15+00:00",
+     "summary": "The bank\u2019s genuine Ethereum token showed zero supply and holders, while its documentation warns that same-name tokens at other addresses are unaffiliated."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T19:48:15+00:00",
+   "last_seen": "2026-10-21T19:48:15+00:00",
+   "summary": "The bank\u2019s genuine Ethereum token showed zero supply and holders, while its documentation warns that same-name tokens at other addresses are unaffiliated.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "13cd1e6dcd",
+   "title": "Krak vs. PayPal vs. Cash App: Fees, Reach and Bank Withdrawals",
+   "date": "2026-10-21T19:47:52+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Krak vs. PayPal vs. Cash App: Fees, Reach and Bank Withdrawals",
+     "url": "https://thedefiant.io/news/cefi/krak-vs-paypal-vs-cash-app-fees-reach-and-bank-withdrawals",
+     "date": "2026-10-21T19:47:52+00:00",
+     "summary": "Cash App requires US residency, while Krak and PayPal support US-to-UK personal payments. Conversion and bank withdrawal terms determine the cost beyond the in-app transfer."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T19:47:52+00:00",
+   "last_seen": "2026-10-21T19:47:52+00:00",
+   "summary": "Cash App requires US residency, while Krak and PayPal support US-to-UK personal payments. Conversion and bank withdrawal terms determine the cost beyond the in-app transfer.",
+   "tags": []
+  },
+  {
+   "id": "90f8592bb3",
+   "title": "Polymarket US vs. Kalshi: What a 100-Contract Trade Costs",
+   "date": "2026-10-21T19:47:17+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Polymarket US vs. Kalshi: What a 100-Contract Trade Costs",
+     "url": "https://thedefiant.io/news/cefi/polymarket-us-vs-kalshi-what-a-100-contract-trade-costs",
+     "date": "2026-10-21T19:47:17+00:00",
+     "summary": "A hypothetical buy at 40 cents and sale at 60 cents produces nearly identical taker profits. Resting orders and funding methods can change the comparison."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T19:47:17+00:00",
+   "last_seen": "2026-10-21T19:47:17+00:00",
+   "summary": "A hypothetical buy at 40 cents and sale at 60 cents produces nearly identical taker profits. Resting orders and funding methods can change the comparison.",
+   "tags": [
+    "funding"
+   ]
+  },
   {
    "id": "58cc4a5e6f",
    "title": "OpenAI reveals AI agents disabled safety monitors, with one falsely denying its actions",

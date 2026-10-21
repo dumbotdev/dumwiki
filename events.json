@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-20T23:44:54.115502+00:00",
+ "updated": "2026-10-21T01:04:57.524616+00:00",
  "events": [
+  {
+   "id": "0fdc7f949c",
+   "title": "Pendle Daily Volume Hits $159 Million, Led by Ethereum",
+   "date": "2026-10-21T00:16:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Pendle Daily Volume Hits $159 Million, Led by Ethereum",
+     "url": "https://thedefiant.io/news/defi/pendle-daily-volume-hits-159-million-led-by-ethereum",
+     "date": "2026-10-21T00:16:04+00:00",
+     "summary": "Ethereum accounted for $121.5 million of trading, while the protocol's locked value rose only modestly during the day."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T00:16:04+00:00",
+   "last_seen": "2026-10-21T00:16:04+00:00",
+   "summary": "Ethereum accounted for $121.5 million of trading, while the protocol's locked value rose only modestly during the day.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "2ccf710d8a",
+   "title": "Kraken\u2019s $80 stablecoin fee gap exposes hidden costs",
+   "date": "2026-10-21T00:10:07+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Kraken\u2019s $80 stablecoin fee gap exposes hidden costs",
+     "url": "https://cryptoslate.com/krakens-80-stablecoin-fee-gap-exposes-hidden-costs/",
+     "date": "2026-10-21T00:10:07+00:00",
+     "summary": "An 80-basis-point trading-fee gap changes a conditional comparison, while payouts, account access and remaining route costs determine the full price. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-21T00:10:07+00:00",
+   "last_seen": "2026-10-21T00:10:07+00:00",
+   "summary": "An 80-basis-point trading-fee gap changes a conditional comparison, while payouts, account access and remaining route costs determine the full price. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "exchanges",
+    "markets",
+    "stablecoins"
+   ]
+  },
   {
    "id": "9b21b64db4",
    "title": "Qubic restarts blockchain, opens recovery claims after $1.4M hack",

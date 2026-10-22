@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-22T04:52:59.608255+00:00",
+ "updated": "2026-10-22T05:50:41.666642+00:00",
  "events": [
+  {
+   "id": "d3fd29de28",
+   "title": "Move over memecoins: Crypto \u2018meme games\u2019 coming, bagholders and all",
+   "date": "2026-10-22T05:35:38+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Move over memecoins: Crypto \u2018meme games\u2019 coming, bagholders and all",
+     "url": "https://cointelegraph.com/news/move-over-memecoins-crypto-meme-games-coming-bagholders-and-all?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T05:35:38+00:00",
+     "summary": "\u201cPlenty will be ponzis. Plenty will get exploited. Plenty will insta die. There will be ridiculous gains, and people will get absolutely f***ing rinsed,\u201d says Illuvium co-founder Kieran Warwick."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T05:35:38+00:00",
+   "last_seen": "2026-10-22T05:35:38+00:00",
+   "summary": "\u201cPlenty will be ponzis. Plenty will get exploited. Plenty will insta die. There will be ridiculous gains, and people will get absolutely f***ing rinsed,\u201d says Illuvium co-founder Kieran Warwick.",
+   "tags": [
+    "memecoins"
+   ]
+  },
+  {
+   "id": "aacce0c861",
+   "title": "Solana\u2019s biggest network change since 2020 is live. Here\u2019s how users benefit",
+   "date": "2026-10-22T05:24:58+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Solana\u2019s biggest network change since 2020 is live. Here\u2019s how users benefit",
+     "url": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+     "date": "2026-10-22T05:24:58+00:00",
+     "summary": "The new voting system targets settlement in about 150 milliseconds, potentially shortening waits for payments and deposits. Users can keep their existing wallets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T05:24:58+00:00",
+   "last_seen": "2026-10-22T05:24:58+00:00",
+   "summary": "The new voting system targets settlement in about 150 milliseconds, potentially shortening waits for payments and deposits. Users can keep their existing wallets.",
+   "tags": [
+    "legal",
+    "solana"
+   ]
+  },
   {
    "id": "4d46e89485",
    "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",

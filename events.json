@@ -1,6 +1,93 @@
 {
- "updated": "2026-10-22T20:52:17.447057+00:00",
+ "updated": "2026-10-22T21:50:42.054337+00:00",
  "events": [
+  {
+   "id": "1a2dbad20b",
+   "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+   "date": "2026-10-22T21:39:18+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",
+     "url": "https://cointelegraph.com/news/circle-shareholder-lawsuit-donald-trump-world-liberty-financial-steve-witkoff-crypto-corruption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T21:39:18+00:00",
+     "summary": "According to a Circle shareholder, the US president\u2019s \u201ccorruption\u201d through USD1 left the company unable to compete with stablecoins, harming USDC."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T21:39:18+00:00",
+   "last_seen": "2026-10-22T21:39:18+00:00",
+   "summary": "According to a Circle shareholder, the US president\u2019s \u201ccorruption\u201d through USD1 left the company unable to compete with stablecoins, harming USDC.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "7b27f4d705",
+   "title": "Circle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals",
+   "date": "2026-10-22T21:23:58+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Circle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals",
+     "url": "https://bitcoinmagazine.com/news/trump-sued-for-alleged-crypto-corruption",
+     "date": "2026-10-22T21:23:58+00:00",
+     "summary": "Bitcoin Magazine Circle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals A shareholder of stablecoin giant Circle has alleged the president corruptly cashed in on crypto deals. This post Circle Shareholder Sues Trump, Alleging Unconstitutional..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T21:23:58+00:00",
+   "last_seen": "2026-10-22T21:23:58+00:00",
+   "summary": "Bitcoin Magazine Circle Shareholder Sues Trump, Alleging Unconstitutional Profits From $2B UAE Crypto Deals A shareholder of stablecoin giant Circle has alleged the president corruptly cashed in on crypto deals. This post Circle Shareholder Sues Trump, Alleging Unconstitutional...",
+   "tags": [
+    "bitcoin",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "cdd6edf5e7",
+   "title": "OCC drops proposed affiliate rewards presumption, but stablecoin yield ban stays",
+   "date": "2026-10-22T21:20:12+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "OCC drops proposed affiliate rewards presumption, but stablecoin yield ban stays",
+     "url": "https://cryptoslate.com/occ-drops-proposed-affiliate-rewards-presumption-but-stablecoin-yield-ban-stays/",
+     "date": "2026-10-22T21:20:12+00:00",
+     "summary": "The final GENIUS Act rule leaves linked issuer and third-party rewards subject to review and gives existing programs no grandfathering. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T21:20:12+00:00",
+   "last_seen": "2026-10-22T21:20:12+00:00",
+   "summary": "The final GENIUS Act rule leaves linked issuer and third-party rewards subject to review and gives existing programs no grandfathering. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi",
+    "regulation",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "3f3dbed174",
+   "title": "Interpol Cybercrime Sweep Recovers Over $105 Million, Nets 1,462 Arrests",
+   "date": "2026-10-22T21:14:43+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Interpol Cybercrime Sweep Recovers Over $105 Million, Nets 1,462 Arrests",
+     "url": "https://thedefiant.io/news/security/interpol-cybercrime-sweep-recovers-over-105-million-nets-1-462-arrests",
+     "date": "2026-10-22T21:14:43+00:00",
+     "summary": "Angolan authorities seized more than 2,000 crypto-mining devices; a Nigerian probe traced more than $2.4 million in suspected fraud proceeds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T21:14:43+00:00",
+   "last_seen": "2026-10-22T21:14:43+00:00",
+   "summary": "Angolan authorities seized more than 2,000 crypto-mining devices; a Nigerian probe traced more than $2.4 million in suspected fraud proceeds.",
+   "tags": [
+    "legal"
+   ]
+  },
   {
    "id": "6d8dee38b8",
    "title": "ChatGPT Teaches Messi Chess\u2014On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",

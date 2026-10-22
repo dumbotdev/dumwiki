@@ -1,6 +1,150 @@
 {
- "updated": "2026-10-22T22:49:45.973884+00:00",
+ "updated": "2026-10-22T23:45:58.093552+00:00",
  "events": [
+  {
+   "id": "a521832d35",
+   "title": "XRPL recovers from network slowdown as critical security upgrade faces two-week delay",
+   "date": "2026-10-22T23:40:48+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRPL recovers from network slowdown as critical security upgrade faces two-week delay",
+     "url": "https://cryptoslate.com/xrpl-recovers-from-network-slowdown-as-critical-security-upgrade-faces-two-week-delay/",
+     "date": "2026-10-22T23:40:48+00:00",
+     "summary": "The XRP Ledger (XRPL) has recovered from intermittent transaction-processing delays, although developers are still preparing a permanent software correction. On Oct. 22, XRP Ledger Operations confirmed that ledger-closing times had returned to normal after a configuration change..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T23:40:48+00:00",
+   "last_seen": "2026-10-22T23:40:48+00:00",
+   "summary": "The XRP Ledger (XRPL) has recovered from intermittent transaction-processing delays, although developers are still preparing a permanent software correction. On Oct. 22, XRP Ledger Operations confirmed that ledger-closing times had returned to normal after a configuration change...",
+   "tags": []
+  },
+  {
+   "id": "b020724439",
+   "title": "Bitcoin and Ethereum Take Different Paths to Post-Quantum Wallets",
+   "date": "2026-10-22T23:18:52+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin and Ethereum Take Different Paths to Post-Quantum Wallets",
+     "url": "https://thedefiant.io/news/security/bitcoin-and-ethereum-take-different-paths-to-post-quantum-wallets",
+     "date": "2026-10-22T23:18:52+00:00",
+     "summary": "Ethereum contracts can verify alternative signatures today, but protecting existing accounts requires more than adding a new signer. Bitcoin\u2019s P2MR proposal does not itself add post-quantum signatures."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T23:18:52+00:00",
+   "last_seen": "2026-10-22T23:18:52+00:00",
+   "summary": "Ethereum contracts can verify alternative signatures today, but protecting existing accounts requires more than adding a new signer. Bitcoin\u2019s P2MR proposal does not itself add post-quantum signatures.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "71bce7da40",
+   "title": "Uniswap Swap Costs: What Reduces Your Output and What Is Paid Separately",
+   "date": "2026-10-22T23:18:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Uniswap Swap Costs: What Reduces Your Output and What Is Paid Separately",
+     "url": "https://thedefiant.io/news/defi/uniswap-swap-costs-what-reduces-your-output-and-what-is-paid-separately",
+     "date": "2026-10-22T23:18:19+00:00",
+     "summary": "A historical ETH-to-USDC receipt shows how deductions reconcile. UniswapX handles network costs differently from a classic pool swap."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T23:18:19+00:00",
+   "last_seen": "2026-10-22T23:18:19+00:00",
+   "summary": "A historical ETH-to-USDC receipt shows how deductions reconcile. UniswapX handles network costs differently from a classic pool swap.",
+   "tags": []
+  },
+  {
+   "id": "055ec19d0d",
+   "title": "Robinhood vs. Securitize: Stock Token Access Compared",
+   "date": "2026-10-22T23:14:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Robinhood vs. Securitize: Stock Token Access Compared",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/robinhood-vs-securitize-stock-token-access-compared",
+     "date": "2026-10-22T23:14:19+00:00",
+     "summary": "Robinhood\u2019s wallet product advertises 24/7 trading; Securitize advertises 24/5, while its NYSE and OKXICE connections remain planned."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T23:14:19+00:00",
+   "last_seen": "2026-10-22T23:14:19+00:00",
+   "summary": "Robinhood\u2019s wallet product advertises 24/7 trading; Securitize advertises 24/5, while its NYSE and OKXICE connections remain planned.",
+   "tags": []
+  },
+  {
+   "id": "6f0eed68ef",
+   "title": "The Sleeper Has Awakened: Pepenardo\u2019s Sleeping Knights Return",
+   "date": "2026-10-22T23:06:48+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "The Sleeper Has Awakened: Pepenardo\u2019s Sleeping Knights Return",
+     "url": "https://bitcoinmagazine.com/culture/the-sleeper-has-awakened-pepenardos-sleeping-knights-return",
+     "date": "2026-10-22T23:06:48+00:00",
+     "summary": "Bitcoin Magazine The Sleeper Has Awakened: Pepenardo\u2019s Sleeping Knights Return Hand-altered magazine covers, one-of-one trading cards, and the evolving culture of bitcoin collectibles. This post The Sleeper Has Awakened: Pepenardo\u2019s Sleeping Knights Return first appeared on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T23:06:48+00:00",
+   "last_seen": "2026-10-22T23:06:48+00:00",
+   "summary": "Bitcoin Magazine The Sleeper Has Awakened: Pepenardo\u2019s Sleeping Knights Return Hand-altered magazine covers, one-of-one trading cards, and the evolving culture of bitcoin collectibles. This post The Sleeper Has Awakened: Pepenardo\u2019s Sleeping Knights Return first appeared on...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "14dc458f7f",
+   "title": "Blumenthal Seeks Records on Tether Payments to Bo Hines's Firm",
+   "date": "2026-10-22T22:58:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Blumenthal Seeks Records on Tether Payments to Bo Hines's Firm",
+     "url": "https://thedefiant.io/converge/regulation/blumenthal-seeks-records-on-tether-payments-to-bo-hines-s-firm",
+     "date": "2026-10-22T22:58:46+00:00",
+     "summary": "The senator asked Tether and Nxum to provide payment records, crypto wallet addresses and lobbying communications by Nov. 3."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T22:58:46+00:00",
+   "last_seen": "2026-10-22T22:58:46+00:00",
+   "summary": "The senator asked Tether and Nxum to provide payment records, crypto wallet addresses and lobbying communications by Nov. 3.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "d652b17be5",
+   "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+   "date": "2026-10-22T22:50:22+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "New DeepSeek ban in US, Swiss-Asia crypto ties deepen: Asia Express",
+     "url": "https://cointelegraph.com/magazine/new-deepseek-ban-in-us-swiss-asia-crypto-ties-deepen-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T22:50:22+00:00",
+     "summary": "DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe\u2019s first spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T22:50:22+00:00",
+   "last_seen": "2026-10-22T22:50:22+00:00",
+   "summary": "DeepSeek banned from US federal civilian agencies over spying fears. Singapore firm behind Europe\u2019s first spot Bitcoin ETF, as Switzerland partners with Vietnam on crypto tech.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "regulation"
+   ]
+  },
   {
    "id": "066fecf918",
    "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",

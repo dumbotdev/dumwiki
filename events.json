@@ -1,6 +1,132 @@
 {
- "updated": "2026-10-22T16:53:58.374347+00:00",
+ "updated": "2026-10-22T17:49:14.686458+00:00",
  "events": [
+  {
+   "id": "ad612dd86f",
+   "title": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&#038;P 500 and Global Markets With Them",
+   "date": "2026-10-22T17:33:38+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&#038;P 500 and Global Markets With Them",
+     "url": "https://decrypt.co/381613/oil-climbs-above-111-as-ai-stocks-slide-dragging-the-sp-500-and-global-markets-with-them",
+     "date": "2026-10-22T17:33:38+00:00",
+     "summary": "Brent crude hit a five-month high while Nvidia, Meta and chip stocks fell, pulling Asia's benchmark indexes down by up to 3.5% a week after South Korea's Kospi plunged 7.57%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T17:33:38+00:00",
+   "last_seen": "2026-10-22T17:33:38+00:00",
+   "summary": "Brent crude hit a five-month high while Nvidia, Meta and chip stocks fell, pulling Asia's benchmark indexes down by up to 3.5% a week after South Korea's Kospi plunged 7.57%.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "6416a489d1",
+   "title": "Pump.fun Adds Take-Profit and Stop-Loss Orders for EVM Trades",
+   "date": "2026-10-22T17:27:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Pump.fun Adds Take-Profit and Stop-Loss Orders for EVM Trades",
+     "url": "https://thedefiant.io/news/defi/pump-fun-adds-take-profit-and-stop-loss-orders-for-evm-trades",
+     "date": "2026-10-22T17:27:49+00:00",
+     "summary": "The rollout extends tools available on Solana since September to Robinhood, BSC, Base, HyperEVM, Arc and Ink."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T17:27:49+00:00",
+   "last_seen": "2026-10-22T17:27:49+00:00",
+   "summary": "The rollout extends tools available on Solana since September to Robinhood, BSC, Base, HyperEVM, Arc and Ink.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "44aa1f6702",
+   "title": "Underdog taps zerohash to bring crypto deposits to prediction markets",
+   "date": "2026-10-22T17:24:49+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Underdog taps zerohash to bring crypto deposits to prediction markets",
+     "url": "https://cointelegraph.com/news/underdog-taps-zerohash-to-bring-crypto-deposits-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T17:24:49+00:00",
+     "summary": "The new funding option, expected to launch later this year, will allow eligible Underdog users to deposit digital assets around the clock."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T17:24:49+00:00",
+   "last_seen": "2026-10-22T17:24:49+00:00",
+   "summary": "The new funding option, expected to launch later this year, will allow eligible Underdog users to deposit digital assets around the clock.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "d00ebb21d7",
+   "title": "Lightning Labs Urges Immediate Updates Over Certificate Vulnerability",
+   "date": "2026-10-22T17:01:57+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Lightning Labs Urges Immediate Updates Over Certificate Vulnerability",
+     "url": "https://thedefiant.io/news/security/lightning-labs-urges-immediate-updates-over-certificate-vulnerability",
+     "date": "2026-10-22T17:01:57+00:00",
+     "summary": "New binaries block trust in compromised eMudhra certificate keys. Updating Go on a host alone does not patch software already installed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T17:01:57+00:00",
+   "last_seen": "2026-10-22T17:01:57+00:00",
+   "summary": "New binaries block trust in compromised eMudhra certificate keys. Updating Go on a host alone does not patch software already installed.",
+   "tags": []
+  },
+  {
+   "id": "0095945809",
+   "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
+   "date": "2026-10-22T16:50:51+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin hashrate hits seven-month high as AI shift fails to ease mining competition",
+     "url": "https://cointelegraph.com/news/bitcoin-mining-difficulty-hashrate-recovery-ai-shift?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T16:50:51+00:00",
+     "summary": "According to BlocksBridge, Bitcoin\u2019s mining difficulty is rising despite the industry\u2019s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T16:50:51+00:00",
+   "last_seen": "2026-10-22T16:50:51+00:00",
+   "summary": "According to BlocksBridge, Bitcoin\u2019s mining difficulty is rising despite the industry\u2019s AI transition, with smaller operators potentially absorbing equipment abandoned by larger competitors.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "ccbb3a02fa",
+   "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
+   "date": "2026-10-22T16:48:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Irish cenbank fines Coinbase arm $3.6M for oversight, safeguard failures",
+     "url": "https://cointelegraph.com/news/ireland-central-bank-coinbase-oversight-safeguard-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T16:48:00+00:00",
+     "summary": "According to the Central Bank of Ireland, Coinbase Ireland had agreed with the facts around the enforcement action and will be subject to fines and sanctions upon approval by a high court."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T16:48:00+00:00",
+   "last_seen": "2026-10-22T16:48:00+00:00",
+   "summary": "According to the Central Bank of Ireland, Coinbase Ireland had agreed with the facts around the enforcement action and will be subject to fines and sanctions upon approval by a high court.",
+   "tags": [
+    "exchanges",
+    "legal"
+   ]
+  },
   {
    "id": "e769eb1724",
    "title": "Bitcoin Falls 3.7% to Test $81,500 ETF Cost Basis",

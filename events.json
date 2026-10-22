@@ -1,6 +1,131 @@
 {
- "updated": "2026-10-22T08:58:01.482301+00:00",
+ "updated": "2026-10-22T09:55:24.767045+00:00",
  "events": [
+  {
+   "id": "91f48d95fb",
+   "title": "Live updates: Bitcoin\u2019s round trip to $85,000 burns traders on both sides",
+   "date": "2026-10-22T09:54:26+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Bitcoin\u2019s round trip to $85,000 burns traders on both sides",
+     "url": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+     "date": "2026-10-22T09:54:26+00:00",
+     "summary": "Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T09:54:26+00:00",
+   "last_seen": "2026-10-22T09:54:26+00:00",
+   "summary": "Bitcoin gave back its run at $85,000 and broke below $82,500 as weak tech earnings soured the mood. XMR bucked the drop with an 11% jump.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "4b744f52a2",
+   "title": "Base Active Addresses Jump 82.5% to a 30-Day High",
+   "date": "2026-10-22T09:53:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Base Active Addresses Jump 82.5% to a 30-Day High",
+     "url": "https://thedefiant.io/news/blockchains/base-active-addresses-jump-82-5-to-a-30-day-high",
+     "date": "2026-10-22T09:53:18+00:00",
+     "summary": "Transactions and user-paid fees also rose as the Ethereum Layer 2 recorded 629,142 active addresses on Oct. 21."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T09:53:18+00:00",
+   "last_seen": "2026-10-22T09:53:18+00:00",
+   "summary": "Transactions and user-paid fees also rose as the Ethereum Layer 2 recorded 629,142 active addresses on Oct. 21.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "2859238616",
+   "title": "Starknet voters back research into life beyond Ethereum",
+   "date": "2026-10-22T09:37:54+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Starknet voters back research into life beyond Ethereum",
+     "url": "https://cointelegraph.com/news/starknet-vote-post-quantum-l1-research-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T09:37:54+00:00",
+     "summary": "StarkWare plans to release a draft whitepaper in November as it explores an independent, quantum-resistant blockchain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T09:37:54+00:00",
+   "last_seen": "2026-10-22T09:37:54+00:00",
+   "summary": "StarkWare plans to release a draft whitepaper in November as it explores an independent, quantum-resistant blockchain.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "d0735931ea",
+   "title": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
+   "date": "2026-10-22T09:32:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
+     "date": "2026-10-22T09:32:00+00:00",
+     "summary": "Starknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T09:32:00+00:00",
+   "last_seen": "2026-10-22T09:32:00+00:00",
+   "summary": "Starknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November.",
+   "tags": []
+  },
+  {
+   "id": "fbf0796c74",
+   "title": "Layer 2 Scaling Solutions",
+   "date": "2026-10-22T09:15:50+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Layer 2 Scaling Solutions",
+     "url": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
+     "date": "2026-10-22T09:15:50+00:00",
+     "summary": "Layer 2 scaling solutions help blockchains like Ethereum process more activity without forcing every transaction to happen directly on the base chain. Ethereum\u2019s main network is secure and decentralized, but blockspace is limited. When demand rises, fees increase and users can..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T09:15:50+00:00",
+   "last_seen": "2026-10-22T09:15:50+00:00",
+   "summary": "Layer 2 scaling solutions help blockchains like Ethereum process more activity without forcing every transaction to happen directly on the base chain. Ethereum\u2019s main network is secure and decentralized, but blockspace is limited. When demand rises, fees increase and users can...",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "c6f1ed5dd0",
+   "title": "South Korea\u2019s crypto bill nears completion while tax debate intensifies: reports",
+   "date": "2026-10-22T09:11:57+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "South Korea\u2019s crypto bill nears completion while tax debate intensifies: reports",
+     "url": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
+     "date": "2026-10-22T09:11:57+00:00",
+     "summary": "The bill seeks to establish a framework for digital assets, including licensing regimes for exchanges and rules for stablecoin issuance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T09:11:57+00:00",
+   "last_seen": "2026-10-22T09:11:57+00:00",
+   "summary": "The bill seeks to establish a framework for digital assets, including licensing regimes for exchanges and rules for stablecoin issuance.",
+   "tags": [
+    "regulation",
+    "stablecoins"
+   ]
+  },
   {
    "id": "1d686fa353",
    "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
@@ -332,12 +457,19 @@
      "url": "https://thedefiant.io/news/security/cloudflare-ceo-reports-millions-of-php2shell-exploit-attempts",
      "date": "2026-10-22T03:39:17+00:00",
      "summary": "PHP has shipped fixes for four supported branches. The flaws can let attackers run code on vulnerable web servers without logging in."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "PHP flaw draws millions of exploit attempts, Cloudflare CEO warns",
+     "url": "https://cointelegraph.com/news/cloudflare-millions-exploit-attempts-php-vulnerability-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T09:06:02+00:00",
+     "summary": "Cloudflare\u2019s Matthew Prince said the network saw thousands of exploit attempts even before the PHP vulnerability was publicly disclosed."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-22T03:39:17+00:00",
-   "last_seen": "2026-10-22T03:39:17+00:00",
-   "summary": "PHP has shipped fixes for four supported branches. The flaws can let attackers run code on vulnerable web servers without logging in.",
+   "last_seen": "2026-10-22T09:06:02+00:00",
+   "summary": "Cloudflare\u2019s Matthew Prince said the network saw thousands of exploit attempts even before the PHP vulnerability was publicly disclosed.",
    "tags": [
     "security"
    ]

@@ -1,6 +1,89 @@
 {
- "updated": "2026-10-22T21:50:42.054337+00:00",
+ "updated": "2026-10-22T22:49:45.973884+00:00",
  "events": [
+  {
+   "id": "066fecf918",
+   "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+   "date": "2026-10-22T22:43:36+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Senate's top Democratic investigator looking into Tether payments to Bo Hines' firm",
+     "url": "https://www.coindesk.com/policy/2026/10/22/senate-s-top-democratic-investigator-looking-into-tether-payments-to-bo-hines-firm",
+     "date": "2026-10-22T22:43:36+00:00",
+     "summary": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T22:43:36+00:00",
+   "last_seen": "2026-10-22T22:43:36+00:00",
+   "summary": "Senator Richard Blumenthal, the ranking Democrat on the investigations subcommittee, added a probe of the ex-White House crypto adviser to his list of crypto interests.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "b7241c738a",
+   "title": "Bitcoin ETFs sold through 7 of 8 crashes even as Wall Street makes BTC selloffs less violent",
+   "date": "2026-10-22T22:30:38+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin ETFs sold through 7 of 8 crashes even as Wall Street makes BTC selloffs less violent",
+     "url": "https://cryptoslate.com/bitcoin-etfs-sold-through-7-of-8-crashes-even-as-wall-street-makes-btc-selloffs-less-violent/",
+     "date": "2026-10-22T22:30:38+00:00",
+     "summary": "Bitcoin ETFs recorded outflows during seven of eight major selloffs, challenging expectations that Wall Street investors would support prices during downturns. A new DWF Labs report shared with CryptoSlate found that US spot Bitcoin exchange-traded funds consistently lost money..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T22:30:38+00:00",
+   "last_seen": "2026-10-22T22:30:38+00:00",
+   "summary": "Bitcoin ETFs recorded outflows during seven of eight major selloffs, challenging expectations that Wall Street investors would support prices during downturns. A new DWF Labs report shared with CryptoSlate found that US spot Bitcoin exchange-traded funds consistently lost money...",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "f3cf86fa87",
+   "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
+   "date": "2026-10-22T22:21:46+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Is the Internet Safe Again After the PHP Nightmare? What You Need to Know",
+     "url": "https://decrypt.co/381662/internet-safe-again-after-php-nightmare-what-you-need-know",
+     "date": "2026-10-22T22:21:46+00:00",
+     "summary": "PHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet. Here's what that means for your passwords, your crypto, and your browsing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T22:21:46+00:00",
+   "last_seen": "2026-10-22T22:21:46+00:00",
+   "summary": "PHP shipped its fix, attackers launched millions of attempts, and governments say no one has broken in yet. Here's what that means for your passwords, your crypto, and your browsing.",
+   "tags": []
+  },
+  {
+   "id": "3717b1dc4e",
+   "title": "Circle Opens USDC Auctions That Pay Minters a Rebate",
+   "date": "2026-10-22T22:08:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Circle Opens USDC Auctions That Pay Minters a Rebate",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/circle-opens-usdc-auctions-that-pay-minters-a-rebate",
+     "date": "2026-10-22T22:08:46+00:00",
+     "summary": "Hourly Match auctions pass the redemption clearing fee to minters, with charges capped at Circle\u2019s Express rate."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T22:08:46+00:00",
+   "last_seen": "2026-10-22T22:08:46+00:00",
+   "summary": "Hourly Match auctions pass the redemption clearing fee to minters, with charges capped at Circle\u2019s Express rate.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "1a2dbad20b",
    "title": "Circle shareholder sues Trump, World Liberty and Steve Witkoff over crypto deals",

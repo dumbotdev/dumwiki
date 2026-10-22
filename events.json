@@ -1,6 +1,93 @@
 {
- "updated": "2026-10-22T08:00:35.177708+00:00",
+ "updated": "2026-10-22T08:58:01.482301+00:00",
  "events": [
+  {
+   "id": "1d686fa353",
+   "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+   "date": "2026-10-22T08:49:08+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+     "url": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+     "date": "2026-10-22T08:49:08+00:00",
+     "summary": "Technology shares led regional losses as mixed U.S. earnings unsettled investors and Brent crude climbed above $112 a barrel."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T08:49:08+00:00",
+   "last_seen": "2026-10-22T08:49:08+00:00",
+   "summary": "Technology shares led regional losses as mixed U.S. earnings unsettled investors and Brent crude climbed above $112 a barrel.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "68c2e16100",
+   "title": "Bitcoin\u2019s $80,000 floor faces Friday inflation test as ETF inflows lose momentum",
+   "date": "2026-10-22T08:40:20+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s $80,000 floor faces Friday inflation test as ETF inflows lose momentum",
+     "url": "https://cryptoslate.com/bitcoins-80000-floor-faces-friday-inflation-test-as-etf-inflows-lose-momentum/",
+     "date": "2026-10-22T08:40:20+00:00",
+     "summary": "Bitcoin holds the $80,000 area, where Glassnode places the estimated average acquisition costs of US spot Bitcoin ETFs and publicly traded corporate treasuries, while ETF inflows slowed by 95.6% in a day. Farside Investors recorded $526.7 million in net inflows on Oct. 19 and..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T08:40:20+00:00",
+   "last_seen": "2026-10-22T08:40:20+00:00",
+   "summary": "Bitcoin holds the $80,000 area, where Glassnode places the estimated average acquisition costs of US spot Bitcoin ETFs and publicly traded corporate treasuries, while ETF inflows slowed by 95.6% in a day. Farside Investors recorded $526.7 million in net inflows on Oct. 19 and...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "5366af14ed",
+   "title": "CoinDCX Co-Founder Denies New Hack After $16 Million Wallet Alert",
+   "date": "2026-10-22T08:18:24+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "CoinDCX Co-Founder Denies New Hack After $16 Million Wallet Alert",
+     "url": "https://thedefiant.io/news/hacks/coindcx-co-founder-denies-new-hack-after-16-million-wallet-alert",
+     "date": "2026-10-22T08:18:24+00:00",
+     "summary": "Sumit Gupta says the flagged addresses were compromised in July 2025 and that no funds from CoinDCX\u2019s current wallets were affected."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T08:18:24+00:00",
+   "last_seen": "2026-10-22T08:18:24+00:00",
+   "summary": "Sumit Gupta says the flagged addresses were compromised in July 2025 and that no funds from CoinDCX\u2019s current wallets were affected.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "011c60eda1",
+   "title": "Alpha Modus Reports $250 Million-Plus Bitcoin Holding From Share Swap",
+   "date": "2026-10-22T08:02:40+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Alpha Modus Reports $250 Million-Plus Bitcoin Holding From Share Swap",
+     "url": "https://thedefiant.io/converge/cefi/alpha-modus-reports-250-million-plus-bitcoin-holding-from-share-swap",
+     "date": "2026-10-22T08:02:40+00:00",
+     "summary": "The Nasdaq-listed company exchanged 51.6 million shares and matching warrants for 3,170 BTC, expanding its asset base while diluting existing shareholders."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T08:02:40+00:00",
+   "last_seen": "2026-10-22T08:02:40+00:00",
+   "summary": "The Nasdaq-listed company exchanged 51.6 million shares and matching warrants for 3,170 BTC, expanding its asset base while diluting existing shareholders.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "0e48955819",
    "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",

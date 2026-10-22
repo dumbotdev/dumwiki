@@ -1,6 +1,174 @@
 {
- "updated": "2026-10-22T14:53:54.822994+00:00",
+ "updated": "2026-10-22T15:52:42.774056+00:00",
  "events": [
+  {
+   "id": "1c78ab6cfc",
+   "title": "What Is a Neocloud? The GPU Clouds Powering the AI Boom",
+   "date": "2026-10-22T15:45:07+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "What Is a Neocloud? The GPU Clouds Powering the AI Boom",
+     "url": "https://decrypt.co/resources/what-is-a-neocloud-the-gpu-clouds-powering-the-ai-boom",
+     "date": "2026-10-22T15:45:07+00:00",
+     "summary": "Neoclouds like CoreWeave and Nebius rent Nvidia GPUs to AI labs, and several started out mining crypto. Here's how the AI cloud model works."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T15:45:07+00:00",
+   "last_seen": "2026-10-22T15:45:07+00:00",
+   "summary": "Neoclouds like CoreWeave and Nebius rent Nvidia GPUs to AI labs, and several started out mining crypto. Here's how the AI cloud model works.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "9a3cce4bed",
+   "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
+   "date": "2026-10-22T15:40:25+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Irish central bank fines Coinbase Ireland $3.6 million over fund safeguarding failures",
+     "url": "https://www.coindesk.com/policy/2026/10/22/irish-central-bank-fines-coinbase-ireland-usd3-6-million-over-fund-safeguarding-failures",
+     "date": "2026-10-22T15:40:25+00:00",
+     "summary": "When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 customers to deposit funds into an alternate account held by Coinbase at another U.S. bank."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T15:40:25+00:00",
+   "last_seen": "2026-10-22T15:40:25+00:00",
+   "summary": "When Silvergate was on the verge of collapse in 2023, Coinbase instructed 30 customers to deposit funds into an alternate account held by Coinbase at another U.S. bank.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "0599bb4e0d",
+   "title": "Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027",
+   "date": "2026-10-22T15:35:01+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027",
+     "url": "https://bitcoinmagazine.com/news/robinhood-wins-dubai-license-bitcoin",
+     "date": "2026-10-22T15:35:01+00:00",
+     "summary": "Bitcoin Magazine Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027 Robinhood has won DFSA approval to offer bitcoin, crypto and stock trading with custody from a new Dubai headquarters, with launch set for 2027. This post Robinhood Wins..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T15:35:01+00:00",
+   "last_seen": "2026-10-22T15:35:01+00:00",
+   "summary": "Bitcoin Magazine Robinhood Wins Dubai License to Bring Bitcoin and Stock Trading to the Middle East in 2027 Robinhood has won DFSA approval to offer bitcoin, crypto and stock trading with custody from a new Dubai headquarters, with launch set for 2027. This post Robinhood Wins...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b5241c65ac",
+   "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts\u2014And They\u2019re 'Horrified'",
+   "date": "2026-10-22T15:24:18+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Major Banks Find Rogue AI Agents Inside Customer Accounts\u2014And They\u2019re 'Horrified'",
+     "url": "https://decrypt.co/381602/banks-rogue-ai-agents-inside-customer-accounts",
+     "date": "2026-10-22T15:24:18+00:00",
+     "summary": "Major banks including Morgan Stanley, JPMorgan, Bank of America, and Citi are moving to restrict third-party AI agents that log in with customers\u2019 credentials."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T15:24:18+00:00",
+   "last_seen": "2026-10-22T15:24:18+00:00",
+   "summary": "Major banks including Morgan Stanley, JPMorgan, Bank of America, and Citi are moving to restrict third-party AI agents that log in with customers\u2019 credentials.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "fad2ff8e25",
+   "title": "Ethereum Developers Cancel Oct. 26 Glamsterdam Upgrade on Hoodi",
+   "date": "2026-10-22T15:15:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ethereum Developers Cancel Oct. 26 Glamsterdam Upgrade on Hoodi",
+     "url": "https://thedefiant.io/news/blockchains/ethereum-developers-cancel-oct-26-glamsterdam-upgrade-on-hoodi",
+     "date": "2026-10-22T15:15:04+00:00",
+     "summary": "Node operators are being told to use software without the scheduled fork, while mainnet activation remains undecided."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T15:15:04+00:00",
+   "last_seen": "2026-10-22T15:15:04+00:00",
+   "summary": "Node operators are being told to use software without the scheduled fork, while mainnet activation remains undecided.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "23b4119927",
+   "title": "Kraken Says Its xStocks Lineup Now Exceeds 1,000",
+   "date": "2026-10-22T15:00:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Kraken Says Its xStocks Lineup Now Exceeds 1,000",
+     "url": "https://thedefiant.io/news/cefi/kraken-says-its-xstocks-lineup-now-exceeds-1-000",
+     "date": "2026-10-22T15:00:31+00:00",
+     "summary": "Kraken's September FAQ listed 131 instruments. The tokens offer equity price exposure without shareholder rights, and US persons remain excluded."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T15:00:31+00:00",
+   "last_seen": "2026-10-22T15:00:31+00:00",
+   "summary": "Kraken's September FAQ listed 131 instruments. The tokens offer equity price exposure without shareholder rights, and US persons remain excluded.",
+   "tags": [
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "b55554a00a",
+   "title": "Robinhood generates $51 million in blockchain fees while Ethereum settlement costs total just $69,000",
+   "date": "2026-10-22T15:00:14+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Robinhood generates $51 million in blockchain fees while Ethereum settlement costs total just $69,000",
+     "url": "https://cryptoslate.com/robinhood-generates-51-million-in-blockchain-fees-while-ethereum-settlement-costs-total-just-69000/",
+     "date": "2026-10-22T15:00:14+00:00",
+     "summary": "Bitwise\u2019s Q3 estimates put most fees with the operator before business expenses, while ARB and ETH offer different economic exposures. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T15:00:14+00:00",
+   "last_seen": "2026-10-22T15:00:14+00:00",
+   "summary": "Bitwise\u2019s Q3 estimates put most fees with the operator before business expenses, while ARB and ETH offer different economic exposures. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum",
+    "legal"
+   ]
+  },
+  {
+   "id": "01b8cb74df",
+   "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+   "date": "2026-10-22T14:58:31+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto for Advisors: Stablecoins are ready for prime time",
+     "url": "https://www.coindesk.com/coindesk-indices/2026/10/22/crypto-for-advisors-stablecoins-are-ready-for-prime-time",
+     "date": "2026-10-22T14:58:31+00:00",
+     "summary": ""
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T14:58:31+00:00",
+   "last_seen": "2026-10-22T14:58:31+00:00",
+   "summary": "",
+   "tags": []
+  },
   {
    "id": "6c0bc170d5",
    "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",

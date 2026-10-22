@@ -1,6 +1,194 @@
 {
- "updated": "2026-10-22T13:58:53.826669+00:00",
+ "updated": "2026-10-22T14:53:54.822994+00:00",
  "events": [
+  {
+   "id": "6c0bc170d5",
+   "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+   "date": "2026-10-22T14:37:12+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto custody specialist Fireblocks denies it's in talks to be acquired by Visa",
+     "url": "https://www.coindesk.com/business/2026/10/22/crypto-custody-specialist-fireblocks-denies-its-in-talks-to-be-acquired-by-visa",
+     "date": "2026-10-22T14:37:12+00:00",
+     "summary": "The company is in talks with Visa over a potential $2.5 billion acquisition, Axios reported."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T14:37:12+00:00",
+   "last_seen": "2026-10-22T14:37:12+00:00",
+   "summary": "The company is in talks with Visa over a potential $2.5 billion acquisition, Axios reported.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "7ac7682ddb",
+   "title": "Visa in Talks to Buy Fireblocks for About $2.5 Billion: Axios",
+   "date": "2026-10-22T14:20:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Visa in Talks to Buy Fireblocks for About $2.5 Billion: Axios",
+     "url": "https://thedefiant.io/converge/infrastructure/visa-in-talks-to-buy-fireblocks-for-about-2-5-billion-axios",
+     "date": "2026-10-22T14:20:13+00:00",
+     "summary": "The reported negotiations follow Mastercard\u2019s completed acquisition of BVNK, a stablecoin infrastructure deal priced at up to $1.8 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T14:20:13+00:00",
+   "last_seen": "2026-10-22T14:20:13+00:00",
+   "summary": "The reported negotiations follow Mastercard\u2019s completed acquisition of BVNK, a stablecoin infrastructure deal priced at up to $1.8 billion.",
+   "tags": [
+    "funding",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "4f92545334",
+   "title": "A16z Crypto Plans \u2018Frontier\u2019 Rebrand and Broader Strategy: Report",
+   "date": "2026-10-22T14:20:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "A16z Crypto Plans \u2018Frontier\u2019 Rebrand and Broader Strategy: Report",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/a16z-crypto-plans-frontier-rebrand-and-broader-strategy-report",
+     "date": "2026-10-22T14:20:11+00:00",
+     "summary": "General partner Ali Yahya is also reportedly leaving to build a startup, months after the team announced a $2.2 billion fifth fund."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T14:20:11+00:00",
+   "last_seen": "2026-10-22T14:20:11+00:00",
+   "summary": "General partner Ali Yahya is also reportedly leaving to build a startup, months after the team announced a $2.2 billion fifth fund.",
+   "tags": []
+  },
+  {
+   "id": "de7ba337d8",
+   "title": "Arbitrum Active Addresses Hit 30-Day High, Then Retreat",
+   "date": "2026-10-22T14:19:20+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Arbitrum Active Addresses Hit 30-Day High, Then Retreat",
+     "url": "https://thedefiant.io/news/blockchains/arbitrum-active-addresses-hit-30-day-high-then-retreat",
+     "date": "2026-10-22T14:19:20+00:00",
+     "summary": "Hourly activity cooled into Oct. 22 after daily active addresses reached 571,767; transaction counts rose much less sharply."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T14:19:20+00:00",
+   "last_seen": "2026-10-22T14:19:20+00:00",
+   "summary": "Hourly activity cooled into Oct. 22 after daily active addresses reached 571,767; transaction counts rose much less sharply.",
+   "tags": []
+  },
+  {
+   "id": "f16bafaf56",
+   "title": "Researchers Flag Swell Rate Manipulation After Railway Key-Drain Warning",
+   "date": "2026-10-22T14:18:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Researchers Flag Swell Rate Manipulation After Railway Key-Drain Warning",
+     "url": "https://thedefiant.io/news/hacks/researchers-flag-swell-rate-manipulation-after-railway-key-drain-warning",
+     "date": "2026-10-22T14:18:51+00:00",
+     "summary": "Researchers flagged inflated swETH and rswETH rates after the cloud-platform disclosure; the reported 2,513 ETH held by Swell is not a confirmed loss."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T14:18:51+00:00",
+   "last_seen": "2026-10-22T14:18:51+00:00",
+   "summary": "Researchers flagged inflated swETH and rswETH rates after the cloud-platform disclosure; the reported 2,513 ETH held by Swell is not a confirmed loss.",
+   "tags": [
+    "ethereum",
+    "macro"
+   ]
+  },
+  {
+   "id": "edd84fe252",
+   "title": "D3 Links HYPE Vault to Early Access for New Domain Names",
+   "date": "2026-10-22T14:17:25+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "D3 Links HYPE Vault to Early Access for New Domain Names",
+     "url": "https://thedefiant.io/news/defi/d3-links-hype-vault-to-early-access-for-new-domain-names",
+     "date": "2026-10-22T14:17:25+00:00",
+     "summary": "The Upshift-built vault earns Frontier Points for future registration priority, with Hyperion DeFi as launch partner. Domain purchases require separate funds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T14:17:25+00:00",
+   "last_seen": "2026-10-22T14:17:25+00:00",
+   "summary": "The Upshift-built vault earns Frontier Points for future registration priority, with Hyperion DeFi as launch partner. Domain purchases require separate funds.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "ac8376ef09",
+   "title": "Morpho Opens Robinhood Stock Tokens to Stablecoin Borrowing",
+   "date": "2026-10-22T14:15:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Morpho Opens Robinhood Stock Tokens to Stablecoin Borrowing",
+     "url": "https://thedefiant.io/news/defi/morpho-opens-robinhood-stock-tokens-to-stablecoin-borrowing",
+     "date": "2026-10-22T14:15:51+00:00",
+     "summary": "Listed markets include NVDA and SPCX collateral at a 62.5% liquidation threshold and SPY at 77%, with USDG as the loan asset."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T14:15:51+00:00",
+   "last_seen": "2026-10-22T14:15:51+00:00",
+   "summary": "Listed markets include NVDA and SPCX collateral at a 62.5% liquidation threshold and SPY at 77%, with USDG as the loan asset.",
+   "tags": [
+    "markets",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "17dd5b6c98",
+   "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
+   "date": "2026-10-22T14:04:48+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Trade Where You Read: Decrypt Brings Jupiter-Powered Trading to The Information Exchange",
+     "url": "https://decrypt.co/381593/trade-where-you-read-decrypt-brings-jupiter-powered-trading-to-the-information-exchange",
+     "date": "2026-10-22T14:04:48+00:00",
+     "summary": "Decrypt is building a destination where readers can discover, understand and trade the news, directly where they consume information."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T14:04:48+00:00",
+   "last_seen": "2026-10-22T14:04:48+00:00",
+   "summary": "Decrypt is building a destination where readers can discover, understand and trade the news, directly where they consume information.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "f833f5df4d",
+   "title": "A Midnight privacy-vault demo needs outside signers to release Ethereum tokens",
+   "date": "2026-10-22T14:00:42+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "A Midnight privacy-vault demo needs outside signers to release Ethereum tokens",
+     "url": "https://cryptoslate.com/a-midnight-privacy-vault-demo-needs-outside-signers-to-release-ethereum-tokens/",
+     "date": "2026-10-22T14:00:42+00:00",
+     "summary": "SIG\u2019s Ethereum example burns a shielded claim before payout, while restoring it after failure requires an attested outcome. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T14:00:42+00:00",
+   "last_seen": "2026-10-22T14:00:42+00:00",
+   "summary": "SIG\u2019s Ethereum example burns a shielded claim before payout, while restoring it after failure requires an attested outcome. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum"
+   ]
+  },
   {
    "id": "cc5e80891a",
    "title": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
@@ -142,13 +330,28 @@
      "url": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
      "date": "2026-10-22T13:27:54+00:00",
      "summary": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks",
+     "url": "https://bitcoinmagazine.com/news/fireblocks-denies-report-of-visa-takeover",
+     "date": "2026-10-22T14:38:25+00:00",
+     "summary": "Bitcoin Magazine Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks Fireblocks has denied an Axios report that Visa is in late-stage talks to acquire the crypto custody firm for about $2.5 billion. This post Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks..."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Fireblocks disputes report of $2.5B Visa acquisition talks",
+     "url": "https://cointelegraph.com/news/fireblocks-disputes-report-of-25b-visa-acquisition-talks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T14:40:00+00:00",
+     "summary": "Fireblocks told Cointelegraph that reports of a potential $2.5 billion acquisition by Visa are \u201cnot true at present time,\u201d while Visa declined to comment on the reported talks."
     }
    ],
-   "score": 10,
+   "score": 30,
    "first_seen": "2026-10-22T13:27:54+00:00",
-   "last_seen": "2026-10-22T13:27:54+00:00",
-   "summary": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion.",
+   "last_seen": "2026-10-22T14:40:00+00:00",
+   "summary": "Bitcoin Magazine Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks Fireblocks has denied an Axios report that Visa is in late-stage talks to acquire the crypto custody firm for about $2.5 billion. This post Fireblocks Denies Report of $2.5 Billion Visa Takeover Talks...",
    "tags": [
+    "bitcoin",
     "funding"
    ]
   },
@@ -445,11 +648,18 @@
      "url": "https://bitcoinmagazine.com/news/central-bank-of-ireland-fines-coinbase",
      "date": "2026-10-22T13:12:02+00:00",
      "summary": "Bitcoin Magazine Central Bank of Ireland Fines Coinbase Unit \u20ac3.25 Million Over Customer Fund Safeguarding Failures Ireland\u2019s central bank has fined Coinbase Ireland \u20ac3.25 million for allowing customer funds to mix with other Coinbase entities\u2019 money and for relying on its US..."
+    },
+    {
+     "source": "The Block",
+     "title": "Coinbase Ireland fined $3.6 million over customer fund segregation, oversight failures",
+     "url": "https://www.theblock.co/news/regulation/2026-10-22-coinbase-ireland-fined-3-6-million-over-customer-fund-segregation-oversight-failures-421943",
+     "date": "2026-10-22T14:03:40+00:00",
+     "summary": "Coinbase Ireland fined $3.6 million for safeguarding breaches that left customer funds underfunded and mixed with group accounts."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-10-22T12:06:32+00:00",
-   "last_seen": "2026-10-22T13:12:02+00:00",
+   "last_seen": "2026-10-22T14:03:40+00:00",
    "summary": "Bitcoin Magazine Central Bank of Ireland Fines Coinbase Unit \u20ac3.25 Million Over Customer Fund Safeguarding Failures Ireland\u2019s central bank has fined Coinbase Ireland \u20ac3.25 million for allowing customer funds to mix with other Coinbase entities\u2019 money and for relying on its US...",
    "tags": [
     "bitcoin",
@@ -826,11 +1036,18 @@
      "url": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
      "date": "2026-10-22T09:32:00+00:00",
      "summary": "Starknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Starknet Poll Backs Post-Quantum Layer 1 Research With 93.52% Support",
+     "url": "https://thedefiant.io/news/blockchains/starknet-poll-backs-post-quantum-layer-1-research-with-93-52-support",
+     "date": "2026-10-22T14:20:07+00:00",
+     "summary": "The non-binding vote does not approve a network transition. StarkWare hopes to release a draft whitepaper in November."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-22T09:32:00+00:00",
-   "last_seen": "2026-10-22T09:32:00+00:00",
+   "last_seen": "2026-10-22T14:20:07+00:00",
    "summary": "Starknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November.",
    "tags": []
   },

@@ -1,6 +1,146 @@
 {
- "updated": "2026-10-22T02:53:18.140483+00:00",
+ "updated": "2026-10-22T03:55:00.269548+00:00",
  "events": [
+  {
+   "id": "ce10e914cd",
+   "title": "Matter Labs Introduces Prividium Commander for Existing Blockchains",
+   "date": "2026-10-22T03:52:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Matter Labs Introduces Prividium Commander for Existing Blockchains",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/matter-labs-introduces-prividium-commander-for-existing-blockchains",
+     "date": "2026-10-22T03:52:39+00:00",
+     "summary": "Institutions can add application permissions without moving to Prividium Ledger, while retaining their existing custody and signing providers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T03:52:39+00:00",
+   "last_seen": "2026-10-22T03:52:39+00:00",
+   "summary": "Institutions can add application permissions without moving to Prividium Ledger, while retaining their existing custody and signing providers.",
+   "tags": []
+  },
+  {
+   "id": "56cd5c3bd0",
+   "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+   "date": "2026-10-22T03:51:34+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin gives back its run at $85,000 as Tesla and Meta fail to calm AI nerves",
+     "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves",
+     "date": "2026-10-22T03:51:34+00:00",
+     "summary": "BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T03:51:34+00:00",
+   "last_seen": "2026-10-22T03:51:34+00:00",
+   "summary": "BTC broke through its $84,000 ceiling late Wednesday, then slid back to the $82,500 support analysts are watching as tech futures fell.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "54e9835a6b",
+   "title": "Developer Links $370,000 Theft to Railway Secrets Exposure",
+   "date": "2026-10-22T03:42:40+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Developer Links $370,000 Theft to Railway Secrets Exposure",
+     "url": "https://thedefiant.io/news/security/developer-links-370-000-theft-to-railway-secrets-exposure",
+     "date": "2026-10-22T03:42:40+00:00",
+     "summary": "Railway restored Enterprise builds late Wednesday, while customers on other plans were still waiting to redeploy with replacement credentials."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T03:42:40+00:00",
+   "last_seen": "2026-10-22T03:42:40+00:00",
+   "summary": "Railway restored Enterprise builds late Wednesday, while customers on other plans were still waiting to redeploy with replacement credentials.",
+   "tags": []
+  },
+  {
+   "id": "a438bc47ff",
+   "title": "Cloudflare CEO Reports Millions of PHP2Shell Exploit Attempts",
+   "date": "2026-10-22T03:39:17+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Cloudflare CEO Reports Millions of PHP2Shell Exploit Attempts",
+     "url": "https://thedefiant.io/news/security/cloudflare-ceo-reports-millions-of-php2shell-exploit-attempts",
+     "date": "2026-10-22T03:39:17+00:00",
+     "summary": "PHP has shipped fixes for four supported branches. The flaws can let attackers run code on vulnerable web servers without logging in."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T03:39:17+00:00",
+   "last_seen": "2026-10-22T03:39:17+00:00",
+   "summary": "PHP has shipped fixes for four supported branches. The flaws can let attackers run code on vulnerable web servers without logging in.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "544cf590cf",
+   "title": "How Elliptic-Curve Signatures Work: A Toy ECDSA Example",
+   "date": "2026-10-22T03:29:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "How Elliptic-Curve Signatures Work: A Toy ECDSA Example",
+     "url": "https://thedefiant.io/news/security/how-elliptic-curve-signatures-work-a-toy-ecdsa-example",
+     "date": "2026-10-22T03:29:18+00:00",
+     "summary": "A deliberately insecure curve makes the signing arithmetic small enough to follow. The verifier needs the message and public key, but neither signing secret."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T03:29:18+00:00",
+   "last_seen": "2026-10-22T03:29:18+00:00",
+   "summary": "A deliberately insecure curve makes the signing arithmetic small enough to follow. The verifier needs the message and public key, but neither signing secret.",
+   "tags": []
+  },
+  {
+   "id": "5b08bc11ea",
+   "title": "Mastercard Crypto Credential, KYC, Travel Rule and Screening Compared",
+   "date": "2026-10-22T03:24:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Mastercard Crypto Credential, KYC, Travel Rule and Screening Compared",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/mastercard-crypto-credential-kyc-travel-rule-and-screening-compared",
+     "date": "2026-10-22T03:24:18+00:00",
+     "summary": "Identity checks, transfer-party information and blockchain risk alerts serve different purposes. Providers remain responsible for deciding whether a payment can proceed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T03:24:18+00:00",
+   "last_seen": "2026-10-22T03:24:18+00:00",
+   "summary": "Identity checks, transfer-party information and blockchain risk alerts serve different purposes. Providers remain responsible for deciding whether a payment can proceed.",
+   "tags": []
+  },
+  {
+   "id": "3def9d5c1a",
+   "title": "OCC waiver rule puts active stablecoin issuers on notice",
+   "date": "2026-10-22T03:20:53+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "OCC waiver rule puts active stablecoin issuers on notice",
+     "url": "https://cryptoslate.com/occ-waiver-rule-puts-active-stablecoin-issuers-on-notice/",
+     "date": "2026-10-22T03:20:53+00:00",
+     "summary": "Existing US issuers awaiting OCC approval need discretionary relief to keep issuing from Jan. 18, 2027; filing alone is insufficient. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T03:20:53+00:00",
+   "last_seen": "2026-10-22T03:20:53+00:00",
+   "summary": "Existing US issuers awaiting OCC approval need discretionary relief to keep issuing from Jan. 18, 2027; filing alone is insufficient. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "e4e85f4ab9",
    "title": "Pendle Expands One-Click Looping to Yield Assets and Tokenized Stocks",

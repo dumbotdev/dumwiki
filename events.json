@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-21T23:48:10.023134+00:00",
+ "updated": "2026-10-22T01:03:04.912808+00:00",
  "events": [
+  {
+   "id": "abc8ca547f",
+   "title": "PHP Foundation admits \u2018structural failure\u2019 delayed critical security fix",
+   "date": "2026-10-22T00:44:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "PHP Foundation admits \u2018structural failure\u2019 delayed critical security fix",
+     "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T00:44:00+00:00",
+     "summary": "Government websites and online services were disrupted after concerns about a PHP bug that could allow attackers to take control of vulnerable servers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T00:44:00+00:00",
+   "last_seen": "2026-10-22T00:44:00+00:00",
+   "summary": "Government websites and online services were disrupted after concerns about a PHP bug that could allow attackers to take control of vulnerable servers.",
+   "tags": []
+  },
+  {
+   "id": "b2cc05085d",
+   "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
+   "date": "2026-10-22T00:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
+     "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+     "date": "2026-10-22T00:00:00+00:00",
+     "summary": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T00:00:00+00:00",
+   "last_seen": "2026-10-22T00:00:00+00:00",
+   "summary": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum.",
+   "tags": [
+    "ethereum"
+   ]
+  },
   {
    "id": "908e11513f",
    "title": "Irish drug lord\u2019s lost Bitcoin fortune comes back to life as $41 million moves to Coinbase",

@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-22T03:55:00.269548+00:00",
+ "updated": "2026-10-22T04:52:59.608255+00:00",
  "events": [
+  {
+   "id": "4d46e89485",
+   "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+   "date": "2026-10-22T04:41:59+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+     "url": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+     "date": "2026-10-22T04:41:59+00:00",
+     "summary": "Past steep rallies ran on about $235 million a day of net inflows into ETFs. The funds are yet to match that pace, according to data analyzed by CoinDesk."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T04:41:59+00:00",
+   "last_seen": "2026-10-22T04:41:59+00:00",
+   "summary": "Past steep rallies ran on about $235 million a day of net inflows into ETFs. The funds are yet to match that pace, according to data analyzed by CoinDesk.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "markets"
+   ]
+  },
+  {
+   "id": "5c9a96a57e",
+   "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+   "date": "2026-10-22T04:36:20+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+     "url": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+     "date": "2026-10-22T04:36:20+00:00",
+     "summary": "The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It\u2019s now back at 31."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T04:36:20+00:00",
+   "last_seen": "2026-10-22T04:36:20+00:00",
+   "summary": "The fix lost its two-week countdown less than two days from the finish after support slipped to 26 of 35 validators. It\u2019s now back at 31.",
+   "tags": []
+  },
   {
    "id": "ce10e914cd",
    "title": "Matter Labs Introduces Prividium Commander for Existing Blockchains",

@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-22T07:10:13.999651+00:00",
+ "updated": "2026-10-22T08:00:35.177708+00:00",
  "events": [
+  {
+   "id": "0e48955819",
+   "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+   "date": "2026-10-22T07:37:32+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin ETFs bag another $528M, taking 3-day haul past $1B",
+     "url": "https://cointelegraph.com/markets/bitcoin-etfs-528-million-btc-tops-84k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T07:37:32+00:00",
+     "summary": "US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T07:37:32+00:00",
+   "last_seen": "2026-10-22T07:37:32+00:00",
+   "summary": "US spot Bitcoin ETFs drew $1.08 billion over three trading sessions to push October flows back above water.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "83a7f6f43f",
+   "title": "SideSwap reopens Bitcoin swaps while Liquid reserves stay locked",
+   "date": "2026-10-22T07:10:36+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "SideSwap reopens Bitcoin swaps while Liquid reserves stay locked",
+     "url": "https://cryptoslate.com/sideswap-reopens-bitcoin-swaps-while-liquid-reserves-stay-locked/",
+     "date": "2026-10-22T07:10:36+00:00",
+     "summary": "SideSwap\u2019s wallet funds the reopened swaps while partly manual refills can delay payments and direct Federation withdrawals remain restricted. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T07:10:36+00:00",
+   "last_seen": "2026-10-22T07:10:36+00:00",
+   "summary": "SideSwap\u2019s wallet funds the reopened swaps while partly manual refills can delay payments and direct Federation withdrawals remain restricted. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "861c6675ab",
    "title": "Chinese Prosecutors Seek Confiscation of 61,896 Bitcoin in Qian Case",

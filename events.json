@@ -1,6 +1,84 @@
 {
- "updated": "2026-10-22T19:51:49.296594+00:00",
+ "updated": "2026-10-22T20:52:17.447057+00:00",
  "events": [
+  {
+   "id": "6d8dee38b8",
+   "title": "ChatGPT Teaches Messi Chess\u2014On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
+   "date": "2026-10-22T20:39:18+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "ChatGPT Teaches Messi Chess\u2014On a Board It Set Up Wrong, With an Opening That Loses in Four Moves",
+     "url": "https://decrypt.co/381644/chatgpt-messi-chess-board-wrong-loses-in-four-moves",
+     "date": "2026-10-22T20:39:18+00:00",
+     "summary": "Lionel Messi\u2019s ChatGPT ad has the AI teaching him chess on a board with kings and queens swapped, then suggesting an opening that loses in four moves on that board."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T20:39:18+00:00",
+   "last_seen": "2026-10-22T20:39:18+00:00",
+   "summary": "Lionel Messi\u2019s ChatGPT ad has the AI teaching him chess on a board with kings and queens swapped, then suggesting an opening that loses in four moves on that board.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "747731ba30",
+   "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
+   "date": "2026-10-22T20:36:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Dune launches real-time data feeds covering 200 onchain trading venues",
+     "url": "https://cointelegraph.com/news/dune-launches-real-time-data-feeds-covering-200-onchain-trading-venues?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T20:36:00+00:00",
+     "summary": "The new service aims to bring onchain trading data into institutional financial systems as tokenized stock markets expand and face growing scrutiny."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T20:36:00+00:00",
+   "last_seen": "2026-10-22T20:36:00+00:00",
+   "summary": "The new service aims to bring onchain trading data into institutional financial systems as tokenized stock markets expand and face growing scrutiny.",
+   "tags": []
+  },
+  {
+   "id": "22cfa10d69",
+   "title": "Railway urges credential resets as investigator alleges $371,000 crypto theft",
+   "date": "2026-10-22T20:20:13+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Railway urges credential resets as investigator alleges $371,000 crypto theft",
+     "url": "https://cryptoslate.com/railway-credential-resets-crypto-theft-allegation/",
+     "date": "2026-10-22T20:20:13+00:00",
+     "summary": "The platform urged all users to replace stored credentials, while @tayvano_ separately alleged roughly $371,000 in cryptocurrency theft. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T20:20:13+00:00",
+   "last_seen": "2026-10-22T20:20:13+00:00",
+   "summary": "The platform urged all users to replace stored credentials, while @tayvano_ separately alleged roughly $371,000 in cryptocurrency theft. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "452dfffea4",
+   "title": "Aztec Announces V6 Approval While Governance Dashboard Still Shows Voting Open",
+   "date": "2026-10-22T19:52:28+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aztec Announces V6 Approval While Governance Dashboard Still Shows Voting Open",
+     "url": "https://thedefiant.io/news/blockchains/aztec-announces-v6-approval-while-governance-dashboard-still-shows-voting-open",
+     "date": "2026-10-22T19:52:28+00:00",
+     "summary": "The proposed upgrade speeds Ethereum-to-Aztec messaging and funds 30 days of V5 operation during migration; the dashboard lists October 26 for execution."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T19:52:28+00:00",
+   "last_seen": "2026-10-22T19:52:28+00:00",
+   "summary": "The proposed upgrade speeds Ethereum-to-Aztec messaging and funds 30 days of V5 operation during migration; the dashboard lists October 26 for execution.",
+   "tags": []
+  },
   {
    "id": "d79367b0d1",
    "title": "Blockchain Association Presses Congress on Crypto Taxes as Clarity Act Stalls",

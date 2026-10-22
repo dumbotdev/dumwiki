@@ -1,6 +1,176 @@
 {
- "updated": "2026-10-22T17:49:14.686458+00:00",
+ "updated": "2026-10-22T19:02:06.984589+00:00",
  "events": [
+  {
+   "id": "42c2a40713",
+   "title": "Blockchain Association pushes for crypto tax clarity as broader bill stalls",
+   "date": "2026-10-22T18:59:25+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Blockchain Association pushes for crypto tax clarity as broader bill stalls",
+     "url": "https://www.theblock.co/news/regulation/2026-10-22-blockchain-association-pushes-crypto-tax-clarity-broader-bill-stalls-423475",
+     "date": "2026-10-22T18:59:25+00:00",
+     "summary": "As progress stalls on a crypto bill, the Blockchain Association is urging Congress to pass legislation to resolve uncertainty around taxes."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T18:59:25+00:00",
+   "last_seen": "2026-10-22T18:59:25+00:00",
+   "summary": "As progress stalls on a crypto bill, the Blockchain Association is urging Congress to pass legislation to resolve uncertainty around taxes.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "ed2334be81",
+   "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
+   "date": "2026-10-22T18:36:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Coinbase Fined Again in Ireland, This Time $3.6M Over Fund Safeguarding",
+     "url": "https://decrypt.co/381638/coinbase-fined-again-ireland-3-6m-fund-safeguarding",
+     "date": "2026-10-22T18:36:03+00:00",
+     "summary": "The Central Bank of Ireland penalized Coinbase Ireland \u20ac3,252,618 for leaning too heavily on its U.S. parent and leaving its safeguarding account underfunded\u2014its second hit to the exchange\u2019s European arm in the last year."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T18:36:03+00:00",
+   "last_seen": "2026-10-22T18:36:03+00:00",
+   "summary": "The Central Bank of Ireland penalized Coinbase Ireland \u20ac3,252,618 for leaning too heavily on its U.S. parent and leaving its safeguarding account underfunded\u2014its second hit to the exchange\u2019s European arm in the last year.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "61de3890c9",
+   "title": "China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report",
+   "date": "2026-10-22T18:32:02+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report",
+     "url": "https://bitcoinmagazine.com/news/china-to-confiscate-billions-in-bitcoin",
+     "date": "2026-10-22T18:32:02+00:00",
+     "summary": "Bitcoin Magazine China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report The alleged fraudster tried to run away with nearly 62,000 bitcoins. This post China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report first..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T18:32:02+00:00",
+   "last_seen": "2026-10-22T18:32:02+00:00",
+   "summary": "Bitcoin Magazine China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report The alleged fraudster tried to run away with nearly 62,000 bitcoins. This post China Moves to Confiscate $5 Billion in Bitcoin From Fraudster Who Fled to UK: Report first...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "10f31d2e29",
+   "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
+   "date": "2026-10-22T18:30:57+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "A16z is the latest VC giant to widen bets beyond crypto and into AI and emerging tech",
+     "url": "https://www.coindesk.com/business/2026/10/22/a16z-is-the-latest-vc-giant-to-widen-bets-beyond-crypto-and-into-ai-and-emerging-tech",
+     "date": "2026-10-22T18:30:57+00:00",
+     "summary": "The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T18:30:57+00:00",
+   "last_seen": "2026-10-22T18:30:57+00:00",
+   "summary": "The venture investor behind early bets on Coinbase, Solana and Uniswap said is broadening its focus, joining other crypto investment firms looking beyond blockchain to artificial intelligence and tech themes.",
+   "tags": [
+    "ai",
+    "exchanges",
+    "solana"
+   ]
+  },
+  {
+   "id": "0bdf14b1bd",
+   "title": "JPMorgan Brings MONY and JLTXX Tokenized Funds to Solana",
+   "date": "2026-10-22T18:18:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "JPMorgan Brings MONY and JLTXX Tokenized Funds to Solana",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/jpmorgan-brings-mony-and-jltxx-tokenized-funds-to-solana",
+     "date": "2026-10-22T18:18:13+00:00",
+     "summary": "Qualified US investors can use Morgan Money to access both a private-placement fund and a registered government fund designed for stablecoin reserves."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T18:18:13+00:00",
+   "last_seen": "2026-10-22T18:18:13+00:00",
+   "summary": "Qualified US investors can use Morgan Money to access both a private-placement fund and a registered government fund designed for stablecoin reserves.",
+   "tags": [
+    "solana",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "2d36ce66bd",
+   "title": "Tether-Backed Utexo Sets November 28 Launch for Bridged USDT on Bitcoin",
+   "date": "2026-10-22T18:07:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tether-Backed Utexo Sets November 28 Launch for Bridged USDT on Bitcoin",
+     "url": "https://thedefiant.io/news/defi/tether-backed-utexo-sets-november-28-launch-for-bridged-usdt-on-bitcoin",
+     "date": "2026-10-22T18:07:42+00:00",
+     "summary": "Professional operators can now test the RGB-based token on Bitcoin Signet. Its backing will sit in USDT0 locked on Arbitrum."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T18:07:42+00:00",
+   "last_seen": "2026-10-22T18:07:42+00:00",
+   "summary": "Professional operators can now test the RGB-based token on Bitcoin Signet. Its backing will sit in USDT0 locked on Arbitrum.",
+   "tags": [
+    "bitcoin",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "ce86bb594c",
+   "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
+   "date": "2026-10-22T18:06:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Tesla's Profit Drops 43% as Musk Starts Building Robots and Plans to Sell Driverless Cabs",
+     "url": "https://decrypt.co/381624/teslas-profit-drops-musk-robots-driverless-cabs",
+     "date": "2026-10-22T18:06:02+00:00",
+     "summary": "Tesla earned $787 million last quarter, down from $1.37 billion, as spending on robots and self-driving cars soared. Optimus is in production, and Tesla aims to get Cybercabs to customers by year-end."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T18:06:02+00:00",
+   "last_seen": "2026-10-22T18:06:02+00:00",
+   "summary": "Tesla earned $787 million last quarter, down from $1.37 billion, as spending on robots and self-driving cars soared. Optimus is in production, and Tesla aims to get Cybercabs to customers by year-end.",
+   "tags": []
+  },
+  {
+   "id": "8c6552c928",
+   "title": "Bitcoin Core 32 can stall multisig signing on older nodes as fix slips to next patch",
+   "date": "2026-10-22T18:00:57+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin Core 32 can stall multisig signing on older nodes as fix slips to next patch",
+     "url": "https://cryptoslate.com/bitcoin-core-32s-wallet-change-can-break-co-signing-with-older-nodes/",
+     "date": "2026-10-22T18:00:57+00:00",
+     "summary": "A reported PSBT v2 import failure affects mixed-version Core wallets, while an explicit RPC option still creates v0 files. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T18:00:57+00:00",
+   "last_seen": "2026-10-22T18:00:57+00:00",
+   "summary": "A reported PSBT v2 import failure affects mixed-version Core wallets, while an explicit RPC option still creates v0 files. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "ad612dd86f",
    "title": "Oil Climbs Above $111 as AI Stocks Slide, Dragging the S&#038;P 500 and Global Markets With Them",

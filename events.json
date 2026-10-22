@@ -1,6 +1,142 @@
 {
- "updated": "2026-10-22T15:52:42.774056+00:00",
+ "updated": "2026-10-22T16:53:58.374347+00:00",
  "events": [
+  {
+   "id": "e769eb1724",
+   "title": "Bitcoin Falls 3.7% to Test $81,500 ETF Cost Basis",
+   "date": "2026-10-22T16:43:52+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Falls 3.7% to Test $81,500 ETF Cost Basis",
+     "url": "https://thedefiant.io/news/markets/bitcoin-falls-3-7-to-test-81-500-etf-cost-basis",
+     "date": "2026-10-22T16:43:52+00:00",
+     "summary": "Glassnode\u2019s estimated ETF holding cost, last dated Oct. 19, has acted as support in October after capping bitcoin\u2019s May rally."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T16:43:52+00:00",
+   "last_seen": "2026-10-22T16:43:52+00:00",
+   "summary": "Glassnode\u2019s estimated ETF holding cost, last dated Oct. 19, has acted as support in October after capping bitcoin\u2019s May rally.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "markets"
+   ]
+  },
+  {
+   "id": "fa1512040c",
+   "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
+   "date": "2026-10-22T16:31:07+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin ETFs Erase October Losses With $1 Billion in Three Days",
+     "url": "https://decrypt.co/381611/bitcoin-etfs-erase-october-losses-1-billion-three-days",
+     "date": "2026-10-22T16:31:07+00:00",
+     "summary": "Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Ethereum prices slipped."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T16:31:07+00:00",
+   "last_seen": "2026-10-22T16:31:07+00:00",
+   "summary": "Spot Bitcoin ETFs have drawn about $1.07 billion over three sessions, pushing October flows to a gain of roughly $460 million, even as Bitcoin and Ethereum prices slipped.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "e9d26b8304",
+   "title": "Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch",
+   "date": "2026-10-22T16:26:52+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch",
+     "url": "https://bitcoinmagazine.com/news/utexo-opens-early-access-to-usdt-on-bitcoin-through-utexo-mint",
+     "date": "2026-10-22T16:26:52+00:00",
+     "summary": "Bitcoin Magazine Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch Utexo has opened Utexo Mint, letting verified professional operators test minting, confidential transfers, and redemption of USDT on Bitcoin via RGB ahead of the November 28..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T16:26:52+00:00",
+   "last_seen": "2026-10-22T16:26:52+00:00",
+   "summary": "Bitcoin Magazine Utexo Opens Utexo Mint Early Access for USDT on Bitcoin Ahead of November 28 Launch Utexo has opened Utexo Mint, letting verified professional operators test minting, confidential transfers, and redemption of USDT on Bitcoin via RGB ahead of the November 28...",
+   "tags": [
+    "bitcoin",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "aea18a0875",
+   "title": "Solana bot turns just $12,000 into $1.4 billion in trading volume as fake liquidity floods Raydium",
+   "date": "2026-10-22T16:20:56+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Solana bot turns just $12,000 into $1.4 billion in trading volume as fake liquidity floods Raydium",
+     "url": "https://cryptoslate.com/solana-bot-turns-just-12000-into-1-4-billion-in-trading-volume-as-fake-liquidity-floods-raydium/",
+     "date": "2026-10-22T16:20:56+00:00",
+     "summary": "An Oct. 22 DEXScreener snapshot listed about $579 million in liquidity alongside 22.6 USDC, illustrating the limits of a pool&#039;s displayed valuation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T16:20:56+00:00",
+   "last_seen": "2026-10-22T16:20:56+00:00",
+   "summary": "An Oct. 22 DEXScreener snapshot listed about $579 million in liquidity alongside 22.6 USDC, illustrating the limits of a pool&#039;s displayed valuation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "defi",
+    "funding",
+    "solana",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "c860b2b48e",
+   "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
+   "date": "2026-10-22T16:20:35+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin circles $81.5K ETF cost basis as Trump Iran comments send stocks lower",
+     "url": "https://cointelegraph.com/markets/bitcoin-circles-815k-etf-cost-basis-as-trump-iran-comments-send-stocks-lower?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T16:20:35+00:00",
+     "summary": "Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump\u2019s comments on Iran military action."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T16:20:35+00:00",
+   "last_seen": "2026-10-22T16:20:35+00:00",
+   "summary": "Bitcoin extended daily losses to 3% as US stocks came under pressure from President Donald Trump\u2019s comments on Iran military action.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "04fda2d027",
+   "title": "Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets",
+   "date": "2026-10-22T16:04:26+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-slides-towards-81000",
+     "date": "2026-10-22T16:04:26+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets Bitcoin is currently in so-called Uptober, a month when the asset is supposed to rally. But it\u2019s being held back \u2014 at least for now. This post Bitcoin Slides Towards $81,000 as Oil Above..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T16:04:26+00:00",
+   "last_seen": "2026-10-22T16:04:26+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Slides Towards $81,000 as Oil Above $110 Revives Rate-Hike Bets Bitcoin is currently in so-called Uptober, a month when the asset is supposed to rally. But it\u2019s being held back \u2014 at least for now. This post Bitcoin Slides Towards $81,000 as Oil Above...",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
   {
    "id": "1c78ab6cfc",
    "title": "What Is a Neocloud? The GPU Clouds Powering the AI Boom",

@@ -1,6 +1,68 @@
 {
- "updated": "2026-10-22T10:52:39.713512+00:00",
+ "updated": "2026-10-22T11:51:57.071483+00:00",
  "events": [
+  {
+   "id": "3b66d548ad",
+   "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+   "date": "2026-10-22T11:20:04+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/22/crypto-traders-seek-shelter-in-bitcoin-as-altcoins-slide-and-etf-flows-wobble",
+     "date": "2026-10-22T11:20:04+00:00",
+     "summary": "Your day-ahead look for Oct. 21, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T11:20:04+00:00",
+   "last_seen": "2026-10-22T11:20:04+00:00",
+   "summary": "Your day-ahead look for Oct. 21, 2026",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "45bfcc9d27",
+   "title": "Solana targets faster finality, while Wall Street cuts the cash that must move",
+   "date": "2026-10-22T11:00:54+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Solana targets faster finality, while Wall Street cuts the cash that must move",
+     "url": "https://cryptoslate.com/solana-targets-faster-finality-while-wall-street-cuts-the-cash-that-must-move/",
+     "date": "2026-10-22T11:00:54+00:00",
+     "summary": "Solana activated Alpenglow on mainnet on Oct. 21 at slot 459,653,000, replacing TowerBFT with a consensus design that targets about 150 milliseconds to finality. Under the new protocol, confirmed and finalized become the same state. At the National Securities Clearing..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T11:00:54+00:00",
+   "last_seen": "2026-10-22T11:00:54+00:00",
+   "summary": "Solana activated Alpenglow on mainnet on Oct. 21 at slot 459,653,000, replacing TowerBFT with a consensus design that targets about 150 milliseconds to finality. Under the new protocol, confirmed and finalized become the same state. At the National Securities Clearing...",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "15aaec8308",
+   "title": "CoinDCX pledges no user losses after $16M transfers draw scrutiny",
+   "date": "2026-10-22T10:53:10+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "CoinDCX pledges no user losses after $16M transfers draw scrutiny",
+     "url": "https://cointelegraph.com/news/coindcx-suspicious-outflows-wallet-compromised-2025-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T10:53:10+00:00",
+     "summary": "CoinDCX tied the transfers to wallets compromised in July 2025, but investigators said the addresses remained linked to its operations."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T10:53:10+00:00",
+   "last_seen": "2026-10-22T10:53:10+00:00",
+   "summary": "CoinDCX tied the transfers to wallets compromised in July 2025, but investigators said the addresses remained linked to its operations.",
+   "tags": []
+  },
   {
    "id": "bb08375bd1",
    "title": "Bitcoin slides below $82,000 as AI doubts return, with DeFi tokens leading declines",

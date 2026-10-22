@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-22T01:51:56.033271+00:00",
+ "updated": "2026-10-22T02:53:18.140483+00:00",
  "events": [
+  {
+   "id": "e4e85f4ab9",
+   "title": "Pendle Expands One-Click Looping to Yield Assets and Tokenized Stocks",
+   "date": "2026-10-22T02:12:57+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Pendle Expands One-Click Looping to Yield Assets and Tokenized Stocks",
+     "url": "https://thedefiant.io/news/defi/pendle-expands-one-click-looping-to-yield-assets-and-tokenized-stocks",
+     "date": "2026-10-22T02:12:57+00:00",
+     "summary": "Stock longs on Base use Aave loans, while PendleLoop fees on non-PT positions are waived through Dec. 31."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T02:12:57+00:00",
+   "last_seen": "2026-10-22T02:12:57+00:00",
+   "summary": "Stock longs on Base use Aave loans, while PendleLoop fees on non-PT positions are waived through Dec. 31.",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "0f63fcfe94",
    "title": "Collector Crypt Reports Record $24.3 Million Day",

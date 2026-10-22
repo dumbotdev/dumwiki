@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-22T05:50:41.666642+00:00",
+ "updated": "2026-10-22T07:10:13.999651+00:00",
  "events": [
+  {
+   "id": "861c6675ab",
+   "title": "Chinese Prosecutors Seek Confiscation of 61,896 Bitcoin in Qian Case",
+   "date": "2026-10-22T06:42:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Chinese Prosecutors Seek Confiscation of 61,896 Bitcoin in Qian Case",
+     "url": "https://thedefiant.io/news/regulation/chinese-prosecutors-seek-confiscation-of-61-896-bitcoin-in-qian-case",
+     "date": "2026-10-22T06:42:39+00:00",
+     "summary": "The Tianjin application provides for victim restitution, while ownership claims to the UK-held coins must be assessed under Chinese law."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T06:42:39+00:00",
+   "last_seen": "2026-10-22T06:42:39+00:00",
+   "summary": "The Tianjin application provides for victim restitution, while ownership claims to the UK-held coins must be assessed under Chinese law.",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "f3d88689bf",
+   "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+   "date": "2026-10-22T06:24:10+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+     "url": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+     "date": "2026-10-22T06:24:10+00:00",
+     "summary": "Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a $5.7 billion fraud scheme, days after a U.K. court ruled Chinese law governs victims\u2019 claims to the coins."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T06:24:10+00:00",
+   "last_seen": "2026-10-22T06:24:10+00:00",
+   "summary": "Chinese prosecutors are seeking to confiscate more than 61,800 Bitcoin tied to a $5.7 billion fraud scheme, days after a U.K. court ruled Chinese law governs victims\u2019 claims to the coins.",
+   "tags": [
+    "bitcoin",
+    "legal",
+    "regulation"
+   ]
+  },
   {
    "id": "d3fd29de28",
    "title": "Move over memecoins: Crypto \u2018meme games\u2019 coming, bagholders and all",

@@ -1,6 +1,221 @@
 {
- "updated": "2026-10-22T13:07:10.410277+00:00",
+ "updated": "2026-10-22T13:58:53.826669+00:00",
  "events": [
+  {
+   "id": "cc5e80891a",
+   "title": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+   "date": "2026-10-22T13:55:03+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Uniswap\u2019s aggregator hooks go live on Ethereum, Base and Robinhood Chain",
+     "url": "https://www.theblock.co/news/defi/2026-10-22-uniswaps-aggregator-hooks-go-live-ethereum-base-robinhood-chain-421932",
+     "date": "2026-10-22T13:55:03+00:00",
+     "summary": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T13:55:03+00:00",
+   "last_seen": "2026-10-22T13:55:03+00:00",
+   "summary": "Uniswap Labs has launched aggregator hooks, allowing Uniswap v4 to route trades through liquidity held on external platforms.",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "1bf81786cc",
+   "title": "Government-Linked $1 Billion Bitcoin Transfer Led to Coinbase Prime Addresses",
+   "date": "2026-10-22T13:51:27+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Government-Linked $1 Billion Bitcoin Transfer Led to Coinbase Prime Addresses",
+     "url": "https://thedefiant.io/news/markets/government-linked-1-billion-bitcoin-transfer-led-to-coinbase-prime-addresses",
+     "date": "2026-10-22T13:51:27+00:00",
+     "summary": "The October 8 transaction passed through unlabeled addresses before reaching Arkham-labeled Coinbase deposits. That establishes an exchange-linked destination, not a sale."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T13:51:27+00:00",
+   "last_seen": "2026-10-22T13:51:27+00:00",
+   "summary": "The October 8 transaction passed through unlabeled addresses before reaching Arkham-labeled Coinbase deposits. That establishes an exchange-linked destination, not a sale.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "e24369bfb2",
+   "title": "CryptoQuant CEO calls rising Bitcoin hashrate \u2018indirect bullish signal\u2019 from institutions",
+   "date": "2026-10-22T13:42:34+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "CryptoQuant CEO calls rising Bitcoin hashrate \u2018indirect bullish signal\u2019 from institutions",
+     "url": "https://cointelegraph.com/markets/cryptoquant-rising-bitcoin-hashrate-indirect-bullish-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T13:42:34+00:00",
+     "summary": "Public miners backed by major TradFi players are coming back online, boosting Bitcoin\u2019s hashrate, a positive sign for BTC\u2019s fundamentals, according to CryptoQuant\u2019s Ki Young Ju."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T13:42:34+00:00",
+   "last_seen": "2026-10-22T13:42:34+00:00",
+   "summary": "Public miners backed by major TradFi players are coming back online, boosting Bitcoin\u2019s hashrate, a positive sign for BTC\u2019s fundamentals, according to CryptoQuant\u2019s Ki Young Ju.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "9221c2cbc6",
+   "title": "Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to \u201cUnknown\u201d Wallet",
+   "date": "2026-10-22T13:38:10+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to \u201cUnknown\u201d Wallet",
+     "url": "https://bitcoinmagazine.com/videos/arkham-ceo-on-1-billion-of-u-s-government-bitcoin-moved-to-unknown-wallet",
+     "date": "2026-10-22T13:38:10+00:00",
+     "summary": "\ud83d\udcfa Watch Video Bitcoin Magazine Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to &#8220;Unknown&#8221; Wallet A US gov wallet moved $1B in BTC. Arkham's Miguel Morel breaks down transaction trails, potential sales vs. custody transfers, and reserve policy factors...."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T13:38:10+00:00",
+   "last_seen": "2026-10-22T13:38:10+00:00",
+   "summary": "\ud83d\udcfa Watch Video Bitcoin Magazine Arkham CEO on $1 Billion of U.S. Government Bitcoin Moved to &#8220;Unknown&#8221; Wallet A US gov wallet moved $1B in BTC. Arkham's Miguel Morel breaks down transaction trails, potential sales vs. custody transfers, and reserve policy factors....",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "3f802243aa",
+   "title": "SpaceX-Tesla Merger: Passive Flows \u2018Hack\u2019, Could Bring More BTC Exposure to S&P 500",
+   "date": "2026-10-22T13:33:24+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "SpaceX-Tesla Merger: Passive Flows \u2018Hack\u2019, Could Bring More BTC Exposure to S&P 500",
+     "url": "https://bitcoinmagazine.com/videos/spacex-tesla-merger-passive-flows-hack-could-bring-more-btc-exposure-to-sp-500",
+     "date": "2026-10-22T13:33:24+00:00",
+     "summary": "\ud83d\udcfa Watch Video Bitcoin Magazine SpaceX-Tesla Merger: Passive Flows \u2018Hack\u2019, Could Bring More BTC Exposure to S&P 500 Sean Hagan breaks down why a Tesla-SpaceX merger is a no-brainer, connecting passive index flows to Strategy's MSCI inclusion and S&#038;P 500 entry. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T13:33:24+00:00",
+   "last_seen": "2026-10-22T13:33:24+00:00",
+   "summary": "\ud83d\udcfa Watch Video Bitcoin Magazine SpaceX-Tesla Merger: Passive Flows \u2018Hack\u2019, Could Bring More BTC Exposure to S&P 500 Sean Hagan breaks down why a Tesla-SpaceX merger is a no-brainer, connecting passive index flows to Strategy's MSCI inclusion and S&#038;P 500 entry. This post...",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "3209ae1570",
+   "title": "Retail Money is \u201cDead\u201d \u2013 Wall Street is how Bitcoin Actually Wins",
+   "date": "2026-10-22T13:29:09+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Retail Money is \u201cDead\u201d \u2013 Wall Street is how Bitcoin Actually Wins",
+     "url": "https://bitcoinmagazine.com/videos/retail-money-is-dead-wall-street-is-how-bitcoin-actually-wins",
+     "date": "2026-10-22T13:29:09+00:00",
+     "summary": "\ud83d\udcfa Watch Video Bitcoin Magazine Retail Money is &#8220;Dead&#8221; &#8211; Wall Street is how Bitcoin Actually Wins Bitcoin is moving from the fringe to the boardroom, says Allen Helm. He details how institutions structure digital credit around BTC and record ETF inflows. This..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T13:29:09+00:00",
+   "last_seen": "2026-10-22T13:29:09+00:00",
+   "summary": "\ud83d\udcfa Watch Video Bitcoin Magazine Retail Money is &#8220;Dead&#8221; &#8211; Wall Street is how Bitcoin Actually Wins Bitcoin is moving from the fringe to the boardroom, says Allen Helm. He details how institutions structure digital credit around BTC and record ETF inflows. This...",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "d721ed0735",
+   "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
+   "date": "2026-10-22T13:27:54+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Fireblocks denies report of $2.5 billion acquisition talks with Visa",
+     "url": "https://www.theblock.co/news/deals/2026-10-22-visa-in-talks-acquire-crypto-custody-firm-fireblocks-around-2-5-billion-axios-421926",
+     "date": "2026-10-22T13:27:54+00:00",
+     "summary": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T13:27:54+00:00",
+   "last_seen": "2026-10-22T13:27:54+00:00",
+   "summary": "Fireblocks denied an Axios report that Visa is in talks to acquire the crypto custody firm for around $2.5 billion.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "1a6f4edeb2",
+   "title": "Matt Crosby: Bitcoin Is \u201cPrimed for a Big Move Higher\u201d",
+   "date": "2026-10-22T13:24:26+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Matt Crosby: Bitcoin Is \u201cPrimed for a Big Move Higher\u201d",
+     "url": "https://bitcoinmagazine.com/videos/matt-crosby-bitcoin-is-primed-for-a-big-move-higher",
+     "date": "2026-10-22T13:24:26+00:00",
+     "summary": "\ud83d\udcfa Watch Video Bitcoin Magazine Matt Crosby: Bitcoin Is \u201cPrimed for a Big Move Higher\u201d Bitcoin's boring price action is a spring compressing for a breakout, says Matt Crosby. ETF flows, macro, and on-chain data point to a big move higher. This post Matt Crosby: Bitcoin Is \u201cPrimed..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T13:24:26+00:00",
+   "last_seen": "2026-10-22T13:24:26+00:00",
+   "summary": "\ud83d\udcfa Watch Video Bitcoin Magazine Matt Crosby: Bitcoin Is \u201cPrimed for a Big Move Higher\u201d Bitcoin's boring price action is a spring compressing for a breakout, says Matt Crosby. ETF flows, macro, and on-chain data point to a big move higher. This post Matt Crosby: Bitcoin Is \u201cPrimed...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "markets"
+   ]
+  },
+  {
+   "id": "adea40fcb4",
+   "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+   "date": "2026-10-22T13:20:57+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Thailand SEC says several companies eye crypto ETFs, none has applied",
+     "url": "https://cointelegraph.com/news/thailand-sec-crypto-etf-applications?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T13:20:57+00:00",
+     "summary": "Thailand\u2019s SEC says several asset managers have sought consultations on spot crypto ETFs, but it cannot confirm whether the first funds will launch in 2026."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T13:20:57+00:00",
+   "last_seen": "2026-10-22T13:20:57+00:00",
+   "summary": "Thailand\u2019s SEC says several asset managers have sought consultations on spot crypto ETFs, but it cannot confirm whether the first funds will launch in 2026.",
+   "tags": [
+    "etfs",
+    "regulation"
+   ]
+  },
+  {
+   "id": "3c4ee32ad4",
+   "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+   "date": "2026-10-22T13:13:45+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "SoFi unveils bank-issued tokenized deposit for yield-bearing crypto funds",
+     "url": "https://cointelegraph.com/news/sofi-bank-issued-tokenized-deposit-yield-bearing-crypto-funds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T13:13:45+00:00",
+     "summary": "SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to convert funds to stablecoins 24/7."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T13:13:45+00:00",
+   "last_seen": "2026-10-22T13:13:45+00:00",
+   "summary": "SoFi Bank launched SoFi Earn, a tokenized deposit paying 4.40% APY with FDIC coverage, allowing users to convert funds to stablecoins 24/7.",
+   "tags": []
+  },
   {
    "id": "5d624b7c39",
    "title": "Binance moves to exclude disrupted overnight data from stock-futures funding",
@@ -66,6 +281,29 @@
     "bitcoin",
     "etfs",
     "markets"
+   ]
+  },
+  {
+   "id": "af71aa3749",
+   "title": "Square Tech and GOAT Network Sign MOU to Advance AI Agent-Powered Stablecoin Payments in South Korea",
+   "date": "2026-10-22T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Square Tech and GOAT Network Sign MOU to Advance AI Agent-Powered Stablecoin Payments in South Korea",
+     "url": "https://bitcoinmagazine.com/press-releases/square-tech-and-goat-network-sign-mou-to-advance-ai-agent-powered-stablecoin-payments-in-south-korea",
+     "date": "2026-10-22T13:00:00+00:00",
+     "summary": "Bitcoin Magazine Square Tech and GOAT Network Sign MOU to Advance AI Agent-Powered Stablecoin Payments in South Korea SEOUL, October 22, 2026 \u2013 Square Tech (KOSDAQ: 148250) announced today that it has signed a Memorandum of Understanding (MOU) with GOAT Network, the..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T13:00:00+00:00",
+   "last_seen": "2026-10-22T13:00:00+00:00",
+   "summary": "Bitcoin Magazine Square Tech and GOAT Network Sign MOU to Advance AI Agent-Powered Stablecoin Payments in South Korea SEOUL, October 22, 2026 \u2013 Square Tech (KOSDAQ: 148250) announced today that it has signed a Memorandum of Understanding (MOU) with GOAT Network, the...",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "stablecoins"
    ]
   },
   {
@@ -200,13 +438,21 @@
      "url": "https://thedefiant.io/converge/regulation/coinbase-ireland-fined-3-25-million-over-customer-fund-failures",
      "date": "2026-10-22T12:06:32+00:00",
      "summary": "The safeguarding shortfall reached \u20ac5.2 million in 2024. The sanctions require High Court confirmation before taking effect."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Central Bank of Ireland Fines Coinbase Unit \u20ac3.25 Million Over Customer Fund Safeguarding Failures",
+     "url": "https://bitcoinmagazine.com/news/central-bank-of-ireland-fines-coinbase",
+     "date": "2026-10-22T13:12:02+00:00",
+     "summary": "Bitcoin Magazine Central Bank of Ireland Fines Coinbase Unit \u20ac3.25 Million Over Customer Fund Safeguarding Failures Ireland\u2019s central bank has fined Coinbase Ireland \u20ac3.25 million for allowing customer funds to mix with other Coinbase entities\u2019 money and for relying on its US..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-22T12:06:32+00:00",
-   "last_seen": "2026-10-22T12:06:32+00:00",
-   "summary": "The safeguarding shortfall reached \u20ac5.2 million in 2024. The sanctions require High Court confirmation before taking effect.",
+   "last_seen": "2026-10-22T13:12:02+00:00",
+   "summary": "Bitcoin Magazine Central Bank of Ireland Fines Coinbase Unit \u20ac3.25 Million Over Customer Fund Safeguarding Failures Ireland\u2019s central bank has fined Coinbase Ireland \u20ac3.25 million for allowing customer funds to mix with other Coinbase entities\u2019 money and for relying on its US...",
    "tags": [
+    "bitcoin",
     "exchanges",
     "legal"
    ]

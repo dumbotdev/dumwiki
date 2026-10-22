@@ -1,6 +1,129 @@
 {
- "updated": "2026-10-22T19:02:06.984589+00:00",
+ "updated": "2026-10-22T19:51:49.296594+00:00",
  "events": [
+  {
+   "id": "d79367b0d1",
+   "title": "Blockchain Association Presses Congress on Crypto Taxes as Clarity Act Stalls",
+   "date": "2026-10-22T19:51:11+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Blockchain Association Presses Congress on Crypto Taxes as Clarity Act Stalls",
+     "url": "https://bitcoinmagazine.com/news/blockchain-association-presses-congress",
+     "date": "2026-10-22T19:51:11+00:00",
+     "summary": "Bitcoin Magazine Blockchain Association Presses Congress on Crypto Taxes as Clarity Act Stalls The Blockchain Association asked congressional leaders Thursday to pass bipartisan crypto tax legislation, but with the Clarity Act near dead, the House bill stripped of mining and..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T19:51:11+00:00",
+   "last_seen": "2026-10-22T19:51:11+00:00",
+   "summary": "Bitcoin Magazine Blockchain Association Presses Congress on Crypto Taxes as Clarity Act Stalls The Blockchain Association asked congressional leaders Thursday to pass bipartisan crypto tax legislation, but with the Clarity Act near dead, the House bill stripped of mining and...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "7ae0c4c930",
+   "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
+   "date": "2026-10-22T19:46:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "a16z Drops Crypto From Its Name, Widens Bets to AI and Frontier Tech",
+     "url": "https://decrypt.co/381642/a16z-drops-crypto-widens-bets-ai-frontier-tech",
+     "date": "2026-10-22T19:46:02+00:00",
+     "summary": "Andreessen Horowitz is renaming its crypto fund a16z Frontier and widening its scope to AI, autonomous machines and biology, saying the line between crypto and everyday tech has blurred."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T19:46:02+00:00",
+   "last_seen": "2026-10-22T19:46:02+00:00",
+   "summary": "Andreessen Horowitz is renaming its crypto fund a16z Frontier and widening its scope to AI, autonomous machines and biology, saying the line between crypto and everyday tech has blurred.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "61a5101ab7",
+   "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy",
+   "date": "2026-10-22T19:29:53+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Winklevoss PAC moves into Texas Senate race with $81K ad buy",
+     "url": "https://cointelegraph.com/news/winklevoss-pac-texas-senate-race-media-paxton-talarico?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T19:29:53+00:00",
+     "summary": "While crypto-aligned PACs have stepped up spending in Ohio, a committee launched by the co-founders of crypto exchange Gemini made one of its first forays into the Lone Star State."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T19:29:53+00:00",
+   "last_seen": "2026-10-22T19:29:53+00:00",
+   "summary": "While crypto-aligned PACs have stepped up spending in Ohio, a committee launched by the co-founders of crypto exchange Gemini made one of its first forays into the Lone Star State.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "842348453d",
+   "title": "Standard Chartered moves to bring crypto custody in-house as Wall Street\u2019s digital asset infrastructure race accelerates",
+   "date": "2026-10-22T19:20:56+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Standard Chartered moves to bring crypto custody in-house as Wall Street\u2019s digital asset infrastructure race accelerates",
+     "url": "https://cryptoslate.com/standard-chartered-moves-to-bring-crypto-custody-in-house-as-wall-streets-digital-asset-infrastructure-race-accelerates/",
+     "date": "2026-10-22T19:20:56+00:00",
+     "summary": "Custody integration would follow completion, while the software separation already outlined in May remains part of the transaction plan. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T19:20:56+00:00",
+   "last_seen": "2026-10-22T19:20:56+00:00",
+   "summary": "Custody integration would follow completion, while the software separation already outlined in May remains part of the transaction plan. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "2d367123e6",
+   "title": "JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain",
+   "date": "2026-10-22T19:14:21+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "JPMorgan says crypto regulatory moves partly offset Clarity Act failure, but risks remain",
+     "url": "https://www.theblock.co/news/regulation/2026-10-22-jpmorgan-crypto-regulatory-moves-clarity-act-failure-risks-423473",
+     "date": "2026-10-22T19:14:21+00:00",
+     "summary": "JPMorgan said actions by U.S. regulators partly offset the Clarity Act setback, but longer-lasting rules are still needed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T19:14:21+00:00",
+   "last_seen": "2026-10-22T19:14:21+00:00",
+   "summary": "JPMorgan said actions by U.S. regulators partly offset the Clarity Act setback, but longer-lasting rules are still needed.",
+   "tags": []
+  },
+  {
+   "id": "eae5d547ce",
+   "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
+   "date": "2026-10-22T19:06:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Meta Creates Non-Voting Stock to Fund AI Buildout, Keeping Zuckerberg in Control",
+     "url": "https://decrypt.co/381640/meta-non-voting-stock-fund-ai-buildout-zuckerberg-control",
+     "date": "2026-10-22T19:06:02+00:00",
+     "summary": "Meta will hand shareholders a free non-voting share for every share they own in January, giving it a way to raise equity for AI spending without diluting Zuckerberg's 60.6% vote."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T19:06:02+00:00",
+   "last_seen": "2026-10-22T19:06:02+00:00",
+   "summary": "Meta will hand shareholders a free non-voting share for every share they own in January, giving it a way to raise equity for AI spending without diluting Zuckerberg's 60.6% vote.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "42c2a40713",
    "title": "Blockchain Association pushes for crypto tax clarity as broader bill stalls",
@@ -6203,6 +6326,25 @@
    "tags": [
     "stablecoins"
    ]
+  },
+  {
+   "id": "a0fc8a6625",
+   "title": "The Ledger Implant Factory: Mark Karpel\u00e8s on Who's Building Spy Chips at Scale",
+   "date": "2026-10-20T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "The Ledger Implant Factory: Mark Karpel\u00e8s on Who's Building Spy Chips at Scale",
+     "url": "https://thedefiant.io/podcasts-and-videos/podcast/the-ledger-implant-factory-mark-karpeles-on-who-s-building-spy-chips-at-scale",
+     "date": "2026-10-20T14:00:00+00:00",
+     "summary": "Former Mt. Gox CEO Mark Karpel\u00e8s has spent two weeks opening Ledger hardware wallets bought from third-party sellers in Japan, Singapore and Germany. What he found inside wasn't a one-off: the boards carry revision markings, regional antenna variants and a design that has moved..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-20T14:00:00+00:00",
+   "last_seen": "2026-10-20T14:00:00+00:00",
+   "summary": "Former Mt. Gox CEO Mark Karpel\u00e8s has spent two weeks opening Ledger hardware wallets bought from third-party sellers in Japan, Singapore and Germany. What he found inside wasn't a one-off: the boards carry revision markings, regional antenna variants and a design that has moved...",
+   "tags": []
   },
   {
    "id": "63bea5b275",

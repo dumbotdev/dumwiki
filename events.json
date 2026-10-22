@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-22T01:03:04.912808+00:00",
+ "updated": "2026-10-22T01:51:56.033271+00:00",
  "events": [
+  {
+   "id": "0f63fcfe94",
+   "title": "Collector Crypt Reports Record $24.3 Million Day",
+   "date": "2026-10-22T01:44:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Collector Crypt Reports Record $24.3 Million Day",
+     "url": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-reports-record-24-3-million-day",
+     "date": "2026-10-22T01:44:47+00:00",
+     "summary": "Users opened 123,425 packs, while the reported gross receipts equaled roughly 13% of DefiLlama's trailing 30-day pack-sales total."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T01:44:47+00:00",
+   "last_seen": "2026-10-22T01:44:47+00:00",
+   "summary": "Users opened 123,425 packs, while the reported gross receipts equaled roughly 13% of DefiLlama's trailing 30-day pack-sales total.",
+   "tags": []
+  },
   {
    "id": "abc8ca547f",
    "title": "PHP Foundation admits \u2018structural failure\u2019 delayed critical security fix",
@@ -31,14 +50,22 @@
      "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
      "date": "2026-10-22T00:00:00+00:00",
      "summary": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Aero Launches as Aerodrome and Velodrome Merge Across Seven Chains",
+     "url": "https://thedefiant.io/news/defi/aero-launches-aerodrome-velodrome-merge-seven-chains",
+     "date": "2026-10-22T01:25:39+00:00",
+     "summary": "The combined exchange went live across seven networks, with VELO converting at 0.044 AERO and locked positions becoming sAERO"
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-22T00:00:00+00:00",
-   "last_seen": "2026-10-22T00:00:00+00:00",
+   "last_seen": "2026-10-22T01:25:39+00:00",
    "summary": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum.",
    "tags": [
-    "ethereum"
+    "ethereum",
+    "exchanges"
    ]
   },
   {

@@ -1,6 +1,317 @@
 {
- "updated": "2026-10-22T11:51:57.071483+00:00",
+ "updated": "2026-10-22T13:07:10.410277+00:00",
  "events": [
+  {
+   "id": "5d624b7c39",
+   "title": "Binance moves to exclude disrupted overnight data from stock-futures funding",
+   "date": "2026-10-22T13:00:21+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance moves to exclude disrupted overnight data from stock-futures funding",
+     "url": "https://cryptoslate.com/binance-moves-to-exclude-disrupted-overnight-data-from-stock-futures-funding/",
+     "date": "2026-10-22T13:00:21+00:00",
+     "summary": "The October 21 notice targets inputs to payments between opposing traders, but gives no resulting rates or payment amounts. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T13:00:21+00:00",
+   "last_seen": "2026-10-22T13:00:21+00:00",
+   "summary": "The October 21 notice targets inputs to payments between opposing traders, but gives no resulting rates or payment amounts. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "eacc19d4a8",
+   "title": "Crypto is making a splash in U.S. elections \u2014 but chiefly in jabs about industry influence",
+   "date": "2026-10-22T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto is making a splash in U.S. elections \u2014 but chiefly in jabs about industry influence",
+     "url": "https://www.coindesk.com/news-analysis/2026/10/21/crypto-is-making-a-splash-in-u-s-elections-but-chiefly-in-jabs-about-industry-influence",
+     "date": "2026-10-22T13:00:00+00:00",
+     "summary": "Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy seats in Congress."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T13:00:00+00:00",
+   "last_seen": "2026-10-22T13:00:00+00:00",
+   "summary": "Boosters often say crypto voters can swing elections, but Democrats are seeking mileage out of tying crypto to Trump, corruption and attempts to buy seats in Congress.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "69f6e54305",
+   "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+   "date": "2026-10-22T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin ETF buyers are trend followers, not setters, DWF Labs says",
+     "url": "https://cointelegraph.com/news/bitcoin-etf-flows-follow-price-trends-dwf-labs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T13:00:00+00:00",
+     "summary": "DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T13:00:00+00:00",
+   "last_seen": "2026-10-22T13:00:00+00:00",
+   "summary": "DWF Labs research finds that Bitcoin ETF flows follow past BTC price movements rather than predict future returns, with investors buying rallies and selling dips.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "markets"
+   ]
+  },
+  {
+   "id": "a7a2a6f2e5",
+   "title": "Stock Tokens Compared: Ownership and Exit at Robinhood, OKXICE and DTCC",
+   "date": "2026-10-22T12:48:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Stock Tokens Compared: Ownership and Exit at Robinhood, OKXICE and DTCC",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/stock-tokens-compared-ownership-and-exit-at-robinhood-okxice-and-dtcc",
+     "date": "2026-10-22T12:48:33+00:00",
+     "summary": "Robinhood\u2019s offshore tokens reinvest dividends through a multiplier and redeem for cash. OKXICE\u2019s proposed entitlements and DTCC\u2019s institutional conversions follow different ownership and exit rules."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T12:48:33+00:00",
+   "last_seen": "2026-10-22T12:48:33+00:00",
+   "summary": "Robinhood\u2019s offshore tokens reinvest dividends through a multiplier and redeem for cash. OKXICE\u2019s proposed entitlements and DTCC\u2019s institutional conversions follow different ownership and exit rules.",
+   "tags": []
+  },
+  {
+   "id": "3ea18e1b13",
+   "title": "Robinhood Plans 2027 UAE Launch With Dubai Retail License",
+   "date": "2026-10-22T12:46:28+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Robinhood Plans 2027 UAE Launch With Dubai Retail License",
+     "url": "https://thedefiant.io/converge/cefi/robinhood-plans-2027-uae-launch-with-dubai-retail-license",
+     "date": "2026-10-22T12:46:28+00:00",
+     "summary": "The DFSA register lists Robinhood MENA Limited\u2019s license from July 20, including permission to arrange crypto deals and custody for retail clients."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T12:46:28+00:00",
+   "last_seen": "2026-10-22T12:46:28+00:00",
+   "summary": "The DFSA register lists Robinhood MENA Limited\u2019s license from July 20, including permission to arrange crypto deals and custody for retail clients.",
+   "tags": []
+  },
+  {
+   "id": "a2773be398",
+   "title": "What Is a Crypto \u2018Wrench Attack\u2019?",
+   "date": "2026-10-22T12:44:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "What Is a Crypto \u2018Wrench Attack\u2019?",
+     "url": "https://thedefiant.io/news/security/what-is-a-crypto-wrench-attack",
+     "date": "2026-10-22T12:44:15+00:00",
+     "summary": "The name comes from an XKCD comic about a $5 wrench. Hardware wallets isolate keys, while multisig divides signing authority\u2014but neither automatically prevents coerced transfers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T12:44:15+00:00",
+   "last_seen": "2026-10-22T12:44:15+00:00",
+   "summary": "The name comes from an XKCD comic about a $5 wrench. Hardware wallets isolate keys, while multisig divides signing authority\u2014but neither automatically prevents coerced transfers.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "da5167d681",
+   "title": "Zipcoin Announces Shutdown and Plans Token Sale",
+   "date": "2026-10-22T12:18:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Zipcoin Announces Shutdown and Plans Token Sale",
+     "url": "https://thedefiant.io/news/hacks/zipcoin-announces-shutdown-and-plans-token-sale",
+     "date": "2026-10-22T12:18:11+00:00",
+     "summary": "The team says project wallets hold 2.2% of supply, while ZC has fallen 84% over 24 hours."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T12:18:11+00:00",
+   "last_seen": "2026-10-22T12:18:11+00:00",
+   "summary": "The team says project wallets hold 2.2% of supply, while ZC has fallen 84% over 24 hours.",
+   "tags": []
+  },
+  {
+   "id": "eb46f3accc",
+   "title": "Ethereum\u2019s four-minute settlement plan could lower the cost of moving crypto",
+   "date": "2026-10-22T12:14:29+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ethereum\u2019s four-minute settlement plan could lower the cost of moving crypto",
+     "url": "https://www.coindesk.com/tech/2026/10/22/ethereum-s-four-minute-settlement-plan-could-lower-the-cost-of-moving-crypto",
+     "date": "2026-10-22T12:14:29+00:00",
+     "summary": "A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers\u2019 payments clear."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T12:14:29+00:00",
+   "last_seen": "2026-10-22T12:14:29+00:00",
+   "summary": "A new draft targets a fourfold cut in the time it takes Ethereum transactions to become final, which could free up money transfer services tie up while customers\u2019 payments clear.",
+   "tags": [
+    "ethereum",
+    "legal"
+   ]
+  },
+  {
+   "id": "98aa14d284",
+   "title": "SoFi Launches SOFIE Tokenized Deposit With 4.4% APY",
+   "date": "2026-10-22T12:13:53+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SoFi Launches SOFIE Tokenized Deposit With 4.4% APY",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/sofi-launches-sofie-tokenized-deposit-with-4-4-apy",
+     "date": "2026-10-22T12:13:53+00:00",
+     "summary": "Members can convert the deposit into SoFiUSD at a 1:1 rate, but deposit interest and FDIC coverage do not follow the money into the stablecoin."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T12:13:53+00:00",
+   "last_seen": "2026-10-22T12:13:53+00:00",
+   "summary": "Members can convert the deposit into SoFiUSD at a 1:1 rate, but deposit interest and FDIC coverage do not follow the money into the stablecoin.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "29698f5b12",
+   "title": "Coinbase Ireland Fined \u20ac3.25 Million Over Customer-Fund Failures",
+   "date": "2026-10-22T12:06:32+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coinbase Ireland Fined \u20ac3.25 Million Over Customer-Fund Failures",
+     "url": "https://thedefiant.io/converge/regulation/coinbase-ireland-fined-3-25-million-over-customer-fund-failures",
+     "date": "2026-10-22T12:06:32+00:00",
+     "summary": "The safeguarding shortfall reached \u20ac5.2 million in 2024. The sanctions require High Court confirmation before taking effect."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T12:06:32+00:00",
+   "last_seen": "2026-10-22T12:06:32+00:00",
+   "summary": "The safeguarding shortfall reached \u20ac5.2 million in 2024. The sanctions require High Court confirmation before taking effect.",
+   "tags": [
+    "exchanges",
+    "legal"
+   ]
+  },
+  {
+   "id": "885c3c7ae9",
+   "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
+   "date": "2026-10-22T12:01:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "SoFi Launches Tokenized Deposit That Earns 4.4% and Converts to a Stablecoin",
+     "url": "https://decrypt.co/381174/sofi-launches-tokenized-deposit-that-earns-4-4-and-moves-like-a-stablecoin",
+     "date": "2026-10-22T12:01:03+00:00",
+     "summary": "Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with FDIC insurance\u2014a yield-and-protection combination ordinary stablecoins lack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T12:01:03+00:00",
+   "last_seen": "2026-10-22T12:01:03+00:00",
+   "summary": "Each SOFIE token represents $1 on deposit at SoFi Bank, earning 4.40% APY with FDIC insurance\u2014a yield-and-protection combination ordinary stablecoins lack.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "e68fec279a",
+   "title": "Qubic\u2019s recovery rules require ownership checks even for unstolen funds in vulnerable wallets",
+   "date": "2026-10-22T12:00:24+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Qubic\u2019s recovery rules require ownership checks even for unstolen funds in vulnerable wallets",
+     "url": "https://cryptoslate.com/qubics-recovery-rules-require-ownership-checks-even-for-unstolen-funds-in-vulnerable-wallets/",
+     "date": "2026-10-22T12:00:24+00:00",
+     "summary": "Listed vulnerable wallets can require evidence beyond a valid signature before holders regain access, even when an attacker took nothing. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T12:00:24+00:00",
+   "last_seen": "2026-10-22T12:00:24+00:00",
+   "summary": "Listed vulnerable wallets can require evidence beyond a valid signature before holders regain access, even when an attacker took nothing. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "66394c6374",
+   "title": "The UK needs a workable route to regulated DeFi access",
+   "date": "2026-10-22T12:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "The UK needs a workable route to regulated DeFi access",
+     "url": "https://cointelegraph.com/opinion/uk-crypto-rules-regulated-defi-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T12:00:00+00:00",
+     "summary": "The UK\u2019s 2027 crypto rules risk a de facto ban on regulated firms providing access to DeFi, argues Coinbase\u2019s European policy head Katie Harries."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T12:00:00+00:00",
+   "last_seen": "2026-10-22T12:00:00+00:00",
+   "summary": "The UK\u2019s 2027 crypto rules risk a de facto ban on regulated firms providing access to DeFi, argues Coinbase\u2019s European policy head Katie Harries.",
+   "tags": [
+    "defi",
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "77c394ff4c",
+   "title": "Dune launches onchain trading data feeds as tokenized markets expand",
+   "date": "2026-10-22T12:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Dune launches onchain trading data feeds as tokenized markets expand",
+     "url": "https://www.theblock.co/news/business/2026-10-22-dune-onchain-trading-data-feeds-421889",
+     "date": "2026-10-22T12:00:00+00:00",
+     "summary": "The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T12:00:00+00:00",
+   "last_seen": "2026-10-22T12:00:00+00:00",
+   "summary": "The new real-time market feeds will cover trade data from over 200 onchain venues across 12 blockchain networks.",
+   "tags": []
+  },
+  {
+   "id": "6ec2baeb0b",
+   "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
+   "date": "2026-10-22T12:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "SoFi launches interest-bearing, FDIC-insured tokenized deposit for crypto users",
+     "url": "https://www.theblock.co/news/business/2026-10-22-sofi-fdic-insured-tokenized-deposit-421916",
+     "date": "2026-10-22T12:00:00+00:00",
+     "summary": "SoFi has launched SOFIE, a tokenized deposit offering 4.4% APY and FDIC insurance, with the option to convert to SoFiUSD."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T12:00:00+00:00",
+   "last_seen": "2026-10-22T12:00:00+00:00",
+   "summary": "SoFi has launched SOFIE, a tokenized deposit offering 4.4% APY and FDIC insurance, with the option to convert to SoFiUSD.",
+   "tags": []
+  },
   {
    "id": "3b66d548ad",
    "title": "Crypto traders seek shelter in bitcoin as altcoins slide and ETF flows wobble",

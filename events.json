@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-23T01:53:59.977638+00:00",
+ "updated": "2026-10-23T02:53:40.768803+00:00",
  "events": [
+  {
+   "id": "b6e458b82f",
+   "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
+   "date": "2026-10-23T02:48:13+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
+     "url": "https://www.theblock.co/news/business/2026-10-22-chainlink-partners-with-lg-cns-423993",
+     "date": "2026-10-23T02:48:13+00:00",
+     "summary": "LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infrastructure into its digital asset platform."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T02:48:13+00:00",
+   "last_seen": "2026-10-23T02:48:13+00:00",
+   "summary": "LG CNS is set to integrate Chainlink's cross-chain, data, and orchestration infrastructure into its digital asset platform.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "9d0f92f621",
+   "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
+   "date": "2026-10-23T02:21:30+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin slides below $81,500 as tech stock sell-off spreads to Asian equities",
+     "url": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-slides-tech-stock-sell-off-423990",
+     "date": "2026-10-23T02:21:30+00:00",
+     "summary": "The Wall Street sell-off extended to Asian equities on Friday morning, with South Korea's Kospi down 2.3% and Japan's Nikkei 225 down 1.6%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T02:21:30+00:00",
+   "last_seen": "2026-10-23T02:21:30+00:00",
+   "summary": "The Wall Street sell-off extended to Asian equities on Friday morning, with South Korea's Kospi down 2.3% and Japan's Nikkei 225 down 1.6%.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "634825f26c",
+   "title": "UAE-Led Scam Crackdown Identifies Over $39 Billion in Funds and Crypto",
+   "date": "2026-10-23T02:03:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "UAE-Led Scam Crackdown Identifies Over $39 Billion in Funds and Crypto",
+     "url": "https://thedefiant.io/news/security/uae-led-scam-crackdown-identifies-over-39-billion-in-funds-and-crypto",
+     "date": "2026-10-23T02:03:09+00:00",
+     "summary": "Operation Confrontation Ghost reported more than 960 arrests and raids on 29 fraud centers; participating countries are working toward asset recovery."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T02:03:09+00:00",
+   "last_seen": "2026-10-23T02:03:09+00:00",
+   "summary": "Operation Confrontation Ghost reported more than 960 arrests and raids on 29 fraud centers; participating countries are working toward asset recovery.",
+   "tags": [
+    "legal"
+   ]
+  },
   {
    "id": "38afa5a7cc",
    "title": "Switzerland approves first spot Bitcoin ETF for retail investors",

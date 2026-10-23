@@ -1,6 +1,67 @@
 {
- "updated": "2026-10-23T04:52:31.326955+00:00",
+ "updated": "2026-10-23T05:51:45.818473+00:00",
  "events": [
+  {
+   "id": "368d9b1a51",
+   "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+   "date": "2026-10-23T05:09:41+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",
+     "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-23T05:09:41+00:00",
+     "summary": "ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam\u2019s gas changes and is coordinating responsible disclosure with affected projects."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T05:09:41+00:00",
+   "last_seen": "2026-10-23T05:09:41+00:00",
+   "summary": "ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam\u2019s gas changes and is coordinating responsible disclosure with affected projects.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "b005189b1f",
+   "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+   "date": "2026-10-23T05:01:19+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Polymarket has reportedly fired its marketing chief, also a close friend of the CEO",
+     "url": "https://www.coindesk.com/markets/2026/10/23/polymarket-has-reportedly-fired-its-marketing-chief-also-a-close-friend-of-the-ceo",
+     "date": "2026-10-23T05:01:19+00:00",
+     "summary": "Matthew Modabber was reportedly ousted after an internal probe of several instances of misconduct, according to the New York Post."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T05:01:19+00:00",
+   "last_seen": "2026-10-23T05:01:19+00:00",
+   "summary": "Matthew Modabber was reportedly ousted after an internal probe of several instances of misconduct, according to the New York Post.",
+   "tags": []
+  },
+  {
+   "id": "db1595d8a7",
+   "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+   "date": "2026-10-23T04:59:34+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ethereum delays Glamsterdam test after security devs flag risk to existing contracts",
+     "url": "https://www.coindesk.com/tech/2026/10/23/ethereum-delays-glamsterdam-test-after-security-devs-flag-risk-to-existing-contracts",
+     "date": "2026-10-23T04:59:34+00:00",
+     "summary": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T04:59:34+00:00",
+   "last_seen": "2026-10-23T04:59:34+00:00",
+   "summary": "Developers canceled Monday's Hoodi activation after researchers showed how new gas rules could let smart contracts permanently record failed operations.",
+   "tags": [
+    "ethereum"
+   ]
+  },
   {
    "id": "780fd544d3",
    "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",

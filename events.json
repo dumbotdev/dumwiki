@@ -1,6 +1,92 @@
 {
- "updated": "2026-10-23T03:54:14.408616+00:00",
+ "updated": "2026-10-23T04:52:31.326955+00:00",
  "events": [
+  {
+   "id": "780fd544d3",
+   "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+   "date": "2026-10-23T04:36:51+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Cardano holders are being asked to bet $5 million on copper hitting a new record",
+     "url": "https://www.coindesk.com/markets/2026/10/23/cardano-holders-are-being-asked-to-bet-usd5-million-on-copper-hitting-a-new-record",
+     "date": "2026-10-23T04:36:51+00:00",
+     "summary": "Toto Finance wants 22 million ADA from Cardano\u2019s treasury to buy tokenized copper, and the metal would have to trade well above its all-time high for holders to get their money back."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T04:36:51+00:00",
+   "last_seen": "2026-10-23T04:36:51+00:00",
+   "summary": "Toto Finance wants 22 million ADA from Cardano\u2019s treasury to buy tokenized copper, and the metal would have to trade well above its all-time high for holders to get their money back.",
+   "tags": [
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "fbd76dc080",
+   "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+   "date": "2026-10-23T04:34:14+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin Core changes security policy as AI makes bugs easier to find",
+     "url": "https://cointelegraph.com/news/bitcoin-core-changes-security-policy-as-ai-makes-bugs-easier-to-find?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-23T04:34:14+00:00",
+     "summary": "Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T04:34:14+00:00",
+   "last_seen": "2026-10-23T04:34:14+00:00",
+   "summary": "Bitcoin Core says keeping certain vulnerabilities secret no longer offers much protection in the wake of AI-assisted bug hunting.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "a797c70fc6",
+   "title": "NEAR proposal slashes yield by 36%, dividing network validators",
+   "date": "2026-10-23T04:10:18+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "NEAR proposal slashes yield by 36%, dividing network validators",
+     "url": "https://cryptoslate.com/near-proposal-slashes-yield-by-36-dividing-network-validators/",
+     "date": "2026-10-23T04:10:18+00:00",
+     "summary": "HSP-029 would gradually cut the annual issuance cap by 36%, while tokens bought and held or staked remain in total supply. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T04:10:18+00:00",
+   "last_seen": "2026-10-23T04:10:18+00:00",
+   "summary": "HSP-029 would gradually cut the annual issuance cap by 36%, while tokens bought and held or staked remain in total supply. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "41ce8d35dd",
+   "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
+   "date": "2026-10-23T04:03:09+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "HSBC rolls out its first HKD stablecoin RedCoin to retail users",
+     "url": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
+     "date": "2026-10-23T04:03:09+00:00",
+     "summary": "PayMe users will be able to activate a stablecoin wallet in-app in the coming days for peer-to-peer and peer-to-merchant payments."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T04:03:09+00:00",
+   "last_seen": "2026-10-23T04:03:09+00:00",
+   "summary": "PayMe users will be able to activate a stablecoin wallet in-app in the coming days for peer-to-peer and peer-to-merchant payments.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "db255ec361",
    "title": "Malaysia and Thailand Join Singapore\u2019s BLOOM Digital-Money Initiative",

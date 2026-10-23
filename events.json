@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-23T01:07:53.641974+00:00",
+ "updated": "2026-10-23T01:53:59.977638+00:00",
  "events": [
+  {
+   "id": "38afa5a7cc",
+   "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+   "date": "2026-10-23T00:59:35+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Switzerland approves first spot Bitcoin ETF for retail investors",
+     "url": "https://cointelegraph.com/news/switzerland-approves-first-spot-bitcoin-etf-for-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-23T00:59:35+00:00",
+     "summary": "BIT Asset Management\u2019s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T00:59:35+00:00",
+   "last_seen": "2026-10-23T00:59:35+00:00",
+   "summary": "BIT Asset Management\u2019s Bitcoin Fund ETF is expected to begin trading on SIX Swiss Exchange in November, with its public offering restricted to Switzerland.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "exchanges"
+   ]
+  },
   {
    "id": "d84008b219",
    "title": "Ethereum\u2019s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",

@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-23T02:53:40.768803+00:00",
+ "updated": "2026-10-23T03:54:14.408616+00:00",
  "events": [
+  {
+   "id": "db255ec361",
+   "title": "Malaysia and Thailand Join Singapore\u2019s BLOOM Digital-Money Initiative",
+   "date": "2026-10-23T03:34:21+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Malaysia and Thailand Join Singapore\u2019s BLOOM Digital-Money Initiative",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/malaysia-and-thailand-join-singapore-s-bloom-digital-money-initiative",
+     "date": "2026-10-23T03:34:21+00:00",
+     "summary": "The expanded participant group includes Visa, Mastercard and the World Bank Group, with work focused on cross-border settlement frameworks and interoperability."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T03:34:21+00:00",
+   "last_seen": "2026-10-23T03:34:21+00:00",
+   "summary": "The expanded participant group includes Visa, Mastercard and the World Bank Group, with work focused on cross-border settlement frameworks and interoperability.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "c0fe7b8a0e",
+   "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+   "date": "2026-10-23T03:13:01+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin, gold trim early losses as yen gives up gains. Oil stays near $100",
+     "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-gold-trim-early-losses-as-yen-gives-up-gains-oil-stays-near-usd100",
+     "date": "2026-10-23T03:13:01+00:00",
+     "summary": "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T03:13:01+00:00",
+   "last_seen": "2026-10-23T03:13:01+00:00",
+   "summary": "Bitcoin and gold pared early losses as the yen gave up gains and Asian stocks rebounded, though oil near $100 keeps inflation risks in focus.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
   {
    "id": "b6e458b82f",
    "title": "Chainlink partners with LG CNS to drive Korean won stablecoin expansion",
@@ -62,6 +105,27 @@
    "summary": "Operation Confrontation Ghost reported more than 960 arrests and raids on 29 fraud centers; participating countries are working toward asset recovery.",
    "tags": [
     "legal"
+   ]
+  },
+  {
+   "id": "245a4c0e67",
+   "title": "a16z drops crypto branding, expands $2.2B fund into AI and frontier tech",
+   "date": "2026-10-23T01:50:52+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "a16z drops crypto branding, expands $2.2B fund into AI and frontier tech",
+     "url": "https://cryptoslate.com/a16z-reportedly-pivots-2-2b-fund-but-hides-its-next-play/",
+     "date": "2026-10-23T01:50:52+00:00",
+     "summary": "The Information\u2019s unconfirmed report follows a16z crypto\u2019s $2.2 billion fifth fund announcement on May 5, 2026. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T01:50:52+00:00",
+   "last_seen": "2026-10-23T01:50:52+00:00",
+   "summary": "The Information\u2019s unconfirmed report follows a16z crypto\u2019s $2.2 billion fifth fund announcement on May 5, 2026. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
    ]
   },
   {

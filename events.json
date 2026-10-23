@@ -1,6 +1,115 @@
 {
- "updated": "2026-10-23T14:56:51.181119+00:00",
+ "updated": "2026-10-23T15:56:29.462221+00:00",
  "events": [
+  {
+   "id": "c486a5bf71",
+   "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+   "date": "2026-10-23T15:50:41+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",
+     "url": "https://decrypt.co/381700/bitcoin-etfs-bleed-october-turns-red-again",
+     "date": "2026-10-23T15:50:41+00:00",
+     "summary": "Spot Bitcoin ETFs lost $635.6 million on Thursday, their biggest outflow of the month, pushing October flows back to a loss of about $176 million as Ethereum and Solana funds also bled."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T15:50:41+00:00",
+   "last_seen": "2026-10-23T15:50:41+00:00",
+   "summary": "Spot Bitcoin ETFs lost $635.6 million on Thursday, their biggest outflow of the month, pushing October flows back to a loss of about $176 million as Ethereum and Solana funds also bled.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "0281658214",
+   "title": "Evernorth\u2019s $132 million funding option could buy more XRP while reducing XRP per share",
+   "date": "2026-10-23T15:50:06+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Evernorth\u2019s $132 million funding option could buy more XRP while reducing XRP per share",
+     "url": "https://cryptoslate.com/evernorths-132-million-funding-option-could-buy-more-xrp-while-reducing-xrp-per-share/",
+     "date": "2026-10-23T15:50:06+00:00",
+     "summary": "A conditional model puts the XRP allocation hurdle near 70%, while actual accretion depends on ownership, exercises and purchases. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T15:50:06+00:00",
+   "last_seen": "2026-10-23T15:50:06+00:00",
+   "summary": "A conditional model puts the XRP allocation hurdle near 70%, while actual accretion depends on ownership, exercises and purchases. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "b196ad3e05",
+   "title": "Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin",
+   "date": "2026-10-23T15:40:05+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin",
+     "url": "https://bitcoinmagazine.com/news/franklin-templeton-clears-final-hurdle",
+     "date": "2026-10-23T15:40:05+00:00",
+     "summary": "Bitcoin Magazine Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin Franklin Templeton, the $1.7 trillion asset manager, registered two Nasdaq-listed funds yesterday. Both launch with a 95/5 split between U.S. stocks and bitcoin, and every..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T15:40:05+00:00",
+   "last_seen": "2026-10-23T15:40:05+00:00",
+   "summary": "Bitcoin Magazine Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin Franklin Templeton, the $1.7 trillion asset manager, registered two Nasdaq-listed funds yesterday. Both launch with a 95/5 split between U.S. stocks and bitcoin, and every...",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "12dc0b0a1f",
+   "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
+   "date": "2026-10-23T15:39:17+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
+     "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-23T15:39:17+00:00",
+     "summary": "Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leaving the 50-day moving average in focus."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T15:39:17+00:00",
+   "last_seen": "2026-10-23T15:39:17+00:00",
+   "summary": "Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March, leaving the 50-day moving average in focus.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "491b15e9b1",
+   "title": "What Is an Agentic Activities Launchpad? Inside AX1 Console 2.0",
+   "date": "2026-10-23T15:00:23+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "What Is an Agentic Activities Launchpad? Inside AX1 Console 2.0",
+     "url": "https://cryptoslate.com/what-is-an-agentic-activities-launchpad-inside-ax1-console-2-0/",
+     "date": "2026-10-23T15:00:23+00:00",
+     "summary": "Crypto has spent years perfecting the launchpad. First came token launchpads, where anyone could create and list a token in a few clicks. Then, in 2024, agent launchpads arrived on Base, most visibly Virtuals Protocol, turning AI agents into tradable tokens. AX1, a startup..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T15:00:23+00:00",
+   "last_seen": "2026-10-23T15:00:23+00:00",
+   "summary": "Crypto has spent years perfecting the launchpad. First came token launchpads, where anyone could create and list a token in a few clicks. Then, in 2024, agent launchpads arrived on Base, most visibly Virtuals Protocol, turning AI agents into tradable tokens. AX1, a startup...",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "cfc866ab7c",
    "title": "Tether\u2019s own AI study shows when buying a laptop costs more than cloud tokens",
@@ -227,12 +336,19 @@
      "url": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-23T13:21:07+00:00",
      "summary": "China\u2019s five-year digital development plan calls for wider blockchain use in trade and manufacturing alongside stronger technical standards."
+    },
+    {
+     "source": "The Defiant",
+     "title": "China Sets 2030 Target for National Blockchain Network",
+     "url": "https://thedefiant.io/news/regulation/china-sets-2030-target-for-national-blockchain-network",
+     "date": "2026-10-23T15:02:50+00:00",
+     "summary": "The plan prioritizes trade and finance in the Yangtze River Delta and industrial applications in Chengdu-Chongqing, alongside continuing restrictions on crypto business."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-23T13:21:07+00:00",
-   "last_seen": "2026-10-23T13:21:07+00:00",
-   "summary": "China\u2019s five-year digital development plan calls for wider blockchain use in trade and manufacturing alongside stronger technical standards.",
+   "last_seen": "2026-10-23T15:02:50+00:00",
+   "summary": "The plan prioritizes trade and finance in the Yangtze River Delta and industrial applications in Chengdu-Chongqing, alongside continuing restrictions on crypto business.",
    "tags": []
   },
   {

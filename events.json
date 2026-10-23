@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-23T07:58:41.890897+00:00",
+ "updated": "2026-10-23T08:54:47.710657+00:00",
  "events": [
+  {
+   "id": "96cef524bb",
+   "title": "Memecoin investor Murad confirms $81 million roundtrip on gains, says he\u2019s eyeing billions",
+   "date": "2026-10-23T08:10:13+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Memecoin investor Murad confirms $81 million roundtrip on gains, says he\u2019s eyeing billions",
+     "url": "https://cryptoslate.com/memecoin-investor-murad-confirms-81-million-roundtrip-on-gains-says-hes-eyeing-billions/",
+     "date": "2026-10-23T08:10:13+00:00",
+     "summary": "The resurfaced TOKEN2049 exchange captures his belief that the wallets will eventually reach billions despite the reported paper drawdown. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T08:10:13+00:00",
+   "last_seen": "2026-10-23T08:10:13+00:00",
+   "summary": "The resurfaced TOKEN2049 exchange captures his belief that the wallets will eventually reach billions despite the reported paper drawdown. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "memecoins"
+   ]
+  },
+  {
+   "id": "94565139a4",
+   "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+   "date": "2026-10-23T08:02:35+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "India's largest exchange denies hack after sleuths pointed to $16 million in suspicious outflows",
+     "url": "https://www.coindesk.com/markets/2026/10/23/india-s-largest-exchange-denies-hack-after-blockchain-sleuths-pointed-to-usd16-million-in-suspicious-outflows",
+     "date": "2026-10-23T08:02:35+00:00",
+     "summary": "CoinDCX denies its active wallets were hacked after sleuths flagged $16 million in outflows from addresses linked to the India-based exchange."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T08:02:35+00:00",
+   "last_seen": "2026-10-23T08:02:35+00:00",
+   "summary": "CoinDCX denies its active wallets were hacked after sleuths flagged $16 million in outflows from addresses linked to the India-based exchange.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "5cfc291fc1",
    "title": "Malaysia, Thailand join Singapore\u2019s cross-border stablecoin push",

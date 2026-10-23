@@ -1,6 +1,115 @@
 {
- "updated": "2026-10-23T15:56:29.462221+00:00",
+ "updated": "2026-10-23T16:54:38.514006+00:00",
  "events": [
+  {
+   "id": "12e68e3b52",
+   "title": "Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike",
+   "date": "2026-10-23T16:46:36+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike",
+     "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million",
+     "date": "2026-10-23T16:46:36+00:00",
+     "summary": "Bitcoin Magazine Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike Investors this week were buying bitcoin ETFs but that all changed on Thursday. This post Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike first appeared on Bitcoin Magazine and is..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T16:46:36+00:00",
+   "last_seen": "2026-10-23T16:46:36+00:00",
+   "summary": "Bitcoin Magazine Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike Investors this week were buying bitcoin ETFs but that all changed on Thursday. This post Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike first appeared on Bitcoin Magazine and is...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "markets"
+   ]
+  },
+  {
+   "id": "3c528e3dc8",
+   "title": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
+   "date": "2026-10-23T16:31:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Crypto Scammers Who Used Prayer Groups to Lure Victims Must Pay $1.3 Billion, Says New York",
+     "url": "https://decrypt.co/381708/crypto-scammers-prayer-groups-lure-victims-must-pay-1-3-billion-new-york",
+     "date": "2026-10-23T16:31:03+00:00",
+     "summary": "New York\u2019s attorney general asked a court to order NovaTech\u2019s founders, who fled the country, to pay about $1.37 billion, and settled with four top promoters for nearly $6 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T16:31:03+00:00",
+   "last_seen": "2026-10-23T16:31:03+00:00",
+   "summary": "New York\u2019s attorney general asked a court to order NovaTech\u2019s founders, who fled the country, to pay about $1.37 billion, and settled with four top promoters for nearly $6 million.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "df99b7d518",
+   "title": "Initia Halts L1 and Rollups After Reported Mint Exploit",
+   "date": "2026-10-23T16:19:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Initia Halts L1 and Rollups After Reported Mint Exploit",
+     "url": "https://thedefiant.io/news/hacks/initia-halts-l1-and-rollups-after-reported-mint-exploit",
+     "date": "2026-10-23T16:19:13+00:00",
+     "summary": "Analyst Spreek estimated $2.6 million had been cashed out; Ethereum records show stablecoin swaps and a later 1,135.5 ETH transfer."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T16:19:13+00:00",
+   "last_seen": "2026-10-23T16:19:13+00:00",
+   "summary": "Analyst Spreek estimated $2.6 million had been cashed out; Ethereum records show stablecoin swaps and a later 1,135.5 ETH transfer.",
+   "tags": [
+    "ethereum",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "1936bee0f1",
+   "title": "Extended Plans November XTEN Launch With 30% for Points Users",
+   "date": "2026-10-23T16:11:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Extended Plans November XTEN Launch With 30% for Points Users",
+     "url": "https://thedefiant.io/news/tokens/extended-plans-november-xten-launch-with-30-for-points-users",
+     "date": "2026-10-23T16:11:56+00:00",
+     "summary": "Eligible participants will receive tokens in self-hosted Arc wallets. Full tokenomics will follow a MiCA white paper expected on Oct. 31."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T16:11:56+00:00",
+   "last_seen": "2026-10-23T16:11:56+00:00",
+   "summary": "Eligible participants will receive tokens in self-hosted Arc wallets. Full tokenomics will follow a MiCA white paper expected on Oct. 31.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "6251474dd0",
+   "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+   "date": "2026-10-23T16:08:40+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "SEC flags tokenization as high-risk area in 2027 market examinations",
+     "url": "https://cointelegraph.com/news/sec-adds-tokenized-securities-to-2027-examination-priorities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-23T16:08:40+00:00",
+     "summary": "The SEC\u2019s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T16:08:40+00:00",
+   "last_seen": "2026-10-23T16:08:40+00:00",
+   "summary": "The SEC\u2019s latest priorities highlight tokenization as an emerging market risk, while cryptocurrencies remain absent as a standalone examination category.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "c486a5bf71",
    "title": "Bitcoin ETFs Bleed $636 Million as October Turns Red Again",

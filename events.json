@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-23T22:48:53.097546+00:00",
+ "updated": "2026-10-23T23:45:48.955053+00:00",
  "events": [
+  {
+   "id": "093f77e3ff",
+   "title": "New OCC stablecoin rule resets redemptions, and banks face big shifts",
+   "date": "2026-10-23T22:50:04+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "New OCC stablecoin rule resets redemptions, and banks face big shifts",
+     "url": "https://cryptoslate.com/new-occ-stablecoin-rule-resets-redemptions-and-banks-face-big-shifts/",
+     "date": "2026-10-23T22:50:04+00:00",
+     "summary": "For covered issuers, the ordinary two-business-day limit ends at payment initiation or requested issuer credit, with external bank availability assessed separately. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T22:50:04+00:00",
+   "last_seen": "2026-10-23T22:50:04+00:00",
+   "summary": "For covered issuers, the ordinary two-business-day limit ends at payment initiation or requested issuer credit, with external bank availability assessed separately. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The...",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "92ee26c722",
    "title": "Aave changes USDT borrowing rules and loan costs suddenly jump",

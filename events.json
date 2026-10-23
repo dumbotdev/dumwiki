@@ -1,6 +1,151 @@
 {
- "updated": "2026-10-23T13:03:19.196822+00:00",
+ "updated": "2026-10-23T13:57:49.776649+00:00",
  "events": [
+  {
+   "id": "f6d382e2e7",
+   "title": "Stand With Crypto Director: The Crypto Vote Will Decide the Midterms | Mason Lynaugh",
+   "date": "2026-10-23T13:33:32+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Stand With Crypto Director: The Crypto Vote Will Decide the Midterms | Mason Lynaugh",
+     "url": "https://bitcoinmagazine.com/videos/stand-with-crypto-director-the-crypto-vote-will-decide-the-midterms-mason-lynaugh",
+     "date": "2026-10-23T13:33:32+00:00",
+     "summary": "&#9654; Bitcoin Magazine Stand With Crypto Director: The Crypto Vote Will Decide the Midterms | Mason Lynaugh Ahead of midterms, Stand With Crypto's Mason Lynaugh breaks down a 3.1M-advocate push, explaining why crypto swing voters will forge the most pro-BTC Congress. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T13:33:32+00:00",
+   "last_seen": "2026-10-23T13:33:32+00:00",
+   "summary": "&#9654; Bitcoin Magazine Stand With Crypto Director: The Crypto Vote Will Decide the Midterms | Mason Lynaugh Ahead of midterms, Stand With Crypto's Mason Lynaugh breaks down a 3.1M-advocate push, explaining why crypto swing voters will forge the most pro-BTC Congress. This post...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "1935af4030",
+   "title": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
+   "date": "2026-10-23T13:29:21+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: a16z Drops 'Crypto' From Its Fund",
+     "url": "https://decrypt.co/381691/morning-minute-a16z-drops-crypto-from-its-fund",
+     "date": "2026-10-23T13:29:21+00:00",
+     "summary": "The name change is symbolic of the fund\u2019s future investing focus, though the firm will continue investing in crypto."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T13:29:21+00:00",
+   "last_seen": "2026-10-23T13:29:21+00:00",
+   "summary": "The name change is symbolic of the fund\u2019s future investing focus, though the firm will continue investing in crypto.",
+   "tags": []
+  },
+  {
+   "id": "092328d3fc",
+   "title": "Parker Lewis: Bitcoin Will Settle 100% of Global Payments",
+   "date": "2026-10-23T13:28:16+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Parker Lewis: Bitcoin Will Settle 100% of Global Payments",
+     "url": "https://bitcoinmagazine.com/videos/parker-lewis-bitcoin-will-settle-100-of-global-payments",
+     "date": "2026-10-23T13:28:16+00:00",
+     "summary": "&#9654; Bitcoin Magazine Parker Lewis: Bitcoin Will Settle 100% of Global Payments Parker Lewis argues Bitcoin will settle all global payments as $107T in debt strains the credit system, driving merchants toward zero-fee adoption. This post Parker Lewis: Bitcoin Will Settle 100%..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T13:28:16+00:00",
+   "last_seen": "2026-10-23T13:28:16+00:00",
+   "summary": "&#9654; Bitcoin Magazine Parker Lewis: Bitcoin Will Settle 100% of Global Payments Parker Lewis argues Bitcoin will settle all global payments as $107T in debt strains the credit system, driving merchants toward zero-fee adoption. This post Parker Lewis: Bitcoin Will Settle 100%...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "839a3b1bd4",
+   "title": "Block Releases THE Bitcoin National Ad Campaign",
+   "date": "2026-10-23T13:21:52+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Block Releases THE Bitcoin National Ad Campaign",
+     "url": "https://bitcoinmagazine.com/videos/block-releases-the-bitcoin-national-ad-campaign",
+     "date": "2026-10-23T13:21:52+00:00",
+     "summary": "&#9654; Bitcoin Magazine Block Releases THE Bitcoin National Ad Campaign Block launches 'Bitcoin Does' to onboard millions. Head of Bitcoin Marketing Maria Pesce explains how the campaign focuses on real-world utility over tech. This post Block Releases THE Bitcoin National Ad..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T13:21:52+00:00",
+   "last_seen": "2026-10-23T13:21:52+00:00",
+   "summary": "&#9654; Bitcoin Magazine Block Releases THE Bitcoin National Ad Campaign Block launches 'Bitcoin Does' to onboard millions. Head of Bitcoin Marketing Maria Pesce explains how the campaign focuses on real-world utility over tech. This post Block Releases THE Bitcoin National Ad...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "36cf8cb14b",
+   "title": "China targets 2030 for its national blockchain network buildout",
+   "date": "2026-10-23T13:21:07+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "China targets 2030 for its national blockchain network buildout",
+     "url": "https://cointelegraph.com/news/china-2030-national-blockchain-network-buildout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-23T13:21:07+00:00",
+     "summary": "China\u2019s five-year digital development plan calls for wider blockchain use in trade and manufacturing alongside stronger technical standards."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T13:21:07+00:00",
+   "last_seen": "2026-10-23T13:21:07+00:00",
+   "summary": "China\u2019s five-year digital development plan calls for wider blockchain use in trade and manufacturing alongside stronger technical standards.",
+   "tags": []
+  },
+  {
+   "id": "7712a6de67",
+   "title": "Interpol Recovers $105M in African Cybercrime Sweep That Shut Illegal Crypto Mines",
+   "date": "2026-10-23T13:18:18+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Interpol Recovers $105M in African Cybercrime Sweep That Shut Illegal Crypto Mines",
+     "url": "https://decrypt.co/381690/interpol-recovers-105m-in-african-cybercrime-sweep-that-shut-illegal-crypto-mines",
+     "date": "2026-10-23T13:18:18+00:00",
+     "summary": "Operation Serengeti III led to 1,462 arrests across 21 countries, while Angolan police seized more than 2,000 crypto mining devices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T13:18:18+00:00",
+   "last_seen": "2026-10-23T13:18:18+00:00",
+   "summary": "Operation Serengeti III led to 1,462 arrests across 21 countries, while Angolan police seized more than 2,000 crypto mining devices.",
+   "tags": []
+  },
+  {
+   "id": "e1627b1d9b",
+   "title": "Bloomberg\u2019s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000",
+   "date": "2026-10-23T13:18:04+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bloomberg\u2019s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000",
+     "url": "https://bitcoinmagazine.com/videos/bloombergs-mike-mcglone-ai-risk-could-force-bitcoin-drawdown-to-10000",
+     "date": "2026-10-23T13:18:04+00:00",
+     "summary": "&#9654; Bitcoin Magazine Bloomberg&#8217;s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000 Bloomberg's Mike McGlone warns Bitcoin could drop to $10K, citing ETF exhaustion, stock correlation, Fed rate hikes, and macro headwinds across assets. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T13:18:04+00:00",
+   "last_seen": "2026-10-23T13:18:04+00:00",
+   "summary": "&#9654; Bitcoin Magazine Bloomberg&#8217;s Mike McGlone: AI Risk Could Force Bitcoin Drawdown to $10,000 Bloomberg's Mike McGlone warns Bitcoin could drop to $10K, citing ETF exhaustion, stock correlation, Fed rate hikes, and macro headwinds across assets. This post...",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "etfs",
+    "macro"
+   ]
+  },
   {
    "id": "2d9e109048",
    "title": "Phantom rolls out Kalshi prediction markets to US users, says it\u2019s \u2018confident and comfortable\u2019 amid state lawsuits",

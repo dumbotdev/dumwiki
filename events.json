@@ -1,6 +1,68 @@
 {
- "updated": "2026-10-23T19:00:18.736942+00:00",
+ "updated": "2026-10-23T19:48:07.760658+00:00",
  "events": [
+  {
+   "id": "b25c510fd1",
+   "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He\u2019s Staying Out Of",
+   "date": "2026-10-23T19:36:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He\u2019s Staying Out Of",
+     "url": "https://decrypt.co/381753/spacex-filing-elon-musk-final-word-tesla-merger",
+     "date": "2026-10-23T19:36:02+00:00",
+     "summary": "SpaceX\u2019s latest 10-Q filing quietly confirms any Tesla combination requires sign-off from its \u201ccontrolling shareholder.\u201d"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T19:36:02+00:00",
+   "last_seen": "2026-10-23T19:36:02+00:00",
+   "summary": "SpaceX\u2019s latest 10-Q filing quietly confirms any Tesla combination requires sign-off from its \u201ccontrolling shareholder.\u201d",
+   "tags": []
+  },
+  {
+   "id": "163d3edc8a",
+   "title": "IRYS Surges 1,200% Past May Listing Peak",
+   "date": "2026-10-23T19:27:17+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "IRYS Surges 1,200% Past May Listing Peak",
+     "url": "https://thedefiant.io/news/tokens/irys-surges-1-200-past-may-listing-peak",
+     "date": "2026-10-23T19:27:17+00:00",
+     "summary": "The latest price implies a circulating valuation near $561 million, with just 20% of the token\u2019s total supply in circulation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T19:27:17+00:00",
+   "last_seen": "2026-10-23T19:27:17+00:00",
+   "summary": "The latest price implies a circulating valuation near $561 million, with just 20% of the token\u2019s total supply in circulation.",
+   "tags": [
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "d4d92a9caa",
+   "title": "SpaceX perpetual futures traded about $6 billion after earnings",
+   "date": "2026-10-23T19:10:43+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "SpaceX perpetual futures traded about $6 billion after earnings",
+     "url": "https://cryptoslate.com/spacex-perpetual-futures-traded-about-6-billion-after-earnings/",
+     "date": "2026-10-23T19:10:43+00:00",
+     "summary": "Talos\u2019s combined Binance and Hyperliquid turnover figure rose sharply while Binance\u2019s dollar exposure contracted; actual retained fees remain unquantified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T19:10:43+00:00",
+   "last_seen": "2026-10-23T19:10:43+00:00",
+   "summary": "Talos\u2019s combined Binance and Hyperliquid turnover figure rose sharply while Binance\u2019s dollar exposure contracted; actual retained fees remain unquantified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "2a71d10010",
    "title": "Arbitrum Proposal Would Reopen Stylus Activations With Foundation Sign-Off",

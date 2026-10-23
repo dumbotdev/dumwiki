@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-22T23:45:58.093552+00:00",
+ "updated": "2026-10-23T01:07:53.641974+00:00",
  "events": [
+  {
+   "id": "d84008b219",
+   "title": "Ethereum\u2019s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
+   "date": "2026-10-23T00:40:37+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum\u2019s long-awaited Glamsterdam upgrade hits another roadblock as 13 security risks emerge",
+     "url": "https://cryptoslate.com/ethereums-long-awaited-glamsterdam-upgrade-hits-another-roadblock-as-13-security-risks-emerge/",
+     "date": "2026-10-23T00:40:37+00:00",
+     "summary": "Ethereum developers have postponed the Glamsterdam upgrade on a major test network after identifying potential security risks affecting existing smart contracts. The Ethereum Foundation confirmed on Oct. 22 that the upgrade, scheduled for Oct. 26 on the Hoodi testnet, would no..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T00:40:37+00:00",
+   "last_seen": "2026-10-23T00:40:37+00:00",
+   "summary": "Ethereum developers have postponed the Glamsterdam upgrade on a major test network after identifying potential security risks affecting existing smart contracts. The Ethereum Foundation confirmed on Oct. 22 that the upgrade, scheduled for Oct. 26 on the Hoodi testnet, would no...",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "8123ec1e94",
+   "title": "Pentagon bans US forces from using military info to bet in prediction markets",
+   "date": "2026-10-22T23:50:42+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Pentagon bans US forces from using military info to bet in prediction markets",
+     "url": "https://cointelegraph.com/news/pentagon-bans-us-forces-from-using-military-info-to-bet-in-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-22T23:50:42+00:00",
+     "summary": "Hegseth warned that prediction market wagers could expose military operations to adversaries."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-22T23:50:42+00:00",
+   "last_seen": "2026-10-22T23:50:42+00:00",
+   "summary": "Hegseth warned that prediction market wagers could expose military operations to adversaries.",
+   "tags": []
+  },
   {
    "id": "a521832d35",
    "title": "XRPL recovers from network slowdown as critical security upgrade faces two-week delay",

@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-23T05:51:45.818473+00:00",
+ "updated": "2026-10-23T07:07:29.132789+00:00",
  "events": [
+  {
+   "id": "c6914a54c9",
+   "title": "CoinDCX Acknowledges Wallet-Sweeping Losses After Denying New Breach",
+   "date": "2026-10-23T06:50:59+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "CoinDCX Acknowledges Wallet-Sweeping Losses After Denying New Breach",
+     "url": "https://thedefiant.io/news/hacks/coindcx-acknowledges-wallet-sweeping-losses-after-denying-new-breach",
+     "date": "2026-10-23T06:50:59+00:00",
+     "summary": "The exchange says affected deposits were credited, but has not disclosed the size of its losses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T06:50:59+00:00",
+   "last_seen": "2026-10-23T06:50:59+00:00",
+   "summary": "The exchange says affected deposits were credited, but has not disclosed the size of its losses.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "8159151171",
+   "title": "Swell Pauses swETH and rswETH Deposits and Withdrawals",
+   "date": "2026-10-23T06:50:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Swell Pauses swETH and rswETH Deposits and Withdrawals",
+     "url": "https://thedefiant.io/news/hacks/swell-pauses-sweth-and-rsweth-deposits-and-withdrawals",
+     "date": "2026-10-23T06:50:08+00:00",
+     "summary": "The protocol says it must correct NAV before reopening, while onchain controls now block withdrawal requests and ETH claims."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T06:50:08+00:00",
+   "last_seen": "2026-10-23T06:50:08+00:00",
+   "summary": "The protocol says it must correct NAV before reopening, while onchain controls now block withdrawal requests and ETH claims.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "f8d8b1f0ef",
+   "title": "Old wallet addresses trap CoinDCX users, triggering potential losses",
+   "date": "2026-10-23T06:30:31+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Old wallet addresses trap CoinDCX users, triggering potential losses",
+     "url": "https://cryptoslate.com/old-wallet-addresses-trap-coindcx-users-triggering-massive-losses/",
+     "date": "2026-10-23T06:30:31+00:00",
+     "summary": "The exchange says a failed deposit-sweeping process caused losses it absorbed, while ZachXBT&#039;s $15.8 million allegation remains unreconciled. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T06:30:31+00:00",
+   "last_seen": "2026-10-23T06:30:31+00:00",
+   "summary": "The exchange says a failed deposit-sweeping process caused losses it absorbed, while ZachXBT&#039;s $15.8 million allegation remains unreconciled. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "368d9b1a51",
    "title": "Ethereum delays Glamsterdam Hoodi testnet launch over security risks",

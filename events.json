@@ -1,6 +1,148 @@
 {
- "updated": "2026-10-23T20:51:36.428936+00:00",
+ "updated": "2026-10-23T21:50:41.220561+00:00",
  "events": [
+  {
+   "id": "92ee26c722",
+   "title": "Aave changes USDT borrowing rules and loan costs suddenly jump",
+   "date": "2026-10-23T21:40:08+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Aave changes USDT borrowing rules and loan costs suddenly jump",
+     "url": "https://cryptoslate.com/aave-changes-usdt-borrowing-rules-and-loan-costs-suddenly-jump/",
+     "date": "2026-10-23T21:40:08+00:00",
+     "summary": "The October 20 fixed-supply model underlies the cushion; the implemented 92% threshold adds no cash or guaranteed exit. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T21:40:08+00:00",
+   "last_seen": "2026-10-23T21:40:08+00:00",
+   "summary": "The October 20 fixed-supply model underlies the cushion; the implemented 92% threshold adds no cash or guaranteed exit. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "e00353dfbe",
+   "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+   "date": "2026-10-23T21:32:16+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+     "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-23T21:32:16+00:00",
+     "summary": "As of Friday, 22 companies had filed objections as part of the joint venture\u2019s proposed tokenized stock platform under the SEC\u2019s innovation exemption."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T21:32:16+00:00",
+   "last_seen": "2026-10-23T21:32:16+00:00",
+   "summary": "As of Friday, 22 companies had filed objections as part of the joint venture\u2019s proposed tokenized stock platform under the SEC\u2019s innovation exemption.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "03ec1be37e",
+   "title": "NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme",
+   "date": "2026-10-23T21:21:46+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme",
+     "url": "https://bitcoinmagazine.com/news/ny-seeks-1-37-b-judgement-novatech",
+     "date": "2026-10-23T21:21:46+00:00",
+     "summary": "Bitcoin Magazine NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme Two successive crypto frauds took investors for more than $1.1 billion. Now New York's attorney general is asking a court to make the operators pay it back\u2014with interest. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T21:21:46+00:00",
+   "last_seen": "2026-10-23T21:21:46+00:00",
+   "summary": "Bitcoin Magazine NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme Two successive crypto frauds took investors for more than $1.1 billion. Now New York's attorney general is asking a court to make the operators pay it back\u2014with interest. This post...",
+   "tags": [
+    "bitcoin",
+    "legal"
+   ]
+  },
+  {
+   "id": "df71329a1b",
+   "title": "Blockstream Launches Institutional Consulting Services, Opens Lugano Office",
+   "date": "2026-10-23T21:20:39+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Blockstream Launches Institutional Consulting Services, Opens Lugano Office",
+     "url": "https://bitcoinmagazine.com/news/blockstream-launches-institutional-service",
+     "date": "2026-10-23T21:20:39+00:00",
+     "summary": "Bitcoin Magazine Blockstream Launches Institutional Consulting Services, Opens Lugano Office Blockstream will offer its engineering expertise to banks and asset managers from a new Swiss base. This post Blockstream Launches Institutional Consulting Services, Opens Lugano Office..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T21:20:39+00:00",
+   "last_seen": "2026-10-23T21:20:39+00:00",
+   "summary": "Bitcoin Magazine Blockstream Launches Institutional Consulting Services, Opens Lugano Office Blockstream will offer its engineering expertise to banks and asset managers from a new Swiss base. This post Blockstream Launches Institutional Consulting Services, Opens Lugano Office...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "88898f182f",
+   "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+   "date": "2026-10-23T21:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+     "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+     "date": "2026-10-23T21:16:03+00:00",
+     "summary": "Days before Israel\u2019s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T21:16:03+00:00",
+   "last_seen": "2026-10-23T21:16:03+00:00",
+   "summary": "Days before Israel\u2019s election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions, and told Israelis to prepare for a rainy day after Trump.",
+   "tags": []
+  },
+  {
+   "id": "82f3f5a353",
+   "title": "Argentine Judge Dismisses LIBRA Criminal Case Against Milei and 10 Others",
+   "date": "2026-10-23T21:06:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Argentine Judge Dismisses LIBRA Criminal Case Against Milei and 10 Others",
+     "url": "https://thedefiant.io/news/regulation/argentine-judge-dismisses-libra-criminal-case-against-milei-and-10-others",
+     "date": "2026-10-23T21:06:51+00:00",
+     "summary": "The ruling also covers Karina Milei and Hayden Davis. A New York investor class action was separately dismissed in September."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T21:06:51+00:00",
+   "last_seen": "2026-10-23T21:06:51+00:00",
+   "summary": "The ruling also covers Karina Milei and Hayden Davis. A New York investor class action was separately dismissed in September.",
+   "tags": []
+  },
+  {
+   "id": "7959c2f28c",
+   "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+   "date": "2026-10-23T20:54:17+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+     "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-23T20:54:17+00:00",
+     "summary": "The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers voluntarily disclosing past tax violations under a planned program overhaul."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T20:54:17+00:00",
+   "last_seen": "2026-10-23T20:54:17+00:00",
+   "summary": "The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers voluntarily disclosing past tax violations under a planned program overhaul.",
+   "tags": []
+  },
   {
    "id": "48ae7cf83d",
    "title": "UK\u2019s FCA says crypto apps may need licenses when algorithms choose trade routes",

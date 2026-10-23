@@ -1,6 +1,178 @@
 {
- "updated": "2026-10-23T16:54:38.514006+00:00",
+ "updated": "2026-10-23T17:49:16.456654+00:00",
  "events": [
+  {
+   "id": "d24e7dfdc7",
+   "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+   "date": "2026-10-23T17:46:09+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+     "url": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
+     "date": "2026-10-23T17:46:09+00:00",
+     "summary": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T17:46:09+00:00",
+   "last_seen": "2026-10-23T17:46:09+00:00",
+   "summary": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "70aea8b2ab",
+   "title": "Agora Says Initia Exploit Hit Third-Party Product Using AUSD",
+   "date": "2026-10-23T17:27:28+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Agora Says Initia Exploit Hit Third-Party Product Using AUSD",
+     "url": "https://thedefiant.io/news/hacks/agora-says-initia-exploit-hit-third-party-product-using-ausd",
+     "date": "2026-10-23T17:27:28+00:00",
+     "summary": "Ethereum records show 1.4 million AUSD left a bridge adapter, while Agora says it has no smart contracts deployed on Initia."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T17:27:28+00:00",
+   "last_seen": "2026-10-23T17:27:28+00:00",
+   "summary": "Ethereum records show 1.4 million AUSD left a bridge adapter, while Agora says it has no smart contracts deployed on Initia.",
+   "tags": [
+    "ethereum",
+    "security"
+   ]
+  },
+  {
+   "id": "234307ddca",
+   "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+   "date": "2026-10-23T17:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Core Rewrites Its Security Policy for a World Where AI Finds Bugs in One Prompt",
+     "url": "https://decrypt.co/381715/bitcoin-core-security-policy-ai-threats",
+     "date": "2026-10-23T17:16:03+00:00",
+     "summary": "Developers will now backport fixes and cut releases immediately for flaws flagged as \u201ceasily discoverable,\u201d abandoning long embargoes for bugs an attacker can surface with a single AI prompt."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T17:16:03+00:00",
+   "last_seen": "2026-10-23T17:16:03+00:00",
+   "summary": "Developers will now backport fixes and cut releases immediately for flaws flagged as \u201ceasily discoverable,\u201d abandoning long embargoes for bugs an attacker can surface with a single AI prompt.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "041a3a2e43",
+   "title": "Lighter Adds weETH as Perpetual Futures Collateral",
+   "date": "2026-10-23T17:15:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Lighter Adds weETH as Perpetual Futures Collateral",
+     "url": "https://thedefiant.io/news/defi/lighter-adds-weeth-as-perpetual-futures-collateral",
+     "date": "2026-10-23T17:15:39+00:00",
+     "summary": "Lighter counts 70% of weETH\u2019s index value toward trading margin and caps platform-wide collateral supply at 1,000 weETH."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T17:15:39+00:00",
+   "last_seen": "2026-10-23T17:15:39+00:00",
+   "summary": "Lighter counts 70% of weETH\u2019s index value toward trading margin and caps platform-wide collateral supply at 1,000 weETH.",
+   "tags": []
+  },
+  {
+   "id": "300f47c916",
+   "title": "Coinbase to drop this Japanese yen stablecoin years after its price crash sparked investor lawsuits",
+   "date": "2026-10-23T17:10:05+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Coinbase to drop this Japanese yen stablecoin years after its price crash sparked investor lawsuits",
+     "url": "https://cryptoslate.com/coinbase-to-drop-this-japanese-yen-stablecoin-years-after-its-price-crash-sparked-investor-lawsuits/",
+     "date": "2026-10-23T17:10:05+00:00",
+     "summary": "Holders who want to avoid market-rate conversion must withdraw before Monday, ahead of GMO Trust\u2019s Nov. 11 initial direct-redemption deadline. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T17:10:05+00:00",
+   "last_seen": "2026-10-23T17:10:05+00:00",
+   "summary": "Holders who want to avoid market-rate conversion must withdraw before Monday, ahead of GMO Trust\u2019s Nov. 11 initial direct-redemption deadline. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "markets",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "bec3592dc4",
+   "title": "Agora Freezes AUSD Account Linked to Initia Exploit",
+   "date": "2026-10-23T17:08:01+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Agora Freezes AUSD Account Linked to Initia Exploit",
+     "url": "https://thedefiant.io/news/hacks/agora-freezes-ausd-account-linked-to-initia-exploit",
+     "date": "2026-10-23T17:08:01+00:00",
+     "summary": "Agora says it has no contracts on Initia; the targeted Ethereum account had already swapped 1.4 million AUSD for ETH."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T17:08:01+00:00",
+   "last_seen": "2026-10-23T17:08:01+00:00",
+   "summary": "Agora says it has no contracts on Initia; the targeted Ethereum account had already swapped 1.4 million AUSD for ETH.",
+   "tags": [
+    "ethereum",
+    "security"
+   ]
+  },
+  {
+   "id": "39e752e52a",
+   "title": "Bitcoin Core Ends Long Embargoes for Bugs AI Can Rediscover",
+   "date": "2026-10-23T17:06:32+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Core Ends Long Embargoes for Bugs AI Can Rediscover",
+     "url": "https://bitcoinmagazine.com/news/bitcoin-core-ends-long-embargoes",
+     "date": "2026-10-23T17:06:32+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Core Ends Long Embargoes for Bugs AI Can Rediscover Bitcoin Core now fast-tracks fixes and disclosures for vulnerabilities that AI can easily rediscover, ending the long embargoes those bugs once received. This post Bitcoin Core Ends Long Embargoes for..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T17:06:32+00:00",
+   "last_seen": "2026-10-23T17:06:32+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Core Ends Long Embargoes for Bugs AI Can Rediscover Bitcoin Core now fast-tracks fixes and disclosures for vulnerabilities that AI can easily rediscover, ending the long embargoes those bugs once received. This post Bitcoin Core Ends Long Embargoes for...",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "9d251ea447",
+   "title": "Initia halts network after security incident as attacker reportedly mints tokens",
+   "date": "2026-10-23T17:03:56+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Initia halts network after security incident as attacker reportedly mints tokens",
+     "url": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
+     "date": "2026-10-23T17:03:56+00:00",
+     "summary": "Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T17:03:56+00:00",
+   "last_seen": "2026-10-23T17:03:56+00:00",
+   "summary": "Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident.",
+   "tags": [
+    "ethereum"
+   ]
+  },
   {
    "id": "12e68e3b52",
    "title": "Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike",

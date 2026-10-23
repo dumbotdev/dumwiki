@@ -1,6 +1,195 @@
 {
- "updated": "2026-10-23T17:49:16.456654+00:00",
+ "updated": "2026-10-23T19:00:18.736942+00:00",
  "events": [
+  {
+   "id": "2a71d10010",
+   "title": "Arbitrum Proposal Would Reopen Stylus Activations With Foundation Sign-Off",
+   "date": "2026-10-23T18:57:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Arbitrum Proposal Would Reopen Stylus Activations With Foundation Sign-Off",
+     "url": "https://thedefiant.io/news/blockchains/arbitrum-proposal-would-reopen-stylus-activations-with-foundation-sign-off",
+     "date": "2026-10-23T18:57:39+00:00",
+     "summary": "Existing active contracts and renewals would remain permissionless, while the DAO could revoke the Foundation\u2019s signing authority."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T18:57:39+00:00",
+   "last_seen": "2026-10-23T18:57:39+00:00",
+   "summary": "Existing active contracts and renewals would remain permissionless, while the DAO could revoke the Foundation\u2019s signing authority.",
+   "tags": []
+  },
+  {
+   "id": "2b4b41c34c",
+   "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+   "date": "2026-10-23T18:54:55+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "SEC Flags AI 'Super Intelligence' and Tokenization as Systemic Market Risks",
+     "url": "https://decrypt.co/381745/sec-ai-super-intelligence-tokenization-2027-exam-list",
+     "date": "2026-10-23T18:54:55+00:00",
+     "summary": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T18:54:55+00:00",
+   "last_seen": "2026-10-23T18:54:55+00:00",
+   "summary": "The regulator's Division of Examinations named \"super intelligence and other advanced technologies\" as a focus area alongside tokenization risks.",
+   "tags": [
+    "ai",
+    "regulation"
+   ]
+  },
+  {
+   "id": "20cd2c361a",
+   "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+   "date": "2026-10-23T18:39:02+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+     "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-23T18:39:02+00:00",
+     "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T18:39:02+00:00",
+   "last_seen": "2026-10-23T18:39:02+00:00",
+   "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum.",
+   "tags": [
+    "ethereum",
+    "security"
+   ]
+  },
+  {
+   "id": "1255270973",
+   "title": "Netanyahu Says He Requested Blockchain Plan for Potential Banking Sanctions",
+   "date": "2026-10-23T18:23:34+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Netanyahu Says He Requested Blockchain Plan for Potential Banking Sanctions",
+     "url": "https://thedefiant.io/converge/regulation/netanyahu-says-he-requested-blockchain-plan-for-potential-banking-sanctions",
+     "date": "2026-10-23T18:23:34+00:00",
+     "summary": "The Israeli premier called blockchain one of several alternatives as Britain threatens action against businesses supporting settlement construction."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T18:23:34+00:00",
+   "last_seen": "2026-10-23T18:23:34+00:00",
+   "summary": "The Israeli premier called blockchain one of several alternatives as Britain threatens action against businesses supporting settlement construction.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "3410e48bf5",
+   "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
+   "date": "2026-10-23T18:15:55+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
+     "url": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
+     "date": "2026-10-23T18:15:55+00:00",
+     "summary": "Netanyahu says blockchain could help Israel prepare for possible sanctions targeting its banking system."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T18:15:55+00:00",
+   "last_seen": "2026-10-23T18:15:55+00:00",
+   "summary": "Netanyahu says blockchain could help Israel prepare for possible sanctions targeting its banking system.",
+   "tags": []
+  },
+  {
+   "id": "f7142765c4",
+   "title": "Bitcoin ETFs shed $635 million as BTC tests their holdings\u2019 estimated $81,500 cost basis",
+   "date": "2026-10-23T18:10:49+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin ETFs shed $635 million as BTC tests their holdings\u2019 estimated $81,500 cost basis",
+     "url": "https://cryptoslate.com/bitcoin-etf-outflows-holdings-cost-basis/",
+     "date": "2026-10-23T18:10:49+00:00",
+     "summary": "US spot Bitcoin exchange-traded funds recorded about $635 million in net outflows Thursday as the cryptocurrency traded near the estimated cost basis of the funds&#039; Bitcoin holdings. The Oct. 22 withdrawals were the largest daily outflow since June 25 and reversed nearly 60%..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T18:10:49+00:00",
+   "last_seen": "2026-10-23T18:10:49+00:00",
+   "summary": "US spot Bitcoin exchange-traded funds recorded about $635 million in net outflows Thursday as the cryptocurrency traded near the estimated cost basis of the funds&#039; Bitcoin holdings. The Oct. 22 withdrawals were the largest daily outflow since June 25 and reversed nearly 60%...",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "9ceee68d0e",
+   "title": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows",
+   "date": "2026-10-23T18:08:25+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tether Blacklists USDT Wallets Linked to CoinDCX Outflows",
+     "url": "https://thedefiant.io/news/hacks/tether-blacklists-usdt-wallets-linked-to-coindcx-outflows",
+     "date": "2026-10-23T18:08:25+00:00",
+     "summary": "AMLBot puts the frozen sum at about $2.2 million, after CoinDCX acknowledged losses from a failed process for securing deposits to retired addresses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T18:08:25+00:00",
+   "last_seen": "2026-10-23T18:08:25+00:00",
+   "summary": "AMLBot puts the frozen sum at about $2.2 million, after CoinDCX acknowledged losses from a failed process for securing deposits to retired addresses.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "28e79d8f07",
+   "title": "AI-Agent Payments Explained: Mastercard Agent Pay, AP2 and x402",
+   "date": "2026-10-23T17:54:23+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "AI-Agent Payments Explained: Mastercard Agent Pay, AP2 and x402",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/ai-agent-payments-explained-mastercard-agent-pay-ap2-and-x402",
+     "date": "2026-10-23T17:54:23+00:00",
+     "summary": "AP2 records spending authority, while x402 carries payment requests. Mastercard\u2019s machine-payment pilot shows why a signed voucher and final settlement are different steps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T17:54:23+00:00",
+   "last_seen": "2026-10-23T17:54:23+00:00",
+   "summary": "AP2 records spending authority, while x402 carries payment requests. Mastercard\u2019s machine-payment pilot shows why a signed voucher and final settlement are different steps.",
+   "tags": [
+    "ai",
+    "legal"
+   ]
+  },
+  {
+   "id": "a9b82d662c",
+   "title": "How I Vibe Coded My Smart TV\u2014And Claude Killed It",
+   "date": "2026-10-23T17:53:29+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "How I Vibe Coded My Smart TV\u2014And Claude Killed It",
+     "url": "https://decrypt.co/381717/how-vibe-coded-my-smart-tv-claude-killed-it",
+     "date": "2026-10-23T17:53:29+00:00",
+     "summary": "Vibe coding your TV is impressive. Doing it without knowing exactly what you're touching is how you lose a rooted LG set and get a very sincere apology from an AI."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T17:53:29+00:00",
+   "last_seen": "2026-10-23T17:53:29+00:00",
+   "summary": "Vibe coding your TV is impressive. Doing it without knowing exactly what you're touching is how you lose a rooted LG set and get a very sincere apology from an AI.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "d24e7dfdc7",
    "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
@@ -18,6 +207,27 @@
    "first_seen": "2026-10-23T17:46:09+00:00",
    "last_seen": "2026-10-23T17:46:09+00:00",
    "summary": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "904b900e4e",
+   "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+   "date": "2026-10-23T17:42:12+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+     "url": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-23T17:42:12+00:00",
+     "summary": "The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ardoino for records related to a reported deal between Tether and Nxum."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T17:42:12+00:00",
+   "last_seen": "2026-10-23T17:42:12+00:00",
+   "summary": "The Democratic ranking member of the Senate Permanent Subcommittee on Investigations asked Paolo Ardoino for records related to a reported deal between Tether and Nxum.",
    "tags": [
     "stablecoins"
    ]

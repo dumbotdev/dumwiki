@@ -1,6 +1,111 @@
 {
- "updated": "2026-10-23T08:54:47.710657+00:00",
+ "updated": "2026-10-23T09:53:44.616561+00:00",
  "events": [
+  {
+   "id": "ffdf418330",
+   "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
+   "date": "2026-10-23T09:52:44+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
+     "url": "https://www.theblock.co/news/regulation/2026-10-23-south-korea-stablecoins-payment-instruments-424028",
+     "date": "2026-10-23T09:52:44+00:00",
+     "summary": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T09:52:44+00:00",
+   "last_seen": "2026-10-23T09:52:44+00:00",
+   "summary": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "ebbbbe4e40",
+   "title": "Bitcoin\u2019s usual lifeline is failing as a bond market warning puts $80,000 at risk",
+   "date": "2026-10-23T09:30:45+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s usual lifeline is failing as a bond market warning puts $80,000 at risk",
+     "url": "https://cryptoslate.com/bitcoins-usual-lifeline-is-failing-as-a-bond-market-warning-puts-80000-at-risk/",
+     "date": "2026-10-23T09:30:45+00:00",
+     "summary": "Bitcoin briefly lost the $81,000 footing on Oct. 22, while the Nasdaq lost more than 2%, spot gold dropped about 2.7% to $4,025, and silver sank about 5.8% to near $54.63. The 10-year Treasury yield fell from 5.146% to below 5%, marking its biggest one-day drop in more than two..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T09:30:45+00:00",
+   "last_seen": "2026-10-23T09:30:45+00:00",
+   "summary": "Bitcoin briefly lost the $81,000 footing on Oct. 22, while the Nasdaq lost more than 2%, spot gold dropped about 2.7% to $4,025, and silver sank about 5.8% to near $54.63. The 10-year Treasury yield fell from 5.146% to below 5%, marking its biggest one-day drop in more than two...",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "macro"
+   ]
+  },
+  {
+   "id": "f1a4df8118",
+   "title": "Sweden\u2019s central bank revives e-krona debate as stablecoins and digital euro loom",
+   "date": "2026-10-23T08:57:34+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Sweden\u2019s central bank revives e-krona debate as stablecoins and digital euro loom",
+     "url": "https://www.coindesk.com/business/2026/10/23/sweden-s-central-bank-revives-e-krona-debate-as-stablecoins-and-digital-euro-loom",
+     "date": "2026-10-23T08:57:34+00:00",
+     "summary": "The Riksbank sees an e-krona as critical to securing national payments and monetary control."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T08:57:34+00:00",
+   "last_seen": "2026-10-23T08:57:34+00:00",
+   "summary": "The Riksbank sees an e-krona as critical to securing national payments and monetary control.",
+   "tags": []
+  },
+  {
+   "id": "9983627bc3",
+   "title": "Bitcoin in 'Wait and See Mode'\u2014And That Might Be a Good Thing",
+   "date": "2026-10-23T08:55:35+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin in 'Wait and See Mode'\u2014And That Might Be a Good Thing",
+     "url": "https://decrypt.co/381666/bitcoin-in-wait-and-see-mode-and-that-might-be-a-good-thing",
+     "date": "2026-10-23T08:55:35+00:00",
+     "summary": "The crypto market has been quiet as of late. Market analysts think that might actually be a good sign and that a bull market might be near."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T08:55:35+00:00",
+   "last_seen": "2026-10-23T08:55:35+00:00",
+   "summary": "The crypto market has been quiet as of late. Market analysts think that might actually be a good sign and that a bull market might be near.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b47dd91012",
+   "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+   "date": "2026-10-23T08:47:34+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "HSBC launches Hong Kong dollar stablecoin for retail payments",
+     "url": "https://cointelegraph.com/news/hsbc-launches-redcoin-hong-kong-dollar-stablecoin-payme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-23T08:47:34+00:00",
+     "summary": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T08:47:34+00:00",
+   "last_seen": "2026-10-23T08:47:34+00:00",
+   "summary": "HSBC is rolling out RedCoin wallets to PayMe users, with plans to support tokenized investment subscriptions and expand into institutional uses.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "96cef524bb",
    "title": "Memecoin investor Murad confirms $81 million roundtrip on gains, says he\u2019s eyeing billions",

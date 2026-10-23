@@ -1,6 +1,203 @@
 {
- "updated": "2026-10-23T10:51:02.931607+00:00",
+ "updated": "2026-10-23T11:52:44.521900+00:00",
  "events": [
+  {
+   "id": "57507e853c",
+   "title": "Coinbase Ireland\u2019s cash safeguards fell \u20ac5 million short before 2024 fix",
+   "date": "2026-10-23T11:50:07+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Coinbase Ireland\u2019s cash safeguards fell \u20ac5 million short before 2024 fix",
+     "url": "https://cryptoslate.com/coinbase-irelands-cash-safeguards-fell-e5-million-short-before-2024-fix/",
+     "date": "2026-10-23T11:50:07+00:00",
+     "summary": "The regulator found no evidence of actual consumer harm, while an accepted \u20ac3.25 million penalty still needs High Court confirmation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T11:50:07+00:00",
+   "last_seen": "2026-10-23T11:50:07+00:00",
+   "summary": "The regulator found no evidence of actual consumer harm, while an accepted \u20ac3.25 million penalty still needs High Court confirmation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "ed64861524",
+   "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day\u2019s inflows",
+   "date": "2026-10-23T11:39:45+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous day\u2019s inflows",
+     "url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483",
+     "date": "2026-10-23T11:39:45+00:00",
+     "summary": "BlackRock's IBIT led Thursday's net outflows with $254.1 million, while four other funds also witnessed withdrawals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T11:39:45+00:00",
+   "last_seen": "2026-10-23T11:39:45+00:00",
+   "summary": "BlackRock's IBIT led Thursday's net outflows with $254.1 million, while four other funds also witnessed withdrawals.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "f9c4b14f6c",
+   "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+   "date": "2026-10-23T11:22:33+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin's price is as jumpy as Nvidia's and eight times more turbulent than the euro",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/23/bitcoin-s-volatility-is-well-above-euro-dollar-gyrations-though-it-has-calmed-to-rival-nvidia-s",
+     "date": "2026-10-23T11:22:33+00:00",
+     "summary": "Your day-ahead look for Oct. 23, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T11:22:33+00:00",
+   "last_seen": "2026-10-23T11:22:33+00:00",
+   "summary": "Your day-ahead look for Oct. 23, 2026",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "2f70f3a8b9",
+   "title": "Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs",
+   "date": "2026-10-23T11:13:01+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Bitcoin holds above $81,000 as the AI rout fades and oil climbs",
+     "url": "https://www.coindesk.com/markets/2026/10/23/live-updates-bitcoin-holds-above-usd81-000-as-the-ai-rout-fades-and-oil-climbs",
+     "date": "2026-10-23T11:13:01+00:00",
+     "summary": "Bitcoin went quiet after a week of big swings, with tech futures steadying and Brent hitting its highest level since early May. The Fed meets next week."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T11:13:01+00:00",
+   "last_seen": "2026-10-23T11:13:01+00:00",
+   "summary": "Bitcoin went quiet after a week of big swings, with tech futures steadying and Brent hitting its highest level since early May. The Fed meets next week.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "e0e68920c1",
+   "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+   "date": "2026-10-23T10:54:41+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin steadies near $81,700 as altcoins rebound, pepe climbs 13%",
+     "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-steadies-near-usd81-700-as-altcoins-rebound-pepe-climbs-13",
+     "date": "2026-10-23T10:54:41+00:00",
+     "summary": "Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T10:54:41+00:00",
+   "last_seen": "2026-10-23T10:54:41+00:00",
+   "summary": "Bitcoin rose 0.5% to around $81,700 since midnight UTC while the CoinDesk 80 gained 1.4% and memecoins climbed 2.9%.",
+   "tags": [
+    "bitcoin",
+    "memecoins"
+   ]
+  },
+  {
+   "id": "038f4d6e64",
+   "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
+   "date": "2026-10-23T10:54:35+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Heatbit's $899 Water Heater Element Mines Bitcoin While It Heats Your Tank",
+     "url": "https://decrypt.co/381665/heatbits-899-water-heater-element-mines-bitcoin-while-it-heats-your-tank",
+     "date": "2026-10-23T10:54:35+00:00",
+     "summary": "The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T10:54:35+00:00",
+   "last_seen": "2026-10-23T10:54:35+00:00",
+   "summary": "The Bitwater element swaps a tank's resistance wire for 20 mining chips, and Heatbit says it uses the same electricity to heat the water.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "8531050a95",
+   "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
+   "date": "2026-10-23T10:53:09+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin appears to have decoupled from midterm cycle bottom history",
+     "url": "https://www.coindesk.com/markets/2026/10/23/bitcoin-approaches-midterms-as-july-low-challenges-historical-cycle-pattern",
+     "date": "2026-10-23T10:53:09+00:00",
+     "summary": "Previous bitcoin bear-market lows followed U.S. midterms, but this year\u2019s recovery raises the possibility that the bottom arrived months earlier."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T10:53:09+00:00",
+   "last_seen": "2026-10-23T10:53:09+00:00",
+   "summary": "Previous bitcoin bear-market lows followed U.S. midterms, but this year\u2019s recovery raises the possibility that the bottom arrived months earlier.",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "dd20df9562",
+   "title": "Socket Finds 16 Fake Rabby and OKX Wallet Extensions on Firefox",
+   "date": "2026-10-23T10:52:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Socket Finds 16 Fake Rabby and OKX Wallet Extensions on Firefox",
+     "url": "https://thedefiant.io/news/security/socket-finds-16-fake-rabby-and-okx-wallet-extensions-on-firefox",
+     "date": "2026-10-23T10:52:49+00:00",
+     "summary": "Mozilla had unpublished the add-ons by Oct. 5, the security firm says. Removing them does not secure wallets whose recovery phrases were exposed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T10:52:49+00:00",
+   "last_seen": "2026-10-23T10:52:49+00:00",
+   "summary": "Mozilla had unpublished the add-ons by Oct. 5, the security firm says. Removing them does not secure wallets whose recovery phrases were exposed.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "41f2655aa0",
+   "title": "Fake election polls expose a Kalshi loophole that could leave traders paying for fraud",
+   "date": "2026-10-23T10:50:17+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Fake election polls expose a Kalshi loophole that could leave traders paying for fraud",
+     "url": "https://cryptoslate.com/kalshi-election-betting-rules-expose-a-data-integrity-question-after-fake-poll-scandal/",
+     "date": "2026-10-23T10:50:17+00:00",
+     "summary": "Polling firm Wedgewood admitted on Oct. 20 that it fabricated most of its election surveys, and VoteHub, one of the aggregators that carried its results, is also the data source for recurring Kalshi contracts. Kalshi&#039;s September 2025 regulatory filing names VoteHub as the..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T10:50:17+00:00",
+   "last_seen": "2026-10-23T10:50:17+00:00",
+   "summary": "Polling firm Wedgewood admitted on Oct. 20 that it fabricated most of its election surveys, and VoteHub, one of the aggregators that carried its results, is also the data source for recurring Kalshi contracts. Kalshi&#039;s September 2025 regulatory filing names VoteHub as the...",
+   "tags": [
+    "legal"
+   ]
+  },
   {
    "id": "7818f10582",
    "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
@@ -348,11 +545,18 @@
      "url": "https://cointelegraph.com/news/ethereum-delays-glamsterdam-testnet-fork-gas-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-23T05:09:41+00:00",
      "summary": "ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam\u2019s gas changes and is coordinating responsible disclosure with affected projects."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Ethereum Delays Glamsterdam Testnet Fork Over Gas Security Flaws",
+     "url": "https://decrypt.co/381681/ethereum-delays-glamsterdam-testnet-fork-over-gas-security-flaws",
+     "date": "2026-10-23T11:49:37+00:00",
+     "summary": "The Hoodi testnet fork is off after ChainSecurity found gas changes that could let contracts lock in failures, citing 13 real-world cases."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-23T05:09:41+00:00",
-   "last_seen": "2026-10-23T05:09:41+00:00",
+   "last_seen": "2026-10-23T11:49:37+00:00",
    "summary": "ChainSecurity said it identified 13 real-world examples of smart contracts potentially affected by Glamsterdam\u2019s gas changes and is coordinating responsible disclosure with affected projects.",
    "tags": [
     "ethereum"

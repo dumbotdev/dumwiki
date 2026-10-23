@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-23T19:48:07.760658+00:00",
+ "updated": "2026-10-23T20:51:36.428936+00:00",
  "events": [
+  {
+   "id": "48ae7cf83d",
+   "title": "UK\u2019s FCA says crypto apps may need licenses when algorithms choose trade routes",
+   "date": "2026-10-23T20:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "UK\u2019s FCA says crypto apps may need licenses when algorithms choose trade routes",
+     "url": "https://cryptoslate.com/uks-fca-says-crypto-apps-may-need-licenses-when-algorithms-choose-trade-routes/",
+     "date": "2026-10-23T20:30:00+00:00",
+     "summary": "Proposed guidance separates technical access from substantive transaction involvement as firms apply for the UK\u2019s October 2027 regime. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T20:30:00+00:00",
+   "last_seen": "2026-10-23T20:30:00+00:00",
+   "summary": "Proposed guidance separates technical access from substantive transaction involvement as firms apply for the UK\u2019s October 2027 regime. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "0fcfb4a47d",
+   "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser\u2019s Firm",
+   "date": "2026-10-23T20:16:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Senate Democrat Probes Tether Payments to Ex-White House Crypto Adviser\u2019s Firm",
+     "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
+     "date": "2026-10-23T20:16:02+00:00",
+     "summary": "Sen. Richard Blumenthal demanded Tether\u2019s records on payments to Nxum, a firm co-owned by former White House crypto adviser Bo Hines."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T20:16:02+00:00",
+   "last_seen": "2026-10-23T20:16:02+00:00",
+   "summary": "Sen. Richard Blumenthal demanded Tether\u2019s records on payments to Nxum, a firm co-owned by former White House crypto adviser Bo Hines.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "b25c510fd1",
    "title": "SpaceX Filing Gives Elon Musk the Final Word on Tesla Merger He Says He\u2019s Staying Out Of",

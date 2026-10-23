@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-23T07:07:29.132789+00:00",
+ "updated": "2026-10-23T07:58:41.890897+00:00",
  "events": [
+  {
+   "id": "5cfc291fc1",
+   "title": "Malaysia, Thailand join Singapore\u2019s cross-border stablecoin push",
+   "date": "2026-10-23T07:15:53+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Malaysia, Thailand join Singapore\u2019s cross-border stablecoin push",
+     "url": "https://cointelegraph.com/news/malaysia-thailand-join-singapores-cross-border-stablecoin-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-23T07:15:53+00:00",
+     "summary": "BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T07:15:53+00:00",
+   "last_seen": "2026-10-23T07:15:53+00:00",
+   "summary": "BLOOM seeks to cut costs by helping financial institutions coordinate cross-border use of stablecoins and tokenized deposits.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "bca70bd808",
+   "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+   "date": "2026-10-23T07:09:39+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin ETFs bleed $635M as October slides back into the red",
+     "url": "https://cointelegraph.com/markets/bitcoin-etfs-erase-october-gains-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-23T07:09:39+00:00",
+     "summary": "Thursday\u2019s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T07:09:39+00:00",
+   "last_seen": "2026-10-23T07:09:39+00:00",
+   "summary": "Thursday\u2019s withdrawals ended a three-day inflow streak and left US spot Bitcoin ETFs with $175 million in net outflows for October.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
   {
    "id": "c6914a54c9",
    "title": "CoinDCX Acknowledges Wallet-Sweeping Losses After Denying New Breach",

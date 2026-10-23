@@ -1,6 +1,65 @@
 {
- "updated": "2026-10-23T09:53:44.616561+00:00",
+ "updated": "2026-10-23T10:51:02.931607+00:00",
  "events": [
+  {
+   "id": "7818f10582",
+   "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+   "date": "2026-10-23T10:13:06+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Cysic dangles a 10% bounty, hacker pours loot into Tornado Cash",
+     "url": "https://cointelegraph.com/news/cysic-exploiter-eth-tornado-cash-white-hat-offer?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-23T10:13:06+00:00",
+     "summary": "The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic\u2019s bridge to mint 10 million tokens on BNB Smart Chain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T10:13:06+00:00",
+   "last_seen": "2026-10-23T10:13:06+00:00",
+   "summary": "The attacker moved $744,000 in ETH and BNB to Tornado Cash after exploiting Cysic\u2019s bridge to mint 10 million tokens on BNB Smart Chain.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "ce631afe8d",
+   "title": "New York seeks over $1.3 billion from NovaTech founders after couple fled the US",
+   "date": "2026-10-23T10:12:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "New York seeks over $1.3 billion from NovaTech founders after couple fled the US",
+     "url": "https://www.theblock.co/news/regulation/2026-10-23-new-york-seeks-over-1-3-billion-from-novatech-founders-after-couple-fled-the-us-424453",
+     "date": "2026-10-23T10:12:02+00:00",
+     "summary": "New York wants $1.3 billion from NovaTech's founders, whose platform took in $1.16 billion and traded a fraction of it."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T10:12:02+00:00",
+   "last_seen": "2026-10-23T10:12:02+00:00",
+   "summary": "New York wants $1.3 billion from NovaTech's founders, whose platform took in $1.16 billion and traded a fraction of it.",
+   "tags": []
+  },
+  {
+   "id": "6610ebe89b",
+   "title": "Base Active Addresses Jump Another 50% as Transactions and Fees Fall",
+   "date": "2026-10-23T10:08:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Base Active Addresses Jump Another 50% as Transactions and Fees Fall",
+     "url": "https://thedefiant.io/news/blockchains/base-active-addresses-jump-another-50-as-transactions-and-fees-fall",
+     "date": "2026-10-23T10:08:51+00:00",
+     "summary": "Transactions fell 8.7% and dollar-denominated user fees dropped 20% on Oct. 22 as a GMGN trading competition continued."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T10:08:51+00:00",
+   "last_seen": "2026-10-23T10:08:51+00:00",
+   "summary": "Transactions fell 8.7% and dollar-denominated user fees dropped 20% on Oct. 22 as a GMGN trading competition continued.",
+   "tags": []
+  },
   {
    "id": "ffdf418330",
    "title": "South Korea to amend forex law to regulate stablecoins as payment instruments: report",
@@ -20,6 +79,27 @@
    "summary": "South Korea is currently developing the Digital Asset Basic Act, which seeks to establish a comprehensive framework for crypto.",
    "tags": [
     "regulation"
+   ]
+  },
+  {
+   "id": "65137a6e04",
+   "title": "Bybit secures first full Dubai license for spot trading services",
+   "date": "2026-10-23T09:50:04+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bybit secures first full Dubai license for spot trading services",
+     "url": "https://cointelegraph.com/news/bybit-first-full-dubai-spot-trading-license?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-23T09:50:04+00:00",
+     "summary": "Bybit\u2019s new VARA licence authorizes spot trading services in Dubai, but the exchange must complete additional regulatory requirements before launching."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-23T09:50:04+00:00",
+   "last_seen": "2026-10-23T09:50:04+00:00",
+   "summary": "Bybit\u2019s new VARA licence authorizes spot trading services in Dubai, but the exchange must complete additional regulatory requirements before launching.",
+   "tags": [
+    "exchanges"
    ]
   },
   {
@@ -394,12 +474,19 @@
      "url": "https://www.theblock.co/news/business/2026-10-23-hsbc-hkd-stablecoin-redcoin-424018",
      "date": "2026-10-23T04:03:09+00:00",
      "summary": "PayMe users will be able to activate a stablecoin wallet in-app in the coming days for peer-to-peer and peer-to-merchant payments."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
+     "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
+     "date": "2026-10-23T10:22:56+00:00",
+     "summary": "HSBC and Standard Chartered-led Anchorpoint received Hong Kong\u2019s first stablecoin issuer licenses in April. Anchorpoint began rolling out HKDAP in August."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-23T04:03:09+00:00",
-   "last_seen": "2026-10-23T04:03:09+00:00",
-   "summary": "PayMe users will be able to activate a stablecoin wallet in-app in the coming days for peer-to-peer and peer-to-merchant payments.",
+   "last_seen": "2026-10-23T10:22:56+00:00",
+   "summary": "HSBC and Standard Chartered-led Anchorpoint received Hong Kong\u2019s first stablecoin issuer licenses in April. Anchorpoint began rolling out HKDAP in August.",
    "tags": [
     "stablecoins"
    ]

@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-24T17:44:46.380017+00:00",
+ "updated": "2026-10-24T18:52:31.387079+00:00",
  "events": [
+  {
+   "id": "e514b8769b",
+   "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
+   "date": "2026-10-24T18:00:27+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
+     "url": "https://cryptoslate.com/arthur-hayes-exits-crypto-trading-positions-as-analysts-track-26-million-in-sales/",
+     "date": "2026-10-24T18:00:27+00:00",
+     "summary": "Arthur Hayes has exited Maelstrom&#039;s directional crypto positions, and on-chain analysts are tracking about $26 million in token sales. In an Oct. 24 statement, Hayes said he had taken profits on Ethereum (ETH), Ethena (ENA), Uniswap (UNI), and other cryptocurrencies, citing..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T18:00:27+00:00",
+   "last_seen": "2026-10-24T18:00:27+00:00",
+   "summary": "Arthur Hayes has exited Maelstrom&#039;s directional crypto positions, and on-chain analysts are tracking about $26 million in token sales. In an Oct. 24 statement, Hayes said he had taken profits on Ethereum (ETH), Ethena (ENA), Uniswap (UNI), and other cryptocurrencies, citing...",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "4bdee58ed7",
+   "title": "Electrum Patches Wallet Flaw Exploited Through Malicious Servers",
+   "date": "2026-10-24T17:57:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Electrum Patches Wallet Flaw Exploited Through Malicious Servers",
+     "url": "https://thedefiant.io/news/security/electrum-patches-wallet-flaw-exploited-through-malicious-servers",
+     "date": "2026-10-24T17:57:11+00:00",
+     "summary": "A malicious server can substitute a fake payment, then trick the user into signing it while raising the transaction fee. Developers say one user reported losing money."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T17:57:11+00:00",
+   "last_seen": "2026-10-24T17:57:11+00:00",
+   "summary": "A malicious server can substitute a fake payment, then trick the user into signing it while raising the transaction fee. Developers say one user reported losing money.",
+   "tags": []
+  },
   {
    "id": "b74ba98ca0",
    "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
@@ -438,9 +478,16 @@
      "url": "https://www.coindesk.com/",
      "date": "2026-10-24T14:00:00+00:00",
      "summary": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin\u2019s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+     "url": "https://www.coindesk.com/business/2026/10/24/bitcoin-s-wealthy-holders-turning-to-loans-and-yield-as-investment-habits-mature-xapo-ceo",
+     "date": "2026-10-24T14:00:00+00:00",
+     "summary": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-10-24T14:00:00+00:00",
    "last_seen": "2026-10-24T14:00:00+00:00",
    "summary": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",

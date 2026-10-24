@@ -1,6 +1,180 @@
 {
- "updated": "2026-10-24T14:47:39.313444+00:00",
+ "updated": "2026-10-24T15:48:27.714175+00:00",
  "events": [
+  {
+   "id": "3248a164b7",
+   "title": "Circle shareholder sues Trump over UAE crypto deals, citing up to $82 million in potential annual revenue",
+   "date": "2026-10-24T15:45:44+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Circle shareholder sues Trump over UAE crypto deals, citing up to $82 million in potential annual revenue",
+     "url": "https://cryptoslate.com/circle-shareholder-sues-trump-over-uae-crypto-deals-citing-up-to-82-million-in-potential-annual-revenue/",
+     "date": "2026-10-24T15:45:44+00:00",
+     "summary": "A Circle shareholder sued President Donald Trump, alleging UAE-linked cryptocurrency payments enriched his family and diverted business from USDC. The complaint, filed Oct. 22 in Washington federal court, challenges a $500 million investment in Trump&#039;s World Liberty..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T15:45:44+00:00",
+   "last_seen": "2026-10-24T15:45:44+00:00",
+   "summary": "A Circle shareholder sued President Donald Trump, alleging UAE-linked cryptocurrency payments enriched his family and diverted business from USDC. The complaint, filed Oct. 22 in Washington federal court, challenges a $500 million investment in Trump&#039;s World Liberty...",
+   "tags": [
+    "legal",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "e94cb332a5",
+   "title": "Ether Falls Below $2,300 as 28-Day Loss Reaches 14.7%",
+   "date": "2026-10-24T15:43:40+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ether Falls Below $2,300 as 28-Day Loss Reaches 14.7%",
+     "url": "https://thedefiant.io/news/markets/ether-falls-below-2-300-as-28-day-loss-reaches-14-7",
+     "date": "2026-10-24T15:43:40+00:00",
+     "summary": "ETH lagged bitcoin by 9.15 percentage points over matched nearly four-week windows, while US ether ETFs recorded another outflow on Oct. 22."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T15:43:40+00:00",
+   "last_seen": "2026-10-24T15:43:40+00:00",
+   "summary": "ETH lagged bitcoin by 9.15 percentage points over matched nearly four-week windows, while US ether ETFs recorded another outflow on Oct. 22.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "2724a6afe7",
+   "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+   "date": "2026-10-24T15:21:06+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+     "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+     "date": "2026-10-24T15:21:06+00:00",
+     "summary": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children\u2019s education."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T15:21:06+00:00",
+   "last_seen": "2026-10-24T15:21:06+00:00",
+   "summary": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children\u2019s education.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "0f48c69c80",
+   "title": "Third X100 Exploit Transaction Pulls 550,000 X From Uniswap Pool",
+   "date": "2026-10-24T15:17:43+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Third X100 Exploit Transaction Pulls 550,000 X From Uniswap Pool",
+     "url": "https://thedefiant.io/news/hacks/third-x100-exploit-transaction-pulls-550-000-x-from-uniswap-pool",
+     "date": "2026-10-24T15:17:43+00:00",
+     "summary": "A different sender routed about 549,916 X and 1,909 USDT to a new beneficiary, while the affected pool held less than 200 USDT."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T15:17:43+00:00",
+   "last_seen": "2026-10-24T15:17:43+00:00",
+   "summary": "A different sender routed about 549,916 X and 1,909 USDT to a new beneficiary, while the affected pool held less than 200 USDT.",
+   "tags": [
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "86e91f3c75",
+   "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+   "date": "2026-10-24T15:11:24+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+     "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+     "date": "2026-10-24T15:11:24+00:00",
+     "summary": "Bitcoin has sunk to its weakest level in more than one month."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T15:11:24+00:00",
+   "last_seen": "2026-10-24T15:11:24+00:00",
+   "summary": "Bitcoin has sunk to its weakest level in more than one month.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "bc36cb3c12",
+   "title": "Game Publishers Have Pushed to Cut Discs Since 2007, Infinity Ward Veteran Says",
+   "date": "2026-10-24T15:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Game Publishers Have Pushed to Cut Discs Since 2007, Infinity Ward Veteran Says",
+     "url": "https://decrypt.co/381674/game-publishers-have-pushed-to-cut-discs-since-2007-infinity-ward-veteran-says",
+     "date": "2026-10-24T15:01:02+00:00",
+     "summary": "Robert Bowling, who spent six years working on Call of Duty, told Decrypt that Activision suggested cutting discs nearly two decades ago."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T15:01:02+00:00",
+   "last_seen": "2026-10-24T15:01:02+00:00",
+   "summary": "Robert Bowling, who spent six years working on Call of Duty, told Decrypt that Activision suggested cutting discs nearly two decades ago.",
+   "tags": []
+  },
+  {
+   "id": "739516e30f",
+   "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+   "date": "2026-10-24T15:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+     "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+     "date": "2026-10-24T15:00:00+00:00",
+     "summary": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer caution than about rejection of tokenization itself."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T15:00:00+00:00",
+   "last_seen": "2026-10-24T15:00:00+00:00",
+   "summary": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer caution than about rejection of tokenization itself.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "b27229e337",
+   "title": "X100 Exploit Nets 4.85 Million USDT After Governance Takeover",
+   "date": "2026-10-24T14:58:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "X100 Exploit Nets 4.85 Million USDT After Governance Takeover",
+     "url": "https://thedefiant.io/news/hacks/x100-exploit-nets-4-85-million-usdt-after-governance-takeover",
+     "date": "2026-10-24T14:58:09+00:00",
+     "summary": "Two transactions turned treasury tokens and liquidity positions into USDT; Blockaid warned that the Ethereum attack was ongoing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T14:58:09+00:00",
+   "last_seen": "2026-10-24T14:58:09+00:00",
+   "summary": "Two transactions turned treasury tokens and liquidity positions into USDT; Blockaid warned that the Ethereum attack was ongoing.",
+   "tags": [
+    "defi",
+    "ethereum",
+    "macro",
+    "security",
+    "stablecoins"
+   ]
+  },
   {
    "id": "672a578230",
    "title": "Bitcoin Core speeds up security fixes as 44% of surveyed nodes run unsupported versions",

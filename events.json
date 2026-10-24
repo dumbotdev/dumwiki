@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-24T10:49:12.066256+00:00",
+ "updated": "2026-10-24T11:48:55.848332+00:00",
  "events": [
   {
    "id": "ea214f208b",
@@ -363,12 +363,19 @@
      "url": "https://decrypt.co/381755/senate-democrat-tether-payments-ex-white-house-crypto-adviser",
      "date": "2026-10-23T20:16:02+00:00",
      "summary": "Sen. Richard Blumenthal demanded Tether\u2019s records on payments to Nxum, a firm co-owned by former White House crypto adviser Bo Hines."
+    },
+    {
+     "source": "CryptoSlate",
+     "title": "Senator probes Tether\u2019s reported $6 million payments to ex-White House crypto adviser\u2019s firm",
+     "url": "https://cryptoslate.com/senator-probes-tethers-reported-6-million-payments-to-ex-white-house-crypto-advisers-firm/",
+     "date": "2026-10-24T11:00:33+00:00",
+     "summary": "Tether faces US Senate scrutiny over multimillion-dollar payments to a consulting firm co-owned by a former White House crypto adviser. On Oct. 22, Senator Richard Blumenthal, the ranking Democrat on the Senate Permanent Subcommittee on Investigations, demanded records on the..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-23T20:16:02+00:00",
-   "last_seen": "2026-10-23T20:16:02+00:00",
-   "summary": "Sen. Richard Blumenthal demanded Tether\u2019s records on payments to Nxum, a firm co-owned by former White House crypto adviser Bo Hines.",
+   "last_seen": "2026-10-24T11:00:33+00:00",
+   "summary": "Tether faces US Senate scrutiny over multimillion-dollar payments to a consulting firm co-owned by a former White House crypto adviser. On Oct. 22, Senator Richard Blumenthal, the ranking Democrat on the Senate Permanent Subcommittee on Investigations, demanded records on the...",
    "tags": [
     "stablecoins"
    ]

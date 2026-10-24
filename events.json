@@ -1,6 +1,71 @@
 {
- "updated": "2026-10-24T18:52:31.387079+00:00",
+ "updated": "2026-10-24T19:42:44.483631+00:00",
  "events": [
+  {
+   "id": "c45f162bb1",
+   "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
+   "date": "2026-10-24T19:41:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",
+     "url": "https://thedefiant.io/news/hacks/x100-exploit-proceeds-split-into-four-400-eth-wallets",
+     "date": "2026-10-24T19:41:15+00:00",
+     "summary": "The first exploiter swapped about 4.75 million USDT into ether, while the distribution wallet retained another 423 ETH."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T19:41:15+00:00",
+   "last_seen": "2026-10-24T19:41:15+00:00",
+   "summary": "The first exploiter swapped about 4.75 million USDT into ether, while the distribution wallet retained another 423 ETH.",
+   "tags": [
+    "ethereum",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "8ead86dd5c",
+   "title": "Keystone Website Breach Exposes Customer Addresses and Order Details",
+   "date": "2026-10-24T19:06:10+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Keystone Website Breach Exposes Customer Addresses and Order Details",
+     "url": "https://thedefiant.io/news/security/keystone-website-breach-exposes-customer-addresses-and-order-details",
+     "date": "2026-10-24T19:06:10+00:00",
+     "summary": "The hardware-wallet maker says it blocked access and fixed the vulnerability. Payment details, recovery phrases and private keys were not exposed, according to the company."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T19:06:10+00:00",
+   "last_seen": "2026-10-24T19:06:10+00:00",
+   "summary": "The hardware-wallet maker says it blocked access and fixed the vulnerability. Payment details, recovery phrases and private keys were not exposed, according to the company.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "6f41041c94",
+   "title": "Kraken drops Monero spending questions but keeps a $1,500 rolling 30-day withdrawal cap for individuals",
+   "date": "2026-10-24T19:00:37+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Kraken drops Monero spending questions but keeps a $1,500 rolling 30-day withdrawal cap for individuals",
+     "url": "https://cryptoslate.com/kraken-drops-monero-spending-questions-but-keeps-a-1500-rolling-30-day-withdrawal-cap-for-individuals/",
+     "date": "2026-10-24T19:00:37+00:00",
+     "summary": "Crypto exchange Kraken has withdrawn intrusive compliance demands sent to Monero customers after its co-CEO admitted the requests were unjustified. On Oct. 24, Arjun Sethi said that customers who purchased and withdrew Monero (XMR) had received emails requesting information..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T19:00:37+00:00",
+   "last_seen": "2026-10-24T19:00:37+00:00",
+   "summary": "Crypto exchange Kraken has withdrawn intrusive compliance demands sent to Monero customers after its co-CEO admitted the requests were unjustified. On Oct. 24, Arjun Sethi said that customers who purchased and withdrew Monero (XMR) had received emails requesting information...",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "e514b8769b",
    "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",

@@ -1,6 +1,71 @@
 {
- "updated": "2026-10-24T15:48:27.714175+00:00",
+ "updated": "2026-10-24T16:49:45.609631+00:00",
  "events": [
+  {
+   "id": "9804add6f0",
+   "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no \u2018criminally relevant deception\u2019",
+   "date": "2026-10-24T16:24:13+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no \u2018criminally relevant deception\u2019",
+     "url": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
+     "date": "2026-10-24T16:24:13+00:00",
+     "summary": "The judge's 60-page ruling concluded Argentine President Javier Milei's post promoting the LIBRA token did not, by itself, establish fraud."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T16:24:13+00:00",
+   "last_seen": "2026-10-24T16:24:13+00:00",
+   "summary": "The judge's 60-page ruling concluded Argentine President Javier Milei's post promoting the LIBRA token did not, by itself, establish fraud.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "a23c0fea3b",
+   "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+   "date": "2026-10-24T16:01:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+     "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
+     "date": "2026-10-24T16:01:03+00:00",
+     "summary": "Sweden's Government Offices will block ChatGPT and Claude on staff computers from Monday, steering civil servants to Microsoft Copilot as the only AI that passed its security review."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T16:01:03+00:00",
+   "last_seen": "2026-10-24T16:01:03+00:00",
+   "summary": "Sweden's Government Offices will block ChatGPT and Claude on staff computers from Monday, steering civil servants to Microsoft Copilot as the only AI that passed its security review.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "f22d970f0a",
+   "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+   "date": "2026-10-24T16:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+     "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+     "date": "2026-10-24T16:00:00+00:00",
+     "summary": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T16:00:00+00:00",
+   "last_seen": "2026-10-24T16:00:00+00:00",
+   "summary": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "funding"
+   ]
+  },
   {
    "id": "3248a164b7",
    "title": "Circle shareholder sues Trump over UAE crypto deals, citing up to $82 million in potential annual revenue",

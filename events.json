@@ -1,6 +1,29 @@
 {
- "updated": "2026-10-24T08:51:35.701451+00:00",
+ "updated": "2026-10-24T09:49:40.800657+00:00",
  "events": [
+  {
+   "id": "ea214f208b",
+   "title": "UNI Slides 29% in Four Weeks as Uniswap Liquidity Holds Steady",
+   "date": "2026-10-24T09:26:24+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "UNI Slides 29% in Four Weeks as Uniswap Liquidity Holds Steady",
+     "url": "https://thedefiant.io/news/tokens/uni-slides-29-in-four-weeks-as-uniswap-liquidity-holds-steady",
+     "date": "2026-10-24T09:26:24+00:00",
+     "summary": "The token has underperformed bitcoin and ether, while Uniswap still holds about $4 billion in liquidity."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T09:26:24+00:00",
+   "last_seen": "2026-10-24T09:26:24+00:00",
+   "summary": "The token has underperformed bitcoin and ether, while Uniswap still holds about $4 billion in liquidity.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "ethereum"
+   ]
+  },
   {
    "id": "8dccdcbc35",
    "title": "Ethereum staking yield is losing to cash rates, so why are investors still lining up?",

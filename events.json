@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-24T19:42:44.483631+00:00",
+ "updated": "2026-10-24T20:45:48.871386+00:00",
  "events": [
+  {
+   "id": "f4420ea4d2",
+   "title": "Circle\u2019s new USDC auctions let institutions collect the fees others pay to cash out",
+   "date": "2026-10-24T20:00:46+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Circle\u2019s new USDC auctions let institutions collect the fees others pay to cash out",
+     "url": "https://cryptoslate.com/circles-new-usdc-auctions-let-institutions-collect-the-fees-others-pay-to-cash-out/",
+     "date": "2026-10-24T20:00:46+00:00",
+     "summary": "Eligible institutions can collect rebates funded by matched redeemers, whose auction fees are capped at the Express rate. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T20:00:46+00:00",
+   "last_seen": "2026-10-24T20:00:46+00:00",
+   "summary": "Eligible institutions can collect rebates funded by matched redeemers, whose auction fees are capped at the Express rate. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "c45f162bb1",
    "title": "X100 Exploit Proceeds Split Into Four 400-ETH Wallets",

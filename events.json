@@ -1,6 +1,44 @@
 {
- "updated": "2026-10-24T11:48:55.848332+00:00",
+ "updated": "2026-10-24T12:59:21.130761+00:00",
  "events": [
+  {
+   "id": "a4b2d2c590",
+   "title": "Wall Street\u2019s $359 billion-a-day repo market has found a use for blockchain",
+   "date": "2026-10-24T12:00:47+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Wall Street\u2019s $359 billion-a-day repo market has found a use for blockchain",
+     "url": "https://cryptoslate.com/wall-streets-359-billion-a-day-repo-market-has-found-a-use-for-blockchain/",
+     "date": "2026-10-24T12:00:47+00:00",
+     "summary": "Wall Street has found a use for blockchain that involves neither memecoins nor replacing the banking system. It&#039;s now helping institutions borrow billions between breakfast and lunch, usually because they have government bonds but not enough cash when a payment comes due...."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T12:00:47+00:00",
+   "last_seen": "2026-10-24T12:00:47+00:00",
+   "summary": "Wall Street has found a use for blockchain that involves neither memecoins nor replacing the banking system. It&#039;s now helping institutions borrow billions between breakfast and lunch, usually because they have government bonds but not enough cash when a payment comes due....",
+   "tags": []
+  },
+  {
+   "id": "5b867eb8f2",
+   "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+   "date": "2026-10-24T12:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "U.S. Clarity Act failure gives Asia and Middle East a competitive edge, says Apex Group CEO",
+     "url": "https://www.coindesk.com/policy/2026/10/24/u-s-clarity-act-failure-gives-asia-and-middle-east-a-competitive-edge-says-apex-group-ceo",
+     "date": "2026-10-24T12:00:00+00:00",
+     "summary": "Apex Group CEO Peter Hughes warned that the failure of the U.S. Clarity Act will drive digital asset businesses toward faster-moving jurisdictions in Asia and the Middle East."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T12:00:00+00:00",
+   "last_seen": "2026-10-24T12:00:00+00:00",
+   "summary": "Apex Group CEO Peter Hughes warned that the failure of the U.S. Clarity Act will drive digital asset businesses toward faster-moving jurisdictions in Asia and the Middle East.",
+   "tags": []
+  },
   {
    "id": "ea214f208b",
    "title": "UNI Slides 29% in Four Weeks as Uniswap Liquidity Holds Steady",

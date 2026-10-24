@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-24T03:53:14.197339+00:00",
+ "updated": "2026-10-24T04:50:25.489854+00:00",
  "events": [
+  {
+   "id": "90e260a977",
+   "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+   "date": "2026-10-24T04:45:43+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",
+     "url": "https://www.coindesk.com/markets/2026/10/24/franklin-templeton-adds-usd150-million-in-fund-shares-to-xrp-ledger-all-in-one-wallet",
+     "date": "2026-10-24T04:45:43+00:00",
+     "summary": "Two subscriptions on Thursday nearly quadrupled the fund\u2019s tokens on the network. The receiving wallet shares its authorized signers with the issuer."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T04:45:43+00:00",
+   "last_seen": "2026-10-24T04:45:43+00:00",
+   "summary": "Two subscriptions on Thursday nearly quadrupled the fund\u2019s tokens on the network. The receiving wallet shares its authorized signers with the issuer.",
+   "tags": []
+  },
   {
    "id": "640016f961",
    "title": "Kraken Scraps Monero Withdrawal Questionnaires, Keeps XMR Listed",

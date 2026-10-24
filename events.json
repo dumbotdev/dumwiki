@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-24T12:59:21.130761+00:00",
+ "updated": "2026-10-24T13:46:56.708718+00:00",
  "events": [
+  {
+   "id": "371d170db1",
+   "title": "Ethereum sees biggest exchange withdrawal in four months as October ETF losses top $1 billion",
+   "date": "2026-10-24T13:30:53+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum sees biggest exchange withdrawal in four months as October ETF losses top $1 billion",
+     "url": "https://cryptoslate.com/ethereum-sees-biggest-exchange-withdrawal-in-four-months-as-october-etf-losses-top-1-billion/",
+     "date": "2026-10-24T13:30:53+00:00",
+     "summary": "About 169,770 ETH left centralized exchanges on net in one day, Santiment reported Oct. 23, the largest daily withdrawal in more than four months and worth about $407 million at the $2,400 reference price. The last bigger episode came June 5, when roughly 223,800 ETH left..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T13:30:53+00:00",
+   "last_seen": "2026-10-24T13:30:53+00:00",
+   "summary": "About 169,770 ETH left centralized exchanges on net in one day, Santiment reported Oct. 23, the largest daily withdrawal in more than four months and worth about $407 million at the $2,400 reference price. The last bigger episode came June 5, when roughly 223,800 ETH left...",
+   "tags": [
+    "etfs",
+    "ethereum",
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "1271289262",
+   "title": "API Key Rotation: What Revocation and Redeployment Actually Change",
+   "date": "2026-10-24T13:16:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "API Key Rotation: What Revocation and Redeployment Actually Change",
+     "url": "https://thedefiant.io/news/security/api-key-rotation-what-revocation-and-redeployment-actually-change",
+     "date": "2026-10-24T13:16:55+00:00",
+     "summary": "Scheduled replacement can let two keys overlap. Suspected exposure makes that overlap a security decision, not just a way to avoid downtime."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T13:16:55+00:00",
+   "last_seen": "2026-10-24T13:16:55+00:00",
+   "summary": "Scheduled replacement can let two keys overlap. Suspected exposure makes that overlap a security decision, not just a way to avoid downtime.",
+   "tags": []
+  },
+  {
+   "id": "7fe4fc751e",
+   "title": "Hong Kong\u2019s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+   "date": "2026-10-24T13:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Hong Kong\u2019s Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+     "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+     "date": "2026-10-24T13:01:02+00:00",
+     "summary": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T13:01:02+00:00",
+   "last_seen": "2026-10-24T13:01:02+00:00",
+   "summary": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "a4b2d2c590",
    "title": "Wall Street\u2019s $359 billion-a-day repo market has found a use for blockchain",

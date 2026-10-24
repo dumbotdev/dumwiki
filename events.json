@@ -1,6 +1,128 @@
 {
- "updated": "2026-10-24T13:46:56.708718+00:00",
+ "updated": "2026-10-24T14:47:39.313444+00:00",
  "events": [
+  {
+   "id": "672a578230",
+   "title": "Bitcoin Core speeds up security fixes as 44% of surveyed nodes run unsupported versions",
+   "date": "2026-10-24T14:45:04+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin Core speeds up security fixes as 44% of surveyed nodes run unsupported versions",
+     "url": "https://cryptoslate.com/bitcoin-core-speeds-up-security-fixes-as-44-of-surveyed-nodes-run-unsupported-versions/",
+     "date": "2026-10-24T14:45:04+00:00",
+     "summary": "Bitcoin Core merged a policy amendment on Oct. 22 that lets developers backport fixes for easily rediscovered vulnerabilities to every maintained release line and publish an advisory alongside them. A network snapshot from Oct. 18 shows that 3,671 of 8,422 self-reported Bitcoin..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T14:45:04+00:00",
+   "last_seen": "2026-10-24T14:45:04+00:00",
+   "summary": "Bitcoin Core merged a policy amendment on Oct. 22 that lets developers backport fixes for easily rediscovered vulnerabilities to every maintained release line and publish an advisory alongside them. A network snapshot from Oct. 18 shows that 3,671 of 8,422 self-reported Bitcoin...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "0f4df27a3c",
+   "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+   "date": "2026-10-24T14:38:47+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+     "url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+     "date": "2026-10-24T14:38:47+00:00",
+     "summary": "The judge found that Milei's promotion of LIBRA did not constitute fraud, despite the attention his support drew to the token."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T14:38:47+00:00",
+   "last_seen": "2026-10-24T14:38:47+00:00",
+   "summary": "The judge found that Milei's promotion of LIBRA did not constitute fraud, despite the attention his support drew to the token.",
+   "tags": [
+    "legal",
+    "memecoins"
+   ]
+  },
+  {
+   "id": "40f6638552",
+   "title": "Shaw Publishes Daos.fun Reconstruction, Claims Critical Flaw",
+   "date": "2026-10-24T14:25:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Shaw Publishes Daos.fun Reconstruction, Claims Critical Flaw",
+     "url": "https://thedefiant.io/news/security/shaw-publishes-daos-fun-reconstruction-claims-critical-flaw",
+     "date": "2026-10-24T14:25:37+00:00",
+     "summary": "The repository reports matching captured and rebuilt binaries. Daos.fun says it no longer maintains the platform, though existing tokens remain tradable."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T14:25:37+00:00",
+   "last_seen": "2026-10-24T14:25:37+00:00",
+   "summary": "The repository reports matching captured and rebuilt binaries. Daos.fun says it no longer maintains the platform, though existing tokens remain tradable.",
+   "tags": []
+  },
+  {
+   "id": "b25c4e2ed9",
+   "title": "Hyperliquid\u2019s Yan and CME\u2019s Duffy Split Over Who Must Bear US Compliance",
+   "date": "2026-10-24T14:12:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Hyperliquid\u2019s Yan and CME\u2019s Duffy Split Over Who Must Bear US Compliance",
+     "url": "https://thedefiant.io/news/regulation/hyperliquid-s-yan-and-cme-s-duffy-split-over-who-must-bear-us-compliance",
+     "date": "2026-10-24T14:12:54+00:00",
+     "summary": "Yan favors oversight of market deployers rather than the blockchain, while Hyperliquid\u2019s interface still bars US-based users and VPN circumvention."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T14:12:54+00:00",
+   "last_seen": "2026-10-24T14:12:54+00:00",
+   "summary": "Yan favors oversight of market deployers rather than the blockchain, while Hyperliquid\u2019s interface still bars US-based users and VPN circumvention.",
+   "tags": []
+  },
+  {
+   "id": "7c56acd772",
+   "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+   "date": "2026-10-24T14:06:24+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Wells Fargo, Cisco, Marvell among latest firms objecting to OKXICE's tokenized stock plan",
+     "url": "https://www.coindesk.com/business/2026/10/24/wells-fargo-cisco-marvell-among-latest-firms-objecting-to-okxice-s-tokenized-stock-plan",
+     "date": "2026-10-24T14:06:24+00:00",
+     "summary": "Six more companies have objected to listing tokenized versions of their stock on the venue, Reuters reported, bringing the total to 22."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T14:06:24+00:00",
+   "last_seen": "2026-10-24T14:06:24+00:00",
+   "summary": "Six more companies have objected to listing tokenized versions of their stock on the venue, Reuters reported, bringing the total to 22.",
+   "tags": []
+  },
+  {
+   "id": "4504018125",
+   "title": "Bitcoin\u2019s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+   "date": "2026-10-24T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin\u2019s wealthy holders turning to loans and yield as investment habits mature: Xapo CEO",
+     "url": "https://www.coindesk.com/",
+     "date": "2026-10-24T14:00:00+00:00",
+     "summary": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T14:00:00+00:00",
+   "last_seen": "2026-10-24T14:00:00+00:00",
+   "summary": "Borrowing against bitcoin and earning income to build their BTC holdings are becoming priorities for long-term investors, Xapo Bank CEO Seamus Rocca told CoinDesk.",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
   {
    "id": "371d170db1",
    "title": "Ethereum sees biggest exchange withdrawal in four months as October ETF losses top $1 billion",

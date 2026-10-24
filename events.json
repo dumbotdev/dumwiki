@@ -1,6 +1,93 @@
 {
- "updated": "2026-10-24T05:50:26.914374+00:00",
+ "updated": "2026-10-24T07:03:30.119721+00:00",
  "events": [
+  {
+   "id": "8dccdcbc35",
+   "title": "Ethereum staking yield is losing to cash rates, so why are investors still lining up?",
+   "date": "2026-10-24T07:00:27+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum staking yield is losing to cash rates, so why are investors still lining up?",
+     "url": "https://cryptoslate.com/ethereum-staking-yield-is-losing-to-cash-rates-so-why-are-investors-still-lining-up/",
+     "date": "2026-10-24T07:00:27+00:00",
+     "summary": "Put \u20ac10,000 into Ethereum staking at a 2.2% annual return and, if ETH&#039;s price stays unchanged, you&#039;ll earn about \u20ac220 over a year. That&#039;s just \u20ac7 more than the same amount would earn at the average rate on new euro household deposits with maturities up to one..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T07:00:27+00:00",
+   "last_seen": "2026-10-24T07:00:27+00:00",
+   "summary": "Put \u20ac10,000 into Ethereum staking at a 2.2% annual return and, if ETH&#039;s price stays unchanged, you&#039;ll earn about \u20ac220 over a year. That&#039;s just \u20ac7 more than the same amount would earn at the average rate on new euro household deposits with maturities up to one...",
+   "tags": [
+    "defi",
+    "ethereum",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "f51aa3df84",
+   "title": "JST Buyback & Burn Upgrade: GasFree Revenue and $20.34M Surplus Injected as JUST\u2019s Ecosystem Trio Solidifies JST Token Value",
+   "date": "2026-10-24T06:38:41+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "JST Buyback & Burn Upgrade: GasFree Revenue and $20.34M Surplus Injected as JUST\u2019s Ecosystem Trio Solidifies JST Token Value",
+     "url": "https://cryptoslate.com/jst-buyback-burn-upgrade-gasfree-revenue-and-20-34m-surplus-injected-as-justs-ecosystem-trio-solidifies-jst-token-value/",
+     "date": "2026-10-24T06:38:41+00:00",
+     "summary": "Summary: The upgraded JST Buyback and Burn program features the following highlights: $50M Treasury Reserve Cushion: Establishes a safety buffer for sustainable ecosystem operations. Expanded Funding Sources: Integrates GasFree revenue alongside JustLend and USDD to cover 100%..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T06:38:41+00:00",
+   "last_seen": "2026-10-24T06:38:41+00:00",
+   "summary": "Summary: The upgraded JST Buyback and Burn program features the following highlights: $50M Treasury Reserve Cushion: Establishes a safety buffer for sustainable ecosystem operations. Expanded Funding Sources: Integrates GasFree revenue alongside JustLend and USDD to cover 100%...",
+   "tags": [
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "e0ae14aa21",
+   "title": "Arthur Hayes Says He Sold Maelstrom\u2019s Directional Book",
+   "date": "2026-10-24T06:28:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Arthur Hayes Says He Sold Maelstrom\u2019s Directional Book",
+     "url": "https://thedefiant.io/news/markets/arthur-hayes-says-he-sold-maelstrom-s-directional-book",
+     "date": "2026-10-24T06:28:11+00:00",
+     "summary": "Hayes-linked wallets transferred 8,000 ETH and six other tokens, contrasting with his Oct. 15 declaration that he was long Bitcoin and Ether."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T06:28:11+00:00",
+   "last_seen": "2026-10-24T06:28:11+00:00",
+   "summary": "Hayes-linked wallets transferred 8,000 ETH and six other tokens, contrasting with his Oct. 15 declaration that he was long Bitcoin and Ether.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "67ce83e331",
+   "title": "New York demands $1.3B from NovaTech and 11,000 victims face delay",
+   "date": "2026-10-24T05:50:59+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "New York demands $1.3B from NovaTech and 11,000 victims face delay",
+     "url": "https://cryptoslate.com/new-york-demands-1-3b-from-novatech-and-11000-victims-face-delay/",
+     "date": "2026-10-24T05:50:59+00:00",
+     "summary": "The October 22 motion follows a 2025 liability ruling, while separate promoter obligations include Ciceron\u2019s installments through 2029. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-24T05:50:59+00:00",
+   "last_seen": "2026-10-24T05:50:59+00:00",
+   "summary": "The October 22 motion follows a 2025 liability ruling, while separate promoter obligations include Ciceron\u2019s installments through 2029. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
   {
    "id": "90e260a977",
    "title": "Franklin Templeton adds $150 million in fund shares to XRP Ledger, all in one wallet",

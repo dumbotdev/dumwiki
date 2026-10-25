@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-25T13:47:31.666465+00:00",
+ "updated": "2026-10-25T14:48:37.320104+00:00",
  "events": [
+  {
+   "id": "6afb368e11",
+   "title": "Evernorth takes a page from Michael Saylor\u2019s Bitcoin playbook with new $80 million XRP funding plan",
+   "date": "2026-10-25T14:30:16+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Evernorth takes a page from Michael Saylor\u2019s Bitcoin playbook with new $80 million XRP funding plan",
+     "url": "https://cryptoslate.com/evernorth-takes-a-page-from-michael-saylors-bitcoin-playbook-with-new-80-million-xrp-funding-plan/",
+     "date": "2026-10-25T14:30:16+00:00",
+     "summary": "Cantor\u2019s ordinary share purchases track eligible XRPN volume, while registration, fees and allocation govern potential XRP spending. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T14:30:16+00:00",
+   "last_seen": "2026-10-25T14:30:16+00:00",
+   "summary": "Cantor\u2019s ordinary share purchases track eligible XRPN volume, while registration, fees and allocation govern potential XRP spending. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "7ac4d0b1d3",
+   "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+   "date": "2026-10-25T14:01:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+     "url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
+     "date": "2026-10-25T14:01:03+00:00",
+     "summary": "Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak, even as two straight days of outflows kept October in the red."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T14:01:03+00:00",
+   "last_seen": "2026-10-25T14:01:03+00:00",
+   "summary": "Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak, even as two straight days of outflows kept October in the red.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
   {
    "id": "569e2eb05e",
    "title": "Why Tokenized Stocks Can Trade Away From the Share Price",

@@ -1,6 +1,47 @@
 {
- "updated": "2026-10-25T16:49:53.518507+00:00",
+ "updated": "2026-10-25T17:45:45.569509+00:00",
  "events": [
+  {
+   "id": "68e7f5f26f",
+   "title": "How a DAO Vote Becomes a Treasury Transfer",
+   "date": "2026-10-25T17:15:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "How a DAO Vote Becomes a Treasury Transfer",
+     "url": "https://thedefiant.io/news/defi/how-a-dao-vote-becomes-a-treasury-transfer",
+     "date": "2026-10-25T17:15:46+00:00",
+     "summary": "Uniswap\u2019s executed funding proposal shows the difference between a sentiment poll, a binding vote and the contract authorized to release tokens."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T17:15:46+00:00",
+   "last_seen": "2026-10-25T17:15:46+00:00",
+   "summary": "Uniswap\u2019s executed funding proposal shows the difference between a sentiment poll, a binding vote and the contract authorized to release tokens.",
+   "tags": [
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "757ff05145",
+   "title": "How to Check a Software Wallet\u2014and What the Checks Cannot Prove",
+   "date": "2026-10-25T17:14:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "How to Check a Software Wallet\u2014and What the Checks Cannot Prove",
+     "url": "https://thedefiant.io/news/security/how-to-check-a-software-wallet-and-what-the-checks-cannot-prove",
+     "date": "2026-10-25T17:14:42+00:00",
+     "summary": "Fake Firefox extensions targeted recovery phrases; Electrum patched a genuine-client flaw that could trick users into signing a substituted payment."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T17:14:42+00:00",
+   "last_seen": "2026-10-25T17:14:42+00:00",
+   "summary": "Fake Firefox extensions targeted recovery phrases; Electrum patched a genuine-client flaw that could trick users into signing a substituted payment.",
+   "tags": []
+  },
   {
    "id": "6ef56ae60f",
    "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",

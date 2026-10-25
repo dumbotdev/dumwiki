@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-25T20:46:38.251951+00:00",
+ "updated": "2026-10-25T21:47:07.134416+00:00",
  "events": [
+  {
+   "id": "497016ae4b",
+   "title": "Paolo Ardoino wants AI to run Bitcoin mines. Who gets permission to act?",
+   "date": "2026-10-25T21:30:07+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Paolo Ardoino wants AI to run Bitcoin mines. Who gets permission to act?",
+     "url": "https://cryptoslate.com/paolo-ardoino-wants-ai-to-run-bitcoin-mines-who-gets-permission-to-act/",
+     "date": "2026-10-25T21:30:07+00:00",
+     "summary": "The MDK v0.11 reference agent requires human approval, while site identity and command controls determine who may act. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T21:30:07+00:00",
+   "last_seen": "2026-10-25T21:30:07+00:00",
+   "summary": "The MDK v0.11 reference agent requires human approval, while site identity and command controls determine who may act. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
   {
    "id": "912aaee170",
    "title": "Initia hack drove its USDC bridge reserve down to $63 as withdrawals failed",

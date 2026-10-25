@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-25T07:51:34.345582+00:00",
+ "updated": "2026-10-25T08:51:01.239837+00:00",
  "events": [
+  {
+   "id": "b538589c32",
+   "title": "Kraken wants to be your bank, but who will protect your money?",
+   "date": "2026-10-25T08:00:04+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Kraken wants to be your bank, but who will protect your money?",
+     "url": "https://cryptoslate.com/kraken-wants-to-be-your-bank-but-who-would-protect-your-money/",
+     "date": "2026-10-25T08:00:04+00:00",
+     "summary": "Kraken&#039;s parent company wants a place in your finances long before you buy Bitcoin and long after you sell it. On Oct. 14, Payward agreed to acquire Saldo Finance Oy, the Finnish owner of Lithuania&#039;s Saldo Bank, in a deal expected to close in 2027 if regulators approve..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T08:00:04+00:00",
+   "last_seen": "2026-10-25T08:00:04+00:00",
+   "summary": "Kraken&#039;s parent company wants a place in your finances long before you buy Bitcoin and long after you sell it. On Oct. 14, Payward agreed to acquire Saldo Finance Oy, the Finnish owner of Lithuania&#039;s Saldo Bank, in a deal expected to close in 2027 if regulators approve...",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
   {
    "id": "24d0e9e265",
    "title": "Firedancer makes bounty hunters burn 1 SOL even for duplicate bug reports",

@@ -1,6 +1,86 @@
 {
- "updated": "2026-10-25T12:59:31.928156+00:00",
+ "updated": "2026-10-25T13:47:31.666465+00:00",
  "events": [
+  {
+   "id": "569e2eb05e",
+   "title": "Why Tokenized Stocks Can Trade Away From the Share Price",
+   "date": "2026-10-25T13:15:20+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Why Tokenized Stocks Can Trade Away From the Share Price",
+     "url": "https://thedefiant.io/news/markets/why-tokenized-stocks-can-trade-away-from-the-share-price",
+     "date": "2026-10-25T13:15:20+00:00",
+     "summary": "A closed-market buy-and-exit example shows how spreads and trade size affect execution. Minting and redemption follow a separate clock."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T13:15:20+00:00",
+   "last_seen": "2026-10-25T13:15:20+00:00",
+   "summary": "A closed-market buy-and-exit example shows how spreads and trade size affect execution. Minting and redemption follow a separate clock.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "669ed2db5b",
+   "title": "Tokenized Deposits vs. Stablecoins: What JPM Coin and USDC Holders Own",
+   "date": "2026-10-25T13:15:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tokenized Deposits vs. Stablecoins: What JPM Coin and USDC Holders Own",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-deposits-vs-stablecoins-what-jpm-coin-and-usdc-holders-own",
+     "date": "2026-10-25T13:15:06+00:00",
+     "summary": "USDC holders can transfer tokens without a Circle Mint account, but direct dollar redemption requires one. JPM Coin limits participation to approved institutional clients."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T13:15:06+00:00",
+   "last_seen": "2026-10-25T13:15:06+00:00",
+   "summary": "USDC holders can transfer tokens without a Circle Mint account, but direct dollar redemption requires one. JPM Coin limits participation to approved institutional clients.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "1e45b5cd6b",
+   "title": "Hedge funds hold $2 trillion in US debt, but their next trade could require fewer bonds",
+   "date": "2026-10-25T13:00:52+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Hedge funds hold $2 trillion in US debt, but their next trade could require fewer bonds",
+     "url": "https://cryptoslate.com/hedge-funds-hold-2-trillion-in-us-debt-but-their-next-trade-could-require-fewer-bonds/",
+     "date": "2026-10-25T13:00:52+00:00",
+     "summary": "Hedge funds held an estimated $2 trillion in cash US Treasuries at the end of 2025, or about 7% of the marketable debt outstanding, according to the Office of Financial Research. Much of that buying is tied to trades designed to earn small differences between bond and..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T13:00:52+00:00",
+   "last_seen": "2026-10-25T13:00:52+00:00",
+   "summary": "Hedge funds held an estimated $2 trillion in cash US Treasuries at the end of 2025, or about 7% of the marketable debt outstanding, according to the Office of Financial Research. Much of that buying is tied to trades designed to earn small differences between bond and...",
+   "tags": []
+  },
+  {
+   "id": "6361380901",
+   "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+   "date": "2026-10-25T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+     "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+     "date": "2026-10-25T13:00:00+00:00",
+     "summary": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T13:00:00+00:00",
+   "last_seen": "2026-10-25T13:00:00+00:00",
+   "summary": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks.",
+   "tags": []
+  },
   {
    "id": "5d38f4eec5",
    "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",

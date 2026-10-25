@@ -1,6 +1,44 @@
 {
- "updated": "2026-10-25T14:48:37.320104+00:00",
+ "updated": "2026-10-25T15:49:04.249934+00:00",
  "events": [
+  {
+   "id": "cc0b777a41",
+   "title": "ECB official sees digital euro as key to protecting EU \u2018sovereignty\u2019",
+   "date": "2026-10-25T15:11:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "ECB official sees digital euro as key to protecting EU \u2018sovereignty\u2019",
+     "url": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-25T15:11:00+00:00",
+     "summary": "Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital euro as early as 2029, pending legislation this year."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T15:11:00+00:00",
+   "last_seen": "2026-10-25T15:11:00+00:00",
+   "summary": "Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital euro as early as 2029, pending legislation this year.",
+   "tags": []
+  },
+  {
+   "id": "38a71e1820",
+   "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
+   "date": "2026-10-25T15:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
+     "url": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
+     "date": "2026-10-25T15:00:00+00:00",
+     "summary": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T15:00:00+00:00",
+   "last_seen": "2026-10-25T15:00:00+00:00",
+   "summary": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified.",
+   "tags": []
+  },
   {
    "id": "6afb368e11",
    "title": "Evernorth takes a page from Michael Saylor\u2019s Bitcoin playbook with new $80 million XRP funding plan",

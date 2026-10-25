@@ -1,6 +1,30 @@
 {
- "updated": "2026-10-25T22:44:17.755650+00:00",
+ "updated": "2026-10-25T23:42:40.867380+00:00",
  "events": [
+  {
+   "id": "e88d0039d5",
+   "title": "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
+   "date": "2026-10-25T22:48:40+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",
+     "url": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-25T22:48:40+00:00",
+     "summary": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says \u2018Steal My Bitcoin\u2019... if you can."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T22:48:40+00:00",
+   "last_seen": "2026-10-25T22:48:40+00:00",
+   "summary": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says \u2018Steal My Bitcoin\u2019... if you can.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "ethereum",
+    "security"
+   ]
+  },
   {
    "id": "497016ae4b",
    "title": "Paolo Ardoino wants AI to run Bitcoin mines. Who gets permission to act?",

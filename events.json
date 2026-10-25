@@ -1,6 +1,68 @@
 {
- "updated": "2026-10-25T10:48:48.610044+00:00",
+ "updated": "2026-10-25T11:47:34.489717+00:00",
  "events": [
+  {
+   "id": "5d38f4eec5",
+   "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+   "date": "2026-10-25T11:41:23+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+     "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-25T11:41:23+00:00",
+     "summary": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country\u2019s central banker."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T11:41:23+00:00",
+   "last_seen": "2026-10-25T11:41:23+00:00",
+   "summary": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country\u2019s central banker.",
+   "tags": []
+  },
+  {
+   "id": "806401295f",
+   "title": "Dogecoin Foundation and House of Doge End Exclusive Brand Deal",
+   "date": "2026-10-25T11:27:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Dogecoin Foundation and House of Doge End Exclusive Brand Deal",
+     "url": "https://thedefiant.io/news/tokens/dogecoin-foundation-and-house-of-doge-end-exclusive-brand-deal",
+     "date": "2026-10-25T11:27:13+00:00",
+     "summary": "House of Doge keeps limited investment-product rights, while a separate deal would exchange Such App assets for $4 million in Dogecoin Labs stock."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T11:27:13+00:00",
+   "last_seen": "2026-10-25T11:27:13+00:00",
+   "summary": "House of Doge keeps limited investment-product rights, while a separate deal would exchange Such App assets for $4 million in Dogecoin Labs stock.",
+   "tags": [
+    "exchanges",
+    "memecoins"
+   ]
+  },
+  {
+   "id": "04d91fa696",
+   "title": "A 20-month Polkadot wallet breach reveals the dark side of faster crypto withdrawals",
+   "date": "2026-10-25T11:20:15+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "A 20-month Polkadot wallet breach reveals the dark side of faster crypto withdrawals",
+     "url": "https://cryptoslate.com/a-20-month-polkadot-wallet-breach-reveals-the-dark-side-of-faster-crypto-withdrawals/",
+     "date": "2026-10-25T11:20:15+00:00",
+     "summary": "Polkadot\u2019s earlier reduction in nominator exit times leaves less time to coordinate help before exposed funds become withdrawable. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-25T11:20:15+00:00",
+   "last_seen": "2026-10-25T11:20:15+00:00",
+   "summary": "Polkadot\u2019s earlier reduction in nominator exit times leaves less time to coordinate help before exposed funds become withdrawable. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "b538589c32",
    "title": "Kraken wants to be your bank, but who will protect your money?",

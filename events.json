@@ -1,6 +1,338 @@
 {
- "updated": "2026-10-26T13:37:18.572583+00:00",
+ "updated": "2026-10-26T15:46:30.525895+00:00",
  "events": [
+  {
+   "id": "057888e14b",
+   "title": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock",
+   "date": "2026-10-26T15:39:53+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock",
+     "url": "https://bitcoinmagazine.com/news/strategy-mstr-pauses-bitcoin-buying-205",
+     "date": "2026-10-26T15:39:53+00:00",
+     "summary": "Bitcoin Magazine Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock Strategy skipped bitcoin buys for the week of October 19\u201325 and spent $204.9 million buying back its STRC preferred stock. This post Strategy (MSTR) Pauses Bitcoin Buying and Spends..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T15:39:53+00:00",
+   "last_seen": "2026-10-26T15:39:53+00:00",
+   "summary": "Bitcoin Magazine Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock Strategy skipped bitcoin buys for the week of October 19\u201325 and spent $204.9 million buying back its STRC preferred stock. This post Strategy (MSTR) Pauses Bitcoin Buying and Spends...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "4ebd0acbe0",
+   "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
+   "date": "2026-10-26T15:36:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Tom Lee's Bitmine Keeps Buying Ethereum But Pivots to Record Share Buybacks",
+     "url": "https://decrypt.co/381826/tom-lee-bitmine-keeps-buying-ethereum-share-buybacks",
+     "date": "2026-10-26T15:36:03+00:00",
+     "summary": "The firm added 10,452 ETH to reach 4.95% of supply, but its bigger move was repurchasing 2.04 million of its own shares\u2014part of what it calls the largest equity buyback any crypto treasury company has run."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T15:36:03+00:00",
+   "last_seen": "2026-10-26T15:36:03+00:00",
+   "summary": "The firm added 10,452 ETH to reach 4.95% of supply, but its bigger move was repurchasing 2.04 million of its own shares\u2014part of what it calls the largest equity buyback any crypto treasury company has run.",
+   "tags": [
+    "ethereum",
+    "macro"
+   ]
+  },
+  {
+   "id": "7bc4a5e8b3",
+   "title": "Circle gives its Bitcoin-backed token one balance across Ethereum and Arc",
+   "date": "2026-10-26T15:00:40+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Circle gives its Bitcoin-backed token one balance across Ethereum and Arc",
+     "url": "https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/",
+     "date": "2026-10-26T15:00:40+00:00",
+     "summary": "Gateway gives cirBTC holders a shared balance, with advertised fast access after deposit finality and a separate seven-day fallback exit. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T15:00:40+00:00",
+   "last_seen": "2026-10-26T15:00:40+00:00",
+   "summary": "Gateway gives cirBTC holders a shared balance, with advertised fast access after deposit finality and a separate seven-day fallback exit. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "4c3324055f",
+   "title": "'Privacy Horror\u2019: Researcher Uncovers Extent of Samsung Smart TV User Tracking",
+   "date": "2026-10-26T15:00:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "'Privacy Horror\u2019: Researcher Uncovers Extent of Samsung Smart TV User Tracking",
+     "url": "https://decrypt.co/381801/privacy-horror-researcher-uncovers-extent-of-samsung-smart-tv-user-tracking",
+     "date": "2026-10-26T15:00:02+00:00",
+     "summary": "AI-powered reverse engineering could make it \"easier and faster\" for researchers to uncover and explain how devices collect and share data."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T15:00:02+00:00",
+   "last_seen": "2026-10-26T15:00:02+00:00",
+   "summary": "AI-powered reverse engineering could make it \"easier and faster\" for researchers to uncover and explain how devices collect and share data.",
+   "tags": []
+  },
+  {
+   "id": "5b3cf59858",
+   "title": "Sony-Backed Soneium Plans Native Token in Tokenized-IP Push",
+   "date": "2026-10-26T14:52:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Sony-Backed Soneium Plans Native Token in Tokenized-IP Push",
+     "url": "https://thedefiant.io/news/blockchains/sony-backed-soneium-plans-native-token-in-tokenized-ip-push",
+     "date": "2026-10-26T14:52:58+00:00",
+     "summary": "The Soneium Portal features Moriusa, while royalty-backed vaults and K-pop concert bonds are slated to follow."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T14:52:58+00:00",
+   "last_seen": "2026-10-26T14:52:58+00:00",
+   "summary": "The Soneium Portal features Moriusa, while royalty-backed vaults and K-pop concert bonds are slated to follow.",
+   "tags": []
+  },
+  {
+   "id": "3c6e447bc7",
+   "title": "Keystone to Destroy 18,835 Wallets After Device-Authentication Key Theft",
+   "date": "2026-10-26T14:40:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Keystone to Destroy 18,835 Wallets After Device-Authentication Key Theft",
+     "url": "https://thedefiant.io/news/security/keystone-to-destroy-18-835-wallets-after-device-authentication-key-theft",
+     "date": "2026-10-26T14:40:51+00:00",
+     "summary": "Owners of old-key devices received after Oct. 20 need additional authenticity checks, even if the wallet passes Keystone's online verification."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T14:40:51+00:00",
+   "last_seen": "2026-10-26T14:40:51+00:00",
+   "summary": "Owners of old-key devices received after Oct. 20 need additional authenticity checks, even if the wallet passes Keystone's online verification.",
+   "tags": []
+  },
+  {
+   "id": "cdb49d5695",
+   "title": "Base Promotes 'Tokenized Anthropic Shares' as Trade.xyz Opens Pre-IPO Bets",
+   "date": "2026-10-26T14:29:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Base Promotes 'Tokenized Anthropic Shares' as Trade.xyz Opens Pre-IPO Bets",
+     "url": "https://thedefiant.io/news/markets/base-promotes-tokenized-anthropic-shares-as-trade-xyz-opens-pre-ipo-bets",
+     "date": "2026-10-26T14:29:04+00:00",
+     "summary": "Trade.xyz's new ANT contract offers up to 10x leverage without equity ownership, while Base's pitch identifies no issuer or token contract."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T14:29:04+00:00",
+   "last_seen": "2026-10-26T14:29:04+00:00",
+   "summary": "Trade.xyz's new ANT contract offers up to 10x leverage without equity ownership, while Base's pitch identifies no issuer or token contract.",
+   "tags": []
+  },
+  {
+   "id": "ac0029df63",
+   "title": "PHP flaw shows AI \u2018vulnerability apocalypse\u2019 is on schedule: Immunefi CEO",
+   "date": "2026-10-26T14:25:22+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "PHP flaw shows AI \u2018vulnerability apocalypse\u2019 is on schedule: Immunefi CEO",
+     "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-26T14:25:22+00:00",
+     "summary": "Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T14:25:22+00:00",
+   "last_seen": "2026-10-26T14:25:22+00:00",
+   "summary": "Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "df39b82508",
+   "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+   "date": "2026-10-26T14:23:41+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+     "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+     "date": "2026-10-26T14:23:41+00:00",
+     "summary": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T14:23:41+00:00",
+   "last_seen": "2026-10-26T14:23:41+00:00",
+   "summary": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days.",
+   "tags": [
+    "regulation",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "559d8b380a",
+   "title": "NBA Names Kalshi a Preferred Prediction Market Exchange",
+   "date": "2026-10-26T14:22:57+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "NBA Names Kalshi a Preferred Prediction Market Exchange",
+     "url": "https://thedefiant.io/news/defi/nba-names-kalshi-a-preferred-prediction-market-exchange",
+     "date": "2026-10-26T14:22:57+00:00",
+     "summary": "The deal brings official league data and NBA branding to Kalshi, while Polymarket receives the same preferred designation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T14:22:57+00:00",
+   "last_seen": "2026-10-26T14:22:57+00:00",
+   "summary": "The deal brings official league data and NBA branding to Kalshi, while Polymarket receives the same preferred designation.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "b6feedb996",
+   "title": "Tom Lee insists \u2018crypto bull market is underway\u2019 as Bitmine adds 10,452 ETH",
+   "date": "2026-10-26T14:12:59+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Tom Lee insists \u2018crypto bull market is underway\u2019 as Bitmine adds 10,452 ETH",
+     "url": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
+     "date": "2026-10-26T14:12:59+00:00",
+     "summary": "The company's combined crypto, cash, marketable securities, and other investments totaled $15 billion as of Oct. 25."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T14:12:59+00:00",
+   "last_seen": "2026-10-26T14:12:59+00:00",
+   "summary": "The company's combined crypto, cash, marketable securities, and other investments totaled $15 billion as of Oct. 25.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "59cc1ed8e2",
+   "title": "Bitcoin faces an inflation warning beneath steady US consumer sentiment",
+   "date": "2026-10-26T14:00:14+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin faces an inflation warning beneath steady US consumer sentiment",
+     "url": "https://cryptoslate.com/bitcoin-faces-an-inflation-warning-beneath-steady-us-consumer-sentiment/",
+     "date": "2026-10-26T14:00:14+00:00",
+     "summary": "Michigan\u2019s new historical comparison finds elevated long-run expectations that could complicate easier financing conditions for Bitcoin. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T14:00:14+00:00",
+   "last_seen": "2026-10-26T14:00:14+00:00",
+   "summary": "Michigan\u2019s new historical comparison finds elevated long-run expectations that could complicate easier financing conditions for Bitcoin. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "4a3459e10f",
+   "title": "X100 Exploiter Sends 420.8 ETH to Tornado Cash",
+   "date": "2026-10-26T13:58:40+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "X100 Exploiter Sends 420.8 ETH to Tornado Cash",
+     "url": "https://thedefiant.io/news/hacks/x100-exploiter-sends-420-8-eth-to-tornado-cash",
+     "date": "2026-10-26T13:58:40+00:00",
+     "summary": "Four holding wallets still contain about 1,602 ETH, while the distributor that sent the mixer deposits has been nearly emptied."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T13:58:40+00:00",
+   "last_seen": "2026-10-26T13:58:40+00:00",
+   "summary": "Four holding wallets still contain about 1,602 ETH, while the distributor that sent the mixer deposits has been nearly emptied.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "185837d658",
+   "title": "OCC Encourages Community Banks to Become Stablecoin Issuers",
+   "date": "2026-10-26T13:57:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OCC Encourages Community Banks to Become Stablecoin Issuers",
+     "url": "https://thedefiant.io/converge/regulation/occ-encourages-community-banks-to-become-stablecoin-issuers",
+     "date": "2026-10-26T13:57:12+00:00",
+     "summary": "Applications have yet to open, and new issuers generally must win approval before beginning US operations."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T13:57:12+00:00",
+   "last_seen": "2026-10-26T13:57:12+00:00",
+   "summary": "Applications have yet to open, and new issuers generally must win approval before beginning US operations.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "164ddcc5df",
+   "title": "Anthropic Makes IPO Filing Public, Plans Nasdaq Listing Under \u2018ANT\u2019",
+   "date": "2026-10-26T13:50:22+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Anthropic Makes IPO Filing Public, Plans Nasdaq Listing Under \u2018ANT\u2019",
+     "url": "https://decrypt.co/381818/anthropic-makes-ipo-filing-public-plans-nasdaq-listing-under-ant",
+     "date": "2026-10-26T13:50:22+00:00",
+     "summary": "The S-1 shows revenue up from $1.2 billion a year earlier, and a share structure that leaves a trust and the co-founders in control."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T13:50:22+00:00",
+   "last_seen": "2026-10-26T13:50:22+00:00",
+   "summary": "The S-1 shows revenue up from $1.2 billion a year earlier, and a share structure that leaves a trust and the co-founders in control.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "c8dc1f4b71",
+   "title": "Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate",
+   "date": "2026-10-26T13:37:28+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate",
+     "url": "https://bitcoinmagazine.com/videos/leon-wankum-the-insane-math-behind-bitcoin-demonetizing-real-estate",
+     "date": "2026-10-26T13:37:28+00:00",
+     "summary": "&#9654; Bitcoin Magazine Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate Leon Wankum argues real estate's $300T+ monetary premium is migrating to Bitcoin, projecting a $1M target and explaining why it's smarter to rent and buy BTC. This post Leon Wankum: The..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T13:37:28+00:00",
+   "last_seen": "2026-10-26T13:37:28+00:00",
+   "summary": "&#9654; Bitcoin Magazine Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate Leon Wankum argues real estate's $300T+ monetary premium is migrating to Bitcoin, projecting a $1M target and explaining why it's smarter to rent and buy BTC. This post Leon Wankum: The...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "011013530a",
    "title": "Blockstream Executive Peter Bain: Institutional Clients Say Bitcoin \u201cPoised for a Big Bull Run\u201d",
@@ -308,12 +640,19 @@
      "url": "https://decrypt.co/381786/bitcoin-bear-market-is-over-galaxy-research-says",
      "date": "2026-10-26T13:01:02+00:00",
      "summary": "Galaxy Research says Bitcoin\u2019s bear market ended in June, pointing to a reclaimed 50-week moving average, fading selling pressure, and a strengthening debasement case."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin\u2019s Bear Market Is Over, Galaxy Says",
+     "url": "https://bitcoinmagazine.com/markets/bitcoins-bear-market-is-over-galaxy-says",
+     "date": "2026-10-26T14:44:40+00:00",
+     "summary": "Bitcoin Magazine Bitcoin\u2019s Bear Market Is Over, Galaxy Says Galaxy Research says that bitcoin\u2019s bear market ended at the June low. This post Bitcoin\u2019s Bear Market Is Over, Galaxy Says first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-10-26T13:00:00+00:00",
-   "last_seen": "2026-10-26T13:01:02+00:00",
-   "summary": "Galaxy Research says Bitcoin\u2019s bear market ended in June, pointing to a reclaimed 50-week moving average, fading selling pressure, and a strengthening debasement case.",
+   "last_seen": "2026-10-26T14:44:40+00:00",
+   "summary": "Bitcoin Magazine Bitcoin\u2019s Bear Market Is Over, Galaxy Says Galaxy Research says that bitcoin\u2019s bear market ended at the June low. This post Bitcoin\u2019s Bear Market Is Over, Galaxy Says first appeared on Bitcoin Magazine and is written by Micah Zimmerman .",
    "tags": [
     "bitcoin"
    ]
@@ -677,13 +1016,29 @@
      "url": "https://www.theblock.co/news/regulation/2026-10-26-south-korea-weighs-fourth-delay-crypto-tax-431649",
      "date": "2026-10-26T10:06:02+00:00",
      "summary": "The delay reportedly aims to align with the U.S. schedule of integrating CARF, the OECD's international tax framework for digital assets."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "South Korea Weighs Fourth Delay of Crypto Tax, With 2029 Start Tied to U.S. Data Sharing",
+     "url": "https://bitcoinmagazine.com/news/south-korea-weighs-fourth-delay-crypto-tax",
+     "date": "2026-10-26T14:06:27+00:00",
+     "summary": "Bitcoin Magazine South Korea Weighs Fourth Delay of Crypto Tax, With 2029 Start Tied to U.S. Data Sharing South Korea is weighing a fourth delay of its 22% crypto tax, pushing the start from January 2027 to 2029 so authorities can access U.S. trading data once Washington joins..."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
+     "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
+     "date": "2026-10-26T14:51:07+00:00",
+     "summary": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won\u2019t share crypto trading data until 2029."
     }
    ],
-   "score": 10,
+   "score": 30,
    "first_seen": "2026-10-26T10:06:02+00:00",
-   "last_seen": "2026-10-26T10:06:02+00:00",
-   "summary": "The delay reportedly aims to align with the U.S. schedule of integrating CARF, the OECD's international tax framework for digital assets.",
-   "tags": []
+   "last_seen": "2026-10-26T14:51:07+00:00",
+   "summary": "Bitcoin Magazine South Korea Weighs Fourth Delay of Crypto Tax, With 2029 Start Tied to U.S. Data Sharing South Korea is weighing a fourth delay of its 22% crypto tax, pushing the start from January 2027 to 2029 so authorities can access U.S. trading data once Washington joins...",
+   "tags": [
+    "bitcoin"
+   ]
   },
   {
    "id": "df1ef5f593",

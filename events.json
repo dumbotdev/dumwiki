@@ -1,6 +1,116 @@
 {
- "updated": "2026-10-26T17:02:26.307060+00:00",
+ "updated": "2026-10-26T17:54:10.086751+00:00",
  "events": [
+  {
+   "id": "d07ac37e9f",
+   "title": "Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision",
+   "date": "2026-10-26T17:43:18+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-hovers-around-80000",
+     "date": "2026-10-26T17:43:18+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision Bitcoin price hovers near $80,000 as traders wait on this week\u2019s Fed decision, with geopolitical tensions and Anthropic\u2019s possible IPO adding to the uncertainty. This post Bitcoin Price Hovers Near..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T17:43:18+00:00",
+   "last_seen": "2026-10-26T17:43:18+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision Bitcoin price hovers near $80,000 as traders wait on this week\u2019s Fed decision, with geopolitical tensions and Anthropic\u2019s possible IPO adding to the uncertainty. This post Bitcoin Price Hovers Near...",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "bf726d1460",
+   "title": "Hyperliquid Tests Permissioned Markets for Payward's US Perps Plan",
+   "date": "2026-10-26T17:41:36+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Hyperliquid Tests Permissioned Markets for Payward's US Perps Plan",
+     "url": "https://thedefiant.io/news/defi/hyperliquid-tests-permissioned-markets-for-payward-s-us-perps-plan",
+     "date": "2026-10-26T17:41:36+00:00",
+     "summary": "Optional onchain allowlists would leave existing markets unchanged; the proposed US contracts still need regulatory approval."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T17:41:36+00:00",
+   "last_seen": "2026-10-26T17:41:36+00:00",
+   "summary": "Optional onchain allowlists would leave existing markets unchanged; the proposed US contracts still need regulatory approval.",
+   "tags": []
+  },
+  {
+   "id": "a8959dbd1c",
+   "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
+   "date": "2026-10-26T17:41:21+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
+     "url": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
+     "date": "2026-10-26T17:41:21+00:00",
+     "summary": "A confirmed exploit let rogue servers replace Electrum\u2019s pending transactions, tricking users into redirecting Bitcoin to attacker addresses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T17:41:21+00:00",
+   "last_seen": "2026-10-26T17:41:21+00:00",
+   "summary": "A confirmed exploit let rogue servers replace Electrum\u2019s pending transactions, tricking users into redirecting Bitcoin to attacker addresses.",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "cdf87b57e4",
+   "title": "Aave Raises USDT Borrowing Costs at High Utilization",
+   "date": "2026-10-26T17:41:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aave Raises USDT Borrowing Costs at High Utilization",
+     "url": "https://thedefiant.io/news/defi/aave-raises-usdt-borrowing-costs-at-high-utilization",
+     "date": "2026-10-26T17:41:08+00:00",
+     "summary": "The Ethereum pool now enters its steeper rate tier at 92% utilization, giving borrowers an earlier incentive to leave liquidity available for withdrawals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T17:41:08+00:00",
+   "last_seen": "2026-10-26T17:41:08+00:00",
+   "summary": "The Ethereum pool now enters its steeper rate tier at 92% utilization, giving borrowers an earlier incentive to leave liquidity available for withdrawals.",
+   "tags": [
+    "defi",
+    "ethereum",
+    "funding",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "05ab671f74",
+   "title": "Buying Pre-IPO Shares vs. Funds: What US Investors Actually Own",
+   "date": "2026-10-26T17:18:01+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Buying Pre-IPO Shares vs. Funds: What US Investors Actually Own",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/buying-pre-ipo-shares-vs-funds-what-us-investors-actually-own",
+     "date": "2026-10-26T17:18:01+00:00",
+     "summary": "Direct trades can put buyers on a company's shareholder register. Fund interests offer indirect exposure, with separate fees and exit rules that an IPO does not automatically remove."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T17:18:01+00:00",
+   "last_seen": "2026-10-26T17:18:01+00:00",
+   "summary": "Direct trades can put buyers on a company's shareholder register. Fund interests offer indirect exposure, with separate fees and exit rules that an IPO does not automatically remove.",
+   "tags": [
+    "funding"
+   ]
+  },
   {
    "id": "d2cb4d92fd",
    "title": "OKX Offers 10x Anthropic Valuation Bets After IPO Filing",

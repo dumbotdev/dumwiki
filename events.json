@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-25T23:42:40.867380+00:00",
+ "updated": "2026-10-26T01:15:11.542121+00:00",
  "events": [
+  {
+   "id": "70e705ae30",
+   "title": "Lido opens larger Ethereum validators with a 32 ETH operator bond",
+   "date": "2026-10-26T01:00:15+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Lido opens larger Ethereum validators with a 32 ETH operator bond",
+     "url": "https://cryptoslate.com/lido-opens-larger-ethereum-validators-with-a-32-eth-operator-bond/",
+     "date": "2026-10-26T01:00:15+00:00",
+     "summary": "Operators post a separate bond, while activation, cap increases and protocol inflows determine how much validator stake arrives later. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T01:00:15+00:00",
+   "last_seen": "2026-10-26T01:00:15+00:00",
+   "summary": "Operators post a separate bond, while activation, cap increases and protocol inflows determine how much validator stake arrives later. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "1683160af4",
+   "title": "Standard Chartered-led Anchorpoint says it\u2019s not rushing retail stablecoin",
+   "date": "2026-10-26T00:13:29+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Standard Chartered-led Anchorpoint says it\u2019s not rushing retail stablecoin",
+     "url": "https://cointelegraph.com/news/standard-chartered-led-anchorpoint-says-its-not-rushing-retail-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-26T00:13:29+00:00",
+     "summary": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T00:13:29+00:00",
+   "last_seen": "2026-10-26T00:13:29+00:00",
+   "summary": "The Standard Chartered and Animoca Brands joint venture previously targeted retail access as early as the end of 2026, but its CEO declined to reaffirm that timeline.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "e88d0039d5",
    "title": "AI agents help rescue ETH\u2019s Glamsterdam fork, \u2018Steal My Bitcoin\u2019 site: Hodler\u2019s Digest",

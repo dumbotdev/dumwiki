@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-26T09:03:29.277028+00:00",
+ "updated": "2026-10-26T10:03:21.605796+00:00",
  "events": [
+  {
+   "id": "df1ef5f593",
+   "title": "Blast Reaches Withdrawal Interface Deadline With $40 Million Still in Bridge",
+   "date": "2026-10-26T09:47:41+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Blast Reaches Withdrawal Interface Deadline With $40 Million Still in Bridge",
+     "url": "https://thedefiant.io/news/blockchains/blast-reaches-withdrawal-interface-deadline-with-40-million-still-in-bridge",
+     "date": "2026-10-26T09:47:41+00:00",
+     "summary": "Blast has published contract-level exit guides, but withdrawals still require proofs, a one-day wait and, for USDB, a separate DAI claim."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T09:47:41+00:00",
+   "last_seen": "2026-10-26T09:47:41+00:00",
+   "summary": "Blast has published contract-level exit guides, but withdrawals still require proofs, a one-day wait and, for USDB, a separate DAI claim.",
+   "tags": []
+  },
+  {
+   "id": "843a6f496f",
+   "title": "Hackers found a way to steal Bitcoin without private keys",
+   "date": "2026-10-26T09:30:56+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Hackers found a way to steal Bitcoin without private keys",
+     "url": "https://cryptoslate.com/hackers-found-a-way-to-steal-bitcoin-without-private-keys/",
+     "date": "2026-10-26T09:30:56+00:00",
+     "summary": "Version 4.8.3 fixes a malicious-server attack that can turn a manual fee increase into approval of an attacker-directed payment. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T09:30:56+00:00",
+   "last_seen": "2026-10-26T09:30:56+00:00",
+   "summary": "Version 4.8.3 fixes a malicious-server attack that can turn a manual fee increase into approval of an attacker-directed payment. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "4270c1516f",
+   "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+   "date": "2026-10-26T09:14:47+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Fed, ECB and BOJ interest-rate decisions, Coinbase earnings: Crypto Week Ahead",
+     "url": "https://www.coindesk.com/markets/2026/10/26/fed-ecb-and-boj-interest-rate-decisions-coinbase-earnings-crypto-week-ahead",
+     "date": "2026-10-26T09:14:47+00:00",
+     "summary": "Your look at what's coming in the week starting Oct. 26."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T09:14:47+00:00",
+   "last_seen": "2026-10-26T09:14:47+00:00",
+   "summary": "Your look at what's coming in the week starting Oct. 26.",
+   "tags": [
+    "exchanges",
+    "macro"
+   ]
+  },
   {
    "id": "6c385d172b",
    "title": "Consensys Warns Ethereum Operators of eMudhra Signing Risks",

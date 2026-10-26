@@ -1,6 +1,155 @@
 {
- "updated": "2026-10-26T17:54:10.086751+00:00",
+ "updated": "2026-10-26T19:07:51.394496+00:00",
  "events": [
+  {
+   "id": "373dfb2ba4",
+   "title": "Why Prediction Markets Got the Brazilian Election So Wrong",
+   "date": "2026-10-26T18:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Why Prediction Markets Got the Brazilian Election So Wrong",
+     "url": "https://decrypt.co/381858/why-prediction-markets-got-brazilian-election-wrong",
+     "date": "2026-10-26T18:46:03+00:00",
+     "summary": "Experts say Brazil's prediction market ban left the odds in the hands of traders with little knowledge about the election."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T18:46:03+00:00",
+   "last_seen": "2026-10-26T18:46:03+00:00",
+   "summary": "Experts say Brazil's prediction market ban left the odds in the hands of traders with little knowledge about the election.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "66698abfda",
+   "title": "AI company Anthropic announces IPO, expected as early as November",
+   "date": "2026-10-26T18:42:41+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "AI company Anthropic announces IPO, expected as early as November",
+     "url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-26T18:42:41+00:00",
+     "summary": "The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion net loss for the first half of 2026."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T18:42:41+00:00",
+   "last_seen": "2026-10-26T18:42:41+00:00",
+   "summary": "The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion net loss for the first half of 2026.",
+   "tags": [
+    "ai",
+    "funding"
+   ]
+  },
+  {
+   "id": "345b8aee8b",
+   "title": "Strategy makes record $205 million STRC buyback as Strive spends $511 million on Bitcoin",
+   "date": "2026-10-26T18:40:26+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Strategy makes record $205 million STRC buyback as Strive spends $511 million on Bitcoin",
+     "url": "https://cryptoslate.com/strategy-makes-record-205-million-strc-buyback-as-strive-spends-511-million-on-bitcoin/",
+     "date": "2026-10-26T18:40:26+00:00",
+     "summary": "Bitcoin treasury firms Strategy and Strive made record purchases last week, but directed their capital toward different assets. While Michael Saylor&#039;s Strategy intensified its preferred-stock buybacks, Strive accelerated its Bitcoin accumulation, highlighting diverging..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T18:40:26+00:00",
+   "last_seen": "2026-10-26T18:40:26+00:00",
+   "summary": "Bitcoin treasury firms Strategy and Strive made record purchases last week, but directed their capital toward different assets. While Michael Saylor&#039;s Strategy intensified its preferred-stock buybacks, Strive accelerated its Bitcoin accumulation, highlighting diverging...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "76689841e4",
+   "title": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
+   "date": "2026-10-26T18:21:17+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
+     "url": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787",
+     "date": "2026-10-26T18:21:17+00:00",
+     "summary": "Hyperliquid plans to make Kraken parent Payward the first CFTC-regulated HIP-3 deployer, a step toward regulated U.S. perpetual futures."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T18:21:17+00:00",
+   "last_seen": "2026-10-26T18:21:17+00:00",
+   "summary": "Hyperliquid plans to make Kraken parent Payward the first CFTC-regulated HIP-3 deployer, a step toward regulated U.S. perpetual futures.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "b31e46bd4f",
+   "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
+   "date": "2026-10-26T18:16:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
+     "url": "https://decrypt.co/381848/spacex-40-billion-ai-chips-elon-musk-warns-most-neoclouds-will-die",
+     "date": "2026-10-26T18:16:02+00:00",
+     "summary": "Elon Musk says SpaceX closed a $40 billion chip deal with Apollo while lenders shut the door on smaller AI cloud firms, a split that could decide who controls computing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T18:16:02+00:00",
+   "last_seen": "2026-10-26T18:16:02+00:00",
+   "summary": "Elon Musk says SpaceX closed a $40 billion chip deal with Apollo while lenders shut the door on smaller AI cloud firms, a split that could decide who controls computing.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "b5fcd2ec7b",
+   "title": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
+   "date": "2026-10-26T17:55:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
+     "url": "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775",
+     "date": "2026-10-26T17:55:02+00:00",
+     "summary": "The platform is in beta and plans to open to the public in the coming weeks, co-founder Chetan Manda told The Block."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T17:55:02+00:00",
+   "last_seen": "2026-10-26T17:55:02+00:00",
+   "summary": "The platform is in beta and plans to open to the public in the coming weeks, co-founder Chetan Manda told The Block.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "830a78bcc4",
+   "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+   "date": "2026-10-26T17:46:09+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+     "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-26T17:46:09+00:00",
+     "summary": "The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T17:46:09+00:00",
+   "last_seen": "2026-10-26T17:46:09+00:00",
+   "summary": "The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "d07ac37e9f",
    "title": "Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision",

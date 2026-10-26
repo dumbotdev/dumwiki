@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-26T02:55:05.861382+00:00",
+ "updated": "2026-10-26T03:56:57.994936+00:00",
  "events": [
+  {
+   "id": "e6a77cf1bf",
+   "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+   "date": "2026-10-26T03:21:26+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
+     "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-26T03:21:26+00:00",
+     "summary": "The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T03:21:26+00:00",
+   "last_seen": "2026-10-26T03:21:26+00:00",
+   "summary": "The Nasdaq-listed firm said it plans to establish Solana validator operations in Hong Kong.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "6542e1a460",
+   "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+   "date": "2026-10-26T03:11:39+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Elon Musk issues a warning for 'AI neoclouds' as SpaceX borrows $40 billion for chips",
+     "url": "https://www.coindesk.com/markets/2026/10/26/elon-musk-confirms-usd40-billion-spacex-debt-deal-for-ai-chips-warns-of-neocloud-shakeout",
+     "date": "2026-10-26T03:11:39+00:00",
+     "summary": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T03:11:39+00:00",
+   "last_seen": "2026-10-26T03:11:39+00:00",
+   "summary": "SpaceX has raised $40 billion in debt to buy GPUs, while Musk predicts a major shakeout among smaller AI cloud providers.",
+   "tags": [
+    "ai",
+    "funding"
+   ]
+  },
   {
    "id": "ca173f0d75",
    "title": "Keystone says website breach exposed hardware wallet buyers\u2019 addresses",

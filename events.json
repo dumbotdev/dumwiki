@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-26T02:01:09.195860+00:00",
+ "updated": "2026-10-26T02:55:05.861382+00:00",
  "events": [
+  {
+   "id": "ca173f0d75",
+   "title": "Keystone says website breach exposed hardware wallet buyers\u2019 addresses",
+   "date": "2026-10-26T02:24:04+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Keystone says website breach exposed hardware wallet buyers\u2019 addresses",
+     "url": "https://cointelegraph.com/news/keystone-says-website-breach-exposed-hardware-wallet-buyers-addresses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-26T02:24:04+00:00",
+     "summary": "A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams and physical attacks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T02:24:04+00:00",
+   "last_seen": "2026-10-26T02:24:04+00:00",
+   "summary": "A security researcher warned that the leaked shipping details could expose crypto holders to targeted scams and physical attacks.",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "70e705ae30",
    "title": "Lido opens larger Ethereum validators with a 32 ETH operator bond",

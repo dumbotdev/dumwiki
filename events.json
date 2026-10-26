@@ -1,6 +1,75 @@
 {
- "updated": "2026-10-26T21:51:41.223268+00:00",
+ "updated": "2026-10-26T22:53:42.646859+00:00",
  "events": [
+  {
+   "id": "9dc1e4959b",
+   "title": "Crypto traders value Anthropic at $1.9 trillion as investor warns its IPO could mark the top of the AI bubble",
+   "date": "2026-10-26T22:30:23+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Crypto traders value Anthropic at $1.9 trillion as investor warns its IPO could mark the top of the AI bubble",
+     "url": "https://cryptoslate.com/crypto-traders-value-anthropic-at-1-9-trillion-as-investor-warns-its-ipo-could-mark-the-top-of-the-ai-bubble/",
+     "date": "2026-10-26T22:30:23+00:00",
+     "summary": "Anthropic filed for a Nasdaq IPO Monday, reporting a quarterly operating profit as crypto markets valued it near $2 trillion. The Claude developer submitted its S-1 registration statement to the US Securities and Exchange Commission (SEC) on Oct. 26, seeking a listing under the..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T22:30:23+00:00",
+   "last_seen": "2026-10-26T22:30:23+00:00",
+   "summary": "Anthropic filed for a Nasdaq IPO Monday, reporting a quarterly operating profit as crypto markets valued it near $2 trillion. The Claude developer submitted its S-1 registration statement to the US Securities and Exchange Commission (SEC) on Oct. 26, seeking a listing under the...",
+   "tags": [
+    "ai",
+    "exchanges",
+    "funding",
+    "regulation"
+   ]
+  },
+  {
+   "id": "dd254b8159",
+   "title": "Canada\u2019s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+   "date": "2026-10-26T22:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Canada\u2019s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+     "url": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
+     "date": "2026-10-26T22:16:03+00:00",
+     "summary": "Ottawa opened a 60-day consultation on draft rules requiring one-to-one reserves and fast redemption from stablecoin issuers, while keeping the ban on paying holders interest."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T22:16:03+00:00",
+   "last_seen": "2026-10-26T22:16:03+00:00",
+   "summary": "Ottawa opened a 60-day consultation on draft rules requiring one-to-one reserves and fast redemption from stablecoin issuers, while keeping the ban on paying holders interest.",
+   "tags": [
+    "defi",
+    "regulation",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "8dd73a9b83",
+   "title": "Osmosis Ends OSMO Inflation, Shifting Staking Rewards to Revenue",
+   "date": "2026-10-26T21:53:17+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Osmosis Ends OSMO Inflation, Shifting Staking Rewards to Revenue",
+     "url": "https://thedefiant.io/news/defi/osmosis-ends-osmo-inflation-shifting-staking-rewards-to-revenue",
+     "date": "2026-10-26T21:53:17+00:00",
+     "summary": "The change removes an estimated two percentage points of issuance-funded staking APR and freezes about 51.9 million pre-minted developer tokens."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T21:53:17+00:00",
+   "last_seen": "2026-10-26T21:53:17+00:00",
+   "summary": "The change removes an estimated two percentage points of issuance-funded staking APR and freezes about 51.9 million pre-minted developer tokens.",
+   "tags": [
+    "defi",
+    "macro"
+   ]
+  },
   {
    "id": "dc015ba641",
    "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",

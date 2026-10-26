@@ -1,6 +1,114 @@
 {
- "updated": "2026-10-26T19:07:51.394496+00:00",
+ "updated": "2026-10-26T19:56:08.230982+00:00",
  "events": [
+  {
+   "id": "1828e20e31",
+   "title": "Ripple connects XRP Ledger to a \u00a322 billion investment giant while chasing the next wave of corporate money",
+   "date": "2026-10-26T19:50:14+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ripple connects XRP Ledger to a \u00a322 billion investment giant while chasing the next wave of corporate money",
+     "url": "https://cryptoslate.com/ripple-connects-xrp-ledger-to-a-22-billion-investment-giant-while-chasing-the-next-wave-of-corporate-money/",
+     "date": "2026-10-26T19:50:14+00:00",
+     "summary": "Ripple expanded its institutional reach Monday as Aviva added another tokenized fund share class to the XRP Ledger (XRPL). The British asset manager invested \u00a350 million ($66 million) in a blockchain-based share class of its Sterling Liquidity Fund, bringing its combined..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T19:50:14+00:00",
+   "last_seen": "2026-10-26T19:50:14+00:00",
+   "summary": "Ripple expanded its institutional reach Monday as Aviva added another tokenized fund share class to the XRP Ledger (XRPL). The British asset manager invested \u00a350 million ($66 million) in a blockchain-based share class of its Sterling Liquidity Fund, bringing its combined...",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "08e4706aaf",
+   "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+   "date": "2026-10-26T19:47:40+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+     "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-26T19:47:40+00:00",
+     "summary": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T19:47:40+00:00",
+   "last_seen": "2026-10-26T19:47:40+00:00",
+   "summary": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "bfb27a27f3",
+   "title": "CZ pitches BNB Chain\u2019s role in AI as BNB Standard rings Nasdaq bell",
+   "date": "2026-10-26T19:43:47+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "CZ pitches BNB Chain\u2019s role in AI as BNB Standard rings Nasdaq bell",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
+     "date": "2026-10-26T19:43:47+00:00",
+     "summary": "CZ sees AI driving crypto use, while BNB Standard plans to expand beyond holding tokens in its treasury."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T19:43:47+00:00",
+   "last_seen": "2026-10-26T19:43:47+00:00",
+   "summary": "CZ sees AI driving crypto use, while BNB Standard plans to expand beyond holding tokens in its treasury.",
+   "tags": [
+    "ai",
+    "macro"
+   ]
+  },
+  {
+   "id": "a01889abf3",
+   "title": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
+   "date": "2026-10-26T19:31:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
+     "url": "https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours",
+     "date": "2026-10-26T19:31:02+00:00",
+     "summary": "Cathedral, a startup founded by ex-DOGE staffers, says its AI agents found paths into Anthropic's sales, HR, and IT systems through third-party software."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T19:31:02+00:00",
+   "last_seen": "2026-10-26T19:31:02+00:00",
+   "summary": "Cathedral, a startup founded by ex-DOGE staffers, says its AI agents found paths into Anthropic's sales, HR, and IT systems through third-party software.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "c9b9cc4966",
+   "title": "Coinbase Institutional Co-CEO: Bitcoin\u2019s \u201cSecond Wave\u201d of Institutional Capital has Arrived",
+   "date": "2026-10-26T19:24:08+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Coinbase Institutional Co-CEO: Bitcoin\u2019s \u201cSecond Wave\u201d of Institutional Capital has Arrived",
+     "url": "https://bitcoinmagazine.com/videos/coinbase-institutional-co-ceo-bitcoins-second-wave-of-institutional-capital-has-arrived",
+     "date": "2026-10-26T19:24:08+00:00",
+     "summary": "&#9654; Bitcoin Magazine Coinbase Institutional Co-CEO: Bitcoin&#8217;s &#8220;Second Wave&#8221; of Institutional Capital has Arrived Seven mega banks tap Coinbase infrastructure. Brett Tejpaul explains why stablecoin rails are driving adoption, while institutions still view..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T19:24:08+00:00",
+   "last_seen": "2026-10-26T19:24:08+00:00",
+   "summary": "&#9654; Bitcoin Magazine Coinbase Institutional Co-CEO: Bitcoin&#8217;s &#8220;Second Wave&#8221; of Institutional Capital has Arrived Seven mega banks tap Coinbase infrastructure. Brett Tejpaul explains why stablecoin rails are driving adoption, while institutions still view...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "stablecoins"
+   ]
+  },
   {
    "id": "373dfb2ba4",
    "title": "Why Prediction Markets Got the Brazilian Election So Wrong",

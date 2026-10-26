@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-26T22:53:42.646859+00:00",
+ "updated": "2026-10-26T23:48:29.547790+00:00",
  "events": [
+  {
+   "id": "7cdb24d0fa",
+   "title": "Ripple Wins Final OCC Trust Bank Approval for RLUSD Reserves and Custody",
+   "date": "2026-10-26T23:37:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ripple Wins Final OCC Trust Bank Approval for RLUSD Reserves and Custody",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/ripple-wins-final-occ-trust-bank-approval-for-rlusd-reserves-and-custody",
+     "date": "2026-10-26T23:37:47+00:00",
+     "summary": "RLUSD will retain its New York-regulated issuer while the national trust bank manages reserves and provides fiduciary digital asset custody."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T23:37:47+00:00",
+   "last_seen": "2026-10-26T23:37:47+00:00",
+   "summary": "RLUSD will retain its New York-regulated issuer while the national trust bank manages reserves and provides fiduciary digital asset custody.",
+   "tags": []
+  },
   {
    "id": "9dc1e4959b",
    "title": "Crypto traders value Anthropic at $1.9 trillion as investor warns its IPO could mark the top of the AI bubble",

@@ -1,6 +1,154 @@
 {
- "updated": "2026-10-26T20:55:00.176852+00:00",
+ "updated": "2026-10-26T21:51:41.223268+00:00",
  "events": [
+  {
+   "id": "dc015ba641",
+   "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+   "date": "2026-10-26T21:46:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+     "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
+     "date": "2026-10-26T21:46:02+00:00",
+     "summary": "OpenAI's mid-tier model now operates apps and screens more like a person would, with API prices 50% below GPT-5.6 Terra and an error rate that OpenAI says fell sharply."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T21:46:02+00:00",
+   "last_seen": "2026-10-26T21:46:02+00:00",
+   "summary": "OpenAI's mid-tier model now operates apps and screens more like a person would, with API prices 50% below GPT-5.6 Terra and an error rate that OpenAI says fell sharply.",
+   "tags": [
+    "ai",
+    "markets"
+   ]
+  },
+  {
+   "id": "943be8f4c6",
+   "title": "Akash Opens Vote to Move From Cosmos to Solana",
+   "date": "2026-10-26T21:39:27+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Akash Opens Vote to Move From Cosmos to Solana",
+     "url": "https://thedefiant.io/news/blockchains/akash-opens-vote-to-move-from-cosmos-to-solana",
+     "date": "2026-10-26T21:39:27+00:00",
+     "summary": "Prop 346 would authorize a one-way AKT token conversion, while staking rewards would end at a later marketplace cutover requiring another vote."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T21:39:27+00:00",
+   "last_seen": "2026-10-26T21:39:27+00:00",
+   "summary": "Prop 346 would authorize a one-way AKT token conversion, while staking rewards would end at a later marketplace cutover requiring another vote.",
+   "tags": [
+    "defi",
+    "solana"
+   ]
+  },
+  {
+   "id": "64f3eeb01b",
+   "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+   "date": "2026-10-26T21:23:32+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+     "url": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-26T21:23:32+00:00",
+     "summary": "The new index tracks rental prices for five Nvidia GPUs, offering leveraged trading and potential hedging against fluctuations in AI computing costs."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T21:23:32+00:00",
+   "last_seen": "2026-10-26T21:23:32+00:00",
+   "summary": "The new index tracks rental prices for five Nvidia GPUs, offering leveraged trading and potential hedging against fluctuations in AI computing costs.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "0cdaec9957",
+   "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
+   "date": "2026-10-26T21:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
+     "url": "https://decrypt.co/381871/unitree-stock-jumps-investors-bet-chatbot-ai-robots-brain",
+     "date": "2026-10-26T21:16:03+00:00",
+     "summary": "Unitree's shares have jumped about 60% in under two weeks as investors bet OpenAI's GPT-6 Astra will give robots the brains they lack, turning the stock into an AI proxy."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T21:16:03+00:00",
+   "last_seen": "2026-10-26T21:16:03+00:00",
+   "summary": "Unitree's shares have jumped about 60% in under two weeks as investors bet OpenAI's GPT-6 Astra will give robots the brains they lack, turning the stock into an AI proxy.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "84fa131498",
+   "title": "Blink Wallet Adds Inactivity Fee to Custodial Accounts, Accelerating Migration to Self Custody",
+   "date": "2026-10-26T21:14:23+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Blink Wallet Adds Inactivity Fee to Custodial Accounts, Accelerating Migration to Self Custody",
+     "url": "https://bitcoinmagazine.com/business/blink-wallet-adds-inactivity-fee-to-custodial-accounts-accelerating-migration-to-self-custody",
+     "date": "2026-10-26T21:14:23+00:00",
+     "summary": "Bitcoin Magazine Blink Wallet Adds Inactivity Fee to Custodial Accounts, Accelerating Migration to Self Custody Blink Wallet began charging a $1 monthly fee on custodial accounts inactive for 12 months, with the first charges processed by mid-October 2026 and full refunds on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T21:14:23+00:00",
+   "last_seen": "2026-10-26T21:14:23+00:00",
+   "summary": "Bitcoin Magazine Blink Wallet Adds Inactivity Fee to Custodial Accounts, Accelerating Migration to Self Custody Blink Wallet began charging a $1 monthly fee on custodial accounts inactive for 12 months, with the first charges processed by mid-October 2026 and full refunds on...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "6c6934a0a2",
+   "title": "August updates block critical private key leak in crypto wallet Vultisig",
+   "date": "2026-10-26T21:10:35+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "August updates block critical private key leak in crypto wallet Vultisig",
+     "url": "https://cryptoslate.com/august-updates-block-critical-private-key-leak-in-crypto-wallet-vultisig/",
+     "date": "2026-10-26T21:10:35+00:00",
+     "summary": "An already-compromised signer could recover the key through many malicious ECDSA messages when the application ignored a critical stop condition. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T21:10:35+00:00",
+   "last_seen": "2026-10-26T21:10:35+00:00",
+   "summary": "An already-compromised signer could recover the key through many malicious ECDSA messages when the application ignored a critical stop condition. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "4384292162",
+   "title": "Bitso Brings Morpho Lending to Its App With B\u00f3vedas",
+   "date": "2026-10-26T21:10:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitso Brings Morpho Lending to Its App With B\u00f3vedas",
+     "url": "https://thedefiant.io/news/defi/bitso-brings-morpho-lending-to-its-app-with-b-vedas",
+     "date": "2026-10-26T21:10:26+00:00",
+     "summary": "The product moves USDC and peso-pegged MXNB into noncustodial lending vaults, with variable returns and no deposit insurance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T21:10:26+00:00",
+   "last_seen": "2026-10-26T21:10:26+00:00",
+   "summary": "The product moves USDC and peso-pegged MXNB into noncustodial lending vaults, with variable returns and no deposit insurance.",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
   {
    "id": "6e49d6c59b",
    "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
@@ -989,13 +1137,21 @@
      "url": "https://thedefiant.io/converge/regulation/occ-encourages-community-banks-to-become-stablecoin-issuers",
      "date": "2026-10-26T13:57:12+00:00",
      "summary": "Applications have yet to open, and new issuers generally must win approval before beginning US operations."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "US OCC calls on community banks to become payment stablecoin issuers",
+     "url": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-26T21:38:30+00:00",
+     "summary": "The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to be implemented in January"
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-26T13:57:12+00:00",
-   "last_seen": "2026-10-26T13:57:12+00:00",
-   "summary": "Applications have yet to open, and new issuers generally must win approval before beginning US operations.",
+   "last_seen": "2026-10-26T21:38:30+00:00",
+   "summary": "The announcement followed the banking regulator finalizing its rules for the GENIUS Act, a stablecoin law to be implemented in January",
    "tags": [
+    "regulation",
     "stablecoins"
    ]
   },

@@ -1,6 +1,71 @@
 {
- "updated": "2026-10-26T19:56:08.230982+00:00",
+ "updated": "2026-10-26T20:55:00.176852+00:00",
  "events": [
+  {
+   "id": "6e49d6c59b",
+   "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
+   "date": "2026-10-26T20:36:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
+     "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+     "date": "2026-10-26T20:36:03+00:00",
+     "summary": "The agreement, which follows similar deals with MLB and NHL, establishes information-sharing to guard against insider trading as sports betting migrates to CFTC-regulated venues."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T20:36:03+00:00",
+   "last_seen": "2026-10-26T20:36:03+00:00",
+   "summary": "The agreement, which follows similar deals with MLB and NHL, establishes information-sharing to guard against insider trading as sports betting migrates to CFTC-regulated venues.",
+   "tags": [
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "b58fbc31c7",
+   "title": "Instinct Rolls Out Link Balance for AI Shopping With Spending Limits",
+   "date": "2026-10-26T20:11:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Instinct Rolls Out Link Balance for AI Shopping With Spending Limits",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/instinct-rolls-out-link-balance-for-ai-shopping-with-spending-limits",
+     "date": "2026-10-26T20:11:58+00:00",
+     "summary": "Link says funded balances are held in USDC, while Tempo founder Matt Huang says stablecoins on its blockchain power the feature."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T20:11:58+00:00",
+   "last_seen": "2026-10-26T20:11:58+00:00",
+   "summary": "Link says funded balances are held in USDC, while Tempo founder Matt Huang says stablecoins on its blockchain power the feature.",
+   "tags": [
+    "ai",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "637bd705a9",
+   "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
+   "date": "2026-10-26T20:06:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
+     "url": "https://decrypt.co/381862/south-korea-arrests-seven-first-big-ai-hacking-case",
+     "date": "2026-10-26T20:06:02+00:00",
+     "summary": "Police in Seoul say a 32-year-old with no IT background used AI tools to break into about 90 hospitals, schools and companies, then pressed victims for roughly $270,000 combined."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T20:06:02+00:00",
+   "last_seen": "2026-10-26T20:06:02+00:00",
+   "summary": "Police in Seoul say a 32-year-old with no IT background used AI tools to break into about 90 hospitals, schools and companies, then pressed victims for roughly $270,000 combined.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "1828e20e31",
    "title": "Ripple connects XRP Ledger to a \u00a322 billion investment giant while chasing the next wave of corporate money",

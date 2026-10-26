@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-26T07:14:49.074939+00:00",
+ "updated": "2026-10-26T08:09:41.746670+00:00",
  "events": [
+  {
+   "id": "1d9267df8c",
+   "title": "FCA proposes personal-wallet checks in nonbinding crypto guidance",
+   "date": "2026-10-26T08:00:25+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "FCA proposes personal-wallet checks in nonbinding crypto guidance",
+     "url": "https://cryptoslate.com/fca-proposes-personal-wallet-checks-in-nonbinding-crypto-guidance/",
+     "date": "2026-10-26T08:00:25+00:00",
+     "summary": "The nonbinding consultation lists unhosted-wallet due diligence as good practice and criticizes unexplained third-party scores and rigid tracing rules. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T08:00:25+00:00",
+   "last_seen": "2026-10-26T08:00:25+00:00",
+   "summary": "The nonbinding consultation lists unhosted-wallet due diligence as good practice and criticizes unexplained third-party scores and rigid tracing rules. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": []
+  },
+  {
+   "id": "8aeb7b1c5e",
+   "title": "Over 11 million bitcoin has no known owner. Here's what it means",
+   "date": "2026-10-26T07:18:24+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Over 11 million bitcoin has no known owner. Here's what it means",
+     "url": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
+     "date": "2026-10-26T07:18:24+00:00",
+     "summary": "The large number of coins held in unidentified wallets shows that retail investors have been in this market for years, observers said. But this interpretation comes with a caveat."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T07:18:24+00:00",
+   "last_seen": "2026-10-26T07:18:24+00:00",
+   "summary": "The large number of coins held in unidentified wallets shows that retail investors have been in this market for years, observers said. But this interpretation comes with a caveat.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "53685a0639",
    "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",

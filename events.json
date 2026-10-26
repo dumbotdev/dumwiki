@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-26T03:56:57.994936+00:00",
+ "updated": "2026-10-26T04:55:29.376601+00:00",
  "events": [
+  {
+   "id": "7339e1da5e",
+   "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+   "date": "2026-10-26T04:37:02+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
+     "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
+     "date": "2026-10-26T04:37:02+00:00",
+     "summary": "Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T04:37:02+00:00",
+   "last_seen": "2026-10-26T04:37:02+00:00",
+   "summary": "Ether and XRP led losses among the majors as the AI trade took another hit in Asia, where Goldman Sachs cut its Kospi target by 25%.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "ethereum",
+    "macro"
+   ]
+  },
+  {
+   "id": "c73617ec97",
+   "title": "Canada proposes direct stablecoin cash-outs for small holders with a 1% fee cap",
+   "date": "2026-10-26T04:30:57+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Canada proposes direct stablecoin cash-outs for small holders with a 1% fee cap",
+     "url": "https://cryptoslate.com/canada-proposes-direct-stablecoin-cash-outs-for-small-holders-with-a-1-fee-cap/",
+     "date": "2026-10-26T04:30:57+00:00",
+     "summary": "Covered holders could redeem without a minimum amount, while reserve-market illiquidity could limit daily exits and banking access would still matter. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T04:30:57+00:00",
+   "last_seen": "2026-10-26T04:30:57+00:00",
+   "summary": "Covered holders could redeem without a minimum amount, while reserve-market illiquidity could limit daily exits and banking access would still matter. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "310909f7bb",
+   "title": "Foundation Links Passport Phishing Emails to Compromised Cloudflare API Keys",
+   "date": "2026-10-26T04:06:03+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Foundation Links Passport Phishing Emails to Compromised Cloudflare API Keys",
+     "url": "https://thedefiant.io/news/security/foundation-links-passport-phishing-emails-to-compromised-cloudflare-api-keys",
+     "date": "2026-10-26T04:06:03+00:00",
+     "summary": "Recipients reported personal and purchase details in the messages; the company said Passport hardware and funds were safe."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T04:06:03+00:00",
+   "last_seen": "2026-10-26T04:06:03+00:00",
+   "summary": "Recipients reported personal and purchase details in the messages; the company said Passport hardware and funds were safe.",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "e6a77cf1bf",
    "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",

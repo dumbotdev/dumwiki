@@ -1,6 +1,282 @@
 {
- "updated": "2026-10-26T15:46:30.525895+00:00",
+ "updated": "2026-10-26T17:02:26.307060+00:00",
  "events": [
+  {
+   "id": "d2cb4d92fd",
+   "title": "OKX Offers 10x Anthropic Valuation Bets After IPO Filing",
+   "date": "2026-10-26T16:39:38+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OKX Offers 10x Anthropic Valuation Bets After IPO Filing",
+     "url": "https://thedefiant.io/news/markets/okx-offers-10x-anthropic-valuation-bets-after-ipo-filing",
+     "date": "2026-10-26T16:39:38+00:00",
+     "summary": "Eligible EEA traders get cash-settled exposure, not shares or an IPO allocation, with a share-count adjustment designed to preserve position value."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T16:39:38+00:00",
+   "last_seen": "2026-10-26T16:39:38+00:00",
+   "summary": "Eligible EEA traders get cash-settled exposure, not shares or an IPO allocation, with a share-count adjustment designed to preserve position value.",
+   "tags": [
+    "exchanges",
+    "funding"
+   ]
+  },
+  {
+   "id": "bef46a599d",
+   "title": "Prediction markets and derivatives drive Bernstein\u2019s crypto stock outlook for Coinbase, Robinhood and Circle",
+   "date": "2026-10-26T16:36:43+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Prediction markets and derivatives drive Bernstein\u2019s crypto stock outlook for Coinbase, Robinhood and Circle",
+     "url": "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
+     "date": "2026-10-26T16:36:43+00:00",
+     "summary": "Bernstein cuts Coinbase\u2019s target while raising Circle\u2019s as new products shift their earnings outlook."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T16:36:43+00:00",
+   "last_seen": "2026-10-26T16:36:43+00:00",
+   "summary": "Bernstein cuts Coinbase\u2019s target while raising Circle\u2019s as new products shift their earnings outlook.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "5677aa1445",
+   "title": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
+   "date": "2026-10-26T16:27:37+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
+     "url": "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764",
+     "date": "2026-10-26T16:27:37+00:00",
+     "summary": "The CFTC and NBA have agreed to put in place standards to protect the integrity of the game when it comes to prediction markets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T16:27:37+00:00",
+   "last_seen": "2026-10-26T16:27:37+00:00",
+   "summary": "The CFTC and NBA have agreed to put in place standards to protect the integrity of the game when it comes to prediction markets.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "0d2cbd2e6c",
+   "title": "Chainlink Introduces CustodySync With Anchorage for Custodied DeFi Borrowing",
+   "date": "2026-10-26T16:26:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Chainlink Introduces CustodySync With Anchorage for Custodied DeFi Borrowing",
+     "url": "https://thedefiant.io/converge/defi/chainlink-introduces-custodysync-with-anchorage-for-custodied-defi-borrowing",
+     "date": "2026-10-26T16:26:58+00:00",
+     "summary": "The system uses shared price data to align loan valuations, while Anchorage retains collateral and manages margin and liquidation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T16:26:58+00:00",
+   "last_seen": "2026-10-26T16:26:58+00:00",
+   "summary": "The system uses shared price data to align loan valuations, while Anchorage retains collateral and manages margin and liquidation.",
+   "tags": [
+    "defi",
+    "markets"
+   ]
+  },
+  {
+   "id": "28c4095b2f",
+   "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+   "date": "2026-10-26T16:18:09+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+     "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-26T16:18:09+00:00",
+     "summary": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T16:18:09+00:00",
+   "last_seen": "2026-10-26T16:18:09+00:00",
+   "summary": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials.",
+   "tags": []
+  },
+  {
+   "id": "e76fc29eae",
+   "title": "PrimeRevenue Announces Solana Tokenization of Corporate Payment Drafts",
+   "date": "2026-10-26T16:06:03+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "PrimeRevenue Announces Solana Tokenization of Corporate Payment Drafts",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/primerevenue-announces-solana-tokenization-of-corporate-payment-drafts",
+     "date": "2026-10-26T16:06:03+00:00",
+     "summary": "The platform reports more than $300 billion in annual payment transactions, while broader access for eligible onchain investors remains a future ambition."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T16:06:03+00:00",
+   "last_seen": "2026-10-26T16:06:03+00:00",
+   "summary": "The platform reports more than $300 billion in annual payment transactions, while broader access for eligible onchain investors remains a future ambition.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "5277602f4e",
+   "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+   "date": "2026-10-26T16:05:12+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+     "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+     "date": "2026-10-26T16:05:12+00:00",
+     "summary": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T16:05:12+00:00",
+   "last_seen": "2026-10-26T16:05:12+00:00",
+   "summary": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback.",
+   "tags": [
+    "ai",
+    "ethereum",
+    "macro"
+   ]
+  },
+  {
+   "id": "fb894b9214",
+   "title": "Brazil\u2019s Stock Market Crashes After Lula\u2019s Upset Victory",
+   "date": "2026-10-26T16:04:51+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Brazil\u2019s Stock Market Crashes After Lula\u2019s Upset Victory",
+     "url": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
+     "date": "2026-10-26T16:04:51+00:00",
+     "summary": "The iShares Brazil ETF fell as much as 26% after Lula da Silva beat Fl\u00e1vio Bolsonaro, who prediction markets had at 80%, while the dollar jumped as much as 12% against the real."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T16:04:51+00:00",
+   "last_seen": "2026-10-26T16:04:51+00:00",
+   "summary": "The iShares Brazil ETF fell as much as 26% after Lula da Silva beat Fl\u00e1vio Bolsonaro, who prediction markets had at 80%, while the dollar jumped as much as 12% against the real.",
+   "tags": [
+    "etfs"
+   ]
+  },
+  {
+   "id": "32afdf0fc3",
+   "title": "Treasury dealers\u2019 net bill holdings hit a two-year high as October 30 funding pressure nears",
+   "date": "2026-10-26T16:00:30+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Treasury dealers\u2019 net bill holdings hit a two-year high as October 30 funding pressure nears",
+     "url": "https://cryptoslate.com/bitcoins-liquidity-test-shifts-to-treasury-dealers-two-year-high-in-bill-holdings/",
+     "date": "2026-10-26T16:00:30+00:00",
+     "summary": "FHLBNY\u2019s October 23 update puts dealer financing capacity in focus ahead of October 30, while Bitcoin spillover remains conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T16:00:30+00:00",
+   "last_seen": "2026-10-26T16:00:30+00:00",
+   "summary": "FHLBNY\u2019s October 23 update puts dealer financing capacity in focus ahead of October 30, while Bitcoin spillover remains conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "macro",
+    "regulation"
+   ]
+  },
+  {
+   "id": "7d58430689",
+   "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+   "date": "2026-10-26T15:59:55+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+     "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+     "date": "2026-10-26T15:59:55+00:00",
+     "summary": "The U.S. derivatives regulator, which has championed the arrival of prediction market firms such as Kalshi, has been gathering allied sports leagues."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T15:59:55+00:00",
+   "last_seen": "2026-10-26T15:59:55+00:00",
+   "summary": "The U.S. derivatives regulator, which has championed the arrival of prediction market firms such as Kalshi, has been gathering allied sports leagues.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "ec4646d752",
+   "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
+   "date": "2026-10-26T15:54:15+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
+     "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-26T15:54:15+00:00",
+     "summary": "The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T15:54:15+00:00",
+   "last_seen": "2026-10-26T15:54:15+00:00",
+   "summary": "The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets.",
+   "tags": []
+  },
+  {
+   "id": "14e79f6cec",
+   "title": "Balancer Says Review Found Over $500,000 in Overlooked User Assets",
+   "date": "2026-10-26T15:49:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Balancer Says Review Found Over $500,000 in Overlooked User Assets",
+     "url": "https://thedefiant.io/news/defi/balancer-says-review-found-over-500-000-in-overlooked-user-assets",
+     "date": "2026-10-26T15:49:35+00:00",
+     "summary": "The findings include buffer positions linked to Ethena and Gauntlet, and legacy LDO rewards for Gnosis DAO and its stakeholders."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T15:49:35+00:00",
+   "last_seen": "2026-10-26T15:49:35+00:00",
+   "summary": "The findings include buffer positions linked to Ethena and Gauntlet, and legacy LDO rewards for Gnosis DAO and its stakeholders.",
+   "tags": []
+  },
+  {
+   "id": "e37ebf0456",
+   "title": "OCC calls on community banks to enter the stablecoin payments market",
+   "date": "2026-10-26T15:45:51+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "OCC calls on community banks to enter the stablecoin payments market",
+     "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+     "date": "2026-10-26T15:45:51+00:00",
+     "summary": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T15:45:51+00:00",
+   "last_seen": "2026-10-26T15:45:51+00:00",
+   "summary": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach.",
+   "tags": [
+    "regulation",
+    "stablecoins"
+   ]
+  },
   {
    "id": "057888e14b",
    "title": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock",
@@ -1500,14 +1776,23 @@
      "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
      "date": "2026-10-25T18:46:21+00:00",
      "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like \"a false alarm.\""
+    },
+    {
+     "source": "Decrypt",
+     "title": "India\u2019s CoinDCX Confirms $16 Million Loss Days After CEO Called It a \u2018False Alarm\u2019",
+     "url": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
+     "date": "2026-10-26T16:36:03+00:00",
+     "summary": "The Mumbai-based exchange says 15.99 million USDT was drained from wallets it retired after last year\u2019s $44 million hack, bringing its combined losses to nearly $60 million\u2014and it\u2019s absorbing the hit."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-25T18:46:21+00:00",
-   "last_seen": "2026-10-25T18:46:21+00:00",
-   "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like \"a false alarm.\"",
+   "last_seen": "2026-10-26T16:36:03+00:00",
+   "summary": "The Mumbai-based exchange says 15.99 million USDT was drained from wallets it retired after last year\u2019s $44 million hack, bringing its combined losses to nearly $60 million\u2014and it\u2019s absorbing the hit.",
    "tags": [
-    "security"
+    "exchanges",
+    "security",
+    "stablecoins"
    ]
   },
   {

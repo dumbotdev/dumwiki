@@ -1,6 +1,49 @@
 {
- "updated": "2026-10-26T08:09:41.746670+00:00",
+ "updated": "2026-10-26T09:03:29.277028+00:00",
  "events": [
+  {
+   "id": "6c385d172b",
+   "title": "Consensys Warns Ethereum Operators of eMudhra Signing Risks",
+   "date": "2026-10-26T08:53:32+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Consensys Warns Ethereum Operators of eMudhra Signing Risks",
+     "url": "https://thedefiant.io/news/security/consensys-warns-ethereum-operators-of-emudhra-signing-risks",
+     "date": "2026-10-26T08:53:32+00:00",
+     "summary": "The teams identify vulnerable Java trust stores and configuration-dependent exposure. Default setups are unaffected, while some Web3Signer deployments need immediate access-control changes."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T08:53:32+00:00",
+   "last_seen": "2026-10-26T08:53:32+00:00",
+   "summary": "The teams identify vulnerable Java trust stores and configuration-dependent exposure. Default setups are unaffected, while some Web3Signer deployments need immediate access-control changes.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "603b169b0c",
+   "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+   "date": "2026-10-26T08:20:49+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
+     "url": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-26T08:20:49+00:00",
+     "summary": "US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T08:20:49+00:00",
+   "last_seen": "2026-10-26T08:20:49+00:00",
+   "summary": "US spot Bitcoin ETFs finished the week with $301 million in net inflows after a strong three-day start gave way to heavy withdrawals.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
   {
    "id": "1d9267df8c",
    "title": "FCA proposes personal-wallet checks in nonbinding crypto guidance",

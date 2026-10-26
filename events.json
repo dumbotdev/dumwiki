@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-26T04:55:29.376601+00:00",
+ "updated": "2026-10-26T05:54:15.583979+00:00",
  "events": [
+  {
+   "id": "53685a0639",
+   "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+   "date": "2026-10-26T05:39:17+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "India's largest crypto exchange absorbs $16 million loss from internal process failure tied to retired wallet",
+     "url": "https://www.coindesk.com/markets/2026/10/26/coindcx-absorbs-usd16-million-loss-from-internal-process-failure-tied-to-retired-wallet",
+     "date": "2026-10-26T05:39:17+00:00",
+     "summary": "The Mumbai-based exchange initially dismissed reports of suspicious outflows as a false alarm. It now says it lost $16 million and will absorb the loss."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T05:39:17+00:00",
+   "last_seen": "2026-10-26T05:39:17+00:00",
+   "summary": "The Mumbai-based exchange initially dismissed reports of suspicious outflows as a false alarm. It now says it lost $16 million and will absorb the loss.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "688ceee4d1",
+   "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+   "date": "2026-10-26T05:15:20+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
+     "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
+     "date": "2026-10-26T05:15:20+00:00",
+     "summary": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T05:15:20+00:00",
+   "last_seen": "2026-10-26T05:15:20+00:00",
+   "summary": "Attackers replaced legitimate transactions with fake ones, then waited for users to approve higher fees. At least one person lost bitcoin before developers patched the flaw.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "7b79fb5515",
+   "title": "Musk warns over 200 AI neoclouds face \u2018guppy-level death\u2019",
+   "date": "2026-10-26T05:13:33+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Musk warns over 200 AI neoclouds face \u2018guppy-level death\u2019",
+     "url": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-26T05:13:33+00:00",
+     "summary": "The warning comes as Gartner forecasts that more than 80% of specialist cloud providers will cease operating independently by 2030."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-26T05:13:33+00:00",
+   "last_seen": "2026-10-26T05:13:33+00:00",
+   "summary": "The warning comes as Gartner forecasts that more than 80% of specialist cloud providers will cease operating independently by 2030.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "7339e1da5e",
    "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",

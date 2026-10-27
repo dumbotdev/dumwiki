@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-27T09:00:23.974033+00:00",
+ "updated": "2026-10-27T09:58:20.753362+00:00",
  "events": [
+  {
+   "id": "eb19163346",
+   "title": "Now is the time to accumulate bitcoin, Galaxy says",
+   "date": "2026-10-27T09:42:46+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Now is the time to accumulate bitcoin, Galaxy says",
+     "url": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
+     "date": "2026-10-27T09:42:46+00:00",
+     "summary": "Galaxy argues improving price trends, resilient ETF demand and rising U.S. debt support bitcoin\u2019s recovery towards its previous high."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T09:42:46+00:00",
+   "last_seen": "2026-10-27T09:42:46+00:00",
+   "summary": "Galaxy argues improving price trends, resilient ETF demand and rising U.S. debt support bitcoin\u2019s recovery towards its previous high.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "markets"
+   ]
+  },
+  {
+   "id": "1e42b0cfc3",
+   "title": "Strategy Shareholders to Vote on Daily STRC Dividends",
+   "date": "2026-10-27T09:38:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Strategy Shareholders to Vote on Daily STRC Dividends",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/strategy-shareholders-to-vote-on-daily-strc-dividends",
+     "date": "2026-10-27T09:38:37+00:00",
+     "summary": "The Oct. 28 proposal covers four preferred stocks and needs a majority of all outstanding common voting power; abstentions and broker non-votes count against it."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T09:38:37+00:00",
+   "last_seen": "2026-10-27T09:38:37+00:00",
+   "summary": "The Oct. 28 proposal covers four preferred stocks and needs a majority of all outstanding common voting power; abstentions and broker non-votes count against it.",
+   "tags": []
+  },
+  {
+   "id": "00b7d5c94b",
+   "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
+   "date": "2026-10-27T09:07:37+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
+     "url": "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T09:07:37+00:00",
+     "summary": "Bloom pledged to reimburse nine traders after $953,000 was drained from 48 wallets, saying no private keys were accessed or compromised."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T09:07:37+00:00",
+   "last_seen": "2026-10-27T09:07:37+00:00",
+   "summary": "Bloom pledged to reimburse nine traders after $953,000 was drained from 48 wallets, saying no private keys were accessed or compromised.",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "a75c4d114c",
    "title": "Public wallet logs expose founder histories, and Zcash group demands fix",

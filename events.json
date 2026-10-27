@@ -1,6 +1,285 @@
 {
- "updated": "2026-10-27T13:09:28.611526+00:00",
+ "updated": "2026-10-27T14:07:17.916770+00:00",
  "events": [
+  {
+   "id": "57479dd1d3",
+   "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+   "date": "2026-10-27T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "CF Benchmarks brings Wall Street pricing infrastructure onchain, including data used by BlackRock",
+     "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
+     "date": "2026-10-27T14:00:00+00:00",
+     "summary": "The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T14:00:00+00:00",
+   "last_seen": "2026-10-27T14:00:00+00:00",
+   "summary": "The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks.",
+   "tags": []
+  },
+  {
+   "id": "af1f20d551",
+   "title": "Polymarket Has Investigated 'Dozens' of Midterm Election Bets: Report",
+   "date": "2026-10-27T13:52:58+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Polymarket Has Investigated 'Dozens' of Midterm Election Bets: Report",
+     "url": "https://decrypt.co/381936/polymarket-has-investigated-dozens-of-midterm-election-bets-report",
+     "date": "2026-10-27T13:52:58+00:00",
+     "summary": "The firm's new head of investigations says its surveillance system flags hundreds of alerts a day, with at least two cases sent to the CFTC."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T13:52:58+00:00",
+   "last_seen": "2026-10-27T13:52:58+00:00",
+   "summary": "The firm's new head of investigations says its surveillance system flags hundreds of alerts a day, with at least two cases sent to the CFTC.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "9c1dcf41c5",
+   "title": "Bitcoin simulations show why a return to $126,000 would not last",
+   "date": "2026-10-27T13:40:40+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin simulations show why a return to $126,000 would not last",
+     "url": "https://cryptoslate.com/bitcoin-simulations-show-why-a-return-to-126000-may-not-last/",
+     "date": "2026-10-27T13:40:40+00:00",
+     "summary": "A separate daily-close model crosses the record in 50.4% of paths but finishes above in 34.8%, exposing a gap that a terminal price target cannot show. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T13:40:40+00:00",
+   "last_seen": "2026-10-27T13:40:40+00:00",
+   "summary": "A separate daily-close model crosses the record in 50.4% of paths but finishes above in 34.8%, exposing a gap that a terminal price target cannot show. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "0129e6dfde",
+   "title": "Bitget Wallet Brings USD and EUR Virtual Accounts to 100 Million Users",
+   "date": "2026-10-27T13:36:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitget Wallet Brings USD and EUR Virtual Accounts to 100 Million Users",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/bitget-wallet-launches-usd-eur-virtual-accounts-with-noah",
+     "date": "2026-10-27T13:36:56+00:00",
+     "summary": "Bitget Wallet launched Virtual Account, giving users personal USD and EUR account numbers from licensed partner Noah inside the self-custodial wallet. Incoming deposits via ACH, Fedwire, SEPA and SWIFT convert automatically to USDT or USDC."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T13:36:56+00:00",
+   "last_seen": "2026-10-27T13:36:56+00:00",
+   "summary": "Bitget Wallet launched Virtual Account, giving users personal USD and EUR account numbers from licensed partner Noah inside the self-custodial wallet. Incoming deposits via ACH, Fedwire, SEPA and SWIFT convert automatically to USDT or USDC.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "369ee8177d",
+   "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+   "date": "2026-10-27T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto could outperform AI stocks: Wall Street veteran Jordi Visser",
+     "url": "https://cointelegraph.com/magazine/crypto-could-outperform-ai-stocks-wall-street-veteran-jordi-visser?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T13:30:00+00:00",
+     "summary": "Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T13:30:00+00:00",
+   "last_seen": "2026-10-27T13:30:00+00:00",
+   "summary": "Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "2564091033",
+   "title": "Deloitte\u2019s Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance",
+   "date": "2026-10-27T13:22:05+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Deloitte\u2019s Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance",
+     "url": "https://bitcoinmagazine.com/videos/deloittes-rob-massey-what-bitcoin-investors-need-to-know-about-the-changing-irs-tax-guidance",
+     "date": "2026-10-27T13:22:05+00:00",
+     "summary": "&#9654; Bitcoin Magazine Deloitte\u2019s Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance Deloitte's Rob Massey explains crypto tax compliance, realization events in wallet moves, why 1099s fall short, and what Bitcoiners should advocate for. This..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T13:22:05+00:00",
+   "last_seen": "2026-10-27T13:22:05+00:00",
+   "summary": "&#9654; Bitcoin Magazine Deloitte\u2019s Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance Deloitte's Rob Massey explains crypto tax compliance, realization events in wallet moves, why 1099s fall short, and what Bitcoiners should advocate for. This...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "f4f087564d",
+   "title": "SBLOC vs. Margin Loan: How Borrowing Against Shares Differs",
+   "date": "2026-10-27T13:19:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SBLOC vs. Margin Loan: How Borrowing Against Shares Differs",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/sbloc-vs-margin-loan-how-borrowing-against-shares-differs",
+     "date": "2026-10-27T13:19:56+00:00",
+     "summary": "A securities-based credit line restricts how borrowers can spend the cash. Both products can expose investors to forced sales without a guaranteed response window."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T13:19:56+00:00",
+   "last_seen": "2026-10-27T13:19:56+00:00",
+   "summary": "A securities-based credit line restricts how borrowers can spend the cash. Both products can expose investors to forced sales without a guaranteed response window.",
+   "tags": []
+  },
+  {
+   "id": "d0ff0e52bc",
+   "title": "Common vs. Preferred Dividends: What MSTR and STRC Holders Can Claim",
+   "date": "2026-10-27T13:19:32+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Common vs. Preferred Dividends: What MSTR and STRC Holders Can Claim",
+     "url": "https://thedefiant.io/news/cefi/common-vs-preferred-dividends-what-mstr-and-strc-holders-can-claim",
+     "date": "2026-10-27T13:19:32+00:00",
+     "summary": "STRC\u2019s unpaid dividends accumulate and restrict payments to common shareholders, but its preferred status gives holders no collateral claim on Strategy\u2019s bitcoin."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T13:19:32+00:00",
+   "last_seen": "2026-10-27T13:19:32+00:00",
+   "summary": "STRC\u2019s unpaid dividends accumulate and restrict payments to common shareholders, but its preferred status gives holders no collateral claim on Strategy\u2019s bitcoin.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "4d15b6e3ad",
+   "title": "Bitcoin Security Expert Jameson Lopp: Cyberattacks on \u201cExponential\u201d Path",
+   "date": "2026-10-27T13:16:56+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Security Expert Jameson Lopp: Cyberattacks on \u201cExponential\u201d Path",
+     "url": "https://bitcoinmagazine.com/videos/bitcoin-security-expert-jameson-lopp-cyberattacks-on-exponential-path",
+     "date": "2026-10-27T13:16:56+00:00",
+     "summary": "&#9654; Bitcoin Magazine Bitcoin Security Expert Jameson Lopp: Cyberattacks on \u201cExponential\u201d Path Bitcoin Core updates security as AI automates bug hunting. Jameson Lopp explains the shift to real-time defense, uncensored exploit models, and the PHP flaw. This post Bitcoin..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T13:16:56+00:00",
+   "last_seen": "2026-10-27T13:16:56+00:00",
+   "summary": "&#9654; Bitcoin Magazine Bitcoin Security Expert Jameson Lopp: Cyberattacks on \u201cExponential\u201d Path Bitcoin Core updates security as AI automates bug hunting. Jameson Lopp explains the shift to real-time defense, uncensored exploit models, and the PHP flaw. This post Bitcoin...",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "1be68d301d",
+   "title": "Stop-Loss vs. Stop-Limit: Why a Trigger Is Not a Fill",
+   "date": "2026-10-27T13:16:27+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Stop-Loss vs. Stop-Limit: Why a Trigger Is Not a Fill",
+     "url": "https://thedefiant.io/news/defi/stop-loss-vs-stop-limit-why-a-trigger-is-not-a-fill",
+     "date": "2026-10-27T13:16:27+00:00",
+     "summary": "A matched price-gap example shows why one order may sell below its trigger while the other leaves tokens unsold. Onchain swaps add liquidity and transaction checks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T13:16:27+00:00",
+   "last_seen": "2026-10-27T13:16:27+00:00",
+   "summary": "A matched price-gap example shows why one order may sell below its trigger while the other leaves tokens unsold. Onchain swaps add liquidity and transaction checks.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "d3da76600b",
+   "title": "Janus Henderson Announces Tokenized Nasdaq-100 Fund on Stellar",
+   "date": "2026-10-27T13:14:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Janus Henderson Announces Tokenized Nasdaq-100 Fund on Stellar",
+     "url": "https://thedefiant.io/converge/defi/janus-henderson-announces-tokenized-nasdaq-100-fund-on-stellar",
+     "date": "2026-10-27T13:14:44+00:00",
+     "summary": "JQQQ targets non-US professional investors with a 100,000 USDC minimum, while Centrifuge's investment portal says subscriptions are not yet open."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T13:14:44+00:00",
+   "last_seen": "2026-10-27T13:14:44+00:00",
+   "summary": "JQQQ targets non-US professional investors with a 100,000 USDC minimum, while Centrifuge's investment portal says subscriptions are not yet open.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "0cb1685640",
+   "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
+   "date": "2026-10-27T13:13:50+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
+     "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
+     "date": "2026-10-27T13:13:50+00:00",
+     "summary": "Luxor raised $16 million to expand into AI hardware and trading, betting that computing power will become a market where companies can hedge costs and prices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T13:13:50+00:00",
+   "last_seen": "2026-10-27T13:13:50+00:00",
+   "summary": "Luxor raised $16 million to expand into AI hardware and trading, betting that computing power will become a market where companies can hedge costs and prices.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "293cf06c1c",
+   "title": "UTXO\u2019s Duke Waldrop: Bank of Japan \u201cLiquidity Shock\u201d Could Impact Bitcoin",
+   "date": "2026-10-27T13:12:45+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "UTXO\u2019s Duke Waldrop: Bank of Japan \u201cLiquidity Shock\u201d Could Impact Bitcoin",
+     "url": "https://bitcoinmagazine.com/videos/utxos-duke-waldrop-bank-of-japan-liquidity-shock-could-impact-bitcoin",
+     "date": "2026-10-27T13:12:45+00:00",
+     "summary": "&#9654; Bitcoin Magazine UTXO&#8217;s Duke Waldrop: Bank of Japan \u201cLiquidity Shock\u201d Could Impact Bitcoin Ahead of Fed and BOJ rate calls, Duke Waldrop explains how yen carry unwinds hit 24/7 Bitcoin liquidity and why Metaplanet trading below NAV is an opportunity. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T13:12:45+00:00",
+   "last_seen": "2026-10-27T13:12:45+00:00",
+   "summary": "&#9654; Bitcoin Magazine UTXO&#8217;s Duke Waldrop: Bank of Japan \u201cLiquidity Shock\u201d Could Impact Bitcoin Ahead of Fed and BOJ rate calls, Duke Waldrop explains how yen carry unwinds hit 24/7 Bitcoin liquidity and why Metaplanet trading below NAV is an opportunity. This post...",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "macro"
+   ]
+  },
   {
    "id": "f6a1e0e135",
    "title": "Hayes details FLOP\u2019s AI compute derivatives vision after selling his altcoins",
@@ -33,12 +312,19 @@
      "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute",
      "date": "2026-10-27T13:01:08+00:00",
      "summary": "The CMT Digital-led round, which drew mining-hardware makers Canaan and MicroBT, will fund Luxor\u2019s expansion into AI compute trading, hardware and derivatives."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale AI Compute Trading and Hardware",
+     "url": "https://bitcoinmagazine.com/news/bitcoin-mining-firm-luxor-16-million",
+     "date": "2026-10-27T13:53:32+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Mining Firm Luxor Raises $16 Million to Scale AI Compute Trading and Hardware Luxor, a bitcoin miner turned AI compute firm, raised $16 million led by CMT Digital to expand its AI hardware brokerage and compute trading business. This post Bitcoin Mining..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-27T13:01:08+00:00",
-   "last_seen": "2026-10-27T13:01:08+00:00",
-   "summary": "The CMT Digital-led round, which drew mining-hardware makers Canaan and MicroBT, will fund Luxor\u2019s expansion into AI compute trading, hardware and derivatives.",
+   "last_seen": "2026-10-27T13:53:32+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Mining Firm Luxor Raises $16 Million to Scale AI Compute Trading and Hardware Luxor, a bitcoin miner turned AI compute firm, raised $16 million led by CMT Digital to expand its AI hardware brokerage and compute trading business. This post Bitcoin Mining...",
    "tags": [
     "ai",
     "bitcoin",

@@ -1,6 +1,177 @@
 {
- "updated": "2026-10-27T11:53:36.486614+00:00",
+ "updated": "2026-10-27T13:09:28.611526+00:00",
  "events": [
+  {
+   "id": "f6a1e0e135",
+   "title": "Hayes details FLOP\u2019s AI compute derivatives vision after selling his altcoins",
+   "date": "2026-10-27T13:01:10+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Hayes details FLOP\u2019s AI compute derivatives vision after selling his altcoins",
+     "url": "https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T13:01:10+00:00",
+     "summary": "Arthur Hayes revealed the derivatives market design for Flop Network and how he expects its native token could transform AI compute into a tradable commodity."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T13:01:10+00:00",
+   "last_seen": "2026-10-27T13:01:10+00:00",
+   "summary": "Arthur Hayes revealed the derivatives market design for Flop Network and how he expects its native token could transform AI compute into a tradable commodity.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "43b6eb31ad",
+   "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
+   "date": "2026-10-27T13:01:08+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
+     "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute",
+     "date": "2026-10-27T13:01:08+00:00",
+     "summary": "The CMT Digital-led round, which drew mining-hardware makers Canaan and MicroBT, will fund Luxor\u2019s expansion into AI compute trading, hardware and derivatives."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T13:01:08+00:00",
+   "last_seen": "2026-10-27T13:01:08+00:00",
+   "summary": "The CMT Digital-led round, which drew mining-hardware makers Canaan and MicroBT, will fund Luxor\u2019s expansion into AI compute trading, hardware and derivatives.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "bdf992a430",
+   "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
+   "date": "2026-10-27T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
+     "url": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T13:00:00+00:00",
+     "summary": "Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T13:00:00+00:00",
+   "last_seen": "2026-10-27T13:00:00+00:00",
+   "summary": "Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained.",
+   "tags": [
+    "ai",
+    "funding"
+   ]
+  },
+  {
+   "id": "62b871216f",
+   "title": "Morning Minute: Tokenized Stock Battle Looms Over Robinhood\u2019s Earnings Call",
+   "date": "2026-10-27T12:59:58+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Tokenized Stock Battle Looms Over Robinhood\u2019s Earnings Call",
+     "url": "https://decrypt.co/381907/morning-minute-tokenized-stock-battle-looms-over-robinhoods-earnings-call",
+     "date": "2026-10-27T12:59:58+00:00",
+     "summary": "One of crypto\u2019s primary growth sectors for this upcoming cycle is under attack. Will Vlad Tenev speak up on today\u2019s Robinhood earnings call?"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T12:59:58+00:00",
+   "last_seen": "2026-10-27T12:59:58+00:00",
+   "summary": "One of crypto\u2019s primary growth sectors for this upcoming cycle is under attack. Will Vlad Tenev speak up on today\u2019s Robinhood earnings call?",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "33cf0cb8e4",
+   "title": "SoFi Reports $161.6 Million in Q3 Crypto Revenue, $1.6 Million Net",
+   "date": "2026-10-27T12:57:21+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SoFi Reports $161.6 Million in Q3 Crypto Revenue, $1.6 Million Net",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/sofi-reports-161-6-million-in-q3-crypto-revenue-1-6-million-net",
+     "date": "2026-10-27T12:57:21+00:00",
+     "summary": "Net crypto transaction revenue rose 38% from Q2 but represented just 0.3% of the bank operator's financial-services segment revenue."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T12:57:21+00:00",
+   "last_seen": "2026-10-27T12:57:21+00:00",
+   "summary": "Net crypto transaction revenue rose 38% from Q2 but represented just 0.3% of the bank operator's financial-services segment revenue.",
+   "tags": []
+  },
+  {
+   "id": "ac3fbba580",
+   "title": "Bitcoin moves over $5 billion in value but miners collect just $185,000 in transaction fees",
+   "date": "2026-10-27T12:40:41+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin moves over $5 billion in value but miners collect just $185,000 in transaction fees",
+     "url": "https://cryptoslate.com/bitcoin-moves-over-5-billion-in-value-but-miners-collect-just-185000-in-transaction-fees/",
+     "date": "2026-10-27T12:40:41+00:00",
+     "summary": "Glassnode\u2019s October 26 snapshot shows higher estimated settlement value alongside lower fees and active addresses. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T12:40:41+00:00",
+   "last_seen": "2026-10-27T12:40:41+00:00",
+   "summary": "Glassnode\u2019s October 26 snapshot shows higher estimated settlement value alongside lower fees and active addresses. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "legal"
+   ]
+  },
+  {
+   "id": "a8c91c6b7d",
+   "title": "Bitcoin price analysis sees \u2018strong rally\u2019 as old coins become dormant",
+   "date": "2026-10-27T12:18:24+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin price analysis sees \u2018strong rally\u2019 as old coins become dormant",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-analysis-sees-strong-rally-as-old-coins-become-dormant?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T12:18:24+00:00",
+     "summary": "A decline in the share of Bitcoin\u2019s realized cap held by coins unmoved for 18 months or longer points to the \u2018early stages\u2019 of a bull market, analysis says."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T12:18:24+00:00",
+   "last_seen": "2026-10-27T12:18:24+00:00",
+   "summary": "A decline in the share of Bitcoin\u2019s realized cap held by coins unmoved for 18 months or longer points to the \u2018early stages\u2019 of a bull market, analysis says.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "f100bab3e9",
+   "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+   "date": "2026-10-27T12:00:39+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
+     "date": "2026-10-27T12:00:39+00:00",
+     "summary": "Your day-ahead look for Oct. 27, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T12:00:39+00:00",
+   "last_seen": "2026-10-27T12:00:39+00:00",
+   "summary": "Your day-ahead look for Oct. 27, 2026",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "1b24007f2c",
    "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
@@ -551,11 +722,18 @@
      "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
      "date": "2026-10-27T06:14:41+00:00",
      "summary": "Sean Bowe\u2019s proposal would send the committee\u2019s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received."
+    },
+    {
+     "source": "The Block",
+     "title": "Zcash co-founder proposes ending grants subsidy, citing $125 million treasury",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-27-zcash-co-founder-proposes-ending-grants-subsidy-citing-125-million-treasury-431847",
+     "date": "2026-10-27T12:05:17+00:00",
+     "summary": "Zcash co-founder Sean Bowe proposed ending automatic grants funding, citing a treasury valuation of more than $125 million."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-27T06:14:41+00:00",
-   "last_seen": "2026-10-27T06:14:41+00:00",
+   "last_seen": "2026-10-27T12:05:17+00:00",
    "summary": "Sean Bowe\u2019s proposal would send the committee\u2019s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received.",
    "tags": [
     "funding",

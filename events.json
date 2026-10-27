@@ -1,6 +1,93 @@
 {
- "updated": "2026-10-27T03:54:30.930347+00:00",
+ "updated": "2026-10-27T04:53:04.473919+00:00",
  "events": [
+  {
+   "id": "d3e8157056",
+   "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+   "date": "2026-10-27T04:28:49+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+     "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+     "date": "2026-10-27T04:28:49+00:00",
+     "summary": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T04:28:49+00:00",
+   "last_seen": "2026-10-27T04:28:49+00:00",
+   "summary": "The Office of the Comptroller of the Currency has approved Ripple National Trust Bank (RNTB), Ripple's CEO Brad Garlinghouse announced on X.",
+   "tags": []
+  },
+  {
+   "id": "7acce84336",
+   "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+   "date": "2026-10-27T04:26:51+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+     "url": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T04:26:51+00:00",
+     "summary": "The stablecoin payments company previously disputed reports that its US listing had been delayed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T04:26:51+00:00",
+   "last_seen": "2026-10-27T04:26:51+00:00",
+   "summary": "The stablecoin payments company previously disputed reports that its US listing had been delayed.",
+   "tags": [
+    "funding",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f99ebb6e4f",
+   "title": "Faster Solana slots fail to stop memecoin bot snipers",
+   "date": "2026-10-27T04:20:34+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Faster Solana slots fail to stop memecoin bot snipers",
+     "url": "https://cryptoslate.com/solana-study-finds-rapid-pump-fun-buying-persisted-as-blocks-sped-up/",
+     "date": "2026-10-27T04:20:34+00:00",
+     "summary": "Bitquery measured outside buying within roughly 1.3 seconds at 53% versus 52% in samples that predate the final 200ms reduction. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T04:20:34+00:00",
+   "last_seen": "2026-10-27T04:20:34+00:00",
+   "summary": "Bitquery measured outside buying within roughly 1.3 seconds at 53% versus 52% in samples that predate the final 200ms reduction. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "memecoins",
+    "solana"
+   ]
+  },
+  {
+   "id": "4c478600ea",
+   "title": "StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy",
+   "date": "2026-10-27T03:58:07+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "StoneX lifts Strive price target 34% as new stock offering bolsters bitcoin strategy",
+     "url": "https://www.theblock.co/news/business/2026-10-26-stonex-lifts-strive-price-target-431818",
+     "date": "2026-10-27T03:58:07+00:00",
+     "summary": "StoneX has raised its price target for bitcoin treasury company Strive to $43 from $32 and reiterated its Buy rating on the stock."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T03:58:07+00:00",
+   "last_seen": "2026-10-27T03:58:07+00:00",
+   "summary": "StoneX has raised its price target for bitcoin treasury company Strive to $43 from $32 and reiterated its Buy rating on the stock.",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "macro",
+    "markets"
+   ]
+  },
   {
    "id": "7802c0dda7",
    "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",

@@ -1,6 +1,25 @@
 {
- "updated": "2026-10-27T01:09:46.819336+00:00",
+ "updated": "2026-10-27T01:57:48.571150+00:00",
  "events": [
+  {
+   "id": "624ec6e82a",
+   "title": "How Optimism\u2019s draft manual silently strips tokenholder elections",
+   "date": "2026-10-27T01:30:08+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "How Optimism\u2019s draft manual silently strips tokenholder elections",
+     "url": "https://cryptoslate.com/how-optimisms-draft-manual-silently-strips-tokenholder-elections/",
+     "date": "2026-10-27T01:30:08+00:00",
+     "summary": "The Foundation\u2019s proposed rewrite would end cohort elections and seat nominees unless a veto reaches 20% of active votable OP supply. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T01:30:08+00:00",
+   "last_seen": "2026-10-27T01:30:08+00:00",
+   "summary": "The Foundation\u2019s proposed rewrite would end cohort elections and seat nominees unless a veto reaches 20% of active votable OP supply. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
   {
    "id": "2582a8b922",
    "title": "BlackRock joins SBI and Startale to link tokenized MMFs with Japanese yen stablecoins",

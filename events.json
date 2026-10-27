@@ -1,6 +1,176 @@
 {
- "updated": "2026-10-27T16:03:28.116267+00:00",
+ "updated": "2026-10-27T17:03:22.375794+00:00",
  "events": [
+  {
+   "id": "19ede91ca1",
+   "title": "Kraken opens Bitcoin and Ethereum options to eligible European traders",
+   "date": "2026-10-27T17:00:57+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Kraken opens Bitcoin and Ethereum options to eligible European traders",
+     "url": "https://cryptoslate.com/kraken-opens-bitcoin-and-ether-options-to-eligible-european-traders/",
+     "date": "2026-10-27T17:00:57+00:00",
+     "summary": "The EEA rollout adds USD-settled contracts to existing derivatives accounts, with shared futures collateral and portfolio margin on by default. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T17:00:57+00:00",
+   "last_seen": "2026-10-27T17:00:57+00:00",
+   "summary": "The EEA rollout adds USD-settled contracts to existing derivatives accounts, with shared futures collateral and portfolio margin on by default. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "ca35b97b2a",
+   "title": "Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation",
+   "date": "2026-10-27T16:59:10+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation",
+     "url": "https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906",
+     "date": "2026-10-27T16:59:10+00:00",
+     "summary": "Cancore, a Canton-based trading platform connecting assets on the network with liquidity on public blockchains, has raised $7.2 million in seed funding. Paper Ventures, dao5, ArkStream Capital, X Ventures, MH Ventures and Proof of Talk backed the round. There was no formal lead..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T16:59:10+00:00",
+   "last_seen": "2026-10-27T16:59:10+00:00",
+   "summary": "Cancore, a Canton-based trading platform connecting assets on the network with liquidity on public blockchains, has raised $7.2 million in seed funding. Paper Ventures, dao5, ArkStream Capital, X Ventures, MH Ventures and Proof of Talk backed the round. There was no formal lead...",
+   "tags": [
+    "defi",
+    "funding"
+   ]
+  },
+  {
+   "id": "dd0f0edf1a",
+   "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+   "date": "2026-10-27T16:59:07+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Brazilian companies turned to stablecoins on election day to dodge a currency crash",
+     "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
+     "date": "2026-10-27T16:59:07+00:00",
+     "summary": "USDT volume on crypto exchange Mercado Bitcoin jumped nearly 800% and bitcoin volume surged 865%. Binance\u2019s USDT/BRL market tripled while the global BTC/USDT pair fell."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T16:59:07+00:00",
+   "last_seen": "2026-10-27T16:59:07+00:00",
+   "summary": "USDT volume on crypto exchange Mercado Bitcoin jumped nearly 800% and bitcoin volume surged 865%. Binance\u2019s USDT/BRL market tripled while the global BTC/USDT pair fell.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "markets",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "07d086bd19",
+   "title": "A $3M Hedge, a Midterm Test and Retail's Rise: Prediction Markets at NEXTPredict",
+   "date": "2026-10-27T16:53:44+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "A $3M Hedge, a Midterm Test and Retail's Rise: Prediction Markets at NEXTPredict",
+     "url": "https://decrypt.co/381955/a-3m-hedge-a-midterm-test-and-retails-rise-prediction-markets-at-nextpredict",
+     "date": "2026-10-27T16:53:44+00:00",
+     "summary": "Chuck Todd called markets a \"fact checker\" for journalism, as Kalshi, Polymarket and Robinhood pitched contracts well beyond elections."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T16:53:44+00:00",
+   "last_seen": "2026-10-27T16:53:44+00:00",
+   "summary": "Chuck Todd called markets a \"fact checker\" for journalism, as Kalshi, Polymarket and Robinhood pitched contracts well beyond elections.",
+   "tags": []
+  },
+  {
+   "id": "d7da444d21",
+   "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+   "date": "2026-10-27T16:53:13+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
+     "url": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
+     "date": "2026-10-27T16:53:13+00:00",
+     "summary": "A new OpenAI paper declares ETH false, a claim that hundreds of research papers lean on. Crypto Twitter degens and serious mathematicians are abuzz."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T16:53:13+00:00",
+   "last_seen": "2026-10-27T16:53:13+00:00",
+   "summary": "A new OpenAI paper declares ETH false, a claim that hundreds of research papers lean on. Crypto Twitter degens and serious mathematicians are abuzz.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "dcc39ac5ec",
+   "title": "Predict.fun Pledges Full Refunds for Roughly 400,000 USDT Theft",
+   "date": "2026-10-27T16:50:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Predict.fun Pledges Full Refunds for Roughly 400,000 USDT Theft",
+     "url": "https://thedefiant.io/news/hacks/predict-fun-pledges-full-refunds-for-roughly-400-000-usdt-theft",
+     "date": "2026-10-27T16:50:46+00:00",
+     "summary": "The platform says a preliminary investigation points to a possible compromise of its third-party API documentation site, which it has taken offline."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T16:50:46+00:00",
+   "last_seen": "2026-10-27T16:50:46+00:00",
+   "summary": "The platform says a preliminary investigation points to a possible compromise of its third-party API documentation site, which it has taken offline.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "7e1f02a68e",
+   "title": "Ten Decrees: Old Masters, New Money",
+   "date": "2026-10-27T16:42:23+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Ten Decrees: Old Masters, New Money",
+     "url": "https://bitcoinmagazine.com/culture/ten-decrees-old-masters-new-money",
+     "date": "2026-10-27T16:42:23+00:00",
+     "summary": "Bitcoin Magazine Ten Decrees: Old Masters, New Money Lucho Poletti on redrawing Hieronymus Bosch and Pieter Bruegel the Elder around money, Nixon\u2019s 1971 decree, and why bitcoin art keeps returning to the old masters. This post Ten Decrees: Old Masters, New Money first appeared..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T16:42:23+00:00",
+   "last_seen": "2026-10-27T16:42:23+00:00",
+   "summary": "Bitcoin Magazine Ten Decrees: Old Masters, New Money Lucho Poletti on redrawing Hieronymus Bosch and Pieter Bruegel the Elder around money, Nixon\u2019s 1971 decree, and why bitcoin art keeps returning to the old masters. This post Ten Decrees: Old Masters, New Money first appeared...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "99e1884bc0",
+   "title": "Myriad Voids 10 Prediction Markets After Admin-Wallet Compromise",
+   "date": "2026-10-27T16:41:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Myriad Voids 10 Prediction Markets After Admin-Wallet Compromise",
+     "url": "https://thedefiant.io/news/hacks/myriad-voids-10-prediction-markets-after-admin-wallet-compromise",
+     "date": "2026-10-27T16:41:18+00:00",
+     "summary": "Holders on both sides are promised automatic refunds at pre-attack prices, less any winnings already claimed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T16:41:18+00:00",
+   "last_seen": "2026-10-27T16:41:18+00:00",
+   "summary": "Holders on both sides are promised automatic refunds at pre-attack prices, less any winnings already claimed.",
+   "tags": []
+  },
   {
    "id": "79cd5ef0aa",
    "title": "Japan\u2019s services inflation split complicates the BOJ outlook before Friday\u2019s decision",
@@ -21,6 +191,29 @@
    "tags": [
     "macro",
     "markets"
+   ]
+  },
+  {
+   "id": "ed049c7425",
+   "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+   "date": "2026-10-27T15:59:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "USDC overtakes USDT in euro stablecoin trading as EU rules reshape market: Kaiko",
+     "url": "https://cointelegraph.com/news/usdc-overtakes-usdt-euro-stablecoin-trading-mica-kaiko?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T15:59:58+00:00",
+     "summary": "USDC\u2019s share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liquidity as exchanges restrict USDT under MiCA."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T15:59:58+00:00",
+   "last_seen": "2026-10-27T15:59:58+00:00",
+   "summary": "USDC\u2019s share of euro stablecoin trading has climbed to 56% since January 2024, with deeper liquidity as exchanges restrict USDT under MiCA.",
+   "tags": [
+    "defi",
+    "regulation",
+    "stablecoins"
    ]
   },
   {
@@ -522,12 +715,19 @@
      "url": "https://thedefiant.io/converge/defi/janus-henderson-announces-tokenized-nasdaq-100-fund-on-stellar",
      "date": "2026-10-27T13:14:44+00:00",
      "summary": "JQQQ targets non-US professional investors with a 100,000 USDC minimum, while Centrifuge's investment portal says subscriptions are not yet open."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
+     "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T16:37:15+00:00",
+     "summary": "The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-27T13:14:44+00:00",
-   "last_seen": "2026-10-27T13:14:44+00:00",
-   "summary": "JQQQ targets non-US professional investors with a 100,000 USDC minimum, while Centrifuge's investment portal says subscriptions are not yet open.",
+   "last_seen": "2026-10-27T16:37:15+00:00",
+   "summary": "The blockchain-based fund offers eligible non-US investors exposure to the Nasdaq-100 as Janus Henderson expands its institutional tokenization business.",
    "tags": [
     "stablecoins"
    ]

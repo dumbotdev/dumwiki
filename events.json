@@ -1,6 +1,207 @@
 {
- "updated": "2026-10-27T10:56:24.605486+00:00",
+ "updated": "2026-10-27T11:53:36.486614+00:00",
  "events": [
+  {
+   "id": "1b24007f2c",
+   "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
+   "date": "2026-10-27T11:46:51+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Why This Team of Ninjas Is Tripling Down on Mining Bitcoin",
+     "url": "https://decrypt.co/381906/why-this-team-of-ninjas-is-tripling-down-on-mining-bitcoin",
+     "date": "2026-10-27T11:46:51+00:00",
+     "summary": "NIP Group says Bitcoin mining has \u201cearned its place\u201d as the esports giant swaps 247 million shares for more machines."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T11:46:51+00:00",
+   "last_seen": "2026-10-27T11:46:51+00:00",
+   "summary": "NIP Group says Bitcoin mining has \u201cearned its place\u201d as the esports giant swaps 247 million shares for more machines.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "7f1d5fa7c3",
+   "title": "AI Agents Approved Their Own Spending Increases on Circle Agent Wallets",
+   "date": "2026-10-27T11:40:52+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "AI Agents Approved Their Own Spending Increases on Circle Agent Wallets",
+     "url": "https://thedefiant.io/news/security/ai-models-raised-own-crypto-spending-caps-cornell-i-hitl",
+     "date": "2026-10-27T11:40:52+00:00",
+     "summary": "Researchers gave frontier models a capped Circle agent wallet and access to the inbox that receives its one-time codes. Most of them approved their own spending increase"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T11:40:52+00:00",
+   "last_seen": "2026-10-27T11:40:52+00:00",
+   "summary": "Researchers gave frontier models a capped Circle agent wallet and access to the inbox that receives its one-time codes. Most of them approved their own spending increase",
+   "tags": [
+    "ai",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "993e6dc9e4",
+   "title": "Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
+   "date": "2026-10-27T11:40:50+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Bitcoin holds below $80,000 as AI buildout draws investor attention and capital",
+     "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
+     "date": "2026-10-27T11:40:50+00:00",
+     "summary": "Interest rates and oil are slipping and equities are rising, but crypto remains under pressure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T11:40:50+00:00",
+   "last_seen": "2026-10-27T11:40:50+00:00",
+   "summary": "Interest rates and oil are slipping and equities are rising, but crypto remains under pressure.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "c1ba1c52e3",
+   "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
+   "date": "2026-10-27T11:37:52+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
+     "url": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
+     "date": "2026-10-27T11:37:52+00:00",
+     "summary": "CEO Noritaka Okabe blamed a 1 million yen per-transaction cap for Type II funds transfer providers, which has slowed corporate adoption."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T11:37:52+00:00",
+   "last_seen": "2026-10-27T11:37:52+00:00",
+   "summary": "CEO Noritaka Okabe blamed a 1 million yen per-transaction cap for Type II funds transfer providers, which has slowed corporate adoption.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "4af5fe9d7c",
+   "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+   "date": "2026-10-27T11:32:45+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
+     "url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
+     "date": "2026-10-27T11:32:45+00:00",
+     "summary": "Bitcoin fell 0.4% to around $79,700 since midnight UTC while Asian tech stocks rallied. The DeFi index dropped 1.8%, and the Fed is set to begin a two-day meeting."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T11:32:45+00:00",
+   "last_seen": "2026-10-27T11:32:45+00:00",
+   "summary": "Bitcoin fell 0.4% to around $79,700 since midnight UTC while Asian tech stocks rallied. The DeFi index dropped 1.8%, and the Fed is set to begin a two-day meeting.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "07e7c8e631",
+   "title": "Coinbase sets 3-day MiCA deadline for USDT, PayPal and Trump-linked stablecoins",
+   "date": "2026-10-27T11:20:33+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Coinbase sets 3-day MiCA deadline for USDT, PayPal and Trump-linked stablecoins",
+     "url": "https://cryptoslate.com/coinbase-sets-3-day-mica-deadline-for-usdt-paypal-and-trump-linked-stablecoins/",
+     "date": "2026-10-27T11:20:33+00:00",
+     "summary": "Affected retail balances will convert at market rates, with USDC used where suitable and late deposits excluded. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T11:20:33+00:00",
+   "last_seen": "2026-10-27T11:20:33+00:00",
+   "summary": "Affected retail balances will convert at market rates, with USDC used where suitable and late deposits excluded. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "macro",
+    "regulation",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "1381b7ba9e",
+   "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+   "date": "2026-10-27T11:13:54+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
+     "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
+     "date": "2026-10-27T11:13:54+00:00",
+     "summary": "The breach exposed 25,964 buyer records, some kept past Keystone\u2019s 180-day deletion policy after an automated tool failed without the firm noticing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T11:13:54+00:00",
+   "last_seen": "2026-10-27T11:13:54+00:00",
+   "summary": "The breach exposed 25,964 buyer records, some kept past Keystone\u2019s 180-day deletion policy after an automated tool failed without the firm noticing.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "0de1d34ae0",
+   "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
+   "date": "2026-10-27T10:57:51+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
+     "url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
+     "date": "2026-10-27T10:57:51+00:00",
+     "summary": "Jason Calacanis wants investors to sell bitcoin and back artificial intelligence. He is also holding TAO, the cryptocurrency behind AI network Bittensor."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T10:57:51+00:00",
+   "last_seen": "2026-10-27T10:57:51+00:00",
+   "summary": "Jason Calacanis wants investors to sell bitcoin and back artificial intelligence. He is also holding TAO, the cryptocurrency behind AI network Bittensor.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "eff838e0ab",
+   "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower",
+   "date": "2026-10-27T10:57:34+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ark Invest buys $5.2 million of Circle shares, sells $15.9 million of its own Bitcoin ETF as BTC grinds lower",
+     "url": "https://www.theblock.co/news/markets/2026-10-27-ark-invest-buys-5-2-million-of-circle-shares-sells-15-9-million-of-its-own-bitcoin-etf-as-btc-grinds-lower-431838",
+     "date": "2026-10-27T10:57:34+00:00",
+     "summary": "Ark Invest rebalanced its fund weightings, adding Circle shares and trimming its Bitcoin ETF holdings as BTC fell below $80,000."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T10:57:34+00:00",
+   "last_seen": "2026-10-27T10:57:34+00:00",
+   "summary": "Ark Invest rebalanced its fund weightings, adding Circle shares and trimming its Bitcoin ETF holdings as BTC fell below $80,000.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "stablecoins"
+   ]
+  },
   {
    "id": "aaf6c78995",
    "title": "Now Accepting Bitcoin: 425 Los Angeles Bitcoin Merchants featuring Caf\u00e9 de Leche",

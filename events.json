@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-27T07:09:33.581043+00:00",
+ "updated": "2026-10-27T08:02:13.641182+00:00",
  "events": [
+  {
+   "id": "38bec58580",
+   "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+   "date": "2026-10-27T07:44:04+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",
+     "url": "https://www.coindesk.com/tech/2026/10/27/solana-bug-reports-now-cost-1-sol-as-ai-floods-security-teams-with-spam",
+     "date": "2026-10-27T07:44:04+00:00",
+     "summary": "Researchers must now permanently burn 1 SOL for every submission after a monthlong contest drew 809 reports, with AI believed to have helped generate or write nearly all of them."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T07:44:04+00:00",
+   "last_seen": "2026-10-27T07:44:04+00:00",
+   "summary": "Researchers must now permanently burn 1 SOL for every submission after a monthlong contest drew 809 reports, with AI believed to have helped generate or write nearly all of them.",
+   "tags": [
+    "ai",
+    "solana"
+   ]
+  },
+  {
+   "id": "0f3c7c83d0",
+   "title": "Bitcoin ETFs claw back $110M after $774M exit",
+   "date": "2026-10-27T07:35:37+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin ETFs claw back $110M after $774M exit",
+     "url": "https://cointelegraph.com/markets/bitcoin-etf-rebound-110-million-btc-dip-below-80k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T07:35:37+00:00",
+     "summary": "US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday\u2019s rebound."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T07:35:37+00:00",
+   "last_seen": "2026-10-27T07:35:37+00:00",
+   "summary": "US spot Bitcoin ETFs remained in the red for October, with about $202 million in net outflows for the month despite Monday\u2019s rebound.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "cf2f93e17d",
+   "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+   "date": "2026-10-27T07:09:56+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ethereum fixes Glamsterdam bug that could have sent staking deposits to builders",
+     "url": "https://www.coindesk.com/tech/2026/10/27/ethereum-fixes-glamsterdam-bug-that-could-have-sent-staking-deposits-to-builders",
+     "date": "2026-10-27T07:09:56+00:00",
+     "summary": "Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T07:09:56+00:00",
+   "last_seen": "2026-10-27T07:09:56+00:00",
+   "summary": "Developers initially rejected the change before reversing course, as testing delays gave them more time to examine a flaw in Ethereum's upcoming Glamsterdam upgrade.",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
   {
    "id": "2af5a8b54a",
    "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",

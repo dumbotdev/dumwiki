@@ -1,6 +1,108 @@
 {
- "updated": "2026-10-27T09:58:20.753362+00:00",
+ "updated": "2026-10-27T10:56:24.605486+00:00",
  "events": [
+  {
+   "id": "aaf6c78995",
+   "title": "Now Accepting Bitcoin: 425 Los Angeles Bitcoin Merchants featuring Caf\u00e9 de Leche",
+   "date": "2026-10-27T10:44:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Now Accepting Bitcoin: 425 Los Angeles Bitcoin Merchants featuring Caf\u00e9 de Leche",
+     "url": "https://bitcoinmagazine.com/news/los-angeles-bitcoin-425",
+     "date": "2026-10-27T10:44:00+00:00",
+     "summary": "Bitcoin Magazine Now Accepting Bitcoin: 425 Los Angeles Bitcoin Merchants featuring Caf\u00e9 de Leche Los Angeles Bitcoin: where to spend bitcoin at 425 caf\u00e9s, restaurants, and shops across Los Angeles and nearby cities, with a categorized directory. This post Now Accepting Bitcoin:..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T10:44:00+00:00",
+   "last_seen": "2026-10-27T10:44:00+00:00",
+   "summary": "Bitcoin Magazine Now Accepting Bitcoin: 425 Los Angeles Bitcoin Merchants featuring Caf\u00e9 de Leche Los Angeles Bitcoin: where to spend bitcoin at 425 caf\u00e9s, restaurants, and shops across Los Angeles and nearby cities, with a categorized directory. This post Now Accepting Bitcoin:...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "720eb21e56",
+   "title": "SlowMist Finds Data-Stealing and Address-Swapping Code in Udesk Scripts",
+   "date": "2026-10-27T10:27:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SlowMist Finds Data-Stealing and Address-Swapping Code in Udesk Scripts",
+     "url": "https://thedefiant.io/news/security/slowmist-finds-data-stealing-and-address-swapping-code-in-udesk-scripts",
+     "date": "2026-10-27T10:27:35+00:00",
+     "summary": "The payload can alter both displayed and copied crypto deposit addresses, while its data collection extends beyond three site-specific targeting rules."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T10:27:35+00:00",
+   "last_seen": "2026-10-27T10:27:35+00:00",
+   "summary": "The payload can alter both displayed and copied crypto deposit addresses, while its data collection extends beyond three site-specific targeting rules.",
+   "tags": []
+  },
+  {
+   "id": "f0bb9153d9",
+   "title": "Marinade Waives Bond Charges for Agave Slot-Skipping Bug",
+   "date": "2026-10-27T10:08:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Marinade Waives Bond Charges for Agave Slot-Skipping Bug",
+     "url": "https://thedefiant.io/news/infrastructure/marinade-waives-bond-charges-for-agave-slot-skipping-bug",
+     "date": "2026-10-27T10:08:39+00:00",
+     "summary": "The exemption covers first-window slots in PSR and SAM calculations, while a repair is included in an Agave 4.4 release candidate."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T10:08:39+00:00",
+   "last_seen": "2026-10-27T10:08:39+00:00",
+   "summary": "The exemption covers first-window slots in PSR and SAM calculations, while a repair is included in an Agave 4.4 release candidate.",
+   "tags": []
+  },
+  {
+   "id": "265f0b84b9",
+   "title": "CoinDCX\u2019s $16 million loss revives uncomfortable memories of FTX and Celsius",
+   "date": "2026-10-27T10:00:59+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "CoinDCX\u2019s $16 million loss revives uncomfortable memories of FTX and Celsius",
+     "url": "https://cryptoslate.com/coindcxs-16-million-loss-revives-uncomfortable-memories-of-ftx-and-celsius/",
+     "date": "2026-10-27T10:00:59+00:00",
+     "summary": "CoinDCX confirmed a loss of roughly $16 million USDT three days after its CEO, Sumit Gupta, disputed reports of a new wallet breach, calling them a false alarm. It had acknowledged unspecified operational losses from a failed sweeping process on the afternoon of Oct. 22, so the..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T10:00:59+00:00",
+   "last_seen": "2026-10-27T10:00:59+00:00",
+   "summary": "CoinDCX confirmed a loss of roughly $16 million USDT three days after its CEO, Sumit Gupta, disputed reports of a new wallet breach, calling them a false alarm. It had acknowledged unspecified operational losses from a failed sweeping process on the afternoon of Oct. 22, so the...",
+   "tags": [
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "88f12f234f",
+   "title": "Zcash co-founder calls to stop funding \u2018over $125M\u2019 grants program",
+   "date": "2026-10-27T10:00:31+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Zcash co-founder calls to stop funding \u2018over $125M\u2019 grants program",
+     "url": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T10:00:31+00:00",
+     "summary": "Sean Bowe says ZCG has enough money to keep funding projects and wants its share of new ZEC redirected to a reserve for the network."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T10:00:31+00:00",
+   "last_seen": "2026-10-27T10:00:31+00:00",
+   "summary": "Sean Bowe says ZCG has enough money to keep funding projects and wants its share of new ZEC redirected to a reserve for the network.",
+   "tags": [
+    "funding"
+   ]
+  },
   {
    "id": "eb19163346",
    "title": "Now is the time to accumulate bitcoin, Galaxy says",
@@ -487,13 +589,21 @@
      "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-27T00:06:41+00:00",
      "summary": "The approval clears the way for Ripple to manage reserves backing its RLUSD stablecoin and provide digital asset custody."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Ripple Wins Final OCC Approval for Trust Bank Behind $2.6B RLUSD Stablecoin",
+     "url": "https://decrypt.co/381899/ripple-wins-final-occ-approval-for-trust-bank-behind-2-6b-rlusd-stablecoin",
+     "date": "2026-10-27T10:16:46+00:00",
+     "summary": "The federally supervised bank will manage RLUSD's reserves and offer custody, as banking groups fight crypto charters in court."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-10-26T23:37:47+00:00",
-   "last_seen": "2026-10-27T00:06:41+00:00",
+   "last_seen": "2026-10-27T10:16:46+00:00",
    "summary": "RLUSD will retain its New York-regulated issuer while the national trust bank manages reserves and provides fiduciary digital asset custody.",
    "tags": [
+    "legal",
     "stablecoins"
    ]
   },

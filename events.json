@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-27T01:57:48.571150+00:00",
+ "updated": "2026-10-27T02:53:38.983485+00:00",
  "events": [
+  {
+   "id": "7802c0dda7",
+   "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+   "date": "2026-10-27T02:28:18+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ripple gains final OCC approval to launch national trust bank and bring RLUSD under federal oversight",
+     "url": "https://www.theblock.co/news/regulation/2026-10-26-ripple-gains-final-occ-approval-rlusd-431810",
+     "date": "2026-10-27T02:28:18+00:00",
+     "summary": "Ripple's structure places reserve management and custody under federal supervision while leaving issuance with the New York-regulated entity."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T02:28:18+00:00",
+   "last_seen": "2026-10-27T02:28:18+00:00",
+   "summary": "Ripple's structure places reserve management and custody under federal supervision while leaving issuance with the New York-regulated entity.",
+   "tags": []
+  },
+  {
+   "id": "bb746257fb",
+   "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+   "date": "2026-10-27T01:55:03+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+     "url": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T01:55:03+00:00",
+     "summary": "Keystone initially disclosed a leak of customer information but has since disclosed that hackers also stole a key that could allow counterfeit wallets to pass authenticity checks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T01:55:03+00:00",
+   "last_seen": "2026-10-27T01:55:03+00:00",
+   "summary": "Keystone initially disclosed a leak of customer information but has since disclosed that hackers also stole a key that could allow counterfeit wallets to pass authenticity checks.",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "624ec6e82a",
    "title": "How Optimism\u2019s draft manual silently strips tokenholder elections",

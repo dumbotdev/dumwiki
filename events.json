@@ -1,6 +1,114 @@
 {
- "updated": "2026-10-27T19:03:28.426230+00:00",
+ "updated": "2026-10-27T19:55:31.510546+00:00",
  "events": [
+  {
+   "id": "37d40d8153",
+   "title": "Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom",
+   "date": "2026-10-27T19:48:48+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-rests-near-80500-midterms",
+     "date": "2026-10-27T19:48:48+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom Bitcoin price recovered from an early-morning low near $79,400 to trade around $80,500 on Tuesday, holding above $80,000 ahead of this week\u2019s Fed decision and the November midterms. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T19:48:48+00:00",
+   "last_seen": "2026-10-27T19:48:48+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom Bitcoin price recovered from an early-morning low near $79,400 to trade around $80,500 on Tuesday, holding above $80,000 ahead of this week\u2019s Fed decision and the November midterms. This post...",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "b36539fa8b",
+   "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
+   "date": "2026-10-27T19:46:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
+     "url": "https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor",
+     "date": "2026-10-27T19:46:02+00:00",
+     "summary": "An expanded deal with Bitso puts Anchorage Digital Bank\u2019s custody beneath both sides of the US-Mexico remittance route."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T19:46:02+00:00",
+   "last_seen": "2026-10-27T19:46:02+00:00",
+   "summary": "An expanded deal with Bitso puts Anchorage Digital Bank\u2019s custody beneath both sides of the US-Mexico remittance route.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "a88758ce58",
+   "title": "VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure",
+   "date": "2026-10-27T19:18:06+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure",
+     "url": "https://bitcoinmagazine.com/news/vaneck-builder-etf-with-bitcoin-exposure",
+     "date": "2026-10-27T19:18:06+00:00",
+     "summary": "Bitcoin Magazine VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure VanEck launched its Wealth Builder ETF (WBMO) on the NYSE, bundling stocks, bonds, gold and indirect bitcoin exposure into one fund for 0.26% a year. This post VanEck Launches All-in-One Wealth..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T19:18:06+00:00",
+   "last_seen": "2026-10-27T19:18:06+00:00",
+   "summary": "Bitcoin Magazine VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure VanEck launched its Wealth Builder ETF (WBMO) on the NYSE, bundling stocks, bonds, gold and indirect bitcoin exposure into one fund for 0.26% a year. This post VanEck Launches All-in-One Wealth...",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "9507b292fa",
+   "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
+   "date": "2026-10-27T19:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
+     "url": "https://decrypt.co/381987/ai-agents-creating-new-layer-cybersecurity-spending",
+     "date": "2026-10-27T19:16:03+00:00",
+     "summary": "Akamai launched a locked box for AI agents on Tuesday. It joins Palo Alto, Cisco, CrowdStrike, Okta and Zscaler in selling protection for software that now acts on its own."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T19:16:03+00:00",
+   "last_seen": "2026-10-27T19:16:03+00:00",
+   "summary": "Akamai launched a locked box for AI agents on Tuesday. It joins Palo Alto, Cisco, CrowdStrike, Okta and Zscaler in selling protection for software that now acts on its own.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "74da496508",
+   "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+   "date": "2026-10-27T19:07:59+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+     "url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+     "date": "2026-10-27T19:07:59+00:00",
+     "summary": "The U.S. Commodity Futures Trading Commission has pursued more than a dozen legal actions to protect what its chief sees as its sole power over prediction markets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T19:07:59+00:00",
+   "last_seen": "2026-10-27T19:07:59+00:00",
+   "summary": "The U.S. Commodity Futures Trading Commission has pursued more than a dozen legal actions to protect what its chief sees as its sole power over prediction markets.",
+   "tags": [
+    "legal"
+   ]
+  },
   {
    "id": "c9fdf85384",
    "title": "Lightning tightens invoice rules after reported attack made Bitcoin withdrawals look unpaid",
@@ -321,11 +429,18 @@
      "url": "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
      "date": "2026-10-27T18:51:46+00:00",
      "summary": "The CFTC is escalating its legal fight with states, suing Utah after the state filed a lawsuit against prediction market platform Kalshi."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "CFTC sues Utah to block action against prediction markets",
+     "url": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T19:21:59+00:00",
+     "summary": "The US state filed a lawsuit against Kalshi last week, seeking to recover up to $60 million in profits related to event contracts on prediction markets."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-10-27T17:06:19+00:00",
-   "last_seen": "2026-10-27T18:51:46+00:00",
+   "last_seen": "2026-10-27T19:21:59+00:00",
    "summary": "The federal complaint targets Utah's case against Kalshi and Susquehanna, seeking to bar investigations as well as enforcement against federally regulated markets.",
    "tags": [
     "legal",

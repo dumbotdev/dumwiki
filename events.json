@@ -1,6 +1,129 @@
 {
- "updated": "2026-10-27T15:05:43.101815+00:00",
+ "updated": "2026-10-27T16:03:28.116267+00:00",
  "events": [
+  {
+   "id": "79cd5ef0aa",
+   "title": "Japan\u2019s services inflation split complicates the BOJ outlook before Friday\u2019s decision",
+   "date": "2026-10-27T16:00:16+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Japan\u2019s services inflation split complicates the BOJ outlook before Friday\u2019s decision",
+     "url": "https://cryptoslate.com/japans-services-inflation-split-complicates-the-boj-outlook-before-fridays-decision/",
+     "date": "2026-10-27T16:00:16+00:00",
+     "summary": "Business-service inflation reached 3.7%, while the transport-excluded rate held steady and labor-sensitive price growth eased before Friday\u2019s BOJ decision. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T16:00:16+00:00",
+   "last_seen": "2026-10-27T16:00:16+00:00",
+   "summary": "Business-service inflation reached 3.7%, while the transport-excluded rate held steady and labor-sensitive price growth eased before Friday\u2019s BOJ decision. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": [
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "7b7775b590",
+   "title": "SoFi Stock (SOFI) Soars 15% on Record Quarter, Crypto Reaches 503,000 Products",
+   "date": "2026-10-27T15:56:57+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "SoFi Stock (SOFI) Soars 15% on Record Quarter, Crypto Reaches 503,000 Products",
+     "url": "https://bitcoinmagazine.com/news/sofi-stock-sofi-soars-15-on-record-quarter",
+     "date": "2026-10-27T15:56:57+00:00",
+     "summary": "Bitcoin Magazine SoFi Stock (SOFI) Soars 15% on Record Quarter, Crypto Reaches 503,000 Products SoFi shares jumped 14.6% to $16.56 after a record third quarter, with crypto reaching 503,070 products and adjusted EPS of $0.18 beating estimates. This post SoFi Stock (SOFI) Soars..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T15:56:57+00:00",
+   "last_seen": "2026-10-27T15:56:57+00:00",
+   "summary": "Bitcoin Magazine SoFi Stock (SOFI) Soars 15% on Record Quarter, Crypto Reaches 503,000 Products SoFi shares jumped 14.6% to $16.56 after a record third quarter, with crypto reaching 503,070 products and adjusted EPS of $0.18 beating estimates. This post SoFi Stock (SOFI) Soars...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "9e31115c6c",
+   "title": "NEAR Adds Confidential Jio Pre-IPO Trading Ahead of Listing",
+   "date": "2026-10-27T15:45:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "NEAR Adds Confidential Jio Pre-IPO Trading Ahead of Listing",
+     "url": "https://thedefiant.io/news/defi/near-adds-confidential-jio-pre-ipo-trading-ahead-of-listing",
+     "date": "2026-10-27T15:45:04+00:00",
+     "summary": "The contract offers up to 5x leverage and is expected to become an equity perpetual after listing, without delivering shares or IPO allocations."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T15:45:04+00:00",
+   "last_seen": "2026-10-27T15:45:04+00:00",
+   "summary": "The contract offers up to 5x leverage and is expected to become an equity perpetual after listing, without delivering shares or IPO allocations.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "ae3b14a01b",
+   "title": "Ondo Brings 15 Stock Tokens to Robinhood Chain With Uniswap Pools",
+   "date": "2026-10-27T15:44:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ondo Brings 15 Stock Tokens to Robinhood Chain With Uniswap Pools",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/ondo-brings-15-stock-tokens-to-robinhood-chain-with-uniswap-pools",
+     "date": "2026-10-27T15:44:31+00:00",
+     "summary": "Eleven pools pair Ondo and Robinhood tokens tied to the same assets, opening a potential weekend arbitrage route through Ondo\u2019s redemption platform."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T15:44:31+00:00",
+   "last_seen": "2026-10-27T15:44:31+00:00",
+   "summary": "Eleven pools pair Ondo and Robinhood tokens tied to the same assets, opening a potential weekend arbitrage route through Ondo\u2019s redemption platform.",
+   "tags": []
+  },
+  {
+   "id": "04e3400f23",
+   "title": "SoFi discloses 503,000 crypto products as gross crypto revenue hits $162 million",
+   "date": "2026-10-27T15:35:32+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "SoFi discloses 503,000 crypto products as gross crypto revenue hits $162 million",
+     "url": "https://www.theblock.co/news/markets/2026-10-27-sofi-discloses-503000-crypto-products-as-gross-crypto-revenue-hits-162-million-431897",
+     "date": "2026-10-27T15:35:32+00:00",
+     "summary": "SoFi broke out crypto products for the first time. Gross crypto revenue rose 20%, while total net revenue hit a record $1.39 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T15:35:32+00:00",
+   "last_seen": "2026-10-27T15:35:32+00:00",
+   "summary": "SoFi broke out crypto products for the first time. Gross crypto revenue rose 20%, while total net revenue hit a record $1.39 billion.",
+   "tags": []
+  },
+  {
+   "id": "e00932f237",
+   "title": "Robinhood Opens Earn to All Eligible Users for Onchain USDG Lending",
+   "date": "2026-10-27T15:11:41+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Robinhood Opens Earn to All Eligible Users for Onchain USDG Lending",
+     "url": "https://thedefiant.io/news/defi/robinhood-opens-earn-to-all-eligible-users-for-onchain-usdg-lending",
+     "date": "2026-10-27T15:11:41+00:00",
+     "summary": "Deposits go to a Steakhouse-curated Morpho vault on Robinhood Chain, with rewards topping up lending interest and withdrawals dependent on vault liquidity."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T15:11:41+00:00",
+   "last_seen": "2026-10-27T15:11:41+00:00",
+   "summary": "Deposits go to a Steakhouse-curated Morpho vault on Robinhood Chain, with rewards topping up lending interest and withdrawals dependent on vault liquidity.",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "a0f5321ce5",
    "title": "Ripple, BNY explore using the XRP Ledger to finance approved invoices",

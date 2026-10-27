@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-27T21:52:42.481236+00:00",
+ "updated": "2026-10-27T22:52:57.125681+00:00",
  "events": [
+  {
+   "id": "e1f9d05d18",
+   "title": "Zcash\u2019s $125 million funding fight widens as Tyler Winklevoss calls to end its \u2018USAID\u2019",
+   "date": "2026-10-27T22:20:21+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Zcash\u2019s $125 million funding fight widens as Tyler Winklevoss calls to end its \u2018USAID\u2019",
+     "url": "https://cryptoslate.com/zcashs-125-million-funding-fight-widens-as-tyler-winklevoss-calls-to-end-its-usaid/",
+     "date": "2026-10-27T22:20:21+00:00",
+     "summary": "Zcash faces competing proposals to scrap or extend developer subsidies as growing investor interest swells the privacy network&#039;s funding reserves. The debate intensified after Zcash co-founder Sean Bowe proposed ending automatic payments to Zcash Community Grants (ZCG),..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T22:20:21+00:00",
+   "last_seen": "2026-10-27T22:20:21+00:00",
+   "summary": "Zcash faces competing proposals to scrap or extend developer subsidies as growing investor interest swells the privacy network&#039;s funding reserves. The debate intensified after Zcash co-founder Sean Bowe proposed ending automatic payments to Zcash Community Grants (ZCG),...",
+   "tags": [
+    "funding"
+   ]
+  },
   {
    "id": "da076630b7",
    "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",

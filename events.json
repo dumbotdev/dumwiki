@@ -1,6 +1,91 @@
 {
- "updated": "2026-10-27T08:02:13.641182+00:00",
+ "updated": "2026-10-27T09:00:23.974033+00:00",
  "events": [
+  {
+   "id": "a75c4d114c",
+   "title": "Public wallet logs expose founder histories, and Zcash group demands fix",
+   "date": "2026-10-27T08:50:22+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Public wallet logs expose founder histories, and Zcash group demands fix",
+     "url": "https://cryptoslate.com/atkinss-zcash-crypto-privacy-vision-faces-a-test-what-must-founders-reveal/",
+     "date": "2026-10-27T08:50:22+00:00",
+     "summary": "A Zcash policy group wants the SEC\u2019s proposed fundraising regime to protect unrelated wallet activity without concealing material holdings or conflicts. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T08:50:22+00:00",
+   "last_seen": "2026-10-27T08:50:22+00:00",
+   "summary": "A Zcash policy group wants the SEC\u2019s proposed fundraising regime to protect unrelated wallet activity without concealing material holdings or conflicts. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "cf0c0a59db",
+   "title": "An AI label alone no longer wins lenders, JPMorgan says",
+   "date": "2026-10-27T08:24:39+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "An AI label alone no longer wins lenders, JPMorgan says",
+     "url": "https://www.coindesk.com/markets/2026/10/27/an-ai-label-alone-no-longer-wins-lenders-jpmorgan-says",
+     "date": "2026-10-27T08:24:39+00:00",
+     "summary": "As default insurance on several AI-linked firms hits record costs, companies must show they can finance investment, service the debt and eventually mint cash, JPMorgan says."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T08:24:39+00:00",
+   "last_seen": "2026-10-27T08:24:39+00:00",
+   "summary": "As default insurance on several AI-linked firms hits record costs, companies must show they can finance investment, service the debt and eventually mint cash, JPMorgan says.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "ae5dc2e0b8",
+   "title": "Binance Seeks Brazil Crypto License as It Delists 22 Tokens",
+   "date": "2026-10-27T08:20:29+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Seeks Brazil Crypto License as It Delists 22 Tokens",
+     "url": "https://thedefiant.io/news/regulation/binance-seeks-brazil-crypto-license-as-it-delists-22-tokens",
+     "date": "2026-10-27T08:20:29+00:00",
+     "summary": "Lending and margin restrictions take effect Oct. 27, while an on-time application allows existing providers to operate during the central bank's review."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T08:20:29+00:00",
+   "last_seen": "2026-10-27T08:20:29+00:00",
+   "summary": "Lending and margin restrictions take effect Oct. 27, while an on-time application allows existing providers to operate during the central bank's review.",
+   "tags": [
+    "defi",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "4054c98659",
+   "title": "Binance files for Brazil crypto license ahead of Friday deadline",
+   "date": "2026-10-27T08:04:21+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance files for Brazil crypto license ahead of Friday deadline",
+     "url": "https://cointelegraph.com/news/binance-brazil-crypto-license-oct-30-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T08:04:21+00:00",
+     "summary": "The exchange is delisting 22 crypto assets for Brazilian users and hopes talks with the central bank will allow it to restore some services."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T08:04:21+00:00",
+   "last_seen": "2026-10-27T08:04:21+00:00",
+   "summary": "The exchange is delisting 22 crypto assets for Brazilian users and hopes talks with the central bank will allow it to restore some services.",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "38bec58580",
    "title": "Solana bug reports now cost 1 SOL as AI floods security teams with spam",

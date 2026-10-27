@@ -1,6 +1,232 @@
 {
- "updated": "2026-10-27T19:55:31.510546+00:00",
+ "updated": "2026-10-27T20:54:38.131413+00:00",
  "events": [
+  {
+   "id": "25ade06b25",
+   "title": "Liquid Reserve Gap Narrows to 600 BTC After Test Transfer",
+   "date": "2026-10-27T20:45:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Liquid Reserve Gap Narrows to 600 BTC After Test Transfer",
+     "url": "https://thedefiant.io/news/security/liquid-reserve-gap-narrows-to-600-btc-after-test-transfer",
+     "date": "2026-10-27T20:45:58+00:00",
+     "summary": "Samson Mow says the remaining funds will arrive in coming days; the federation's recovery plan requires full backing before direct peg-outs resume."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T20:45:58+00:00",
+   "last_seen": "2026-10-27T20:45:58+00:00",
+   "summary": "Samson Mow says the remaining funds will arrive in coming days; the federation's recovery plan requires full backing before direct peg-outs resume.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b4c59aa5df",
+   "title": "Robinhood Misses Q3 Earnings as Crypto Revenue Rises and Prediction Market Bets Grow",
+   "date": "2026-10-27T20:42:11+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Robinhood Misses Q3 Earnings as Crypto Revenue Rises and Prediction Market Bets Grow",
+     "url": "https://decrypt.co/382004/robinhood-misses-q3-earnings-crypto-prediction-markets",
+     "date": "2026-10-27T20:42:11+00:00",
+     "summary": "Robinhood posted record revenue of $1.42 billion but earned $0.51 per share, short of the $0.55 expected, as bets on sports and elections grew to $173 million and crypto edged up."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T20:42:11+00:00",
+   "last_seen": "2026-10-27T20:42:11+00:00",
+   "summary": "Robinhood posted record revenue of $1.42 billion but earned $0.51 per share, short of the $0.55 expected, as bets on sports and elections grew to $173 million and crypto edged up.",
+   "tags": []
+  },
+  {
+   "id": "a17928e460",
+   "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+   "date": "2026-10-27T20:41:33+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Treasury's Bessent sees crypto as America's next tool for keeping the U.S. dollar on top",
+     "url": "https://www.coindesk.com/policy/2026/10/27/treasury-s-bessent-sees-crypto-as-america-s-next-tool-for-keeping-the-u-s-dollar-on-top",
+     "date": "2026-10-27T20:41:33+00:00",
+     "summary": "Speaking at Ripple's conference, the U.S. Treasury Secretary said the SEC and CFTC action could help fill the gap left by the Clarity Act's failure, while curbing crypto debanking."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T20:41:33+00:00",
+   "last_seen": "2026-10-27T20:41:33+00:00",
+   "summary": "Speaking at Ripple's conference, the U.S. Treasury Secretary said the SEC and CFTC action could help fill the gap left by the Clarity Act's failure, while curbing crypto debanking.",
+   "tags": [
+    "macro",
+    "regulation"
+   ]
+  },
+  {
+   "id": "40afca0f98",
+   "title": "Polymarket Adds Five-Minute Crypto Contracts to US App",
+   "date": "2026-10-27T20:38:21+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Polymarket Adds Five-Minute Crypto Contracts to US App",
+     "url": "https://thedefiant.io/news/defi/polymarket-adds-five-minute-crypto-contracts-to-us-app",
+     "date": "2026-10-27T20:38:21+00:00",
+     "summary": "The BTC, ETH, SOL and XRP markets use CF Benchmarks prices, with ties settling Up and taker fees charged separately from the spread."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T20:38:21+00:00",
+   "last_seen": "2026-10-27T20:38:21+00:00",
+   "summary": "The BTC, ETH, SOL and XRP markets use CF Benchmarks prices, with ties settling Up and taker fees charged separately from the spread.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "legal",
+    "solana"
+   ]
+  },
+  {
+   "id": "1b73e7243b",
+   "title": "Quantum fears already limiting Bitcoin\u2019s growth, Stacks founder says",
+   "date": "2026-10-27T20:33:19+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Quantum fears already limiting Bitcoin\u2019s growth, Stacks founder says",
+     "url": "https://cointelegraph.com/news/quantum-fears-already-limiting-bitcoins-growth-stacks-founder-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T20:33:19+00:00",
+     "summary": "Speaking on Cointelegraph\u2019s Chain Reaction podcast, Muneeb Ali warned that uncertainty over Bitcoin\u2019s quantum security could deter institutional investors."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T20:33:19+00:00",
+   "last_seen": "2026-10-27T20:33:19+00:00",
+   "summary": "Speaking on Cointelegraph\u2019s Chain Reaction podcast, Muneeb Ali warned that uncertainty over Bitcoin\u2019s quantum security could deter institutional investors.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "88c2397e76",
+   "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
+   "date": "2026-10-27T20:32:21+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Robinhood's crypto revenue fell 55% from last year, but topped Street forecasts",
+     "url": "https://www.coindesk.com/markets/2026/10/27/robinhood-s-crypto-revenue-plunges-55-even-as-trading-platform-posts-record-sales",
+     "date": "2026-10-27T20:32:21+00:00",
+     "summary": "Crypto trading volume fell 38% from year-ago levels, but the firm's overall blockchain business gained traction."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T20:32:21+00:00",
+   "last_seen": "2026-10-27T20:32:21+00:00",
+   "summary": "Crypto trading volume fell 38% from year-ago levels, but the firm's overall blockchain business gained traction.",
+   "tags": []
+  },
+  {
+   "id": "b7c6df2a0e",
+   "title": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
+   "date": "2026-10-27T20:16:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Robinhood Taps Ripple's Stablecoin, Treasury Software and Trading Loans",
+     "url": "https://decrypt.co/382002/robinhood-taps-ripple-stablecoin-treasury-software-trading-loans",
+     "date": "2026-10-27T20:16:02+00:00",
+     "summary": "Ripple's RLUSD stablecoin is live on Robinhood Chain and Bitstamp, and heads to the Robinhood app later this year as the companies deepen ties in treasury and institutional trading."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T20:16:02+00:00",
+   "last_seen": "2026-10-27T20:16:02+00:00",
+   "summary": "Ripple's RLUSD stablecoin is live on Robinhood Chain and Bitstamp, and heads to the Robinhood app later this year as the companies deepen ties in treasury and institutional trading.",
+   "tags": [
+    "macro",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "c205cf777a",
+   "title": "Robinhood Chain Lifts Q3 Crypto Revenue to $120 Million",
+   "date": "2026-10-27T20:15:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Robinhood Chain Lifts Q3 Crypto Revenue to $120 Million",
+     "url": "https://thedefiant.io/news/cefi/robinhood-chain-lifts-q3-crypto-revenue-to-120-million",
+     "date": "2026-10-27T20:15:37+00:00",
+     "summary": "The network contributed $26 million, offsetting a decline in crypto revenue elsewhere, while company-wide revenue and earnings fell short of MarketBeat's consensus."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T20:15:37+00:00",
+   "last_seen": "2026-10-27T20:15:37+00:00",
+   "summary": "The network contributed $26 million, offsetting a decline in crypto revenue elsewhere, while company-wide revenue and earnings fell short of MarketBeat's consensus.",
+   "tags": []
+  },
+  {
+   "id": "5b5f354dc3",
+   "title": "Ripio Seeks Brazil Crypto Broker License Ahead of Filing Deadline",
+   "date": "2026-10-27T20:13:59+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ripio Seeks Brazil Crypto Broker License Ahead of Filing Deadline",
+     "url": "https://thedefiant.io/converge/regulation/ripio-seeks-brazil-crypto-broker-license-ahead-of-filing-deadline",
+     "date": "2026-10-27T20:13:59+00:00",
+     "summary": "The company also requested foreign-exchange authorization, while its existing Ripio Trade platform is scheduled to close on Nov. 30."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T20:13:59+00:00",
+   "last_seen": "2026-10-27T20:13:59+00:00",
+   "summary": "The company also requested foreign-exchange authorization, while its existing Ripio Trade platform is scheduled to close on Nov. 30.",
+   "tags": []
+  },
+  {
+   "id": "c5d0e8c4b6",
+   "title": "Ripple gets final US trust bank approval. What does XRP gain?",
+   "date": "2026-10-27T20:00:02+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ripple gets final US trust bank approval. What does XRP gain?",
+     "url": "https://cryptoslate.com/ripple-gets-final-us-trust-bank-approval-what-does-xrp-gain/",
+     "date": "2026-10-27T20:00:02+00:00",
+     "summary": "Ripple said it secured final US approval for a national trust bank despite objections from traditional banking groups concerned about crypto firms entering regulated finance. The company announced on Oct. 26 that the Office of the Comptroller of the Currency (OCC) had granted..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T20:00:02+00:00",
+   "last_seen": "2026-10-27T20:00:02+00:00",
+   "summary": "Ripple said it secured final US approval for a national trust bank despite objections from traditional banking groups concerned about crypto firms entering regulated finance. The company announced on Oct. 26 that the Office of the Comptroller of the Currency (OCC) had granted...",
+   "tags": []
+  },
+  {
+   "id": "92e10a5f3c",
+   "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+   "date": "2026-10-27T19:54:05+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ripple, Robinhood expand partnership to bring RLUSD to retail and institutional markets",
+     "url": "https://cointelegraph.com/news/ripple-robinhood-expand-partnership-rlusd-retail-institutional-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T19:54:05+00:00",
+     "summary": "Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trade finance settlement onto the XRP Ledger."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T19:54:05+00:00",
+   "last_seen": "2026-10-27T19:54:05+00:00",
+   "summary": "Ripple also expanded its collaboration with BNY on digital asset custody and partnered with C2FO to bring trade finance settlement onto the XRP Ledger.",
+   "tags": [
+    "legal"
+   ]
+  },
   {
    "id": "37d40d8153",
    "title": "Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom",

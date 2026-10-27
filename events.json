@@ -1,6 +1,184 @@
 {
- "updated": "2026-10-27T17:59:13.434372+00:00",
+ "updated": "2026-10-27T19:03:28.426230+00:00",
  "events": [
+  {
+   "id": "c9fdf85384",
+   "title": "Lightning tightens invoice rules after reported attack made Bitcoin withdrawals look unpaid",
+   "date": "2026-10-27T19:00:10+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Lightning tightens invoice rules after reported attack made Bitcoin withdrawals look unpaid",
+     "url": "https://cryptoslate.com/lightning-tightens-invoice-rules-after-reported-attack-made-bitcoin-withdrawals-look-unpaid/",
+     "date": "2026-10-27T19:00:10+00:00",
+     "summary": "BOLT11 now requires one payment hash and one payment secret, while operators must check how their software records withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T19:00:10+00:00",
+   "last_seen": "2026-10-27T19:00:10+00:00",
+   "summary": "BOLT11 now requires one payment hash and one payment secret, while operators must check how their software records withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "6e42785dba",
+   "title": "27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot",
+   "date": "2026-10-27T18:53:09+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot",
+     "url": "https://bitcoinmagazine.com/news/man-admits-role-in-failed-bitcoin-plot",
+     "date": "2026-10-27T18:53:09+00:00",
+     "summary": "Bitcoin Magazine 27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot A St. Louis man pleaded guilty in Hartford to conspiracy to commit Hobbs Act robbery over a failed August 2024 plot to steal bitcoin from a Connecticut family. This post 27-Year-Old Missouri..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T18:53:09+00:00",
+   "last_seen": "2026-10-27T18:53:09+00:00",
+   "summary": "Bitcoin Magazine 27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot A St. Louis man pleaded guilty in Hartford to conspiracy to commit Hobbs Act robbery over a failed August 2024 plot to steal bitcoin from a Connecticut family. This post 27-Year-Old Missouri...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "06054e41d3",
+   "title": "CFTC Again Probes Polymarket Over Whether It Let Americans Trade",
+   "date": "2026-10-27T18:29:16+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "CFTC Again Probes Polymarket Over Whether It Let Americans Trade",
+     "url": "https://bitcoinmagazine.com/news/cftc-reopens-questions-about-polymarkets",
+     "date": "2026-10-27T18:29:16+00:00",
+     "summary": "Bitcoin Magazine CFTC Again Probes Polymarket Over Whether It Let Americans Trade The CFTC is reportedly probing whether Polymarket broke its 2022 settlement by letting US users onto its offshore platform. This post CFTC Again Probes Polymarket Over Whether It Let Americans..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T18:29:16+00:00",
+   "last_seen": "2026-10-27T18:29:16+00:00",
+   "summary": "Bitcoin Magazine CFTC Again Probes Polymarket Over Whether It Let Americans Trade The CFTC is reportedly probing whether Polymarket broke its 2022 settlement by letting US users onto its offshore platform. This post CFTC Again Probes Polymarket Over Whether It Let Americans...",
+   "tags": [
+    "bitcoin",
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "20f01bedfc",
+   "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
+   "date": "2026-10-27T18:16:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
+     "url": "https://decrypt.co/381983/bitcoin-wallet-keystone-devices-destroyed-stolen-key",
+     "date": "2026-10-27T18:16:02+00:00",
+     "summary": "Attackers obtained the factory key that proves Keystone's hardware wallets are genuine, and 25,964 buyer records were affected. The company says recovery phrases and private keys were not involved."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T18:16:02+00:00",
+   "last_seen": "2026-10-27T18:16:02+00:00",
+   "summary": "Attackers obtained the factory key that proves Keystone's hardware wallets are genuine, and 25,964 buyer records were affected. The company says recovery phrases and private keys were not involved.",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "e67fb01310",
+   "title": "Circle\u2019s Arc Tops $1 Billion in USDC",
+   "date": "2026-10-27T18:16:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Circle\u2019s Arc Tops $1 Billion in USDC",
+     "url": "https://thedefiant.io/news/blockchains/circle-s-arc-tops-1-billion-in-usdc",
+     "date": "2026-10-27T18:16:00+00:00",
+     "summary": "Stablecoin market cap rose 32% in a week in DefiLlama\u2019s daily data, while four addresses hold about 73% of the network\u2019s USDC."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T18:16:00+00:00",
+   "last_seen": "2026-10-27T18:16:00+00:00",
+   "summary": "Stablecoin market cap rose 32% in a week in DefiLlama\u2019s daily data, while four addresses hold about 73% of the network\u2019s USDC.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "1159d5e9a1",
+   "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX\u2013ICE tokenized stock plans",
+   "date": "2026-10-27T18:13:02+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Intel, Oracle, IBM join growing list of firms objecting to OKX\u2013ICE tokenized stock plans",
+     "url": "https://www.coindesk.com/business/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
+     "date": "2026-10-27T18:13:02+00:00",
+     "summary": "The latest notice added four objections, bringing the total to 26 as the joint venture prepares to test the SEC\u2019s new framework for blockchain-based stock trading."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+     "url": "https://decrypt.co/381998/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-total-26",
+     "date": "2026-10-27T18:46:02+00:00",
+     "summary": "Intel, Oracle, IBM, and IonQ became the latest companies to object to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 26."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-10-27T18:13:02+00:00",
+   "last_seen": "2026-10-27T18:46:02+00:00",
+   "summary": "Intel, Oracle, IBM, and IonQ became the latest companies to object to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 26.",
+   "tags": [
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "27f65f213b",
+   "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
+   "date": "2026-10-27T18:08:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
+     "url": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-27T18:08:00+00:00",
+     "summary": "The September survey offered a possible window into US voters who could consider fintech and digital asset policies on Election Day."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T18:08:00+00:00",
+   "last_seen": "2026-10-27T18:08:00+00:00",
+   "summary": "The September survey offered a possible window into US voters who could consider fintech and digital asset policies on Election Day.",
+   "tags": []
+  },
+  {
+   "id": "e156d6dd6c",
+   "title": "Iran-linked Bitcoin activity fell about 80%, then rebounded during the blackout",
+   "date": "2026-10-27T18:00:28+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Iran-linked Bitcoin activity fell about 80%, then rebounded during the blackout",
+     "url": "https://cryptoslate.com/iran-linked-bitcoin-activity-fell-about-80-then-rebounded-during-the-blackout/",
+     "date": "2026-10-27T18:00:28+00:00",
+     "summary": "Chainalysis\u2019s Oct. 26 report tracks a collapse and recovery in activity it classifies as everyday use, while household access remains unmeasured. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T18:00:28+00:00",
+   "last_seen": "2026-10-27T18:00:28+00:00",
+   "summary": "Chainalysis\u2019s Oct. 26 report tracks a collapse and recovery in activity it classifies as everyday use, while household access remains unmeasured. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "4ce8fc0c61",
    "title": "Next Week\u2019s Midterms Could Stall the CLARITY Act and Test Crypto\u2019s Political Clout: TD Cowen",
@@ -136,13 +314,21 @@
      "url": "https://thedefiant.io/news/regulation/cftc-sues-utah-to-block-prediction-market-enforcement",
      "date": "2026-10-27T17:06:19+00:00",
      "summary": "The federal complaint targets Utah's case against Kalshi and Susquehanna, seeking to bar investigations as well as enforcement against federally regulated markets."
+    },
+    {
+     "source": "The Block",
+     "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
+     "url": "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
+     "date": "2026-10-27T18:51:46+00:00",
+     "summary": "The CFTC is escalating its legal fight with states, suing Utah after the state filed a lawsuit against prediction market platform Kalshi."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-27T17:06:19+00:00",
-   "last_seen": "2026-10-27T17:06:19+00:00",
+   "last_seen": "2026-10-27T18:51:46+00:00",
    "summary": "The federal complaint targets Utah's case against Kalshi and Susquehanna, seeking to bar investigations as well as enforcement against federally regulated markets.",
    "tags": [
+    "legal",
     "regulation"
    ]
   },

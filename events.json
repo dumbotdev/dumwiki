@@ -1,6 +1,151 @@
 {
- "updated": "2026-10-27T17:03:22.375794+00:00",
+ "updated": "2026-10-27T17:59:13.434372+00:00",
  "events": [
+  {
+   "id": "4ce8fc0c61",
+   "title": "Next Week\u2019s Midterms Could Stall the CLARITY Act and Test Crypto\u2019s Political Clout: TD Cowen",
+   "date": "2026-10-27T17:48:18+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Next Week\u2019s Midterms Could Stall the CLARITY Act and Test Crypto\u2019s Political Clout: TD Cowen",
+     "url": "https://bitcoinmagazine.com/politics/next-weeks-midterm-elections-crypto",
+     "date": "2026-10-27T17:48:18+00:00",
+     "summary": "Bitcoin Magazine Next Week&#8217;s Midterms Could Stall the CLARITY Act and Test Crypto\u2019s Political Clout: TD Cowen TD Cowen says a Democratic sweep would stall the CLARITY Act, while regulators keep advancing rules that favor the crypto sector. This post Next Week&#8217;s..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T17:48:18+00:00",
+   "last_seen": "2026-10-27T17:48:18+00:00",
+   "summary": "Bitcoin Magazine Next Week&#8217;s Midterms Could Stall the CLARITY Act and Test Crypto\u2019s Political Clout: TD Cowen TD Cowen says a Democratic sweep would stall the CLARITY Act, while regulators keep advancing rules that favor the crypto sector. This post Next Week&#8217;s...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "56c7880513",
+   "title": "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
+   "date": "2026-10-27T17:45:18+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
+     "url": "https://decrypt.co/381982/circle-pushes-deeper-latin-america-usdc-settlement-colombia",
+     "date": "2026-10-27T17:45:18+00:00",
+     "summary": "A collaboration with payments-tech firm ACI Worldwide will pilot folding USDC settlement into Colombia\u2019s instant-payments network."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T17:45:18+00:00",
+   "last_seen": "2026-10-27T17:45:18+00:00",
+   "summary": "A collaboration with payments-tech firm ACI Worldwide will pilot folding USDC settlement into Colombia\u2019s instant-payments network.",
+   "tags": [
+    "legal",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "6efcd87abf",
+   "title": "Uniswap Fee Switch: Deployment Status, TokenJars and UNI Burns",
+   "date": "2026-10-27T17:28:20+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Uniswap Fee Switch: Deployment Status, TokenJars and UNI Burns",
+     "url": "https://thedefiant.io/news/defi/uniswap-fee-switch-deployment-status-tokenjars-and-uni-burns",
+     "date": "2026-10-27T17:28:20+00:00",
+     "summary": "A version-and-chain reference separates governance approval, activated fee settings, collected assets and completed UNI burns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T17:28:20+00:00",
+   "last_seen": "2026-10-27T17:28:20+00:00",
+   "summary": "A version-and-chain reference separates governance approval, activated fee settings, collected assets and completed UNI burns.",
+   "tags": []
+  },
+  {
+   "id": "33695114e5",
+   "title": "US Charges Six in Alleged Madagascar NFT Wallet-Draining Scheme",
+   "date": "2026-10-27T17:26:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "US Charges Six in Alleged Madagascar NFT Wallet-Draining Scheme",
+     "url": "https://thedefiant.io/news/security/us-charges-six-in-alleged-madagascar-nft-wallet-draining-scheme",
+     "date": "2026-10-27T17:26:54+00:00",
+     "summary": "An FBI affidavit estimates at least $516,695 in losses across 74 victim-linked wallets and describes unlimited USDT spending approvals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T17:26:54+00:00",
+   "last_seen": "2026-10-27T17:26:54+00:00",
+   "summary": "An FBI affidavit estimates at least $516,695 in losses across 74 victim-linked wallets and describes unlimited USDT spending approvals.",
+   "tags": [
+    "nfts",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "095d567081",
+   "title": "Aave vs. Bitso USDC Prime: What Lenders Hold and What Limits Exits",
+   "date": "2026-10-27T17:14:45+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aave vs. Bitso USDC Prime: What Lenders Hold and What Limits Exits",
+     "url": "https://thedefiant.io/news/defi/aave-vs-bitso-usdc-prime-what-lenders-hold-and-what-limits-exits",
+     "date": "2026-10-27T17:14:45+00:00",
+     "summary": "A direct Aave deposit earns through one reserve; Bitso\u2019s Morpho vault delegates allocations to a curator. Neither balance guarantees immediate USDC withdrawals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T17:14:45+00:00",
+   "last_seen": "2026-10-27T17:14:45+00:00",
+   "summary": "A direct Aave deposit earns through one reserve; Bitso\u2019s Morpho vault delegates allocations to a curator. Neither balance guarantees immediate USDC withdrawals.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "0258b67faf",
+   "title": "Crypto.com and OG.com launch US crypto perps with up to 5x leverage",
+   "date": "2026-10-27T17:07:10+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Crypto.com and OG.com launch US crypto perps with up to 5x leverage",
+     "url": "https://www.theblock.co/news/markets/2026-10-27-crypto-com-og-com-launch-us-crypto-perps-up-to-5x-leverage-431902",
+     "date": "2026-10-27T17:07:10+00:00",
+     "summary": "The contracts have no expiration date and allow traders to bet on crypto prices rising or falling."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T17:07:10+00:00",
+   "last_seen": "2026-10-27T17:07:10+00:00",
+   "summary": "The contracts have no expiration date and allow traders to bet on crypto prices rising or falling.",
+   "tags": []
+  },
+  {
+   "id": "b6043cbfaf",
+   "title": "CFTC Sues Utah to Block Prediction-Market Enforcement",
+   "date": "2026-10-27T17:06:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "CFTC Sues Utah to Block Prediction-Market Enforcement",
+     "url": "https://thedefiant.io/news/regulation/cftc-sues-utah-to-block-prediction-market-enforcement",
+     "date": "2026-10-27T17:06:19+00:00",
+     "summary": "The federal complaint targets Utah's case against Kalshi and Susquehanna, seeking to bar investigations as well as enforcement against federally regulated markets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T17:06:19+00:00",
+   "last_seen": "2026-10-27T17:06:19+00:00",
+   "summary": "The federal complaint targets Utah's case against Kalshi and Susquehanna, seeking to bar investigations as well as enforcement against federally regulated markets.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "19ede91ca1",
    "title": "Kraken opens Bitcoin and Ethereum options to eligible European traders",
@@ -170,6 +315,27 @@
    "last_seen": "2026-10-27T16:41:18+00:00",
    "summary": "Holders on both sides are promised automatic refunds at pre-attack prices, less any winnings already claimed.",
    "tags": []
+  },
+  {
+   "id": "0a29f9313f",
+   "title": "Robinhood taps Ripple\u2019s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+   "date": "2026-10-27T16:35:29+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Robinhood taps Ripple\u2019s $2.5 billion RLUSD stablecoin despite backing rival USDG",
+     "url": "https://www.coindesk.com/business/2026/10/27/ripple-s-rlusd-stablecoin-is-coming-to-robinhood-s-28-6-million-customer-platform",
+     "date": "2026-10-27T16:35:29+00:00",
+     "summary": "Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T16:35:29+00:00",
+   "last_seen": "2026-10-27T16:35:29+00:00",
+   "summary": "Robinhood helped launch a rival dollar-backed token, USDG, but will also offer Ripple's stablecoin to retail customers later this year.",
+   "tags": [
+    "stablecoins"
+   ]
   },
   {
    "id": "79cd5ef0aa",

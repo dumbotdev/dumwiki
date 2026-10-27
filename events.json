@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-27T05:52:28.611474+00:00",
+ "updated": "2026-10-27T07:09:33.581043+00:00",
  "events": [
+  {
+   "id": "2af5a8b54a",
+   "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
+   "date": "2026-10-27T06:28:34+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Circle faces up to 20% revenue risk from AI agents, Mizuho says",
+     "url": "https://www.theblock.co/news/business/2026-10-27-mizuho-cuts-circle-price-target-431826",
+     "date": "2026-10-27T06:28:34+00:00",
+     "summary": "Mizuho cited 10-20% medium-term reserve revenue downside risk as AI agents steer USDC holders toward higher-yielding fiat alternatives."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T06:28:34+00:00",
+   "last_seen": "2026-10-27T06:28:34+00:00",
+   "summary": "Mizuho cited 10-20% medium-term reserve revenue downside risk as AI agents steer USDC holders toward higher-yielding fiat alternatives.",
+   "tags": [
+    "ai",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "9ef8e3e4c6",
+   "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+   "date": "2026-10-27T06:14:41+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Zcash co-founder proposes ending grants funding, citing $125 million treasury",
+     "url": "https://www.coindesk.com/markets/2026/10/27/zcash-co-founder-proposes-ending-grants-funding-citing-usd125-million-treasury",
+     "date": "2026-10-27T06:14:41+00:00",
+     "summary": "Sean Bowe\u2019s proposal would send the committee\u2019s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-27T06:14:41+00:00",
+   "last_seen": "2026-10-27T06:14:41+00:00",
+   "summary": "Sean Bowe\u2019s proposal would send the committee\u2019s 8% share of newly created ZEC to a reserve for future miners. The committee would keep the money it has already received.",
+   "tags": [
+    "funding",
+    "macro"
+   ]
+  },
   {
    "id": "d3e8157056",
    "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",

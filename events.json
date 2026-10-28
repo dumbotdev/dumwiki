@@ -1,6 +1,180 @@
 {
- "updated": "2026-10-28T15:09:49.575917+00:00",
+ "updated": "2026-10-28T16:08:30.634068+00:00",
  "events": [
+  {
+   "id": "269bb33420",
+   "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
+   "date": "2026-10-28T16:07:08+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
+     "url": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010",
+     "date": "2026-10-28T16:07:08+00:00",
+     "summary": "Bitwise's bear case puts bitcoin at $130,686 by 2036, while its bull case reaches $3.67 million over the next decade."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T16:07:08+00:00",
+   "last_seen": "2026-10-28T16:07:08+00:00",
+   "summary": "Bitwise's bear case puts bitcoin at $130,686 by 2036, while its bull case reaches $3.67 million over the next decade.",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "9c9836233a",
+   "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+   "date": "2026-10-28T16:01:36+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto Long & Short: What happens when an AI agent pays for the wrong thing",
+     "url": "https://www.coindesk.com/coindesk-indices/2026/10/28/crypto-long-and-short-what-happens-when-an-ai-agent-pays-for-the-wrong-thing",
+     "date": "2026-10-28T16:01:36+00:00",
+     "summary": "DEK: The largest card networks now sit in the top governance tier of x402, the standard that AI agents use to pay for things online. Albert Castellana of GenLayer Labs explains why that standard has no way to dispute a charge, and what happens when the payment settles but the..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T16:01:36+00:00",
+   "last_seen": "2026-10-28T16:01:36+00:00",
+   "summary": "DEK: The largest card networks now sit in the top governance tier of x402, the standard that AI agents use to pay for things online. Albert Castellana of GenLayer Labs explains why that standard has no way to dispute a charge, and what happens when the payment settles but the...",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "97a55241f7",
+   "title": "Coinbase adds Ripple\u2019s RLUSD stablecoin across retail, exchange and Prime platforms",
+   "date": "2026-10-28T15:56:36+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Coinbase adds Ripple\u2019s RLUSD stablecoin across retail, exchange and Prime platforms",
+     "url": "https://www.theblock.co/news/business/2026-10-28-coinbase-adds-ripple-rlusd-stablecoin-432009",
+     "date": "2026-10-28T15:56:36+00:00",
+     "summary": "RLUSD is live on Coinbase with 1:1 USD conversion on XRP Ledger, Ethereum and Base, capping a big week of news for Ripple."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T15:56:36+00:00",
+   "last_seen": "2026-10-28T15:56:36+00:00",
+   "summary": "RLUSD is live on Coinbase with 1:1 USD conversion on XRP Ledger, Ethereum and Base, capping a big week of news for Ripple.",
+   "tags": [
+    "ethereum",
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "86f45dbed2",
+   "title": "US Sanctions Crypto Facilitators Linked to North Korean IT Worker Schemes",
+   "date": "2026-10-28T15:53:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "US Sanctions Crypto Facilitators Linked to North Korean IT Worker Schemes",
+     "url": "https://thedefiant.io/news/regulation/us-sanctions-crypto-facilitators-linked-to-north-korean-it-worker-schemes",
+     "date": "2026-10-28T15:53:35+00:00",
+     "summary": "The new SDN entries identify eight distinct Ethereum and Tron addresses, including one listed under both Russian intermediaries."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T15:53:35+00:00",
+   "last_seen": "2026-10-28T15:53:35+00:00",
+   "summary": "The new SDN entries identify eight distinct Ethereum and Tron addresses, including one listed under both Russian intermediaries.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "829fb64618",
+   "title": "Kamino Opens USDC Loans Against Backpack Tokenized Stocks",
+   "date": "2026-10-28T15:44:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Kamino Opens USDC Loans Against Backpack Tokenized Stocks",
+     "url": "https://thedefiant.io/news/defi/kamino-opens-usdc-loans-against-backpack-tokenized-stocks",
+     "date": "2026-10-28T15:44:37+00:00",
+     "summary": "Borrowers can access up to 40% of collateral value, while the market holds its last equity price outside US trading sessions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T15:44:37+00:00",
+   "last_seen": "2026-10-28T15:44:37+00:00",
+   "summary": "Borrowers can access up to 40% of collateral value, while the market holds its last equity price outside US trading sessions.",
+   "tags": [
+    "markets",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "bf3968494f",
+   "title": "Ethereum client security fixes leave binary users with a separate Java check",
+   "date": "2026-10-28T15:40:51+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum client security fixes leave binary users with a separate Java check",
+     "url": "https://cryptoslate.com/ethereum-client-security-fixes-leave-binary-users-with-a-separate-java-check/",
+     "date": "2026-10-28T15:40:51+00:00",
+     "summary": "Teku and Besu Docker releases fix certificate trust, while binary users need to check their separately installed Java runtime. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T15:40:51+00:00",
+   "last_seen": "2026-10-28T15:40:51+00:00",
+   "summary": "Teku and Besu Docker releases fix certificate trust, while binary users need to check their separately installed Java runtime. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "3e61dbf6b7",
+   "title": "Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks",
+   "date": "2026-10-28T15:32:08+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks",
+     "url": "https://bitcoinmagazine.com/news/strategy-shareholders-daily-dividends",
+     "date": "2026-10-28T15:32:08+00:00",
+     "summary": "Bitcoin Magazine Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks Strategy (MSTR) shareholders approved paying daily dividends on four of its preferred stocks. This post Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T15:32:08+00:00",
+   "last_seen": "2026-10-28T15:32:08+00:00",
+   "summary": "Bitcoin Magazine Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks Strategy (MSTR) shareholders approved paying daily dividends on four of its preferred stocks. This post Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "2f194e0284",
+   "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
+   "date": "2026-10-28T15:15:34+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Fed Rate Decision: What Markets and Bitcoin Traders Can Expect",
+     "url": "https://decrypt.co/382044/fed-rate-decision-what-markets-bitcoin-traders-expect",
+     "date": "2026-10-28T15:15:34+00:00",
+     "summary": "The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T15:15:34+00:00",
+   "last_seen": "2026-10-28T15:15:34+00:00",
+   "summary": "The Federal Reserve decides today at 2 p.m. ET and traders see a hold as near certain. Here's what it means for Bitcoin and stock markets.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
   {
    "id": "0672c74921",
    "title": "Bitwise Raises Bitcoin Target to $1.6 Million as Institutions Keep Buying",

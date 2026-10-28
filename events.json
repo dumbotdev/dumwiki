@@ -1,6 +1,154 @@
 {
- "updated": "2026-10-28T18:00:01.148785+00:00",
+ "updated": "2026-10-28T19:10:50.575095+00:00",
  "events": [
+  {
+   "id": "baab20d485",
+   "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+   "date": "2026-10-28T19:01:53+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",
+     "url": "https://www.coindesk.com/policy/2026/10/28/cftc-chief-poses-questions-about-policing-ai-but-calls-it-a-road-to-autonomous-trading",
+     "date": "2026-10-28T19:01:53+00:00",
+     "summary": "The U.S. Commodity Futures Trading Commission held a forum in which the chairman, Mike Selig, suggested AI agents may usher in a financial revolution."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T19:01:53+00:00",
+   "last_seen": "2026-10-28T19:01:53+00:00",
+   "summary": "The U.S. Commodity Futures Trading Commission held a forum in which the chairman, Mike Selig, suggested AI agents may usher in a financial revolution.",
+   "tags": [
+    "ai",
+    "regulation"
+   ]
+  },
+  {
+   "id": "e75bbfe103",
+   "title": "Polymarket built a $14 billion US trading business almost entirely on sports bets",
+   "date": "2026-10-28T18:40:30+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Polymarket built a $14 billion US trading business almost entirely on sports bets",
+     "url": "https://cryptoslate.com/polymarket-built-a-14-billion-us-trading-business-almost-entirely-on-sports-bets/",
+     "date": "2026-10-28T18:40:30+00:00",
+     "summary": "The 30-day face-value tally compares with $3.4 billion paid for contracts, while Reuters reports renewed offshore-access scrutiny and separate US customer-protection checks. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T18:40:30+00:00",
+   "last_seen": "2026-10-28T18:40:30+00:00",
+   "summary": "The 30-day face-value tally compares with $3.4 billion paid for contracts, while Reuters reports renewed offshore-access scrutiny and separate US customer-protection checks. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get...",
+   "tags": []
+  },
+  {
+   "id": "5382b1b072",
+   "title": "Yield Basis Discloses Fee-Bypass Route, Proposes WETH Fix",
+   "date": "2026-10-28T18:38:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Yield Basis Discloses Fee-Bypass Route, Proposes WETH Fix",
+     "url": "https://thedefiant.io/news/security/yield-basis-discloses-fee-bypass-route-proposes-weth-fix",
+     "date": "2026-10-28T18:38:18+00:00",
+     "summary": "The proposed policy adds a debt-ratio check for deposits alongside Pyth-linked swap fees. Yield Basis voting is scheduled to end Oct. 29."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T18:38:18+00:00",
+   "last_seen": "2026-10-28T18:38:18+00:00",
+   "summary": "The proposed policy adds a debt-ratio check for deposits alongside Pyth-linked swap fees. Yield Basis voting is scheduled to end Oct. 29.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "39345b1343",
+   "title": "Fed Stands Pat, Bitcoin Holds Steady\u2014But a December Rate Hike Is in Play",
+   "date": "2026-10-28T18:25:18+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Fed Stands Pat, Bitcoin Holds Steady\u2014But a December Rate Hike Is in Play",
+     "url": "https://decrypt.co/382092/fed-hold-interest-rate-steady-bitcoin-december-rate-hike",
+     "date": "2026-10-28T18:25:18+00:00",
+     "summary": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T18:25:18+00:00",
+   "last_seen": "2026-10-28T18:25:18+00:00",
+   "summary": "The Federal Reserve left rates unchanged Wednesday in a 10-2 vote, with Governor Lisa Cook and Cleveland Fed President Beth Hammack favoring a hike.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "f2ce656624",
+   "title": "Fed Holds Rates at 3.75%-4% as Bitcoin Gives Back Brief Gain",
+   "date": "2026-10-28T18:12:28+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Fed Holds Rates at 3.75%-4% as Bitcoin Gives Back Brief Gain",
+     "url": "https://thedefiant.io/news/markets/fed-holds-rates-at-3-75-4-as-bitcoin-gives-back-brief-gain",
+     "date": "2026-10-28T18:12:28+00:00",
+     "summary": "Lisa Cook and Beth Hammack dissented in favor of a quarter-point increase, following September's unanimous rate hike."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T18:12:28+00:00",
+   "last_seen": "2026-10-28T18:12:28+00:00",
+   "summary": "Lisa Cook and Beth Hammack dissented in favor of a quarter-point increase, following September's unanimous rate hike.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "aaefa86c04",
+   "title": "Crypto isn\u2019t a partisan fight, proven by data",
+   "date": "2026-10-28T18:11:31+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto isn\u2019t a partisan fight, proven by data",
+     "url": "https://www.coindesk.com/opinion/2026/10/28/crypto-isn-t-a-partisan-fight-proven-by-data",
+     "date": "2026-10-28T18:11:31+00:00",
+     "summary": "Treating crypto as a political battleground only makes it harder to build the secure, transparent, American-made financial system that most Americans say they want, argues DeFi Education Fund\u2019s Jennifer Rosenthal."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T18:11:31+00:00",
+   "last_seen": "2026-10-28T18:11:31+00:00",
+   "summary": "Treating crypto as a political battleground only makes it harder to build the secure, transparent, American-made financial system that most Americans say they want, argues DeFi Education Fund\u2019s Jennifer Rosenthal.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "c49609822c",
+   "title": "Fed leaves interest rates unchanged, as expected",
+   "date": "2026-10-28T18:00:42+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Fed leaves interest rates unchanged, as expected",
+     "url": "https://www.coindesk.com/markets/2026/10/28/fed-leaves-interest-rates-unchanged-as-expected",
+     "date": "2026-10-28T18:00:42+00:00",
+     "summary": "A rate hike in December remains likely as the U.S. central bank continues to focus on inflation, which remains well above its 2% target."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T18:00:42+00:00",
+   "last_seen": "2026-10-28T18:00:42+00:00",
+   "summary": "A rate hike in December remains likely as the U.S. central bank continues to focus on inflation, which remains well above its 2% target.",
+   "tags": [
+    "macro"
+   ]
+  },
   {
    "id": "b8f9173346",
    "title": "Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures",
@@ -490,14 +638,22 @@
      "url": "https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor",
      "date": "2026-10-28T17:03:32+00:00",
      "summary": "STRC will begin paying dividends for every calendar day from November, with STRF, STRK and STRD following in January."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Strategy shareholders approve daily dividends for four preferred stocks",
+     "url": "https://cointelegraph.com/news/strategy-shareholders-approve-daily-dividends-for-four-preferred-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T18:00:54+00:00",
+     "summary": "The largest Bitcoin treasury company will begin daily dividend payments on STRC in November, with three other preferred securities following in January 2027."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-10-28T15:32:08+00:00",
-   "last_seen": "2026-10-28T17:03:32+00:00",
+   "last_seen": "2026-10-28T18:00:54+00:00",
    "summary": "Bitcoin Magazine Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks Strategy (MSTR) shareholders approved paying daily dividends on four of its preferred stocks. This post Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks...",
    "tags": [
-    "bitcoin"
+    "bitcoin",
+    "macro"
    ]
   },
   {
@@ -2199,11 +2355,18 @@
      "url": "https://thedefiant.io/news/security/liquid-reserve-gap-narrows-to-600-btc-after-test-transfer",
      "date": "2026-10-27T20:45:58+00:00",
      "summary": "Samson Mow says the remaining funds will arrive in coming days; the federation's recovery plan requires full backing before direct peg-outs resume."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Liquid Reserve Gap Falls to 550 BTC After 50 BTC Transfer",
+     "url": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-550-btc-after-50-btc-transfer",
+     "date": "2026-10-28T18:13:39+00:00",
+     "summary": "L-BTC reserve coverage reaches about 87.07%, while user swaps remain available and normal federation peg-outs remain restricted."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-10-27T20:45:58+00:00",
-   "last_seen": "2026-10-27T20:45:58+00:00",
+   "last_seen": "2026-10-28T18:13:39+00:00",
    "summary": "Samson Mow says the remaining funds will arrive in coming days; the federation's recovery plan requires full backing before direct peg-outs resume.",
    "tags": [
     "bitcoin"

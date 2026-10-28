@@ -1,6 +1,169 @@
 {
- "updated": "2026-10-28T16:08:30.634068+00:00",
+ "updated": "2026-10-28T17:07:46.792048+00:00",
  "events": [
+  {
+   "id": "e5d70a7d55",
+   "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street\u2019s bullish outlook",
+   "date": "2026-10-28T17:06:24+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street\u2019s bullish outlook",
+     "url": "https://www.theblock.co/news/business/2026-10-28-robinhood-earnings-miss-crypto-weakness-wall-street-bullish-outlook-432011",
+     "date": "2026-10-28T17:06:24+00:00",
+     "summary": "Bernstein sees Robinhood\u2019s crypto business shifting toward infrastructure as new products like prediction markets and perps gain ground."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T17:06:24+00:00",
+   "last_seen": "2026-10-28T17:06:24+00:00",
+   "summary": "Bernstein sees Robinhood\u2019s crypto business shifting toward infrastructure as new products like prediction markets and perps gain ground.",
+   "tags": []
+  },
+  {
+   "id": "317cf8ceec",
+   "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+   "date": "2026-10-28T17:02:57+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Coinbase earnings: Wall Street divided on trading rebound after Robinhood crypto revenue sinks 55%",
+     "url": "https://www.coindesk.com/markets/2026/10/28/coinbase-earnings-wall-street-divided-on-trading-rebound-as-robinhood-crypto-revenue-sinks-55",
+     "date": "2026-10-28T17:02:57+00:00",
+     "summary": "Coinbase faces a key earnings test as analysts debate the strength of its trading rebound following a sharp drop in Robinhood's crypto revenue."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T17:02:57+00:00",
+   "last_seen": "2026-10-28T17:02:57+00:00",
+   "summary": "Coinbase faces a key earnings test as analysts debate the strength of its trading rebound following a sharp drop in Robinhood's crypto revenue.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "c015296efe",
+   "title": "Robinhood Adds Eight Stock and ETF Tokens to Its Chain",
+   "date": "2026-10-28T16:56:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Robinhood Adds Eight Stock and ETF Tokens to Its Chain",
+     "url": "https://thedefiant.io/news/blockchains/robinhood-adds-eight-stock-and-etf-tokens-to-its-chain",
+     "date": "2026-10-28T16:56:48+00:00",
+     "summary": "DefiLlama tracks $246.7 million in real-world assets deployed in DeFi on the network, where stock tokens already support trading and collateralized borrowing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T16:56:48+00:00",
+   "last_seen": "2026-10-28T16:56:48+00:00",
+   "summary": "DefiLlama tracks $246.7 million in real-world assets deployed in DeFi on the network, where stock tokens already support trading and collateralized borrowing.",
+   "tags": [
+    "defi",
+    "etfs"
+   ]
+  },
+  {
+   "id": "bfe21e1efa",
+   "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
+   "date": "2026-10-28T16:53:26+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
+     "url": "https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T16:53:26+00:00",
+     "summary": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T16:53:26+00:00",
+   "last_seen": "2026-10-28T16:53:26+00:00",
+   "summary": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "5e3e4a9576",
+   "title": "Phantom launches Kalshi-powered prediction markets for US users",
+   "date": "2026-10-28T16:40:02+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Phantom launches Kalshi-powered prediction markets for US users",
+     "url": "https://cointelegraph.com/news/phantom-launches-kalshi-powered-prediction-markets-for-us-users?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T16:40:02+00:00",
+     "summary": "The crypto wallet\u2019s new integration offers CFTC-regulated event contracts through Kalshi, as prediction markets face growing legal challenges in the US."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T16:40:02+00:00",
+   "last_seen": "2026-10-28T16:40:02+00:00",
+   "summary": "The crypto wallet\u2019s new integration offers CFTC-regulated event contracts through Kalshi, as prediction markets face growing legal challenges in the US.",
+   "tags": []
+  },
+  {
+   "id": "4aac73bf94",
+   "title": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
+   "date": "2026-10-28T16:22:58+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Aptos Advisor Leaves Post, Moves Meme-Fueled Campaign to Meta Stock",
+     "url": "https://decrypt.co/382061/aptos-advisor-leaves-post-moves-meme-fueled-campaign-to-meta-stock",
+     "date": "2026-10-28T16:22:58+00:00",
+     "summary": "Former Aptos advisor \"Buzz\u201d has left the crypto project and is turning his attention to Facebook's parent company Meta\u2014here's why."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T16:22:58+00:00",
+   "last_seen": "2026-10-28T16:22:58+00:00",
+   "summary": "Former Aptos advisor \"Buzz\u201d has left the crypto project and is turning his attention to Facebook's parent company Meta\u2014here's why.",
+   "tags": []
+  },
+  {
+   "id": "95591a0c58",
+   "title": "Pump.fun Sets Nov. 9 Start for Elysium Trading in Its App",
+   "date": "2026-10-28T16:16:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Pump.fun Sets Nov. 9 Start for Elysium Trading in Its App",
+     "url": "https://thedefiant.io/news/defi/pump-fun-sets-nov-9-start-for-elysium-trading-in-its-app",
+     "date": "2026-10-28T16:16:54+00:00",
+     "summary": "The planned addition follows the app's live Hyperliquid perps rollout; Elysium is a separate rollup that settles to HyperEVM."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T16:16:54+00:00",
+   "last_seen": "2026-10-28T16:16:54+00:00",
+   "summary": "The planned addition follows the app's live Hyperliquid perps rollout; Elysium is a separate rollup that settles to HyperEVM.",
+   "tags": []
+  },
+  {
+   "id": "51f2288fe8",
+   "title": "Wall Street\u2019s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
+   "date": "2026-10-28T16:15:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Wall Street\u2019s Fast Money Fled Bitcoin ETFs, Sovereign Funds Stepped In",
+     "url": "https://decrypt.co/382059/wall-street-fast-money-fled-bitcoin-etfs-sovereign-funds",
+     "date": "2026-10-28T16:15:02+00:00",
+     "summary": "Galaxy Research found that nine hedge funds and banks cut 68,000 BTC worth of spot ETF exposure as the cash-and-carry trade dried up, while wealth platforms and sovereign funds added."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T16:15:02+00:00",
+   "last_seen": "2026-10-28T16:15:02+00:00",
+   "summary": "Galaxy Research found that nine hedge funds and banks cut 68,000 BTC worth of spot ETF exposure as the cash-and-carry trade dried up, while wealth platforms and sovereign funds added.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
   {
    "id": "269bb33420",
    "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns",
@@ -143,11 +306,18 @@
      "url": "https://bitcoinmagazine.com/news/strategy-shareholders-daily-dividends",
      "date": "2026-10-28T15:32:08+00:00",
      "summary": "Bitcoin Magazine Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks Strategy (MSTR) shareholders approved paying daily dividends on four of its preferred stocks. This post Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks..."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Strategy Shareholders Approve Daily Dividends on Preferred Stock, With 99.3% in Favor",
+     "url": "https://decrypt.co/382066/strategy-shareholders-approve-daily-dividends-on-preferred-stock-with-99-3-in-favor",
+     "date": "2026-10-28T17:03:32+00:00",
+     "summary": "STRC will begin paying dividends for every calendar day from November, with STRF, STRK and STRD following in January."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-28T15:32:08+00:00",
-   "last_seen": "2026-10-28T15:32:08+00:00",
+   "last_seen": "2026-10-28T17:03:32+00:00",
    "summary": "Bitcoin Magazine Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks Strategy (MSTR) shareholders approved paying daily dividends on four of its preferred stocks. This post Strategy (MSTR) Shareholders Approve Daily Dividends on Four Preferred Stocks...",
    "tags": [
     "bitcoin"

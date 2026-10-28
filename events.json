@@ -1,6 +1,92 @@
 {
- "updated": "2026-10-28T20:00:19.684922+00:00",
+ "updated": "2026-10-28T20:59:44.940637+00:00",
  "events": [
+  {
+   "id": "f7e11b3ef0",
+   "title": "Robinhood posts record $1.4 billion revenue, but a 14% profit drop exposes hidden portfolio losses",
+   "date": "2026-10-28T20:50:25+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Robinhood posts record $1.4 billion revenue, but a 14% profit drop exposes hidden portfolio losses",
+     "url": "https://cryptoslate.com/robinhood-posts-record-1-4-billion-revenue-but-a-14-profit-drop-exposes-hidden-portfolio-losses/",
+     "date": "2026-10-28T20:50:25+00:00",
+     "summary": "Prediction markets generated $173 million against crypto&#039;s $120 million in Q3, raising the stakes of a continuing state-federal regulatory fight. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T20:50:25+00:00",
+   "last_seen": "2026-10-28T20:50:25+00:00",
+   "summary": "Prediction markets generated $173 million against crypto&#039;s $120 million in Q3, raising the stakes of a continuing state-federal regulatory fight. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": []
+  },
+  {
+   "id": "62cf523e99",
+   "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
+   "date": "2026-10-28T20:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
+     "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
+     "date": "2026-10-28T20:16:03+00:00",
+     "summary": "The cloud and AI security firm Upwind says revenue quadrupled in 2026 as it targets risks from autonomous AI agents."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T20:16:03+00:00",
+   "last_seen": "2026-10-28T20:16:03+00:00",
+   "summary": "The cloud and AI security firm Upwind says revenue quadrupled in 2026 as it targets risks from autonomous AI agents.",
+   "tags": [
+    "ai",
+    "funding"
+   ]
+  },
+  {
+   "id": "eca378fc2e",
+   "title": "Privacy Pools v2 Brings Shielded Payments and Yield to BNB Chain",
+   "date": "2026-10-28T20:09:45+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Privacy Pools v2 Brings Shielded Payments and Yield to BNB Chain",
+     "url": "https://thedefiant.io/news/defi/privacy-pools-v2-brings-shielded-payments-and-yield-to-bnb-chain",
+     "date": "2026-10-28T20:09:45+00:00",
+     "summary": "The deployment supports BNB and stablecoins including USDT, FDUSD and U, while private spending still requires 0xbow's deposit-screening approval."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T20:09:45+00:00",
+   "last_seen": "2026-10-28T20:09:45+00:00",
+   "summary": "The deployment supports BNB and stablecoins including USDT, FDUSD and U, while private spending still requires 0xbow's deposit-screening approval.",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "7de83cb881",
+   "title": "Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote",
+   "date": "2026-10-28T20:03:08+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-81500-fed",
+     "date": "2026-10-28T20:03:08+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote Bitcoin price held near $81,000 after the Federal Reserve kept rates at 3.75% to 4% in a 10-2 vote. This post Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T20:03:08+00:00",
+   "last_seen": "2026-10-28T20:03:08+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote Bitcoin price held near $81,000 after the Federal Reserve kept rates at 3.75% to 4% in a 10-2 vote. This post Bitcoin Price Trades Above $81,500 as Fed Keeps Rates Steady in Split Vote...",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
   {
    "id": "f5ce891122",
    "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",

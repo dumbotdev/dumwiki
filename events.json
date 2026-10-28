@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-28T20:59:44.940637+00:00",
+ "updated": "2026-10-28T21:57:13.914687+00:00",
  "events": [
+  {
+   "id": "ed6d2a0c61",
+   "title": "Canadian \u2018crypto king\u2019 case to go to jury as criminal trial winds down",
+   "date": "2026-10-28T21:35:52+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Canadian \u2018crypto king\u2019 case to go to jury as criminal trial winds down",
+     "url": "https://cointelegraph.com/news/canada-crypto-king-jury-criminal-trial-closing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T21:35:52+00:00",
+     "summary": "Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi scheme, said that he was innocent at closing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T21:35:52+00:00",
+   "last_seen": "2026-10-28T21:35:52+00:00",
+   "summary": "Aiden Pleterski, facing fraud charges in Canada over his alleged role in a digital asset Ponzi scheme, said that he was innocent at closing.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "63e29956b7",
+   "title": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
+   "date": "2026-10-28T21:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
+     "url": "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand",
+     "date": "2026-10-28T21:16:03+00:00",
+     "summary": "SK Hynix's quarterly revenue topped 100 trillion won for the first time, and the chipmaker says memory demand will outrun supply through 2030, with DRAM and HBM sold out through 2029."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T21:16:03+00:00",
+   "last_seen": "2026-10-28T21:16:03+00:00",
+   "summary": "SK Hynix's quarterly revenue topped 100 trillion won for the first time, and the chipmaker says memory demand will outrun supply through 2030, with DRAM and HBM sold out through 2029.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "bf1db0e55d",
+   "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+   "date": "2026-10-28T21:13:44+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin-backed mortgages are coming to Canada, but borrowers are still unaware of the cost",
+     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-backed-mortgages-are-coming-to-canada-but-borrowers-are-still-unaware-of-the-cost",
+     "date": "2026-10-28T21:13:44+00:00",
+     "summary": "Prospective borrowers face collateral liquidation risks if bitcoin prices drop, though APX said property and crypto collateral will be handled distinctly."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T21:13:44+00:00",
+   "last_seen": "2026-10-28T21:13:44+00:00",
+   "summary": "Prospective borrowers face collateral liquidation risks if bitcoin prices drop, though APX said property and crypto collateral will be handled distinctly.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
   {
    "id": "f7e11b3ef0",
    "title": "Robinhood posts record $1.4 billion revenue, but a 14% profit drop exposes hidden portfolio losses",
@@ -2058,12 +2122,19 @@
      "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
      "date": "2026-10-28T05:28:13+00:00",
      "summary": "The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be withdrawn."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Treasury Datavault AI Says It Can\u2019t Access Its BTC, Stock Tanks",
+     "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
+     "date": "2026-10-28T21:46:02+00:00",
+     "summary": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-28T05:28:13+00:00",
-   "last_seen": "2026-10-28T05:28:13+00:00",
-   "summary": "The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be withdrawn.",
+   "last_seen": "2026-10-28T21:46:02+00:00",
+   "summary": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June and will restate four financial reports tied to a $150 million Scilex deal.",
    "tags": [
     "ai",
     "bitcoin",

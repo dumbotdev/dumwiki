@@ -1,6 +1,46 @@
 {
- "updated": "2026-10-28T21:57:13.914687+00:00",
+ "updated": "2026-10-28T22:55:52.553297+00:00",
  "events": [
+  {
+   "id": "f2c09eaeca",
+   "title": "MEXC Sets France Exit Schedule as Brazil Licensing Deadline Nears",
+   "date": "2026-10-28T22:21:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "MEXC Sets France Exit Schedule as Brazil Licensing Deadline Nears",
+     "url": "https://thedefiant.io/news/cefi/mexc-sets-france-exit-schedule-as-brazil-licensing-deadline-nears",
+     "date": "2026-10-28T22:21:08+00:00",
+     "summary": "French users face phased trading restrictions and a March withdrawal cutoff. Brazil\u2019s rules give existing providers that miss the filing deadline 30 days to stop services."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T22:21:08+00:00",
+   "last_seen": "2026-10-28T22:21:08+00:00",
+   "summary": "French users face phased trading restrictions and a March withdrawal cutoff. Brazil\u2019s rules give existing providers that miss the filing deadline 30 days to stop services.",
+   "tags": []
+  },
+  {
+   "id": "55651007fe",
+   "title": "Ethena Pay\u2019s 11x leverage loop promises high yield, but risks hidden losses",
+   "date": "2026-10-28T22:10:04+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethena Pay\u2019s 11x leverage loop promises high yield, but risks hidden losses",
+     "url": "https://cryptoslate.com/ethena-pays-11x-leverage-loop-promises-high-yield-but-risks-hidden-losses/",
+     "date": "2026-10-28T22:10:04+00:00",
+     "summary": "Borrowing costs and funded exits determine the money left for users, while the vault\u2019s actual leverage and controls remain unverified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T22:10:04+00:00",
+   "last_seen": "2026-10-28T22:10:04+00:00",
+   "summary": "Borrowing costs and funded exits determine the money left for users, while the vault\u2019s actual leverage and controls remain unverified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "ed6d2a0c61",
    "title": "Canadian \u2018crypto king\u2019 case to go to jury as criminal trial winds down",

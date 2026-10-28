@@ -1,6 +1,115 @@
 {
- "updated": "2026-10-28T19:10:50.575095+00:00",
+ "updated": "2026-10-28T20:00:19.684922+00:00",
  "events": [
+  {
+   "id": "f5ce891122",
+   "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
+   "date": "2026-10-28T19:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
+     "url": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
+     "date": "2026-10-28T19:46:03+00:00",
+     "summary": "A survey conducted by Ipsos for the DeFi Education Fund found that 22% of Americans have ever owned or used crypto, up from 18%, while past-year use held flat at 13%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T19:46:03+00:00",
+   "last_seen": "2026-10-28T19:46:03+00:00",
+   "summary": "A survey conducted by Ipsos for the DeFi Education Fund found that 22% of Americans have ever owned or used crypto, up from 18%, while past-year use held flat at 13%.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "03dbfee586",
+   "title": "Coinbase says it wasn\u2019t breached, but hackers don\u2019t need to steal crypto to hurt users",
+   "date": "2026-10-28T19:40:47+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Coinbase says it wasn\u2019t breached, but hackers don\u2019t need to steal crypto to hurt users",
+     "url": "https://cryptoslate.com/coinbase-says-it-wasnt-breached-but-hackers-dont-need-to-steal-crypto-to-hurt-users/",
+     "date": "2026-10-28T19:40:47+00:00",
+     "summary": "Coinbase says funds were unaffected by the Amplitude incident, while disclosures in South Korea reveal different data exposures and unresolved customer risks. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T19:40:47+00:00",
+   "last_seen": "2026-10-28T19:40:47+00:00",
+   "summary": "Coinbase says funds were unaffected by the Amplitude incident, while disclosures in South Korea reveal different data exposures and unresolved customer risks. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "8e1f7992dd",
+   "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+   "date": "2026-10-28T19:16:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI Plans to Buy Google's AI Chips as It Looks Beyond Nvidia: Report",
+     "url": "https://decrypt.co/382090/openai-plans-buy-google-ai-chips-looks-beyond-nvidia",
+     "date": "2026-10-28T19:16:02+00:00",
+     "summary": "OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU chips. Neither company has confirmed the report, and the price and size of the order were not disclosed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T19:16:02+00:00",
+   "last_seen": "2026-10-28T19:16:02+00:00",
+   "summary": "OpenAI, one of Nvidia's biggest customers, reportedly plans to buy Google's TPU chips. Neither company has confirmed the report, and the price and size of the order were not disclosed.",
+   "tags": [
+    "ai",
+    "markets"
+   ]
+  },
+  {
+   "id": "1fd09c5c30",
+   "title": "Aave Raises Bitcoin and Ether Collateral Borrowing Limits Across V3 and V4",
+   "date": "2026-10-28T19:14:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aave Raises Bitcoin and Ether Collateral Borrowing Limits Across V3 and V4",
+     "url": "https://thedefiant.io/news/defi/aave-raises-bitcoin-and-ether-collateral-borrowing-limits-across-v3-and-v4",
+     "date": "2026-10-28T19:14:19+00:00",
+     "summary": "Core WBTC and cbBTC borrowers gain about 11% more capacity against the same collateral, but drawing the new maximum leaves less room for a price drop."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T19:14:19+00:00",
+   "last_seen": "2026-10-28T19:14:19+00:00",
+   "summary": "Core WBTC and cbBTC borrowers gain about 11% more capacity against the same collateral, but drawing the new maximum leaves less room for a price drop.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "8a49df694d",
+   "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
+   "date": "2026-10-28T19:10:40+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Sam Bankman-Fried wrote to actor portraying him in Netflix series",
+     "url": "https://cointelegraph.com/news/sam-bankman-fried-actor-anthony-boyle-netflix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T19:10:40+00:00",
+     "summary": "The former FTX CEO remains incarcerated as Irish actor Anthony Boyle portrays him in a series about the downfall of the crypto exchange and his relationship with Caroline Ellison."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T19:10:40+00:00",
+   "last_seen": "2026-10-28T19:10:40+00:00",
+   "summary": "The former FTX CEO remains incarcerated as Irish actor Anthony Boyle portrays him in a series about the downfall of the crypto exchange and his relationship with Caroline Ellison.",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "baab20d485",
    "title": "CFTC chief poses questions about policing AI but calls it a road to 'autonomous trading'",

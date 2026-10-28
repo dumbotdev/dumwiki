@@ -1,6 +1,129 @@
 {
- "updated": "2026-10-28T10:05:55.129049+00:00",
+ "updated": "2026-10-28T11:01:38.912408+00:00",
  "events": [
+  {
+   "id": "aba620d9d1",
+   "title": "Google to preview crypto custody security system as AI threats grow",
+   "date": "2026-10-28T11:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Google to preview crypto custody security system as AI threats grow",
+     "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
+     "date": "2026-10-28T11:00:00+00:00",
+     "summary": "Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using it to secure its own digital assets on Ethereum and Solana."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T11:00:00+00:00",
+   "last_seen": "2026-10-28T11:00:00+00:00",
+   "summary": "Google Multi-Party Compute is in private preview, with several major financial institutions testing the technology and parent company Alphabet using it to secure its own digital assets on Ethereum and Solana.",
+   "tags": [
+    "ai",
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "df094c53dd",
+   "title": "Stellar Unveils Fee-Free Network Processing 7 Million Transactions per Second",
+   "date": "2026-10-28T10:58:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Stellar Unveils Fee-Free Network Processing 7 Million Transactions per Second",
+     "url": "https://thedefiant.io/news/blockchains/stellar-unveils-fee-free-network-processing-7-million-transactions-per-second",
+     "date": "2026-10-28T10:58:09+00:00",
+     "summary": "Early benchmarks reached 7.02 million payments per second across eight machines inside a single validator, and the foundation says it has not decided how the network will relate to Stellar"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T10:58:09+00:00",
+   "last_seen": "2026-10-28T10:58:09+00:00",
+   "summary": "Early benchmarks reached 7.02 million payments per second across eight machines inside a single validator, and the foundation says it has not decided how the network will relate to Stellar",
+   "tags": []
+  },
+  {
+   "id": "b72d2176bb",
+   "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
+   "date": "2026-10-28T10:57:29+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bithumb Says Hackers Accessed Internal System, Leaking Personal Data",
+     "url": "https://decrypt.co/382022/bithumb-says-hackers-accessed-internal-system-leaking-personal-data",
+     "date": "2026-10-28T10:57:29+00:00",
+     "summary": "South Korea's second-largest crypto exchange is checking whether customer data was exposed, as two other financial firms report breaches."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T10:57:29+00:00",
+   "last_seen": "2026-10-28T10:57:29+00:00",
+   "summary": "South Korea's second-largest crypto exchange is checking whether customer data was exposed, as two other financial firms report breaches.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "2f28831ddc",
+   "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+   "date": "2026-10-28T10:41:51+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
+     "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
+     "date": "2026-10-28T10:41:51+00:00",
+     "summary": "Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposits at 53% and tokenized money market funds at 52%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T10:41:51+00:00",
+   "last_seen": "2026-10-28T10:41:51+00:00",
+   "summary": "Stablecoins lead instruments in use or planned at 63%, ahead of tokenized deposits at 53% and tokenized money market funds at 52%.",
+   "tags": []
+  },
+  {
+   "id": "74f292a072",
+   "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds \u2018Not Impacted\u2019",
+   "date": "2026-10-28T10:10:31+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Coinbase Customer Data Hit in Analytics Vendor Breach, Funds \u2018Not Impacted\u2019",
+     "url": "https://decrypt.co/382009/coinbase-customer-data-hit-in-analytics-vendor-breach-funds-not-impacted",
+     "date": "2026-10-28T10:10:31+00:00",
+     "summary": "The incident at analytics firm Amplitude hit a \"small subset\" of Coinbase customers, the exchange said, without saying how many."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T10:10:31+00:00",
+   "last_seen": "2026-10-28T10:10:31+00:00",
+   "summary": "The incident at analytics firm Amplitude hit a \"small subset\" of Coinbase customers, the exchange said, without saying how many.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "ad27a312f6",
+   "title": "Brazil\u2019s largest lender becomes first bank to formalize crypto brokerage under new rules",
+   "date": "2026-10-28T10:07:54+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Brazil\u2019s largest lender becomes first bank to formalize crypto brokerage under new rules",
+     "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
+     "date": "2026-10-28T10:07:54+00:00",
+     "summary": "Ita\u00fa Unibanco notified Brazil\u2019s central bank of its crypto trading and custody operations on Tuesday, ahead of an Oct. 30 deadline."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T10:07:54+00:00",
+   "last_seen": "2026-10-28T10:07:54+00:00",
+   "summary": "Ita\u00fa Unibanco notified Brazil\u2019s central bank of its crypto trading and custody operations on Tuesday, ahead of an Oct. 30 deadline.",
+   "tags": []
+  },
   {
    "id": "2c6355da20",
    "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",

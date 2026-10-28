@@ -1,6 +1,134 @@
 {
- "updated": "2026-10-28T17:07:46.792048+00:00",
+ "updated": "2026-10-28T18:00:01.148785+00:00",
  "events": [
+  {
+   "id": "b8f9173346",
+   "title": "Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures",
+   "date": "2026-10-28T17:43:02+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures",
+     "url": "https://bitcoinmagazine.com/technical/centralized-exchange-and-defi-losses-dominate-2026-crypto-hacks-despite-hardware-wallet-failures",
+     "date": "2026-10-28T17:43:02+00:00",
+     "summary": "Bitcoin Magazine Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures Lightning.news data shared with Bitcoin Magazine puts net 2026 crypto hack losses at roughly $2.35 billion after freezes and returns. September alone accounted for..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T17:43:02+00:00",
+   "last_seen": "2026-10-28T17:43:02+00:00",
+   "summary": "Bitcoin Magazine Centralized Exchange and DeFi Losses Dominate 2026 Crypto Hacks Despite Hardware Wallet Failures Lightning.news data shared with Bitcoin Magazine puts net 2026 crypto hack losses at roughly $2.35 billion after freezes and returns. September alone accounted for...",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "de06ff41f8",
+   "title": "Galaxy\u2019s AI data centers bring $79 million in lease revenue and a small net loss",
+   "date": "2026-10-28T17:40:30+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Galaxy\u2019s AI data centers bring $79 million in lease revenue and a small net loss",
+     "url": "https://cryptoslate.com/galaxys-ai-data-centers-bring-79-million-in-lease-revenue-and-a-small-net-loss/",
+     "date": "2026-10-28T17:40:30+00:00",
+     "summary": "The first full Helios lease quarter left Data Centers with a $435,000 loss, while Treasury & Corporate drove Galaxy\u2019s recovery. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T17:40:30+00:00",
+   "last_seen": "2026-10-28T17:40:30+00:00",
+   "summary": "The first full Helios lease quarter left Data Centers with a $435,000 loss, while Treasury & Corporate drove Galaxy\u2019s recovery. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai",
+    "macro"
+   ]
+  },
+  {
+   "id": "48897aad22",
+   "title": "AI Can Quietly Influence Experts\u2019 Decisions, Anthropic Study Finds",
+   "date": "2026-10-28T17:36:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "AI Can Quietly Influence Experts\u2019 Decisions, Anthropic Study Finds",
+     "url": "https://decrypt.co/382065/ai-can-quietly-influence-experts-decisions",
+     "date": "2026-10-28T17:36:02+00:00",
+     "summary": "Professional analysts went along with their AI agent\u2019s hidden opinion 86% of the time, and few credited it."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T17:36:02+00:00",
+   "last_seen": "2026-10-28T17:36:02+00:00",
+   "summary": "Professional analysts went along with their AI agent\u2019s hidden opinion 86% of the time, and few credited it.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "eb61dbbebd",
+   "title": "Osmosis Restores AllBTC Backing With Seized Tokens and Community Funds",
+   "date": "2026-10-28T17:29:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Osmosis Restores AllBTC Backing With Seized Tokens and Community Funds",
+     "url": "https://thedefiant.io/news/security/osmosis-restores-allbtc-backing-with-seized-tokens-and-community-funds",
+     "date": "2026-10-28T17:29:16+00:00",
+     "summary": "Community funds absorbed a 17.19 BTC-equivalent shortfall, while app deposits and withdrawals were still awaiting reopening."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T17:29:16+00:00",
+   "last_seen": "2026-10-28T17:29:16+00:00",
+   "summary": "Community funds absorbed a 17.19 BTC-equivalent shortfall, while app deposits and withdrawals were still awaiting reopening.",
+   "tags": []
+  },
+  {
+   "id": "06b9cde317",
+   "title": "Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report",
+   "date": "2026-10-28T17:26:10+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report",
+     "url": "https://bitcoinmagazine.com/news/google-debuting-a-bank-grade-crypto-tool",
+     "date": "2026-10-28T17:26:10+00:00",
+     "summary": "Bitcoin Magazine Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report Google is previewing a crypto custody system that splits private keys across separate environments, with several banks testing it ahead of a planned early 2027 launch. This post Google..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T17:26:10+00:00",
+   "last_seen": "2026-10-28T17:26:10+00:00",
+   "summary": "Bitcoin Magazine Google Debuting a Bank-Grade Crypto Custody Tool Built on Split Keys: Report Google is previewing a crypto custody system that splits private keys across separate environments, with several banks testing it ahead of a planned early 2027 launch. This post Google...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "37a21dccf6",
+   "title": "Why a Liquidity Pool Can Earn Fees and Still Trail Holding",
+   "date": "2026-10-28T17:11:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Why a Liquidity Pool Can Earn Fees and Still Trail Holding",
+     "url": "https://thedefiant.io/news/defi/why-a-liquidity-pool-can-earn-fees-and-still-trail-holding",
+     "date": "2026-10-28T17:11:51+00:00",
+     "summary": "A hypothetical $200 position grows to $400 before fees, but unchanged holdings reach $500 at the same final prices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T17:11:51+00:00",
+   "last_seen": "2026-10-28T17:11:51+00:00",
+   "summary": "A hypothetical $200 position grows to $400 before fees, but unchanged holdings reach $500 at the same final prices.",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "e5d70a7d55",
    "title": "Robinhood earnings miss, crypto weakness fail to shake Wall Street\u2019s bullish outlook",
@@ -19,6 +147,27 @@
    "last_seen": "2026-10-28T17:06:24+00:00",
    "summary": "Bernstein sees Robinhood\u2019s crypto business shifting toward infrastructure as new products like prediction markets and perps gain ground.",
    "tags": []
+  },
+  {
+   "id": "70ac3bfabc",
+   "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
+   "date": "2026-10-28T17:05:42+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto PAC spending before midterms possibly obscured after reported FEC hack",
+     "url": "https://cointelegraph.com/news/crypto-pac-spending-midterms-fec-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T17:05:42+00:00",
+     "summary": "The FEC reported an \u201celectronic filing system outage\u201d on Tuesday as groups are expected to ramp up spending before the US midterm elections."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T17:05:42+00:00",
+   "last_seen": "2026-10-28T17:05:42+00:00",
+   "summary": "The FEC reported an \u201celectronic filing system outage\u201d on Tuesday as groups are expected to ramp up spending before the US midterm elections.",
+   "tags": [
+    "security"
+   ]
   },
   {
    "id": "317cf8ceec",
@@ -74,15 +223,43 @@
      "url": "https://cointelegraph.com/markets/market-update?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-28T16:53:26+00:00",
      "summary": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin price bounce rejected at 50-day trend line ahead of FOMC, earnings",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-bounce-rejected-at-50-day-trend-line-ahead-of-fomc-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T16:53:26+00:00",
+     "summary": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-10-28T16:53:26+00:00",
    "last_seen": "2026-10-28T16:53:26+00:00",
    "summary": "Bitcoin failed to move past its 50-day simple moving average as market participants awaited the outcome of the FOMC meeting and key tech earnings.",
    "tags": [
     "bitcoin",
     "markets"
+   ]
+  },
+  {
+   "id": "dd945c3fed",
+   "title": "Euro-area banks report record deterioration in retail-funding access",
+   "date": "2026-10-28T16:40:28+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Euro-area banks report record deterioration in retail-funding access",
+     "url": "https://cryptoslate.com/euro-area-banks-report-record-deterioration-in-retail-funding-access/",
+     "date": "2026-10-28T16:40:28+00:00",
+     "summary": "The ECB still calls the deterioration moderate, while any Bitcoin impact depends on financing costs and investor risk budgets. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T16:40:28+00:00",
+   "last_seen": "2026-10-28T16:40:28+00:00",
+   "summary": "The ECB still calls the deterioration moderate, while any Bitcoin impact depends on financing costs and investor risk budgets. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
    ]
   },
   {

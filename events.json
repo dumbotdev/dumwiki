@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-28T04:03:10.240582+00:00",
+ "updated": "2026-10-28T05:01:50.671223+00:00",
  "events": [
+  {
+   "id": "dbc26f56f3",
+   "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+   "date": "2026-10-28T04:15:20+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+     "date": "2026-10-28T04:15:20+00:00",
+     "summary": "Majors outpaced bitcoin across the board as tech stocks extended a climb."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T04:15:20+00:00",
+   "last_seen": "2026-10-28T04:15:20+00:00",
+   "summary": "Majors outpaced bitcoin across the board as tech stocks extended a climb.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
   {
    "id": "99644932a6",
    "title": "Robinhood\u2019s Tenev warns US tokenization uncertainty deters \u2018serious assets\u2019",

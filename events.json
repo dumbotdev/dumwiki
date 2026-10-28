@@ -1,6 +1,246 @@
 {
- "updated": "2026-10-28T11:59:36.529462+00:00",
+ "updated": "2026-10-28T13:19:17.483486+00:00",
  "events": [
+  {
+   "id": "9764ddd527",
+   "title": "Phantom Widens US Rollout of Kalshi Prediction Markets",
+   "date": "2026-10-28T13:16:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Phantom Widens US Rollout of Kalshi Prediction Markets",
+     "url": "https://thedefiant.io/news/defi/phantom-widens-us-rollout-of-kalshi-prediction-markets",
+     "date": "2026-10-28T13:16:11+00:00",
+     "summary": "Trading runs through verified Kalshi accounts, while the wallet\u2019s regional guide excludes Michigan, Nevada and Washington."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:16:11+00:00",
+   "last_seen": "2026-10-28T13:16:11+00:00",
+   "summary": "Trading runs through verified Kalshi accounts, while the wallet\u2019s regional guide excludes Michigan, Nevada and Washington.",
+   "tags": []
+  },
+  {
+   "id": "f2da73d288",
+   "title": "How Aave\u2019s Variable Borrow Rate Changes an Existing USDT Loan",
+   "date": "2026-10-28T13:15:53+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "How Aave\u2019s Variable Borrow Rate Changes an Existing USDT Loan",
+     "url": "https://thedefiant.io/news/defi/how-aave-s-variable-borrow-rate-changes-an-existing-usdt-loan",
+     "date": "2026-10-28T13:15:53+00:00",
+     "summary": "Aave\u2019s Ethereum USDT curve now raises borrowing costs sooner as liquidity tightens. Existing debt keeps its accrued interest; a new rate changes how the balance grows from then on."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:15:53+00:00",
+   "last_seen": "2026-10-28T13:15:53+00:00",
+   "summary": "Aave\u2019s Ethereum USDT curve now raises borrowing costs sooner as liquidity tightens. Existing debt keeps its accrued interest; a new rate changes how the balance grows from then on.",
+   "tags": [
+    "defi",
+    "ethereum",
+    "funding",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "c4bfc41494",
+   "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+   "date": "2026-10-28T13:14:37+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Wall Street backbone DTCC brings $30 trillion securities closer to blockchain with major banks",
+     "url": "https://www.coindesk.com/business/2026/10/28/wall-street-backbone-dtcc-brings-usd30-trillion-securities-closer-to-blockchain-with-major-banks",
+     "date": "2026-10-28T13:14:37+00:00",
+     "summary": "DTCC's tokenization service went live on Canton Network and private chain Besu, with JPMorgan, Citi and Morgan Stanley among 20 firms signed up."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:14:37+00:00",
+   "last_seen": "2026-10-28T13:14:37+00:00",
+   "summary": "DTCC's tokenization service went live on Canton Network and private chain Besu, with JPMorgan, Citi and Morgan Stanley among 20 firms signed up.",
+   "tags": []
+  },
+  {
+   "id": "0edad6eaab",
+   "title": "Goldman, BlackRock Alumni Raise $4 Million to Put Farm and Apartment Loans Onchain",
+   "date": "2026-10-28T13:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Goldman, BlackRock Alumni Raise $4 Million to Put Farm and Apartment Loans Onchain",
+     "url": "https://decrypt.co/382007/goldman-blackrock-alumni-raise-4-million-loans-onchain",
+     "date": "2026-10-28T13:01:02+00:00",
+     "summary": "Birch Hill, founded by Goldman Sachs and BlackRock alumni, raised $4 million in a seed round led by Multicoin Capital to build a regulated path for bringing U.S. loans onchain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:01:02+00:00",
+   "last_seen": "2026-10-28T13:01:02+00:00",
+   "summary": "Birch Hill, founded by Goldman Sachs and BlackRock alumni, raised $4 million in a seed round led by Multicoin Capital to build a regulated path for bringing U.S. loans onchain.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "0f4a09f2e5",
+   "title": "Ripple expects $900 million annualized product revenue run rate as institutional business expands",
+   "date": "2026-10-28T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ripple expects $900 million annualized product revenue run rate as institutional business expands",
+     "url": "https://www.theblock.co/news/business/2026-10-28-ripple-900-million-revenue-run-rate-rlusd-431920",
+     "date": "2026-10-28T13:00:00+00:00",
+     "summary": "Ripple expects a $900M annualized product revenue run rate by end of 2026, as RLUSD reaches $2.5B and payments near $150B in lifetime volume."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:00:00+00:00",
+   "last_seen": "2026-10-28T13:00:00+00:00",
+   "summary": "Ripple expects a $900M annualized product revenue run rate by end of 2026, as RLUSD reaches $2.5B and payments near $150B in lifetime volume.",
+   "tags": []
+  },
+  {
+   "id": "99b0929a6e",
+   "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
+   "date": "2026-10-28T12:59:36+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "JPMorgan, Coca-Cola, Dell also say 'no' to OKX-ICE tokenized tock trading plan",
+     "url": "https://www.coindesk.com/business/2026/10/28/jpmorgan-coca-cola-dell-also-say-no-to-okx-ice-tokenized-tock-trading-plan",
+     "date": "2026-10-28T12:59:36+00:00",
+     "summary": "Nearly half the companies on the venture\u2019s original roster have now objected to their shares trading on the planned blockchain-based venue."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T12:59:36+00:00",
+   "last_seen": "2026-10-28T12:59:36+00:00",
+   "summary": "Nearly half the companies on the venture\u2019s original roster have now objected to their shares trading on the planned blockchain-based venue.",
+   "tags": []
+  },
+  {
+   "id": "3a03b4d912",
+   "title": "Coinbase Lists Ripple\u2019s RLUSD With Transfers on Three Networks",
+   "date": "2026-10-28T12:23:34+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coinbase Lists Ripple\u2019s RLUSD With Transfers on Three Networks",
+     "url": "https://thedefiant.io/converge/defi/coinbase-lists-ripple-s-rlusd-with-transfers-on-three-networks",
+     "date": "2026-10-28T12:23:34+00:00",
+     "summary": "Customers in supported regions can convert US dollars into RLUSD one-for-one. Access spans the retail app, Coinbase Exchange and Prime."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T12:23:34+00:00",
+   "last_seen": "2026-10-28T12:23:34+00:00",
+   "summary": "Customers in supported regions can convert US dollars into RLUSD one-for-one. Access spans the retail app, Coinbase Exchange and Prime.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "34ea159388",
+   "title": "Robinhood now makes more money from predicting the future than trading crypto",
+   "date": "2026-10-28T12:20:28+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Robinhood now makes more money from predicting the future than trading crypto",
+     "url": "https://cryptoslate.com/robinhood-now-makes-more-money-from-predicting-the-future-than-trading-crypto/",
+     "date": "2026-10-28T12:20:28+00:00",
+     "summary": "The year-over-year crypto decline contrasted with $173 million in event-contract revenue and record company revenue of $1.42 billion. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T12:20:28+00:00",
+   "last_seen": "2026-10-28T12:20:28+00:00",
+   "summary": "The year-over-year crypto decline contrasted with $173 million in event-contract revenue and record company revenue of $1.42 billion. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "64f1cbb955",
+   "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
+   "date": "2026-10-28T12:16:30+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Moody's Rates Ripple's $2.6B RLUSD Stablecoin A2, a Day After OCC Bank Approval",
+     "url": "https://decrypt.co/382030/moodys-rates-ripples-2-6b-rlusd-stablecoin-a2-a-day-after-occ-bank-approval",
+     "date": "2026-10-28T12:16:30+00:00",
+     "summary": "The ratings agency cited RLUSD's Treasury-heavy reserves, but noted that holders have no direct ownership interest in them for now."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T12:16:30+00:00",
+   "last_seen": "2026-10-28T12:16:30+00:00",
+   "summary": "The ratings agency cited RLUSD's Treasury-heavy reserves, but noted that holders have no direct ownership interest in them for now.",
+   "tags": [
+    "macro",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "bfccb78efa",
+   "title": "Ethena Pay Rolls Out Earn+ With Up to 12% Target Rewards",
+   "date": "2026-10-28T12:12:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ethena Pay Rolls Out Earn+ With Up to 12% Target Rewards",
+     "url": "https://thedefiant.io/news/defi/ethena-pay-rolls-out-earn-with-up-to-12-target-rewards",
+     "date": "2026-10-28T12:12:26+00:00",
+     "summary": "The Upshift vault targets roughly 11 times leverage on Aave, with depositors bearing losses and an initial $4.5 million capacity limit."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T12:12:26+00:00",
+   "last_seen": "2026-10-28T12:12:26+00:00",
+   "summary": "The Upshift vault targets roughly 11 times leverage on Aave, with depositors bearing losses and an initial $4.5 million capacity limit.",
+   "tags": []
+  },
+  {
+   "id": "6a8d32796b",
+   "title": "DTCC\u2019s Tokenization Service Goes Live With 34 Securities",
+   "date": "2026-10-28T12:08:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "DTCC\u2019s Tokenization Service Goes Live With 34 Securities",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/dtcc-s-tokenization-service-goes-live-with-34-securities",
+     "date": "2026-10-28T12:08:46+00:00",
+     "summary": "Twenty DTC participants have signed access agreements, while conversion orders run on a narrower schedule than round-the-clock token transfers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T12:08:46+00:00",
+   "last_seen": "2026-10-28T12:08:46+00:00",
+   "summary": "Twenty DTC participants have signed access agreements, while conversion orders run on a narrower schedule than round-the-clock token transfers.",
+   "tags": []
+  },
+  {
+   "id": "b6b9546b0e",
+   "title": "Morning Minute: Robinhood Misses, But Crypto Beats and Robinhood Chain Soars",
+   "date": "2026-10-28T12:04:56+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Robinhood Misses, But Crypto Beats and Robinhood Chain Soars",
+     "url": "https://decrypt.co/382029/morning-minute-robinhood-misses-but-crypto-beats-and-robinhood-chain-soars",
+     "date": "2026-10-28T12:04:56+00:00",
+     "summary": "Vlad Tenev delivered the messaging that Robinhood Chain enthusiasts wanted to hear\u2014and the market responded."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T12:04:56+00:00",
+   "last_seen": "2026-10-28T12:04:56+00:00",
+   "summary": "Vlad Tenev delivered the messaging that Robinhood Chain enthusiasts wanted to hear\u2014and the market responded.",
+   "tags": []
+  },
   {
    "id": "0d9776d6ac",
    "title": "Dissent and more: 3 things to watch for at the Fed meeting",

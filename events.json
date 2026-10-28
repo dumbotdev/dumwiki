@@ -1,6 +1,68 @@
 {
- "updated": "2026-10-28T01:21:56.030424+00:00",
+ "updated": "2026-10-28T03:01:44.791810+00:00",
  "events": [
+  {
+   "id": "b4de56b8b6",
+   "title": "Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal",
+   "date": "2026-10-28T03:00:33+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Datavault AI stock plummets 50% after firm says it cannot withdraw bitcoin tied to $150 million deal",
+     "url": "https://www.theblock.co/news/business/2026-10-27-datavault-ai-stock-plummets-bitcoin-deal-431962",
+     "date": "2026-10-28T03:00:33+00:00",
+     "summary": "The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T03:00:33+00:00",
+   "last_seen": "2026-10-28T03:00:33+00:00",
+   "summary": "The issue centers on a deal with Scilex, under which Scilex agreed to buy shares of Datavault AI for $150 million, payable in bitcoin.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "1d4d1b1d9d",
+   "title": "Bithumb discloses data leak after internal system breach: Report",
+   "date": "2026-10-28T02:18:47+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bithumb discloses data leak after internal system breach: Report",
+     "url": "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T02:18:47+00:00",
+     "summary": "The breach impacted its in-house mobile system, used by employees for work and information sharing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T02:18:47+00:00",
+   "last_seen": "2026-10-28T02:18:47+00:00",
+   "summary": "The breach impacted its in-house mobile system, used by employees for work and information sharing.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "3cc9679513",
+   "title": "X100 governance flaws trigger $6M loss due to a flash loan",
+   "date": "2026-10-28T02:10:15+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "X100 governance flaws trigger $6M loss due to a flash loan",
+     "url": "https://cryptoslate.com/x100-governance-flaws-trigger-6m-loss-due-to-a-flash-loan/",
+     "date": "2026-10-28T02:10:15+00:00",
+     "summary": "X100\u2019s attacker repaid a flash loan from theft proceeds while its stake stayed locked, and Arkadiko\u2019s ballot accepted late token purchases. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T02:10:15+00:00",
+   "last_seen": "2026-10-28T02:10:15+00:00",
+   "summary": "X100\u2019s attacker repaid a flash loan from theft proceeds while its stake stayed locked, and Arkadiko\u2019s ballot accepted late token purchases. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
   {
    "id": "a267ac2016",
    "title": "Tranche Vault on Avalanche Drained of 1.01 Million USDC",

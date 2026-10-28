@@ -1,6 +1,385 @@
 {
- "updated": "2026-10-28T13:19:17.483486+00:00",
+ "updated": "2026-10-28T15:09:49.575917+00:00",
  "events": [
+  {
+   "id": "0672c74921",
+   "title": "Bitwise Raises Bitcoin Target to $1.6 Million as Institutions Keep Buying",
+   "date": "2026-10-28T15:07:38+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitwise Raises Bitcoin Target to $1.6 Million as Institutions Keep Buying",
+     "url": "https://bitcoinmagazine.com/markets/bitwise-raises-bitcoin-target",
+     "date": "2026-10-28T15:07:38+00:00",
+     "summary": "Bitcoin Magazine Bitwise Raises Bitcoin Target to $1.6 Million as Institutions Keep Buying Bitwise raised its 2036 bitcoin price target to $1.6 million, projecting 34.3% annual growth on institutional demand and fixed supply. This post Bitwise Raises Bitcoin Target to $1.6..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T15:07:38+00:00",
+   "last_seen": "2026-10-28T15:07:38+00:00",
+   "summary": "Bitcoin Magazine Bitwise Raises Bitcoin Target to $1.6 Million as Institutions Keep Buying Bitwise raised its 2036 bitcoin price target to $1.6 million, projecting 34.3% annual growth on institutional demand and fixed supply. This post Bitwise Raises Bitcoin Target to $1.6...",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "e5e8d0097e",
+   "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
+   "date": "2026-10-28T15:05:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "JPMorgan, Coca-Cola Among 7 More Companies Objecting to OKX-ICE Tokenized Stocks",
+     "url": "https://decrypt.co/382043/jpmorgan-coca-cola-7-more-companies-objecting-okx-ice-tokenized-stocks",
+     "date": "2026-10-28T15:05:03+00:00",
+     "summary": "Seven more companies, including JPMorgan Chase, Coca-Cola and Dell, have objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 33."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T15:05:03+00:00",
+   "last_seen": "2026-10-28T15:05:03+00:00",
+   "summary": "Seven more companies, including JPMorgan Chase, Coca-Cola and Dell, have objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 33.",
+   "tags": []
+  },
+  {
+   "id": "868b42d035",
+   "title": "Avail launches ShieldTX privacy tool targeting copy-trading bots on Hyperliquid",
+   "date": "2026-10-28T15:00:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Avail launches ShieldTX privacy tool targeting copy-trading bots on Hyperliquid",
+     "url": "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977",
+     "date": "2026-10-28T15:00:02+00:00",
+     "summary": "Avail launched ShieldTX, a Hyperliquid privacy tool that creates a separate wallet for each perpetual futures position."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T15:00:02+00:00",
+   "last_seen": "2026-10-28T15:00:02+00:00",
+   "summary": "Avail launched ShieldTX, a Hyperliquid privacy tool that creates a separate wallet for each perpetual futures position.",
+   "tags": []
+  },
+  {
+   "id": "102fc17efb",
+   "title": "Crypto braces for potential shift in congressional oversight after midterms",
+   "date": "2026-10-28T14:43:01+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Crypto braces for potential shift in congressional oversight after midterms",
+     "url": "https://www.theblock.co/news/regulation/2026-10-28-crypto-braces-for-potential-shift-in-congressional-oversight-after-midterms-431949",
+     "date": "2026-10-28T14:43:01+00:00",
+     "summary": "Post-Clarity Act, the crypto sector could find itself navigating a very different political landscape under a new Congress."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T14:43:01+00:00",
+   "last_seen": "2026-10-28T14:43:01+00:00",
+   "summary": "Post-Clarity Act, the crypto sector could find itself navigating a very different political landscape under a new Congress.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "ac95abb197",
+   "title": "Bitcoin option buyers face a Fed-week premium that can fade after the decision",
+   "date": "2026-10-28T14:40:38+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin option buyers face a Fed-week premium that can fade after the decision",
+     "url": "https://cryptoslate.com/bitcoin-option-buyers-face-a-fed-week-premium-that-can-fade-after-the-decision/",
+     "date": "2026-10-28T14:40:38+00:00",
+     "summary": "Laevitas\u2019s Oct. 26 snapshot showed a 9.2-point implied-versus-realized premium, putting buyers\u2019 exposure after policy decisions in focus. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T14:40:38+00:00",
+   "last_seen": "2026-10-28T14:40:38+00:00",
+   "summary": "Laevitas\u2019s Oct. 26 snapshot showed a 9.2-point implied-versus-realized premium, putting buyers\u2019 exposure after policy decisions in focus. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "c3594545a0",
+   "title": "U.S. Treasury Says U.S. \u2018Will Win in the Digital Asset Stack\u2019 as Clarity Act Stalls",
+   "date": "2026-10-28T14:14:36+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "U.S. Treasury Says U.S. \u2018Will Win in the Digital Asset Stack\u2019 as Clarity Act Stalls",
+     "url": "https://bitcoinmagazine.com/news/treasury-says-win-in-the-digital-asset",
+     "date": "2026-10-28T14:14:36+00:00",
+     "summary": "Bitcoin Magazine U.S. Treasury Says U.S. &#8216;Will Win in the Digital Asset Stack\u2019 as Clarity Act Stalls Treasury Secretary Scott Bessent said that U.S. leadership in digital assets could reinforce the dollar\u2019s global reach even as the stalled CLARITY Act leaves regulators to..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T14:14:36+00:00",
+   "last_seen": "2026-10-28T14:14:36+00:00",
+   "summary": "Bitcoin Magazine U.S. Treasury Says U.S. &#8216;Will Win in the Digital Asset Stack\u2019 as Clarity Act Stalls Treasury Secretary Scott Bessent said that U.S. leadership in digital assets could reinforce the dollar\u2019s global reach even as the stalled CLARITY Act leaves regulators to...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "b0e22455f3",
+   "title": "Kraken to Cancel Orders on 176 Pairs in Synthetic Trading Shift",
+   "date": "2026-10-28T14:01:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Kraken to Cancel Orders on 176 Pairs in Synthetic Trading Shift",
+     "url": "https://thedefiant.io/news/cefi/kraken-to-cancel-orders-on-176-pairs-in-synthetic-trading-shift",
+     "date": "2026-10-28T14:01:56+00:00",
+     "summary": "Replacement markets will charge taker fees even on limit orders, and customers must submit fresh orders after the migration."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T14:01:56+00:00",
+   "last_seen": "2026-10-28T14:01:56+00:00",
+   "summary": "Replacement markets will charge taker fees even on limit orders, and customers must submit fresh orders after the migration.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "385ed67053",
+   "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+   "date": "2026-10-28T13:47:51+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Google Cloud outlines MPC service for institutional Bitcoin custody",
+     "url": "https://cointelegraph.com/news/google-cloud-mpc-service-bitcoin-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T13:47:51+00:00",
+     "summary": "Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:47:51+00:00",
+   "last_seen": "2026-10-28T13:47:51+00:00",
+   "summary": "Google Cloud has detailed its preview MPC service for institutional Bitcoin custody as it holds a New York symposium focused on digital asset security.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "5a30c44a15",
+   "title": "Brazilian Banking Giant Ita\u00fa Formalizes Crypto Role as Brazil Closes Its Licensing Window",
+   "date": "2026-10-28T13:46:41+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Brazilian Banking Giant Ita\u00fa Formalizes Crypto Role as Brazil Closes Its Licensing Window",
+     "url": "https://bitcoinmagazine.com/news/brazilian-banking-giant-itau-crypto",
+     "date": "2026-10-28T13:46:41+00:00",
+     "summary": "Bitcoin Magazine Brazilian Banking Giant Ita\u00fa Formalizes Crypto Role as Brazil Closes Its Licensing Window Ita\u00fa has formally registered with Brazil\u2019s central bank to intermediate and custody crypto assets under the new licensing rules. This post Brazilian Banking Giant Ita\u00fa..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:46:41+00:00",
+   "last_seen": "2026-10-28T13:46:41+00:00",
+   "summary": "Bitcoin Magazine Brazilian Banking Giant Ita\u00fa Formalizes Crypto Role as Brazil Closes Its Licensing Window Ita\u00fa has formally registered with Brazil\u2019s central bank to intermediate and custody crypto assets under the new licensing rules. This post Brazilian Banking Giant Ita\u00fa...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "cb8c15ac5d",
+   "title": "Luxor Announces $16M Funding Round to Scale AI Compute, Derivatives",
+   "date": "2026-10-28T13:42:18+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Luxor Announces $16M Funding Round to Scale AI Compute, Derivatives",
+     "url": "https://bitcoinmagazine.com/videos/luxor-announces-16m-funding-round-to-scale-ai-compute-derivatives",
+     "date": "2026-10-28T13:42:18+00:00",
+     "summary": "&#9654; Bitcoin Magazine Luxor Announces $16M Funding Round to Scale AI Compute, Derivatives Luxor raises $16M to scale AI GPU compute. Ethan Vera and CMT Digital's Sam Hallene explain why Bitcoin mining expertise translates so well to the AI boom. This post Luxor Announces $16M..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:42:18+00:00",
+   "last_seen": "2026-10-28T13:42:18+00:00",
+   "summary": "&#9654; Bitcoin Magazine Luxor Announces $16M Funding Round to Scale AI Compute, Derivatives Luxor raises $16M to scale AI GPU compute. Ethan Vera and CMT Digital's Sam Hallene explain why Bitcoin mining expertise translates so well to the AI boom. This post Luxor Announces $16M...",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "893737b5d9",
+   "title": "Kraken to cancel orders across 176 crypto markets in sweeping trading overhaul",
+   "date": "2026-10-28T13:40:44+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Kraken to cancel orders across 176 crypto markets in sweeping trading overhaul",
+     "url": "https://cryptoslate.com/kraken-to-cancel-orders-across-176-crypto-markets-in-sweeping-trading-overhaul/",
+     "date": "2026-10-28T13:40:44+00:00",
+     "summary": "Existing orders will not transfer to synthetic replacements, where limit orders will carry taker fees. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:40:44+00:00",
+   "last_seen": "2026-10-28T13:40:44+00:00",
+   "summary": "Existing orders will not transfer to synthetic replacements, where limit orders will carry taker fees. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "615759514b",
+   "title": "House Oversight Chair Comer Probes Delaware Plan for AI-Run Companies",
+   "date": "2026-10-28T13:38:08+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "House Oversight Chair Comer Probes Delaware Plan for AI-Run Companies",
+     "url": "https://decrypt.co/382035/house-oversight-chair-comer-probes-delaware-plan-for-ai-run-companies",
+     "date": "2026-10-28T13:38:08+00:00",
+     "summary": "James Comer warned the proposed \"AIC\" could shield AI firms from liability, and asked Delaware's governor for documents by November 9."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:38:08+00:00",
+   "last_seen": "2026-10-28T13:38:08+00:00",
+   "summary": "James Comer warned the proposed \"AIC\" could shield AI firms from liability, and asked Delaware's governor for documents by November 9.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "6f8ecc6d30",
+   "title": "Samara Asset Group CEO: Bitcoin Treasury Companies a \u201cDisservice to Shareholders\u201d",
+   "date": "2026-10-28T13:30:12+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Samara Asset Group CEO: Bitcoin Treasury Companies a \u201cDisservice to Shareholders\u201d",
+     "url": "https://bitcoinmagazine.com/videos/samara-asset-group-ceo-bitcoin-treasury-companies-a-disservice-to-shareholders",
+     "date": "2026-10-28T13:30:12+00:00",
+     "summary": "&#9654; Bitcoin Magazine Samara Asset Group CEO: Bitcoin Treasury Companies a \u201cDisservice to Shareholders\u201d Patrick Lowry argues 'digital gold' was flawed marketing, explaining why the market rejects pure treasury plays and how Samara deploys BTC as working capital. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:30:12+00:00",
+   "last_seen": "2026-10-28T13:30:12+00:00",
+   "summary": "&#9654; Bitcoin Magazine Samara Asset Group CEO: Bitcoin Treasury Companies a \u201cDisservice to Shareholders\u201d Patrick Lowry argues 'digital gold' was flawed marketing, explaining why the market rejects pure treasury plays and how Samara deploys BTC as working capital. This post...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "155a62b22a",
+   "title": "Cybersecurity\u2019s Black October: How to protect yourself",
+   "date": "2026-10-28T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Cybersecurity\u2019s Black October: How to protect yourself",
+     "url": "https://cointelegraph.com/magazine/cybersecuritys-black-october-how-to-protect-yourself?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T13:30:00+00:00",
+     "summary": "Each day brings news of another AI-powered attack, or a newly discovered vulnerability. Here\u2019s what\u2019s happening and how ordinary people can protect themselves online."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:30:00+00:00",
+   "last_seen": "2026-10-28T13:30:00+00:00",
+   "summary": "Each day brings news of another AI-powered attack, or a newly discovered vulnerability. Here\u2019s what\u2019s happening and how ordinary people can protect themselves online.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "fba457792a",
+   "title": "Bitcoin Price \u201cClimbing the Wall of Worry\u201d \u2013 Early Signs of Bull Market | Michael Sullivan",
+   "date": "2026-10-28T13:24:57+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price \u201cClimbing the Wall of Worry\u201d \u2013 Early Signs of Bull Market | Michael Sullivan",
+     "url": "https://bitcoinmagazine.com/videos/bitcoin-price-climbing-the-wall-of-worry-early-signs-of-bull-market-michael-sullivan",
+     "date": "2026-10-28T13:24:57+00:00",
+     "summary": "&#9654; Bitcoin Magazine Bitcoin Price &#8220;Climbing the Wall of Worry&#8221; &#8211; Early Signs of Bull Market | Michael Sullivan Holding $80K amid washed-out sentiment mimics 2015's disbelief rally, explains Michael Sullivan as language-based data reveals a hidden bullish..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:24:57+00:00",
+   "last_seen": "2026-10-28T13:24:57+00:00",
+   "summary": "&#9654; Bitcoin Magazine Bitcoin Price &#8220;Climbing the Wall of Worry&#8221; &#8211; Early Signs of Bull Market | Michael Sullivan Holding $80K amid washed-out sentiment mimics 2015's disbelief rally, explains Michael Sullivan as language-based data reveals a hidden bullish...",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "c16563fc80",
+   "title": "BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In",
+   "date": "2026-10-28T13:20:24+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In",
+     "url": "https://bitcoinmagazine.com/videos/btc-hash-ribbon-signal-flipped-bitcoin-miners-show-the-bottom-might-be-in",
+     "date": "2026-10-28T13:20:24+00:00",
+     "summary": "&#9654; Bitcoin Magazine BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In Sean Hagan breaks down the hash ribbon recovery, historical 72% edge, and miner stress easing, while questioning if voluntary miner exits distort the signal. This post BTC Hash..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:20:24+00:00",
+   "last_seen": "2026-10-28T13:20:24+00:00",
+   "summary": "&#9654; Bitcoin Magazine BTC Hash Ribbon Signal Flipped: Bitcoin Miners Show the Bottom Might Be In Sean Hagan breaks down the hash ribbon recovery, historical 72% edge, and miner stress easing, while questioning if voluntary miner exits distort the signal. This post BTC Hash...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "7b6c70bb7f",
+   "title": "Tokenized Stock and ETF Roster: Ondo, DTCC and OKXICE",
+   "date": "2026-10-28T13:19:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tokenized Stock and ETF Roster: Ondo, DTCC and OKXICE",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/tokenized-stock-and-etf-roster-ondo-dtcc-and-okxice",
+     "date": "2026-10-28T13:19:46+00:00",
+     "summary": "Ondo reports 15 tokens live on Robinhood Chain. This dated reference separates that roster from DTCC\u2019s institutional tokenization scope and OKXICE\u2019s proposed listings and disclosed objections."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:19:46+00:00",
+   "last_seen": "2026-10-28T13:19:46+00:00",
+   "summary": "Ondo reports 15 tokens live on Robinhood Chain. This dated reference separates that roster from DTCC\u2019s institutional tokenization scope and OKXICE\u2019s proposed listings and disclosed objections.",
+   "tags": [
+    "etfs"
+   ]
+  },
+  {
+   "id": "2ef03ef70f",
+   "title": "DTCC unit launches tokenization services",
+   "date": "2026-10-28T13:19:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "DTCC unit launches tokenization services",
+     "url": "https://cointelegraph.com/news/dtcc-subsidiary-launches-tokenization-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T13:19:00+00:00",
+     "summary": "The post-trade market infrastructure provider said the tokenization services will create a \u201cpractical path\u201d for tokenized securities adoption."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T13:19:00+00:00",
+   "last_seen": "2026-10-28T13:19:00+00:00",
+   "summary": "The post-trade market infrastructure provider said the tokenization services will create a \u201cpractical path\u201d for tokenized securities adoption.",
+   "tags": []
+  },
   {
    "id": "9764ddd527",
    "title": "Phantom Widens US Rollout of Kalshi Prediction Markets",
@@ -338,13 +717,21 @@
      "url": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-28T11:24:07+00:00",
      "summary": "A Euronext spokesperson told Cointelegraph the suspension was due to \u201coperational settlement requirements\u201d and remains in effect until settlement operations are supported by the CSD."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Euronext Restarts CoinShares\u2019 Zcash ETP After Debut-Day Halt",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/euronext-restarts-coinshares-zcash-etp-after-debut-day-halt",
+     "date": "2026-10-28T14:43:50+00:00",
+     "summary": "The exchange cited securities-depository settlement requirements for the suspension, while CoinShares said settlement had nothing to do with the firm."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-28T11:24:07+00:00",
-   "last_seen": "2026-10-28T11:24:07+00:00",
+   "last_seen": "2026-10-28T14:43:50+00:00",
    "summary": "A Euronext spokesperson told Cointelegraph the suspension was due to \u201coperational settlement requirements\u201d and remains in effect until settlement operations are supported by the CSD.",
    "tags": [
+    "exchanges",
     "legal"
    ]
   },
@@ -3249,12 +3636,19 @@
      "url": "https://www.coindesk.com/markets/2026/10/27/now-is-the-time-to-accumulate-bitcoin-galaxy-says",
      "date": "2026-10-27T09:42:46+00:00",
      "summary": "Galaxy argues improving price trends, resilient ETF demand and rising U.S. debt support bitcoin\u2019s recovery towards its previous high."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Galaxy Asset Management: \u201cNow Is The Time\u201d to Buy Bitcoin",
+     "url": "https://bitcoinmagazine.com/videos/galaxy-asset-management-now-is-the-time-to-buy-bitcoin",
+     "date": "2026-10-28T13:35:26+00:00",
+     "summary": "&#9654; Bitcoin Magazine Galaxy Asset Management: &#8220;Now Is The Time&#8221; to Buy Bitcoin \"The bottom is in,\" says Galaxy's Alex Thorn, explaining why reclaiming the 50-week moving average historically limits Bitcoin downside to just 8.4%. This post Galaxy Asset Management:..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-27T09:42:46+00:00",
-   "last_seen": "2026-10-27T09:42:46+00:00",
-   "summary": "Galaxy argues improving price trends, resilient ETF demand and rising U.S. debt support bitcoin\u2019s recovery towards its previous high.",
+   "last_seen": "2026-10-28T13:35:26+00:00",
+   "summary": "&#9654; Bitcoin Magazine Galaxy Asset Management: &#8220;Now Is The Time&#8221; to Buy Bitcoin \"The bottom is in,\" says Galaxy's Alex Thorn, explaining why reclaiming the 50-week moving average historically limits Bitcoin downside to just 8.4%. This post Galaxy Asset Management:...",
    "tags": [
     "bitcoin",
     "etfs",

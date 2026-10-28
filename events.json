@@ -1,6 +1,109 @@
 {
- "updated": "2026-10-27T23:48:55.164749+00:00",
+ "updated": "2026-10-28T01:21:56.030424+00:00",
  "events": [
+  {
+   "id": "a267ac2016",
+   "title": "Tranche Vault on Avalanche Drained of 1.01 Million USDC",
+   "date": "2026-10-28T01:11:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tranche Vault on Avalanche Drained of 1.01 Million USDC",
+     "url": "https://thedefiant.io/news/hacks/tranche-vault-on-avalanche-drained-of-1-01-million-usdc",
+     "date": "2026-10-28T01:11:39+00:00",
+     "summary": "Blockaid says a flash loan let the attacker mint inflated tranche shares and redeem the vault's USDC. A balance check showed none left in the identified contract."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T01:11:39+00:00",
+   "last_seen": "2026-10-28T01:11:39+00:00",
+   "summary": "Blockaid says a flash loan let the attacker mint inflated tranche shares and redeem the vault's USDC. A balance check showed none left in the identified contract.",
+   "tags": [
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "9c37c45e16",
+   "title": "Datavault Shares Plunge Nearly 50% After Biconomy Bitcoin Disclosure",
+   "date": "2026-10-28T00:56:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Datavault Shares Plunge Nearly 50% After Biconomy Bitcoin Disclosure",
+     "url": "https://thedefiant.io/converge/cefi/datavault-shares-plunge-nearly-50-after-biconomy-bitcoin-disclosure",
+     "date": "2026-10-28T00:56:05+00:00",
+     "summary": "The company plans to restate four financial periods and expects to remove $49 million from its June 2026 assets after reassessing a bitcoin-funded equity deal."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T00:56:05+00:00",
+   "last_seen": "2026-10-28T00:56:05+00:00",
+   "summary": "The company plans to restate four financial periods and expects to remove $49 million from its June 2026 assets after reassessing a bitcoin-funded equity deal.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "da0cc95bc8",
+   "title": "Discord is making public chats searchable on Google: How to opt out",
+   "date": "2026-10-28T00:47:04+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Discord is making public chats searchable on Google: How to opt out",
+     "url": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T00:47:04+00:00",
+     "summary": "Discord conversations on large public servers will soon reach audiences far beyond their communities, raising privacy concerns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T00:47:04+00:00",
+   "last_seen": "2026-10-28T00:47:04+00:00",
+   "summary": "Discord conversations on large public servers will soon reach audiences far beyond their communities, raising privacy concerns.",
+   "tags": []
+  },
+  {
+   "id": "77ccdb8a11",
+   "title": "Solflare Validator Stops Earning Rewards After Provider Security Incident",
+   "date": "2026-10-28T00:29:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Solflare Validator Stops Earning Rewards After Provider Security Incident",
+     "url": "https://thedefiant.io/news/security/solflare-validator-stops-earning-rewards-after-provider-security-incident",
+     "date": "2026-10-28T00:29:33+00:00",
+     "summary": "Validator trackers show about 1.56 million SOL staked with the node. Solflare says user funds are safe and is preparing an in-app migration."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T00:29:33+00:00",
+   "last_seen": "2026-10-28T00:29:33+00:00",
+   "summary": "Validator trackers show about 1.56 million SOL staked with the node. Solflare says user funds are safe and is preparing an in-app migration.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "0a6d119153",
+   "title": "IPX Names Ja Rule President of Its Celebrity Board of Advisors and Founding Member",
+   "date": "2026-10-28T00:12:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "IPX Names Ja Rule President of Its Celebrity Board of Advisors and Founding Member",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/ipx-names-ja-rule-president-celebrity-board-of-advisors",
+     "date": "2026-10-28T00:12:35+00:00",
+     "summary": "IPX has named Ja Rule President of its Celebrity Board of Advisors and a founding shareholder. The GRAMMY-nominated artist is also a celebrity co-founder of IPX, an agentic operating system for intellectual property."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T00:12:35+00:00",
+   "last_seen": "2026-10-28T00:12:35+00:00",
+   "summary": "IPX has named Ja Rule President of its Celebrity Board of Advisors and a founding shareholder. The GRAMMY-nominated artist is also a celebrity co-founder of IPX, an agentic operating system for intellectual property.",
+   "tags": []
+  },
   {
    "id": "d689df7d90",
    "title": "Polymarket reforms Bitcoin contracts and Binance trading spikes immediately drop",

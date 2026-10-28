@@ -1,6 +1,93 @@
 {
- "updated": "2026-10-28T09:07:39.937238+00:00",
+ "updated": "2026-10-28T10:05:55.129049+00:00",
  "events": [
+  {
+   "id": "2c6355da20",
+   "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+   "date": "2026-10-28T09:59:25+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Kospi surges 7% as SK Hynix earnings fuel AI stock rebound",
+     "url": "https://www.coindesk.com/markets/2026/10/28/kospi-surges-7-as-sk-hynix-earnings-fuel-ai-stock-rebound",
+     "date": "2026-10-28T09:59:25+00:00",
+     "summary": "South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T09:59:25+00:00",
+   "last_seen": "2026-10-28T09:59:25+00:00",
+   "summary": "South Korean chipmakers led a broader AI recovery after SK Hynix reported a sevenfold profit surge and announced another $45 billion in shareholder returns.",
+   "tags": [
+    "ai",
+    "markets"
+   ]
+  },
+  {
+   "id": "e2148727fb",
+   "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
+   "date": "2026-10-28T09:55:29+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T09:55:29+00:00",
+     "summary": "Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks extended a rebound into key corporate earnings releases."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T09:55:29+00:00",
+   "last_seen": "2026-10-28T09:55:29+00:00",
+   "summary": "Bitcoin sought to rebuild support at $80,000 while Asian and US tech stocks extended a rebound into key corporate earnings releases.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "1ce864b28b",
+   "title": "Ethereum\u2019s $3 billion blockspace bet hinges on who gets to produce the next block",
+   "date": "2026-10-28T09:40:42+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum\u2019s $3 billion blockspace bet hinges on who gets to produce the next block",
+     "url": "https://cryptoslate.com/ethereums-3-billion-blockspace-bet-hinges-on-who-gets-to-produce-the-next-block/",
+     "date": "2026-10-28T09:40:42+00:00",
+     "summary": "An ETHGas-funded study models a four-minute average wait at 5% qualified proposer weight, putting ether.fi\u2019s April stake commitment in perspective. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T09:40:42+00:00",
+   "last_seen": "2026-10-28T09:40:42+00:00",
+   "summary": "An ETHGas-funded study models a four-minute average wait at 5% qualified proposer weight, putting ether.fi\u2019s April stake commitment in perspective. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "2630fa1630",
+   "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
+   "date": "2026-10-28T09:15:22+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Here's how much bitcoin and the S&P 500 could rally after midterms",
+     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-averages-over-50-in-the-12-months-after-midterms-s-and-p-500-gains-15",
+     "date": "2026-10-28T09:15:22+00:00",
+     "summary": "Both bitcoin and the S&P 500 have historically produced positive returns in a year after midterms. BTC's pattern, however, could also be explained by the four-year halving cycles."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T09:15:22+00:00",
+   "last_seen": "2026-10-28T09:15:22+00:00",
+   "summary": "Both bitcoin and the S&P 500 have historically produced positive returns in a year after midterms. BTC's pattern, however, could also be explained by the four-year halving cycles.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
   {
    "id": "e27e8c97cc",
    "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
@@ -159,14 +246,22 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/moody-s-assigns-ripple-s-rlusd-a2-and-p-1-deposit-ratings",
      "date": "2026-10-28T05:14:25+00:00",
      "summary": "The ratings cover native RLUSD on XRP Ledger and Ethereum, with reserve safeguards weighed against holders\u2019 exposure to an issuer bankruptcy."
+    },
+    {
+     "source": "The Block",
+     "title": "Moody\u2019s assigns investment-grade ratings to Ripple\u2019s RLUSD stablecoin",
+     "url": "https://www.theblock.co/news/web3/2026-10-28-moodys-ripple-rlusd-stablecoin-431969",
+     "date": "2026-10-28T09:15:20+00:00",
+     "summary": "Moody's Ratings assigned the RLUSD A2 long-term and P-1 short-term ratings, citing credit quality and market value of its reserve assets."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-28T05:14:25+00:00",
-   "last_seen": "2026-10-28T05:14:25+00:00",
+   "last_seen": "2026-10-28T09:15:20+00:00",
    "summary": "The ratings cover native RLUSD on XRP Ledger and Ethereum, with reserve safeguards weighed against holders\u2019 exposure to an issuer bankruptcy.",
    "tags": [
-    "ethereum"
+    "ethereum",
+    "stablecoins"
    ]
   },
   {

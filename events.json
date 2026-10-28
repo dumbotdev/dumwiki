@@ -1,6 +1,219 @@
 {
- "updated": "2026-10-28T11:01:38.912408+00:00",
+ "updated": "2026-10-28T11:59:36.529462+00:00",
  "events": [
+  {
+   "id": "0d9776d6ac",
+   "title": "Dissent and more: 3 things to watch for at the Fed meeting",
+   "date": "2026-10-28T11:57:26+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Dissent and more: 3 things to watch for at the Fed meeting",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/28/dissent-and-more-3-things-to-watch-for-at-the-fed-meeting",
+     "date": "2026-10-28T11:57:26+00:00",
+     "summary": "Your day-ahead look for Oct. 28, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T11:57:26+00:00",
+   "last_seen": "2026-10-28T11:57:26+00:00",
+   "summary": "Your day-ahead look for Oct. 28, 2026",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "232cc3952f",
+   "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+   "date": "2026-10-28T11:52:14+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "XRP Ledger developers propose creating wallets with zero XRP for stablecoin payments",
+     "url": "https://www.coindesk.com/tech/2026/10/28/xrp-ledger-developers-propose-creating-wallets-with-zero-xrp-for-stablecoin-payments",
+     "date": "2026-10-28T11:52:14+00:00",
+     "summary": "An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing users to start with stablecoins without first acquiring XRP."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T11:52:14+00:00",
+   "last_seen": "2026-10-28T11:52:14+00:00",
+   "summary": "An experimental change would let companies cover the reserve for customer and AI-agent accounts, allowing users to start with stablecoins without first acquiring XRP.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "caca1e8b8a",
+   "title": "SUN.io Completes 52nd Buyback and Burn: Total SUN Burned Surpasses 685M as SunSwap Accelerates Ecosystem Integrations",
+   "date": "2026-10-28T11:50:08+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "SUN.io Completes 52nd Buyback and Burn: Total SUN Burned Surpasses 685M as SunSwap Accelerates Ecosystem Integrations",
+     "url": "https://cryptoslate.com/sun-io-completes-52nd-buyback-and-burn-total-sun-burned-surpasses-685m-as-sunswap-accelerates-ecosystem-integrations/",
+     "date": "2026-10-28T11:50:08+00:00",
+     "summary": "SUN.io, the core DeFi liquidity infrastructure on the TRON network, has successfully executed its 52nd SUN token buyback and burn on October 27, removing more than 7.23 million SUN from circulation. This round marks the platform&#039;s 52nd consecutive burn, bringing the..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T11:50:08+00:00",
+   "last_seen": "2026-10-28T11:50:08+00:00",
+   "summary": "SUN.io, the core DeFi liquidity infrastructure on the TRON network, has successfully executed its 52nd SUN token buyback and burn on October 27, removing more than 7.23 million SUN from circulation. This round marks the platform&#039;s 52nd consecutive burn, bringing the...",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "2115a0aca3",
+   "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+   "date": "2026-10-28T11:32:31+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin rebounds above $81,000 as Asian chip rally spills into crypto, pepe jumps 9%",
+     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-rebounds-above-usd81-000-as-asian-chip-rally-spills-into-crypto-pepe-jumps-9",
+     "date": "2026-10-28T11:32:31+00:00",
+     "summary": "Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T11:32:31+00:00",
+   "last_seen": "2026-10-28T11:32:31+00:00",
+   "summary": "Bitcoin rose above $81,400 as Asian chip stocks rallied, with frog-themed memecoin pepe adding 9%.",
+   "tags": [
+    "bitcoin",
+    "markets",
+    "memecoins"
+   ]
+  },
+  {
+   "id": "95beca90ed",
+   "title": "Settlement concerns prompt Euronext to halt CoinShares\u2019 Zcash ETP ahead of debut",
+   "date": "2026-10-28T11:24:07+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Settlement concerns prompt Euronext to halt CoinShares\u2019 Zcash ETP ahead of debut",
+     "url": "https://cointelegraph.com/news/euronext-suspends-coinshares-zcash-etp-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T11:24:07+00:00",
+     "summary": "A Euronext spokesperson told Cointelegraph the suspension was due to \u201coperational settlement requirements\u201d and remains in effect until settlement operations are supported by the CSD."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T11:24:07+00:00",
+   "last_seen": "2026-10-28T11:24:07+00:00",
+   "summary": "A Euronext spokesperson told Cointelegraph the suspension was due to \u201coperational settlement requirements\u201d and remains in effect until settlement operations are supported by the CSD.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "a3f186bfa8",
+   "title": "Live updates: Bitcoin climbs above $81,000 as majors rally ahead of Fed decision",
+   "date": "2026-10-28T11:23:34+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Bitcoin climbs above $81,000 as majors rally ahead of Fed decision",
+     "url": "https://www.coindesk.com/business/2026/10/28/live-updates-bitcoin-climbs-above-usd81-000-as-majors-rally-ahead-of-fed-decision",
+     "date": "2026-10-28T11:23:34+00:00",
+     "summary": "HYPE and ZEC led a broad bounce, with every top token in the green hours before the Federal Reserve\u2019s rate call."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T11:23:34+00:00",
+   "last_seen": "2026-10-28T11:23:34+00:00",
+   "summary": "HYPE and ZEC led a broad bounce, with every top token in the green hours before the Federal Reserve\u2019s rate call.",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "dbbc28362a",
+   "title": "Soneium Opens Royalty Vault With $600,000 Launch Cap",
+   "date": "2026-10-28T11:17:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Soneium Opens Royalty Vault With $600,000 Launch Cap",
+     "url": "https://thedefiant.io/news/defi/soneium-opens-royalty-vault-with-600-000-launch-cap",
+     "date": "2026-10-28T11:17:54+00:00",
+     "summary": "Holding ipUSD alone provides no royalty exposure. Investors receive separate vault shares after settlement, and standard exits can take months."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T11:17:54+00:00",
+   "last_seen": "2026-10-28T11:17:54+00:00",
+   "summary": "Holding ipUSD alone provides no royalty exposure. Investors receive separate vault shares after settlement, and standard exits can take months.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "a73435c48a",
+   "title": "OKXICE Objections Rise to 33 as Stock-Token Lineup Shrinks",
+   "date": "2026-10-28T11:12:43+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OKXICE Objections Rise to 33 as Stock-Token Lineup Shrinks",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-objections-rise-to-33-as-stock-token-lineup-shrinks",
+     "date": "2026-10-28T11:12:43+00:00",
+     "summary": "Issuer objections cover 31 of the 63 originally proposed symbols, leaving 32 without a disclosed objection ahead of the venue\u2019s launch."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T11:12:43+00:00",
+   "last_seen": "2026-10-28T11:12:43+00:00",
+   "summary": "Issuer objections cover 31 of the 63 originally proposed symbols, leaving 32 without a disclosed objection ahead of the venue\u2019s launch.",
+   "tags": []
+  },
+  {
+   "id": "b674ac597b",
+   "title": "Mirae Asset Securities issues tokenized notes on Solana",
+   "date": "2026-10-28T11:05:33+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Mirae Asset Securities issues tokenized notes on Solana",
+     "url": "https://cointelegraph.com/news/mirae-asset-securities-tokenized-notes-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T11:05:33+00:00",
+     "summary": "The company\u2019s Hong Kong unit issued six-month notes under its $3 billion program, extending blockchain-based distribution to institutional investors."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T11:05:33+00:00",
+   "last_seen": "2026-10-28T11:05:33+00:00",
+   "summary": "The company\u2019s Hong Kong unit issued six-month notes under its $3 billion program, extending blockchain-based distribution to institutional investors.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "49cb96ca7b",
+   "title": "Bitcoin beats the S&P 500 on most trading days but still loses the month",
+   "date": "2026-10-28T11:00:51+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin beats the S&P 500 on most trading days but still loses the month",
+     "url": "https://cryptoslate.com/bitcoin-beats-the-sp-500-on-most-trading-days-but-still-loses-the-month/",
+     "date": "2026-10-28T11:00:51+00:00",
+     "summary": "Bitcoin&#039;s relative win rate against the S&P 500 recovered above 50% in recent sessions, up from about one session in five in June, its weakest stretch in roughly six years, according to Glassnode. Coinbase Institutional&#039;s Oct. 23 report found BlackRock&#039;s IBIT..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T11:00:51+00:00",
+   "last_seen": "2026-10-28T11:00:51+00:00",
+   "summary": "Bitcoin&#039;s relative win rate against the S&P 500 recovered above 50% in recent sessions, up from about one session in five in June, its weakest stretch in roughly six years, according to Glassnode. Coinbase Institutional&#039;s Oct. 23 report found BlackRock&#039;s IBIT...",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
   {
    "id": "aba620d9d1",
    "title": "Google to preview crypto custody security system as AI threats grow",

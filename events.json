@@ -1,6 +1,109 @@
 {
- "updated": "2026-10-28T07:21:30.933253+00:00",
+ "updated": "2026-10-28T09:07:39.937238+00:00",
  "events": [
+  {
+   "id": "e27e8c97cc",
+   "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
+   "date": "2026-10-28T09:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Securitize adds Stellar blockchain as institutional tokenization gathers steam",
+     "url": "https://www.coindesk.com/business/2026/10/28/securitize-adds-stellar-blockchain-as-institutional-tokenization-gathers-steam",
+     "date": "2026-10-28T09:00:00+00:00",
+     "summary": "The firms announced the agreement at Meridian 2026, the Stellar Development Foundation\u2019s annual conference in Portugal."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T09:00:00+00:00",
+   "last_seen": "2026-10-28T09:00:00+00:00",
+   "summary": "The firms announced the agreement at Meridian 2026, the Stellar Development Foundation\u2019s annual conference in Portugal.",
+   "tags": []
+  },
+  {
+   "id": "ee07aa333b",
+   "title": "Robinhood links 29 million app users to Ripple\u2019s XRP Ledger",
+   "date": "2026-10-28T08:40:08+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Robinhood links 29 million app users to Ripple\u2019s XRP Ledger",
+     "url": "https://cryptoslate.com/robinhood-links-29-million-app-users-to-ripples-xrp-ledger/",
+     "date": "2026-10-28T08:40:08+00:00",
+     "summary": "RLUSD already trades on Bitstamp, while the new agreement adds expected Robinhood app access and planned XRP Ledger settlement. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T08:40:08+00:00",
+   "last_seen": "2026-10-28T08:40:08+00:00",
+   "summary": "RLUSD already trades on Bitstamp, while the new agreement adds expected Robinhood app access and planned XRP Ledger settlement. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "e80ca1f973",
+   "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+   "date": "2026-10-28T07:57:18+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
+     "url": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T07:57:18+00:00",
+     "summary": "US spot Bitcoin ETFs drew $286 million over two days, narrowing October\u2019s net outflows to $26 million as the Crypto Fear & Greed Index remained neutral."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T07:57:18+00:00",
+   "last_seen": "2026-10-28T07:57:18+00:00",
+   "summary": "US spot Bitcoin ETFs drew $286 million over two days, narrowing October\u2019s net outflows to $26 million as the Crypto Fear & Greed Index remained neutral.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "7e8d5640e5",
+   "title": "Coinbase denies systems breach, says vendor exposed customer data",
+   "date": "2026-10-28T07:42:55+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Coinbase denies systems breach, says vendor exposed customer data",
+     "url": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-28T07:42:55+00:00",
+     "summary": "Coinbase said that an incident at analytics vendor Amplitude exposed some customers\u2019 contact data, but it found no evidence of unauthorized access to its own systems."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T07:42:55+00:00",
+   "last_seen": "2026-10-28T07:42:55+00:00",
+   "summary": "Coinbase said that an incident at analytics vendor Amplitude exposed some customers\u2019 contact data, but it found no evidence of unauthorized access to its own systems.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "30b1a30649",
+   "title": "Zilliqa CEO Steps Down as Board Takes Oversight Amid Security Probe",
+   "date": "2026-10-28T07:37:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Zilliqa CEO Steps Down as Board Takes Oversight Amid Security Probe",
+     "url": "https://thedefiant.io/news/security/zilliqa-ceo-steps-down-as-board-takes-oversight-amid-security-probe",
+     "date": "2026-10-28T07:37:00+00:00",
+     "summary": "X-Bridge is closed in both directions, and PlunderSwap has reported losses in four token pools."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T07:37:00+00:00",
+   "last_seen": "2026-10-28T07:37:00+00:00",
+   "summary": "X-Bridge is closed in both directions, and PlunderSwap has reported losses in four token pools.",
+   "tags": []
+  },
   {
    "id": "f495d689fe",
    "title": "Bitcoin apps risk massive fee drain, and 2 library bugs are blamed",

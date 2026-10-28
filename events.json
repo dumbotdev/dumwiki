@@ -1,6 +1,93 @@
 {
- "updated": "2026-10-28T05:01:50.671223+00:00",
+ "updated": "2026-10-28T05:58:35.107060+00:00",
  "events": [
+  {
+   "id": "f495d689fe",
+   "title": "Bitcoin apps risk massive fee drain, and 2 library bugs are blamed",
+   "date": "2026-10-28T05:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin apps risk massive fee drain, and 2 library bugs are blamed",
+     "url": "https://cryptoslate.com/bitcoin-apps-risk-massive-fee-drain-and-2-library-bugs-are-blamed/",
+     "date": "2026-10-28T05:30:00+00:00",
+     "summary": "Applications importing PSBTs can miscalculate miner fees and miss an excessive-fee warning if they rely on the vulnerable library&#039;s accounting. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T05:30:00+00:00",
+   "last_seen": "2026-10-28T05:30:00+00:00",
+   "summary": "Applications importing PSBTs can miscalculate miner fees and miss an excessive-fee warning if they rely on the vulnerable library&#039;s accounting. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "4833111eef",
+   "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can\u2019t access its BTC",
+   "date": "2026-10-28T05:28:13+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin treasury Datavault AI plunges 50% after firm says it can\u2019t access its BTC",
+     "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-treasury-datavault-ai-plunges-50-after-firm-says-it-can-t-access-its-btc",
+     "date": "2026-10-28T05:28:13+00:00",
+     "summary": "The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be withdrawn."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T05:28:13+00:00",
+   "last_seen": "2026-10-28T05:28:13+00:00",
+   "summary": "The company said the accounting correction will cut reported assets by $92.2 million at the end of 2025 after bitcoin held on Biconomy could not be withdrawn.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "6006b68946",
+   "title": "Moody\u2019s Assigns Ripple\u2019s RLUSD A2 and P-1 Deposit Ratings",
+   "date": "2026-10-28T05:14:25+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Moody\u2019s Assigns Ripple\u2019s RLUSD A2 and P-1 Deposit Ratings",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/moody-s-assigns-ripple-s-rlusd-a2-and-p-1-deposit-ratings",
+     "date": "2026-10-28T05:14:25+00:00",
+     "summary": "The ratings cover native RLUSD on XRP Ledger and Ethereum, with reserve safeguards weighed against holders\u2019 exposure to an issuer bankruptcy."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T05:14:25+00:00",
+   "last_seen": "2026-10-28T05:14:25+00:00",
+   "summary": "The ratings cover native RLUSD on XRP Ledger and Ethereum, with reserve safeguards weighed against holders\u2019 exposure to an issuer bankruptcy.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "b5c04c15b1",
+   "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+   "date": "2026-10-28T05:10:36+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+     "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+     "date": "2026-10-28T05:10:36+00:00",
+     "summary": "The breach hit an internal employee system that Bithumb says is separate from its trading platform, while the exchange is still determining whether customer information was exposed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T05:10:36+00:00",
+   "last_seen": "2026-10-28T05:10:36+00:00",
+   "summary": "The breach hit an internal employee system that Bithumb says is separate from its trading platform, while the exchange is still determining whether customer information was exposed.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "dbc26f56f3",
    "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",

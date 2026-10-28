@@ -1,6 +1,69 @@
 {
- "updated": "2026-10-28T22:55:52.553297+00:00",
+ "updated": "2026-10-28T23:52:32.145227+00:00",
  "events": [
+  {
+   "id": "d528a1e20c",
+   "title": "Bithumb hack leaks staff data and regulators launch raid",
+   "date": "2026-10-28T23:40:57+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bithumb hack leaks staff data and regulators launch raid",
+     "url": "https://cryptoslate.com/bithumb-faces-on-site-inspections-after-reporting-signs-of-employee-data-leak/",
+     "date": "2026-10-28T23:40:57+00:00",
+     "summary": "The FSC says customer-data exposure is still being checked as authorities investigate the staff-support system and plan stronger safeguards. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T23:40:57+00:00",
+   "last_seen": "2026-10-28T23:40:57+00:00",
+   "summary": "The FSC says customer-data exposure is still being checked as authorities investigate the staff-support system and plan stronger safeguards. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "6cfcf714f0",
+   "title": "Peer Adds Alipay-Funded USDC Trading on Base in Beta",
+   "date": "2026-10-28T23:38:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Peer Adds Alipay-Funded USDC Trading on Base in Beta",
+     "url": "https://thedefiant.io/news/defi/peer-adds-alipay-funded-usdc-trading-on-base-in-beta",
+     "date": "2026-10-28T23:38:58+00:00",
+     "summary": "Buyers pay individual sellers in yuan, while Peer says it has no official partnership with Alipay."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T23:38:58+00:00",
+   "last_seen": "2026-10-28T23:38:58+00:00",
+   "summary": "Buyers pay individual sellers in yuan, while Peer says it has no official partnership with Alipay.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "1bcb1ad1a4",
+   "title": "Utah Brings Criminal Charges Against Kalshi and Its Co-Founders",
+   "date": "2026-10-28T23:18:43+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Utah Brings Criminal Charges Against Kalshi and Its Co-Founders",
+     "url": "https://thedefiant.io/news/regulation/utah-brings-criminal-charges-against-kalshi-and-its-co-founders",
+     "date": "2026-10-28T23:18:43+00:00",
+     "summary": "The charging information lists 13 felony counts and one misdemeanor as the CFTC seeks to block Utah\u2019s enforcement of gambling laws against federally regulated markets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-28T23:18:43+00:00",
+   "last_seen": "2026-10-28T23:18:43+00:00",
+   "summary": "The charging information lists 13 felony counts and one misdemeanor as the CFTC seeks to block Utah\u2019s enforcement of gambling laws against federally regulated markets.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "f2c09eaeca",
    "title": "MEXC Sets France Exit Schedule as Brazil Licensing Deadline Nears",

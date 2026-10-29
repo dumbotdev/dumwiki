@@ -1,6 +1,70 @@
 {
- "updated": "2026-10-29T09:09:33.316863+00:00",
+ "updated": "2026-10-29T10:08:09.672581+00:00",
  "events": [
+  {
+   "id": "02b118c999",
+   "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
+   "date": "2026-10-29T10:04:36+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",
+     "url": "https://www.coindesk.com/policy/2026/10/29/thai-supreme-court-rules-bitcoin-is-property-after-thief-challenges-conviction",
+     "date": "2026-10-29T10:04:36+00:00",
+     "summary": "The court said bitcoin has a market price, can be cashed out and held by the public. It upheld a 10-year sentence for a man who helped the robbers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T10:04:36+00:00",
+   "last_seen": "2026-10-29T10:04:36+00:00",
+   "summary": "The court said bitcoin has a market price, can be cashed out and held by the public. It upheld a 10-year sentence for a man who helped the robbers.",
+   "tags": [
+    "bitcoin",
+    "legal",
+    "markets"
+   ]
+  },
+  {
+   "id": "0d58edfdd2",
+   "title": "Bermuda taps WalletConnect to advance its onchain economy plan",
+   "date": "2026-10-29T10:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bermuda taps WalletConnect to advance its onchain economy plan",
+     "url": "https://www.coindesk.com/business/2026/10/29/bermuda-taps-walletconnect-to-advance-its-onchain-economy-plan",
+     "date": "2026-10-29T10:00:00+00:00",
+     "summary": "Bermuda chose WalletConnect to bring crypto payments to local merchants, starting with ticketing platform PTIX in the second quarter of 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T10:00:00+00:00",
+   "last_seen": "2026-10-29T10:00:00+00:00",
+   "summary": "Bermuda chose WalletConnect to bring crypto payments to local merchants, starting with ticketing platform PTIX in the second quarter of 2027.",
+   "tags": []
+  },
+  {
+   "id": "f6b4e8a846",
+   "title": "Bitcoin could reach $1.6 million by 2036, but 82% of the forecast rests on one bet",
+   "date": "2026-10-29T09:50:24+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin could reach $1.6 million by 2036, but 82% of the forecast rests on one bet",
+     "url": "https://cryptoslate.com/bitcoin-could-reach-1-6-million-by-2036-but-82-of-the-forecast-rests-on-one-bet/",
+     "date": "2026-10-29T09:50:24+00:00",
+     "summary": "About 82% of its modeled valuation comes from gold-and-Bitcoin demand, exposing a sharp divide with JPMorgan\u2019s return assumptions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T09:50:24+00:00",
+   "last_seen": "2026-10-29T09:50:24+00:00",
+   "summary": "About 82% of its modeled valuation comes from gold-and-Bitcoin demand, exposing a sharp divide with JPMorgan\u2019s return assumptions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
   {
    "id": "c2ebaed6a1",
    "title": "SparkLend Has $11.95 Million in USDT Available as Utilization Holds Near 96%",

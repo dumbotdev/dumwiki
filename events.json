@@ -1,6 +1,150 @@
 {
- "updated": "2026-10-29T10:08:09.672581+00:00",
+ "updated": "2026-10-29T11:03:24.514689+00:00",
  "events": [
+  {
+   "id": "40d63e26b2",
+   "title": "North Korea\u2019s $600 million fake-worker empire has a hidden crypto connection",
+   "date": "2026-10-29T11:00:06+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "North Korea\u2019s $600 million fake-worker empire has a hidden crypto connection",
+     "url": "https://cryptoslate.com/north-koreas-600-million-fake-worker-empire-has-a-hidden-crypto-connection/",
+     "date": "2026-10-29T11:00:06+00:00",
+     "summary": "The October 28 designations identify Ethereum and Tron addresses, but firms&#039; existing blocking duties extend beyond the listed wallets. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T11:00:06+00:00",
+   "last_seen": "2026-10-29T11:00:06+00:00",
+   "summary": "The October 28 designations identify Ethereum and Tron addresses, but firms&#039; existing blocking duties extend beyond the listed wallets. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "d07dd1a639",
+   "title": "Curve Finance launches on Stellar in first native deployment outside EVM ecosystem",
+   "date": "2026-10-29T11:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Curve Finance launches on Stellar in first native deployment outside EVM ecosystem",
+     "url": "https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121",
+     "date": "2026-10-29T11:00:00+00:00",
+     "summary": "Curve Finance has launched on Stellar mainnet, its first native deployment outside the Ethereum Virtual Machine (EVM) ecosystem."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T11:00:00+00:00",
+   "last_seen": "2026-10-29T11:00:00+00:00",
+   "summary": "Curve Finance has launched on Stellar mainnet, its first native deployment outside the Ethereum Virtual Machine (EVM) ecosystem.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "f29757729a",
+   "title": "Cathie Wood\u2019s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump",
+   "date": "2026-10-29T10:51:10+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Cathie Wood\u2019s ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump",
+     "url": "https://www.coindesk.com/markets/2026/10/29/cathie-wood-s-ark-buys-the-dip-on-robinhood-in-its-largest-purchase-in-6-months-after-23-slump",
+     "date": "2026-10-29T10:51:10+00:00",
+     "summary": "HOOD fell 3.3% on Wednesday, broadening its one-month decline to more than 23%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T10:51:10+00:00",
+   "last_seen": "2026-10-29T10:51:10+00:00",
+   "summary": "HOOD fell 3.3% on Wednesday, broadening its one-month decline to more than 23%.",
+   "tags": []
+  },
+  {
+   "id": "7335353144",
+   "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
+   "date": "2026-10-29T10:46:43+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K",
+     "url": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T10:46:43+00:00",
+     "summary": "BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T10:46:43+00:00",
+   "last_seen": "2026-10-29T10:46:43+00:00",
+   "summary": "BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "c1d4b792e6",
+   "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
+   "date": "2026-10-29T10:44:48+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline",
+     "url": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline",
+     "date": "2026-10-29T10:44:48+00:00",
+     "summary": "About 1.56 million SOL sat on a validator that stopped earning, and the wallet still hasn\u2019t named the firm that held its keys."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T10:44:48+00:00",
+   "last_seen": "2026-10-29T10:44:48+00:00",
+   "summary": "About 1.56 million SOL sat on a validator that stopped earning, and the wallet still hasn\u2019t named the firm that held its keys.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "390488e272",
+   "title": "Live updates: Bitcoin clings to $80,000 as Strategy\u2019s cushion thins before earnings",
+   "date": "2026-10-29T10:41:39+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Bitcoin clings to $80,000 as Strategy\u2019s cushion thins before earnings",
+     "url": "https://www.coindesk.com/business/2026/10/29/live-updates-bitcoin-clings-to-usd80-000-as-strategy-s-cushion-thins-before-earnings",
+     "date": "2026-10-29T10:41:39+00:00",
+     "summary": "Bitcoin slipped nearly 2% ahead of Strategy\u2019s third-quarter results, and the largest corporate holder\u2019s coins are now worth only about 6% more than it paid for them."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T10:41:39+00:00",
+   "last_seen": "2026-10-29T10:41:39+00:00",
+   "summary": "Bitcoin slipped nearly 2% ahead of Strategy\u2019s third-quarter results, and the largest corporate holder\u2019s coins are now worth only about 6% more than it paid for them.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "29e19bae00",
+   "title": "ECB President Christine Lagarde to step down in February 2027",
+   "date": "2026-10-29T10:29:38+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "ECB President Christine Lagarde to step down in February 2027",
+     "url": "https://cointelegraph.com/news/ecb-president-lagarde-step-down-february-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T10:29:38+00:00",
+     "summary": "Lagarde announced plans to step down as European Central Bank President after serving more than seven years in the role."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T10:29:38+00:00",
+   "last_seen": "2026-10-29T10:29:38+00:00",
+   "summary": "Lagarde announced plans to step down as European Central Bank President after serving more than seven years in the role.",
+   "tags": []
+  },
   {
    "id": "02b118c999",
    "title": "Thai Supreme Court rules bitcoin is property after thief challenges conviction",

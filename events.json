@@ -1,6 +1,90 @@
 {
- "updated": "2026-10-28T23:52:32.145227+00:00",
+ "updated": "2026-10-29T01:20:18.655436+00:00",
  "events": [
+  {
+   "id": "80a42f4083",
+   "title": "Alipay Denies Supporting Crypto Trading After Peer's Beta Launch",
+   "date": "2026-10-29T01:16:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Alipay Denies Supporting Crypto Trading After Peer's Beta Launch",
+     "url": "https://thedefiant.io/news/defi/alipay-denies-supporting-crypto-trading-after-peer-s-beta-launch",
+     "date": "2026-10-29T01:16:05+00:00",
+     "summary": "Peer's website still displays Alipay as a payment method, while its buyer guide says the companies have no official partnership."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T01:16:05+00:00",
+   "last_seen": "2026-10-29T01:16:05+00:00",
+   "summary": "Peer's website still displays Alipay as a payment method, while its buyer guide says the companies have no official partnership.",
+   "tags": []
+  },
+  {
+   "id": "388f9d6fd9",
+   "title": "Bitcoin faces fresh pressure after Fed\u2019s hawkish rate hold: Analysts",
+   "date": "2026-10-29T01:12:01+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin faces fresh pressure after Fed\u2019s hawkish rate hold: Analysts",
+     "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T01:12:01+00:00",
+     "summary": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin\u2019s next move."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T01:12:01+00:00",
+   "last_seen": "2026-10-29T01:12:01+00:00",
+   "summary": "Traders are pricing in a 78% chance of a December rate hike, while analysts say Treasury yields, the US dollar and upcoming inflation data could determine Bitcoin\u2019s next move.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "974e7df9c6",
+   "title": "Bitcoin Core Patches Three Bugs, Including Non-Linux Node Crash",
+   "date": "2026-10-29T01:06:59+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Core Patches Three Bugs, Including Non-Linux Node Crash",
+     "url": "https://thedefiant.io/news/security/bitcoin-core-patches-three-bugs-including-non-linux-node-crash",
+     "date": "2026-10-29T01:06:59+00:00",
+     "summary": "Fixes are available in four release branches, but 32-bit systems and FAT32 storage remain exposed to a separate, low-severity flaw."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T01:06:59+00:00",
+   "last_seen": "2026-10-29T01:06:59+00:00",
+   "summary": "Fixes are available in four release branches, but 32-bit systems and FAT32 storage remain exposed to a separate, low-severity flaw.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "34ecc71565",
+   "title": "Diva Cancels Mainnet Launch, Tells Early Stakers to Withdraw",
+   "date": "2026-10-29T00:37:20+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Diva Cancels Mainnet Launch, Tells Early Stakers to Withdraw",
+     "url": "https://thedefiant.io/news/defi/diva-cancels-mainnet-launch-tells-early-stakers-to-withdraw",
+     "date": "2026-10-29T00:37:20+00:00",
+     "summary": "The two pre-launch vaults show roughly 654.5 ETH in assets, while the shutdown statement offers no replacement DIVA distribution."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T00:37:20+00:00",
+   "last_seen": "2026-10-29T00:37:20+00:00",
+   "summary": "The two pre-launch vaults show roughly 654.5 ETH in assets, while the shutdown statement offers no replacement DIVA distribution.",
+   "tags": [
+    "ethereum"
+   ]
+  },
   {
    "id": "d528a1e20c",
    "title": "Bithumb hack leaks staff data and regulators launch raid",

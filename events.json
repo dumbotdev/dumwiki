@@ -1,6 +1,134 @@
 {
- "updated": "2026-10-29T07:22:34.279373+00:00",
+ "updated": "2026-10-29T09:09:33.316863+00:00",
  "events": [
+  {
+   "id": "c2ebaed6a1",
+   "title": "SparkLend Has $11.95 Million in USDT Available as Utilization Holds Near 96%",
+   "date": "2026-10-29T09:03:01+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SparkLend Has $11.95 Million in USDT Available as Utilization Holds Near 96%",
+     "url": "https://thedefiant.io/news/defi/sparklend-has-11-95-million-in-usdt-available-as-utilization-holds-near-96",
+     "date": "2026-10-29T09:03:01+00:00",
+     "summary": "Suppliers were earning about 6.9% APY, while borrowers faced roughly 7.70% APR after liquidity tightened earlier this week."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T09:03:01+00:00",
+   "last_seen": "2026-10-29T09:03:01+00:00",
+   "summary": "Suppliers were earning about 6.9% APY, while borrowers faced roughly 7.70% APR after liquidity tightened earlier this week.",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "01206f8198",
+   "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
+   "date": "2026-10-29T09:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Former Swift CEO joins stablecoin firm OpenTrade as chairman",
+     "url": "https://www.coindesk.com/business/2026/10/29/former-swift-ceo-joins-stablecoin-firm-opentrade-as-chairman-after-a-usd17-million-raise",
+     "date": "2026-10-29T09:00:00+00:00",
+     "summary": "Lazaro Campos takes the board role as the London-based company reports $300 million in assets locked and more than $1 billion in annual transaction volume."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T09:00:00+00:00",
+   "last_seen": "2026-10-29T09:00:00+00:00",
+   "summary": "Lazaro Campos takes the board role as the London-based company reports $300 million in assets locked and more than $1 billion in annual transaction volume.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "ef196009ce",
+   "title": "Fed\u2019s divided rate decision threatens Bitcoin\u2019s comeback as December hike looms",
+   "date": "2026-10-29T08:30:16+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Fed\u2019s divided rate decision threatens Bitcoin\u2019s comeback as December hike looms",
+     "url": "https://cryptoslate.com/feds-divided-rate-decision-threatens-bitcoins-comeback-as-december-hike-looms/",
+     "date": "2026-10-29T08:30:16+00:00",
+     "summary": "The Federal Reserve held its target range at 3.75% to 4% on Oct. 28 on a 10-2 vote. Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented, favoring an immediate quarter-point hike. Rate-market trackers put the odds of a December hike between about 83% and 88%,..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T08:30:16+00:00",
+   "last_seen": "2026-10-29T08:30:16+00:00",
+   "summary": "The Federal Reserve held its target range at 3.75% to 4% on Oct. 28 on a 10-2 vote. Governor Lisa Cook and Cleveland Fed President Beth Hammack dissented, favoring an immediate quarter-point hike. Rate-market trackers put the odds of a December hike between about 83% and 88%,...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "09b4b27a05",
+   "title": "Westpac Sets A$10,000 Monthly Crypto Payment Cap From December",
+   "date": "2026-10-29T08:19:21+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Westpac Sets A$10,000 Monthly Crypto Payment Cap From December",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/westpac-sets-a-10-000-monthly-crypto-payment-cap-from-december",
+     "date": "2026-10-29T08:19:21+00:00",
+     "summary": "Exemptions and higher limits will not be available, while withdrawals from crypto exchanges into Westpac accounts are unchanged."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T08:19:21+00:00",
+   "last_seen": "2026-10-29T08:19:21+00:00",
+   "summary": "Exemptions and higher limits will not be available, while withdrawals from crypto exchanges into Westpac accounts are unchanged.",
+   "tags": []
+  },
+  {
+   "id": "bbdff666f7",
+   "title": "The chart bitcoin traders should be paying attention to",
+   "date": "2026-10-29T07:44:44+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "The chart bitcoin traders should be paying attention to",
+     "url": "https://www.coindesk.com/markets/2026/10/29/the-chart-bitcoin-traders-should-be-paying-attention-to",
+     "date": "2026-10-29T07:44:44+00:00",
+     "summary": "A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T07:44:44+00:00",
+   "last_seen": "2026-10-29T07:44:44+00:00",
+   "summary": "A market at an inflection point could shape inflation trends and the prices of risk assets, from bitcoin to tech stocks.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "a4c044779a",
+   "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+   "date": "2026-10-29T07:32:20+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin ETFs add $137M, pushing October back into the green",
+     "url": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T07:32:20+00:00",
+     "summary": "Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T07:32:20+00:00",
+   "last_seen": "2026-10-29T07:32:20+00:00",
+   "summary": "Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million despite a hawkish Federal Reserve decision and weaker crypto sentiment.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
   {
    "id": "e7e34d7215",
    "title": "Wagyu Confirms Data Leak Exposing Monero Swap Records",

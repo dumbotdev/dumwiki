@@ -1,6 +1,48 @@
 {
- "updated": "2026-10-29T04:05:05.634081+00:00",
+ "updated": "2026-10-29T05:03:33.390748+00:00",
  "events": [
+  {
+   "id": "c1250585fa",
+   "title": "Utah charges predictions platform Kalshi with illegal gambling",
+   "date": "2026-10-29T05:02:37+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Utah charges predictions platform Kalshi with illegal gambling",
+     "url": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling",
+     "date": "2026-10-29T05:02:37+00:00",
+     "summary": "Utah has filed criminal charges against betting platform Kalshi and its co-founders."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T05:02:37+00:00",
+   "last_seen": "2026-10-29T05:02:37+00:00",
+   "summary": "Utah has filed criminal charges against betting platform Kalshi and its co-founders.",
+   "tags": []
+  },
+  {
+   "id": "e0b2e3d947",
+   "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+   "date": "2026-10-29T04:39:49+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+     "url": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T04:39:49+00:00",
+     "summary": "CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T04:39:49+00:00",
+   "last_seen": "2026-10-29T04:39:49+00:00",
+   "summary": "CFTC chair Mike Selig says autonomous AI agents could challenge financial rules built around human traders, and regulators need to adapt.",
+   "tags": [
+    "ai",
+    "ethereum",
+    "regulation"
+   ]
+  },
   {
    "id": "7c37b86788",
    "title": "Tokenized GOOGL Drops Nearly 12% Alongside After-Hours Stock Selloff",

@@ -1,6 +1,109 @@
 {
- "updated": "2026-10-29T19:13:08.128508+00:00",
+ "updated": "2026-10-29T20:03:27.787956+00:00",
  "events": [
+  {
+   "id": "adab19cbf9",
+   "title": "NYSE owner takes Trade[XYZ] stake as it plans US Hyperliquid futures",
+   "date": "2026-10-29T20:00:22+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "NYSE owner takes Trade[XYZ] stake as it plans US Hyperliquid futures",
+     "url": "https://cryptoslate.com/nyse-owner-takes-tradexyz-stake-as-it-plans-us-hyperliquid-futures/",
+     "date": "2026-10-29T20:00:22+00:00",
+     "summary": "Intercontinental Exchange (ICE), the owner of the New York Stock Exchange, is planning a US perpetual-futures market built on Hyperliquid. On Oct. 29, ICE and Trade[XYZ], a crypto startup building products on Hyperliquid, announced plans to establish a dedicated US market for..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T20:00:22+00:00",
+   "last_seen": "2026-10-29T20:00:22+00:00",
+   "summary": "Intercontinental Exchange (ICE), the owner of the New York Stock Exchange, is planning a US perpetual-futures market built on Hyperliquid. On Oct. 29, ICE and Trade[XYZ], a crypto startup building products on Hyperliquid, announced plans to establish a dedicated US market for...",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "e34f1fbc66",
+   "title": "Public companies double share of blockchain revenue since 2022: Report",
+   "date": "2026-10-29T19:53:14+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Public companies double share of blockchain revenue since 2022: Report",
+     "url": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T19:53:14+00:00",
+     "summary": "A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, driven by institutional adoption and real-world applications."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T19:53:14+00:00",
+   "last_seen": "2026-10-29T19:53:14+00:00",
+   "summary": "A new 1kx report finds that public companies are capturing a larger share of blockchain revenue, driven by institutional adoption and real-world applications.",
+   "tags": []
+  },
+  {
+   "id": "37e89e5124",
+   "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
+   "date": "2026-10-29T19:46:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
+     "url": "https://decrypt.co/382183/chrome-pull-details-from-your-gmail-web-forms",
+     "date": "2026-10-29T19:46:02+00:00",
+     "summary": "Chrome's new autofill uses Google's Gemini AI to search your Gmail for order numbers, tracking details, and flight bookings and fill them into web forms. It is rolling out in the U.S."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T19:46:02+00:00",
+   "last_seen": "2026-10-29T19:46:02+00:00",
+   "summary": "Chrome's new autofill uses Google's Gemini AI to search your Gmail for order numbers, tracking details, and flight bookings and fill them into web forms. It is rolling out in the U.S.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "7ae9c2d913",
+   "title": "Bubblemaps Traces $2.7 Million Outflow From Polymarket Breach",
+   "date": "2026-10-29T19:40:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bubblemaps Traces $2.7 Million Outflow From Polymarket Breach",
+     "url": "https://thedefiant.io/news/hacks/bubblemaps-traces-2-7-million-outflow-from-polymarket-breach",
+     "date": "2026-10-29T19:40:31+00:00",
+     "summary": "Trading is back online and Polymarket has pledged full reimbursement, while a trader cited in the tracing says he moved funds to safety."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T19:40:31+00:00",
+   "last_seen": "2026-10-29T19:40:31+00:00",
+   "summary": "Trading is back online and Polymarket has pledged full reimbursement, while a trader cited in the tracing says he moved funds to safety.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "637ffdd25a",
+   "title": "Polymarket suspended trading amid reports of user funds being drained",
+   "date": "2026-10-29T19:23:03+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Polymarket suspended trading amid reports of user funds being drained",
+     "url": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T19:23:03+00:00",
+     "summary": "The prediction markets platform halted trading on Thursday after it reported one of its third party providers had been compromised."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T19:23:03+00:00",
+   "last_seen": "2026-10-29T19:23:03+00:00",
+   "summary": "The prediction markets platform halted trading on Thursday after it reported one of its third party providers had been compromised.",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "b4a7f914e7",
    "title": "Mystery whale pulls $290 million from DeFi every midnight as Aave borrowing rates triple",

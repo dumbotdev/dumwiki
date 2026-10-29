@@ -1,6 +1,208 @@
 {
- "updated": "2026-10-29T15:12:14.327773+00:00",
+ "updated": "2026-10-29T16:11:31.296487+00:00",
  "events": [
+  {
+   "id": "4dd73227a2",
+   "title": "Fluid Opens DEX v2 Beta With Custom Collateral and Debt Ranges",
+   "date": "2026-10-29T16:11:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Fluid Opens DEX v2 Beta With Custom Collateral and Debt Ranges",
+     "url": "https://thedefiant.io/news/defi/fluid-opens-dex-v2-beta-with-custom-collateral-and-debt-ranges",
+     "date": "2026-10-29T16:11:26+00:00",
+     "summary": "Governance set $50,000 borrowing ceilings per asset for the new Ethereum contracts, while pool creation remains restricted."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T16:11:26+00:00",
+   "last_seen": "2026-10-29T16:11:26+00:00",
+   "summary": "Governance set $50,000 borrowing ceilings per asset for the new Ethereum contracts, while pool creation remains restricted.",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "cfa08bcf62",
+   "title": "IPX Announces Integration with Bridge, a Stripe Company, to Power Fiat On- and Off-Ramps on Its Tokenized IP Platform",
+   "date": "2026-10-29T16:10:17+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "IPX Announces Integration with Bridge, a Stripe Company, to Power Fiat On- and Off-Ramps on Its Tokenized IP Platform",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/ipx-integrates-bridge-fiat-on-off-ramps-tokenized-ip-platform",
+     "date": "2026-10-29T16:10:17+00:00",
+     "summary": "Bridge virtual accounts on IPX will let creators and projects receive real-world revenue in USDC, enabling movement between bank accounts and smart contracts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T16:10:17+00:00",
+   "last_seen": "2026-10-29T16:10:17+00:00",
+   "summary": "Bridge virtual accounts on IPX will let creators and projects receive real-world revenue in USDC, enabling movement between bank accounts and smart contracts.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "849b59107c",
+   "title": "Canton Strategic Targets Monday Tokenized-Stock Debut on TSV",
+   "date": "2026-10-29T16:09:17+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Canton Strategic Targets Monday Tokenized-Stock Debut on TSV",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/canton-strategic-targets-monday-tokenized-stock-debut-on-tsv",
+     "date": "2026-10-29T16:09:17+00:00",
+     "summary": "Fairmint will issue the shares and keep their official onchain ownership records as rival OKXICE faces 38 disclosed issuer objections."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T16:09:17+00:00",
+   "last_seen": "2026-10-29T16:09:17+00:00",
+   "summary": "Fairmint will issue the shares and keep their official onchain ownership records as rival OKXICE faces 38 disclosed issuer objections.",
+   "tags": []
+  },
+  {
+   "id": "cf24b8b8a8",
+   "title": "MetaMask Makes Stellar a Default Network on Mobile and Extension",
+   "date": "2026-10-29T15:53:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "MetaMask Makes Stellar a Default Network on Mobile and Extension",
+     "url": "https://thedefiant.io/news/defi/metamask-makes-stellar-a-default-network-on-mobile-and-extension",
+     "date": "2026-10-29T15:53:19+00:00",
+     "summary": "Existing multichain accounts gain recovery-phrase-derived Stellar addresses, with support for XLM, USDC and Soroban tokens."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T15:53:19+00:00",
+   "last_seen": "2026-10-29T15:53:19+00:00",
+   "summary": "Existing multichain accounts gain recovery-phrase-derived Stellar addresses, with support for XLM, USDC and Soroban tokens.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "e86059268a",
+   "title": "Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B",
+   "date": "2026-10-29T15:52:43+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Kalshi raises $1B at $40B valuation as non-sports revenue run rate tops $1B",
+     "url": "https://cointelegraph.com/news/kalshi-closes-1b-funding-round-at-40b-valuation-as-non-sports-revenue-run-rate-tops-1b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T15:52:43+00:00",
+     "summary": "The funding round comes as Kalshi expands its partnerships with the NBA and S&P Dow Jones Indices while facing legal challenges over its sports contracts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T15:52:43+00:00",
+   "last_seen": "2026-10-29T15:52:43+00:00",
+   "summary": "The funding round comes as Kalshi expands its partnerships with the NBA and S&P Dow Jones Indices while facing legal challenges over its sports contracts.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "101b745d6e",
+   "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
+   "date": "2026-10-29T15:39:54+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin price jumps to $81.5K as US GDP data beats expectations",
+     "url": "https://cointelegraph.com/markets/bitcoin-reaction-to-pce-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T15:39:54+00:00",
+     "summary": "BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet\u2019s Q3 earnings miss."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T15:39:54+00:00",
+   "last_seen": "2026-10-29T15:39:54+00:00",
+   "summary": "BTC price action returned to a key weekly resistance level as US stock markets digested Alphabet\u2019s Q3 earnings miss.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "629020183c",
+   "title": "Bank of England Proposes Tokenized Collateral Safeguards for Clearinghouses",
+   "date": "2026-10-29T15:36:43+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bank of England Proposes Tokenized Collateral Safeguards for Clearinghouses",
+     "url": "https://thedefiant.io/converge/regulation/bank-of-england-proposes-tokenized-collateral-safeguards-for-clearinghouses",
+     "date": "2026-10-29T15:36:43+00:00",
+     "summary": "Government bonds are a key example in the proposed guidance, while tokenized money market funds remain an area for further feedback. Responses are due Feb. 12, 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T15:36:43+00:00",
+   "last_seen": "2026-10-29T15:36:43+00:00",
+   "summary": "Government bonds are a key example in the proposed guidance, while tokenized money market funds remain an area for further feedback. Responses are due Feb. 12, 2027.",
+   "tags": []
+  },
+  {
+   "id": "3084a3449e",
+   "title": "Walmart Joins OKXICE Objectors as Issuer Total Reaches 38",
+   "date": "2026-10-29T15:34:22+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Walmart Joins OKXICE Objectors as Issuer Total Reaches 38",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/walmart-joins-okxice-objectors-as-issuer-total-reaches-38",
+     "date": "2026-10-29T15:34:22+00:00",
+     "summary": "Disclosed objections now cover 34 of the venue\u2019s 63 originally proposed stock symbols, leaving 29 without one."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T15:34:22+00:00",
+   "last_seen": "2026-10-29T15:34:22+00:00",
+   "summary": "Disclosed objections now cover 34 of the venue\u2019s 63 originally proposed stock symbols, leaving 29 without one.",
+   "tags": []
+  },
+  {
+   "id": "48b9326cf9",
+   "title": "Walmart Blocks Third-Party Stock Tokens on Planned OKXICE Venue",
+   "date": "2026-10-29T15:17:52+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Walmart Blocks Third-Party Stock Tokens on Planned OKXICE Venue",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/walmart-blocks-third-party-stock-tokens-on-planned-okxice-venue",
+     "date": "2026-10-29T15:17:52+00:00",
+     "summary": "The venue now lists 38 objectors, leaving 29 of its original 63 proposed symbols without disclosed objections."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T15:17:52+00:00",
+   "last_seen": "2026-10-29T15:17:52+00:00",
+   "summary": "The venue now lists 38 objectors, leaving 29 of its original 63 proposed symbols without disclosed objections.",
+   "tags": []
+  },
+  {
+   "id": "074f974ccb",
+   "title": "Polymarket Probes Suspicious Israeli Election Trades",
+   "date": "2026-10-29T15:14:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Polymarket Probes Suspicious Israeli Election Trades",
+     "url": "https://thedefiant.io/news/regulation/polymarket-probes-suspicious-israeli-election-trades",
+     "date": "2026-10-29T15:14:35+00:00",
+     "summary": "Some accounts collectively cashed out more than $100,000, Bloomberg reported. Polymarket\u2019s rules allow wallet bans, legal action and law-enforcement referrals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T15:14:35+00:00",
+   "last_seen": "2026-10-29T15:14:35+00:00",
+   "summary": "Some accounts collectively cashed out more than $100,000, Bloomberg reported. Polymarket\u2019s rules allow wallet bans, legal action and law-enforcement referrals.",
+   "tags": []
+  },
   {
    "id": "a717ffc79f",
    "title": "Bitcoin developers rush to fix 3 security flaws after AI uncovers them",
@@ -306,12 +508,19 @@
      "url": "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner",
      "date": "2026-10-29T14:15:00+00:00",
      "summary": "The service uses perpetual futures quotes to update reference prices when traditional markets close."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Chainlink Launches 24/7 RWA Pricing With Aave as Launch Partner",
+     "url": "https://thedefiant.io/news/defi/chainlink-launches-24-7-rwa-pricing-with-aave-as-launch-partner",
+     "date": "2026-10-29T15:45:01+00:00",
+     "summary": "Off-hours prices draw on perpetual-futures venues, while Aave says the service is coming soon to stock-backed loans."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-29T14:15:00+00:00",
-   "last_seen": "2026-10-29T14:15:00+00:00",
-   "summary": "The service uses perpetual futures quotes to update reference prices when traditional markets close.",
+   "last_seen": "2026-10-29T15:45:01+00:00",
+   "summary": "Off-hours prices draw on perpetual-futures venues, while Aave says the service is coming soon to stock-backed loans.",
    "tags": []
   },
   {
@@ -961,13 +1170,21 @@
      "url": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
      "date": "2026-10-29T11:11:25+00:00",
      "summary": "The planned ICE[XYZ] venue would offer 24/7 perpetual futures on stocks, commodities and crypto, pending CFTC approval. ICE is investing in Trade[XYZ]."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US",
+     "url": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us",
+     "date": "2026-10-29T15:59:48+00:00",
+     "summary": "Intercontinental Exchange signed a deal with Trade[XYZ] to launch regulated perpetual futures built on Hyperliquid in the United States, sending HYPE soaring."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-29T11:11:25+00:00",
-   "last_seen": "2026-10-29T11:11:25+00:00",
-   "summary": "The planned ICE[XYZ] venue would offer 24/7 perpetual futures on stocks, commodities and crypto, pending CFTC approval. ICE is investing in Trade[XYZ].",
+   "last_seen": "2026-10-29T15:59:48+00:00",
+   "summary": "Intercontinental Exchange signed a deal with Trade[XYZ] to launch regulated perpetual futures built on Hyperliquid in the United States, sending HYPE soaring.",
    "tags": [
+    "exchanges",
     "regulation"
    ]
   },

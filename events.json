@@ -1,6 +1,68 @@
 {
- "updated": "2026-10-29T01:20:18.655436+00:00",
+ "updated": "2026-10-29T03:03:41.565669+00:00",
  "events": [
+  {
+   "id": "c7d48ef13a",
+   "title": "zkLink Nova Bridge Exploit Drains About $779,000 in One Transaction",
+   "date": "2026-10-29T02:33:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "zkLink Nova Bridge Exploit Drains About $779,000 in One Transaction",
+     "url": "https://thedefiant.io/news/hacks/zklink-nova-bridge-exploit-drains-about-779-000-in-one-transaction",
+     "date": "2026-10-29T02:33:13+00:00",
+     "summary": "The main Ethereum escrow still showed an unpaused status after Blockaid warned that a forged batch root had enabled unauthorized withdrawals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T02:33:13+00:00",
+   "last_seen": "2026-10-29T02:33:13+00:00",
+   "summary": "The main Ethereum escrow still showed an unpaused status after Blockaid warned that a forged batch root had enabled unauthorized withdrawals.",
+   "tags": [
+    "ethereum",
+    "security"
+   ]
+  },
+  {
+   "id": "77f9c97706",
+   "title": "Ripple is heading for its best year ever while XRP faces its worst since 2022",
+   "date": "2026-10-29T02:10:42+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ripple is heading for its best year ever while XRP faces its worst since 2022",
+     "url": "https://cryptoslate.com/ripple-is-heading-for-its-best-year-ever-while-xrp-faces-its-worst-since-2022/",
+     "date": "2026-10-29T02:10:42+00:00",
+     "summary": "Ripple is expecting its strongest business year on record even as XRP heads toward its worst annual performance since 2022. The blockchain company said on Oct. 28 that it is on track to exit 2026 with a record $900 million annualized product revenue run rate, supported by..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T02:10:42+00:00",
+   "last_seen": "2026-10-29T02:10:42+00:00",
+   "summary": "Ripple is expecting its strongest business year on record even as XRP heads toward its worst annual performance since 2022. The blockchain company said on Oct. 28 that it is on track to exit 2026 with a record $900 million annualized product revenue run rate, supported by...",
+   "tags": []
+  },
+  {
+   "id": "ec56b8d3ea",
+   "title": "Allium Discloses Security Breach, Revokes API Keys",
+   "date": "2026-10-29T01:52:57+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Allium Discloses Security Breach, Revokes API Keys",
+     "url": "https://thedefiant.io/news/security/allium-discloses-security-breach-revokes-api-keys",
+     "date": "2026-10-29T01:52:57+00:00",
+     "summary": "Core services are back online, but uploaded-data access remains disabled and gaps in some data feeds are still being filled."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T01:52:57+00:00",
+   "last_seen": "2026-10-29T01:52:57+00:00",
+   "summary": "Core services are back online, but uploaded-data access remains disabled and gaps in some data feeds are still being filled.",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "80a42f4083",
    "title": "Alipay Denies Supporting Crypto Trading After Peer's Beta Launch",

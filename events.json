@@ -1,6 +1,489 @@
 {
- "updated": "2026-10-29T13:20:58.965864+00:00",
+ "updated": "2026-10-29T15:12:14.327773+00:00",
  "events": [
+  {
+   "id": "a717ffc79f",
+   "title": "Bitcoin developers rush to fix 3 security flaws after AI uncovers them",
+   "date": "2026-10-29T15:10:59+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin developers rush to fix 3 security flaws after AI uncovers them",
+     "url": "https://cryptoslate.com/bitcoin-developers-rush-to-fix-3-security-flaws-after-ai-uncovers-them/",
+     "date": "2026-10-29T15:10:59+00:00",
+     "summary": "The October 28 advisory identifies four patched releases, but 29.x is now at end of life. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T15:10:59+00:00",
+   "last_seen": "2026-10-29T15:10:59+00:00",
+   "summary": "The October 28 advisory identifies four patched releases, but 29.x is now at end of life. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b872e8c62d",
+   "title": "Uphold Launches RLUSD Earn With Up to 7% Variable APY",
+   "date": "2026-10-29T15:10:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Uphold Launches RLUSD Earn With Up to 7% Variable APY",
+     "url": "https://thedefiant.io/news/defi/uphold-launches-rlusd-earn-with-up-to-7-variable-apy",
+     "date": "2026-10-29T15:10:11+00:00",
+     "summary": "The Sentora-curated product routes deposits into DeFi lending, with assets moving off Uphold and withdrawals dependent on market liquidity."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T15:10:11+00:00",
+   "last_seen": "2026-10-29T15:10:11+00:00",
+   "summary": "The Sentora-curated product routes deposits into DeFi lending, with assets moving off Uphold and withdrawals dependent on market liquidity.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "83b3459873",
+   "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
+   "date": "2026-10-29T15:07:15+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Walmart Blocks Its Stock From OKX-ICE Tokenized Trading Venue",
+     "url": "https://decrypt.co/382145/walmart-blocks-stock-okx-ice-tokenized-trading-venue",
+     "date": "2026-10-29T15:07:15+00:00",
+     "summary": "Walmart, Eli Lilly, Cigna, Carniva,l and Arcos Dorados objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 38."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T15:07:15+00:00",
+   "last_seen": "2026-10-29T15:07:15+00:00",
+   "summary": "Walmart, Eli Lilly, Cigna, Carniva,l and Arcos Dorados objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 38.",
+   "tags": []
+  },
+  {
+   "id": "b28c116796",
+   "title": "ICE Plans US-Regulated Hyperliquid Perps With TradeXYZ",
+   "date": "2026-10-29T15:06:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "ICE Plans US-Regulated Hyperliquid Perps With TradeXYZ",
+     "url": "https://thedefiant.io/news/defi/ice-plans-us-regulated-hyperliquid-perps-with-tradexyz",
+     "date": "2026-10-29T15:06:58+00:00",
+     "summary": "ICE is taking a minority stake in TradeXYZ, with retail access planned through regulated futures brokers including its OKX joint venture."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T15:06:58+00:00",
+   "last_seen": "2026-10-29T15:06:58+00:00",
+   "summary": "ICE is taking a minority stake in TradeXYZ, with retail access planned through regulated futures brokers including its OKX joint venture.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "b262c91f2f",
+   "title": "Russia Approves Securities Group to Oversee Crypto Exchanges",
+   "date": "2026-10-29T15:03:46+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Russia Approves Securities Group to Oversee Crypto Exchanges",
+     "url": "https://bitcoinmagazine.com/news/russia-approves-securities-oversee-crypto",
+     "date": "2026-10-29T15:03:46+00:00",
+     "summary": "Bitcoin Magazine Russia Approves Securities Group to Oversee Crypto Exchanges The Bank of Russia approved NAUFOR as the country\u2019s first self-regulatory organization for crypto exchanges and digital depositories. This post Russia Approves Securities Group to Oversee Crypto..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T15:03:46+00:00",
+   "last_seen": "2026-10-29T15:03:46+00:00",
+   "summary": "Bitcoin Magazine Russia Approves Securities Group to Oversee Crypto Exchanges The Bank of Russia approved NAUFOR as the country\u2019s first self-regulatory organization for crypto exchanges and digital depositories. This post Russia Approves Securities Group to Oversee Crypto...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "a1915007d9",
+   "title": "French Senate adopts bill for automatic sharing of crypto tax data",
+   "date": "2026-10-29T15:00:02+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "French Senate adopts bill for automatic sharing of crypto tax data",
+     "url": "https://cointelegraph.com/news/french-senate-adopts-bill-automatic-crypto-tax-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T15:00:02+00:00",
+     "summary": "The French Senate adopted a bill authorizing the automatic exchange of crypto-asset tax information between international tax authorities, pending completion of the legislative process."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T15:00:02+00:00",
+   "last_seen": "2026-10-29T15:00:02+00:00",
+   "summary": "The French Senate adopted a bill authorizing the automatic exchange of crypto-asset tax information between international tax authorities, pending completion of the legislative process.",
+   "tags": [
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "77df43a371",
+   "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
+   "date": "2026-10-29T14:55:47+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Polymarket brings ultra-short crypto prediction markets to U.S. platform",
+     "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-brings-ultra-short-crypto-prediction-markets-to-u-s-platform",
+     "date": "2026-10-29T14:55:47+00:00",
+     "summary": "Polymarket\u2019s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market\u2019s compliance with its 2022 U.S. onboarding terms."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T14:55:47+00:00",
+   "last_seen": "2026-10-29T14:55:47+00:00",
+   "summary": "Polymarket\u2019s new Up/Down crypto contracts come as the CFTC renews scrutiny of the prediction market\u2019s compliance with its 2022 U.S. onboarding terms.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "bdb0f69144",
+   "title": "HYPE surges 15% as NYSE parent ICE moves to bring Hyperliquid perps to US",
+   "date": "2026-10-29T14:44:53+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "HYPE surges 15% as NYSE parent ICE moves to bring Hyperliquid perps to US",
+     "url": "https://www.theblock.co/news/business/2026-10-29-ice-tradexyz-hyperliquid-perpetual-futures-us-432132",
+     "date": "2026-10-29T14:44:53+00:00",
+     "summary": "NYSE parent ICE will partner with and invest in Trade[XYZ] to launch regulated, Hyperliquid-based perpetual futures in the U.S."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T14:44:53+00:00",
+   "last_seen": "2026-10-29T14:44:53+00:00",
+   "summary": "NYSE parent ICE will partner with and invest in Trade[XYZ] to launch regulated, Hyperliquid-based perpetual futures in the U.S.",
+   "tags": []
+  },
+  {
+   "id": "067b4433ae",
+   "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
+   "date": "2026-10-29T14:39:01+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto for Advisors: Only 1 in 5 Americans say the financial system is secure",
+     "url": "https://www.coindesk.com/coindesk-indices/2026/10/29/crypto-for-advisors-only-1-in-5-americans-say-the-financial-system-is-secure",
+     "date": "2026-10-29T14:39:01+00:00",
+     "summary": ""
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T14:39:01+00:00",
+   "last_seen": "2026-10-29T14:39:01+00:00",
+   "summary": "",
+   "tags": []
+  },
+  {
+   "id": "42e1baca3d",
+   "title": "U.S. Treasury Sanctions Crypto Launderers Behind North Korea\u2019s Fake Workers",
+   "date": "2026-10-29T14:37:46+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "U.S. Treasury Sanctions Crypto Launderers Behind North Korea\u2019s Fake Workers",
+     "url": "https://bitcoinmagazine.com/news/sanctions-crypto-behind-north-korea-worker",
+     "date": "2026-10-29T14:37:46+00:00",
+     "summary": "Bitcoin Magazine U.S. Treasury Sanctions Crypto Launderers Behind North Korea\u2019s Fake Workers The U.S. Treasury sanctioned ten people and one entity, including two Russian crypto middlemen, for laundering money from North Korean fake IT worker schemes that fund its weapons..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T14:37:46+00:00",
+   "last_seen": "2026-10-29T14:37:46+00:00",
+   "summary": "Bitcoin Magazine U.S. Treasury Sanctions Crypto Launderers Behind North Korea\u2019s Fake Workers The U.S. Treasury sanctioned ten people and one entity, including two Russian crypto middlemen, for laundering money from North Korean fake IT worker schemes that fund its weapons...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "fb7ea94d61",
+   "title": "Uniswap Labs opens fee conversion tool TJAR to apps, starting with Robinhood",
+   "date": "2026-10-29T14:34:17+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Uniswap Labs opens fee conversion tool TJAR to apps, starting with Robinhood",
+     "url": "https://www.theblock.co/news/defi/2026-10-29-uniswap-token-jar-tjar-robinhood-432131",
+     "date": "2026-10-29T14:34:17+00:00",
+     "summary": "Uniswap Labs has opened up its Token Jar fee conversion system to other apps through a new tool called TJAR."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T14:34:17+00:00",
+   "last_seen": "2026-10-29T14:34:17+00:00",
+   "summary": "Uniswap Labs has opened up its Token Jar fee conversion system to other apps through a new tool called TJAR.",
+   "tags": []
+  },
+  {
+   "id": "18b1745ce1",
+   "title": "Strategy\u2019s STRC nears $100 level that could reopen a Bitcoin funding channel",
+   "date": "2026-10-29T14:30:41+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Strategy\u2019s STRC nears $100 level that could reopen a Bitcoin funding channel",
+     "url": "https://cryptoslate.com/strategys-strc-returns-to-brink-of-100-after-saylor-wins-approval-for-daily-dividends-reviving-bitcoin-buying-hopes/",
+     "date": "2026-10-29T14:30:41+00:00",
+     "summary": "Strategy&#039;s STRC preferred stock closed eight cents below its $100 stated value as shareholders approved daily dividends on four preferred securities. Executive Chairman Michael Saylor said preliminary results from the Oct. 28 vote showed 99.3% of votes cast supported the..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T14:30:41+00:00",
+   "last_seen": "2026-10-29T14:30:41+00:00",
+   "summary": "Strategy&#039;s STRC preferred stock closed eight cents below its $100 stated value as shareholders approved daily dividends on four preferred securities. Executive Chairman Michael Saylor said preliminary results from the Oct. 28 vote showed 99.3% of votes cast supported the...",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "360433da0d",
+   "title": "Bank of England opens consultation on tokenized collateral for clearing",
+   "date": "2026-10-29T14:27:46+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bank of England opens consultation on tokenized collateral for clearing",
+     "url": "https://cointelegraph.com/news/bank-of-england-opens-consultation-on-tokenized-collateral-for-clearing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T14:27:46+00:00",
+     "summary": "Central counterparties would need to show tokenized collateral meets liquidity and risk tests under proposed Bank of England guidance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T14:27:46+00:00",
+   "last_seen": "2026-10-29T14:27:46+00:00",
+   "summary": "Central counterparties would need to show tokenized collateral meets liquidity and risk tests under proposed Bank of England guidance.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "bd7218713b",
+   "title": "Why Switzerland\u2019s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+   "date": "2026-10-29T14:15:46+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Why Switzerland\u2019s first genuine spot bitcoin ETF could soon attract overseas banks and brokers",
+     "url": "https://www.coindesk.com/business/2026/10/29/switzerland-s-first-bitcoin-etf-gets-rare-exemption-will-open-to-overseas-brokers",
+     "date": "2026-10-29T14:15:46+00:00",
+     "summary": "SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T14:15:46+00:00",
+   "last_seen": "2026-10-29T14:15:46+00:00",
+   "summary": "SIX Swiss Exchange confirms international access, while FINMA explains why it approved the fund and whether ether and solana ETFs could follow.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum",
+    "exchanges",
+    "solana"
+   ]
+  },
+  {
+   "id": "3cd9f46047",
+   "title": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
+   "date": "2026-10-29T14:15:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Chainlink adds weekend pricing for tokenized assets, with Aave as launch partner",
+     "url": "https://www.coindesk.com/tech/2026/10/28/chainlink-adds-weekend-pricing-for-tokenized-assets-with-aave-as-launch-partner",
+     "date": "2026-10-29T14:15:00+00:00",
+     "summary": "The service uses perpetual futures quotes to update reference prices when traditional markets close."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T14:15:00+00:00",
+   "last_seen": "2026-10-29T14:15:00+00:00",
+   "summary": "The service uses perpetual futures quotes to update reference prices when traditional markets close.",
+   "tags": []
+  },
+  {
+   "id": "95d7a052c3",
+   "title": "Only 10% of FOMO app\u2019s Solana wallets were profitable after fees",
+   "date": "2026-10-29T14:00:54+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Only 10% of FOMO app\u2019s Solana wallets were profitable after fees",
+     "url": "https://cryptoslate.com/fomo-fees-erased-gains-for-32-of-its-pre-fee-winning-solana-wallets/",
+     "date": "2026-10-29T14:00:54+00:00",
+     "summary": "In Bitquery\u2019s January\u2013October 2026 cohort, recorded app fees erased narrow gains while token trades accounted for most losses. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T14:00:54+00:00",
+   "last_seen": "2026-10-29T14:00:54+00:00",
+   "summary": "In Bitquery\u2019s January\u2013October 2026 cohort, recorded app fees erased narrow gains while token trades accounted for most losses. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "9063d89c76",
+   "title": "Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard",
+   "date": "2026-10-29T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Canton Foundation grants RedStone 15.8M Canton Coin for pricing standard",
+     "url": "https://cointelegraph.com/news/canton-foundation-redstone-coin-pricing-standard?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T14:00:00+00:00",
+     "summary": "RedStone\u2019s planned pricing tool will let institutions on Canton use shared market prices without exposing deal terms to data providers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T14:00:00+00:00",
+   "last_seen": "2026-10-29T14:00:00+00:00",
+   "summary": "RedStone\u2019s planned pricing tool will let institutions on Canton use shared market prices without exposing deal terms to data providers.",
+   "tags": []
+  },
+  {
+   "id": "3f32d06152",
+   "title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
+   "date": "2026-10-29T13:55:42+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "New quantum model slashes hardware needed to break bitcoin keys by 17 times",
+     "url": "https://www.coindesk.com/tech/2026/10/29/new-quantum-model-slashes-hardware-needed-to-break-bitcoin-keys-by-17-times",
+     "date": "2026-10-29T13:55:42+00:00",
+     "summary": "Alice & Bob's new model reduces the hardware required for a potential attack, bringing it closer to reality and increasing pressure to adopt quantum-resistant security sooner."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T13:55:42+00:00",
+   "last_seen": "2026-10-29T13:55:42+00:00",
+   "summary": "Alice & Bob's new model reduces the hardware required for a potential attack, bringing it closer to reality and increasing pressure to adopt quantum-resistant security sooner.",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "55350bdbc8",
+   "title": "Crypto Exchange HTX Agrees to Leave UK in Settlement With FCA",
+   "date": "2026-10-29T13:49:03+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Crypto Exchange HTX Agrees to Leave UK in Settlement With FCA",
+     "url": "https://bitcoinmagazine.com/news/crypto-exchange-htx-agrees-to-leave-uk",
+     "date": "2026-10-29T13:49:03+00:00",
+     "summary": "Bitcoin Magazine Crypto Exchange HTX Agrees to Leave UK in Settlement With FCA HTX is leaving the UK under a confidential FCA settlement that ends its first crypto marketing case, while sanctions from the UK and EU remain in place. This post Crypto Exchange HTX Agrees to Leave..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T13:49:03+00:00",
+   "last_seen": "2026-10-29T13:49:03+00:00",
+   "summary": "Bitcoin Magazine Crypto Exchange HTX Agrees to Leave UK in Settlement With FCA HTX is leaving the UK under a confidential FCA settlement that ends its first crypto marketing case, while sanctions from the UK and EU remain in place. This post Crypto Exchange HTX Agrees to Leave...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "legal"
+   ]
+  },
+  {
+   "id": "3941449430",
+   "title": "Walmart, Eli Lilly join growing pushback against OKX\u2013ICE tokenized stock plans",
+   "date": "2026-10-29T13:39:18+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Walmart, Eli Lilly join growing pushback against OKX\u2013ICE tokenized stock plans",
+     "url": "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans",
+     "date": "2026-10-29T13:39:18+00:00",
+     "summary": "Five more companies have objected, bringing the total to 38 as a rival Canton venue prepares to launch with an issuer-sponsored stock under the SEC's innovation exemption."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T13:39:18+00:00",
+   "last_seen": "2026-10-29T13:39:18+00:00",
+   "summary": "Five more companies have objected, bringing the total to 38 as a rival Canton venue prepares to launch with an issuer-sponsored stock under the SEC's innovation exemption.",
+   "tags": [
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "df8d8793dc",
+   "title": "Understanding the Various Bitcoin Per Share Metrics",
+   "date": "2026-10-29T13:36:42+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Understanding the Various Bitcoin Per Share Metrics",
+     "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/bitcoin-per-share-metrics",
+     "date": "2026-10-29T13:36:42+00:00",
+     "summary": "Bitcoin Magazine Understanding the Various Bitcoin Per Share Metrics Bitcoin per share, Bitcoin per assumed diluted shares, Net Bitcoin per share, and what to make of it all. This post Understanding the Various Bitcoin Per Share Metrics first appeared on Bitcoin Magazine and is..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T13:36:42+00:00",
+   "last_seen": "2026-10-29T13:36:42+00:00",
+   "summary": "Bitcoin Magazine Understanding the Various Bitcoin Per Share Metrics Bitcoin per share, Bitcoin per assumed diluted shares, Net Bitcoin per share, and what to make of it all. This post Understanding the Various Bitcoin Per Share Metrics first appeared on Bitcoin Magazine and is...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "330b9b5bf5",
+   "title": "Brazil\u2019s Halloween eve crypto deadline brings more tricks than treats",
+   "date": "2026-10-29T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Brazil\u2019s Halloween eve crypto deadline brings more tricks than treats",
+     "url": "https://cointelegraph.com/news/brazil-crypto-license-filing-deadline-hurdles-uncertainty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T13:30:00+00:00",
+     "summary": "Brazil\u2019s crypto exchanges face an application deadline on Friday, with costly requirements and unanswered regulatory questions complicating compliance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T13:30:00+00:00",
+   "last_seen": "2026-10-29T13:30:00+00:00",
+   "summary": "Brazil\u2019s crypto exchanges face an application deadline on Friday, with costly requirements and unanswered regulatory questions complicating compliance.",
+   "tags": []
+  },
+  {
+   "id": "b94a2d5f08",
+   "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
+   "date": "2026-10-29T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Private, fast USDT is coming to Bitcoin. Can it compete with Ethereum and Tron?",
+     "url": "https://cointelegraph.com/magazine/private-fast-usdt-is-coming-to-bitcoin-can-it-compete-with-ethereum-and-tron?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T13:30:00+00:00",
+     "summary": "USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin\u2019s revamped version of Tether compete with stablecoins on ETH and TRON?"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T13:30:00+00:00",
+   "last_seen": "2026-10-29T13:30:00+00:00",
+   "summary": "USDT is coming home to Bitcoin, offering privacy and Lightning-fast payments. But can Bitcoin\u2019s revamped version of Tether compete with stablecoins on ETH and TRON?",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "stablecoins"
+   ]
+  },
   {
    "id": "997f7dc3a3",
    "title": "Why More Crypto Can Mean Less Crypto Per Treasury Share",

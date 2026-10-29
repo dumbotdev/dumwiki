@@ -1,6 +1,235 @@
 {
- "updated": "2026-10-29T18:02:40.016391+00:00",
+ "updated": "2026-10-29T19:13:08.128508+00:00",
  "events": [
+  {
+   "id": "b4a7f914e7",
+   "title": "Mystery whale pulls $290 million from DeFi every midnight as Aave borrowing rates triple",
+   "date": "2026-10-29T19:00:42+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Mystery whale pulls $290 million from DeFi every midnight as Aave borrowing rates triple",
+     "url": "https://cryptoslate.com/aaves-midnight-usdc-withdrawals-briefly-left-lenders-with-little-spare-cash/",
+     "date": "2026-10-29T19:00:42+00:00",
+     "summary": "Bitquery traced a temporary squeeze as funds left near midnight, while October 29\u2019s lower borrowing rate showed a milder snapshot. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T19:00:42+00:00",
+   "last_seen": "2026-10-29T19:00:42+00:00",
+   "summary": "Bitquery traced a temporary squeeze as funds left near midnight, while October 29\u2019s lower borrowing rate showed a milder snapshot. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi",
+    "macro"
+   ]
+  },
+  {
+   "id": "6c1a16e914",
+   "title": "Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised",
+   "date": "2026-10-29T19:00:06+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Polymarket pauses trading after $2.65 million exploit, says third-party provider was compromised",
+     "url": "https://www.theblock.co/news/defi/2026-10-29-polymarket-exploit-2-5-million-cancel-only-mode-432158",
+     "date": "2026-10-29T19:00:06+00:00",
+     "summary": "After over $2.5 million was lost within minutes on Polymarket, the platform said it has since placed its exchange in cancel-only mode."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T19:00:06+00:00",
+   "last_seen": "2026-10-29T19:00:06+00:00",
+   "summary": "After over $2.5 million was lost within minutes on Polymarket, the platform said it has since placed its exchange in cancel-only mode.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "cf3017d404",
+   "title": "Polymarket suspends trading after third-party breach leads to user losses",
+   "date": "2026-10-29T18:55:35+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Polymarket suspends trading after third-party breach leads to user losses",
+     "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
+     "date": "2026-10-29T18:55:35+00:00",
+     "summary": "Polymarket said one of its third-party providers was breached after users reported seeing their accounts drained."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T18:55:35+00:00",
+   "last_seen": "2026-10-29T18:55:35+00:00",
+   "summary": "Polymarket said one of its third-party providers was breached after users reported seeing their accounts drained.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "c10ed6ab94",
+   "title": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
+   "date": "2026-10-29T18:53:44+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
+     "url": "https://decrypt.co/382185/polymarket-pauses-trading-prediction-market-security-incident",
+     "date": "2026-10-29T18:53:44+00:00",
+     "summary": "Polymarket restricted trading and paused relayer actions as users report funds leaving their accounts. A suspected attacker wallet holds about $2.65 million in POL, per Arkham data."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T18:53:44+00:00",
+   "last_seen": "2026-10-29T18:53:44+00:00",
+   "summary": "Polymarket restricted trading and paused relayer actions as users report funds leaving their accounts. A suspected attacker wallet holds about $2.65 million in POL, per Arkham data.",
+   "tags": []
+  },
+  {
+   "id": "3f2443bf6a",
+   "title": "Crypto investors refuse to sell XRP ETF tokens despite a 25% price crash",
+   "date": "2026-10-29T18:50:59+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Crypto investors refuse to sell XRP ETF tokens despite a 25% price crash",
+     "url": "https://cryptoslate.com/crypto-investors-refuse-to-sell-xrp-etf-tokens-despite-a-25-price-crash/",
+     "date": "2026-10-29T18:50:59+00:00",
+     "summary": "XRP traded roughly a quarter below XRP Insights\u2019 acquisition estimate, while three sessions showed a small, concentrated net holdings reduction. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T18:50:59+00:00",
+   "last_seen": "2026-10-29T18:50:59+00:00",
+   "summary": "XRP traded roughly a quarter below XRP Insights\u2019 acquisition estimate, while three sessions showed a small, concentrated net holdings reduction. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "etfs",
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "97dc17df61",
+   "title": "Celestia Unveils Voyager for AI Payments, Citing 21 Million TPS Benchmark",
+   "date": "2026-10-29T18:47:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Celestia Unveils Voyager for AI Payments, Citing 21 Million TPS Benchmark",
+     "url": "https://thedefiant.io/news/infrastructure/celestia-unveils-voyager-for-ai-payments-citing-21-million-tps-benchmark",
+     "date": "2026-10-29T18:47:56+00:00",
+     "summary": "The pre-production architecture expands Celestia Labs into execution, but its single-node benchmark is not a measure of live network throughput."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T18:47:56+00:00",
+   "last_seen": "2026-10-29T18:47:56+00:00",
+   "summary": "The pre-production architecture expands Celestia Labs into execution, but its single-node benchmark is not a measure of live network throughput.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "47351bd28d",
+   "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
+   "date": "2026-10-29T18:46:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
+     "url": "https://decrypt.co/382181/hackers-publish-work-details-homeland-security-employees",
+     "date": "2026-10-29T18:46:02+00:00",
+     "summary": "A hacktivist group says it took names, titles, and phone numbers of 41,000-plus DHS staff from a login system."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T18:46:02+00:00",
+   "last_seen": "2026-10-29T18:46:02+00:00",
+   "summary": "A hacktivist group says it took names, titles, and phone numbers of 41,000-plus DHS staff from a login system.",
+   "tags": []
+  },
+  {
+   "id": "0301aa3be2",
+   "title": "SEC Charges BG Wealth and DSJ Exchange in Alleged $130 Million Crypto Fraud",
+   "date": "2026-10-29T18:43:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SEC Charges BG Wealth and DSJ Exchange in Alleged $130 Million Crypto Fraud",
+     "url": "https://thedefiant.io/news/regulation/sec-charges-bg-wealth-and-dsj-exchange-in-alleged-130-million-crypto-fraud",
+     "date": "2026-10-29T18:43:55+00:00",
+     "summary": "The agency says investors lost more than $100 million after the firms promised risk-free trading returns and used false filings to claim SEC approval."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T18:43:55+00:00",
+   "last_seen": "2026-10-29T18:43:55+00:00",
+   "summary": "The agency says investors lost more than $100 million after the firms promised risk-free trading returns and used false filings to claim SEC approval.",
+   "tags": [
+    "exchanges",
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "608e433398",
+   "title": "Polymarket Says Issue Fixed, Pledges to Make Affected Users Whole",
+   "date": "2026-10-29T18:41:34+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Polymarket Says Issue Fixed, Pledges to Make Affected Users Whole",
+     "url": "https://thedefiant.io/news/security/polymarket-says-issue-fixed-pledges-to-make-affected-users-whole",
+     "date": "2026-10-29T18:41:34+00:00",
+     "summary": "The platform blamed a compromised third-party provider but kept trading halted while it worked to restore service."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T18:41:34+00:00",
+   "last_seen": "2026-10-29T18:41:34+00:00",
+   "summary": "The platform blamed a compromised third-party provider but kept trading halted while it worked to restore service.",
+   "tags": []
+  },
+  {
+   "id": "e8ea179cf9",
+   "title": "Grayscale's HYPG Offers Nasdaq-Listed HYPE Exposure and Staking",
+   "date": "2026-10-29T18:36:01+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Grayscale's HYPG Offers Nasdaq-Listed HYPE Exposure and Staking",
+     "url": "https://thedefiant.io/converge/markets/grayscale-s-hypg-offers-nasdaq-listed-hype-exposure-and-staking",
+     "date": "2026-10-29T18:36:01+00:00",
+     "summary": "The fund began trading June 3, charges a 0.29% annual sponsor fee and held $186.9 million in assets as of Oct. 28."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T18:36:01+00:00",
+   "last_seen": "2026-10-29T18:36:01+00:00",
+   "summary": "The fund began trading June 3, charges a 0.29% annual sponsor fee and held $186.9 million in assets as of Oct. 28.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "2635725b15",
+   "title": "Polymarket Halts Trading and Pauses Relayer Amid Incident",
+   "date": "2026-10-29T18:27:29+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Polymarket Halts Trading and Pauses Relayer Amid Incident",
+     "url": "https://thedefiant.io/news/security/polymarket-halts-trading-and-pauses-relayer-amid-incident",
+     "date": "2026-10-29T18:27:29+00:00",
+     "summary": "Existing orders can still be canceled, but new buy and sell orders are blocked. A trader reported an $800,000 account drain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T18:27:29+00:00",
+   "last_seen": "2026-10-29T18:27:29+00:00",
+   "summary": "Existing orders can still be canceled, but new buy and sell orders are blocked. A trader reported an $800,000 account drain.",
+   "tags": []
+  },
   {
    "id": "b35e56bfc0",
    "title": "FutureBit Apollo Solo Miner Finds Bitcoin Block 973262, Earning 3.154 BTC",

@@ -1,6 +1,84 @@
 {
- "updated": "2026-10-29T05:59:45.906475+00:00",
+ "updated": "2026-10-29T07:22:34.279373+00:00",
  "events": [
+  {
+   "id": "e7e34d7215",
+   "title": "Wagyu Confirms Data Leak Exposing Monero Swap Records",
+   "date": "2026-10-29T06:47:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Wagyu Confirms Data Leak Exposing Monero Swap Records",
+     "url": "https://thedefiant.io/news/hacks/wagyu-confirms-data-leak-exposing-monero-swap-records",
+     "date": "2026-10-29T06:47:49+00:00",
+     "summary": "Hudson Rock found 4,580 orders connecting public-chain deposit transactions, Monero destinations and client IP addresses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T06:47:49+00:00",
+   "last_seen": "2026-10-29T06:47:49+00:00",
+   "summary": "Hudson Rock found 4,580 orders connecting public-chain deposit transactions, Monero destinations and client IP addresses.",
+   "tags": []
+  },
+  {
+   "id": "694c25d5f4",
+   "title": "Arbitrum Active Addresses Reach 1.09 Million, a 30-Day High",
+   "date": "2026-10-29T06:42:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Arbitrum Active Addresses Reach 1.09 Million, a 30-Day High",
+     "url": "https://thedefiant.io/news/blockchains/arbitrum-active-addresses-reach-1-09-million-a-30-day-high",
+     "date": "2026-10-29T06:42:56+00:00",
+     "summary": "Transactions climbed far less than addresses on Oct. 28, while user-paid fees stayed close to the preceding week's median."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T06:42:56+00:00",
+   "last_seen": "2026-10-29T06:42:56+00:00",
+   "summary": "Transactions climbed far less than addresses on Oct. 28, while user-paid fees stayed close to the preceding week's median.",
+   "tags": []
+  },
+  {
+   "id": "4fda1ff3ba",
+   "title": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
+   "date": "2026-10-29T06:40:32+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Utah files criminal charges against Kalshi, executives over alleged illegal gambling",
+     "url": "https://www.theblock.co/news/business/2026-10-29-utah-criminal-charges-kalshi-432104",
+     "date": "2026-10-29T06:40:32+00:00",
+     "summary": "Utah AG Derek Brown filed criminal charges against Kalshi, Tarek Mansour and Luana Lopes Lara for allegedly promoting online gambling."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T06:40:32+00:00",
+   "last_seen": "2026-10-29T06:40:32+00:00",
+   "summary": "Utah AG Derek Brown filed criminal charges against Kalshi, Tarek Mansour and Luana Lopes Lara for allegedly promoting online gambling.",
+   "tags": []
+  },
+  {
+   "id": "a7754e70f8",
+   "title": "Shopify Takes Shop Pay Into AI Agents and Off-Platform Checkouts",
+   "date": "2026-10-29T06:04:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Shopify Takes Shop Pay Into AI Agents and Off-Platform Checkouts",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/shopify-takes-shop-pay-into-ai-agents-and-off-platform-checkouts",
+     "date": "2026-10-29T06:04:48+00:00",
+     "summary": "Agents can pay at stores outside Shopify using single-use card credentials, without those retailers adding a new integration."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T06:04:48+00:00",
+   "last_seen": "2026-10-29T06:04:48+00:00",
+   "summary": "Agents can pay at stores outside Shopify using single-use card credentials, without those retailers adding a new integration.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "71fdac363a",
    "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",

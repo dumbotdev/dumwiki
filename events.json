@@ -1,6 +1,71 @@
 {
- "updated": "2026-10-29T11:03:24.514689+00:00",
+ "updated": "2026-10-29T11:59:31.317476+00:00",
  "events": [
+  {
+   "id": "3f98b78f04",
+   "title": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto",
+   "date": "2026-10-29T11:32:51+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto",
+     "url": "https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto",
+     "date": "2026-10-29T11:32:51+00:00",
+     "summary": "Two Russian nationals converted more than $5 million in crypto for North Korean networks, according to OFAC, which listed their wallets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T11:32:51+00:00",
+   "last_seen": "2026-10-29T11:32:51+00:00",
+   "summary": "Two Russian nationals converted more than $5 million in crypto for North Korean networks, according to OFAC, which listed their wallets.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "1e7a0b515e",
+   "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
+   "date": "2026-10-29T11:11:48+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
+     "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
+     "date": "2026-10-29T11:11:48+00:00",
+     "summary": "Bitcoin fell 1.4% since midnight UTC to around $80,100 as disappointing reports from Samsung and Alphabet weighed on tech stocks. The Fed\u2019s preferred inflation gauge is due later today."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T11:11:48+00:00",
+   "last_seen": "2026-10-29T11:11:48+00:00",
+   "summary": "Bitcoin fell 1.4% since midnight UTC to around $80,100 as disappointing reports from Samsung and Alphabet weighed on tech stocks. The Fed\u2019s preferred inflation gauge is due later today.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "b095960951",
+   "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
+   "date": "2026-10-29T11:11:25+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.",
+     "url": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s",
+     "date": "2026-10-29T11:11:25+00:00",
+     "summary": "The planned ICE[XYZ] venue would offer 24/7 perpetual futures on stocks, commodities and crypto, pending CFTC approval. ICE is investing in Trade[XYZ]."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T11:11:25+00:00",
+   "last_seen": "2026-10-29T11:11:25+00:00",
+   "summary": "The planned ICE[XYZ] venue would offer 24/7 perpetual futures on stocks, commodities and crypto, pending CFTC approval. ICE is investing in Trade[XYZ].",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "40d63e26b2",
    "title": "North Korea\u2019s $600 million fake-worker empire has a hidden crypto connection",
@@ -821,13 +886,22 @@
      "url": "https://thedefiant.io/news/regulation/utah-brings-criminal-charges-against-kalshi-and-its-co-founders",
      "date": "2026-10-28T23:18:43+00:00",
      "summary": "The charging information lists 13 felony counts and one misdemeanor as the CFTC seeks to block Utah\u2019s enforcement of gambling laws against federally regulated markets."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Utah Files Felony Charges Against Kalshi, Co-Founders Over Sports Bets",
+     "url": "https://decrypt.co/382124/utah-files-felony-charges-against-kalshi-co-founders-over-sports-bets",
+     "date": "2026-10-29T11:06:40+00:00",
+     "summary": "The state says an undercover agent placed a dozen sports wagers on Kalshi, a day after the CFTC sued Utah to block its enforcement actions."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-28T23:18:43+00:00",
-   "last_seen": "2026-10-28T23:18:43+00:00",
+   "last_seen": "2026-10-29T11:06:40+00:00",
    "summary": "The charging information lists 13 felony counts and one misdemeanor as the CFTC seeks to block Utah\u2019s enforcement of gambling laws against federally regulated markets.",
    "tags": [
+    "ai",
+    "legal",
     "regulation"
    ]
   },

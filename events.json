@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-29T05:03:33.390748+00:00",
+ "updated": "2026-10-29T05:59:45.906475+00:00",
  "events": [
+  {
+   "id": "71fdac363a",
+   "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+   "date": "2026-10-29T05:54:39+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "AI found a way to crash bitcoin nodes on Windows and Macs. It's now public",
+     "url": "https://www.coindesk.com/tech/2026/10/29/ai-found-a-way-to-crash-bitcoin-nodes-on-windows-and-macs-it-s-now-public",
+     "date": "2026-10-29T05:54:39+00:00",
+     "summary": "Three flaws a language-model scan dug up are the first disclosed under Core\u2019s new rules for bugs that are easy to find."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T05:54:39+00:00",
+   "last_seen": "2026-10-29T05:54:39+00:00",
+   "summary": "Three flaws a language-model scan dug up are the first disclosed under Core\u2019s new rules for bugs that are easy to find.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "81f204c64d",
+   "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+   "date": "2026-10-29T05:30:34+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Security failure at Indian certificate firm bites Ethereum as developers rush out fixes",
+     "url": "https://www.coindesk.com/tech/2026/10/29/ethereum-clients-patch-flaw-that-could-let-attackers-redirect-eth-rewards",
+     "date": "2026-10-29T05:30:34+00:00",
+     "summary": "A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren\u2019t exposed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T05:30:34+00:00",
+   "last_seen": "2026-10-29T05:30:34+00:00",
+   "summary": "A key blunder at Indian certificate issuer eMudhra left some Teku and Besu setups trusting forged certificates. Default mainnet nodes weren\u2019t exposed.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "e08cba8a66",
+   "title": "Ripple\u2019s RLUSD stablecoin gains Coinbase access as Moody\u2019s awards investment-grade rating",
+   "date": "2026-10-29T05:30:07+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ripple\u2019s RLUSD stablecoin gains Coinbase access as Moody\u2019s awards investment-grade rating",
+     "url": "https://cryptoslate.com/ripples-rlusd-stablecoin-gains-coinbase-access-as-moodys-awards-investment-grade-rating/",
+     "date": "2026-10-29T05:30:07+00:00",
+     "summary": "Ripple&#039;s RLUSD stablecoin has launched on Coinbase and its Base blockchain after Moody&#039;s assigned the token an investment-grade credit rating. The agreement announced Wednesday makes RLUSD available on Coinbase&#039;s retail and institutional trading platforms,..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T05:30:07+00:00",
+   "last_seen": "2026-10-29T05:30:07+00:00",
+   "summary": "Ripple&#039;s RLUSD stablecoin has launched on Coinbase and its Base blockchain after Moody&#039;s assigned the token an investment-grade credit rating. The agreement announced Wednesday makes RLUSD available on Coinbase&#039;s retail and institutional trading platforms,...",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
   {
    "id": "c1250585fa",
    "title": "Utah charges predictions platform Kalshi with illegal gambling",

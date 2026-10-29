@@ -1,6 +1,428 @@
 {
- "updated": "2026-10-29T11:59:31.317476+00:00",
+ "updated": "2026-10-29T13:20:58.965864+00:00",
  "events": [
+  {
+   "id": "997f7dc3a3",
+   "title": "Why More Crypto Can Mean Less Crypto Per Treasury Share",
+   "date": "2026-10-29T13:16:21+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Why More Crypto Can Mean Less Crypto Per Treasury Share",
+     "url": "https://thedefiant.io/news/markets/why-more-crypto-can-mean-less-crypto-per-treasury-share",
+     "date": "2026-10-29T13:16:21+00:00",
+     "summary": "Selling new common shares above net asset value can increase assets per share. Selling below it can dilute holders even when crypto prices are unchanged."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T13:16:21+00:00",
+   "last_seen": "2026-10-29T13:16:21+00:00",
+   "summary": "Selling new common shares above net asset value can increase assets per share. Selling below it can dilute holders even when crypto prices are unchanged.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "aa863e09b4",
+   "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
+   "date": "2026-10-29T13:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Polygon Extends Its Stablecoin Payments Infrastructure to Solana",
+     "url": "https://decrypt.co/381850/polygon-stablecoin-payments-open-money-stack-solana",
+     "date": "2026-10-29T13:01:02+00:00",
+     "summary": "The expansion gives Solana businesses one integration to connect bank funding, embedded wallets, cross-chain transfers and global payouts, with cross-border firm Kira among the first adopters."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T13:01:02+00:00",
+   "last_seen": "2026-10-29T13:01:02+00:00",
+   "summary": "The expansion gives Solana businesses one integration to connect bank funding, embedded wallets, cross-chain transfers and global payouts, with cross-border firm Kira among the first adopters.",
+   "tags": [
+    "funding",
+    "solana",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "be30521175",
+   "title": "Bitcoin options carried a far smaller election premium than in 2024",
+   "date": "2026-10-29T13:00:19+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin options carried a far smaller election premium than in 2024",
+     "url": "https://cryptoslate.com/bitcoin-holders-waiting-for-a-2024-style-election-rally-face-a-different-test/",
+     "date": "2026-10-29T13:00:19+00:00",
+     "summary": "A smaller premium in the October 26 options snapshot puts the focus on political surprise and sustained buying ahead of November 3. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T13:00:19+00:00",
+   "last_seen": "2026-10-29T13:00:19+00:00",
+   "summary": "A smaller premium in the October 26 options snapshot puts the focus on political surprise and sustained buying ahead of November 3. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "211ab40674",
+   "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
+   "date": "2026-10-29T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
+     "url": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T13:00:00+00:00",
+     "summary": "The move follows the addition of Tron support and Polygon\u2019s acquisition of Coinme."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T13:00:00+00:00",
+   "last_seen": "2026-10-29T13:00:00+00:00",
+   "summary": "The move follows the addition of Tron support and Polygon\u2019s acquisition of Coinme.",
+   "tags": [
+    "funding",
+    "solana"
+   ]
+  },
+  {
+   "id": "0a9a6ee7f1",
+   "title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
+   "date": "2026-10-29T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Polygon adds Solana to payment stack linking bank accounts, crypto and payouts",
+     "url": "https://www.theblock.co/news/defi/2026-10-29-polygon-adds-solana-payment-stack-432115",
+     "date": "2026-10-29T13:00:00+00:00",
+     "summary": "Polygon added Solana to its payments platform, connecting businesses to bank funding, cross-chain transfers, stablecoins and global payouts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T13:00:00+00:00",
+   "last_seen": "2026-10-29T13:00:00+00:00",
+   "summary": "Polygon added Solana to its payments platform, connecting businesses to bank funding, cross-chain transfers, stablecoins and global payouts.",
+   "tags": [
+    "funding",
+    "solana"
+   ]
+  },
+  {
+   "id": "c0d08a41ea",
+   "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
+   "date": "2026-10-29T12:58:28+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
+     "url": "https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog",
+     "date": "2026-10-29T12:58:28+00:00",
+     "summary": "The FCA says the Justin Sun-linked exchange will no longer target UK consumers, ending its first case against a crypto firm over marketing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T12:58:28+00:00",
+   "last_seen": "2026-10-29T12:58:28+00:00",
+   "summary": "The FCA says the Justin Sun-linked exchange will no longer target UK consumers, ending its first case against a crypto firm over marketing.",
+   "tags": [
+    "exchanges",
+    "legal"
+   ]
+  },
+  {
+   "id": "63b96348c1",
+   "title": "A new framework for tokenized asset tracking",
+   "date": "2026-10-29T12:57:51+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "A new framework for tokenized asset tracking",
+     "url": "https://www.coindesk.com/opinion/2026/10/28/a-new-framework-for-tokenized-asset-tracking",
+     "date": "2026-10-29T12:57:51+00:00",
+     "summary": "None of the numbers most commonly used to assess tokenized assets answer the question a chief investment officer would ask about those assets on her own balance sheet: what is it doing for me?"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T12:57:51+00:00",
+   "last_seen": "2026-10-29T12:57:51+00:00",
+   "summary": "None of the numbers most commonly used to assess tokenized assets answer the question a chief investment officer would ask about those assets on her own balance sheet: what is it doing for me?",
+   "tags": []
+  },
+  {
+   "id": "a2c2ff53a1",
+   "title": "Mosaic: The Art Hidden in Bitcoin",
+   "date": "2026-10-29T12:53:32+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Mosaic: The Art Hidden in Bitcoin",
+     "url": "https://bitcoinmagazine.com/culture/mosaic-the-art-hidden-in-bitcoin",
+     "date": "2026-10-29T12:53:32+00:00",
+     "summary": "Bitcoin Magazine Mosaic: The Art Hidden in Bitcoin How generative artist BitArt is transforming sats into a collective visual and musical composition, and why Bitcoin Art Society believes the network could become a permanent medium for contemporary art. This post Mosaic: The Art..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T12:53:32+00:00",
+   "last_seen": "2026-10-29T12:53:32+00:00",
+   "summary": "Bitcoin Magazine Mosaic: The Art Hidden in Bitcoin How generative artist BitArt is transforming sats into a collective visual and musical composition, and why Bitcoin Art Society believes the network could become a permanent medium for contemporary art. This post Mosaic: The Art...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "e79398d9e3",
+   "title": "Tokenized stock venue on Canton could beat OKX\u2013ICE to first trade under SEC framework",
+   "date": "2026-10-29T12:51:48+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Tokenized stock venue on Canton could beat OKX\u2013ICE to first trade under SEC framework",
+     "url": "https://www.coindesk.com/business/2026/10/29/tokenized-stock-venue-on-canton-could-beat-okx-ice-to-first-trade-under-sec-framework",
+     "date": "2026-10-29T12:51:48+00:00",
+     "summary": "The venue, called TSV LLC, plans to start trading shares Canton Strategic Holdings shares as early as Monday, using issuer-sponsored tokenization that avoids the 30-day company objection window."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T12:51:48+00:00",
+   "last_seen": "2026-10-29T12:51:48+00:00",
+   "summary": "The venue, called TSV LLC, plans to start trading shares Canton Strategic Holdings shares as early as Monday, using issuer-sponsored tokenization that avoids the 30-day company objection window.",
+   "tags": [
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "3c0ee6bf68",
+   "title": "Senator Bill Hagerty: Expanding the U.S. Strategic Bitcoin Reserve, & the Future of Dollar Hegemony",
+   "date": "2026-10-29T12:46:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Senator Bill Hagerty: Expanding the U.S. Strategic Bitcoin Reserve, & the Future of Dollar Hegemony",
+     "url": "https://bitcoinmagazine.com/videos/senator-bill-hagerty-expanding-the-u-s-strategic-bitcoin-reserve-the-future-of-dollar-hegemony",
+     "date": "2026-10-29T12:46:00+00:00",
+     "summary": "&#9654; Bitcoin Magazine Senator Bill Hagerty: Expanding the U.S. Strategic Bitcoin Reserve, & the Future of Dollar Hegemony Sen. Bill Hagerty explains why CBDCs threaten freedom, how regulatory ambiguity enabled SEC overreach, and what Congress can accomplish before January...."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T12:46:00+00:00",
+   "last_seen": "2026-10-29T12:46:00+00:00",
+   "summary": "&#9654; Bitcoin Magazine Senator Bill Hagerty: Expanding the U.S. Strategic Bitcoin Reserve, & the Future of Dollar Hegemony Sen. Bill Hagerty explains why CBDCs threaten freedom, how regulatory ambiguity enabled SEC overreach, and what Congress can accomplish before January....",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "d82a1d908f",
+   "title": "Chainalysis traces North Korean crypto cash-outs through Garantex",
+   "date": "2026-10-29T12:38:03+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Chainalysis traces North Korean crypto cash-outs through Garantex",
+     "url": "https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T12:38:03+00:00",
+     "summary": "The analysis followed US sanctions against 10 people and one entity accused of helping North Korean IT worker schemes fund weapons programs."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T12:38:03+00:00",
+   "last_seen": "2026-10-29T12:38:03+00:00",
+   "summary": "The analysis followed US sanctions against 10 people and one entity accused of helping North Korean IT worker schemes fund weapons programs.",
+   "tags": []
+  },
+  {
+   "id": "f3ed422556",
+   "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
+   "date": "2026-10-29T12:30:38+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
+     "url": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in",
+     "date": "2026-10-29T12:30:38+00:00",
+     "summary": "Now the BTC ETFs have flipped green for the month after $400M+ inflows this week, setting the stage for a big November."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T12:30:38+00:00",
+   "last_seen": "2026-10-29T12:30:38+00:00",
+   "summary": "Now the BTC ETFs have flipped green for the month after $400M+ inflows this week, setting the stage for a big November.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "854950cba8",
+   "title": "Unlimit founder backs Phase blockchain with $45M as mainnet launches",
+   "date": "2026-10-29T12:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Unlimit founder backs Phase blockchain with $45M as mainnet launches",
+     "url": "https://cointelegraph.com/news/unlimit-founder-phase-blockchain-mainnet-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T12:30:00+00:00",
+     "summary": "Phase\u2019s new network lets smartphone owners earn tokens for validating transactions and sharing internet connections with AI agents."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T12:30:00+00:00",
+   "last_seen": "2026-10-29T12:30:00+00:00",
+   "summary": "Phase\u2019s new network lets smartphone owners earn tokens for validating transactions and sharing internet connections with AI agents.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "dfac00e698",
+   "title": "HTX agrees to halt unlawful UK crypto promotions after FCA case",
+   "date": "2026-10-29T12:20:27+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "HTX agrees to halt unlawful UK crypto promotions after FCA case",
+     "url": "https://cointelegraph.com/news/htx-halt-unlawful-uk-crypto-promotions-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T12:20:27+00:00",
+     "summary": "HTX has pledged to stop crypto marketing in the UK until October 2031, with deposits and new account registrations already blocked there."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T12:20:27+00:00",
+   "last_seen": "2026-10-29T12:20:27+00:00",
+   "summary": "HTX has pledged to stop crypto marketing in the UK until October 2031, with deposits and new account registrations already blocked there.",
+   "tags": []
+  },
+  {
+   "id": "e2a78b1d6c",
+   "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
+   "date": "2026-10-29T12:18:20+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "U.S. sanctions Russian nationals for laundering millions in crypto for North Korean IT workers",
+     "url": "https://www.coindesk.com/business/2026/10/29/u-s-sanctions-russian-crypto-middlemen-tied-to-north-korean-it-worker-fraud",
+     "date": "2026-10-29T12:18:20+00:00",
+     "summary": "Russian nationals Ilya Boykov and Vitold Obertas allegedly converted about $3.5 million and nearly $2 million in crypto, respectively, for North Korea."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T12:18:20+00:00",
+   "last_seen": "2026-10-29T12:18:20+00:00",
+   "summary": "Russian nationals Ilya Boykov and Vitold Obertas allegedly converted about $3.5 million and nearly $2 million in crypto, respectively, for North Korea.",
+   "tags": []
+  },
+  {
+   "id": "515e69b576",
+   "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
+   "date": "2026-10-29T12:04:50+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
+     "date": "2026-10-29T12:04:50+00:00",
+     "summary": "Your day-ahead look for Oct. 29, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T12:04:50+00:00",
+   "last_seen": "2026-10-29T12:04:50+00:00",
+   "summary": "Your day-ahead look for Oct. 29, 2026",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "1bcfc4b25e",
+   "title": "China\u2019s tech crash erased $480 billion. Bitcoin rose 27% over the same dates",
+   "date": "2026-10-29T12:00:16+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "China\u2019s tech crash erased $480 billion. Bitcoin rose 27% over the same dates",
+     "url": "https://cryptoslate.com/chinas-near-40-tech-rout-contrasts-with-bitcoins-27-gain-over-the-same-dates/",
+     "date": "2026-10-29T12:00:16+00:00",
+     "summary": "The July 9\u2013Oct. 26 comparison shows sharp divergence, while margin pressure and cross-market selling remain the relevant contagion tests. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T12:00:16+00:00",
+   "last_seen": "2026-10-29T12:00:16+00:00",
+   "summary": "The July 9\u2013Oct. 26 comparison shows sharp divergence, while margin pressure and cross-market selling remain the relevant contagion tests. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "54692dfae6",
+   "title": "EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey",
+   "date": "2026-10-29T12:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "EU investors rank crypto above retirement plans for lasting wealth creation: OKX survey",
+     "url": "https://cointelegraph.com/news/eu-investors-crypto-above-retirement-lasting-wealth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T12:00:00+00:00",
+     "summary": "European investors ranked crypto above retirement plans for lasting wealth creation, while prior surveys show US investors are skeptical on crypto\u2019s role in retirement accounts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T12:00:00+00:00",
+   "last_seen": "2026-10-29T12:00:00+00:00",
+   "summary": "European investors ranked crypto above retirement plans for lasting wealth creation, while prior surveys show US investors are skeptical on crypto\u2019s role in retirement accounts.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "6e64d679d0",
+   "title": "Coinbase seeks Brazil crypto license, expects no service disruption",
+   "date": "2026-10-29T12:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Coinbase seeks Brazil crypto license, expects no service disruption",
+     "url": "https://cointelegraph.com/news/coinbase-brazil-license-no-service-disruption-expected?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T12:00:00+00:00",
+     "summary": "Coinbase has applied for authorization ahead of Brazil\u2019s Oct. 30 deadline and says it expects to maintain existing services while regulators review its application."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T12:00:00+00:00",
+   "last_seen": "2026-10-29T12:00:00+00:00",
+   "summary": "Coinbase has applied for authorization ahead of Brazil\u2019s Oct. 30 deadline and says it expects to maintain existing services while regulators review its application.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "6a94569a65",
+   "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
+   "date": "2026-10-29T12:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin lending and yield could drive next wave of institutional demand, Rootstock says",
+     "url": "https://cointelegraph.com/news/bitcoin-lending-and-yield-could-drive-next-wave-of-institutional-demand-rootstock-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T12:00:00+00:00",
+     "summary": "A new report argues that putting institutional Bitcoin holdings to work through lending, collateral and financing could create demand beyond its store-of-value role."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T12:00:00+00:00",
+   "last_seen": "2026-10-29T12:00:00+00:00",
+   "summary": "A new report argues that putting institutional Bitcoin holdings to work through lending, collateral and financing could create demand beyond its store-of-value role.",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
   {
    "id": "3f98b78f04",
    "title": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto",

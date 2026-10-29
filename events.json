@@ -1,6 +1,222 @@
 {
- "updated": "2026-10-29T21:01:20.273498+00:00",
+ "updated": "2026-10-29T21:59:10.232711+00:00",
  "events": [
+  {
+   "id": "c051570c11",
+   "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+   "date": "2026-10-29T21:49:16+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Binance investigating hack as suspicious outflows reach up to $5.8 billion",
+     "url": "https://www.theblock.co/news/markets/2026-10-29-binance-investigating-hack-suspicious-outflows-5-billion-432171",
+     "date": "2026-10-29T21:49:16+00:00",
+     "summary": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T21:49:16+00:00",
+   "last_seen": "2026-10-29T21:49:16+00:00",
+   "summary": "Tether and Circle froze $1.79 billion in USDT and USDC after billions moved out of Binance hot wallets. Binance says it is investigating.",
+   "tags": [
+    "exchanges",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "24a7f80ecc",
+   "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+   "date": "2026-10-29T21:36:24+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+     "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+     "date": "2026-10-29T21:36:24+00:00",
+     "summary": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T21:36:24+00:00",
+   "last_seen": "2026-10-29T21:36:24+00:00",
+   "summary": "An on-chain tally puts the suspected Binance drain at $5.57 billion across three blockchains, as Tether and Circle froze $1.8 billion.",
+   "tags": [
+    "exchanges",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "4810b22f37",
+   "title": "Polymarket Adds 15-Minute Gold and Silver Bets With Chainlink",
+   "date": "2026-10-29T21:25:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Polymarket Adds 15-Minute Gold and Silver Bets With Chainlink",
+     "url": "https://thedefiant.io/news/defi/polymarket-adds-15-minute-gold-and-silver-bets-with-chainlink",
+     "date": "2026-10-29T21:25:05+00:00",
+     "summary": "The contracts use start-and-end spot prices, while US takers pay about $1.74 per 100 contracts traded at 50 cents, before rebates."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T21:25:05+00:00",
+   "last_seen": "2026-10-29T21:25:05+00:00",
+   "summary": "The contracts use start-and-end spot prices, while US takers pay about $1.74 per 100 contracts traded at 50 cents, before rebates.",
+   "tags": []
+  },
+  {
+   "id": "9421ea892c",
+   "title": "Binance investigates potential multibillion-dollar hack",
+   "date": "2026-10-29T21:24:36+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance investigates potential multibillion-dollar hack",
+     "url": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T21:24:36+00:00",
+     "summary": "Binance said it is investigating a potential security breach after suspicious wallet transfers, while co-founder CZ reported nearly $1.8 billion in frozen stablecoins."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T21:24:36+00:00",
+   "last_seen": "2026-10-29T21:24:36+00:00",
+   "summary": "Binance said it is investigating a potential security breach after suspicious wallet transfers, while co-founder CZ reported nearly $1.8 billion in frozen stablecoins.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "17dafe4249",
+   "title": "Tether Freezes 971 Million USDT in Wallet Linked to Suspected Binance Drain",
+   "date": "2026-10-29T21:22:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tether Freezes 971 Million USDT in Wallet Linked to Suspected Binance Drain",
+     "url": "https://thedefiant.io/news/hacks/tether-freezes-971-million-usdt-in-wallet-linked-to-suspected-binance-drain",
+     "date": "2026-10-29T21:22:00+00:00",
+     "summary": "Binance says it is investigating a potential security issue but has not confirmed any impact to user funds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T21:22:00+00:00",
+   "last_seen": "2026-10-29T21:22:00+00:00",
+   "summary": "Binance says it is investigating a potential security issue but has not confirmed any impact to user funds.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "7298d2e774",
+   "title": "ETH Trades at 20% Premium on Uniswap Versus Binance",
+   "date": "2026-10-29T21:16:40+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "ETH Trades at 20% Premium on Uniswap Versus Binance",
+     "url": "https://thedefiant.io/news/markets/eth-trades-at-20-premium-on-uniswap-versus-binance",
+     "date": "2026-10-29T21:16:40+00:00",
+     "summary": "Hundreds of ETH changed hands at elevated stablecoin prices, while Chainlink\u2019s ETH/USD reference feed showed about $2,250."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T21:16:40+00:00",
+   "last_seen": "2026-10-29T21:16:40+00:00",
+   "summary": "Hundreds of ETH changed hands at elevated stablecoin prices, while Chainlink\u2019s ETH/USD reference feed showed about $2,250.",
+   "tags": [
+    "ethereum",
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "998f320663",
+   "title": "Binance loses $5.7 billion in largest crypto hack to date",
+   "date": "2026-10-29T21:12:45+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Binance loses $5.7 billion in largest crypto hack to date",
+     "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+     "date": "2026-10-29T21:12:45+00:00",
+     "summary": "Crypto prices are sliding on the news, with bitcoin falling back to $79,000."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T21:12:45+00:00",
+   "last_seen": "2026-10-29T21:12:45+00:00",
+   "summary": "Crypto prices are sliding on the news, with bitcoin falling back to $79,000.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "6ba17e0a0f",
+   "title": "Binance-Labeled Wallet Swept Minutes After EIP-7702 Delegation",
+   "date": "2026-10-29T21:04:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance-Labeled Wallet Swept Minutes After EIP-7702 Delegation",
+     "url": "https://thedefiant.io/news/security/binance-labeled-wallet-swept-minutes-after-eip-7702-delegation",
+     "date": "2026-10-29T21:04:09+00:00",
+     "summary": "The delegated account later triggered a separate 780 million USDC transfer from a smart wallet it owns. Whether the movements were authorized remains unconfirmed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T21:04:09+00:00",
+   "last_seen": "2026-10-29T21:04:09+00:00",
+   "summary": "The delegated account later triggered a separate 780 million USDC transfer from a smart wallet it owns. Whether the movements were authorized remains unconfirmed.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "e6c96326d0",
+   "title": "Warren, Curtis Press Kalshi and Polymarket on Election Trading Safeguards",
+   "date": "2026-10-29T21:02:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Warren, Curtis Press Kalshi and Polymarket on Election Trading Safeguards",
+     "url": "https://thedefiant.io/news/regulation/warren-curtis-press-kalshi-and-polymarket-on-election-trading-safeguards",
+     "date": "2026-10-29T21:02:50+00:00",
+     "summary": "The senators set a Nov. 3 deadline for answers, including how many suspected election-trading violations were stopped before trades occurred."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T21:02:50+00:00",
+   "last_seen": "2026-10-29T21:02:50+00:00",
+   "summary": "The senators set a Nov. 3 deadline for answers, including how many suspected election-trading violations were stopped before trades occurred.",
+   "tags": []
+  },
+  {
+   "id": "73487ed95d",
+   "title": "HTX exits UK, leaving customers to request a 48-hour withdrawal window",
+   "date": "2026-10-29T21:00:26+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "HTX exits UK, leaving customers to request a 48-hour withdrawal window",
+     "url": "https://cryptoslate.com/htx-exits-uk-leaving-customers-to-request-a-48-hour-withdrawal-window/",
+     "date": "2026-10-29T21:00:26+00:00",
+     "summary": "The FCA settlement follows a year of promotions litigation, with Huobi Global\u2019s court undertakings running until October 2031. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T21:00:26+00:00",
+   "last_seen": "2026-10-29T21:00:26+00:00",
+   "summary": "The FCA settlement follows a year of promotions litigation, with Huobi Global\u2019s court undertakings running until October 2031. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "legal"
+   ]
+  },
   {
    "id": "51829be245",
    "title": "Strategy reports $19.5 billion in Q3 net income as preferred shareholders approve daily dividends",

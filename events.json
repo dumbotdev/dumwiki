@@ -1,6 +1,105 @@
 {
- "updated": "2026-10-29T03:03:41.565669+00:00",
+ "updated": "2026-10-29T04:05:05.634081+00:00",
  "events": [
+  {
+   "id": "7c37b86788",
+   "title": "Tokenized GOOGL Drops Nearly 12% Alongside After-Hours Stock Selloff",
+   "date": "2026-10-29T03:42:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tokenized GOOGL Drops Nearly 12% Alongside After-Hours Stock Selloff",
+     "url": "https://thedefiant.io/news/markets/tokenized-googl-drops-nearly-12-alongside-after-hours-stock-selloff",
+     "date": "2026-10-29T03:42:33+00:00",
+     "summary": "A Uniswap pool handled about $603,000 in five minutes as Alphabet-linked tokens repriced. The underlying shares also traded sharply lower after the regular close."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T03:42:33+00:00",
+   "last_seen": "2026-10-29T03:42:33+00:00",
+   "summary": "A Uniswap pool handled about $603,000 in five minutes as Alphabet-linked tokens repriced. The underlying shares also traded sharply lower after the regular close.",
+   "tags": []
+  },
+  {
+   "id": "89537b6333",
+   "title": "Singapore Police Report $2.7 Million in Tampered Ledger Wallet Losses",
+   "date": "2026-10-29T03:39:53+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Singapore Police Report $2.7 Million in Tampered Ledger Wallet Losses",
+     "url": "https://thedefiant.io/news/hacks/singapore-police-report-2-7-million-in-tampered-ledger-wallet-losses",
+     "date": "2026-10-29T03:39:53+00:00",
+     "summary": "Police count at least two cases in a reporting window starting Sept. 10. Ledger's public alert came Oct. 9."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T03:39:53+00:00",
+   "last_seen": "2026-10-29T03:39:53+00:00",
+   "summary": "Police count at least two cases in a reporting window starting Sept. 10. Ledger's public alert came Oct. 9.",
+   "tags": []
+  },
+  {
+   "id": "38370019c6",
+   "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+   "date": "2026-10-29T03:32:43+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+     "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+     "date": "2026-10-29T03:32:43+00:00",
+     "summary": "Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T03:32:43+00:00",
+   "last_seen": "2026-10-29T03:32:43+00:00",
+   "summary": "Bitcoin fell below $80,000 as Samsung-driven tech weakness and a hawkish Fed hold triggered a broad risk-off move. Crypto futures saw $356 million in liquidations.",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "6f649226e9",
+   "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+   "date": "2026-10-29T03:21:24+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+     "url": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+     "date": "2026-10-29T03:21:24+00:00",
+     "summary": "A full-page warning urging CEOs to opt out of tokenized stock trading drew a response from Securitize and questions over who paid for it."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T03:21:24+00:00",
+   "last_seen": "2026-10-29T03:21:24+00:00",
+   "summary": "A full-page warning urging CEOs to opt out of tokenized stock trading drew a response from Securitize and questions over who paid for it.",
+   "tags": []
+  },
+  {
+   "id": "87aa4e9b1e",
+   "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+   "date": "2026-10-29T03:16:32+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+     "url": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-29T03:16:32+00:00",
+     "summary": "Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-29T03:16:32+00:00",
+   "last_seen": "2026-10-29T03:16:32+00:00",
+   "summary": "Police say at least two cases were reported as early as Sept. 10, nearly a month before the wider incident became public.",
+   "tags": []
+  },
   {
    "id": "c7d48ef13a",
    "title": "zkLink Nova Bridge Exploit Drains About $779,000 in One Transaction",

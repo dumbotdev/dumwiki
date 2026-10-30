@@ -1,6 +1,95 @@
 {
- "updated": "2026-10-30T19:06:33.214447+00:00",
+ "updated": "2026-10-30T19:58:43.192057+00:00",
  "events": [
+  {
+   "id": "36b2f4343d",
+   "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+   "date": "2026-10-30T19:55:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",
+     "url": "https://www.coindesk.com/business/2026/10/30/experts-divided-over-binance-hack-asset-freezes-warn-recovery-is-another-matter",
+     "date": "2026-10-30T19:55:00+00:00",
+     "summary": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same protection."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T19:55:00+00:00",
+   "last_seen": "2026-10-30T19:55:00+00:00",
+   "summary": "Tether, Circle and others moved within hours to block billions in stolen crypto, but legal experts question whether smaller victims would get the same protection.",
+   "tags": [
+    "exchanges",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "788ce18562",
+   "title": "Binance gives 48-hour withdrawal target while Bitcoin deposits remain open",
+   "date": "2026-10-30T19:50:36+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance gives 48-hour withdrawal target while Bitcoin deposits remain open",
+     "url": "https://cryptoslate.com/binance-gives-48-hour-withdrawal-target-while-bitcoin-deposits-remain-open/",
+     "date": "2026-10-30T19:50:36+00:00",
+     "summary": "Restoration estimates leave the practical test ahead: completed customer transfers and a separate reserve update. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T19:50:36+00:00",
+   "last_seen": "2026-10-30T19:50:36+00:00",
+   "summary": "Restoration estimates leave the practical test ahead: completed customer transfers and a separate reserve update. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "1dd8417ada",
+   "title": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
+   "date": "2026-10-30T19:31:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Reddit Stock Plunges 30% as Google's AI Search Hits Traffic and User Growth",
+     "url": "https://decrypt.co/382276/reddit-stock-plunges-30-googles-ai-search",
+     "date": "2026-10-30T19:31:02+00:00",
+     "summary": "Reddit shares are down 44% this week after CEO Steve Huffman warned that Google's AI-powered search features are cutting referrals, while weaker user growth and disappointing fourth-quarter guidance added to investor concerns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T19:31:02+00:00",
+   "last_seen": "2026-10-30T19:31:02+00:00",
+   "summary": "Reddit shares are down 44% this week after CEO Steve Huffman warned that Google's AI-powered search features are cutting referrals, while weaker user growth and disappointing fourth-quarter guidance added to investor concerns.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "fa8fe0a88f",
+   "title": "Tether\u2019s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+   "date": "2026-10-30T19:01:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Tether\u2019s excess reserves nearly double to $8B as Q3 profit hits $1.5B",
+     "url": "https://cointelegraph.com/news/tethers-excess-reserves-nearly-double-to-8b-as-q3-profit-hits-15b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T19:01:58+00:00",
+     "summary": "The stablecoin issuer\u2019s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T19:01:58+00:00",
+   "last_seen": "2026-10-30T19:01:58+00:00",
+   "summary": "The stablecoin issuer\u2019s US Treasury holdings are comparable to those of major foreign holders, while its Bitcoin reserves were valued at $8.37 billion at the end of September.",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "stablecoins"
+   ]
+  },
   {
    "id": "6c78e2b4f9",
    "title": "Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales",

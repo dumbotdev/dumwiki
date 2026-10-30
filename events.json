@@ -1,6 +1,90 @@
 {
- "updated": "2026-10-30T15:10:54.024739+00:00",
+ "updated": "2026-10-30T16:05:10.930214+00:00",
  "events": [
+  {
+   "id": "2fc15e560b",
+   "title": "1INCH Slides 13%, Extending Losses Beyond Bitcoin and Ether",
+   "date": "2026-10-30T16:04:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "1INCH Slides 13%, Extending Losses Beyond Bitcoin and Ether",
+     "url": "https://thedefiant.io/news/markets/1inch-slides-13-extending-losses-beyond-bitcoin-and-ether",
+     "date": "2026-10-30T16:04:19+00:00",
+     "summary": "1inch said its token was among assets stolen from Binance and that blocking attacker access to its apps cannot freeze the tokens themselves."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T16:04:19+00:00",
+   "last_seen": "2026-10-30T16:04:19+00:00",
+   "summary": "1inch said its token was among assets stolen from Binance and that blocking attacker access to its apps cannot freeze the tokens themselves.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "dca5e00189",
+   "title": "IPX Unveils KPI-Gated Escrow for On-Chain Crowdfunding & Sponsorship Campaigns",
+   "date": "2026-10-30T15:51:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "IPX Unveils KPI-Gated Escrow for On-Chain Crowdfunding & Sponsorship Campaigns",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/ipx-kpi-gated-escrow-onchain-crowdfunding-sponsorship",
+     "date": "2026-10-30T15:51:06+00:00",
+     "summary": "IPX detailed its patent-pending KPI-Gated Escrow, a system that ties crowdfunding dollars for video games, video production and sponsorship payments to agreed platform milestones. The technology is planned for use with the platform\u2019s November 15, 2026 launch."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T15:51:06+00:00",
+   "last_seen": "2026-10-30T15:51:06+00:00",
+   "summary": "IPX detailed its patent-pending KPI-Gated Escrow, a system that ties crowdfunding dollars for video games, video production and sponsorship payments to agreed platform milestones. The technology is planned for use with the platform\u2019s November 15, 2026 launch.",
+   "tags": []
+  },
+  {
+   "id": "52fb28989e",
+   "title": "Binance Attacker Used EIP-7702 to Bypass Wallet Controls, Teng Says",
+   "date": "2026-10-30T15:30:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Attacker Used EIP-7702 to Bypass Wallet Controls, Teng Says",
+     "url": "https://thedefiant.io/news/hacks/binance-attacker-used-eip-7702-to-bypass-wallet-controls-teng-says",
+     "date": "2026-10-30T15:30:15+00:00",
+     "summary": "Binance is rebuilding its withdrawal service after a breach it estimates at $6.3 billion. Teng also said attackers destroyed tools and traces during the intrusion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T15:30:15+00:00",
+   "last_seen": "2026-10-30T15:30:15+00:00",
+   "summary": "Binance is rebuilding its withdrawal service after a breach it estimates at $6.3 billion. Teng also said attackers destroyed tools and traces during the intrusion.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "6f9df46750",
+   "title": "MEXC pulls out of four countries despite ambitious plan to rival global trading giants",
+   "date": "2026-10-30T15:15:42+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "MEXC pulls out of four countries despite ambitious plan to rival global trading giants",
+     "url": "https://cryptoslate.com/mexc-pulls-out-of-four-countries-despite-ambitious-plan-to-rival-global-trading-giants/",
+     "date": "2026-10-30T15:15:42+00:00",
+     "summary": "Remaining positions face automatic closure on January 22, 2027, while the March 5 withdrawal cutoff leaves earlier batch restrictions intact. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T15:15:42+00:00",
+   "last_seen": "2026-10-30T15:15:42+00:00",
+   "summary": "Remaining positions face automatic closure on January 22, 2027, while the March 5 withdrawal cutoff leaves earlier batch restrictions intact. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
   {
    "id": "3d446c6f45",
    "title": "Binance\u2019s Teng Sets Monday Reserve Report Deadline as Withdrawals Stay Paused",

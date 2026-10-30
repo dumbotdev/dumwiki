@@ -1,6 +1,141 @@
 {
- "updated": "2026-10-30T03:05:22.116226+00:00",
+ "updated": "2026-10-30T04:06:09.213562+00:00",
  "events": [
+  {
+   "id": "f99978d195",
+   "title": "Bitcoin Price Briefly Slides to $76,300 as Binance Confirms Hack Estimated at $6.3 Billion",
+   "date": "2026-10-30T04:05:40+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Briefly Slides to $76,300 as Binance Confirms Hack Estimated at $6.3 Billion",
+     "url": "https://bitcoinmagazine.com/news/bitcoin-price-slides-near-76000-binance",
+     "date": "2026-10-30T04:05:40+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Briefly Slides to $76,300 as Binance Confirms Hack Estimated at $6.3 Billion Binance says the attacker reportedly gained access through a compromised employee laptop, and about $3 billion has been frozen onchain. This post Bitcoin Price Briefly..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T04:05:40+00:00",
+   "last_seen": "2026-10-30T04:05:40+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Briefly Slides to $76,300 as Binance Confirms Hack Estimated at $6.3 Billion Binance says the attacker reportedly gained access through a compromised employee laptop, and about $3 billion has been frozen onchain. This post Bitcoin Price Briefly...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "markets",
+    "security"
+   ]
+  },
+  {
+   "id": "8b0863bc1e",
+   "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+   "date": "2026-10-30T04:00:43+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "$6 billion Binance hack sends bitcoin, ether tumbling; Standard Chartered expects more pain",
+     "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
+     "date": "2026-10-30T04:00:43+00:00",
+     "summary": "Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T04:00:43+00:00",
+   "last_seen": "2026-10-30T04:00:43+00:00",
+   "summary": "Bitcoin and ether slid after a suspected $6.3 billion Binance security breach and a Polymarket exploit. Standard Chartered says crypto prices may remain under pressure before finding a base.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "dc2874c141",
+   "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+   "date": "2026-10-30T03:56:40+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Institutional crypto investors rush to pull funds from exchanges after Binance hack",
+     "url": "https://www.coindesk.com/markets/2026/10/30/institutional-crypto-investors-rush-to-pull-funds-from-exchanges-after-binance-hack",
+     "date": "2026-10-30T03:56:40+00:00",
+     "summary": "The withdrawals suggest the fallout from the multibillion-dollar breach is spreading beyond Binance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T03:56:40+00:00",
+   "last_seen": "2026-10-30T03:56:40+00:00",
+   "summary": "The withdrawals suggest the fallout from the multibillion-dollar breach is spreading beyond Binance.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "214d91d8fe",
+   "title": "Hackers drain 9,400 SOL from bot wallets, and a copied key is blamed",
+   "date": "2026-10-30T03:50:49+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Hackers drain 9,400 SOL from bot wallets, and a copied key is blamed",
+     "url": "https://cryptoslate.com/hackers-drain-9400-sol-from-bot-wallets-and-a-copied-key-is-blamed/",
+     "date": "2026-10-30T03:50:49+00:00",
+     "summary": "Owner-key signatures and old bot wallets reveal the stakes of service controls, while @BloomTrading denies private-key compromise. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T03:50:49+00:00",
+   "last_seen": "2026-10-30T03:50:49+00:00",
+   "summary": "Owner-key signatures and old bot wallets reveal the stakes of service controls, while @BloomTrading denies private-key compromise. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "2251988628",
+   "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
+   "date": "2026-10-30T03:47:01+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance hack could accelerate shift to DEXs: Standard Chartered",
+     "url": "https://cointelegraph.com/news/binance-hack-could-accelerate-shift-to-dexs-standard-chartered?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T03:47:01+00:00",
+     "summary": "Standard Chartered\u2019s Geoffrey Kendrick says the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap\u2019s UNI token reaching $100 by 2030."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T03:47:01+00:00",
+   "last_seen": "2026-10-30T03:47:01+00:00",
+   "summary": "Standard Chartered\u2019s Geoffrey Kendrick says the breach could accelerate a shift toward decentralized trading and strengthen his case for Uniswap\u2019s UNI token reaching $100 by 2030.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "0e9707aedd",
+   "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+   "date": "2026-10-30T03:36:11+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto's longtime foe, North Korea's Lazarus Group, likely behind Binance hack: blockchain sleuths",
+     "url": "https://www.coindesk.com/policy/2026/10/29/crypto-s-longtime-foe-north-korea-s-lazarus-group-likely-behind-binance-hack-blockchain-sleuths",
+     "date": "2026-10-30T03:36:11+00:00",
+     "summary": "Security researchers suggested that the hermit kingdom's Lazarus Group was behind Thursday's nearly $6 billion hack of the world's largest crypto exchange."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T03:36:11+00:00",
+   "last_seen": "2026-10-30T03:36:11+00:00",
+   "summary": "Security researchers suggested that the hermit kingdom's Lazarus Group was behind Thursday's nearly $6 billion hack of the world's largest crypto exchange.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "9407073134",
    "title": "Allium restores 18 major chains, but only specific platforms are safe",

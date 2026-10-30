@@ -1,6 +1,197 @@
 {
- "updated": "2026-10-30T07:21:52.701932+00:00",
+ "updated": "2026-10-30T09:09:13.514910+00:00",
  "events": [
+  {
+   "id": "44876408ee",
+   "title": "Coinbase Q3 net income jumps 66% as prediction markets gain traction",
+   "date": "2026-10-30T08:57:09+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Coinbase Q3 net income jumps 66% as prediction markets gain traction",
+     "url": "https://www.theblock.co/news/business/2026-10-30-coinbase-q3-net-income-jumps-432189",
+     "date": "2026-10-30T08:57:09+00:00",
+     "summary": "Bernstein analysts said Coinbase's expanding prediction markets and derivatives businesses helped offset weaker spot trading activity."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T08:57:09+00:00",
+   "last_seen": "2026-10-30T08:57:09+00:00",
+   "summary": "Bernstein analysts said Coinbase's expanding prediction markets and derivatives businesses helped offset weaker spot trading activity.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "5ccd3f8222",
+   "title": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
+   "date": "2026-10-30T08:55:39+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Trezor reports suspected hardware implant in Safe 5 sold by CryptoBilis",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196",
+     "date": "2026-10-30T08:55:39+00:00",
+     "summary": "Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T08:55:39+00:00",
+   "last_seen": "2026-10-30T08:55:39+00:00",
+   "summary": "Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device.",
+   "tags": []
+  },
+  {
+   "id": "d6b517b6b4",
+   "title": "Binance Reports More Breach Points in $6.3 Billion Attack",
+   "date": "2026-10-30T08:54:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Reports More Breach Points in $6.3 Billion Attack",
+     "url": "https://thedefiant.io/news/hacks/binance-reports-more-breach-points-in-6-3-billion-attack",
+     "date": "2026-10-30T08:54:07+00:00",
+     "summary": "Withdrawals remain paused with a 45-hour restart estimate, while Binance pledges to cover all losses from its SAFU reserve and company funds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T08:54:07+00:00",
+   "last_seen": "2026-10-30T08:54:07+00:00",
+   "summary": "Withdrawals remain paused with a 45-hour restart estimate, while Binance pledges to cover all losses from its SAFU reserve and company funds.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "32f7f4fbec",
+   "title": "Live News: Binance hack rattles crypto as Intel plunges and AI spending fears hit tech",
+   "date": "2026-10-30T08:36:52+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live News: Binance hack rattles crypto as Intel plunges and AI spending fears hit tech",
+     "url": "https://www.coindesk.com/markets/2026/10/30/live-news-binance-hack-rattles-crypto-as-intel-plunges-and-ai-spending-fears-hit-tech",
+     "date": "2026-10-30T08:36:52+00:00",
+     "summary": "A $6.3 billion Binance hack adds to crypto jitters, while weak earnings outlooks and mounting concerns over AI spending push QQQ down more than 2%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T08:36:52+00:00",
+   "last_seen": "2026-10-30T08:36:52+00:00",
+   "summary": "A $6.3 billion Binance hack adds to crypto jitters, while weak earnings outlooks and mounting concerns over AI spending push QQQ down more than 2%.",
+   "tags": [
+    "ai",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "678adc2a9f",
+   "title": "Teng Says Binance Breach Was Not a \u2018One-Click\u2019 Attack",
+   "date": "2026-10-30T08:26:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Teng Says Binance Breach Was Not a \u2018One-Click\u2019 Attack",
+     "url": "https://thedefiant.io/news/hacks/teng-says-binance-breach-was-not-a-one-click-attack",
+     "date": "2026-10-30T08:26:05+00:00",
+     "summary": "Withdrawals remain paused while deposits operate normally; Binance says about $3 billion in affected assets has been frozen onchain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T08:26:05+00:00",
+   "last_seen": "2026-10-30T08:26:05+00:00",
+   "summary": "Withdrawals remain paused while deposits operate normally; Binance says about $3 billion in affected assets has been frozen onchain.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "4f41e4c4fc",
+   "title": "FUN Plunges 95% in Uniswap Pool as Binance Exploiter Sells",
+   "date": "2026-10-30T08:17:27+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "FUN Plunges 95% in Uniswap Pool as Binance Exploiter Sells",
+     "url": "https://thedefiant.io/news/markets/fun-plunges-95-in-uniswap-pool-as-binance-exploiter-sells",
+     "date": "2026-10-30T08:17:27+00:00",
+     "summary": "The main exploiter address also sold RAD and OGN on Uniswap, while about 580.8 million unsold FUN was transferred back to the collection wallet."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T08:17:27+00:00",
+   "last_seen": "2026-10-30T08:17:27+00:00",
+   "summary": "The main exploiter address also sold RAD and OGN on Uniswap, while about 580.8 million unsold FUN was transferred back to the collection wallet.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "e6cf7221e4",
+   "title": "Circle and ACI plan USDC settlement pilot alongside Colombia\u2019s payment rails",
+   "date": "2026-10-30T08:00:23+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Circle and ACI plan USDC settlement pilot alongside Colombia\u2019s payment rails",
+     "url": "https://cryptoslate.com/aci-circle-usdc-settlement-pilot-colombia/",
+     "date": "2026-10-30T08:00:23+00:00",
+     "summary": "The Colombia-focused pilot explores integration through Connetic, while bank participation, production volumes and measured benefits remain undisclosed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T08:00:23+00:00",
+   "last_seen": "2026-10-30T08:00:23+00:00",
+   "summary": "The Colombia-focused pilot explores integration through Connetic, while bank participation, production volumes and measured benefits remain undisclosed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "legal",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "ae1138c813",
+   "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
+   "date": "2026-10-30T07:54:07+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Binance hacker dumps a little-known 2017 token and it crashes 90%",
+     "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-dumps-a-little-known-2017-token-and-it-crashes-90",
+     "date": "2026-10-30T07:54:07+00:00",
+     "summary": "The hacker dumped FUN and other smaller tokens into markets too small to absorb large selling, leading to price crashes."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T07:54:07+00:00",
+   "last_seen": "2026-10-30T07:54:07+00:00",
+   "summary": "The hacker dumped FUN and other smaller tokens into markets too small to absorb large selling, leading to price crashes.",
+   "tags": [
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "0de112c9b0",
+   "title": "Trezor Urges CryptoBilis Buyers to Move Funds After Implant Report",
+   "date": "2026-10-30T07:22:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Trezor Urges CryptoBilis Buyers to Move Funds After Implant Report",
+     "url": "https://thedefiant.io/news/security/trezor-urges-cryptobilis-buyers-to-move-funds-after-implant-report",
+     "date": "2026-10-30T07:22:15+00:00",
+     "summary": "The company has not yet examined the Safe 5 in question and says no CryptoBilis buyer has reported losing funds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T07:22:15+00:00",
+   "last_seen": "2026-10-30T07:22:15+00:00",
+   "summary": "The company has not yet examined the Safe 5 in question and says no CryptoBilis buyer has reported losing funds.",
+   "tags": []
+  },
   {
    "id": "aa6fd9982a",
    "title": "Central banks map their role in a payments system shared with stablecoins",
@@ -78,11 +269,18 @@
      "url": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-30T05:51:41+00:00",
      "summary": "TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Live updates: Binance $6.3B hack linked to North Korea\u2019s TraderTraitor",
+     "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T08:00:39+00:00",
+     "summary": "Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-10-30T05:51:41+00:00",
-   "last_seen": "2026-10-30T05:51:41+00:00",
+   "last_seen": "2026-10-30T08:00:39+00:00",
    "summary": "TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.",
    "tags": [
     "exchanges",

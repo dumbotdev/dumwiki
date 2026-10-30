@@ -1,6 +1,94 @@
 {
- "updated": "2026-10-30T06:00:25.816116+00:00",
+ "updated": "2026-10-30T07:21:52.701932+00:00",
  "events": [
+  {
+   "id": "aa6fd9982a",
+   "title": "Central banks map their role in a payments system shared with stablecoins",
+   "date": "2026-10-30T06:30:55+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Central banks map their role in a payments system shared with stablecoins",
+     "url": "https://cryptoslate.com/central-banks-map-their-role-in-a-payments-system-shared-with-stablecoins/",
+     "date": "2026-10-30T06:30:55+00:00",
+     "summary": "The October 29 official summaries connect settlement access, infrastructure, oversight and coordination while keeping potential benefits and risks conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T06:30:55+00:00",
+   "last_seen": "2026-10-30T06:30:55+00:00",
+   "summary": "The October 29 official summaries connect settlement access, infrastructure, oversight and coordination while keeping potential benefits and risks conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst...",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "6675ff6174",
+   "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+   "date": "2026-10-30T06:22:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin, ether and XRP selloff wipes out $1.5 billion in leveraged crypto bets",
+     "url": "https://www.coindesk.com/markets/2026/10/30/bitcoin-ether-and-xrp-selloff-wipes-out-usd1-5-billion-in-leveraged-crypto-bets",
+     "date": "2026-10-30T06:22:00+00:00",
+     "summary": "Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching short sellers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T06:22:00+00:00",
+   "last_seen": "2026-10-30T06:22:00+00:00",
+   "summary": "Bets on rising prices accounted for nearly 84% of forced closures, with Binance handling almost half the total. A rebound has since started catching short sellers.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "fdc62e2aa5",
+   "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+   "date": "2026-10-30T05:53:07+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Strategy eyes more Bitcoin buys as Saylor touts $30B credit capacity",
+     "url": "https://cointelegraph.com/news/strategy-30-billion-digital-credit-capacity-bitcoin-buys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T05:53:07+00:00",
+     "summary": "Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T05:53:07+00:00",
+   "last_seen": "2026-10-30T05:53:07+00:00",
+   "summary": "Michael Saylor says Strategy could create up to $30 billion in digital credit without new common-stock fundraising or further Bitcoin price gains, as the company plans more BTC purchases.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "bc66e2054e",
+   "title": "North Korea\u2019s TraderTraitor linked to $6.3B Binance hack",
+   "date": "2026-10-30T05:51:41+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "North Korea\u2019s TraderTraitor linked to $6.3B Binance hack",
+     "url": "https://cointelegraph.com/news/north-korea-linked-to-63b-binance-hack-by-crypto-investigators?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T05:51:41+00:00",
+     "summary": "TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T05:51:41+00:00",
+   "last_seen": "2026-10-30T05:51:41+00:00",
+   "summary": "TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "03ecf60e36",
    "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",

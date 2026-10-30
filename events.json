@@ -1,6 +1,156 @@
 {
- "updated": "2026-10-30T16:05:10.930214+00:00",
+ "updated": "2026-10-30T17:01:26.040010+00:00",
  "events": [
+  {
+   "id": "c0c8aa8c68",
+   "title": "Ethereum Draft Would Let Wallets Permanently Disable EIP-7702 Delegation",
+   "date": "2026-10-30T16:54:23+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ethereum Draft Would Let Wallets Permanently Disable EIP-7702 Delegation",
+     "url": "https://thedefiant.io/news/infrastructure/ethereum-draft-would-let-wallets-permanently-disable-eip-7702-delegation",
+     "date": "2026-10-30T16:54:23+00:00",
+     "summary": "Accounts would keep their addresses and ordinary transaction capabilities, but the opt-out would not protect funds from a stolen private key."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T16:54:23+00:00",
+   "last_seen": "2026-10-30T16:54:23+00:00",
+   "summary": "Accounts would keep their addresses and ordinary transaction capabilities, but the opt-out would not protect funds from a stolen private key.",
+   "tags": [
+    "ethereum",
+    "security"
+   ]
+  },
+  {
+   "id": "1d95a5ebed",
+   "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+   "date": "2026-10-30T16:34:21+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Binance Sets Aside $6.34B to Cover Hack Losses, CEO Says 'Your Assets Are Safe'",
+     "url": "https://decrypt.co/382237/binance-sets-aside-6-34b-to-cover-hack-losses-ceo-says-your-assets-are-safe",
+     "date": "2026-10-30T16:34:21+00:00",
+     "summary": "Richard Teng said the attacker used a self-destruct mechanism and an EIP-7702 delegation that bypassed Binance's normal approval controls."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T16:34:21+00:00",
+   "last_seen": "2026-10-30T16:34:21+00:00",
+   "summary": "Richard Teng said the attacker used a self-destruct mechanism and an EIP-7702 delegation that bypassed Binance's normal approval controls.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "3984e505f1",
+   "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+   "date": "2026-10-30T16:31:17+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Binance uncovers wider breach in $6.3 billion exploit, targets Sunday withdrawal restart",
+     "url": "https://www.coindesk.com/tech/2026/10/30/binance-uncovers-wider-breach-in-usd6-3-billion-exploit-targets-sunday-withdrawal-restart",
+     "date": "2026-10-30T16:31:17+00:00",
+     "summary": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T16:31:17+00:00",
+   "last_seen": "2026-10-30T16:31:17+00:00",
+   "summary": "CEO Richard Teng said hackers erased evidence and bypassed security checks. Binance plans to publish its proof of reserves Monday.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "5883872544",
+   "title": "Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist",
+   "date": "2026-10-30T16:26:07+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Texas brothers sentenced to 15 years for holding Minnesota family at gunpoint in $8 million crypto heist",
+     "url": "https://www.theblock.co/news/regulation/2026-10-30-texas-brothers-sentenced-15-years-8-million-crypto-robbery-minnesota-432221",
+     "date": "2026-10-30T16:26:07+00:00",
+     "summary": "Two brothers who held a family for nine hours at gunpoint in Minnesota for $8 million worth of cryptocurrency were sentenced on Friday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T16:26:07+00:00",
+   "last_seen": "2026-10-30T16:26:07+00:00",
+   "summary": "Two brothers who held a family for nine hours at gunpoint in Minnesota for $8 million worth of cryptocurrency were sentenced on Friday.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "48f250ed0d",
+   "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+   "date": "2026-10-30T16:25:06+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Elon Musk, CZ Trade Blows Over SpaceX Shares After $6.4B Binance Hack",
+     "url": "https://decrypt.co/382236/elon-musk-cz-trade-blows-spacex-shares-binance-hack",
+     "date": "2026-10-30T16:25:06+00:00",
+     "summary": "After Musk appeared to mock Binance\u2019s $6.3 billion hack, CZ reminded him that the exchange\u2019s $500 million bet on his Twitter takeover is now worth over $1 billion in SpaceX shares."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T16:25:06+00:00",
+   "last_seen": "2026-10-30T16:25:06+00:00",
+   "summary": "After Musk appeared to mock Binance\u2019s $6.3 billion hack, CZ reminded him that the exchange\u2019s $500 million bet on his Twitter takeover is now worth over $1 billion in SpaceX shares.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "2cbb4877c5",
+   "title": "BOJ will more than double stock-fund sales from January",
+   "date": "2026-10-30T16:20:22+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "BOJ will more than double stock-fund sales from January",
+     "url": "https://cryptoslate.com/boj-more-than-doubles-planned-stock-fund-sales-as-bitcoin-faces-a-different-yen-risk-test/",
+     "date": "2026-10-30T16:20:22+00:00",
+     "summary": "Annual equity-ETF sales will rise from about \u00a5330 billion to \u00a5860 billion at book value from January 2027, with safeguards limiting immediate-shock claims. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T16:20:22+00:00",
+   "last_seen": "2026-10-30T16:20:22+00:00",
+   "summary": "Annual equity-ETF sales will rise from about \u00a5330 billion to \u00a5860 billion at book value from January 2027, with safeguards limiting immediate-shock claims. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": []
+  },
+  {
+   "id": "645333e7ea",
+   "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+   "date": "2026-10-30T16:06:28+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin risks worst October in 12 years as tech sell-off spreads to gold",
+     "url": "https://cointelegraph.com/markets/bitcoin-risks-worst-october-in-12-years-as-tech-sell-off-spreads-to-gold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T16:06:28+00:00",
+     "summary": "Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T16:06:28+00:00",
+   "last_seen": "2026-10-30T16:06:28+00:00",
+   "summary": "Bitcoin circled $77,000 as crypto markets navigated US stock-market downside, while the gold price fell to its lowest in a year.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
   {
    "id": "2fc15e560b",
    "title": "1INCH Slides 13%, Extending Losses Beyond Bitcoin and Ether",

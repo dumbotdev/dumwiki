@@ -1,6 +1,72 @@
 {
- "updated": "2026-10-30T19:58:43.192057+00:00",
+ "updated": "2026-10-30T20:57:39.556036+00:00",
  "events": [
+  {
+   "id": "529472e548",
+   "title": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
+   "date": "2026-10-30T20:53:23+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Intel Stock Suffers Worst Crash in 50 Years as Weak Forecast Overshadows AI Chip Demand",
+     "url": "https://decrypt.co/382287/intel-stock-suffers-worst-crash-in-50-years-as-weak-forecast-overshadows-ai-chip-demand",
+     "date": "2026-10-30T20:53:23+00:00",
+     "summary": "Intel beat third-quarter earnings expectations, but warned of a prolonged PC slump, sending shares to their worst daily decline in 50 years."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T20:53:23+00:00",
+   "last_seen": "2026-10-30T20:53:23+00:00",
+   "summary": "Intel beat third-quarter earnings expectations, but warned of a prolonged PC slump, sending shares to their worst daily decline in 50 years.",
+   "tags": [
+    "ai",
+    "markets"
+   ]
+  },
+  {
+   "id": "4bb7cbe0e4",
+   "title": "Binance hackers deploy never-seen-before laundering tactics to conceal $6.3 billion theft",
+   "date": "2026-10-30T20:30:08+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance hackers deploy never-seen-before laundering tactics to conceal $6.3 billion theft",
+     "url": "https://cryptoslate.com/binance-hackers-deploy-never-seen-before-laundering-tactics-to-conceal-6-3-billion-theft/",
+     "date": "2026-10-30T20:30:08+00:00",
+     "summary": "Hackers behind Binance&#039;s $6.3 billion breach are using previously unseen laundering tactics while rapidly converting stolen assets into other cryptocurrencies. On Oct. 30, blockchain analytics firm Chainalysis said that investigators identified thousands of transactions..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T20:30:08+00:00",
+   "last_seen": "2026-10-30T20:30:08+00:00",
+   "summary": "Hackers behind Binance&#039;s $6.3 billion breach are using previously unseen laundering tactics while rapidly converting stolen assets into other cryptocurrencies. On Oct. 30, blockchain analytics firm Chainalysis said that investigators identified thousands of transactions...",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "2b8b4d0ac0",
+   "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+   "date": "2026-10-30T20:06:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Worried About Crypto Hacks? Buy Bitcoin Proxies in Stock Market Instead, Say Wall Street Firms",
+     "url": "https://decrypt.co/382282/crypto-hacks-buy-bitcoin-proxies-stock-market-wall-street",
+     "date": "2026-10-30T20:06:03+00:00",
+     "summary": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, pointing clients toward proxies like Coinbase, Robinhood, and Strategy."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T20:06:03+00:00",
+   "last_seen": "2026-10-30T20:06:03+00:00",
+   "summary": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the record $6.4 billion theft is a Binance security failure, not a crypto-wide threat, pointing clients toward proxies like Coinbase, Robinhood, and Strategy.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
   {
    "id": "36b2f4343d",
    "title": "Experts divided over Binance hack asset freezes, warn recovery is another matter",

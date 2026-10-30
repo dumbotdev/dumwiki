@@ -1,6 +1,115 @@
 {
- "updated": "2026-10-30T17:56:21.071441+00:00",
+ "updated": "2026-10-30T19:06:33.214447+00:00",
  "events": [
+  {
+   "id": "6c78e2b4f9",
+   "title": "Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales",
+   "date": "2026-10-30T18:54:24+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales",
+     "url": "https://bitcoinmagazine.com/news/coinbase-falls-armstrong-sets-up-new-share",
+     "date": "2026-10-30T18:54:24+00:00",
+     "summary": "Bitcoin Magazine Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales Coinbase missed revenue expectations as users declined, despite growth in recurring revenue, while executive share-sale plans and a massive Binance security breach added..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T18:54:24+00:00",
+   "last_seen": "2026-10-30T18:54:24+00:00",
+   "summary": "Bitcoin Magazine Coinbase (COIN) Misses Revenue Estimates as Users Fall, Armstrong Sets Up New Share Sales Coinbase missed revenue expectations as users declined, despite growth in recurring revenue, while executive share-sale plans and a massive Binance security breach added...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "ad005785c6",
+   "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
+   "date": "2026-10-30T18:45:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Binance Hack: Why Bitcoin Didn't Crash Like It Did in 2018",
+     "url": "https://decrypt.co/382257/binance-hack-why-bitcoin-didnt-crash",
+     "date": "2026-10-30T18:45:03+00:00",
+     "summary": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 when the exchange was last attacked."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T18:45:03+00:00",
+   "last_seen": "2026-10-30T18:45:03+00:00",
+   "summary": "Binance lost about $6.4 billion, the largest crypto hack on record, yet Bitcoin fell about 3%, against nearly 11% in 2018 when the exchange was last attacked.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "markets",
+    "security"
+   ]
+  },
+  {
+   "id": "25bb294201",
+   "title": "Coinbase\u2019s $719 million profit reveals a company caught between two crypto economies",
+   "date": "2026-10-30T18:40:11+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Coinbase\u2019s $719 million profit reveals a company caught between two crypto economies",
+     "url": "https://cryptoslate.com/coinbases-719-million-profit-reveals-a-company-caught-between-two-crypto-economies/",
+     "date": "2026-10-30T18:40:11+00:00",
+     "summary": "The Q3 gap between stablecoin revenue and disclosed holder-rewards expense fell 16.6%, a calculation that excludes other costs and income. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T18:40:11+00:00",
+   "last_seen": "2026-10-30T18:40:11+00:00",
+   "summary": "The Q3 gap between stablecoin revenue and disclosed holder-rewards expense fell 16.6%, a calculation that excludes other costs and income. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f3d52968a2",
+   "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
+   "date": "2026-10-30T18:16:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "$8 Million Crypto Kidnapping Lands Texas Brothers 15-Year Prison Terms",
+     "url": "https://decrypt.co/382269/crypto-kidnapping-texas-brothers-15-year-prison",
+     "date": "2026-10-30T18:16:02+00:00",
+     "summary": "Raymond and Isiah Garcia held a Minnesota family at gunpoint for more than nine hours, forcing the father to transfer over $8 million in crypto, in one of the clearest \u201cwrench attack\u201d prosecutions yet."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T18:16:02+00:00",
+   "last_seen": "2026-10-30T18:16:02+00:00",
+   "summary": "Raymond and Isiah Garcia held a Minnesota family at gunpoint for more than nine hours, forcing the father to transfer over $8 million in crypto, in one of the clearest \u201cwrench attack\u201d prosecutions yet.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "cfeb7d5032",
+   "title": "Tokenized Assets, Payments and Prediction Markets Out-Earned Blockchains for the First Time",
+   "date": "2026-10-30T18:08:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tokenized Assets, Payments and Prediction Markets Out-Earned Blockchains for the First Time",
+     "url": "https://thedefiant.io/news/defi/real-economy-fees-overtook-blockchain-infrastructure-1kx-revenue-report",
+     "date": "2026-10-30T18:08:12+00:00",
+     "summary": "1kx's annual revenue report puts industry revenue on track for about $100 billion in 2026, down about 30% from last year. Transaction fees paid to chains are now under 3% of what the industry earns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T18:08:12+00:00",
+   "last_seen": "2026-10-30T18:08:12+00:00",
+   "summary": "1kx's annual revenue report puts industry revenue on track for about $100 billion in 2026, down about 30% from last year. Transaction fees paid to chains are now under 3% of what the industry earns.",
+   "tags": []
+  },
   {
    "id": "e765746136",
    "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
@@ -18,6 +127,29 @@
    "first_seen": "2026-10-30T17:50:26+00:00",
    "last_seen": "2026-10-30T17:50:26+00:00",
    "summary": "Binance says it has set aside $6.34 billion to cover losses from the breach and the FBI and Secret Service are now working with the exchange as investigators trace the stolen funds.",
+   "tags": [
+    "exchanges",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f5e2ae5b19",
+   "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+   "date": "2026-10-30T17:48:27+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Coinbase leads crypto stock selloff following $6.3B Binance hack",
+     "url": "https://cointelegraph.com/markets/coinbase-leads-crypto-stock-selloff-shares-tumble?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T17:48:27+00:00",
+     "summary": "Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a $6.3 billion security breach."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T17:48:27+00:00",
+   "last_seen": "2026-10-30T17:48:27+00:00",
+   "summary": "Circle, Strategy and other crypto-linked stocks fell sharply Friday, a day after Binance disclosed a $6.3 billion security breach.",
    "tags": [
     "exchanges",
     "security",

@@ -1,6 +1,433 @@
 {
- "updated": "2026-10-30T13:17:46.161838+00:00",
+ "updated": "2026-10-30T15:10:54.024739+00:00",
  "events": [
+  {
+   "id": "3d446c6f45",
+   "title": "Binance\u2019s Teng Sets Monday Reserve Report Deadline as Withdrawals Stay Paused",
+   "date": "2026-10-30T14:54:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance\u2019s Teng Sets Monday Reserve Report Deadline as Withdrawals Stay Paused",
+     "url": "https://thedefiant.io/news/hacks/binance-s-teng-sets-monday-reserve-report-deadline-as-withdrawals-stay-paused",
+     "date": "2026-10-30T14:54:39+00:00",
+     "summary": "Teng said the Sunday withdrawal restart target remained on track within 40 hours, but reopening depends on the rebuilt service passing testing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T14:54:39+00:00",
+   "last_seen": "2026-10-30T14:54:39+00:00",
+   "summary": "Teng said the Sunday withdrawal restart target remained on track within 40 hours, but reopening depends on the rebuilt service passing testing.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "a5cb3d63f0",
+   "title": "Ripio CEO Acknowledges Error After wARS Conversion Complaints",
+   "date": "2026-10-30T14:50:27+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ripio CEO Acknowledges Error After wARS Conversion Complaints",
+     "url": "https://thedefiant.io/news/defi/ripio-ceo-acknowledges-error-after-wars-conversion-complaints",
+     "date": "2026-10-30T14:50:27+00:00",
+     "summary": "Users reported in-app conversions at 0.95 Argentine pesos per token; one later said parity had returned."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T14:50:27+00:00",
+   "last_seen": "2026-10-30T14:50:27+00:00",
+   "summary": "Users reported in-app conversions at 0.95 Argentine pesos per token; one later said parity had returned.",
+   "tags": []
+  },
+  {
+   "id": "b26cefe238",
+   "title": "SEC Charges Two Companies in $130 Million Crypto Trading Scheme",
+   "date": "2026-10-30T14:38:43+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "SEC Charges Two Companies in $130 Million Crypto Trading Scheme",
+     "url": "https://bitcoinmagazine.com/news/sec-charges-companies-130-million-crypto",
+     "date": "2026-10-30T14:38:43+00:00",
+     "summary": "Bitcoin Magazine SEC Charges Two Companies in $130 Million Crypto Trading Scheme The SEC has charged two companies with defrauding investors of over $130 million through a crypto Ponzi-like scheme. This post SEC Charges Two Companies in $130 Million Crypto Trading Scheme first..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T14:38:43+00:00",
+   "last_seen": "2026-10-30T14:38:43+00:00",
+   "summary": "Bitcoin Magazine SEC Charges Two Companies in $130 Million Crypto Trading Scheme The SEC has charged two companies with defrauding investors of over $130 million through a crypto Ponzi-like scheme. This post SEC Charges Two Companies in $130 Million Crypto Trading Scheme first...",
+   "tags": [
+    "bitcoin",
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "7c5c1bda2d",
+   "title": "Binance\u2019s Teng Targets Sunday Withdrawal Restart After Hack",
+   "date": "2026-10-30T14:38:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance\u2019s Teng Targets Sunday Withdrawal Restart After Hack",
+     "url": "https://thedefiant.io/news/hacks/binance-s-teng-targets-sunday-withdrawal-restart-after-hack",
+     "date": "2026-10-30T14:38:19+00:00",
+     "summary": "The co-CEO says Binance has reserved over $6.34 billion in company funds and plans to publish a full Proof of Reserves report by Monday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T14:38:19+00:00",
+   "last_seen": "2026-10-30T14:38:19+00:00",
+   "summary": "The co-CEO says Binance has reserved over $6.34 billion in company funds and plans to publish a full Proof of Reserves report by Monday.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "ff1428708f",
+   "title": "Tydro Restores New Borrowing but Keeps Lower USDC Cap",
+   "date": "2026-10-30T14:36:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tydro Restores New Borrowing but Keeps Lower USDC Cap",
+     "url": "https://thedefiant.io/news/defi/tydro-restores-new-borrowing-but-keeps-lower-usdc-cap",
+     "date": "2026-10-30T14:36:00+00:00",
+     "summary": "The USDC borrow limit fell 31.2% to 51.6 million tokens, leaving about $1.1 million of headroom at the time of reporting."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T14:36:00+00:00",
+   "last_seen": "2026-10-30T14:36:00+00:00",
+   "summary": "The USDC borrow limit fell 31.2% to 51.6 million tokens, leaving about $1.1 million of headroom at the time of reporting.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "dffc0c9ec4",
+   "title": "Strategy\u2019s preferred-stock fix sets up renewed bitcoin buying, analysts say",
+   "date": "2026-10-30T14:30:49+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Strategy\u2019s preferred-stock fix sets up renewed bitcoin buying, analysts say",
+     "url": "https://www.theblock.co/news/business/2026-10-30-strategy-mstr-preferred-stock-bitcoin-buying-analysts-432214",
+     "date": "2026-10-30T14:30:49+00:00",
+     "summary": "Strategy fell after Q3 earnings, but StoneX & TD Cowen kept buy ratings, citing $4.83B cash reserve and more stable STRC preferred structure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T14:30:49+00:00",
+   "last_seen": "2026-10-30T14:30:49+00:00",
+   "summary": "Strategy fell after Q3 earnings, but StoneX & TD Cowen kept buy ratings, citing $4.83B cash reserve and more stable STRC preferred structure.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "a7b2fd1937",
+   "title": "CZ asks Musk to stop trolling, saying \u2018our\u2019 SpaceX shares top $1 billion",
+   "date": "2026-10-30T14:30:37+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "CZ asks Musk to stop trolling, saying \u2018our\u2019 SpaceX shares top $1 billion",
+     "url": "https://cryptoslate.com/cz-asks-musk-to-stop-trolling-saying-our-spacex-shares-top-1-billion/",
+     "date": "2026-10-30T14:30:37+00:00",
+     "summary": "CZ linked a claimed billion-dollar-plus holding to Binance\u2019s Twitter investment; Yi He said annual revenue was sufficient to cover losses. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T14:30:37+00:00",
+   "last_seen": "2026-10-30T14:30:37+00:00",
+   "summary": "CZ linked a claimed billion-dollar-plus holding to Binance\u2019s Twitter investment; Yi He said annual revenue was sufficient to cover losses. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "6901110242",
+   "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+   "date": "2026-10-30T14:17:34+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "What is EIP-7702? The Ethereum Upgrade Behind the $6.4B Binance Hack",
+     "url": "https://decrypt.co/resources/what-is-eip-7702-the-ethereum-upgrade-behind-the-6-4b-binance-hack",
+     "date": "2026-10-30T14:17:34+00:00",
+     "summary": "EIP-7702 lets ordinary Ethereum wallets run smart contract code, enabling batched and sponsored transactions. Here's how it works."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T14:17:34+00:00",
+   "last_seen": "2026-10-30T14:17:34+00:00",
+   "summary": "EIP-7702 lets ordinary Ethereum wallets run smart contract code, enabling batched and sponsored transactions. Here's how it works.",
+   "tags": [
+    "ethereum",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "e049983668",
+   "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
+   "date": "2026-10-30T14:13:34+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Wall Street analysts urge investors to buy crypto stocks after $6.3 billion Binance hack",
+     "url": "https://www.coindesk.com/markets/2026/10/30/wall-street-analysts-urge-investors-to-buy-crypto-stocks-on-weakness-after-usd6-3-billion-binance-hack",
+     "date": "2026-10-30T14:13:34+00:00",
+     "summary": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the $6.3 billion Binance hack is unlikely to derail the crypto market's recovery."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T14:13:34+00:00",
+   "last_seen": "2026-10-30T14:13:34+00:00",
+   "summary": "Analysts at Cantor Fitzgerald, TD Cowen and Compass Point say the $6.3 billion Binance hack is unlikely to derail the crypto market's recovery.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "e5123599cc",
+   "title": "Aave Reopens Markets but Keeps Nine Assets at Zero LTV",
+   "date": "2026-10-30T14:07:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aave Reopens Markets but Keeps Nine Assets at Zero LTV",
+     "url": "https://thedefiant.io/news/defi/aave-reopens-markets-but-keeps-nine-assets-at-zero-ltv",
+     "date": "2026-10-30T14:07:56+00:00",
+     "summary": "The collateral restrictions apply wherever the assets are listed, with different rules for existing V3 and V4 positions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T14:07:56+00:00",
+   "last_seen": "2026-10-30T14:07:56+00:00",
+   "summary": "The collateral restrictions apply wherever the assets are listed, with different rules for existing V3 and V4 positions.",
+   "tags": []
+  },
+  {
+   "id": "8603913315",
+   "title": "Bitcoin fell after the Fed\u2019s pause, but blaming interest rates misses the Binance shock",
+   "date": "2026-10-30T14:00:23+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin fell after the Fed\u2019s pause, but blaming interest rates misses the Binance shock",
+     "url": "https://cryptoslate.com/bitcoin-fell-after-the-feds-pause-but-blaming-interest-rates-misses-the-binance-shock/",
+     "date": "2026-10-30T14:00:23+00:00",
+     "summary": "he Federal Reserve asked for more information before changing interest rates. Eighteen and a half hours later, the economy supplied it: growth was strong, inflation remained elevated, and households were spending more without buying much more. But before investors could settle..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T14:00:23+00:00",
+   "last_seen": "2026-10-30T14:00:23+00:00",
+   "summary": "he Federal Reserve asked for more information before changing interest rates. Eighteen and a half hours later, the economy supplied it: growth was strong, inflation remained elevated, and households were spending more without buying much more. But before investors could settle...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "macro"
+   ]
+  },
+  {
+   "id": "2a5fe1cbc4",
+   "title": "Coinbase and Strategy Sink After Binance Breach",
+   "date": "2026-10-30T13:59:22+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coinbase and Strategy Sink After Binance Breach",
+     "url": "https://thedefiant.io/news/markets/coinbase-and-strategy-sink-after-binance-breach",
+     "date": "2026-10-30T13:59:22+00:00",
+     "summary": "Both stocks extended their opening losses, outpacing Bitcoin\u2019s 4.65% decline and the S&P 500\u2019s 1.24% drop over the same window."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T13:59:22+00:00",
+   "last_seen": "2026-10-30T13:59:22+00:00",
+   "summary": "Both stocks extended their opening losses, outpacing Bitcoin\u2019s 4.65% decline and the S&P 500\u2019s 1.24% drop over the same window.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "742b26f57f",
+   "title": "Anchorpoint Plans Native HKDAP Issuance on Solana",
+   "date": "2026-10-30T13:52:20+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Anchorpoint Plans Native HKDAP Issuance on Solana",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/anchorpoint-plans-native-hkdap-issuance-on-solana",
+     "date": "2026-10-30T13:52:20+00:00",
+     "summary": "HKDAP remains in Ethereum-only beta access, while HSBC\u2019s RedCoin has already launched for retail payments through PayMe."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T13:52:20+00:00",
+   "last_seen": "2026-10-30T13:52:20+00:00",
+   "summary": "HKDAP remains in Ethereum-only beta access, while HSBC\u2019s RedCoin has already launched for retail payments through PayMe.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "048ec75f00",
+   "title": "Uniswap, a16z and DEF Seek DeFi Exemptions From Illinois Crypto Tax Rules",
+   "date": "2026-10-30T13:44:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Uniswap, a16z and DEF Seek DeFi Exemptions From Illinois Crypto Tax Rules",
+     "url": "https://thedefiant.io/news/regulation/uniswap-a16z-and-def-seek-defi-exemptions-from-illinois-crypto-tax-rules",
+     "date": "2026-10-30T13:44:48+00:00",
+     "summary": "The groups want wallet withdrawals and bridging excluded from a levy calculated on asset value, and a private-key recordkeeping requirement removed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T13:44:48+00:00",
+   "last_seen": "2026-10-30T13:44:48+00:00",
+   "summary": "The groups want wallet withdrawals and bridging excluded from a levy calculated on asset value, and a private-key recordkeeping requirement removed.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "d2a4faa0df",
+   "title": "Tydro Unfreezes Markets but Leaves New Borrowing Blocked",
+   "date": "2026-10-30T13:41:45+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tydro Unfreezes Markets but Leaves New Borrowing Blocked",
+     "url": "https://thedefiant.io/news/defi/tydro-unfreezes-markets-but-leaves-new-borrowing-blocked",
+     "date": "2026-10-30T13:41:45+00:00",
+     "summary": "Repayments, withdrawals and liquidations remained available during the precautionary freeze. Tydro's dashboard displays $62.36 million in outstanding borrows."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T13:41:45+00:00",
+   "last_seen": "2026-10-30T13:41:45+00:00",
+   "summary": "Repayments, withdrawals and liquidations remained available during the precautionary freeze. Tydro's dashboard displays $62.36 million in outstanding borrows.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "281e8f48f0",
+   "title": "Tyler Evans: Bitcoin ETF Flows Flipped From \u201cHighly Negative\u201d to \u201cStrong Accumulation\u201d",
+   "date": "2026-10-30T13:31:15+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Tyler Evans: Bitcoin ETF Flows Flipped From \u201cHighly Negative\u201d to \u201cStrong Accumulation\u201d",
+     "url": "https://bitcoinmagazine.com/videos/tyler-evans-bitcoin-etf-flows-flipped-from-highly-negative-to-strong-accumulation",
+     "date": "2026-10-30T13:31:15+00:00",
+     "summary": "&#9654; Bitcoin Magazine Tyler Evans: Bitcoin ETF Flows Flipped From \u201cHighly Negative\u201d to \u201cStrong Accumulation\u201d Tyler Evans breaks down Bitcoin's post-bear setup: Fed policy, bond yields, surging ETF accumulation, and why U.S. midterms are pivotal heading into 2027. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T13:31:15+00:00",
+   "last_seen": "2026-10-30T13:31:15+00:00",
+   "summary": "&#9654; Bitcoin Magazine Tyler Evans: Bitcoin ETF Flows Flipped From \u201cHighly Negative\u201d to \u201cStrong Accumulation\u201d Tyler Evans breaks down Bitcoin's post-bear setup: Fed policy, bond yields, surging ETF accumulation, and why U.S. midterms are pivotal heading into 2027. This post...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "macro"
+   ]
+  },
+  {
+   "id": "8785ed161d",
+   "title": "Will gold\u2019s \u2018infinite mint bug\u2019 make Bitcoin more valuable?",
+   "date": "2026-10-30T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Will gold\u2019s \u2018infinite mint bug\u2019 make Bitcoin more valuable?",
+     "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T13:30:00+00:00",
+     "summary": "A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin\u2019s claim to be a better form of digital gold?"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T13:30:00+00:00",
+   "last_seen": "2026-10-30T13:30:00+00:00",
+   "summary": "A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin\u2019s claim to be a better form of digital gold?",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "3ad884bd13",
+   "title": "Doomberg: US Treasury Sanctions are \u201cWildly Bullish\u201d for Bitcoin & Gold",
+   "date": "2026-10-30T13:26:43+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Doomberg: US Treasury Sanctions are \u201cWildly Bullish\u201d for Bitcoin & Gold",
+     "url": "https://bitcoinmagazine.com/videos/doomberg-us-treasury-sanctions-are-wildly-bullish-for-bitcoin-gold",
+     "date": "2026-10-30T13:26:43+00:00",
+     "summary": "&#9654; Bitcoin Magazine Doomberg: US Treasury Sanctions are &#8220;Wildly Bullish&#8221; for Bitcoin & Gold U.S. pressure to hold Treasuries forces central banks to sell what they can, says Doomberg, setting up a wildly bullish long-term case for gold and Bitcoin. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T13:26:43+00:00",
+   "last_seen": "2026-10-30T13:26:43+00:00",
+   "summary": "&#9654; Bitcoin Magazine Doomberg: US Treasury Sanctions are &#8220;Wildly Bullish&#8221; for Bitcoin & Gold U.S. pressure to hold Treasuries forces central banks to sell what they can, says Doomberg, setting up a wildly bullish long-term case for gold and Bitcoin. This post...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "0bcc5b5276",
+   "title": "Why a Crypto-Arbitrage Spread Is Not Net Profit",
+   "date": "2026-10-30T13:23:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Why a Crypto-Arbitrage Spread Is Not Net Profit",
+     "url": "https://thedefiant.io/news/defi/why-a-crypto-arbitrage-spread-is-not-net-profit",
+     "date": "2026-10-30T13:23:15+00:00",
+     "summary": "A matched one-ETH example shows how fees shrink a quoted gap\u2014and why prefunding moves transfer risk to rebalancing rather than removing it."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T13:23:15+00:00",
+   "last_seen": "2026-10-30T13:23:15+00:00",
+   "summary": "A matched one-ETH example shows how fees shrink a quoted gap\u2014and why prefunding moves transfer risk to rebalancing rather than removing it.",
+   "tags": []
+  },
+  {
+   "id": "c0e63e7b52",
+   "title": "Alex Thorn: 50-Week Signal Says Bitcoin\u2019s Bottom is In",
+   "date": "2026-10-30T13:22:21+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Alex Thorn: 50-Week Signal Says Bitcoin\u2019s Bottom is In",
+     "url": "https://bitcoinmagazine.com/videos/alex-thorn-50-week-signal-says-bitcoins-bottom-is-in",
+     "date": "2026-10-30T13:22:21+00:00",
+     "summary": "&#9654; Bitcoin Magazine Alex Thorn: 50-Week Signal Says Bitcoin&#8217;s Bottom is In Galaxy's Alex Thorn calls the Bitcoin bottom, pointing to the 50-week moving average reclaim, resilience at $80K, and why being long is now contrarian. This post Alex Thorn: 50-Week Signal Says..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T13:22:21+00:00",
+   "last_seen": "2026-10-30T13:22:21+00:00",
+   "summary": "&#9654; Bitcoin Magazine Alex Thorn: 50-Week Signal Says Bitcoin&#8217;s Bottom is In Galaxy's Alex Thorn calls the Bitcoin bottom, pointing to the 50-week moving average reclaim, resilience at $80K, and why being long is now contrarian. This post Alex Thorn: 50-Week Signal Says...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "94469991c0",
    "title": "Alexandre Laizet on The French Debt Crisis: \u201cEurope is in Need of Bitcoin\u201d",
@@ -21,6 +448,29 @@
    "tags": [
     "bitcoin",
     "macro"
+   ]
+  },
+  {
+   "id": "edebe6bea9",
+   "title": "Binance working with FBI to recover assets following $6.3B hack",
+   "date": "2026-10-30T13:11:10+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance working with FBI to recover assets following $6.3B hack",
+     "url": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T13:11:10+00:00",
+     "summary": "Binance is working with law enforcement to recover $3 billion that is frozen, after setting aside more than $6.3 billion from the company\u2019s funds to cover the shortfall."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T13:11:10+00:00",
+   "last_seen": "2026-10-30T13:11:10+00:00",
+   "summary": "Binance is working with law enforcement to recover $3 billion that is frozen, after setting aside more than $6.3 billion from the company\u2019s funds to cover the shortfall.",
+   "tags": [
+    "exchanges",
+    "regulation",
+    "security"
    ]
   },
   {
@@ -1192,13 +1642,21 @@
      "url": "https://thedefiant.io/news/hacks/chainalysis-links-6-4-billion-binance-hack-to-north-korea",
      "date": "2026-10-30T04:51:49+00:00",
      "summary": "Binance estimates the impact at $6.3 billion and says about $3 billion has been frozen onchain, with withdrawals still suspended."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Blockchain Firms Link North Korea to $6.3 Billion Binance Hack",
+     "url": "https://bitcoinmagazine.com/news/north-korea-6-3-billion-binance-hack",
+     "date": "2026-10-30T14:13:15+00:00",
+     "summary": "Bitcoin Magazine Blockchain Firms Link North Korea to $6.3 Billion Binance Hack Chainalysis and TRM Labs have linked yesterday\u2019s $6.3 billion Binance hack to North Korea\u2019s TraderTraitor group. This post Blockchain Firms Link North Korea to $6.3 Billion Binance Hack first..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-30T04:51:49+00:00",
-   "last_seen": "2026-10-30T04:51:49+00:00",
-   "summary": "Binance estimates the impact at $6.3 billion and says about $3 billion has been frozen onchain, with withdrawals still suspended.",
+   "last_seen": "2026-10-30T14:13:15+00:00",
+   "summary": "Bitcoin Magazine Blockchain Firms Link North Korea to $6.3 Billion Binance Hack Chainalysis and TRM Labs have linked yesterday\u2019s $6.3 billion Binance hack to North Korea\u2019s TraderTraitor group. This post Blockchain Firms Link North Korea to $6.3 Billion Binance Hack first...",
    "tags": [
+    "bitcoin",
     "exchanges",
     "security"
    ]

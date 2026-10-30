@@ -1,6 +1,138 @@
 {
- "updated": "2026-10-30T11:58:38.193299+00:00",
+ "updated": "2026-10-30T13:17:46.161838+00:00",
  "events": [
+  {
+   "id": "94469991c0",
+   "title": "Alexandre Laizet on The French Debt Crisis: \u201cEurope is in Need of Bitcoin\u201d",
+   "date": "2026-10-30T13:17:11+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Alexandre Laizet on The French Debt Crisis: \u201cEurope is in Need of Bitcoin\u201d",
+     "url": "https://bitcoinmagazine.com/videos/alexandre-laizet-on-the-french-debt-crisis-europe-is-in-need-of-bitcoin",
+     "date": "2026-10-30T13:17:11+00:00",
+     "summary": "&#9654; Bitcoin Magazine Alexandre Laizet on The French Debt Crisis: &#8220;Europe is in Need of Bitcoin&#8221; France hits 120% debt-to-GDP. Capital B's Alexandre Laizet explains why misspent debt and currency debasement make the case for a Bitcoin treasury strategy. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T13:17:11+00:00",
+   "last_seen": "2026-10-30T13:17:11+00:00",
+   "summary": "&#9654; Bitcoin Magazine Alexandre Laizet on The French Debt Crisis: &#8220;Europe is in Need of Bitcoin&#8221; France hits 120% debt-to-GDP. Capital B's Alexandre Laizet explains why misspent debt and currency debasement make the case for a Bitcoin treasury strategy. This post...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "7b8d9d6dc7",
+   "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
+   "date": "2026-10-30T13:00:09+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Israel Extradites Alleged Nomad Bridge Exploiter to US Over $2.8M Theft: Report",
+     "url": "https://decrypt.co/382230/israel-extradites-alleged-nomad-bridge-exploiter-to-us-over-2-8m-theft-report",
+     "date": "2026-10-30T13:00:09+00:00",
+     "summary": "Israel's Supreme Court ruled that exploiting a coding flaw can count as computer intrusion, even when the software allowed the transaction."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T13:00:09+00:00",
+   "last_seen": "2026-10-30T13:00:09+00:00",
+   "summary": "Israel's Supreme Court ruled that exploiting a coding flaw can count as computer intrusion, even when the software allowed the transaction.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "218299c3ce",
+   "title": "A $10 sports bet helped trigger 13 felony charges against Kalshi in Utah",
+   "date": "2026-10-30T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "A $10 sports bet helped trigger 13 felony charges against Kalshi in Utah",
+     "url": "https://cryptoslate.com/a-10-sports-bet-helped-trigger-13-felony-charges-against-kalshi-in-utah/",
+     "date": "2026-10-30T13:00:00+00:00",
+     "summary": "An agent alleges he confirmed Utah before trading and paying a fee, while the CFTC contests state authority. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T13:00:00+00:00",
+   "last_seen": "2026-10-30T13:00:00+00:00",
+   "summary": "An agent alleges he confirmed Utah before trading and paying a fee, while the CFTC contests state authority. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai",
+    "regulation"
+   ]
+  },
+  {
+   "id": "162cc98a2a",
+   "title": "Binance says it holds $5B in matching tokens to cover hack losses",
+   "date": "2026-10-30T12:41:43+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance says it holds $5B in matching tokens to cover hack losses",
+     "url": "https://cointelegraph.com/news/binance-5-billion-replacement-crypto-in-custody?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T12:41:43+00:00",
+     "summary": "The exchange said it set aside more than $6.34 billion to cover losses and would include the assets in its next proof-of-reserves report."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T12:41:43+00:00",
+   "last_seen": "2026-10-30T12:41:43+00:00",
+   "summary": "The exchange said it set aside more than $6.34 billion to cover losses and would include the assets in its next proof-of-reserves report.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "1af5fe485d",
+   "title": "Morning Minute: Binance\u2019s $6.4B Hack Overshadows Hyperliquid\u2019s Biggest Day",
+   "date": "2026-10-30T12:31:30+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Binance\u2019s $6.4B Hack Overshadows Hyperliquid\u2019s Biggest Day",
+     "url": "https://decrypt.co/382225/morning-minute-binances-6-4b-hack-overshadows-hyperliquids-biggest-day",
+     "date": "2026-10-30T12:31:30+00:00",
+     "summary": "Just as Hyperliquid opened the door to a fully regulated perps offering inside the U.S., Binance suffered the biggest hack in crypto history."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T12:31:30+00:00",
+   "last_seen": "2026-10-30T12:31:30+00:00",
+   "summary": "Just as Hyperliquid opened the door to a fully regulated perps offering inside the U.S., Binance suffered the biggest hack in crypto history.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "4f0bbc6f69",
+   "title": "Scroll Details Permissioned AI Network Plan and Ethereum Token Migration",
+   "date": "2026-10-30T12:17:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Scroll Details Permissioned AI Network Plan and Ethereum Token Migration",
+     "url": "https://thedefiant.io/news/blockchains/scroll-details-permissioned-ai-network-plan-and-ethereum-token-migration",
+     "date": "2026-10-30T12:17:33+00:00",
+     "summary": "The broader transition targets Q2 2027, while users will need separate plans for DeFi positions and other assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T12:17:33+00:00",
+   "last_seen": "2026-10-30T12:17:33+00:00",
+   "summary": "The broader transition targets Q2 2027, while users will need separate plans for DeFi positions and other assets.",
+   "tags": [
+    "ai",
+    "defi",
+    "ethereum"
+   ]
+  },
   {
    "id": "eecf431900",
    "title": "Here's how big bitcoin traders responded after the Binance hack hit",
@@ -195,12 +327,26 @@
      "url": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses",
      "date": "2026-10-30T11:02:14+00:00",
      "summary": "The exchange says $5 billion is already held in the affected tokens, while withdrawals remain paused during a security overhaul."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "Binance arranges $6.34 billion to cover losses from record crypto hack",
+     "url": "https://www.coindesk.com/business/2026/10/30/binance-arranges-usd6-34-billion-to-cover-losses-from-record-crypto-hack",
+     "date": "2026-10-30T12:13:02+00:00",
+     "summary": "Binance said it reserved its own funds to cover the $6.3 billion hack, including freezes of roughly $3 billion in stolen assets."
+    },
+    {
+     "source": "The Block",
+     "title": "Binance says it has $6.34 billion ready to cover hack losses",
+     "url": "https://www.theblock.co/news/ecosystems/2026-10-30-binance-says-it-has-6-34-billion-ready-to-cover-hack-losses-432208",
+     "date": "2026-10-30T13:14:56+00:00",
+     "summary": "Binance has allocated $6.34 billion to cover hack losses, while industry partners have frozen another $3 billion in affected assets."
     }
    ],
-   "score": 10,
+   "score": 30,
    "first_seen": "2026-10-30T11:02:14+00:00",
-   "last_seen": "2026-10-30T11:02:14+00:00",
-   "summary": "The exchange says $5 billion is already held in the affected tokens, while withdrawals remain paused during a security overhaul.",
+   "last_seen": "2026-10-30T13:14:56+00:00",
+   "summary": "Binance has allocated $6.34 billion to cover hack losses, while industry partners have frozen another $3 billion in affected assets.",
    "tags": [
     "exchanges",
     "security"
@@ -803,11 +949,18 @@
      "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-10-30T08:00:39+00:00",
      "summary": "Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen."
+    },
+    {
+     "source": "Decrypt",
+     "title": "TRM and Chainalysis Tie $6.4B Binance Hack to North Korea's TraderTraitor",
+     "url": "https://decrypt.co/382224/trm-and-chainalysis-tie-6-4b-binance-hack-to-north-koreas-tradertraitor",
+     "date": "2026-10-30T12:22:04+00:00",
+     "summary": "Both firms blame the group behind the Bybit hack, as Binance says it has set aside $6.34 billion of its own funds to cover user losses."
     }
    ],
-   "score": 11,
+   "score": 21,
    "first_seen": "2026-10-30T05:51:41+00:00",
-   "last_seen": "2026-10-30T08:00:39+00:00",
+   "last_seen": "2026-10-30T12:22:04+00:00",
    "summary": "TRM Labs says it has high confidence in the attribution, while ZachXBT identified stolen funds from the Binance and Bitget hacks converging at the same address.",
    "tags": [
     "exchanges",

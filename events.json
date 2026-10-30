@@ -1,6 +1,111 @@
 {
- "updated": "2026-10-30T10:08:38.912274+00:00",
+ "updated": "2026-10-30T10:59:53.566734+00:00",
  "events": [
+  {
+   "id": "30e552f507",
+   "title": "Binance hacker\u2019s Bitcoin haul tops Coinbase\u2019s corporate treasury",
+   "date": "2026-10-30T10:54:30+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance hacker\u2019s Bitcoin haul tops Coinbase\u2019s corporate treasury",
+     "url": "https://cointelegraph.com/news/binance-hacker-bitcoin-holdings-exceed-coinbase-btc-treasury?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T10:54:30+00:00",
+     "summary": "The attackers held 18,270 BTC early Friday, topping Coinbase\u2019s reported corporate holdings, and an Ether stash exceeding 500,000 ETH."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T10:54:30+00:00",
+   "last_seen": "2026-10-30T10:54:30+00:00",
+   "summary": "The attackers held 18,270 BTC early Friday, topping Coinbase\u2019s reported corporate holdings, and an Ether stash exceeding 500,000 ETH.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "macro"
+   ]
+  },
+  {
+   "id": "74d7095f0d",
+   "title": "Synthetix Recovers 8.4 Million SNX Stolen in Binance Hack",
+   "date": "2026-10-30T10:53:40+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Synthetix Recovers 8.4 Million SNX Stolen in Binance Hack",
+     "url": "https://thedefiant.io/news/hacks/synthetix-recovers-8-4-million-snx-stolen-in-binance-hack",
+     "date": "2026-10-30T10:53:40+00:00",
+     "summary": "The protocolDAO says the tokens are secured in its Safe and will be returned when Binance requests them."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T10:53:40+00:00",
+   "last_seen": "2026-10-30T10:53:40+00:00",
+   "summary": "The protocolDAO says the tokens are secured in its Safe and will be returned when Binance requests them.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "4faec51aa8",
+   "title": "Polymarket suffers second multimillion-dollar security breach in just four months",
+   "date": "2026-10-30T10:30:57+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Polymarket suffers second multimillion-dollar security breach in just four months",
+     "url": "https://cryptoslate.com/polymarket-suffers-second-multimillion-dollar-security-breach-in-just-four-months/",
+     "date": "2026-10-30T10:30:57+00:00",
+     "summary": "June&#039;s reported theft and October&#039;s recovered code reveal recurring exposure inside the trading interface, while broader security changes remain unclear. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T10:30:57+00:00",
+   "last_seen": "2026-10-30T10:30:57+00:00",
+   "summary": "June&#039;s reported theft and October&#039;s recovered code reveal recurring exposure inside the trading interface, while broader security changes remain unclear. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The...",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "b34789492b",
+   "title": "Standard Chartered Says It Provides Digital-Asset Custody in Luxembourg and DIFC",
+   "date": "2026-10-30T10:23:32+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Standard Chartered Says It Provides Digital-Asset Custody in Luxembourg and DIFC",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-says-it-provides-digital-asset-custody-in-luxembourg-and-difc",
+     "date": "2026-10-30T10:23:32+00:00",
+     "summary": "The LMAX mandate spans the bank\u2019s Luxembourg entity and Dubai branch. A separate collateral link would let clients trade against tokens kept in bank custody."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T10:23:32+00:00",
+   "last_seen": "2026-10-30T10:23:32+00:00",
+   "summary": "The LMAX mandate spans the bank\u2019s Luxembourg entity and Dubai branch. A separate collateral link would let clients trade against tokens kept in bank custody.",
+   "tags": []
+  },
+  {
+   "id": "19a7d587ae",
+   "title": "LlamaRisk Proposes Aave Cap Cuts Before Markets Reopen",
+   "date": "2026-10-30T10:21:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "LlamaRisk Proposes Aave Cap Cuts Before Markets Reopen",
+     "url": "https://thedefiant.io/news/defi/llamarisk-proposes-aave-cap-cuts-before-markets-reopen",
+     "date": "2026-10-30T10:21:37+00:00",
+     "summary": "The plan would remove about $3.7 billion of unused borrowing capacity on V3 and $130 million on V4, while the existing freeze still blocks new loans."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T10:21:37+00:00",
+   "last_seen": "2026-10-30T10:21:37+00:00",
+   "summary": "The plan would remove about $3.7 billion of unused borrowing capacity on V3 and $130 million on V4, while the existing freeze still blocks new loans.",
+   "tags": []
+  },
   {
    "id": "340b997323",
    "title": "THORChain\u2019s RUNE jumps 13% after Binance\u2019s record $6.3B hack",

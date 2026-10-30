@@ -1,6 +1,67 @@
 {
- "updated": "2026-10-30T01:23:12.613497+00:00",
+ "updated": "2026-10-30T03:05:22.116226+00:00",
  "events": [
+  {
+   "id": "9407073134",
+   "title": "Allium restores 18 major chains, but only specific platforms are safe",
+   "date": "2026-10-30T02:40:17+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Allium restores 18 major chains, but only specific platforms are safe",
+     "url": "https://cryptoslate.com/allium-restores-18-major-chains-but-only-specific-platforms-are-safe/",
+     "date": "2026-10-30T02:40:17+00:00",
+     "summary": "Specified Snowflake and Databricks tables passed checks, while BigQuery backfills and account recovery requirements remain. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T02:40:17+00:00",
+   "last_seen": "2026-10-30T02:40:17+00:00",
+   "summary": "Specified Snowflake and Databricks tables passed checks, while BigQuery backfills and account recovery requirements remain. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "49b9800e70",
+   "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
+   "date": "2026-10-30T02:22:31+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin slides below $77,000, BNB drops amid Binance hack",
+     "url": "https://www.theblock.co/news/markets/2026-10-29-bitcoin-slides-below-77000-binance-hack-432183",
+     "date": "2026-10-30T02:22:31+00:00",
+     "summary": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T02:22:31+00:00",
+   "last_seen": "2026-10-30T02:22:31+00:00",
+   "summary": "BNB lost 7.1%, while Binance Co-CEO Yi He pledged that the exchange will cover all user losses resulting from the hack.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "21d2adf0ae",
+   "title": "20 institutions join DTCC token service, but only 34 securities qualify",
+   "date": "2026-10-30T01:50:12+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "20 institutions join DTCC token service, but only 34 securities qualify",
+     "url": "https://cryptoslate.com/20-institutions-join-dtcc-token-service-but-only-34-securities-qualify/",
+     "date": "2026-10-30T01:50:12+00:00",
+     "summary": "Already-tokenized securities can move between registered wallets all weekend; conversion orders remain limited to business-day hours. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T01:50:12+00:00",
+   "last_seen": "2026-10-30T01:50:12+00:00",
+   "summary": "Already-tokenized securities can move between registered wallets all weekend; conversion orders remain limited to business-day hours. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
   {
    "id": "91cfb63e7b",
    "title": "Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint",

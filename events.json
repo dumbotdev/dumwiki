@@ -1,6 +1,179 @@
 {
- "updated": "2026-10-30T09:09:13.514910+00:00",
+ "updated": "2026-10-30T10:08:38.912274+00:00",
  "events": [
+  {
+   "id": "340b997323",
+   "title": "THORChain\u2019s RUNE jumps 13% after Binance\u2019s record $6.3B hack",
+   "date": "2026-10-30T09:52:29+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "THORChain\u2019s RUNE jumps 13% after Binance\u2019s record $6.3B hack",
+     "url": "https://cointelegraph.com/markets/rune-token-surges-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T09:52:29+00:00",
+     "summary": "North Korean hackers previously used THORChain to move funds stolen from Bybit and Bitget, prompting calls for the protocol to intervene."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T09:52:29+00:00",
+   "last_seen": "2026-10-30T09:52:29+00:00",
+   "summary": "North Korean hackers previously used THORChain to move funds stolen from Bybit and Bitget, prompting calls for the protocol to intervene.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "ad0fa8c854",
+   "title": "Chainalysis Says Binance Hacker Swapped $325 Million to Evade Freezes",
+   "date": "2026-10-30T09:51:59+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Chainalysis Says Binance Hacker Swapped $325 Million to Evade Freezes",
+     "url": "https://thedefiant.io/news/hacks/chainalysis-says-binance-hacker-swapped-325-million-to-evade-freezes",
+     "date": "2026-10-30T09:51:59+00:00",
+     "summary": "The firm's findings report puts frozen assets at about $2.8 billion and describes transaction patterns suggesting automated laundering."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T09:51:59+00:00",
+   "last_seen": "2026-10-30T09:51:59+00:00",
+   "summary": "The firm's findings report puts frozen assets at about $2.8 billion and describes transaction patterns suggesting automated laundering.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "df758f7ab1",
+   "title": "CZ Says Binance Hack Leaves $2 Billion Gap, Points to SpaceX Shares",
+   "date": "2026-10-30T09:44:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "CZ Says Binance Hack Leaves $2 Billion Gap, Points to SpaceX Shares",
+     "url": "https://thedefiant.io/news/hacks/cz-says-binance-hack-leaves-2-billion-gap-points-to-spacex-shares",
+     "date": "2026-10-30T09:44:00+00:00",
+     "summary": "Binance has pledged to cover all losses from SAFU and company funds; Zhao did not spell out how the shares would finance reimbursements."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T09:44:00+00:00",
+   "last_seen": "2026-10-30T09:44:00+00:00",
+   "summary": "Binance has pledged to cover all losses from SAFU and company funds; Zhao did not spell out how the shares would finance reimbursements.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "3c2bceb362",
+   "title": "USDT0 Freezes 6.19 Million Tokens Linked to Binance Exploit",
+   "date": "2026-10-30T09:43:25+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "USDT0 Freezes 6.19 Million Tokens Linked to Binance Exploit",
+     "url": "https://thedefiant.io/news/hacks/usdt0-freezes-6-19-million-tokens-linked-to-binance-exploit",
+     "date": "2026-10-30T09:43:25+00:00",
+     "summary": "The network also restored USDT transfers between Tron and Ethereum after a precautionary pause."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T09:43:25+00:00",
+   "last_seen": "2026-10-30T09:43:25+00:00",
+   "summary": "The network also restored USDT transfers between Tron and Ethereum after a precautionary pause.",
+   "tags": [
+    "ethereum",
+    "exchanges",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "79003225c9",
+   "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
+   "date": "2026-10-30T09:41:07+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Strategy CFO Andrew Kang resigns as company posts record operating profit",
+     "url": "https://www.coindesk.com/markets/2026/10/30/strategy-cfo-resigns-as-company-posts-record-quarterly-profit-mstr-stock-falls-6",
+     "date": "2026-10-30T09:41:07+00:00",
+     "summary": "Andrew Kang\u2019s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T09:41:07+00:00",
+   "last_seen": "2026-10-30T09:41:07+00:00",
+   "summary": "Andrew Kang\u2019s departure comes as Strategy reports $21 billion in quarterly operating income and bitcoin holdings of 848,517 BTC.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "8c8bcb8bcd",
+   "title": "Binance Finds 'Additional Points of Breach' in $6.3B Hack",
+   "date": "2026-10-30T09:31:59+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Binance Finds 'Additional Points of Breach' in $6.3B Hack",
+     "url": "https://decrypt.co/382203/binance-finds-additional-points-of-breach-in-6-3b-hack",
+     "date": "2026-10-30T09:31:59+00:00",
+     "summary": "CEO Richard Teng said the attack was \"not a single 'one-click' action,\" as Binance confirmed about $3 billion has been frozen."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T09:31:59+00:00",
+   "last_seen": "2026-10-30T09:31:59+00:00",
+   "summary": "CEO Richard Teng said the attack was \"not a single 'one-click' action,\" as Binance confirmed about $3 billion has been frozen.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "07d7d3bdb5",
+   "title": "Unit Delays All Deposits and Withdrawals After Binance Breach",
+   "date": "2026-10-30T09:31:28+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Unit Delays All Deposits and Withdrawals After Binance Breach",
+     "url": "https://thedefiant.io/news/defi/unit-delays-all-deposits-and-withdrawals-after-binance-breach",
+     "date": "2026-10-30T09:31:28+00:00",
+     "summary": "Guardian screening can prevent transfers from completing as Binance says partners have frozen about $3 billion in affected assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T09:31:28+00:00",
+   "last_seen": "2026-10-30T09:31:28+00:00",
+   "summary": "Guardian screening can prevent transfers from completing as Binance says partners have frozen about $3 billion in affected assets.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "40268593d2",
+   "title": "Walmart, Microsoft and JPMorgan block NYSE-backed venture from tokenizing their shares",
+   "date": "2026-10-30T09:10:06+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Walmart, Microsoft and JPMorgan block NYSE-backed venture from tokenizing their shares",
+     "url": "https://cryptoslate.com/walmart-microsoft-and-jpmorgan-block-nyse-backed-venture-from-tokenizing-their-shares/",
+     "date": "2026-10-30T09:10:06+00:00",
+     "summary": "Trading fees reward the venue, while issuers weigh pricing risks and a 30-day window to block a third-party proposal. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T09:10:06+00:00",
+   "last_seen": "2026-10-30T09:10:06+00:00",
+   "summary": "Trading fees reward the venue, while issuers weigh pricing risks and a 30-day window to block a third-party proposal. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
   {
    "id": "44876408ee",
    "title": "Coinbase Q3 net income jumps 66% as prediction markets gain traction",
@@ -33,12 +206,19 @@
      "url": "https://www.theblock.co/news/ecosystems/2026-10-30-trezor-reports-suspected-hardware-implant-432196",
      "date": "2026-10-30T08:55:39+00:00",
      "summary": "Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Trezor Warns CryptoBilis Buyers After Report of Hardware Implant in Safe 5",
+     "url": "https://decrypt.co/382216/trezor-warns-cryptobilis-buyers-after-report-of-hardware-implant-in-safe-5",
+     "date": "2026-10-30T10:07:29+00:00",
+     "summary": "The hardware wallet manufacturer has yet to examine the device, but is treating the report as credible and told buyers to move their funds."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-30T08:55:39+00:00",
-   "last_seen": "2026-10-30T08:55:39+00:00",
-   "summary": "Trezor urged CryptoBilis buyers to migrate funds after receiving a credible report of a hardware implant inside a Safe 5 device.",
+   "last_seen": "2026-10-30T10:07:29+00:00",
+   "summary": "The hardware wallet manufacturer has yet to examine the device, but is treating the report as credible and told buyers to move their funds.",
    "tags": []
   },
   {
@@ -184,12 +364,19 @@
      "url": "https://thedefiant.io/news/security/trezor-urges-cryptobilis-buyers-to-move-funds-after-implant-report",
      "date": "2026-10-30T07:22:15+00:00",
      "summary": "The company has not yet examined the Safe 5 in question and says no CryptoBilis buyer has reported losing funds."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Trezor warns CryptoBilis buyers to move funds over suspected implant",
+     "url": "https://cointelegraph.com/news/trezor-cryptobilis-wallet-implant-funds-warning?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T09:26:45+00:00",
+     "summary": "Trezor urged customers who bought devices from CryptoBilis since March to move their funds after a report of a suspected hardware implant."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-30T07:22:15+00:00",
-   "last_seen": "2026-10-30T07:22:15+00:00",
-   "summary": "The company has not yet examined the Safe 5 in question and says no CryptoBilis buyer has reported losing funds.",
+   "last_seen": "2026-10-30T09:26:45+00:00",
+   "summary": "Trezor urged customers who bought devices from CryptoBilis since March to move their funds after a report of a suspected hardware implant.",
    "tags": []
   },
   {

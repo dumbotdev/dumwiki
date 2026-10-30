@@ -1,6 +1,96 @@
 {
- "updated": "2026-10-30T17:01:26.040010+00:00",
+ "updated": "2026-10-30T17:56:21.071441+00:00",
  "events": [
+  {
+   "id": "e765746136",
+   "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+   "date": "2026-10-30T17:50:26+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Secret Service, FBI Join Binance Hack Probe as Circle Freezes $823 Million",
+     "url": "https://decrypt.co/382268/secret-service-fbi-binance-hack-probe",
+     "date": "2026-10-30T17:50:26+00:00",
+     "summary": "Binance says it has set aside $6.34 billion to cover losses from the breach and the FBI and Secret Service are now working with the exchange as investigators trace the stolen funds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T17:50:26+00:00",
+   "last_seen": "2026-10-30T17:50:26+00:00",
+   "summary": "Binance says it has set aside $6.34 billion to cover losses from the breach and the FBI and Secret Service are now working with the exchange as investigators trace the stolen funds.",
+   "tags": [
+    "exchanges",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "9b21cb8e50",
+   "title": "Lagarde to leave ECB with Europe\u2019s tokenized-finance blueprint still undecided",
+   "date": "2026-10-30T17:30:21+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Lagarde to leave ECB with Europe\u2019s tokenized-finance blueprint still undecided",
+     "url": "https://cryptoslate.com/lagarde-sets-her-exit-as-europe-weighs-who-controls-its-tokenized-money/",
+     "date": "2026-10-30T17:30:21+00:00",
+     "summary": "Appia\u2019s consultation findings expose a trade-off between pooling settlement liquidity and preserving competition among networks, with the architecture still open. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T17:30:21+00:00",
+   "last_seen": "2026-10-30T17:30:21+00:00",
+   "summary": "Appia\u2019s consultation findings expose a trade-off between pooling settlement liquidity and preserving competition among networks, with the architecture still open. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The...",
+   "tags": [
+    "defi",
+    "legal"
+   ]
+  },
+  {
+   "id": "91e90068ab",
+   "title": "Tether Reports $1.5 Billion Q3 Operating Profit, $7.95 Billion Reserve Buffer",
+   "date": "2026-10-30T17:11:22+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tether Reports $1.5 Billion Q3 Operating Profit, $7.95 Billion Reserve Buffer",
+     "url": "https://thedefiant.io/converge/cefi/tether-reports-1-5-billion-q3-operating-profit-7-95-billion-reserve-buffer",
+     "date": "2026-10-30T17:11:22+00:00",
+     "summary": "Treasury bills and reverse repos drove earnings, while BDO's attestation covered the September-end report rather than activity throughout the quarter."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T17:11:22+00:00",
+   "last_seen": "2026-10-30T17:11:22+00:00",
+   "summary": "Treasury bills and reverse repos drove earnings, while BDO's attestation covered the September-end report rather than activity throughout the quarter.",
+   "tags": [
+    "macro",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "40186eae58",
+   "title": "Crypto Biz: Bitcoin\u2019s quantum threat is becoming an economic problem",
+   "date": "2026-10-30T17:09:31+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto Biz: Bitcoin\u2019s quantum threat is becoming an economic problem",
+     "url": "https://cointelegraph.com/news/bitcoin-quantum-threat-ripple-bank-usdc-vaneck-crypto-biz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T17:09:31+00:00",
+     "summary": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T17:09:31+00:00",
+   "last_seen": "2026-10-30T17:09:31+00:00",
+   "summary": "Bitcoin faces mounting quantum security concerns as Ripple secures a US banking charter, USDC gains ground in Europe and VanEck adds BTC to a new ETF.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "stablecoins"
+   ]
+  },
   {
    "id": "c0c8aa8c68",
    "title": "Ethereum Draft Would Let Wallets Permanently Disable EIP-7702 Delegation",
@@ -20,6 +110,28 @@
    "summary": "Accounts would keep their addresses and ordinary transaction capabilities, but the opt-out would not protect funds from a stolen private key.",
    "tags": [
     "ethereum",
+    "security"
+   ]
+  },
+  {
+   "id": "b42757ff47",
+   "title": "Recap: How Binance\u2019s record $6.3B hack unfolded",
+   "date": "2026-10-30T16:53:46+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Recap: How Binance\u2019s record $6.3B hack unfolded",
+     "url": "https://cointelegraph.com/news/recap-binances-record-63b-hack-unfolded?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T16:53:46+00:00",
+     "summary": "A recap of Cointelegraph\u2019s live coverage of the Binance hack, including early breach reports and the exchange\u2019s full reimbursement pledge."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T16:53:46+00:00",
+   "last_seen": "2026-10-30T16:53:46+00:00",
+   "summary": "A recap of Cointelegraph\u2019s live coverage of the Binance hack, including early breach reports and the exchange\u2019s full reimbursement pledge.",
+   "tags": [
+    "exchanges",
     "security"
    ]
   },

@@ -1,6 +1,51 @@
 {
- "updated": "2026-10-30T21:54:28.121347+00:00",
+ "updated": "2026-10-30T22:54:23.702211+00:00",
  "events": [
+  {
+   "id": "2f7101236f",
+   "title": "MetaMask adds Stellar integration, but cross-chain bridges require manual setup",
+   "date": "2026-10-30T22:50:38+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "MetaMask adds Stellar integration, but cross-chain bridges require manual setup",
+     "url": "https://cryptoslate.com/metamask-adds-stellar-integration-but-cross-chain-bridges-require-manual-setup/",
+     "date": "2026-10-30T22:50:38+00:00",
+     "summary": "The October 29 rollout adds a Stellar address to existing multichain accounts, while receiving USDC requires funding and token activation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T22:50:38+00:00",
+   "last_seen": "2026-10-30T22:50:38+00:00",
+   "summary": "The October 29 rollout adds a Stellar address to existing multichain accounts, while receiving USDC requires funding and token activation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "funding",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "8cbe9d65b4",
+   "title": "Binance hackers raced to move billions before it could be frozen",
+   "date": "2026-10-30T22:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance hackers raced to move billions before it could be frozen",
+     "url": "https://cointelegraph.com/magazine/binance-hackers-raced-to-move-billions-before-could-be-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T22:00:00+00:00",
+     "summary": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T22:00:00+00:00",
+   "last_seen": "2026-10-30T22:00:00+00:00",
+   "summary": "Attackers raced to convert stolen stablecoins into crypto that issuers could not freeze as industry players like Tether and Circle moved to immobilize billions of dollars in assets.",
+   "tags": [
+    "exchanges",
+    "security",
+    "stablecoins"
+   ]
+  },
   {
    "id": "7c5dfd1710",
    "title": "IPX Unveils Patent-Pending Atomic Router: Protected Capital in the Bonding Curve, Coinbase-Funded Rewards and Automatic Graduation Into Liquid Markets",

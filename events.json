@@ -1,6 +1,154 @@
 {
- "updated": "2026-10-30T05:04:29.190687+00:00",
+ "updated": "2026-10-30T06:00:25.816116+00:00",
  "events": [
+  {
+   "id": "03ecf60e36",
+   "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+   "date": "2026-10-30T05:45:27+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "XRP Ledger developers tighten the rules for who can hold 'restricted' tokens",
+     "url": "https://www.coindesk.com/tech/2026/10/30/xrp-ledger-developers-tighten-the-rules-for-who-can-hold-restricted-tokens",
+     "date": "2026-10-30T05:45:27+00:00",
+     "summary": "A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T05:45:27+00:00",
+   "last_seen": "2026-10-30T05:45:27+00:00",
+   "summary": "A set of fixes would tighten who can hold permissioned tokens on the network. The XRP Ledger Foundation says no users were affected.",
+   "tags": []
+  },
+  {
+   "id": "c3495e336d",
+   "title": "Hyperliquid Fees Hit 30-Day High as Perpetuals Volume Doubles",
+   "date": "2026-10-30T05:44:29+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Hyperliquid Fees Hit 30-Day High as Perpetuals Volume Doubles",
+     "url": "https://thedefiant.io/news/defi/hyperliquid-fees-hit-30-day-high-as-perpetuals-volume-doubles",
+     "date": "2026-10-30T05:44:29+00:00",
+     "summary": "Perpetuals turnover reached $17.44 billion on Oct. 29, while liquidations climbed to about $252 million and outstanding positions declined."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T05:44:29+00:00",
+   "last_seen": "2026-10-30T05:44:29+00:00",
+   "summary": "Perpetuals turnover reached $17.44 billion on Oct. 29, while liquidations climbed to about $252 million and outstanding positions declined.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "ff04cd7813",
+   "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+   "date": "2026-10-30T05:43:07+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
+     "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
+     "date": "2026-10-30T05:43:07+00:00",
+     "summary": "CoinDCX has restricted new futures positions after Binance\u2019s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T05:43:07+00:00",
+   "last_seen": "2026-10-30T05:43:07+00:00",
+   "summary": "CoinDCX has restricted new futures positions after Binance\u2019s security incident disrupted a key liquidity provider. Deposits, withdrawals and customer funds remain unaffected, the exchange said.",
+   "tags": [
+    "defi",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "4671495cc8",
+   "title": "Binance hack began with a $296 million XRP drain after 36-hour preparation",
+   "date": "2026-10-30T05:40:52+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance hack began with a $296 million XRP drain after 36-hour preparation",
+     "url": "https://cryptoslate.com/binance-hack-began-with-a-296-million-xrp-drain-after-36-hour-preparation/",
+     "date": "2026-10-30T05:40:52+00:00",
+     "summary": "The Binance attacker spent at least 36 hours preparing for the $6.36 billion crypto exchange hack that began with $296 million in XRP. According to an Oct. 29 investigation by TRM Labs, the attacker began preparing the operation on Oct. 28 before executing coordinated transfers..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T05:40:52+00:00",
+   "last_seen": "2026-10-30T05:40:52+00:00",
+   "summary": "The Binance attacker spent at least 36 hours preparing for the $6.36 billion crypto exchange hack that began with $296 million in XRP. According to an Oct. 29 investigation by TRM Labs, the attacker began preparing the operation on Oct. 28 before executing coordinated transfers...",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "9ccd08b7be",
+   "title": "Uniswap Volume Tops $5.97 Billion as Ethereum Trading Surges",
+   "date": "2026-10-30T05:19:57+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Uniswap Volume Tops $5.97 Billion as Ethereum Trading Surges",
+     "url": "https://thedefiant.io/news/defi/uniswap-volume-tops-5-97-billion-as-ethereum-trading-surges",
+     "date": "2026-10-30T05:19:57+00:00",
+     "summary": "Ethereum accounted for $4.22 billion of the day's trading, while activity also increased at PancakeSwap, Curve and Raydium."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T05:19:57+00:00",
+   "last_seen": "2026-10-30T05:19:57+00:00",
+   "summary": "Ethereum accounted for $4.22 billion of the day's trading, while activity also increased at PancakeSwap, Curve and Raydium.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "fdb958849c",
+   "title": "Circle to Cut Legacy USDC Crosschain Limits From Oct. 31",
+   "date": "2026-10-30T05:17:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Circle to Cut Legacy USDC Crosschain Limits From Oct. 31",
+     "url": "https://thedefiant.io/news/infrastructure/circle-to-cut-legacy-usdc-crosschain-limits-from-oct-31",
+     "date": "2026-10-30T05:17:12+00:00",
+     "summary": "Pending transfers are intended to finish before a Dec. 1 contract pause, while Noble holders face a separate January exit deadline."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T05:17:12+00:00",
+   "last_seen": "2026-10-30T05:17:12+00:00",
+   "summary": "Pending transfers are intended to finish before a Dec. 1 contract pause, while Noble holders face a separate January exit deadline.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "969c15a1ce",
+   "title": "Curve Volume Jumps to $847 Million as 3pool Tilts Further Toward USDT",
+   "date": "2026-10-30T05:13:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Curve Volume Jumps to $847 Million as 3pool Tilts Further Toward USDT",
+     "url": "https://thedefiant.io/news/defi/curve-volume-jumps-to-847-million-as-3pool-tilts-further-toward-usdt",
+     "date": "2026-10-30T05:13:06+00:00",
+     "summary": "Trading in the DAI/USDC/USDT pool climbed to $343 million, while its USDT balance increased and holdings of the other two stablecoins fell."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T05:13:06+00:00",
+   "last_seen": "2026-10-30T05:13:06+00:00",
+   "summary": "Trading in the DAI/USDC/USDT pool climbed to $343 million, while its USDT balance increased and holdings of the other two stablecoins fell.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "11a796ac59",
    "title": "Binance Exploit-Linked Wallet Moves 14,040 ETH to Another Holding Address",

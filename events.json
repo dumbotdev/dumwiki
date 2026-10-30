@@ -1,6 +1,74 @@
 {
- "updated": "2026-10-29T23:53:24.397920+00:00",
+ "updated": "2026-10-30T01:23:12.613497+00:00",
  "events": [
+  {
+   "id": "91cfb63e7b",
+   "title": "Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint",
+   "date": "2026-10-30T00:40:53+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Silicon Valley shifts AI funding to crypto using an Ethereum ICO blueprint",
+     "url": "https://cryptoslate.com/silicon-valley-shifts-ai-funding-to-crypto-using-an-ethereum-ico-blueprint/",
+     "date": "2026-10-30T00:40:53+00:00",
+     "summary": "Its October startup request pairs blockchain capital raising with stablecoins, trading and agent infrastructure ahead of a November 2 deadline. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T00:40:53+00:00",
+   "last_seen": "2026-10-30T00:40:53+00:00",
+   "summary": "Its October startup request pairs blockchain capital raising with stablecoins, trading and agent infrastructure ahead of a November 2 deadline. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai",
+    "ethereum",
+    "funding"
+   ]
+  },
+  {
+   "id": "1f21d59bba",
+   "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+   "date": "2026-10-30T00:17:10+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Binance hack drained wallets backing customer assets, reserve data shows",
+     "url": "https://www.coindesk.com/business/2026/10/30/binance-hack-drained-wallets-backing-customer-assets-reserve-data-shows",
+     "date": "2026-10-30T00:17:10+00:00",
+     "summary": "Binance\u2019s own reserve data lists the drained wallets as backing customer balances, leaving its ether backing an estimated 6% short until the exchange replaces what was stolen."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T00:17:10+00:00",
+   "last_seen": "2026-10-30T00:17:10+00:00",
+   "summary": "Binance\u2019s own reserve data lists the drained wallets as backing customer balances, leaving its ether backing an estimated 6% short until the exchange replaces what was stolen.",
+   "tags": [
+    "ethereum",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "2b0aeb3636",
+   "title": "Binance hack may involve private key \u2018misuse,\u2019 not theft: Blockaid CEO",
+   "date": "2026-10-30T00:11:26+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance hack may involve private key \u2018misuse,\u2019 not theft: Blockaid CEO",
+     "url": "https://cointelegraph.com/news/binance-hack-may-involve-private-key-misuse-not-theft-blockaid-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T00:11:26+00:00",
+     "summary": "Blockaid\u2019s Ido Ben-Natan suspects attackers manipulated Binance\u2019s transaction-signing infrastructure, drawing parallels with the Bybit hack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T00:11:26+00:00",
+   "last_seen": "2026-10-30T00:11:26+00:00",
+   "summary": "Blockaid\u2019s Ido Ben-Natan suspects attackers manipulated Binance\u2019s transaction-signing infrastructure, drawing parallels with the Bybit hack.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "de5f741e54",
    "title": "Trump\u2019s crypto firm joins Tether, Circle, and Ripple in $2.6 billion stablecoin freeze as Binance hack outflows near $6 billion",

@@ -1,6 +1,227 @@
 {
- "updated": "2026-10-30T04:06:09.213562+00:00",
+ "updated": "2026-10-30T05:04:29.190687+00:00",
  "events": [
+  {
+   "id": "11a796ac59",
+   "title": "Binance Exploit-Linked Wallet Moves 14,040 ETH to Another Holding Address",
+   "date": "2026-10-30T05:01:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Exploit-Linked Wallet Moves 14,040 ETH to Another Holding Address",
+     "url": "https://thedefiant.io/news/hacks/binance-exploit-linked-wallet-moves-14-040-eth-to-another-holding-address",
+     "date": "2026-10-30T05:01:18+00:00",
+     "summary": "Two of the largest tracked wallets still hold about 197,460 ETH and 137,602 ETH, while the transfer recipient holds roughly 19,740 ETH."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T05:01:18+00:00",
+   "last_seen": "2026-10-30T05:01:18+00:00",
+   "summary": "Two of the largest tracked wallets still hold about 197,460 ETH and 137,602 ETH, while the transfer recipient holds roughly 19,740 ETH.",
+   "tags": [
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "1de8e2fa3a",
+   "title": "Circle starts cutting legacy USDC app transfer limits on October 31",
+   "date": "2026-10-30T05:00:43+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Circle starts cutting legacy USDC app transfer limits on October 31",
+     "url": "https://cryptoslate.com/circle-starts-cutting-legacy-usdc-app-transfer-limits-on-october-31/",
+     "date": "2026-10-30T05:00:43+00:00",
+     "summary": "Legacy USDC integrations face shrinking capacity ahead of Dec. 1, while Circle plans to keep pending redemptions available during the wind-down. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T05:00:43+00:00",
+   "last_seen": "2026-10-30T05:00:43+00:00",
+   "summary": "Legacy USDC integrations face shrinking capacity ahead of Dec. 1, while Circle plans to keep pending redemptions available during the wind-down. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f324ae985b",
+   "title": "Binance Hack\u2019s Bitcoin Sits Unspent Across 19 Addresses",
+   "date": "2026-10-30T05:00:29+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Hack\u2019s Bitcoin Sits Unspent Across 19 Addresses",
+     "url": "https://thedefiant.io/news/hacks/binance-hack-s-bitcoin-sits-unspent-across-19-addresses",
+     "date": "2026-10-30T05:00:29+00:00",
+     "summary": "Another 233.46 million XRP remains in one account, leaving investigators a visible trail but no issuer-controlled freeze option for either asset."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T05:00:29+00:00",
+   "last_seen": "2026-10-30T05:00:29+00:00",
+   "summary": "Another 233.46 million XRP remains in one account, leaving investigators a visible trail but no issuer-controlled freeze option for either asset.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "c6c36483bf",
+   "title": "Chainalysis Links $6.4 Billion Binance Hack to North Korea",
+   "date": "2026-10-30T04:51:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Chainalysis Links $6.4 Billion Binance Hack to North Korea",
+     "url": "https://thedefiant.io/news/hacks/chainalysis-links-6-4-billion-binance-hack-to-north-korea",
+     "date": "2026-10-30T04:51:49+00:00",
+     "summary": "Binance estimates the impact at $6.3 billion and says about $3 billion has been frozen onchain, with withdrawals still suspended."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T04:51:49+00:00",
+   "last_seen": "2026-10-30T04:51:49+00:00",
+   "summary": "Binance estimates the impact at $6.3 billion and says about $3 billion has been frozen onchain, with withdrawals still suspended.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "18df65d34d",
+   "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+   "date": "2026-10-30T04:50:42+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
+     "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
+     "date": "2026-10-30T04:50:42+00:00",
+     "summary": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T04:50:42+00:00",
+   "last_seen": "2026-10-30T04:50:42+00:00",
+   "summary": "All 18,270 coins sit in 19 wallets, 17 of them holding exactly 1,000 BTC each, and none has moved since Thursday night, a CoinDesk trace of the blockchain shows.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "196a8be408",
+   "title": "CoinDCX Halts New Futures Positions, Citing Liquidity Provider",
+   "date": "2026-10-30T04:44:57+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "CoinDCX Halts New Futures Positions, Citing Liquidity Provider",
+     "url": "https://thedefiant.io/news/cefi/coindcx-halts-new-futures-positions-citing-liquidity-provider",
+     "date": "2026-10-30T04:44:57+00:00",
+     "summary": "The exchange says deposits and withdrawals remain available, while traders can still manage margin and close existing futures positions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T04:44:57+00:00",
+   "last_seen": "2026-10-30T04:44:57+00:00",
+   "summary": "The exchange says deposits and withdrawals remain available, while traders can still manage margin and close existing futures positions.",
+   "tags": [
+    "defi",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "29e375b759",
+   "title": "Binance Exploiter Swaps $911 Million Into ETH and TRX, Arkham Says",
+   "date": "2026-10-30T04:33:14+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Exploiter Swaps $911 Million Into ETH and TRX, Arkham Says",
+     "url": "https://thedefiant.io/news/hacks/binance-exploiter-swaps-911-million-into-eth-and-trx-arkham-says",
+     "date": "2026-10-30T04:33:14+00:00",
+     "summary": "The conversions moved USDT beyond Tether\u2019s token-freezing mechanism, while Arkham reported $2.8 billion of the stolen assets already frozen."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T04:33:14+00:00",
+   "last_seen": "2026-10-30T04:33:14+00:00",
+   "summary": "The conversions moved USDT beyond Tether\u2019s token-freezing mechanism, while Arkham reported $2.8 billion of the stolen assets already frozen.",
+   "tags": [
+    "ethereum",
+    "exchanges",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "4ec5cb7b7d",
+   "title": "MistTrack Links Binance Theft Route to Phemex-Connected Address",
+   "date": "2026-10-30T04:31:30+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "MistTrack Links Binance Theft Route to Phemex-Connected Address",
+     "url": "https://thedefiant.io/news/hacks/misttrack-links-binance-theft-route-to-phemex-connected-address",
+     "date": "2026-10-30T04:31:30+00:00",
+     "summary": "Onchain records corroborate the wallet transfers and ETH receipts, but the shared destination does not establish who carried out the two thefts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T04:31:30+00:00",
+   "last_seen": "2026-10-30T04:31:30+00:00",
+   "summary": "Onchain records corroborate the wallet transfers and ETH receipts, but the shared destination does not establish who carried out the two thefts.",
+   "tags": [
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "dc1f15af1c",
+   "title": "Arkham Puts Binance Hack at $6.01 Billion, With $2.9 Billion Still Movable",
+   "date": "2026-10-30T04:30:53+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Arkham Puts Binance Hack at $6.01 Billion, With $2.9 Billion Still Movable",
+     "url": "https://thedefiant.io/news/hacks/arkham-puts-binance-hack-at-6-01-billion-with-2-9-billion-still-movable",
+     "date": "2026-10-30T04:30:53+00:00",
+     "summary": "Binance separately estimates a $6.3 billion impact and pledges to cover all losses while deposits and withdrawals are suspended."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T04:30:53+00:00",
+   "last_seen": "2026-10-30T04:30:53+00:00",
+   "summary": "Binance separately estimates a $6.3 billion impact and pledges to cover all losses while deposits and withdrawals are suspended.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "9ca292dac2",
+   "title": "Binance Expects to Start Resuming Withdrawals Within 48 Hours",
+   "date": "2026-10-30T04:29:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Expects to Start Resuming Withdrawals Within 48 Hours",
+     "url": "https://thedefiant.io/news/hacks/binance-expects-to-start-resuming-withdrawals-within-48-hours",
+     "date": "2026-10-30T04:29:35+00:00",
+     "summary": "Yi He says deposits are operating normally as the exchange pledges to cover losses from an incident it estimates had a $6.3 billion impact."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T04:29:35+00:00",
+   "last_seen": "2026-10-30T04:29:35+00:00",
+   "summary": "Yi He says deposits are operating normally as the exchange pledges to cover losses from an incident it estimates had a $6.3 billion impact.",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "f99978d195",
    "title": "Bitcoin Price Briefly Slides to $76,300 as Binance Confirms Hack Estimated at $6.3 Billion",

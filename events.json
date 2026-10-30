@@ -1,6 +1,234 @@
 {
- "updated": "2026-10-30T10:59:53.566734+00:00",
+ "updated": "2026-10-30T11:58:38.193299+00:00",
  "events": [
+  {
+   "id": "eecf431900",
+   "title": "Here's how big bitcoin traders responded after the Binance hack hit",
+   "date": "2026-10-30T11:51:26+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Here's how big bitcoin traders responded after the Binance hack hit",
+     "url": "https://www.coindesk.com/daybook-us/2026/10/30/here-s-how-big-bitcoin-traders-responded-after-the-binance-hack-hit",
+     "date": "2026-10-30T11:51:26+00:00",
+     "summary": "Your day-ahead look for Oct. 30, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T11:51:26+00:00",
+   "last_seen": "2026-10-30T11:51:26+00:00",
+   "summary": "Your day-ahead look for Oct. 30, 2026",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "0aef3b7a8b",
+   "title": "Bitcoin mining difficulty hits 148 trillion as revenues fall to three-month lows",
+   "date": "2026-10-30T11:50:29+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin mining difficulty hits 148 trillion as revenues fall to three-month lows",
+     "url": "https://cryptoslate.com/bitcoin-mining-difficulty-hits-148-trillion-as-revenues-fall-to-three-month-lows/",
+     "date": "2026-10-30T11:50:29+00:00",
+     "summary": "At October 30\u2019s hashprice, a 25 J/TH rig covers power costing about 5.45 cents/kWh after an assumed 2% pool fee. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T11:50:29+00:00",
+   "last_seen": "2026-10-30T11:50:29+00:00",
+   "summary": "At October 30\u2019s hashprice, a 25 J/TH rig covers power costing about 5.45 cents/kWh after an assumed 2% pool fee. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "07c52eefa8",
+   "title": "Zcash grants group offers $124M compromise as governance backlash grows",
+   "date": "2026-10-30T11:36:23+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Zcash grants group offers $124M compromise as governance backlash grows",
+     "url": "https://cointelegraph.com/news/zcash-grants-46m-proposal-governance-backlash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T11:36:23+00:00",
+     "summary": "Zcash Community Grants proposed redirecting about $124 million in existing and future funding toward mining rewards, but critics say the plan fails to address governance and accountability concerns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T11:36:23+00:00",
+   "last_seen": "2026-10-30T11:36:23+00:00",
+   "summary": "Zcash Community Grants proposed redirecting about $124 million in existing and future funding toward mining rewards, but critics say the plan fails to address governance and accountability concerns.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "b07d5b036b",
+   "title": "Here\u2019s how an Ethereum upgrade helped drain part of Binance\u2019s $6 billion loss",
+   "date": "2026-10-30T11:35:16+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Here\u2019s how an Ethereum upgrade helped drain part of Binance\u2019s $6 billion loss",
+     "url": "https://www.coindesk.com/tech/2026/10/30/here-s-how-one-ethereum-permission-let-an-attacker-drain-usd2-5-billion-from-binance",
+     "date": "2026-10-30T11:35:16+00:00",
+     "summary": "On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T11:35:16+00:00",
+   "last_seen": "2026-10-30T11:35:16+00:00",
+   "summary": "On Ethereum, the attacker used a 2025 upgrade built to make ordinary wallets smarter, armed with 50 signatures from Binance's own wallet.",
+   "tags": [
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "2682982c08",
+   "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
+   "date": "2026-10-30T11:29:23+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T11:29:23+00:00",
+     "summary": "Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T11:29:23+00:00",
+   "last_seen": "2026-10-30T11:29:23+00:00",
+   "summary": "Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off, as momentum indicators pointed to a possible rebound.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "markets",
+    "security"
+   ]
+  },
+  {
+   "id": "d66e9b9d46",
+   "title": "Jupiter Lend Says Liquidity Crunch Is Delaying Withdrawals",
+   "date": "2026-10-30T11:22:01+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Jupiter Lend Says Liquidity Crunch Is Delaying Withdrawals",
+     "url": "https://thedefiant.io/news/defi/jupiter-lend-says-liquidity-crunch-is-delaying-withdrawals",
+     "date": "2026-10-30T11:22:01+00:00",
+     "summary": "Jupiter's API showed just 3.35 USDC immediately withdrawable against 418.5 million USDC in Earn deposit claims."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T11:22:01+00:00",
+   "last_seen": "2026-10-30T11:22:01+00:00",
+   "summary": "Jupiter's API showed just 3.35 USDC immediately withdrawable against 418.5 million USDC in Earn deposit claims.",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "5c7dc9c790",
+   "title": "Bitcoin Trades Below $80,000 as Long Liquidations Hit $1.34 Billion",
+   "date": "2026-10-30T11:20:52+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Trades Below $80,000 as Long Liquidations Hit $1.34 Billion",
+     "url": "https://thedefiant.io/news/markets/bitcoin-trades-below-80-000-as-long-liquidations-hit-1-34-billion",
+     "date": "2026-10-30T11:20:52+00:00",
+     "summary": "Ether funding turned negative on OKX, while bitcoin funding remained positive as leveraged bullish positions were unwound."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T11:20:52+00:00",
+   "last_seen": "2026-10-30T11:20:52+00:00",
+   "summary": "Ether funding turned negative on OKX, while bitcoin funding remained positive as leveraged bullish positions were unwound.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "802778c6bd",
+   "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+   "date": "2026-10-30T11:09:24+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto liquidations jump to $1.57 billion as Binance hack sends bitcoin, ether lower",
+     "url": "https://www.coindesk.com/markets/2026/10/30/crypto-liquidations-jump-to-usd1-57-billion-as-binance-hack-sends-bitcoin-ether-lower",
+     "date": "2026-10-30T11:09:24+00:00",
+     "summary": "Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T11:09:24+00:00",
+   "last_seen": "2026-10-30T11:09:24+00:00",
+   "summary": "Bitcoin traded near $77,350 after $6.3 billion Binance hack, with crypto futures liquidations jumping to $1.57 billion.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "markets",
+    "security"
+   ]
+  },
+  {
+   "id": "2d270c9000",
+   "title": "Binance Says It Has Reserved Over $6.34 Billion to Cover Hack Losses",
+   "date": "2026-10-30T11:02:14+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Says It Has Reserved Over $6.34 Billion to Cover Hack Losses",
+     "url": "https://thedefiant.io/news/hacks/binance-says-it-has-reserved-over-6-34-billion-to-cover-hack-losses",
+     "date": "2026-10-30T11:02:14+00:00",
+     "summary": "The exchange says $5 billion is already held in the affected tokens, while withdrawals remain paused during a security overhaul."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T11:02:14+00:00",
+   "last_seen": "2026-10-30T11:02:14+00:00",
+   "summary": "The exchange says $5 billion is already held in the affected tokens, while withdrawals remain paused during a security overhaul.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "fc54b0ad37",
+   "title": "EIP-7702 didn\u2019t cause Binance hack, but may have amplified losses",
+   "date": "2026-10-30T11:00:10+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "EIP-7702 didn\u2019t cause Binance hack, but may have amplified losses",
+     "url": "https://cointelegraph.com/news/binance-hack-security-ethereum-eip-7702-role?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-30T11:00:10+00:00",
+     "summary": "Security experts say attackers could have drained Binance\u2019s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-30T11:00:10+00:00",
+   "last_seen": "2026-10-30T11:00:10+00:00",
+   "summary": "Security experts say attackers could have drained Binance\u2019s wallets without EIP-7702, but the Ethereum upgrade may have helped bypass withdrawal safeguards.",
+   "tags": [
+    "ethereum",
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "30e552f507",
    "title": "Binance hacker\u2019s Bitcoin haul tops Coinbase\u2019s corporate treasury",
@@ -337,12 +565,19 @@
      "url": "https://thedefiant.io/news/hacks/binance-reports-more-breach-points-in-6-3-billion-attack",
      "date": "2026-10-30T08:54:07+00:00",
      "summary": "Withdrawals remain paused with a 45-hour restart estimate, while Binance pledges to cover all losses from its SAFU reserve and company funds."
+    },
+    {
+     "source": "CryptoSlate",
+     "title": "Binance uncovers more breach points in $6 billion hack",
+     "url": "https://cryptoslate.com/binance-breach-points-6-billion-hack/",
+     "date": "2026-10-30T11:13:40+00:00",
+     "summary": "Binance said investigators uncovered additional breach points in the approximately $6 billion hack after initially suspecting a compromised employee laptop. The exchange has not disclosed what those additional breach points were. In an earlier Oct. 30 security update, the..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-30T08:54:07+00:00",
-   "last_seen": "2026-10-30T08:54:07+00:00",
-   "summary": "Withdrawals remain paused with a 45-hour restart estimate, while Binance pledges to cover all losses from its SAFU reserve and company funds.",
+   "last_seen": "2026-10-30T11:13:40+00:00",
+   "summary": "Binance said investigators uncovered additional breach points in the approximately $6 billion hack after initially suspecting a compromised employee laptop. The exchange has not disclosed what those additional breach points were. In an earlier Oct. 30 security update, the...",
    "tags": [
     "exchanges",
     "security"

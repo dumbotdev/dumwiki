@@ -1,6 +1,27 @@
 {
- "updated": "2026-10-31T03:03:28.977864+00:00",
+ "updated": "2026-10-31T04:01:48.539584+00:00",
  "events": [
+  {
+   "id": "fcb7e6254a",
+   "title": "Aave reopens frozen markets but blocks new collateral loans",
+   "date": "2026-10-31T03:40:43+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Aave reopens frozen markets but blocks new collateral loans",
+     "url": "https://cryptoslate.com/aave-reopens-frozen-markets-but-blocks-new-collateral-loans/",
+     "date": "2026-10-31T03:40:43+00:00",
+     "summary": "LlamaRisk reports the main emergency batches executed, while available liquidity and collateral rules still determine practical access. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T03:40:43+00:00",
+   "last_seen": "2026-10-31T03:40:43+00:00",
+   "summary": "LlamaRisk reports the main emergency batches executed, while available liquidity and collateral rules still determine practical access. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "17368fcb35",
    "title": "MSTR Q3 2026 Earnings Call: Analyst Q&A",

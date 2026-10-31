@@ -1,6 +1,115 @@
 {
- "updated": "2026-10-31T15:52:21.384076+00:00",
+ "updated": "2026-10-31T16:54:38.389747+00:00",
  "events": [
+  {
+   "id": "dc2c7725e1",
+   "title": "b14g Says 97 Million CORE Drained, Pauses Contracts",
+   "date": "2026-10-31T16:46:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "b14g Says 97 Million CORE Drained, Pauses Contracts",
+     "url": "https://thedefiant.io/news/hacks/b14g-says-97-million-core-drained-pauses-contracts",
+     "date": "2026-10-31T16:46:50+00:00",
+     "summary": "The Bitcoin staking protocol says exchanges froze about 9 million CORE and that staked BTC was unaffected."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T16:46:50+00:00",
+   "last_seen": "2026-10-31T16:46:50+00:00",
+   "summary": "The Bitcoin staking protocol says exchanges froze about 9 million CORE and that staked BTC was unaffected.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "security"
+   ]
+  },
+  {
+   "id": "c236d70edb",
+   "title": "Chainalysis breach exposed customer names, emails and company roles",
+   "date": "2026-10-31T16:45:59+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Chainalysis breach exposed customer names, emails and company roles",
+     "url": "https://cryptoslate.com/chainalysis-breach-customer-names-emails-roles/",
+     "date": "2026-10-31T16:45:59+00:00",
+     "summary": "The company urges vigilance for unexpected authentication prompts as it determines which customer records were accessed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T16:45:59+00:00",
+   "last_seen": "2026-10-31T16:45:59+00:00",
+   "summary": "The company urges vigilance for unexpected authentication prompts as it determines which customer records were accessed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "9caa19cc88",
+   "title": "Binance Confirms 7,499 BTC SAFU Transfer After Hack",
+   "date": "2026-10-31T16:22:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Confirms 7,499 BTC SAFU Transfer After Hack",
+     "url": "https://thedefiant.io/news/hacks/binance-confirms-7-499-btc-safu-transfer-after-hack",
+     "date": "2026-10-31T16:22:42+00:00",
+     "summary": "The exchange says it has replenished 90% of the amount lost and pledges to rebuild its emergency fund to about $1 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T16:22:42+00:00",
+   "last_seen": "2026-10-31T16:22:42+00:00",
+   "summary": "The exchange says it has replenished 90% of the amount lost and pledges to rebuild its emergency fund to about $1 billion.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "8cea517cde",
+   "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+   "date": "2026-10-31T16:09:30+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "A stolen iPhone, $14,000 in losses and London's crypto theft problem",
+     "url": "https://www.coindesk.com/business/2026/11/01/a-stolen-iphone-usd14-000-in-losses-and-london-s-crypto-theft-problem",
+     "date": "2026-10-31T16:09:30+00:00",
+     "summary": "Two strangers befriended Magnus Ahmad outside a London bar. Hours later, thieves had emptied his crypto wallets, accessed his bank accounts and disabled his laptop."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T16:09:30+00:00",
+   "last_seen": "2026-10-31T16:09:30+00:00",
+   "summary": "Two strangers befriended Magnus Ahmad outside a London bar. Hours later, thieves had emptied his crypto wallets, accessed his bank accounts and disabled his laptop.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "bb6ffe2abe",
+   "title": "Traders are already placing leveraged bets on Anthropic\u2019s IPO using crypto contracts",
+   "date": "2026-10-31T16:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Traders are already placing leveraged bets on Anthropic\u2019s IPO using crypto contracts",
+     "url": "https://www.coindesk.com/business/2026/10/31/traders-are-already-placing-leveraged-bets-on-anthropic-s-ipo-using-crypto-contracts",
+     "date": "2026-10-31T16:00:00+00:00",
+     "summary": "Trade.xyz\u2019s new ANT contract fell about 20% in its first hour on Hyperliquid. There are no shares behind it, and U.S. traders are locked out."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T16:00:00+00:00",
+   "last_seen": "2026-10-31T16:00:00+00:00",
+   "summary": "Trade.xyz\u2019s new ANT contract fell about 20% in its first hour on Hyperliquid. There are no shares behind it, and U.S. traders are locked out.",
+   "tags": [
+    "funding"
+   ]
+  },
   {
    "id": "4a1634b8d8",
    "title": "Origami Says DNS Is Restored but Vaults Remain Paused",

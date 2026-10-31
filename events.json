@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-31T04:59:31.082179+00:00",
+ "updated": "2026-10-31T05:56:30.102720+00:00",
  "events": [
+  {
+   "id": "d9198da053",
+   "title": "Curve Volume Halves to $425 Million as 3pool's USDT Tilt Eases",
+   "date": "2026-10-31T05:27:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Curve Volume Halves to $425 Million as 3pool's USDT Tilt Eases",
+     "url": "https://thedefiant.io/news/defi/curve-volume-halves-to-425-million-as-3pool-s-usdt-tilt-eases",
+     "date": "2026-10-31T05:27:13+00:00",
+     "summary": "Trading remained 335% above the preceding seven-day median, while 3pool's DAI and USDC balances recovered."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T05:27:13+00:00",
+   "last_seen": "2026-10-31T05:27:13+00:00",
+   "summary": "Trading remained 335% above the preceding seven-day median, while 3pool's DAI and USDC balances recovered.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f590d46d4d",
+   "title": "Bitcoin stolen from Binance tops Tesla\u2019s holdings and is over twice El Salvador\u2019s reserve",
+   "date": "2026-10-31T05:01:32+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin stolen from Binance tops Tesla\u2019s holdings and is over twice El Salvador\u2019s reserve",
+     "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+     "date": "2026-10-31T05:01:32+00:00",
+     "summary": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX\u2019s disclosed holdings. Blockchain investigators link the attack to North Korea."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T05:01:32+00:00",
+   "last_seen": "2026-10-31T05:01:32+00:00",
+   "summary": "The 18,270 BTC haul is worth about $1.4 billion and comes within 442 coins of SpaceX\u2019s disclosed holdings. Blockchain investigators link the attack to North Korea.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "fcb7e6254a",
    "title": "Aave reopens frozen markets but blocks new collateral loans",

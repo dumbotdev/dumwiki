@@ -1,6 +1,50 @@
 {
- "updated": "2026-10-31T09:57:32.184065+00:00",
+ "updated": "2026-10-31T10:52:50.202332+00:00",
  "events": [
+  {
+   "id": "96406df55e",
+   "title": "Aave Freezes tBTC Reserve After Threshold Pauses Minting and Redemptions",
+   "date": "2026-10-31T10:36:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aave Freezes tBTC Reserve After Threshold Pauses Minting and Redemptions",
+     "url": "https://thedefiant.io/news/defi/aave-freezes-tbtc-reserve-after-threshold-pauses-minting-and-redemptions",
+     "date": "2026-10-31T10:36:51+00:00",
+     "summary": "Repayments, withdrawals and liquidations continue, while Aave\u2019s Ethereum Core market holds about $136.5 million in tBTC deposits."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T10:36:51+00:00",
+   "last_seen": "2026-10-31T10:36:51+00:00",
+   "summary": "Repayments, withdrawals and liquidations continue, while Aave\u2019s Ethereum Core market holds about $136.5 million in tBTC deposits.",
+   "tags": [
+    "ethereum",
+    "markets"
+   ]
+  },
+  {
+   "id": "1bf4f8afcb",
+   "title": "Binance $6.3B record hack sparks pre-election political chatter",
+   "date": "2026-10-31T09:58:50+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance $6.3B record hack sparks pre-election political chatter",
+     "url": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-31T09:58:50+00:00",
+     "summary": "Some political and administration figures tried to make hay of the biggest-ever crypto heist."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T09:58:50+00:00",
+   "last_seen": "2026-10-31T09:58:50+00:00",
+   "summary": "Some political and administration figures tried to make hay of the biggest-ever crypto heist.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "dd669ee1ff",
    "title": "Westpac limits crypto exchange deposits driven by fraud rules",

@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-31T16:54:38.389747+00:00",
+ "updated": "2026-10-31T17:49:54.240539+00:00",
  "events": [
+  {
+   "id": "fa7ba305eb",
+   "title": "THORChain Swaps Remain Paused on 12 Chains After Reported Refund Error",
+   "date": "2026-10-31T17:43:30+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "THORChain Swaps Remain Paused on 12 Chains After Reported Refund Error",
+     "url": "https://thedefiant.io/news/defi/thorchain-swaps-remain-paused-on-12-chains-after-reported-refund-error",
+     "date": "2026-10-31T17:43:30+00:00",
+     "summary": "Outbound signing is enabled on most affected chains, allowing payments to proceed even while new swaps remain blocked."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T17:43:30+00:00",
+   "last_seen": "2026-10-31T17:43:30+00:00",
+   "summary": "Outbound signing is enabled on most affected chains, allowing payments to proceed even while new swaps remain blocked.",
+   "tags": []
+  },
+  {
+   "id": "e96f65558c",
+   "title": "Intersect Urges Cardano Operators to Patch Critical Linux Flaw",
+   "date": "2026-10-31T17:32:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Intersect Urges Cardano Operators to Patch Critical Linux Flaw",
+     "url": "https://thedefiant.io/news/security/intersect-urges-cardano-operators-to-patch-critical-linux-flaw",
+     "date": "2026-10-31T17:32:07+00:00",
+     "summary": "Ubuntu fixes were still in progress in its Oct. 30 tracker update, while AlmaLinux had patched kernels available for testing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T17:32:07+00:00",
+   "last_seen": "2026-10-31T17:32:07+00:00",
+   "summary": "Ubuntu fixes were still in progress in its Oct. 30 tracker update, while AlmaLinux had patched kernels available for testing.",
+   "tags": []
+  },
+  {
+   "id": "bfad41cc55",
+   "title": "Tydro Restores $75 Million USDC Borrow Cap After Freeze",
+   "date": "2026-10-31T16:55:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tydro Restores $75 Million USDC Borrow Cap After Freeze",
+     "url": "https://thedefiant.io/news/defi/tydro-restores-75-million-usdc-borrow-cap-after-freeze",
+     "date": "2026-10-31T16:55:55+00:00",
+     "summary": "The reserve has about $24.5 million of room below the cap, but its $18.6 million in available liquidity sets a lower ceiling on immediate new lending."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T16:55:55+00:00",
+   "last_seen": "2026-10-31T16:55:55+00:00",
+   "summary": "The reserve has about $24.5 million of room below the cap, but its $18.6 million in available liquidity sets a lower ceiling on immediate new lending.",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
   {
    "id": "dc2c7725e1",
    "title": "b14g Says 97 Million CORE Drained, Pauses Contracts",

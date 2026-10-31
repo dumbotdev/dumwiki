@@ -1,6 +1,68 @@
 {
- "updated": "2026-10-31T10:52:50.202332+00:00",
+ "updated": "2026-10-31T11:52:39.477276+00:00",
  "events": [
+  {
+   "id": "3d5cc9777a",
+   "title": "Chainalysis Flags DeFi Receipt-Token Route in Binance Hack",
+   "date": "2026-10-31T11:47:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Chainalysis Flags DeFi Receipt-Token Route in Binance Hack",
+     "url": "https://thedefiant.io/news/hacks/chainalysis-flags-defi-receipt-token-route-in-binance-hack",
+     "date": "2026-10-31T11:47:58+00:00",
+     "summary": "A separate onchain example shows USDT deposited into JustLend, transferred as jUSDT and redeemed by another wallet."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T11:47:58+00:00",
+   "last_seen": "2026-10-31T11:47:58+00:00",
+   "summary": "A separate onchain example shows USDT deposited into JustLend, transferred as jUSDT and redeemed by another wallet.",
+   "tags": [
+    "defi",
+    "exchanges",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "abeca8eafe",
+   "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
+   "date": "2026-10-31T11:22:49+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Blockchain investigator Chainalysis hit by cybersecurity incident",
+     "url": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-31T11:22:49+00:00",
+     "summary": "Chainalysis has engaged world-class third-party experts to support a review of its security and strengthen its defenses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T11:22:49+00:00",
+   "last_seen": "2026-10-31T11:22:49+00:00",
+   "summary": "Chainalysis has engaged world-class third-party experts to support a review of its security and strengthen its defenses.",
+   "tags": []
+  },
+  {
+   "id": "1c2823c83d",
+   "title": "Why Ripple\u2019s $16 trillion payment volume isn\u2019t boosting XRP",
+   "date": "2026-10-31T11:20:56+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Why Ripple\u2019s $16 trillion payment volume isn\u2019t boosting XRP",
+     "url": "https://cryptoslate.com/ripple-is-winning-everywhere-so-why-isnt-xrp/",
+     "date": "2026-10-31T11:20:56+00:00",
+     "summary": "Buying XRP doesn\u2019t give you shares in Ripple, although the company\u2019s growing list of new ventures and financial partners makes it easy to assume their fortunes should move together. Ripple can earn a lot of money from those relationships without passing a dollar to token..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T11:20:56+00:00",
+   "last_seen": "2026-10-31T11:20:56+00:00",
+   "summary": "Buying XRP doesn\u2019t give you shares in Ripple, although the company\u2019s growing list of new ventures and financial partners makes it easy to assume their fortunes should move together. Ripple can earn a lot of money from those relationships without passing a dollar to token...",
+   "tags": []
+  },
   {
    "id": "96406df55e",
    "title": "Aave Freezes tBTC Reserve After Threshold Pauses Minting and Redemptions",

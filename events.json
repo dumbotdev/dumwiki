@@ -1,6 +1,28 @@
 {
- "updated": "2026-10-31T07:16:52.744914+00:00",
+ "updated": "2026-10-31T08:07:19.716364+00:00",
  "events": [
+  {
+   "id": "dd669ee1ff",
+   "title": "Westpac limits crypto exchange deposits driven by fraud rules",
+   "date": "2026-10-31T07:50:36+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Westpac limits crypto exchange deposits driven by fraud rules",
+     "url": "https://cryptoslate.com/westpac-limits-crypto-exchange-deposits-driven-by-fraud-rules/",
+     "date": "2026-10-31T07:50:36+00:00",
+     "summary": "From December 1, 2026, the bank may combine payments to identified exchanges across relevant accounts and methods under one monthly limit. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T07:50:36+00:00",
+   "last_seen": "2026-10-31T07:50:36+00:00",
+   "summary": "From December 1, 2026, the bank may combine payments to identified exchanges across relevant accounts and methods under one monthly limit. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "legal"
+   ]
+  },
   {
    "id": "d9198da053",
    "title": "Curve Volume Halves to $425 Million as 3pool's USDT Tilt Eases",

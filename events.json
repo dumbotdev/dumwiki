@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T20:53:40.355836+00:00",
+ "updated": "2026-10-31T21:51:43.677841+00:00",
  "events": [
   {
    "id": "d9f9d9b26a",
@@ -3522,11 +3522,18 @@
      "url": "https://bitcoinmagazine.com/news/north-korea-6-3-billion-binance-hack",
      "date": "2026-10-30T14:13:15+00:00",
      "summary": "Bitcoin Magazine Blockchain Firms Link North Korea to $6.3 Billion Binance Hack Chainalysis and TRM Labs have linked yesterday\u2019s $6.3 billion Binance hack to North Korea\u2019s TraderTraitor group. This post Blockchain Firms Link North Korea to $6.3 Billion Binance Hack first..."
+    },
+    {
+     "source": "The Defiant",
+     "title": "FBI Attributes $6 Billion-Plus Binance Hack to North Korea",
+     "url": "https://thedefiant.io/news/hacks/fbi-attributes-6-billion-plus-binance-hack-to-north-korea",
+     "date": "2026-10-31T21:46:33+00:00",
+     "summary": "The bureau named TraderTraitor and sought blocks on the laundering trail, while Binance kept Nov. 1 as its withdrawal restart target."
     }
    ],
-   "score": 20,
+   "score": 21,
    "first_seen": "2026-10-30T04:51:49+00:00",
-   "last_seen": "2026-10-30T14:13:15+00:00",
+   "last_seen": "2026-10-31T21:46:33+00:00",
    "summary": "Bitcoin Magazine Blockchain Firms Link North Korea to $6.3 Billion Binance Hack Chainalysis and TRM Labs have linked yesterday\u2019s $6.3 billion Binance hack to North Korea\u2019s TraderTraitor group. This post Blockchain Firms Link North Korea to $6.3 Billion Binance Hack first...",
    "tags": [
     "bitcoin",

@@ -1,6 +1,90 @@
 {
- "updated": "2026-10-31T17:49:54.240539+00:00",
+ "updated": "2026-10-31T19:03:53.638902+00:00",
  "events": [
+  {
+   "id": "a5a09b9cd0",
+   "title": "Morpho Borrow Rates Hit Roughly 40% as PT Market Liquidity Dries Up",
+   "date": "2026-10-31T18:26:10+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Morpho Borrow Rates Hit Roughly 40% as PT Market Liquidity Dries Up",
+     "url": "https://thedefiant.io/news/defi/morpho-borrow-rates-hit-roughly-40-as-pt-market-liquidity-dries-up",
+     "date": "2026-10-31T18:26:10+00:00",
+     "summary": "Available liquidity in one reUSD-backed market vanished in two hours; rates across four tracked markets eased to roughly 9%\u201313% by Oct. 31."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T18:26:10+00:00",
+   "last_seen": "2026-10-31T18:26:10+00:00",
+   "summary": "Available liquidity in one reUSD-backed market vanished in two hours; rates across four tracked markets eased to roughly 9%\u201313% by Oct. 31.",
+   "tags": [
+    "defi",
+    "macro"
+   ]
+  },
+  {
+   "id": "23a09e9362",
+   "title": "Banks are owed $349B by private credit funds that may not be collecting cash from borrowers",
+   "date": "2026-10-31T18:10:29+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Banks are owed $349B by private credit funds that may not be collecting cash from borrowers",
+     "url": "https://cryptoslate.com/banks-are-owed-349b-by-private-credit-funds-that-may-not-be-collecting-cash-from-borrowers/",
+     "date": "2026-10-31T18:10:29+00:00",
+     "summary": "Private credit funds can count interest as income even when the borrower hasn&#039;t sent them any cash, because some loan contracts let businesses add interest to what they owe. That gives a company more time to pay, but it doesn&#039;t extend the same courtesy to the fund,..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T18:10:29+00:00",
+   "last_seen": "2026-10-31T18:10:29+00:00",
+   "summary": "Private credit funds can count interest as income even when the borrower hasn&#039;t sent them any cash, because some loan contracts let businesses add interest to what they owe. That gives a company more time to pay, but it doesn&#039;t extend the same courtesy to the fund,...",
+   "tags": []
+  },
+  {
+   "id": "aced4ef6c7",
+   "title": "Threshold Says tBTC Is Fully Backed as Bridge Pause Continues",
+   "date": "2026-10-31T18:00:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Threshold Says tBTC Is Fully Backed as Bridge Pause Continues",
+     "url": "https://thedefiant.io/news/security/threshold-says-tbtc-is-fully-backed-as-bridge-pause-continues",
+     "date": "2026-10-31T18:00:16+00:00",
+     "summary": "Aave\u2019s Ethereum Core tBTC reserve remains frozen, while Gauntlet says roughly 640,000 USDC remains supplied to a tBTC-backed Morpho market."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T18:00:16+00:00",
+   "last_seen": "2026-10-31T18:00:16+00:00",
+   "summary": "Aave\u2019s Ethereum Core tBTC reserve remains frozen, while Gauntlet says roughly 640,000 USDC remains supplied to a tBTC-backed Morpho market.",
+   "tags": [
+    "ethereum",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "0f08c3a911",
+   "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+   "date": "2026-10-31T18:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin's white paper turns 18, and small businesses are still paying for the bailouts it answered",
+     "url": "https://www.coindesk.com/opinion/2026/10/31/bitcoin-s-white-paper-turns-18-and-small-businesses-are-still-paying-for-the-bailouts-it-answered",
+     "date": "2026-10-31T18:00:00+00:00",
+     "summary": "Eighteen years after Satoshi published the Bitcoin white paper, business owners are still covering the cost of a system built on bailouts, and they can protect part of their surplus by keeping it in bitcoin, argues Onramp CEO Michael Tanguma."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T18:00:00+00:00",
+   "last_seen": "2026-10-31T18:00:00+00:00",
+   "summary": "Eighteen years after Satoshi published the Bitcoin white paper, business owners are still covering the cost of a system built on bailouts, and they can protect part of their surplus by keeping it in bitcoin, argues Onramp CEO Michael Tanguma.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "fa7ba305eb",
    "title": "THORChain Swaps Remain Paused on 12 Chains After Reported Refund Error",

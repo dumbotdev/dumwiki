@@ -1,6 +1,113 @@
 {
- "updated": "2026-10-31T13:10:55.823011+00:00",
+ "updated": "2026-10-31T13:58:08.333537+00:00",
  "events": [
+  {
+   "id": "b43b1c5584",
+   "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
+   "date": "2026-10-31T13:37:49+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Texas brothers sentenced to 15 years in prison for armed crypto robbery, kidnapping",
+     "url": "https://cointelegraph.com/news/texas-brothers-sentenced-to-15-years-in-prison-for-armed-crypto-robbery-kidnapping?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-31T13:37:49+00:00",
+     "summary": "Home invasions became the most common form of crypto wrench attacks worldwide during the first half of 2026, rising to 20 incidents from one."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T13:37:49+00:00",
+   "last_seen": "2026-10-31T13:37:49+00:00",
+   "summary": "Home invasions became the most common form of crypto wrench attacks worldwide during the first half of 2026, rising to 20 incidents from one.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "1576d5292c",
+   "title": "Chainalysis says hacker using \u2018offensive agentic techniques\u2019 accessed its customers\u2019 names and emails",
+   "date": "2026-10-31T13:27:17+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Chainalysis says hacker using \u2018offensive agentic techniques\u2019 accessed its customers\u2019 names and emails",
+     "url": "https://www.theblock.co/news/business/2026-10-31-chainalysis-says-hacker-using-offensive-agentic-techniques-accessed-its-customers-names-and-emails-432244",
+     "date": "2026-10-31T13:27:17+00:00",
+     "summary": "The firm has also been tracking Binance\u2019s separate multibillion-dollar hack, and said the attackers are using a Tron protocol to dodge stablecoin freezes."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T13:27:17+00:00",
+   "last_seen": "2026-10-31T13:27:17+00:00",
+   "summary": "The firm has also been tracking Binance\u2019s separate multibillion-dollar hack, and said the attackers are using a Tron protocol to dodge stablecoin freezes.",
+   "tags": [
+    "exchanges",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "45e6e6309b",
+   "title": "Kalshi vs. Polymarket: Who Decides Winners and When Funds Can Leave",
+   "date": "2026-10-31T13:17:29+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Kalshi vs. Polymarket: Who Decides Winners and When Funds Can Leave",
+     "url": "https://thedefiant.io/news/cefi/kalshi-vs-polymarket-who-decides-winners-and-when-funds-can-leave",
+     "date": "2026-10-31T13:17:29+00:00",
+     "summary": "Exchange review, oracle challenges and deposit holds create different paths from a winning position to money outside the platform."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T13:17:29+00:00",
+   "last_seen": "2026-10-31T13:17:29+00:00",
+   "summary": "Exchange review, oracle challenges and deposit holds create different paths from a winning position to money outside the platform.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "fc1fef1554",
+   "title": "Origin Restores OGN Liquidity After Pulling Funds During Binance Incident",
+   "date": "2026-10-31T13:11:22+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Origin Restores OGN Liquidity After Pulling Funds During Binance Incident",
+     "url": "https://thedefiant.io/news/defi/origin-restores-ogn-liquidity-after-pulling-funds-during-binance-incident",
+     "date": "2026-10-31T13:11:22+00:00",
+     "summary": "Origin says the attacker sold OGN at an average 79% discount. Ethereum records show liquidity returning to its Curve pool after a withdrawal of 46.74 million OGN."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T13:11:22+00:00",
+   "last_seen": "2026-10-31T13:11:22+00:00",
+   "summary": "Origin says the attacker sold OGN at an average 79% discount. Ethereum records show liquidity returning to its Curve pool after a withdrawal of 46.74 million OGN.",
+   "tags": [
+    "defi",
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "5a86e8d7d6",
+   "title": "CertiK Puts 2026 Crypto Losses at Record $9.2 Billion",
+   "date": "2026-10-31T13:11:20+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "CertiK Puts 2026 Crypto Losses at Record $9.2 Billion",
+     "url": "https://thedefiant.io/news/security/certik-puts-2026-crypto-losses-at-record-9-2-billion",
+     "date": "2026-10-31T13:11:20+00:00",
+     "summary": "Its live dashboard records $3.03 billion frozen or returned in October, reducing the month's adjusted losses to $3.47 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T13:11:20+00:00",
+   "last_seen": "2026-10-31T13:11:20+00:00",
+   "summary": "Its live dashboard records $3.03 billion frozen or returned in October, reducing the month's adjusted losses to $3.47 billion.",
+   "tags": []
+  },
   {
    "id": "2d4d3d54ed",
    "title": "Why AI Models Cheat: Reward Hacking, Explained",

@@ -1,6 +1,35 @@
 {
- "updated": "2026-10-31T19:03:53.638902+00:00",
+ "updated": "2026-10-31T19:51:52.816644+00:00",
  "events": [
+  {
+   "id": "d9f9d9b26a",
+   "title": "Jupiter Lend\u2019s withdrawal liquidity rebounds from near zero to 29 million USDC",
+   "date": "2026-10-31T19:10:09+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Jupiter Lend\u2019s withdrawal liquidity rebounds from near zero to 29 million USDC",
+     "url": "https://cryptoslate.com/jupiter-lend-usdc-withdrawal-liquidity-rebounds/",
+     "date": "2026-10-31T19:10:09+00:00",
+     "summary": "An October 31 API reading shows partial recovery, with available USDC at about 7% of reported total assets. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+     "source": "The Defiant",
+     "title": "Jupiter Lend USDC Withdrawal Liquidity Rebounds to 27.9 Million",
+     "url": "https://thedefiant.io/news/defi/jupiter-lend-usdc-withdrawal-liquidity-rebounds-to-27-9-million",
+     "date": "2026-10-31T19:26:05+00:00",
+     "summary": "An Oct. 31 API snapshot showed 6.3% of the vault's 441 million USDC in deposit claims immediately withdrawable."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-10-31T19:10:09+00:00",
+   "last_seen": "2026-10-31T19:26:05+00:00",
+   "summary": "An October 31 API reading shows partial recovery, with available USDC at about 7% of reported total assets. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
   {
    "id": "a5a09b9cd0",
    "title": "Morpho Borrow Rates Hit Roughly 40% as PT Market Liquidity Dries Up",

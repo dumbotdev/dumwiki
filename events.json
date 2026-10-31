@@ -1,6 +1,115 @@
 {
- "updated": "2026-10-30T23:51:51.612544+00:00",
+ "updated": "2026-10-31T01:22:05.106025+00:00",
  "events": [
+  {
+   "id": "17368fcb35",
+   "title": "MSTR Q3 2026 Earnings Call: Analyst Q&A",
+   "date": "2026-10-31T01:08:31+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "MSTR Q3 2026 Earnings Call: Analyst Q&A",
+     "url": "https://bitcoinmagazine.com/videos/mstr-q3-2026-earnings-call-analyst-qa",
+     "date": "2026-10-31T01:08:31+00:00",
+     "summary": "&#9654; Bitcoin Magazine MSTR Q3 2026 Earnings Call: Analyst Q&A Strategy's MSTR Q3 earnings Q&#038;A: Michael Saylor and Phong Le answer analysts on digital credit, Stretch (STRC) at par, preferreds, and Bitcoin's financialization. This post MSTR Q3 2026 Earnings Call: Analyst..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T01:08:31+00:00",
+   "last_seen": "2026-10-31T01:08:31+00:00",
+   "summary": "&#9654; Bitcoin Magazine MSTR Q3 2026 Earnings Call: Analyst Q&A Strategy's MSTR Q3 earnings Q&#038;A: Michael Saylor and Phong Le answer analysts on digital credit, Stretch (STRC) at par, preferreds, and Bitcoin's financialization. This post MSTR Q3 2026 Earnings Call: Analyst...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "98d029dbbd",
+   "title": "Mike Flaum: MSTR Performance \u201cMassively\u201d to the Upside During Next BTC Bull Run",
+   "date": "2026-10-31T01:02:04+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Mike Flaum: MSTR Performance \u201cMassively\u201d to the Upside During Next BTC Bull Run",
+     "url": "https://bitcoinmagazine.com/videos/mike-flaum-mstr-performance-massively-to-the-upside-during-next-btc-bull-run",
+     "date": "2026-10-31T01:02:04+00:00",
+     "summary": "&#9654; Bitcoin Magazine Mike Flaum: MSTR Performance &#8220;Massively&#8221; to the Upside During Next BTC Bull Run Log Scale CEO Mike Flaum discusses Strategy's Stretch, daily dividends, BTC preferreds vs. Treasuries for retirees, and separating volatility from true risk. This..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T01:02:04+00:00",
+   "last_seen": "2026-10-31T01:02:04+00:00",
+   "summary": "&#9654; Bitcoin Magazine Mike Flaum: MSTR Performance &#8220;Massively&#8221; to the Upside During Next BTC Bull Run Log Scale CEO Mike Flaum discusses Strategy's Stretch, daily dividends, BTC preferreds vs. Treasuries for retirees, and separating volatility from true risk. This...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "7deb3dc282",
+   "title": "What to Know About the $6.3 Billion Binance Hack",
+   "date": "2026-10-31T00:57:26+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "What to Know About the $6.3 Billion Binance Hack",
+     "url": "https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack",
+     "date": "2026-10-31T00:57:26+00:00",
+     "summary": "&#9654; Bitcoin Magazine What to Know About the $6.3 Billion Binance Hack Binance suffers a record $6.3B hack with $3.3B unrecovered. BMTV breaks down what happened, Binance's response, and why every day is now zero day for crypto. This post What to Know About the $6.3 Billion..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T00:57:26+00:00",
+   "last_seen": "2026-10-31T00:57:26+00:00",
+   "summary": "&#9654; Bitcoin Magazine What to Know About the $6.3 Billion Binance Hack Binance suffers a record $6.3B hack with $3.3B unrecovered. BMTV breaks down what happened, Binance's response, and why every day is now zero day for crypto. This post What to Know About the $6.3 Billion...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "6451f76947",
+   "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+   "date": "2026-10-31T00:48:56+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+     "url": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
+     "date": "2026-10-31T00:48:56+00:00",
+     "summary": "Anxiety about the AI boom has sent the Nasdaq 100 slumping by about 10% in just three weeks since hitting a record high on October 6, including a 4.5% drop on Friday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T00:48:56+00:00",
+   "last_seen": "2026-10-31T00:48:56+00:00",
+   "summary": "Anxiety about the AI boom has sent the Nasdaq 100 slumping by about 10% in just three weeks since hitting a record high on October 6, including a 4.5% drop on Friday.",
+   "tags": [
+    "ai",
+    "funding"
+   ]
+  },
+  {
+   "id": "c458dd98c0",
+   "title": "Maple locks $280M in XRP collateral and upcoming maturity dates threaten liquidations",
+   "date": "2026-10-31T00:10:43+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Maple locks $280M in XRP collateral and upcoming maturity dates threaten liquidations",
+     "url": "https://cryptoslate.com/maple-locks-280m-in-xrp-collateral-and-upcoming-maturity-dates-threaten-liquidations/",
+     "date": "2026-10-31T00:10:43+00:00",
+     "summary": "About 225 million XRP supports three stablecoin loan positions, but December and January maturities do not guarantee automatic collateral releases. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T00:10:43+00:00",
+   "last_seen": "2026-10-31T00:10:43+00:00",
+   "summary": "About 225 million XRP supports three stablecoin loan positions, but December and January maturities do not guarantee automatic collateral releases. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "markets",
+    "stablecoins"
+   ]
+  },
   {
    "id": "2f7101236f",
    "title": "MetaMask adds Stellar integration, but cross-chain bridges require manual setup",

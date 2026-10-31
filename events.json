@@ -1,6 +1,155 @@
 {
- "updated": "2026-10-31T14:53:03.809165+00:00",
+ "updated": "2026-10-31T15:52:21.384076+00:00",
  "events": [
+  {
+   "id": "4a1634b8d8",
+   "title": "Origami Says DNS Is Restored but Vaults Remain Paused",
+   "date": "2026-10-31T15:37:59+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Origami Says DNS Is Restored but Vaults Remain Paused",
+     "url": "https://thedefiant.io/news/security/origami-says-dns-is-restored-but-vaults-remain-paused",
+     "date": "2026-10-31T15:37:59+00:00",
+     "summary": "The protocol says vault funds were unaffected; a contract readout shows deposits and withdrawals paused for its hOHM vault."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T15:37:59+00:00",
+   "last_seen": "2026-10-31T15:37:59+00:00",
+   "summary": "The protocol says vault funds were unaffected; a contract readout shows deposits and withdrawals paused for its hOHM vault.",
+   "tags": []
+  },
+  {
+   "id": "49c3289b3e",
+   "title": "Saylor calls new Bitcoin bull market, but Strategy\u2019s own numbers reveal a costly problem",
+   "date": "2026-10-31T15:30:46+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Saylor calls new Bitcoin bull market, but Strategy\u2019s own numbers reveal a costly problem",
+     "url": "https://cryptoslate.com/saylor-calls-new-bitcoin-bull-market-but-strategys-own-numbers-reveal-a-costly-problem/",
+     "date": "2026-10-31T15:30:46+00:00",
+     "summary": "Strategy posted a record $20.9 billion in third-quarter operating income as Michael Saylor declared a new Bitcoin bull market. The company&#039;s Oct. 29 financial results showed net income of $19.5 billion, compared with roughly $2.8 billion a year earlier. The record operating..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T15:30:46+00:00",
+   "last_seen": "2026-10-31T15:30:46+00:00",
+   "summary": "Strategy posted a record $20.9 billion in third-quarter operating income as Michael Saylor declared a new Bitcoin bull market. The company&#039;s Oct. 29 financial results showed net income of $19.5 billion, compared with roughly $2.8 billion a year earlier. The record operating...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "bc90b849dd",
+   "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+   "date": "2026-10-31T15:26:46+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin held up better than expected after Binance hack, Strive CEO says",
+     "url": "https://cointelegraph.com/markets/bitcoin-binance-hack-strive-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-31T15:26:46+00:00",
+     "summary": "Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T15:26:46+00:00",
+   "last_seen": "2026-10-31T15:26:46+00:00",
+   "summary": "Strive CEO Matt Cole says the Binance hack has not changed his long-term case for Bitcoin, but cautions it is too early to call a market bottom.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "6a8ad1acf0",
+   "title": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000",
+   "date": "2026-10-31T15:26:27+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000",
+     "url": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites-all-registered-with-name-com-and-steal-about-138000-432251",
+     "date": "2026-10-31T15:26:27+00:00",
+     "summary": "All 12 hijacked domains are registered through Name.com, according to registry records accessed by The Block, suggesting a compromise."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T15:26:27+00:00",
+   "last_seen": "2026-10-31T15:26:27+00:00",
+   "summary": "All 12 hijacked domains are registered through Name.com, according to registry records accessed by The Block, suggesting a compromise.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "91fc90ab5a",
+   "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+   "date": "2026-10-31T15:24:10+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach",
+     "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto-after-massive-usd6-3-billion-breach",
+     "date": "2026-10-31T15:24:10+00:00",
+     "summary": "Binance is absorbing all losses through corporate funds, futures reserves, and SAFU, keeping user balances intact."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T15:24:10+00:00",
+   "last_seen": "2026-10-31T15:24:10+00:00",
+   "summary": "Binance is absorbing all losses through corporate funds, futures reserves, and SAFU, keeping user balances intact.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "f566445c24",
+   "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+   "date": "2026-10-31T15:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History",
+     "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know",
+     "date": "2026-10-31T15:01:02+00:00",
+     "summary": "Attackers tied to North Korea drained roughly $6.4 billion from the world\u2019s largest crypto exchange. Here\u2019s what we know about how it happened, who\u2019s behind it, and what comes next."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T15:01:02+00:00",
+   "last_seen": "2026-10-31T15:01:02+00:00",
+   "summary": "Attackers tied to North Korea drained roughly $6.4 billion from the world\u2019s largest crypto exchange. Here\u2019s what we know about how it happened, who\u2019s behind it, and what comes next.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "2a4d11ad2e",
+   "title": "Institutions embrace crypto staking despite shrinking yields",
+   "date": "2026-10-31T15:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Institutions embrace crypto staking despite shrinking yields",
+     "url": "https://www.coindesk.com/business/2026/10/26/institutions-embrace-crypto-staking-despite-shrinking-yields",
+     "date": "2026-10-31T15:00:00+00:00",
+     "summary": "Easier access and growing familiarity are encouraging investors to stake their tokens, while falling rewards and withdrawal delays test the economics."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-10-31T15:00:00+00:00",
+   "last_seen": "2026-10-31T15:00:00+00:00",
+   "summary": "Easier access and growing familiarity are encouraging investors to stake their tokens, while falling rewards and withdrawal delays test the economics.",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "fcfdfe5f15",
    "title": "Binance Says 90% of Stolen Assets Replenished, Targets Nov. 1 Restart",
@@ -12,12 +161,19 @@
      "url": "https://thedefiant.io/news/hacks/binance-says-90-of-stolen-assets-replenished-targets-nov-1-restart",
      "date": "2026-10-31T14:40:51+00:00",
      "summary": "Its new reserves page reports full backing for major tokens, while the complete cryptographic proof is expected by Nov. 3."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals",
+     "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-10-31T15:36:01+00:00",
+     "summary": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-10-31T14:40:51+00:00",
-   "last_seen": "2026-10-31T14:40:51+00:00",
-   "summary": "Its new reserves page reports full backing for major tokens, while the complete cryptographic proof is expected by Nov. 3.",
+   "last_seen": "2026-10-31T15:36:01+00:00",
+   "summary": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets through market and over-the-counter trades.",
    "tags": [
     "exchanges",
     "security"

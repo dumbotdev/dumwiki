@@ -1,6 +1,132 @@
 {
- "updated": "2026-11-01T17:49:55.415920+00:00",
+ "updated": "2026-11-01T19:04:02.471782+00:00",
  "events": [
+  {
+   "id": "84146ed46f",
+   "title": "Threshold Says tBTC Operators Patched or Went Offline Over Linux Flaw",
+   "date": "2026-11-01T18:55:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Threshold Says tBTC Operators Patched or Went Offline Over Linux Flaw",
+     "url": "https://thedefiant.io/news/security/threshold-says-tbtc-operators-patched-or-went-offline-over-linux-flaw",
+     "date": "2026-11-01T18:55:06+00:00",
+     "summary": "Threshold also disclosed a separate incident that drained about 0.5 ETH from an operator\u2019s fee-paying account. Aave\u2019s frozen Ethereum Core reserve holds about $136.3 million of tBTC."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T18:55:06+00:00",
+   "last_seen": "2026-11-01T18:55:06+00:00",
+   "summary": "Threshold also disclosed a separate incident that drained about 0.5 ETH from an operator\u2019s fee-paying account. Aave\u2019s frozen Ethereum Core reserve holds about $136.3 million of tBTC.",
+   "tags": [
+    "ethereum",
+    "security"
+   ]
+  },
+  {
+   "id": "8633d7200f",
+   "title": "Solana Mobile Says Fake 'SKR Claim' App Reached Store Spotlight",
+   "date": "2026-11-01T18:47:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Solana Mobile Says Fake 'SKR Claim' App Reached Store Spotlight",
+     "url": "https://thedefiant.io/news/hacks/solana-mobile-says-fake-skr-claim-app-reached-store-spotlight",
+     "date": "2026-11-01T18:47:05+00:00",
+     "summary": "The company says it patched a bug allowing links to apps that were not fully published and is removing the malicious app from affected devices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T18:47:05+00:00",
+   "last_seen": "2026-11-01T18:47:05+00:00",
+   "summary": "The company says it patched a bug allowing links to apps that were not fully published and is removing the malicious app from affected devices.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "f78159a3ad",
+   "title": "Analyst Traces $140 Million in Binance Loot Through Four Tron Exit Routes",
+   "date": "2026-11-01T18:43:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Analyst Traces $140 Million in Binance Loot Through Four Tron Exit Routes",
+     "url": "https://thedefiant.io/news/hacks/analyst-traces-140-million-in-binance-loot-through-four-tron-exit-routes",
+     "date": "2026-11-01T18:43:13+00:00",
+     "summary": "SomaXBT\u2019s breakdown focuses on assets left unfrozen on Tron. The FBI\u2019s Oct. 31 blocking request explicitly includes THORChain node operators and downstream funds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T18:43:13+00:00",
+   "last_seen": "2026-11-01T18:43:13+00:00",
+   "summary": "SomaXBT\u2019s breakdown focuses on assets left unfrozen on Tron. The FBI\u2019s Oct. 31 blocking request explicitly includes THORChain node operators and downstream funds.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "587fe9450f",
+   "title": "Cursor urges credential resets after malicious Claude Code marketplace update",
+   "date": "2026-11-01T18:40:09+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Cursor urges credential resets after malicious Claude Code marketplace update",
+     "url": "https://cryptoslate.com/cursor-urges-credential-resets-after-malicious-claude-code-marketplace-update/",
+     "date": "2026-11-01T18:40:09+00:00",
+     "summary": "Affected macOS and Windows users need host cleanup and trusted-system credential rotation because uninstalling may leave persistent components. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T18:40:09+00:00",
+   "last_seen": "2026-11-01T18:40:09+00:00",
+   "summary": "Affected macOS and Windows users need host cleanup and trusted-system credential rotation because uninstalling may leave persistent components. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "eac96c34c0",
+   "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+   "date": "2026-11-01T18:25:48+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+     "url": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+     "date": "2026-11-01T18:25:48+00:00",
+     "summary": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T18:25:48+00:00",
+   "last_seen": "2026-11-01T18:25:48+00:00",
+   "summary": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "cbd74e7007",
+   "title": "Election Market Odds vs. Polls: What a 70% Chance Means",
+   "date": "2026-11-01T18:12:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Election Market Odds vs. Polls: What a 70% Chance Means",
+     "url": "https://thedefiant.io/news/cefi/election-market-odds-vs-polls-what-a-70-chance-means",
+     "date": "2026-11-01T18:12:49+00:00",
+     "summary": "The last trade can differ from the price available now, while a favorite losing is only one observation\u2014not a verdict on a forecast\u2019s reliability."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T18:12:49+00:00",
+   "last_seen": "2026-11-01T18:12:49+00:00",
+   "summary": "The last trade can differ from the price available now, while a favorite losing is only one observation\u2014not a verdict on a forecast\u2019s reliability.",
+   "tags": [
+    "markets"
+   ]
+  },
   {
    "id": "760d62b86e",
    "title": "Bitcoin redemption freeze puts $136 million Aave market under scrutiny",

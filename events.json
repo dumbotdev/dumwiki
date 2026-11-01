@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-01T19:04:02.471782+00:00",
+ "updated": "2026-11-01T19:53:14.347969+00:00",
  "events": [
+  {
+   "id": "eed698a2e9",
+   "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+   "date": "2026-11-01T19:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto",
+     "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto",
+     "date": "2026-11-01T19:30:00+00:00",
+     "summary": "America is going to the polls, and the results will shape crypto legislation and regulation over the next two years. Here's what to know."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T19:30:00+00:00",
+   "last_seen": "2026-11-01T19:30:00+00:00",
+   "summary": "America is going to the polls, and the results will shape crypto legislation and regulation over the next two years. Here's what to know.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "14fd4fbcf1",
+   "title": "Pump.fun Cuts Referral Share to 37.5% as 4x Boost Ends",
+   "date": "2026-11-01T19:19:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Pump.fun Cuts Referral Share to 37.5% as 4x Boost Ends",
+     "url": "https://thedefiant.io/news/defi/pump-fun-cuts-referral-share-to-37-5-as-4x-boost-ends",
+     "date": "2026-11-01T19:19:44+00:00",
+     "summary": "Creators will earn 62.5% less from the same referral fees, while the platform says it will keep distributing all app revenue through rewards."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T19:19:44+00:00",
+   "last_seen": "2026-11-01T19:19:44+00:00",
+   "summary": "Creators will earn 62.5% less from the same referral fees, while the platform says it will keep distributing all app revenue through rewards.",
+   "tags": []
+  },
   {
    "id": "84146ed46f",
    "title": "Threshold Says tBTC Operators Patched or Went Offline Over Linux Flaw",

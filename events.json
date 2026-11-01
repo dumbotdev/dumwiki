@@ -1,6 +1,25 @@
 {
- "updated": "2026-11-01T11:51:12.296195+00:00",
+ "updated": "2026-11-01T13:12:15.655472+00:00",
  "events": [
+  {
+   "id": "1895c97174",
+   "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
+   "date": "2026-11-01T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",
+     "url": "https://www.coindesk.com/news-analysis/2026/11/01/sherrod-brown-s-ohio-edge-threatens-a-rough-go-for-crypto-next-year",
+     "date": "2026-11-01T13:00:00+00:00",
+     "summary": "The industry's $63 million question revolves around whether its political adversary in Ohio rides the Trump backlash back into the Senate."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T13:00:00+00:00",
+   "last_seen": "2026-11-01T13:00:00+00:00",
+   "summary": "The industry's $63 million question revolves around whether its political adversary in Ohio rides the Trump backlash back into the Senate.",
+   "tags": []
+  },
   {
    "id": "bbdce283b9",
    "title": "Swell Lifts swETH and rswETH Withdrawal Pauses After Rate Reset",
@@ -291,12 +310,19 @@
      "url": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-11-01T07:44:38+00:00",
      "summary": "US agency seeks private-sector help to block further money-laundering of stolen digital assets."
+    },
+    {
+     "source": "CryptoSlate",
+     "title": "FBI blames North Korea for $6 billion Binance hack, urges THORChain to block stolen funds",
+     "url": "https://cryptoslate.com/fbi-blames-north-korea-for-6-billion-binance-hack-urges-thorchain-to-block-stolen-funds/",
+     "date": "2026-11-01T12:20:43+00:00",
+     "summary": "The US Federal Bureau of Investigation (FBI) has blamed North Korea&#039;s TraderTraitor operation for stealing more than $6 billion from Binance. In an Oct. 31 security alert, the agency attributed the Oct. 29 attack to North Korean cyber actors, providing official US..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-01T07:44:38+00:00",
-   "last_seen": "2026-11-01T07:44:38+00:00",
-   "summary": "US agency seeks private-sector help to block further money-laundering of stolen digital assets.",
+   "last_seen": "2026-11-01T12:20:43+00:00",
+   "summary": "The US Federal Bureau of Investigation (FBI) has blamed North Korea&#039;s TraderTraitor operation for stealing more than $6 billion from Binance. In an Oct. 31 security alert, the agency attributed the Oct. 29 attack to North Korean cyber actors, providing official US...",
    "tags": [
     "exchanges",
     "security"

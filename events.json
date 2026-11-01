@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-01T05:06:47.248753+00:00",
+ "updated": "2026-11-01T05:59:27.439984+00:00",
  "events": [
+  {
+   "id": "328b1eec8f",
+   "title": "Solana\u2019s reward records leave stakers with a gap in validator fee data",
+   "date": "2026-11-01T05:10:57+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Solana\u2019s reward records leave stakers with a gap in validator fee data",
+     "url": "https://cryptoslate.com/solanas-reward-records-leave-stakers-with-a-gap-in-validator-fee-data/",
+     "date": "2026-11-01T05:10:57+00:00",
+     "summary": "Agave leaves the applied-rate field empty, so verifying a staking fee requires historical validator state and delegation evidence. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T05:10:57+00:00",
+   "last_seen": "2026-11-01T05:10:57+00:00",
+   "summary": "Agave leaves the applied-rate field empty, so verifying a staking fee requires historical validator state and delegation evidence. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi",
+    "solana"
+   ]
+  },
   {
    "id": "f4695b75ae",
    "title": "Attacker Drains About $437,000 in Collateral From Premia Vaults",

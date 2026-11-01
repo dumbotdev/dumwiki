@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-01T05:59:27.439984+00:00",
+ "updated": "2026-11-01T07:23:59.814515+00:00",
  "events": [
+  {
+   "id": "0c88ebc74c",
+   "title": "Binance Begins Reopening Withdrawals With Bitcoin After $6.3 Billion Hack",
+   "date": "2026-11-01T06:25:43+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Begins Reopening Withdrawals With Bitcoin After $6.3 Billion Hack",
+     "url": "https://thedefiant.io/news/hacks/binance-begins-reopening-withdrawals-with-bitcoin-after-6-3-billion-hack",
+     "date": "2026-11-01T06:25:43+00:00",
+     "summary": "The exchange says it has replenished about 95% of the impacted amount, with less-liquid tokens accounting for the remaining 5%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T06:25:43+00:00",
+   "last_seen": "2026-11-01T06:25:43+00:00",
+   "summary": "The exchange says it has replenished about 95% of the impacted amount, with less-liquid tokens accounting for the remaining 5%.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "328b1eec8f",
    "title": "Solana\u2019s reward records leave stakers with a gap in validator fee data",

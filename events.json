@@ -1,6 +1,67 @@
 {
- "updated": "2026-11-01T14:54:21.899496+00:00",
+ "updated": "2026-11-01T15:51:52.368889+00:00",
  "events": [
+  {
+   "id": "b147ed3194",
+   "title": "Japan\u2019s central bank will sell ETFs 2.6 times faster and could still take 43 years to exit",
+   "date": "2026-11-01T15:30:12+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Japan\u2019s central bank will sell ETFs 2.6 times faster and could still take 43 years to exit",
+     "url": "https://cryptoslate.com/japans-central-bank-will-sell-etfs-2-6-times-faster-and-could-still-take-43-years-to-exit/",
+     "date": "2026-11-01T15:30:12+00:00",
+     "summary": "Japan&#039;s central bank has decided to sell its stock funds about 2.6 times faster than usual, reducing the estimated time needed to dispose of them from 112 years to 43. If you&#039;re wondering why such a supercharged exit still stretches across more than four decades,..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T15:30:12+00:00",
+   "last_seen": "2026-11-01T15:30:12+00:00",
+   "summary": "Japan&#039;s central bank has decided to sell its stock funds about 2.6 times faster than usual, reducing the estimated time needed to dispose of them from 112 years to 43. If you&#039;re wondering why such a supercharged exit still stretches across more than four decades,...",
+   "tags": [
+    "etfs"
+   ]
+  },
+  {
+   "id": "60398af729",
+   "title": "The key races to watch for the 2026 election",
+   "date": "2026-11-01T15:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "The key races to watch for the 2026 election",
+     "url": "https://www.coindesk.com/policy/2026/11/01/the-key-races-to-watch-for-the-2026-election",
+     "date": "2026-11-01T15:00:00+00:00",
+     "summary": "While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January. Here are the main races CoinDesk is tracking."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T15:00:00+00:00",
+   "last_seen": "2026-11-01T15:00:00+00:00",
+   "summary": "While crypto isn't a major issue in the 2026 election, the industry will be shaped by who takes office in January. Here are the main races CoinDesk is tracking.",
+   "tags": []
+  },
+  {
+   "id": "b9dcefcb69",
+   "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
+   "date": "2026-11-01T15:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto card startups are racking up losses just to buy your loyalty with big rewards",
+     "url": "https://www.coindesk.com/business/2026/11/01/crypto-card-startups-are-racking-up-losses-just-to-buy-your-loyalty-with-big-rewards",
+     "date": "2026-11-01T15:00:00+00:00",
+     "summary": "Providers are betting trading, lending and staking revenue can cover rewards and turn card users into profitable customers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T15:00:00+00:00",
+   "last_seen": "2026-11-01T15:00:00+00:00",
+   "summary": "Providers are betting trading, lending and staking revenue can cover rewards and turn card users into profitable customers.",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "a743b7efd1",
    "title": "Ethereum validators pocket $30 million windfall as Binance hackers lose $119 million in rushed trades",

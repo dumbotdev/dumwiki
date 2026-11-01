@@ -1,6 +1,136 @@
 {
- "updated": "2026-11-01T09:03:03.263371+00:00",
+ "updated": "2026-11-01T09:59:58.465858+00:00",
  "events": [
+  {
+   "id": "0aa76367f3",
+   "title": "How Staking Rewards Change Token Holdings and Supply Share",
+   "date": "2026-11-01T09:58:32+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "How Staking Rewards Change Token Holdings and Supply Share",
+     "url": "https://thedefiant.io/news/defi/how-staking-rewards-change-token-holdings-and-supply-share",
+     "date": "2026-11-01T09:58:32+00:00",
+     "summary": "In a hypothetical year, a 9% net token reward produces a 3.81% gain in supply share when total supply grows 5%. Dollar returns depend on price."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T09:58:32+00:00",
+   "last_seen": "2026-11-01T09:58:32+00:00",
+   "summary": "In a hypothetical year, a 9% net token reward produces a 3.81% gain in supply share when total supply grows 5%. Dollar returns depend on price.",
+   "tags": [
+    "defi",
+    "markets"
+   ]
+  },
+  {
+   "id": "c77ed5bd86",
+   "title": "What Happens When a Uniswap v3 Position Goes Out of Range?",
+   "date": "2026-11-01T09:56:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "What Happens When a Uniswap v3 Position Goes Out of Range?",
+     "url": "https://thedefiant.io/news/defi/what-happens-when-a-uniswap-v3-position-goes-out-of-range",
+     "date": "2026-11-01T09:56:12+00:00",
+     "summary": "An ETH/USDC worked example tracks token balances, fees and the holding benchmark\u2014and shows why opening a new range does not reset cumulative returns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T09:56:12+00:00",
+   "last_seen": "2026-11-01T09:56:12+00:00",
+   "summary": "An ETH/USDC worked example tracks token balances, fees and the holding benchmark\u2014and shows why opening a new range does not reset cumulative returns.",
+   "tags": [
+    "ethereum",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "6c8491833f",
+   "title": "What Are Perpetual Funding Rates? A Worked SEI Example",
+   "date": "2026-11-01T09:51:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "What Are Perpetual Funding Rates? A Worked SEI Example",
+     "url": "https://thedefiant.io/news/markets/what-are-perpetual-funding-rates-a-worked-sei-example",
+     "date": "2026-11-01T09:51:11+00:00",
+     "summary": "In a hypothetical SEI ledger, a $30 funding transfer equals 0.75% of one trader\u2019s starting collateral and 0.375% of the other\u2019s."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T09:51:11+00:00",
+   "last_seen": "2026-11-01T09:51:11+00:00",
+   "summary": "In a hypothetical SEI ledger, a $30 funding transfer equals 0.75% of one trader\u2019s starting collateral and 0.375% of the other\u2019s.",
+   "tags": [
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "e7aa8ed90f",
+   "title": "Binance says phase one of withdrawals opens after $6.3B hack",
+   "date": "2026-11-01T09:38:18+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance says phase one of withdrawals opens after $6.3B hack",
+     "url": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-01T09:38:18+00:00",
+     "summary": "The crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on North Korea."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T09:38:18+00:00",
+   "last_seen": "2026-11-01T09:38:18+00:00",
+   "summary": "The crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on North Korea.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "c140a42644",
+   "title": "How to Read Kraken\u2019s Proof of Reserves\u2014and Its Limits",
+   "date": "2026-11-01T09:20:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "How to Read Kraken\u2019s Proof of Reserves\u2014and Its Limits",
+     "url": "https://thedefiant.io/news/cefi/how-to-read-kraken-s-proof-of-reserves-and-its-limits",
+     "date": "2026-11-01T09:20:09+00:00",
+     "summary": "Kraken\u2019s June 2026 snapshot separates customer-balance inclusion from wallet control. Neither alone guarantees solvency or withdrawal access."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T09:20:09+00:00",
+   "last_seen": "2026-11-01T09:20:09+00:00",
+   "summary": "Kraken\u2019s June 2026 snapshot separates customer-balance inclusion from wallet control. Neither alone guarantees solvency or withdrawal access.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "55e1f329c9",
+   "title": "How Circle Makes Money From USDC\u2014and Why Reserve Income Is Not Profit",
+   "date": "2026-11-01T09:08:24+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "How Circle Makes Money From USDC\u2014and Why Reserve Income Is Not Profit",
+     "url": "https://thedefiant.io/news/cefi/how-circle-makes-money-from-usdc-and-why-reserve-income-is-not-profit",
+     "date": "2026-11-01T09:08:24+00:00",
+     "summary": "Circle\u2019s second-quarter accounts trace $701.315 million in revenue and reserve income to $48.214 million in net income, after distribution costs, operating expenses and taxes."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T09:08:24+00:00",
+   "last_seen": "2026-11-01T09:08:24+00:00",
+   "summary": "Circle\u2019s second-quarter accounts trace $701.315 million in revenue and reserve income to $48.214 million in net income, after distribution costs, operating expenses and taxes.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "ded7a4d331",
    "title": "What Zero LTV Means for an Existing Aave Loan",

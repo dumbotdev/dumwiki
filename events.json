@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-01T20:54:09.221378+00:00",
+ "updated": "2026-11-01T21:52:33.403600+00:00",
  "events": [
+  {
+   "id": "4ec08bb2a9",
+   "title": "Binance Posts $4.54 Billion Net Outflow as Tracked Rivals Gain $564 Million",
+   "date": "2026-11-01T21:28:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Posts $4.54 Billion Net Outflow as Tracked Rivals Gain $564 Million",
+     "url": "https://thedefiant.io/news/hacks/binance-posts-4-54-billion-net-outflow-as-tracked-rivals-gain-564-million",
+     "date": "2026-11-01T21:28:26+00:00",
+     "summary": "OKX led gains among 10 large tracked rivals, but exchange-wide net flows do not reveal how much Binance customers moved into self-custody."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T21:28:26+00:00",
+   "last_seen": "2026-11-01T21:28:26+00:00",
+   "summary": "OKX led gains among 10 large tracked rivals, but exchange-wide net flows do not reveal how much Binance customers moved into self-custody.",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "101dd1bdf0",
    "title": "THORChain Co-Founder Cites Public Data After FBI Binance Blocking Appeal",
@@ -284,15 +305,23 @@
      "url": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259",
      "date": "2026-11-01T16:32:31+00:00",
      "summary": "The exchange said the outflows equal 2.1% of its $171 billion in assets and that withdrawal volumes have declined after an initial spike."
+    },
+    {
+     "source": "CryptoSlate",
+     "title": "Tracked Binance wallets record $2.5 billion in outflows as withdrawals reopen after hack",
+     "url": "https://cryptoslate.com/tracked-binance-wallets-record-2-5-billion-in-outflows-as-withdrawals-reopen-after-hack/",
+     "date": "2026-11-01T21:00:31+00:00",
+     "summary": "Binance&#039;s tracked cryptocurrency wallets recorded $2,510 million in net outflows on Nov. 1 after the exchange resumed withdrawals following its $6.3 billion security breach. According to DeFiLlama data, the outflows included approximately $1,083 million in USDT, $912..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-01T16:32:31+00:00",
-   "last_seen": "2026-11-01T16:32:31+00:00",
-   "summary": "The exchange said the outflows equal 2.1% of its $171 billion in assets and that withdrawal volumes have declined after an initial spike.",
+   "last_seen": "2026-11-01T21:00:31+00:00",
+   "summary": "Binance&#039;s tracked cryptocurrency wallets recorded $2,510 million in net outflows on Nov. 1 after the exchange resumed withdrawals following its $6.3 billion security breach. According to DeFiLlama data, the outflows included approximately $1,083 million in USDT, $912...",
    "tags": [
     "exchanges",
-    "security"
+    "security",
+    "stablecoins"
    ]
   },
   {

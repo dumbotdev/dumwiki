@@ -1,6 +1,28 @@
 {
- "updated": "2026-11-01T04:10:48.905464+00:00",
+ "updated": "2026-11-01T05:06:47.248753+00:00",
  "events": [
+  {
+   "id": "f4695b75ae",
+   "title": "Attacker Drains About $437,000 in Collateral From Premia Vaults",
+   "date": "2026-11-01T04:25:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Attacker Drains About $437,000 in Collateral From Premia Vaults",
+     "url": "https://thedefiant.io/news/hacks/attacker-drains-about-437-000-in-collateral-from-premia-vaults",
+     "date": "2026-11-01T04:25:39+00:00",
+     "summary": "The attack moved vault collateral into option pools before withdrawing it as liquidity, according to Blockaid."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T04:25:39+00:00",
+   "last_seen": "2026-11-01T04:25:39+00:00",
+   "summary": "The attack moved vault collateral into option pools before withdrawing it as liquidity, according to Blockaid.",
+   "tags": [
+    "defi",
+    "security"
+   ]
+  },
   {
    "id": "98db7c5059",
    "title": "Bitcoin\u2019s recovery faces rising derivatives exposure and $643 million in ETF outflows",

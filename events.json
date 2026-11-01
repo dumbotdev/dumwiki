@@ -1,6 +1,54 @@
 {
- "updated": "2026-10-31T23:50:52.825930+00:00",
+ "updated": "2026-11-01T01:29:07.203129+00:00",
  "events": [
+  {
+   "id": "98db7c5059",
+   "title": "Bitcoin\u2019s recovery faces rising derivatives exposure and $643 million in ETF outflows",
+   "date": "2026-11-01T01:10:55+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s recovery faces rising derivatives exposure and $643 million in ETF outflows",
+     "url": "https://cryptoslate.com/bitcoins-recovery-faces-rising-derivatives-exposure-and-643-million-in-etf-outflows/",
+     "date": "2026-11-01T01:10:55+00:00",
+     "summary": "Higher selected derivatives exposure and ETF redemptions leave the recovery facing a demand test before November 6 payrolls. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T01:10:55+00:00",
+   "last_seen": "2026-11-01T01:10:55+00:00",
+   "summary": "Higher selected derivatives exposure and ETF redemptions leave the recovery facing a demand test before November 6 payrolls. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "c6aa8f65dd",
+   "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+   "date": "2026-11-01T01:10:05+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "FBI confirms North Korea's role in $6 billion Binance hack, asks DeFi community to block BTC, ETH, SOL addresses",
+     "url": "https://www.coindesk.com/policy/2026/10/31/fbi-confirms-north-korea-s-role-in-usd6-billion-binance-hack-asks-defi-community-to-block-btc-eth-sol-addresses",
+     "date": "2026-11-01T01:10:05+00:00",
+     "summary": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T01:10:05+00:00",
+   "last_seen": "2026-11-01T01:10:05+00:00",
+   "summary": "While the FBI listed hundreds of addresses in its notice, Chainalysis said the Binance attackers have already used \"thousands addresses,\" and expects this number to continue growing.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "ethereum",
+    "exchanges",
+    "security",
+    "solana"
+   ]
+  },
   {
    "id": "d9f9d9b26a",
    "title": "Jupiter Lend\u2019s withdrawal liquidity rebounds from near zero to 29 million USDC",

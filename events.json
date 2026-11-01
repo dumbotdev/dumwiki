@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-01T07:23:59.814515+00:00",
+ "updated": "2026-11-01T09:03:03.263371+00:00",
  "events": [
+  {
+   "id": "ded7a4d331",
+   "title": "What Zero LTV Means for an Existing Aave Loan",
+   "date": "2026-11-01T09:02:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "What Zero LTV Means for an Existing Aave Loan",
+     "url": "https://thedefiant.io/news/defi/what-zero-ltv-means-for-an-existing-aave-loan",
+     "date": "2026-11-01T09:02:12+00:00",
+     "summary": "A hypothetical $10,000 collateral position loses $1,500 of borrowing headroom without changing its 1.33 health factor."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T09:02:12+00:00",
+   "last_seen": "2026-11-01T09:02:12+00:00",
+   "summary": "A hypothetical $10,000 collateral position loses $1,500 of borrowing headroom without changing its 1.33 health factor.",
+   "tags": []
+  },
+  {
+   "id": "d58ef97fe5",
+   "title": "Uphold RLUSD Earn vs. Ethena Pay Earn+: Lending and Leverage Compared",
+   "date": "2026-11-01T08:56:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Uphold RLUSD Earn vs. Ethena Pay Earn+: Lending and Leverage Compared",
+     "url": "https://thedefiant.io/news/defi/uphold-rlusd-earn-vs-ethena-pay-earn-lending-and-leverage-compared",
+     "date": "2026-11-01T08:56:05+00:00",
+     "summary": "An equal-$10,000 illustration shows how rising borrowing costs can turn a leveraged stablecoin strategy negative without a depeg."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T08:56:05+00:00",
+   "last_seen": "2026-11-01T08:56:05+00:00",
+   "summary": "An equal-$10,000 illustration shows how rising borrowing costs can turn a leveraged stablecoin strategy negative without a depeg.",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "0d7377052e",
+   "title": "USDT vs. USDC: What Backs Them and How Dollar Redemptions Work",
+   "date": "2026-11-01T08:52:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "USDT vs. USDC: What Backs Them and How Dollar Redemptions Work",
+     "url": "https://thedefiant.io/news/tokens/usdt-vs-usdc-what-backs-them-and-how-dollar-redemptions-work",
+     "date": "2026-11-01T08:52:06+00:00",
+     "summary": "Tether publishes a $100,000 minimum for direct redemption. Circle Mint serves institutions, while a separate European policy provides a retail route subject to checks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T08:52:06+00:00",
+   "last_seen": "2026-11-01T08:52:06+00:00",
+   "summary": "Tether publishes a $100,000 minimum for direct redemption. Circle Mint serves institutions, while a separate European policy provides a retail route subject to checks.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "1ae884ff9c",
+   "title": "FBI blames North Korea for record $6.3B Binance hack",
+   "date": "2026-11-01T07:44:38+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "FBI blames North Korea for record $6.3B Binance hack",
+     "url": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-01T07:44:38+00:00",
+     "summary": "US agency seeks private-sector help to block further money-laundering of stolen digital assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T07:44:38+00:00",
+   "last_seen": "2026-11-01T07:44:38+00:00",
+   "summary": "US agency seeks private-sector help to block further money-laundering of stolen digital assets.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "0c88ebc74c",
    "title": "Binance Begins Reopening Withdrawals With Bitcoin After $6.3 Billion Hack",

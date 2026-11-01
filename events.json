@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-01T09:59:58.465858+00:00",
+ "updated": "2026-11-01T10:55:36.547456+00:00",
  "events": [
+  {
+   "id": "2ceedf3e40",
+   "title": "DeFi Fees, Revenue and Holder Payouts: How the Money Flows",
+   "date": "2026-11-01T10:09:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "DeFi Fees, Revenue and Holder Payouts: How the Money Flows",
+     "url": "https://thedefiant.io/news/defi/defi-fees-revenue-and-holder-payouts-how-the-money-flows",
+     "date": "2026-11-01T10:09:19+00:00",
+     "summary": "Buybacks and burns can count as holder revenue without putting cash in a wallet. A worked example separates those flows from treasury income and staking payouts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T10:09:19+00:00",
+   "last_seen": "2026-11-01T10:09:19+00:00",
+   "summary": "Buybacks and burns can count as holder revenue without putting cash in a wallet. A worked example separates those flows from treasury income and staking payouts.",
+   "tags": [
+    "defi",
+    "macro"
+   ]
+  },
+  {
+   "id": "f80c5c952e",
+   "title": "How Pendle Principal Tokens Turn a Discount Into a Maturity Return",
+   "date": "2026-11-01T10:06:34+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "How Pendle Principal Tokens Turn a Discount Into a Maturity Return",
+     "url": "https://thedefiant.io/news/defi/how-pendle-principal-tokens-turn-a-discount-into-a-maturity-return",
+     "date": "2026-11-01T10:06:34+00:00",
+     "summary": "An early sale replaces the maturity payoff with a market price. A worked example separates annualized yield, redemption units and costs."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T10:06:34+00:00",
+   "last_seen": "2026-11-01T10:06:34+00:00",
+   "summary": "An early sale replaces the maturity payoff with a market price. A worked example separates annualized yield, redemption units and costs.",
+   "tags": [
+    "defi",
+    "markets"
+   ]
+  },
   {
    "id": "0aa76367f3",
    "title": "How Staking Rewards Change Token Holdings and Supply Share",
@@ -226,11 +270,18 @@
      "url": "https://thedefiant.io/news/hacks/binance-begins-reopening-withdrawals-with-bitcoin-after-6-3-billion-hack",
      "date": "2026-11-01T06:25:43+00:00",
      "summary": "The exchange says it has replenished about 95% of the impacted amount, with less-liquid tokens accounting for the remaining 5%."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "Binance opens crypto withdrawals in phases starting with bitcoin following $6.3 billion hack",
+     "url": "https://www.coindesk.com/markets/2026/11/01/binance-opens-crypto-withdrawals-in-phases-starting-with-bitcoin-following-usd6-3-billion-hack",
+     "date": "2026-11-01T10:35:42+00:00",
+     "summary": "Binance reopens customer withdrawals following a record $6.3 billion exploit. Bitcoin leads the first phase."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-01T06:25:43+00:00",
-   "last_seen": "2026-11-01T06:25:43+00:00",
+   "last_seen": "2026-11-01T10:35:42+00:00",
    "summary": "The exchange says it has replenished about 95% of the impacted amount, with less-liquid tokens accounting for the remaining 5%.",
    "tags": [
     "bitcoin",

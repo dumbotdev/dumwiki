@@ -1,6 +1,70 @@
 {
- "updated": "2026-11-01T13:59:14.875124+00:00",
+ "updated": "2026-11-01T14:54:21.899496+00:00",
  "events": [
+  {
+   "id": "a743b7efd1",
+   "title": "Ethereum validators pocket $30 million windfall as Binance hackers lose $119 million in rushed trades",
+   "date": "2026-11-01T14:20:12+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum validators pocket $30 million windfall as Binance hackers lose $119 million in rushed trades",
+     "url": "https://cryptoslate.com/ethereum-validators-pocket-30-million-windfall-as-binance-hackers-lose-119-million-in-rushed-trades/",
+     "date": "2026-11-01T14:20:12+00:00",
+     "summary": "Bitquery estimates about 11,217 ETH reached proposing validators while builders retained about 564 ETH over four and a half hours. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T14:20:12+00:00",
+   "last_seen": "2026-11-01T14:20:12+00:00",
+   "summary": "Bitquery estimates about 11,217 ETH reached proposing validators while builders retained about 564 ETH over four and a half hours. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "9887eb66d9",
+   "title": "How to Run an AI Model Locally\u2014And Why You Might Want To",
+   "date": "2026-11-01T14:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "How to Run an AI Model Locally\u2014And Why You Might Want To",
+     "url": "https://decrypt.co/382295/how-to-run-ai-model-locally-why-you-might-want",
+     "date": "2026-11-01T14:01:02+00:00",
+     "summary": "Free tools like Ollama and LM Studio can run open-weight AI models on your laptop, offline, and without a subscription. Here's how to get started."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T14:01:02+00:00",
+   "last_seen": "2026-11-01T14:01:02+00:00",
+   "summary": "Free tools like Ollama and LM Studio can run open-weight AI models on your laptop, offline, and without a subscription. Here's how to get started.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "e9b7b672ee",
+   "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
+   "date": "2026-11-01T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto PACs made big Republican push in final weeks before November 3 election",
+     "url": "https://www.coindesk.com/policy/2026/11/01/crypto-pacs-made-big-republican-push-in-final-weeks-before-november-3-election",
+     "date": "2026-11-01T14:00:00+00:00",
+     "summary": "Even as polling and online wagers put Democrats at a high chance to claim greater power in Congress, the industry's high-profile support has gone the other direction."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T14:00:00+00:00",
+   "last_seen": "2026-11-01T14:00:00+00:00",
+   "summary": "Even as polling and online wagers put Democrats at a high chance to claim greater power in Congress, the industry's high-profile support has gone the other direction.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "3223ef31ee",
    "title": "DeepSeek developing AI agent requiring less human input: Report",

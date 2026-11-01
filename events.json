@@ -1,6 +1,29 @@
 {
- "updated": "2026-11-01T21:52:33.403600+00:00",
+ "updated": "2026-11-01T22:53:12.225006+00:00",
  "events": [
+  {
+   "id": "dfbdae189a",
+   "title": "What Is RLUSD? Ripple\u2019s Stablecoin Backing and Redemption Explained",
+   "date": "2026-11-01T22:17:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "What Is RLUSD? Ripple\u2019s Stablecoin Backing and Redemption Explained",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/what-is-rlusd-ripple-s-stablecoin-backing-and-redemption-explained",
+     "date": "2026-11-01T22:17:00+00:00",
+     "summary": "Direct dollar redemption requires an approved customer relationship. Exchange sales and Earn lending deposits follow different rules."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T22:17:00+00:00",
+   "last_seen": "2026-11-01T22:17:00+00:00",
+   "summary": "Direct dollar redemption requires an approved customer relationship. Exchange sales and Earn lending deposits follow different rules.",
+   "tags": [
+    "defi",
+    "exchanges",
+    "stablecoins"
+   ]
+  },
   {
    "id": "4ec08bb2a9",
    "title": "Binance Posts $4.54 Billion Net Outflow as Tracked Rivals Gain $564 Million",

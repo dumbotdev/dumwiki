@@ -1,6 +1,49 @@
 {
- "updated": "2026-11-01T10:55:36.547456+00:00",
+ "updated": "2026-11-01T11:51:12.296195+00:00",
  "events": [
+  {
+   "id": "bbdce283b9",
+   "title": "Swell Lifts swETH and rswETH Withdrawal Pauses After Rate Reset",
+   "date": "2026-11-01T11:23:20+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Swell Lifts swETH and rswETH Withdrawal Pauses After Rate Reset",
+     "url": "https://thedefiant.io/news/hacks/swell-lifts-sweth-and-rsweth-withdrawal-pauses-after-rate-reset",
+     "date": "2026-11-01T11:23:20+00:00",
+     "summary": "Swell promises compensation within a week for deposits made at inflated rates, but both tokens\u2019 direct-deposit controls still show a pause."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T11:23:20+00:00",
+   "last_seen": "2026-11-01T11:23:20+00:00",
+   "summary": "Swell promises compensation within a week for deposits made at inflated rates, but both tokens\u2019 direct-deposit controls still show a pause.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "10e56660d4",
+   "title": "AI wants Bitcoin miners\u2019 power, but the contracts reveal who really gets paid",
+   "date": "2026-11-01T11:20:22+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "AI wants Bitcoin miners\u2019 power, but the contracts reveal who really gets paid",
+     "url": "https://cryptoslate.com/ai-wants-bitcoin-miners-power-but-the-contracts-reveal-who-really-gets-paid/",
+     "date": "2026-11-01T11:20:22+00:00",
+     "summary": "Bitcoin miners spent years securing cheap electricity, building substations, and negotiating the grid connections needed to power their operations. Now AI companies want those connections so badly they&#039;re willing to make aging mines valuable real estate. The ASICs that mine..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T11:20:22+00:00",
+   "last_seen": "2026-11-01T11:20:22+00:00",
+   "summary": "Bitcoin miners spent years securing cheap electricity, building substations, and negotiating the grid connections needed to power their operations. Now AI companies want those connections so badly they&#039;re willing to make aging mines valuable real estate. The ASICs that mine...",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
   {
    "id": "2ceedf3e40",
    "title": "DeFi Fees, Revenue and Holder Payouts: How the Money Flows",

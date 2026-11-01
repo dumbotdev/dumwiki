@@ -1,6 +1,69 @@
 {
- "updated": "2026-11-01T13:12:15.655472+00:00",
+ "updated": "2026-11-01T13:59:14.875124+00:00",
  "events": [
+  {
+   "id": "3223ef31ee",
+   "title": "DeepSeek developing AI agent requiring less human input: Report",
+   "date": "2026-11-01T13:40:33+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "DeepSeek developing AI agent requiring less human input: Report",
+     "url": "https://cointelegraph.com/news/deepseek-developing-ai-agent-requiring-less-human-input-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-01T13:40:33+00:00",
+     "summary": "The proposal comes amid intense competition among AI developers, including US companies Anthropic and OpenAI, the SCMP said."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T13:40:33+00:00",
+   "last_seen": "2026-11-01T13:40:33+00:00",
+   "summary": "The proposal comes amid intense competition among AI developers, including US companies Anthropic and OpenAI, the SCMP said.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "53c11b0cae",
+   "title": "Zero-token withdrawals let a hacker drain 97 million CORE from Bitcoin staking platform b14g",
+   "date": "2026-11-01T13:20:52+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Zero-token withdrawals let a hacker drain 97 million CORE from Bitcoin staking platform b14g",
+     "url": "https://cryptoslate.com/zero-token-withdrawals-let-a-hacker-drain-97-million-core-from-bitcoin-staking-platform-b14g/",
+     "date": "2026-11-01T13:20:52+00:00",
+     "summary": "Bitcoin staking platform b14g suffered a $1.47 million exploit on Oct. 31, losing approximately 97 million CORE tokens. The attacker drained 91 staking positions in a single transaction by submitting withdrawal requests for zero CORE, according to an investigation by blockchain..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T13:20:52+00:00",
+   "last_seen": "2026-11-01T13:20:52+00:00",
+   "summary": "Bitcoin staking platform b14g suffered a $1.47 million exploit on Oct. 31, losing approximately 97 million CORE tokens. The attacker drained 91 staking positions in a single transaction by submitting withdrawal requests for zero CORE, according to an investigation by blockchain...",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "security"
+   ]
+  },
+  {
+   "id": "b20b81d700",
+   "title": "OKXICE Stock-Token Objections Reach 50, Including Nvidia",
+   "date": "2026-11-01T13:18:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OKXICE Stock-Token Objections Reach 50, Including Nvidia",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-stock-token-objections-reach-50-including-nvidia",
+     "date": "2026-11-01T13:18:37+00:00",
+     "summary": "Disclosed objections cover 44 of the venue\u2019s original 63 proposed stock symbols, leaving 19 without a disclosed opt-out."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T13:18:37+00:00",
+   "last_seen": "2026-11-01T13:18:37+00:00",
+   "summary": "Disclosed objections cover 44 of the venue\u2019s original 63 proposed stock symbols, leaving 19 without a disclosed opt-out.",
+   "tags": []
+  },
   {
    "id": "1895c97174",
    "title": "Sherrod Brown's Ohio edge threatens a rough go for crypto next year",

@@ -1,6 +1,47 @@
 {
- "updated": "2026-11-01T22:53:12.225006+00:00",
+ "updated": "2026-11-01T23:50:05.436337+00:00",
  "events": [
+  {
+   "id": "75a4832acf",
+   "title": "$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler\u2019s Digest",
+   "date": "2026-11-01T23:09:13+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler\u2019s Digest",
+     "url": "https://cointelegraph.com/magazine/36b-flees-binance-on-reopen-thorchain-co-founder-opposes-coin-freeze-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-01T23:09:13+00:00",
+     "summary": "Binance has reopened withdrawals following the world\u2019s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T23:09:13+00:00",
+   "last_seen": "2026-11-01T23:09:13+00:00",
+   "summary": "Binance has reopened withdrawals following the world\u2019s biggest ever hack, and THORChain co-founder argues it should not halt the protocol to comply with FBI demands.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "df51d501d3",
+   "title": "BTCPay Server Urges Shutdown After Reports of Hot-Wallet Sweeps",
+   "date": "2026-11-01T22:54:59+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "BTCPay Server Urges Shutdown After Reports of Hot-Wallet Sweeps",
+     "url": "https://thedefiant.io/news/hacks/btcpay-server-urges-shutdown-after-reports-of-hot-wallet-sweeps",
+     "date": "2026-11-01T22:54:59+00:00",
+     "summary": "Operators were told to run ./btcpay-down.sh while the project investigates. The alert did not identify affected versions or announce a patch."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-01T22:54:59+00:00",
+   "last_seen": "2026-11-01T22:54:59+00:00",
+   "summary": "Operators were told to run ./btcpay-down.sh while the project investigates. The alert did not identify affected versions or announce a patch.",
+   "tags": []
+  },
   {
    "id": "dfbdae189a",
    "title": "What Is RLUSD? Ripple\u2019s Stablecoin Backing and Redemption Explained",

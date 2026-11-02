@@ -1,6 +1,199 @@
 {
- "updated": "2026-11-02T10:24:17.943297+00:00",
+ "updated": "2026-11-02T12:09:25.550024+00:00",
  "events": [
+  {
+   "id": "da018f3e70",
+   "title": "Standard Chartered Launches 24/7 Tokenized Deposits in Hong Kong",
+   "date": "2026-11-02T12:07:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Standard Chartered Launches 24/7 Tokenized Deposits in Hong Kong",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-24-7-tokenized-deposits-in-hong-kong",
+     "date": "2026-11-02T12:07:19+00:00",
+     "summary": "China AMC, Finloop and PantherTrade have already executed live tokenized-deposit and money-market-fund transactions, the bank says."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T12:07:19+00:00",
+   "last_seen": "2026-11-02T12:07:19+00:00",
+   "summary": "China AMC, Finloop and PantherTrade have already executed live tokenized-deposit and money-market-fund transactions, the bank says.",
+   "tags": []
+  },
+  {
+   "id": "e696ea1ad1",
+   "title": "Coinbase Opens Deribit-Powered Perpetuals to AI Agents",
+   "date": "2026-11-02T12:06:41+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coinbase Opens Deribit-Powered Perpetuals to AI Agents",
+     "url": "https://thedefiant.io/news/cefi/coinbase-opens-deribit-powered-perpetuals-to-ai-agents",
+     "date": "2026-11-02T12:06:41+00:00",
+     "summary": "The global offering requires eligible non-US accounts and derivatives onboarding; trade approvals depend on the connected AI app."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T12:06:41+00:00",
+   "last_seen": "2026-11-02T12:06:41+00:00",
+   "summary": "The global offering requires eligible non-US accounts and derivatives onboarding; trade approvals depend on the connected AI app.",
+   "tags": [
+    "ai",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "d7c0a81f9d",
+   "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+   "date": "2026-11-02T11:57:45+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "No proof of AI in North Korean hackers move of stolen Binance funds",
+     "url": "https://www.coindesk.com/tech/2026/11/02/no-proof-of-ai-in-north-korean-hackers-move-of-stolen-binance-funds-through-thousands-of-wallets",
+     "date": "2026-11-02T11:57:45+00:00",
+     "summary": "Elliptic tracked thousands of transfers, failed swaps and repeated transactions that suggest the hackers relied on scripts rather than AI agents."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T11:57:45+00:00",
+   "last_seen": "2026-11-02T11:57:45+00:00",
+   "summary": "Elliptic tracked thousands of transfers, failed swaps and repeated transactions that suggest the hackers relied on scripts rather than AI agents.",
+   "tags": [
+    "ai",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "c42262e811",
+   "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
+   "date": "2026-11-02T11:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin eases to $77,900 as Binance customers pull $3.6 billion after withdrawals reopen",
+     "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-eases-to-usd77-900-as-binance-customers-pull-usd3-6-billion-after-withdrawals-reopen",
+     "date": "2026-11-02T11:30:00+00:00",
+     "summary": "Bitcoin fell 0.4% to around $77,900 since midnight UTC as Binance customers pulled a net $3.64 billion after withdrawals reopened and ETFs lost $643 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T11:30:00+00:00",
+   "last_seen": "2026-11-02T11:30:00+00:00",
+   "summary": "Bitcoin fell 0.4% to around $77,900 since midnight UTC as Binance customers pulled a net $3.64 billion after withdrawals reopened and ETFs lost $643 million.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "7c72388fe8",
+   "title": "Solana validators told to act immediately as critical Linux vulnerability emerges",
+   "date": "2026-11-02T11:20:48+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Solana validators told to act immediately as critical Linux vulnerability emerges",
+     "url": "https://cryptoslate.com/solana-validators-told-to-act-immediately-as-critical-linux-vulnerability-emerges/",
+     "date": "2026-11-02T11:20:48+00:00",
+     "summary": "Ubuntu\u2019s main 24.04 kernel repair was still pending on Nov. 2, leaving affected operators a separate host-security task. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T11:20:48+00:00",
+   "last_seen": "2026-11-02T11:20:48+00:00",
+   "summary": "Ubuntu\u2019s main 24.04 kernel repair was still pending on Nov. 2, leaving affected operators a separate host-security task. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "abd1fdb6ed",
+   "title": "From Uptober to Hacktober: Are Bitcoin\u2019s seasonal patterns becoming obsolete?",
+   "date": "2026-11-02T11:19:18+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "From Uptober to Hacktober: Are Bitcoin\u2019s seasonal patterns becoming obsolete?",
+     "url": "https://cointelegraph.com/markets/uptober-hacktober-bitcoin-seasonal-pattern?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T11:19:18+00:00",
+     "summary": "Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month\u2019s historically strong returns, as analysts reassess seasonal signals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T11:19:18+00:00",
+   "last_seen": "2026-11-02T11:19:18+00:00",
+   "summary": "Bitcoin lost 7.3% in October 2026 after another decline the previous year, despite the month\u2019s historically strong returns, as analysts reassess seasonal signals.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "8cf865d4bd",
+   "title": "Elliptic Flags First Bitcoin Mixing of Binance Hack Proceeds",
+   "date": "2026-11-02T11:19:01+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Elliptic Flags First Bitcoin Mixing of Binance Hack Proceeds",
+     "url": "https://thedefiant.io/news/hacks/elliptic-flags-first-bitcoin-mixing-of-binance-hack-proceeds",
+     "date": "2026-11-02T11:19:01+00:00",
+     "summary": "The analytics firm traced roughly 12,000 wallets across 11 blockchains and put remaining linked balances at $3.24 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T11:19:01+00:00",
+   "last_seen": "2026-11-02T11:19:01+00:00",
+   "summary": "The analytics firm traced roughly 12,000 wallets across 11 blockchains and put remaining linked balances at $3.24 billion.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "ce0d92dbb4",
+   "title": "Trezor lifts password ceiling after Coldcard\u2019s $100M wallet thefts",
+   "date": "2026-11-02T10:46:59+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Trezor lifts password ceiling after Coldcard\u2019s $100M wallet thefts",
+     "url": "https://cointelegraph.com/news/trezor-wallet-passphrase-limit-128-characters-coldcard-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T10:46:59+00:00",
+     "summary": "Trezor cited July\u2019s Coldcard attacks, in which strong passphrases helped protect some users whose wallet recovery information was compromised."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T10:46:59+00:00",
+   "last_seen": "2026-11-02T10:46:59+00:00",
+   "summary": "Trezor cited July\u2019s Coldcard attacks, in which strong passphrases helped protect some users whose wallet recovery information was compromised.",
+   "tags": []
+  },
+  {
+   "id": "666b62149c",
+   "title": "Visa Stablecoin Payments Explained: Settlement, Spending and Payouts",
+   "date": "2026-11-02T10:26:38+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Visa Stablecoin Payments Explained: Settlement, Spending and Payouts",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/visa-stablecoin-payments-explained-settlement-spending-and-payouts",
+     "date": "2026-11-02T10:26:38+00:00",
+     "summary": "A shopper can spend a stablecoin balance while the merchant receives ordinary money. That is different from using stablecoins to settle between institutions or fund payouts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T10:26:38+00:00",
+   "last_seen": "2026-11-02T10:26:38+00:00",
+   "summary": "A shopper can spend a stablecoin balance while the merchant receives ordinary money. That is different from using stablecoins to settle between institutions or fund payouts.",
+   "tags": [
+    "legal",
+    "stablecoins"
+   ]
+  },
   {
    "id": "97ab53ab49",
    "title": "Ether.fi Explained: Staking, Vaults, Borrowing and Cash",
@@ -1770,11 +1963,18 @@
      "url": "https://cryptoslate.com/fbi-blames-north-korea-for-6-billion-binance-hack-urges-thorchain-to-block-stolen-funds/",
      "date": "2026-11-01T12:20:43+00:00",
      "summary": "The US Federal Bureau of Investigation (FBI) has blamed North Korea&#039;s TraderTraitor operation for stealing more than $6 billion from Binance. In an Oct. 31 security alert, the agency attributed the Oct. 29 attack to North Korean cyber actors, providing official US..."
+    },
+    {
+     "source": "Decrypt",
+     "title": "FBI Blames North Korea for $6B Binance Hack as Exchange Reopens Withdrawals",
+     "url": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
+     "date": "2026-11-02T10:36:19+00:00",
+     "summary": "Binance saw $3.64 billion in net outflows in the first nine and a half hours after reopening withdrawals, or 2.1% of its assets, it said."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-11-01T07:44:38+00:00",
-   "last_seen": "2026-11-01T12:20:43+00:00",
+   "last_seen": "2026-11-02T10:36:19+00:00",
    "summary": "The US Federal Bureau of Investigation (FBI) has blamed North Korea&#039;s TraderTraitor operation for stealing more than $6 billion from Binance. In an Oct. 31 security alert, the agency attributed the Oct. 29 attack to North Korean cyber actors, providing official US...",
    "tags": [
     "exchanges",

@@ -1,6 +1,92 @@
 {
- "updated": "2026-11-02T04:18:03.523069+00:00",
+ "updated": "2026-11-02T06:19:43.640753+00:00",
  "events": [
+  {
+   "id": "ee951070ce",
+   "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+   "date": "2026-11-02T05:34:02+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "BTCPay Server warns of hot wallet thefts running on outdated software",
+     "url": "https://cointelegraph.com/news/btcpay-server-hot-wallet-thefts-older-versions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T05:34:02+00:00",
+     "summary": "BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized attackers draining funds from hot wallets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T05:34:02+00:00",
+   "last_seen": "2026-11-02T05:34:02+00:00",
+   "summary": "BTCPay Server urged operators to shut down their servers after receiving reports of unauthorized attackers draining funds from hot wallets.",
+   "tags": []
+  },
+  {
+   "id": "5c46bf6765",
+   "title": "Strangers are begging the Binance hacker for bitcoin, one \u2018help me bro\u2019 at a time",
+   "date": "2026-11-02T05:18:12+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Strangers are begging the Binance hacker for bitcoin, one \u2018help me bro\u2019 at a time",
+     "url": "https://www.coindesk.com/tech/2026/11/02/strangers-are-begging-the-binance-hacker-for-bitcoin-one-help-me-bro-at-a-time",
+     "date": "2026-11-02T05:18:12+00:00",
+     "summary": "The 19 wallets holding 18,270 stolen BTC have taken in nothing since Thursday except payments worth under a dollar, each carrying a message, from pleas to laundering pitches to a token shill."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T05:18:12+00:00",
+   "last_seen": "2026-11-02T05:18:12+00:00",
+   "summary": "The 19 wallets holding 18,270 stolen BTC have taken in nothing since Thursday except payments worth under a dollar, each carrying a message, from pleas to laundering pitches to a token shill.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "4edd3afc0b",
+   "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+   "date": "2026-11-02T04:42:22+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin claws back toward $79,000 as markets shake off crypto's biggest hack",
+     "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-claws-back-toward-usd79-000-as-markets-shake-off-crypto-s-biggest-hack",
+     "date": "2026-11-02T04:42:22+00:00",
+     "summary": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T04:42:22+00:00",
+   "last_seen": "2026-11-02T04:42:22+00:00",
+   "summary": "ZEC led the majors and oil slid on a report that Trump wants to give Iran diplomacy more time, with U.S. midterm elections on Tuesday.",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "47e591e29f",
+   "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+   "date": "2026-11-02T04:41:16+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "BTCPay, a bitcoin payment tool, tells users to switch off their servers after reports of drained wallets",
+     "url": "https://www.coindesk.com/tech/2026/11/02/btcpay-a-bitcoin-payment-tool-tells-users-to-switch-off-their-servers-after-reports-of-drained-wallets",
+     "date": "2026-11-02T04:41:16+00:00",
+     "summary": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T04:41:16+00:00",
+   "last_seen": "2026-11-02T04:41:16+00:00",
+   "summary": "The open-source project says it is still investigating and hasn't given a loss figure or announced a fix. Its founder said the reports appear to involve versions older than 2.4.2.",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
   {
    "id": "cb77493eb5",
    "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",

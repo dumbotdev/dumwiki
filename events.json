@@ -1,6 +1,228 @@
 {
- "updated": "2026-11-02T18:09:39.981257+00:00",
+ "updated": "2026-11-02T19:15:51.845099+00:00",
  "events": [
+  {
+   "id": "5a423e075b",
+   "title": "New Jersey Rescinds Coinbase Staking Order, Clearing Path for Restart",
+   "date": "2026-11-02T19:11:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "New Jersey Rescinds Coinbase Staking Order, Clearing Path for Restart",
+     "url": "https://thedefiant.io/news/regulation/new-jersey-rescinds-coinbase-staking-order-clearing-path-for-restart",
+     "date": "2026-11-02T19:11:35+00:00",
+     "summary": "The state withdrew its $5 million penalty and staking restrictions without prejudice; Coinbase says customer access will return \u2018very soon.\u2019"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T19:11:35+00:00",
+   "last_seen": "2026-11-02T19:11:35+00:00",
+   "summary": "The state withdrew its $5 million penalty and staking restrictions without prejudice; Coinbase says customer access will return \u2018very soon.\u2019",
+   "tags": [
+    "defi",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "8c662bfc74",
+   "title": "Mercado Bitcoin wallets keep moving funds after $46M hack",
+   "date": "2026-11-02T19:05:35+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Mercado Bitcoin wallets keep moving funds after $46M hack",
+     "url": "https://cointelegraph.com/news/mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T19:05:35+00:00",
+     "summary": "Brazil\u2019s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T19:05:35+00:00",
+   "last_seen": "2026-11-02T19:05:35+00:00",
+   "summary": "Brazil\u2019s exchange Mercado Bitcoin paused deposits and withdrawals after a security breach, saying customer funds and data were safe.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "73a99ee20a",
+   "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+   "date": "2026-11-02T18:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+     "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
+     "date": "2026-11-02T18:46:03+00:00",
+     "summary": "$2.85 billion of the $6.43 billion stolen from Binance has been frozen or seized, compared with about 3% in the Bybit hack, as North Korea\u2019s automated laundering spans 12,000 wallets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T18:46:03+00:00",
+   "last_seen": "2026-11-02T18:46:03+00:00",
+   "summary": "$2.85 billion of the $6.43 billion stolen from Binance has been frozen or seized, compared with about 3% in the Bybit hack, as North Korea\u2019s automated laundering spans 12,000 wallets.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "c5111c6284",
+   "title": "BNB\u2019s $99 million ETF inflows came almost entirely before Binance\u2019s hack",
+   "date": "2026-11-02T18:40:47+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "BNB\u2019s $99 million ETF inflows came almost entirely before Binance\u2019s hack",
+     "url": "https://cryptoslate.com/bnbs-99-million-etf-inflows-came-almost-entirely-before-binances-hack/",
+     "date": "2026-11-02T18:40:47+00:00",
+     "summary": "BNB exchange-traded funds (ETFs) led October inflows among US-listed spot crypto ETFs tracked by SoSoValue, with the largest allocation arriving weeks before Binance suffered a record $6.3 billion cryptocurrency hack. The US-listed VanEck BNB ETF attracted $99 million during the..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T18:40:47+00:00",
+   "last_seen": "2026-11-02T18:40:47+00:00",
+   "summary": "BNB exchange-traded funds (ETFs) led October inflows among US-listed spot crypto ETFs tracked by SoSoValue, with the largest allocation arriving weeks before Binance suffered a record $6.3 billion cryptocurrency hack. The US-listed VanEck BNB ETF attracted $99 million during the...",
+   "tags": [
+    "etfs",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "6f162d1258",
+   "title": "Nvidia, Nike Join 50 Companies Blocking OKX\u2013ICE Stock Token Push",
+   "date": "2026-11-02T18:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Nvidia, Nike Join 50 Companies Blocking OKX\u2013ICE Stock Token Push",
+     "url": "https://bitcoinmagazine.com/news/50-companies-blocks-okx-ice-token",
+     "date": "2026-11-02T18:30:00+00:00",
+     "summary": "Bitcoin Magazine Nvidia, Nike Join 50 Companies Blocking OKX\u2013ICE Stock Token Push Fifty companies, including Nvidia, Microsoft and JPMorgan, have blocked OKX and ICE from tokenizing their shares under the SEC\u2019s new Innovation Exemption. This post Nvidia, Nike Join 50 Companies..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T18:30:00+00:00",
+   "last_seen": "2026-11-02T18:30:00+00:00",
+   "summary": "Bitcoin Magazine Nvidia, Nike Join 50 Companies Blocking OKX\u2013ICE Stock Token Push Fifty companies, including Nvidia, Microsoft and JPMorgan, have blocked OKX and ICE from tokenizing their shares under the SEC\u2019s new Innovation Exemption. This post Nvidia, Nike Join 50 Companies...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "b60b463888",
+   "title": "SEC Staff Clarifies When Token Voters Are Not a 'Central Party'",
+   "date": "2026-11-02T18:28:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SEC Staff Clarifies When Token Voters Are Not a 'Central Party'",
+     "url": "https://thedefiant.io/news/regulation/sec-staff-clarifies-when-token-voters-are-not-a-central-party",
+     "date": "2026-11-02T18:28:35+00:00",
+     "summary": "The guidance distinguishes independent governance participation from coordinated control and identifies unilateral powers that amount to overseeing a crypto system."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T18:28:35+00:00",
+   "last_seen": "2026-11-02T18:28:35+00:00",
+   "summary": "The guidance distinguishes independent governance participation from coordinated control and identifies unilateral powers that amount to overseeing a crypto system.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "95d876320e",
+   "title": "How to Read Crypto Funding Rate Charts Across Exchanges",
+   "date": "2026-11-02T18:22:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "How to Read Crypto Funding Rate Charts Across Exchanges",
+     "url": "https://thedefiant.io/news/markets/how-to-read-crypto-funding-rate-charts-across-exchanges",
+     "date": "2026-11-02T18:22:00+00:00",
+     "summary": "A smaller percentage can imply the same daily funding rate when payment intervals differ. Heatmap colors describe an aggregate, not a count of bullish or bearish traders."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T18:22:00+00:00",
+   "last_seen": "2026-11-02T18:22:00+00:00",
+   "summary": "A smaller percentage can imply the same daily funding rate when payment intervals differ. Heatmap colors describe an aggregate, not a count of bullish or bearish traders.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "e6e24c2b0e",
+   "title": "Horizen\u2019s Nov. 4 Bridge Cutoff Leaves USDC.e Outside DAO Recovery Plan",
+   "date": "2026-11-02T18:20:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Horizen\u2019s Nov. 4 Bridge Cutoff Leaves USDC.e Outside DAO Recovery Plan",
+     "url": "https://thedefiant.io/news/blockchains/horizen-s-nov-4-bridge-cutoff-leaves-usdc-e-outside-dao-recovery-plan",
+     "date": "2026-11-02T18:20:26+00:00",
+     "summary": "The DAO plans to return remaining ZEN, including staking rewards, and eligible ETH balances on Base in the second half of November."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T18:20:26+00:00",
+   "last_seen": "2026-11-02T18:20:26+00:00",
+   "summary": "The DAO plans to return remaining ZEN, including staking rewards, and eligible ETH balances on Base in the second half of November.",
+   "tags": [
+    "defi",
+    "ethereum",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "a37a177111",
+   "title": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
+   "date": "2026-11-02T18:16:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
+     "url": "https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai",
+     "date": "2026-11-02T18:16:02+00:00",
+     "summary": "Proton customers say they are canceling subscriptions after reports of pressure to adopt AI coding, as the privacy company scraps employee re-interviews but defends its broader shift toward automated development."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T18:16:02+00:00",
+   "last_seen": "2026-11-02T18:16:02+00:00",
+   "summary": "Proton customers say they are canceling subscriptions after reports of pressure to adopt AI coding, as the privacy company scraps employee re-interviews but defends its broader shift toward automated development.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "2a873c34b8",
+   "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+   "date": "2026-11-02T18:13:57+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+     "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+     "date": "2026-11-02T18:13:57+00:00",
+     "summary": "Bulls are watching short positions, exchange withdrawals and key price levels for signs of a rebound after the midterms."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T18:13:57+00:00",
+   "last_seen": "2026-11-02T18:13:57+00:00",
+   "summary": "Bulls are watching short positions, exchange withdrawals and key price levels for signs of a rebound after the midterms.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "markets"
+   ]
+  },
   {
    "id": "c957ad55fa",
    "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",

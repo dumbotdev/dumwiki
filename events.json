@@ -1,6 +1,439 @@
 {
- "updated": "2026-11-02T13:30:16.280654+00:00",
+ "updated": "2026-11-02T15:13:18.260956+00:00",
  "events": [
+  {
+   "id": "ec3cfd4480",
+   "title": "Injective Introduces Priority Transaction Rail for Institutions",
+   "date": "2026-11-02T15:09:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Injective Introduces Priority Transaction Rail for Institutions",
+     "url": "https://thedefiant.io/news/infrastructure/injective-introduces-priority-transaction-rail-for-institutions",
+     "date": "2026-11-02T15:09:04+00:00",
+     "summary": "Injective says the service is in limited production, offering early execution feedback while leaving settlement with the full validator network."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T15:09:04+00:00",
+   "last_seen": "2026-11-02T15:09:04+00:00",
+   "summary": "Injective says the service is in limited production, offering early execution feedback while leaving settlement with the full validator network.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "051e1a0e94",
+   "title": "Jito Names First Outside BAM Node Operators",
+   "date": "2026-11-02T15:06:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Jito Names First Outside BAM Node Operators",
+     "url": "https://thedefiant.io/news/infrastructure/jito-names-first-outside-bam-node-operators",
+     "date": "2026-11-02T15:06:19+00:00",
+     "summary": "Triton One, Bitwise and SOL Strategies begin with testnet onboarding. Access for any mainnet validator is targeted for early Q1 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T15:06:19+00:00",
+   "last_seen": "2026-11-02T15:06:19+00:00",
+   "summary": "Triton One, Bitwise and SOL Strategies begin with testnet onboarding. Access for any mainnet validator is targeted for early Q1 2027.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "99eb8c027f",
+   "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
+   "date": "2026-11-02T15:01:36+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
+     "url": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
+     "date": "2026-11-02T15:01:36+00:00",
+     "summary": "Strive bought another 124 BTC, bringing it closer to becoming the second-largest public company holder of bitcoin after Strategy."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T15:01:36+00:00",
+   "last_seen": "2026-11-02T15:01:36+00:00",
+   "summary": "Strive bought another 124 BTC, bringing it closer to becoming the second-largest public company holder of bitcoin after Strategy.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "2b866be8d0",
+   "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
+   "date": "2026-11-02T15:01:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
+     "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
+     "date": "2026-11-02T15:01:03+00:00",
+     "summary": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T15:01:03+00:00",
+   "last_seen": "2026-11-02T15:01:03+00:00",
+   "summary": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework.",
+   "tags": []
+  },
+  {
+   "id": "c62fe666fc",
+   "title": "Crypto's Washington playbook is working. Don't abandon it now.",
+   "date": "2026-11-02T15:00:09+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto's Washington playbook is working. Don't abandon it now.",
+     "url": "https://www.coindesk.com/opinion/2026/11/02/crypto-s-washington-playbook-is-working-don-t-abandon-it-now",
+     "date": "2026-11-02T15:00:09+00:00",
+     "summary": "Regardless of how the midterm elections unfold or which party secures the presidency in 2028, our industry must adhere to its established playbook, writes Solana Policy Institute\u2019s Colin McLaren."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T15:00:09+00:00",
+   "last_seen": "2026-11-02T15:00:09+00:00",
+   "summary": "Regardless of how the midterm elections unfold or which party secures the presidency in 2028, our industry must adhere to its established playbook, writes Solana Policy Institute\u2019s Colin McLaren.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "66e3845bd2",
+   "title": "Binance Reopens Withdrawals as Hack Recovery Enters Second Week",
+   "date": "2026-11-02T14:57:34+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Binance Reopens Withdrawals as Hack Recovery Enters Second Week",
+     "url": "https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack",
+     "date": "2026-11-02T14:57:34+00:00",
+     "summary": "Bitcoin Magazine Binance Reopens Withdrawals as Hack Recovery Enters Second Week Binance has reopened withdrawals after its $6.3 billion North Korea hack, covered 95% of losses, and has reserves for the remaining 5%, with post-mortem reviews to stay open. This post Binance..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T14:57:34+00:00",
+   "last_seen": "2026-11-02T14:57:34+00:00",
+   "summary": "Bitcoin Magazine Binance Reopens Withdrawals as Hack Recovery Enters Second Week Binance has reopened withdrawals after its $6.3 billion North Korea hack, covered 95% of losses, and has reserves for the remaining 5%, with post-mortem reviews to stay open. This post Binance...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "ea7152e874",
+   "title": "Mercado Bitcoin Keeps Withdrawals Suspended, Identifies Incident Wallets",
+   "date": "2026-11-02T14:50:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Mercado Bitcoin Keeps Withdrawals Suspended, Identifies Incident Wallets",
+     "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-keeps-withdrawals-suspended-identifies-incident-wallets",
+     "date": "2026-11-02T14:50:48+00:00",
+     "summary": "The exchange says customers suffered no losses. Its latest disclosure links the incident to destination wallets receiving bitcoin, ether and other assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T14:50:48+00:00",
+   "last_seen": "2026-11-02T14:50:48+00:00",
+   "summary": "The exchange says customers suffered no losses. Its latest disclosure links the incident to destination wallets receiving bitcoin, ether and other assets.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "d1db3df203",
+   "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+   "date": "2026-11-02T14:40:53+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+     "url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+     "date": "2026-11-02T14:40:53+00:00",
+     "summary": "Bitmine added 8,573 ETH last week, lifting holdings to 6.06 million ETH, as Tom Lee flagged muted market response to Binance's hack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T14:40:53+00:00",
+   "last_seen": "2026-11-02T14:40:53+00:00",
+   "summary": "Bitmine added 8,573 ETH last week, lifting holdings to 6.06 million ETH, as Tom Lee flagged muted market response to Binance's hack.",
+   "tags": [
+    "ethereum",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "44d0d1b6e7",
+   "title": "Ethereum added 361,000 ETH to active stake while its total staking balance shrank",
+   "date": "2026-11-02T14:40:10+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum added 361,000 ETH to active stake while its total staking balance shrank",
+     "url": "https://cryptoslate.com/ethereums-active-staking-share-rose-while-october-withdrawals-outpaced-deposits/",
+     "date": "2026-11-02T14:40:10+00:00",
+     "summary": "CryptoKeyhole\u2019s October 1\u201330 series imply more ETH counted as active stake while the wider consensus balance shrank. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T14:40:10+00:00",
+   "last_seen": "2026-11-02T14:40:10+00:00",
+   "summary": "CryptoKeyhole\u2019s October 1\u201330 series imply more ETH counted as active stake while the wider consensus balance shrank. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "9a788c7ce4",
+   "title": "Binance Sees $5.14 Billion in Daily Net Outflows After Withdrawal Restart",
+   "date": "2026-11-02T14:39:20+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Sees $5.14 Billion in Daily Net Outflows After Withdrawal Restart",
+     "url": "https://thedefiant.io/news/hacks/binance-sees-5-14-billion-in-daily-net-outflows-after-withdrawal-restart",
+     "date": "2026-11-02T14:39:20+00:00",
+     "summary": "Weekly net outflows reached nearly $14 billion, while the next nine venues by tracked assets recorded $507 million in combined daily net inflows."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T14:39:20+00:00",
+   "last_seen": "2026-11-02T14:39:20+00:00",
+   "summary": "Weekly net outflows reached nearly $14 billion, while the next nine venues by tracked assets recorded $507 million in combined daily net inflows.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "e37c5c1d77",
+   "title": "Bitwise\u2019s Andr\u00e9 Dragosch: Bitcoin\u2019s \u201cFair Value\u201d of $197,000",
+   "date": "2026-11-02T14:36:15+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitwise\u2019s Andr\u00e9 Dragosch: Bitcoin\u2019s \u201cFair Value\u201d of $197,000",
+     "url": "https://bitcoinmagazine.com/videos/bitwises-andre-dragosch-bitcoins-fair-value-of-197000",
+     "date": "2026-11-02T14:36:15+00:00",
+     "summary": "&#9654; Bitcoin Magazine Bitwise\u2019s Andr\u00e9 Dragosch: Bitcoin\u2019s \u201cFair Value\u201d of $197,000 Andr\u00e9 Dragosch details Bitcoin as a liquidity canary, its $197K model fair value, Fed policy shifts, recession risks, and capital rotation from precious metals. This post Bitwise\u2019s Andr\u00e9..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T14:36:15+00:00",
+   "last_seen": "2026-11-02T14:36:15+00:00",
+   "summary": "&#9654; Bitcoin Magazine Bitwise\u2019s Andr\u00e9 Dragosch: Bitcoin\u2019s \u201cFair Value\u201d of $197,000 Andr\u00e9 Dragosch details Bitcoin as a liquidity canary, its $197K model fair value, Fed policy shifts, recession risks, and capital rotation from precious metals. This post Bitwise\u2019s Andr\u00e9...",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "macro"
+   ]
+  },
+  {
+   "id": "2b1bfece3e",
+   "title": "Adam Back: Pension Funds Are Bitcoin\u2019s \u201cThird Wave\u201d of Adoption",
+   "date": "2026-11-02T14:29:48+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Adam Back: Pension Funds Are Bitcoin\u2019s \u201cThird Wave\u201d of Adoption",
+     "url": "https://bitcoinmagazine.com/videos/adam-back-pension-funds-are-bitcoins-third-wave-of-adoption",
+     "date": "2026-11-02T14:29:48+00:00",
+     "summary": "&#9654; Bitcoin Magazine Adam Back: Pension Funds Are Bitcoin&#8217;s &#8220;Third Wave&#8221; of Adoption Adam Back explains why Bitcoin\u2019s third wave\u2014pensions, managed funds, and model portfolios\u2014is still to come, and how Swiss banks are already preparing. This post Adam Back:..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T14:29:48+00:00",
+   "last_seen": "2026-11-02T14:29:48+00:00",
+   "summary": "&#9654; Bitcoin Magazine Adam Back: Pension Funds Are Bitcoin&#8217;s &#8220;Third Wave&#8221; of Adoption Adam Back explains why Bitcoin\u2019s third wave\u2014pensions, managed funds, and model portfolios\u2014is still to come, and how Swiss banks are already preparing. This post Adam Back:...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "3f09c9148a",
+   "title": "Coinbase downgraded at Morgan Stanely; price target slashed 53% on weak earnings outlook",
+   "date": "2026-11-02T14:29:33+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Coinbase downgraded at Morgan Stanely; price target slashed 53% on weak earnings outlook",
+     "url": "https://www.coindesk.com/markets/2026/11/02/morgan-stanley-downgrades-coinbase-slashes-price-target-53-on-weak-earnings-outlook",
+     "date": "2026-11-02T14:29:33+00:00",
+     "summary": "Analyst Michael Cyprys cited weak crypto trading activity and doubts about an earnings recovery."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T14:29:33+00:00",
+   "last_seen": "2026-11-02T14:29:33+00:00",
+   "summary": "Analyst Michael Cyprys cited weak crypto trading activity and doubts about an earnings recovery.",
+   "tags": [
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "cd1dda1d10",
+   "title": "Crypto Treasury Stocks: How mNAV and Dilution Affect Value",
+   "date": "2026-11-02T14:15:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Crypto Treasury Stocks: How mNAV and Dilution Affect Value",
+     "url": "https://thedefiant.io/news/markets/crypto-treasury-stocks-how-mnav-and-dilution-affect-value",
+     "date": "2026-11-02T14:15:06+00:00",
+     "summary": "A bigger bitcoin or ether treasury need not mean more crypto per share\u2014or a positive stock return. Strategy\u2019s disclosures show why the valuation formula matters."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T14:15:06+00:00",
+   "last_seen": "2026-11-02T14:15:06+00:00",
+   "summary": "A bigger bitcoin or ether treasury need not mean more crypto per share\u2014or a positive stock return. Strategy\u2019s disclosures show why the valuation formula matters.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "e50a7f6b92",
+   "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
+   "date": "2026-11-02T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Tokenization firm tZERO plans to go public in $350 million SPAC deal",
+     "url": "https://www.coindesk.com/business/2026/11/01/tokenization-firm-tzero-plans-to-go-public-in-usd350-million-spac-deal",
+     "date": "2026-11-02T14:00:00+00:00",
+     "summary": "The digital securities firm plans to list on NYSE American under TZRO early next year after more than a decade building blockchain-based trading infrastructure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T14:00:00+00:00",
+   "last_seen": "2026-11-02T14:00:00+00:00",
+   "summary": "The digital securities firm plans to list on NYSE American under TZRO early next year after more than a decade building blockchain-based trading infrastructure.",
+   "tags": []
+  },
+  {
+   "id": "c077d16251",
+   "title": "Strategy (MSTR) Adds 811 Bitcoin, Strive (ASST) Follows Suit With 124 as Both Keep Stacking",
+   "date": "2026-11-02T13:50:53+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Strategy (MSTR) Adds 811 Bitcoin, Strive (ASST) Follows Suit With 124 as Both Keep Stacking",
+     "url": "https://bitcoinmagazine.com/news/strategy-mstr-adds-811-bitcoin-strive-too",
+     "date": "2026-11-02T13:50:53+00:00",
+     "summary": "Bitcoin Magazine Strategy (MSTR) Adds 811 Bitcoin, Strive (ASST) Follows Suit With 124 as Both Keep Stacking Strategy bought 811 bitcoin for $65.5 million and Strive added 124 BTC last week, with the two firms together adding 935 coins and Strategy now holding 849,327 BTC. This..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T13:50:53+00:00",
+   "last_seen": "2026-11-02T13:50:53+00:00",
+   "summary": "Bitcoin Magazine Strategy (MSTR) Adds 811 Bitcoin, Strive (ASST) Follows Suit With 124 as Both Keep Stacking Strategy bought 811 bitcoin for $65.5 million and Strive added 124 BTC last week, with the two firms together adding 935 coins and Strategy now holding 849,327 BTC. This...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "d5e9d04ce8",
+   "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
+   "date": "2026-11-02T13:48:28+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
+     "url": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T13:48:28+00:00",
+     "summary": "Strategy spent $208.2 million buying back STRC preferred shares and $65.5 million on Bitcoin, while allocating $98.5 million to its USD Cash balance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T13:48:28+00:00",
+   "last_seen": "2026-11-02T13:48:28+00:00",
+   "summary": "Strategy spent $208.2 million buying back STRC preferred shares and $65.5 million on Bitcoin, while allocating $98.5 million to its USD Cash balance.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "9dae39f76c",
+   "title": "Akash\u2019s Solana plan would end current staking rewards while allowing new AKT issuance",
+   "date": "2026-11-02T13:40:29+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Akash\u2019s Solana plan would end current staking rewards while allowing new AKT issuance",
+     "url": "https://cryptoslate.com/akashs-solana-plan-would-end-current-staking-rewards-while-allowing-new-akt-issuance/",
+     "date": "2026-11-02T13:40:29+00:00",
+     "summary": "The proposal separates the end of old-chain rewards from future provider and treasury incentives, whose emission amounts remain unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T13:40:29+00:00",
+   "last_seen": "2026-11-02T13:40:29+00:00",
+   "summary": "The proposal separates the end of old-chain rewards from future provider and treasury incentives, whose emission amounts remain unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi",
+    "macro",
+    "solana"
+   ]
+  },
+  {
+   "id": "d7f5749715",
+   "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
+   "date": "2026-11-02T13:34:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
+     "url": "https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe",
+     "date": "2026-11-02T13:34:02+00:00",
+     "summary": "Uptober was far from it, with the Binance hack punctuating a red month. Will November be better? Or will the Binance hack hang over crypto?"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T13:34:02+00:00",
+   "last_seen": "2026-11-02T13:34:02+00:00",
+   "summary": "Uptober was far from it, with the Binance hack punctuating a red month. Will November be better? Or will the Binance hack hang over crypto?",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "5143a4f489",
+   "title": "AI agent disputes head to \u2018Internet Court\u2019 \u2014 and a jury of AI agents",
+   "date": "2026-11-02T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "AI agent disputes head to \u2018Internet Court\u2019 \u2014 and a jury of AI agents",
+     "url": "https://cointelegraph.com/magazine/ai-agent-disputes-sent-to-internet-court-and-a-jury-of-ai-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T13:30:00+00:00",
+     "summary": "Who better to judge a dispute between AI agents than a jury of different AI models? That\u2019s the idea behind GenLayer, which is already issuing thousands of judgements each day."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T13:30:00+00:00",
+   "last_seen": "2026-11-02T13:30:00+00:00",
+   "summary": "Who better to judge a dispute between AI agents than a jury of different AI models? That\u2019s the idea behind GenLayer, which is already issuing thousands of judgements each day.",
+   "tags": [
+    "ai",
+    "legal"
+   ]
+  },
   {
    "id": "6b6749a0b8",
    "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
@@ -271,12 +704,19 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/standard-chartered-launches-24-7-tokenized-deposits-in-hong-kong",
      "date": "2026-11-02T12:07:19+00:00",
      "summary": "China AMC, Finloop and PantherTrade have already executed live tokenized-deposit and money-market-fund transactions, the bank says."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "Standard Chartered debuts tokenized deposits in Hong Kong for corporate clients",
+     "url": "https://www.coindesk.com/business/2026/11/02/standard-chartered-debuts-tokenized-deposits-in-hong-kong-for-corporate-clients",
+     "date": "2026-11-02T15:05:24+00:00",
+     "summary": "The bank uses Hong Kong's EnsembleTX system to move deposits between participating banks around the clock, settling in central bank money."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-02T12:07:19+00:00",
-   "last_seen": "2026-11-02T12:07:19+00:00",
-   "summary": "China AMC, Finloop and PantherTrade have already executed live tokenized-deposit and money-market-fund transactions, the bank says.",
+   "last_seen": "2026-11-02T15:05:24+00:00",
+   "summary": "The bank uses Hong Kong's EnsembleTX system to move deposits between participating banks around the clock, settling in central bank money.",
    "tags": []
   },
   {

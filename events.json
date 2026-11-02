@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-02T01:28:52.849716+00:00",
+ "updated": "2026-11-02T03:09:01.484143+00:00",
  "events": [
+  {
+   "id": "7c310e547e",
+   "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+   "date": "2026-11-02T01:51:48+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "THORChain halts swaps after block reorg bug, slowing Binance hackers",
+     "url": "https://cointelegraph.com/news/thorchain-halts-swaps-after-block-reorg-bug-slowing-binance-hackers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T01:51:48+00:00",
+     "summary": "THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T01:51:48+00:00",
+   "last_seen": "2026-11-02T01:51:48+00:00",
+   "summary": "THORChain node operators paused swaps involving assets on 10 networks, including Bitcoin, Ethereum, Solana and Tron.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "solana"
+   ]
+  },
   {
    "id": "b7a3135601",
    "title": "Ethena Explained: USDe, sUSDe, Rewards and Exit Routes",

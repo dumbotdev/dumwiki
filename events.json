@@ -1,6 +1,113 @@
 {
- "updated": "2026-11-02T20:07:36.258269+00:00",
+ "updated": "2026-11-02T20:59:34.412025+00:00",
  "events": [
+  {
+   "id": "b7bb518780",
+   "title": "Arthur Hayes wants to hedge AI compute bills, but FLOP token swings could change the cost",
+   "date": "2026-11-02T20:40:01+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Arthur Hayes wants to hedge AI compute bills, but FLOP token swings could change the cost",
+     "url": "https://cryptoslate.com/arthur-hayes-wants-to-hedge-ai-compute-bills-but-flop-token-swings-could-change-the-cost/",
+     "date": "2026-11-02T20:40:01+00:00",
+     "summary": "His proposed dollar-settled contracts track a FLOP-priced benchmark, leaving inference buyers to match token, model and rollover exposure. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T20:40:01+00:00",
+   "last_seen": "2026-11-02T20:40:01+00:00",
+   "summary": "His proposed dollar-settled contracts track a FLOP-priced benchmark, leaving inference buyers to match token, model and rollover exposure. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "5dd82a03f4",
+   "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
+   "date": "2026-11-02T20:36:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
+     "url": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
+     "date": "2026-11-02T20:36:03+00:00",
+     "summary": "Anthropic says Claude wrote an attack that can take over a Linux server with no password. Red Hat patched on Sunday, but Ubuntu still has no fix."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T20:36:03+00:00",
+   "last_seen": "2026-11-02T20:36:03+00:00",
+   "summary": "Anthropic says Claude wrote an attack that can take over a Linux server with no password. Red Hat patched on Sunday, but Ubuntu still has no fix.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "9cd1208ccb",
+   "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
+   "date": "2026-11-02T20:22:23+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
+     "url": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T20:22:23+00:00",
+     "summary": "Slowing trading activity and fallout from the Binance hack are clouding Coinbase\u2019s revenue prospects, prompting Morgan Stanley to lower its rating on the stock."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T20:22:23+00:00",
+   "last_seen": "2026-11-02T20:22:23+00:00",
+   "summary": "Slowing trading activity and fallout from the Binance hack are clouding Coinbase\u2019s revenue prospects, prompting Morgan Stanley to lower its rating on the stock.",
+   "tags": [
+    "exchanges",
+    "markets",
+    "security"
+   ]
+  },
+  {
+   "id": "aed037551b",
+   "title": "Mercado Bitcoin, Brazil\u2019s largest crypto exchange, hit by $46 million security breach",
+   "date": "2026-11-02T20:19:49+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Mercado Bitcoin, Brazil\u2019s largest crypto exchange, hit by $46 million security breach",
+     "url": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+     "date": "2026-11-02T20:19:49+00:00",
+     "summary": "Brazil's largest crypto exchange Mercado Bitcoin confirmed earlier Monday a security incident and paused withdrawals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T20:19:49+00:00",
+   "last_seen": "2026-11-02T20:19:49+00:00",
+   "summary": "Brazil's largest crypto exchange Mercado Bitcoin confirmed earlier Monday a security incident and paused withdrawals.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "0ced7799c5",
+   "title": "BNB Chain Brings Payment Lane to Testnet in Jenner Upgrade",
+   "date": "2026-11-02T20:07:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "BNB Chain Brings Payment Lane to Testnet in Jenner Upgrade",
+     "url": "https://thedefiant.io/news/blockchains/bnb-chain-brings-payment-lane-to-testnet-in-jenner-upgrade",
+     "date": "2026-11-02T20:07:33+00:00",
+     "summary": "The upgrade introduces a default 5% gas reservation for eligible payments, while token listings and CAS20 activation require separate governance steps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T20:07:33+00:00",
+   "last_seen": "2026-11-02T20:07:33+00:00",
+   "summary": "The upgrade introduces a default 5% gas reservation for eligible payments, while token listings and CAS20 activation require separate governance steps.",
+   "tags": []
+  },
   {
    "id": "e2f96809c7",
    "title": "Akash Stakers Approve Move From Cosmos to Solana",

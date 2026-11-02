@@ -1,6 +1,265 @@
 {
- "updated": "2026-11-02T12:09:25.550024+00:00",
+ "updated": "2026-11-02T13:30:16.280654+00:00",
  "events": [
+  {
+   "id": "6b6749a0b8",
+   "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+   "date": "2026-11-02T13:21:47+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+     "url": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T13:21:47+00:00",
+     "summary": "Binance\u2019s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring the $1 billion fund."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T13:21:47+00:00",
+   "last_seen": "2026-11-02T13:21:47+00:00",
+   "summary": "Binance\u2019s SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring the $1 billion fund.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "204702fddb",
+   "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
+   "date": "2026-11-02T13:19:36+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
+     "url": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase",
+     "date": "2026-11-02T13:19:36+00:00",
+     "summary": "The Bitcoin treasury firm also spent $208.2 million buying back its STRC preferred stock, cutting its USD Cash balance to $132.7 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T13:19:36+00:00",
+   "last_seen": "2026-11-02T13:19:36+00:00",
+   "summary": "The Bitcoin treasury firm also spent $208.2 million buying back its STRC preferred stock, cutting its USD Cash balance to $132.7 million.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "5b6337e5f5",
+   "title": "\u2018We found room for even more orange\u2019: Michael Saylor\u2019s Strategy scoops up another 811 bitcoin for $65.5 million",
+   "date": "2026-11-02T13:09:43+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "\u2018We found room for even more orange\u2019: Michael Saylor\u2019s Strategy scoops up another 811 bitcoin for $65.5 million",
+     "url": "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275",
+     "date": "2026-11-02T13:09:43+00:00",
+     "summary": "The latest bitcoin acquisition disclosure comes after Strategy reported $19.5 billion in third quarter net income on Thursday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T13:09:43+00:00",
+   "last_seen": "2026-11-02T13:09:43+00:00",
+   "summary": "The latest bitcoin acquisition disclosure comes after Strategy reported $19.5 billion in third quarter net income on Thursday.",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "958daf6f6c",
+   "title": "FATF targets crypto hubs in review of money laundering controls",
+   "date": "2026-11-02T12:56:07+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "FATF targets crypto hubs in review of money laundering controls",
+     "url": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T12:56:07+00:00",
+     "summary": "The watchdog has not named the jurisdictions under review. Initial findings on compliance with its crypto standards are due in June 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T12:56:07+00:00",
+   "last_seen": "2026-11-02T12:56:07+00:00",
+   "summary": "The watchdog has not named the jurisdictions under review. Initial findings on compliance with its crypto standards are due in June 2027.",
+   "tags": []
+  },
+  {
+   "id": "627c5e219f",
+   "title": "XRP Ledger Token-Permission Fix Heads for Wednesday Activation",
+   "date": "2026-11-02T12:50:23+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "XRP Ledger Token-Permission Fix Heads for Wednesday Activation",
+     "url": "https://thedefiant.io/news/security/xrp-ledger-token-permission-fix-heads-for-wednesday-activation",
+     "date": "2026-11-02T12:50:23+00:00",
+     "summary": "The amendment has 33 of 35 trusted validators behind it. Separate proposals to block unapproved token holders remain under review."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T12:50:23+00:00",
+   "last_seen": "2026-11-02T12:50:23+00:00",
+   "summary": "The amendment has 33 of 35 trusted validators behind it. Separate proposals to block unapproved token holders remain under review.",
+   "tags": []
+  },
+  {
+   "id": "6fcd9bc8c0",
+   "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+   "date": "2026-11-02T12:40:45+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+     "url": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T12:40:45+00:00",
+     "summary": "Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T12:40:45+00:00",
+   "last_seen": "2026-11-02T12:40:45+00:00",
+   "summary": "Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security",
+    "solana"
+   ]
+  },
+  {
+   "id": "cc8da5679f",
+   "title": "Bitcoin catches a break from falling oil prices, but OPEC+ raises new Fed concerns",
+   "date": "2026-11-02T12:40:41+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin catches a break from falling oil prices, but OPEC+ raises new Fed concerns",
+     "url": "https://cryptoslate.com/bitcoin-catches-a-break-from-falling-oil-prices-but-opec-raises-new-fed-concerns/",
+     "date": "2026-11-02T12:40:41+00:00",
+     "summary": "Gasoline drove most of September&#039;s monthly CPI rise, while persistent oil constraints could delay financing relief for Bitcoin. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T12:40:41+00:00",
+   "last_seen": "2026-11-02T12:40:41+00:00",
+   "summary": "Gasoline drove most of September&#039;s monthly CPI rise, while persistent oil constraints could delay financing relief for Bitcoin. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "9c92d4cfc3",
+   "title": "ZachXBT Flags Suspected $106 Million-Plus Theft From EU Entity",
+   "date": "2026-11-02T12:38:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "ZachXBT Flags Suspected $106 Million-Plus Theft From EU Entity",
+     "url": "https://thedefiant.io/news/hacks/zachxbt-flags-suspected-106-million-plus-theft-from-eu-entity",
+     "date": "2026-11-02T12:38:09+00:00",
+     "summary": "The investigator says funds withdrawn from multiple exchange accounts were being swapped into ETH and routed through instant exchanges, Monero and cross-chain bridges."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T12:38:09+00:00",
+   "last_seen": "2026-11-02T12:38:09+00:00",
+   "summary": "The investigator says funds withdrawn from multiple exchange accounts were being swapped into ETH and routed through instant exchanges, Monero and cross-chain bridges.",
+   "tags": [
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "c70923af0b",
+   "title": "XRP Ledger set to fix flaw that could let stablecoin partners print new tokens",
+   "date": "2026-11-02T12:37:24+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "XRP Ledger set to fix flaw that could let stablecoin partners print new tokens",
+     "url": "https://www.coindesk.com/tech/2026/11/02/xrp-ledger-set-to-fix-flaw-that-could-let-stablecoin-partners-print-new-tokens",
+     "date": "2026-11-02T12:37:24+00:00",
+     "summary": "The fix is on track for Wednesday after validator support briefly dipped and restarted the two-week activation clock. XRP itself is unaffected."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T12:37:24+00:00",
+   "last_seen": "2026-11-02T12:37:24+00:00",
+   "summary": "The fix is on track for Wednesday after validator support briefly dipped and restarted the two-week activation clock. XRP itself is unaffected.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "811a4c7892",
+   "title": "Core Fork Recovers 68.15 Million CORE After b14g Hack",
+   "date": "2026-11-02T12:30:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Core Fork Recovers 68.15 Million CORE After b14g Hack",
+     "url": "https://thedefiant.io/news/hacks/core-fork-recovers-68-15-million-core-after-b14g-hack",
+     "date": "2026-11-02T12:30:35+00:00",
+     "summary": "The recovery covers about 70% of affected tokens, but users have not been repaid and no claims process is open."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T12:30:35+00:00",
+   "last_seen": "2026-11-02T12:30:35+00:00",
+   "summary": "The recovery covers about 70% of affected tokens, but users have not been repaid and no claims process is open.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "a19e969cfc",
+   "title": "Bitcoin's 'volatility curve' has a midterm bump",
+   "date": "2026-11-02T12:30:17+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin's 'volatility curve' has a midterm bump",
+     "url": "https://www.coindesk.com/daybook-us/2026/11/02/bitcoin-s-volatility-curve-has-a-midterm-bump",
+     "date": "2026-11-02T12:30:17+00:00",
+     "summary": "Your day-ahead look for Nov. 2, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T12:30:17+00:00",
+   "last_seen": "2026-11-02T12:30:17+00:00",
+   "summary": "Your day-ahead look for Nov. 2, 2026",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "89a581288b",
+   "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
+   "date": "2026-11-02T12:24:18+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
+     "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
+     "date": "2026-11-02T12:24:18+00:00",
+     "summary": "The Bitcoin payment software says attacks targeted versions 2.4.1 and older, days after it shipped an emergency fix for a critical flaw."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T12:24:18+00:00",
+   "last_seen": "2026-11-02T12:24:18+00:00",
+   "summary": "The Bitcoin payment software says attacks targeted versions 2.4.1 and older, days after it shipped an emergency fix for a critical flaw.",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
   {
    "id": "da018f3e70",
    "title": "Standard Chartered Launches 24/7 Tokenized Deposits in Hong Kong",

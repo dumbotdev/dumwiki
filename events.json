@@ -1,6 +1,242 @@
 {
- "updated": "2026-11-02T16:20:42.294328+00:00",
+ "updated": "2026-11-02T18:09:39.981257+00:00",
  "events": [
+  {
+   "id": "c957ad55fa",
+   "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+   "date": "2026-11-02T18:00:16+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Animoca Brands clears final hurdle for Abu Dhabi fund management",
+     "url": "https://cointelegraph.com/news/animoca-brands-expands-asset-management-business-with-abu-dhabi-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T18:00:16+00:00",
+     "summary": "The regulatory approval marks another step in Animoca\u2019s shift from blockchain gaming and venture investing toward regulated institutional financial services."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T18:00:16+00:00",
+   "last_seen": "2026-11-02T18:00:16+00:00",
+   "summary": "The regulatory approval marks another step in Animoca\u2019s shift from blockchain gaming and venture investing toward regulated institutional financial services.",
+   "tags": []
+  },
+  {
+   "id": "a1f38d8c15",
+   "title": "Eclair tightens Bitcoin funding rules after unconfirmed inputs put Lightning payments at risk",
+   "date": "2026-11-02T17:40:27+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Eclair tightens Bitcoin funding rules after unconfirmed inputs put Lightning payments at risk",
+     "url": "https://cryptoslate.com/eclair-tightens-bitcoin-funding-rules-after-unconfirmed-inputs-put-lightning-payments-at-risk/",
+     "date": "2026-11-02T17:40:27+00:00",
+     "summary": "The October 27 release requires confirmed peer inputs for splices by default and improves recovery when a channel must close with funding still pending. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T17:40:27+00:00",
+   "last_seen": "2026-11-02T17:40:27+00:00",
+   "summary": "The October 27 release requires confirmed peer inputs for splices by default and improves recovery when a channel must close with funding still pending. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "612e4dfbb8",
+   "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
+   "date": "2026-11-02T17:36:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Nvidia and Nike Lead Biggest Wave Yet of Tokenized Stock Objections",
+     "url": "https://decrypt.co/382348/nvidia-nike-biggest-wave-yet-tokenized-stock-objections",
+     "date": "2026-11-02T17:36:03+00:00",
+     "summary": "Nvidia, Costco, Nike and nine other companies objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 50."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T17:36:03+00:00",
+   "last_seen": "2026-11-02T17:36:03+00:00",
+   "summary": "Nvidia, Costco, Nike and nine other companies objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 50.",
+   "tags": []
+  },
+  {
+   "id": "6a2c20fc26",
+   "title": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
+   "date": "2026-11-02T17:07:28+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Elon Musk Mocks Sam Altman Over Claim Home PCs Are Wasting RAM",
+     "url": "https://decrypt.co/382345/elon-musk-mocks-sam-altman-over-claim-home-pcs-are-wasting-ram",
+     "date": "2026-11-02T17:07:28+00:00",
+     "summary": "The OpenAI CEO said it's \"quite terrible\" for DRAM to sit largely idle in personal computers while AI data centers face a supply crunch."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T17:07:28+00:00",
+   "last_seen": "2026-11-02T17:07:28+00:00",
+   "summary": "The OpenAI CEO said it's \"quite terrible\" for DRAM to sit largely idle in personal computers while AI data centers face a supply crunch.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "1a379d3138",
+   "title": "Researcher Puts Mercado Bitcoin Freezes Near $7 Million",
+   "date": "2026-11-02T17:07:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Researcher Puts Mercado Bitcoin Freezes Near $7 Million",
+     "url": "https://thedefiant.io/news/hacks/researcher-puts-mercado-bitcoin-freezes-near-7-million",
+     "date": "2026-11-02T17:07:05+00:00",
+     "summary": "Onchain records show Circle freezing USDC on Polygon and Paxos freezing gold tokens on Ethereum, while exchange withdrawals remain suspended."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T17:07:05+00:00",
+   "last_seen": "2026-11-02T17:07:05+00:00",
+   "summary": "Onchain records show Circle freezing USDC on Polygon and Paxos freezing gold tokens on Ethereum, while exchange withdrawals remain suspended.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "d04ad1e3a9",
+   "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
+   "date": "2026-11-02T16:52:55+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
+     "url": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321",
+     "date": "2026-11-02T16:52:55+00:00",
+     "summary": "Binance users can now independently verify 1:1 backing for BTC, ETH, BNB, SOL, XRP and more as it replenishes 95% of assets lost in record hack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T16:52:55+00:00",
+   "last_seen": "2026-11-02T16:52:55+00:00",
+   "summary": "Binance users can now independently verify 1:1 backing for BTC, ETH, BNB, SOL, XRP and more as it replenishes 95% of assets lost in record hack.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "security",
+    "solana"
+   ]
+  },
+  {
+   "id": "ffb125e33c",
+   "title": "NYSE Taps Broadridge for Onchain Shareholder Voting",
+   "date": "2026-11-02T16:48:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "NYSE Taps Broadridge for Onchain Shareholder Voting",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/nyse-taps-broadridge-for-onchain-shareholder-voting",
+     "date": "2026-11-02T16:48:54+00:00",
+     "summary": "Token holders would use wallets, broker interfaces or ProxyVote, while the planned trading venue still awaits regulatory approval."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T16:48:54+00:00",
+   "last_seen": "2026-11-02T16:48:54+00:00",
+   "summary": "Token holders would use wallets, broker interfaces or ProxyVote, while the planned trading venue still awaits regulatory approval.",
+   "tags": []
+  },
+  {
+   "id": "f932309c99",
+   "title": "SBI Plans $100 Million Investment in US Digital Bank Erebor",
+   "date": "2026-11-02T16:44:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SBI Plans $100 Million Investment in US Digital Bank Erebor",
+     "url": "https://thedefiant.io/converge/cefi/sbi-plans-100-million-investment-in-us-digital-bank-erebor",
+     "date": "2026-11-02T16:44:33+00:00",
+     "summary": "Erebor held more than $7 billion in deposits in September, SBI says, and supports blockchain settlement outside banking hours."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T16:44:33+00:00",
+   "last_seen": "2026-11-02T16:44:33+00:00",
+   "summary": "Erebor held more than $7 billion in deposits in September, SBI says, and supports blockchain settlement outside banking hours.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "2dc19a1a6d",
+   "title": "NYSE taps Wall Street giant Broadridge to bring shareholder voting to tokenized stocks",
+   "date": "2026-11-02T16:41:46+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "NYSE taps Wall Street giant Broadridge to bring shareholder voting to tokenized stocks",
+     "url": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
+     "date": "2026-11-02T16:41:46+00:00",
+     "summary": "A key provider of shareholder voting and corporate services on Wall Street, Broadridge will help bring investor rights onchain for the exchange's upcoming venue."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T16:41:46+00:00",
+   "last_seen": "2026-11-02T16:41:46+00:00",
+   "summary": "A key provider of shareholder voting and corporate services on Wall Street, Broadridge will help bring investor rights onchain for the exchange's upcoming venue.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "0df2549761",
+   "title": "ETH vaults lagged staking while dollar strategies beat Treasuries, Glassnode finds",
+   "date": "2026-11-02T16:40:04+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "ETH vaults lagged staking while dollar strategies beat Treasuries, Glassnode finds",
+     "url": "https://cryptoslate.com/eth-vaults-trailed-staking-as-glassnodes-wider-sample-grew-in-september/",
+     "date": "2026-11-02T16:40:04+00:00",
+     "summary": "Glassnode\u2019s latest review puts September ETH vaults behind staking and USD curators ahead of Treasuries, despite growth in its tracked balance. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T16:40:04+00:00",
+   "last_seen": "2026-11-02T16:40:04+00:00",
+   "summary": "Glassnode\u2019s latest review puts September ETH vaults behind staking and USD curators ahead of Treasuries, despite growth in its tracked balance. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "1bc19a9daf",
+   "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+   "date": "2026-11-02T16:23:24+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+     "url": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
+     "date": "2026-11-02T16:23:24+00:00",
+     "summary": "The chairman laid out six reasons the market\u2019s \u201cmuted\u201d 4% ETH drop after the record Binance theft shows crypto is \u201cincreasingly resilient,\u201d as the firm\u2019s stash neared its 5% supply goal."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T16:23:24+00:00",
+   "last_seen": "2026-11-02T16:23:24+00:00",
+   "summary": "The chairman laid out six reasons the market\u2019s \u201cmuted\u201d 4% ETH drop after the record Binance theft shows crypto is \u201cincreasingly resilient,\u201d as the firm\u2019s stash neared its 5% supply goal.",
+   "tags": [
+    "ethereum",
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "9687092d80",
    "title": "Arkham Says Mercado Bitcoin Attacker Holds $46 Million",
@@ -55,16 +291,24 @@
      "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
      "date": "2026-11-02T15:53:29+00:00",
      "summary": "The Brazilian exchange paused deposits and withdrawals after wallets on at least 10 chains were emptied, days after the $6.3 billion Binance hack."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
+     "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+     "date": "2026-11-02T16:46:03+00:00",
+     "summary": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-02T15:53:29+00:00",
-   "last_seen": "2026-11-02T15:53:29+00:00",
-   "summary": "The Brazilian exchange paused deposits and withdrawals after wallets on at least 10 chains were emptied, days after the $6.3 billion Binance hack.",
+   "last_seen": "2026-11-02T16:46:03+00:00",
+   "summary": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack.",
    "tags": [
     "bitcoin",
     "exchanges",
-    "security"
+    "security",
+    "stablecoins"
    ]
   },
   {
@@ -792,11 +1036,18 @@
      "url": "https://thedefiant.io/news/hacks/zachxbt-flags-suspected-106-million-plus-theft-from-eu-entity",
      "date": "2026-11-02T12:38:09+00:00",
      "summary": "The investigator says funds withdrawn from multiple exchange accounts were being swapped into ETH and routed through instant exchanges, Monero and cross-chain bridges."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
+     "url": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
+     "date": "2026-11-02T17:21:04+00:00",
+     "summary": "The unidentified attacker moved funds through ether, instant exchanges and Monero, but the victim and affected exchanges remain unknown."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-02T12:38:09+00:00",
-   "last_seen": "2026-11-02T12:38:09+00:00",
+   "last_seen": "2026-11-02T17:21:04+00:00",
    "summary": "The investigator says funds withdrawn from multiple exchange accounts were being swapped into ETH and routed through instant exchanges, Monero and cross-chain bridges.",
    "tags": [
     "ethereum",

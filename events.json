@@ -1,6 +1,397 @@
 {
- "updated": "2026-11-02T08:34:38.433994+00:00",
+ "updated": "2026-11-02T10:24:17.943297+00:00",
  "events": [
+  {
+   "id": "97ab53ab49",
+   "title": "Ether.fi Explained: Staking, Vaults, Borrowing and Cash",
+   "date": "2026-11-02T10:17:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ether.fi Explained: Staking, Vaults, Borrowing and Cash",
+     "url": "https://thedefiant.io/news/defi/ether-fi-explained-staking-vaults-borrowing-and-cash",
+     "date": "2026-11-02T10:17:54+00:00",
+     "summary": "Staking tokens, managed-vault shares and collateral-backed loans carry different exposures. Cash adds card access, subject to identity and geographic checks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T10:17:54+00:00",
+   "last_seen": "2026-11-02T10:17:54+00:00",
+   "summary": "Staking tokens, managed-vault shares and collateral-backed loans carry different exposures. Cash adds card access, subject to identity and geographic checks.",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "db967ccea7",
+   "title": "Swell Opens Ethereum Claims for Tokens Stranded by Swellchain Shutdown",
+   "date": "2026-11-02T10:15:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Swell Opens Ethereum Claims for Tokens Stranded by Swellchain Shutdown",
+     "url": "https://thedefiant.io/news/defi/swell-opens-ethereum-claims-for-tokens-stranded-by-swellchain-shutdown",
+     "date": "2026-11-02T10:15:42+00:00",
+     "summary": "The project reported recovering 72.77 million SWELL, 100.99 swETH and 55.28 rswETH through a temporary BNB Chain bridge route."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T10:15:42+00:00",
+   "last_seen": "2026-11-02T10:15:42+00:00",
+   "summary": "The project reported recovering 72.77 million SWELL, 100.99 swETH and 55.28 rswETH through a temporary BNB Chain bridge route.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "d590bd6223",
+   "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+   "date": "2026-11-02T10:14:55+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Hong Kong takes tokenized settlement to 24/7, plans stablecoin trials",
+     "url": "https://cointelegraph.com/news/hong-kong-24-7-tokenized-settlements-stablecoin-trials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T10:14:55+00:00",
+     "summary": "The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T10:14:55+00:00",
+   "last_seen": "2026-11-02T10:14:55+00:00",
+   "summary": "The HKMA plans to bring regulated stablecoins into tokenized government debt trials, while HSBC says its RedCoin stablecoin has reached 50,000 users.",
+   "tags": [
+    "legal",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "639fbbeab6",
+   "title": "USDY, OUSG and Ondo Stock Tokens Compared",
+   "date": "2026-11-02T10:04:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "USDY, OUSG and Ondo Stock Tokens Compared",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/usdy-ousg-and-ondo-stock-tokens-compared",
+     "date": "2026-11-02T10:04:37+00:00",
+     "summary": "The products offer different claims on traditional assets. A market purchase does not establish that the buyer can redeem directly with the issuer."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T10:04:37+00:00",
+   "last_seen": "2026-11-02T10:04:37+00:00",
+   "summary": "The products offer different claims on traditional assets. A market purchase does not establish that the buyer can redeem directly with the issuer.",
+   "tags": []
+  },
+  {
+   "id": "45657b7d20",
+   "title": "Polygon brings US banking access to Solana\u2019s $15 billion stablecoin market",
+   "date": "2026-11-02T10:00:53+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Polygon brings US banking access to Solana\u2019s $15 billion stablecoin market",
+     "url": "https://cryptoslate.com/polygon-brings-us-banking-access-to-solanas-15-billion-stablecoin-market/",
+     "date": "2026-11-02T10:00:53+00:00",
+     "summary": "Polygon\u2019s OMS expansion lets eligible foreign businesses connect Solana stablecoins to bank rails after verification, within early-access and jurisdiction limits. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T10:00:53+00:00",
+   "last_seen": "2026-11-02T10:00:53+00:00",
+   "summary": "Polygon\u2019s OMS expansion lets eligible foreign businesses connect Solana stablecoins to bank rails after verification, within early-access and jurisdiction limits. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The...",
+   "tags": [
+    "solana",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "1c156019b2",
+   "title": "What Is Kinexys? A Guide to J.P. Morgan\u2019s Blockchain Accounts and JPM Coin",
+   "date": "2026-11-02T09:49:27+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "What Is Kinexys? A Guide to J.P. Morgan\u2019s Blockchain Accounts and JPM Coin",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/what-is-kinexys-a-guide-to-j-p-morgan-s-blockchain-accounts-and-jpm-coin",
+     "date": "2026-11-02T09:49:27+00:00",
+     "summary": "Blockchain Deposit Accounts support bank payments in eight currencies. JPM Coin takes dollar deposits onto public blockchains, but participation remains restricted."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T09:49:27+00:00",
+   "last_seen": "2026-11-02T09:49:27+00:00",
+   "summary": "Blockchain Deposit Accounts support bank payments in eight currencies. JPM Coin takes dollar deposits onto public blockchains, but participation remains restricted.",
+   "tags": []
+  },
+  {
+   "id": "5b50509b2e",
+   "title": "What Does Securitize Do? A Guide to Its Fund Services",
+   "date": "2026-11-02T09:44:29+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "What Does Securitize Do? A Guide to Its Fund Services",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/what-does-securitize-do-a-guide-to-its-fund-services",
+     "date": "2026-11-02T09:44:29+00:00",
+     "summary": "Separate affiliates handle ownership records, distribution, trading, administration and investment advice. BlackRock\u2019s BUIDL illustrates how those services fit around a fund\u2019s own manager and exit terms."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T09:44:29+00:00",
+   "last_seen": "2026-11-02T09:44:29+00:00",
+   "summary": "Separate affiliates handle ownership records, distribution, trading, administration and investment advice. BlackRock\u2019s BUIDL illustrates how those services fit around a fund\u2019s own manager and exit terms.",
+   "tags": []
+  },
+  {
+   "id": "dfb1f19ce2",
+   "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
+   "date": "2026-11-02T09:41:36+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "BTC heads into US midterm showdown: Three things to know in Bitcoin this week",
+     "url": "https://cointelegraph.com/markets/btc-price-script-midterms-three-things-bitcoin-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T09:41:36+00:00",
+     "summary": "Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatility."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T09:41:36+00:00",
+   "last_seen": "2026-11-02T09:41:36+00:00",
+   "summary": "Bitcoin price action held its 100-day moving average into the monthly close as crypto markets braced for US midterm election and tech earnings volatility.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "8135bbf9ea",
+   "title": "Jupiter Lend Explained: Deposits, Borrowing and Withdrawals",
+   "date": "2026-11-02T09:38:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Jupiter Lend Explained: Deposits, Borrowing and Withdrawals",
+     "url": "https://thedefiant.io/news/defi/jupiter-lend-explained-deposits-borrowing-and-withdrawals",
+     "date": "2026-11-02T09:38:26+00:00",
+     "summary": "Earn lenders hold deposit receipts, while Borrow and Multiply users have collateral-backed debt positions. Available cash and withdrawal rules determine immediate exit access."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T09:38:26+00:00",
+   "last_seen": "2026-11-02T09:38:26+00:00",
+   "summary": "Earn lenders hold deposit receipts, while Borrow and Multiply users have collateral-backed debt positions. Available cash and withdrawal rules determine immediate exit access.",
+   "tags": []
+  },
+  {
+   "id": "fb517c5644",
+   "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
+   "date": "2026-11-02T09:33:20+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Metals.io issues tokens backed by 25 tonnes of physical copper stored in Germany",
+     "url": "https://www.coindesk.com/markets/2026/11/02/metals-io-issues-tokens-backed-by-25-tonnes-of-physical-copper-stored-in-germany",
+     "date": "2026-11-02T09:33:20+00:00",
+     "summary": "The company is starting with $366,000 worth of copper stored in Germany, hoping to build a market for investors to own and trade physical metal onchain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T09:33:20+00:00",
+   "last_seen": "2026-11-02T09:33:20+00:00",
+   "summary": "The company is starting with $366,000 worth of copper stored in Germany, hoping to build a market for investors to own and trade physical metal onchain.",
+   "tags": []
+  },
+  {
+   "id": "95806681ed",
+   "title": "Canton Explained: How Privacy, Access and Settlement Work",
+   "date": "2026-11-02T09:26:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Canton Explained: How Privacy, Access and Settlement Work",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/canton-explained-how-privacy-access-and-settlement-work",
+     "date": "2026-11-02T09:26:51+00:00",
+     "summary": "Participant nodes check the transactions involving their users. Shared infrastructure coordinates the outcome, while banks and trading venues set separate product-access rules."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T09:26:51+00:00",
+   "last_seen": "2026-11-02T09:26:51+00:00",
+   "summary": "Participant nodes check the transactions involving their users. Shared infrastructure coordinates the outcome, while banks and trading venues set separate product-access rules.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "5df8f73cda",
+   "title": "What Is Hyperliquid? A Guide to HyperCore, HyperEVM and Builder Markets",
+   "date": "2026-11-02T09:25:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "What Is Hyperliquid? A Guide to HyperCore, HyperEVM and Builder Markets",
+     "url": "https://thedefiant.io/news/defi/what-is-hyperliquid-a-guide-to-hypercore-hyperevm-and-builder-markets",
+     "date": "2026-11-02T09:25:31+00:00",
+     "summary": "HyperCore handles trading, HyperEVM runs applications, and independent market deployers set product rules. Their collateral and withdrawal dependencies differ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T09:25:31+00:00",
+   "last_seen": "2026-11-02T09:25:31+00:00",
+   "summary": "HyperCore handles trading, HyperEVM runs applications, and independent market deployers set product rules. Their collateral and withdrawal dependencies differ.",
+   "tags": []
+  },
+  {
+   "id": "718e4e780d",
+   "title": "What Is Chainlink CCIP? Tokens, Messages and Cross-Chain Completion",
+   "date": "2026-11-02T09:20:38+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "What Is Chainlink CCIP? Tokens, Messages and Cross-Chain Completion",
+     "url": "https://thedefiant.io/news/infrastructure/what-is-chainlink-ccip-tokens-messages-and-cross-chain-completion",
+     "date": "2026-11-02T09:20:38+00:00",
+     "summary": "A successful send is only the beginning: destination delivery depends on verification, finality settings and execution. Price data is a separate Chainlink service."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T09:20:38+00:00",
+   "last_seen": "2026-11-02T09:20:38+00:00",
+   "summary": "A successful send is only the beginning: destination delivery depends on verification, finality settings and execution. Price data is a separate Chainlink service.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "087ca509ec",
+   "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
+   "date": "2026-11-02T09:04:49+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Binance hack fallout, U.S. midterms and jobs report: Crypto Week Ahead",
+     "url": "https://www.coindesk.com/markets/2026/11/02/binance-hack-fallout-u-s-midterms-and-jobs-report-crypto-week-ahead",
+     "date": "2026-11-02T09:04:49+00:00",
+     "summary": "Your look at what\u2019s coming in the week starting Nov. 2."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T09:04:49+00:00",
+   "last_seen": "2026-11-02T09:04:49+00:00",
+   "summary": "Your look at what\u2019s coming in the week starting Nov. 2.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "162b87dda5",
+   "title": "Curve Explained: Stablecoin Pools, LP Exposure and Lending",
+   "date": "2026-11-02T09:02:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Curve Explained: Stablecoin Pools, LP Exposure and Lending",
+     "url": "https://thedefiant.io/news/defi/curve-explained-stablecoin-pools-lp-exposure-and-lending",
+     "date": "2026-11-02T09:02:13+00:00",
+     "summary": "An LP token represents a share of a changing asset mix. Trading fees, token incentives and lending interest come from different sources."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T09:02:13+00:00",
+   "last_seen": "2026-11-02T09:02:13+00:00",
+   "summary": "An LP token represents a share of a changing asset mix. Trading fees, token incentives and lending interest come from different sources.",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f70d2885fc",
+   "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
+   "date": "2026-11-02T08:56:03+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "OKX draws $445M in net inflows as Binance outflows exceed $7B",
+     "url": "https://cointelegraph.com/news/okx-leads-crypto-exchanges-445m-inflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T08:56:03+00:00",
+     "summary": "OKX led cryptocurrency exchanges with $445 million in daily inflows, while Binance processed about $7 billion in net outflows."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T08:56:03+00:00",
+   "last_seen": "2026-11-02T08:56:03+00:00",
+   "summary": "OKX led cryptocurrency exchanges with $445 million in daily inflows, while Binance processed about $7 billion in net outflows.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "5ba88311db",
+   "title": "Bitcoin Lightning\u2019s year-old security fixes still missing from 71% of flagged nodes",
+   "date": "2026-11-02T08:55:32+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin Lightning\u2019s year-old security fixes still missing from 71% of flagged nodes",
+     "url": "https://cryptoslate.com/bitcoin-lightnings-year-old-security-fixes-still-missing-from-71-of-flagged-nodes/",
+     "date": "2026-11-02T08:55:32+00:00",
+     "summary": "An October 21 preprint estimates 71% of an exposed LND cohort remained on affected release lines at its October 13 cutoff. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T08:55:32+00:00",
+   "last_seen": "2026-11-02T08:55:32+00:00",
+   "summary": "An October 21 preprint estimates 71% of an exposed LND cohort remained on affected release lines at its October 13 cutoff. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "687ec0335d",
+   "title": "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings",
+   "date": "2026-11-02T08:49:30+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Binance records $6 billion outflows after starting withdrawals, less then 4% of total holdings",
+     "url": "https://www.coindesk.com/markets/2026/11/02/live-updates-binance-records-usd6-billion-outflows-after-starting-withdrawals-less-then-4-of-total-holdings",
+     "date": "2026-11-02T08:49:30+00:00",
+     "summary": "The outflows followed a 45-hour withdrawal freeze after a $6.3 billion theft, with rival exchanges attracting deposits as customers regained access to their funds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T08:49:30+00:00",
+   "last_seen": "2026-11-02T08:49:30+00:00",
+   "summary": "The outflows followed a 45-hour withdrawal freeze after a $6.3 billion theft, with rival exchanges attracting deposits as customers regained access to their funds.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "9f2bd7b1d9",
+   "title": "China\u2019s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
+   "date": "2026-11-02T08:41:28+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "China\u2019s Communist Party calls for a crackdown on corruption that uses crypto and blockchain",
+     "url": "https://www.coindesk.com/markets/2026/11/02/china-s-communist-party-calls-for-a-crackdown-on-corruption-that-uses-crypto-and-blockchain",
+     "date": "2026-11-02T08:41:28+00:00",
+     "summary": "China's Communist Party has named virtual currency and blockchain in a new anti-corruption call."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T08:41:28+00:00",
+   "last_seen": "2026-11-02T08:41:28+00:00",
+   "summary": "China's Communist Party has named virtual currency and blockchain in a new anti-corruption call.",
+   "tags": []
+  },
   {
    "id": "0d1766667b",
    "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",

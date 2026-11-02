@@ -1,6 +1,201 @@
 {
- "updated": "2026-11-02T15:13:18.260956+00:00",
+ "updated": "2026-11-02T16:20:42.294328+00:00",
  "events": [
+  {
+   "id": "9687092d80",
+   "title": "Arkham Says Mercado Bitcoin Attacker Holds $46 Million",
+   "date": "2026-11-02T16:14:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Arkham Says Mercado Bitcoin Attacker Holds $46 Million",
+     "url": "https://thedefiant.io/news/hacks/arkham-says-mercado-bitcoin-attacker-holds-46-million",
+     "date": "2026-11-02T16:14:47+00:00",
+     "summary": "The tracker groups 36 addresses. Mercado Bitcoin says customers suffered no losses but has not disclosed a total loss."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T16:14:47+00:00",
+   "last_seen": "2026-11-02T16:14:47+00:00",
+   "summary": "The tracker groups 36 addresses. Mercado Bitcoin says customers suffered no losses but has not disclosed a total loss.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "442a8ce1ca",
+   "title": "Brazil\u2019s Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident, Losses Estimated Near $40 Million",
+   "date": "2026-11-02T16:09:05+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Brazil\u2019s Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident, Losses Estimated Near $40 Million",
+     "url": "https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million",
+     "date": "2026-11-02T16:09:05+00:00",
+     "summary": "Bitcoin Magazine Brazil\u2019s Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident, Losses Estimated Near $40 Million Brazil\u2019s largest crypto exchange Mercado Bitcoin says customers suffered no losses, but it has not said how much was taken or when it..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T16:09:05+00:00",
+   "last_seen": "2026-11-02T16:09:05+00:00",
+   "summary": "Bitcoin Magazine Brazil\u2019s Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident, Losses Estimated Near $40 Million Brazil\u2019s largest crypto exchange Mercado Bitcoin says customers suffered no losses, but it has not said how much was taken or when it...",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "0c58ce19e8",
+   "title": "Brazil\u2019s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+   "date": "2026-11-02T15:53:29+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Brazil\u2019s Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+     "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+     "date": "2026-11-02T15:53:29+00:00",
+     "summary": "The Brazilian exchange paused deposits and withdrawals after wallets on at least 10 chains were emptied, days after the $6.3 billion Binance hack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T15:53:29+00:00",
+   "last_seen": "2026-11-02T15:53:29+00:00",
+   "summary": "The Brazilian exchange paused deposits and withdrawals after wallets on at least 10 chains were emptied, days after the $6.3 billion Binance hack.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "9725d4dbea",
+   "title": "Relay Reports Route Disruptions in Bid to Block Binance-Hack Funds",
+   "date": "2026-11-02T15:49:45+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Relay Reports Route Disruptions in Bid to Block Binance-Hack Funds",
+     "url": "https://thedefiant.io/news/hacks/relay-reports-route-disruptions-in-bid-to-block-binance-hack-funds",
+     "date": "2026-11-02T15:49:45+00:00",
+     "summary": "The bridge says no user action is needed and is working with Binance and law enforcement to screen hacker-linked addresses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T15:49:45+00:00",
+   "last_seen": "2026-11-02T15:49:45+00:00",
+   "summary": "The bridge says no user action is needed and is working with Binance and law enforcement to screen hacker-linked addresses.",
+   "tags": [
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "67aa68382c",
+   "title": "Core Lightning nodes can keep crashing after an upgrade until a stored trigger is removed",
+   "date": "2026-11-02T15:40:25+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Core Lightning nodes can keep crashing after an upgrade until a stored trigger is removed",
+     "url": "https://cryptoslate.com/core-lightning-nodes-can-keep-crashing-after-an-upgrade-because-the-trigger-stays-on-disk/",
+     "date": "2026-11-02T15:40:25+00:00",
+     "summary": "The flaw was patched in April, but a malicious announcement already saved on an affected node needs separate removal. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T15:40:25+00:00",
+   "last_seen": "2026-11-02T15:40:25+00:00",
+   "summary": "The flaw was patched in April, but a malicious announcement already saved on an affected node needs separate removal. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "aee09a6e4e",
+   "title": "Nvidia, Costco and Nike join pushback against OKX\u2013ICE tokenized stock plans",
+   "date": "2026-11-02T15:26:43+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Nvidia, Costco and Nike join pushback against OKX\u2013ICE tokenized stock plans",
+     "url": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
+     "date": "2026-11-02T15:26:43+00:00",
+     "summary": "Nearly 70% of the companies initially picked for trading have opted out, while 19 firms including Apple, Tesla and Amazon have no disclosed objection as the 30-day response window nears its end."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T15:26:43+00:00",
+   "last_seen": "2026-11-02T15:26:43+00:00",
+   "summary": "Nearly 70% of the companies initially picked for trading have opted out, while 19 firms including Apple, Tesla and Amazon have no disclosed objection as the 30-day response window nears its end.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "43750f9e02",
+   "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
+   "date": "2026-11-02T15:18:55+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Anthropic swings to third quarter operating loss as compute costs surge ahead of IPO",
+     "url": "https://www.coindesk.com/markets/2026/11/02/anthropic-swings-to-third-quarter-operating-loss-as-compute-costs-surge-ahead-of-ipo",
+     "date": "2026-11-02T15:18:55+00:00",
+     "summary": "The Claude developer generated $17 billion in quarterly revenue, but higher computing costs resulted in a $567 million operating loss."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T15:18:55+00:00",
+   "last_seen": "2026-11-02T15:18:55+00:00",
+   "summary": "The Claude developer generated $17 billion in quarterly revenue, but higher computing costs resulted in a $567 million operating loss.",
+   "tags": [
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "0130fb91e1",
+   "title": "Uniswap Extends VolatilePair Hook to Robinhood Chain",
+   "date": "2026-11-02T15:17:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Uniswap Extends VolatilePair Hook to Robinhood Chain",
+     "url": "https://thedefiant.io/news/defi/uniswap-extends-volatilepair-hook-to-robinhood-chain",
+     "date": "2026-11-02T15:17:56+00:00",
+     "summary": "The ETH/USDG pool has about $3.5 million in liquidity and uses a tighter resting fee spread than its Ethereum counterpart."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T15:17:56+00:00",
+   "last_seen": "2026-11-02T15:17:56+00:00",
+   "summary": "The ETH/USDG pool has about $3.5 million in liquidity and uses a tighter resting fee spread than its Ethereum counterpart.",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "044e359cbb",
+   "title": "Tether Says It Froze Over 4.5 Million USDT Tied to Mercado Bitcoin Incident",
+   "date": "2026-11-02T15:17:24+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tether Says It Froze Over 4.5 Million USDT Tied to Mercado Bitcoin Incident",
+     "url": "https://thedefiant.io/news/hacks/tether-says-it-froze-over-4-5-million-usdt-tied-to-mercado-bitcoin-incident",
+     "date": "2026-11-02T15:17:24+00:00",
+     "summary": "Ethereum and Tron records confirm blacklist actions against exchange-identified wallets, while deposits and withdrawals remain suspended."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T15:17:24+00:00",
+   "last_seen": "2026-11-02T15:17:24+00:00",
+   "summary": "Ethereum and Tron records confirm blacklist actions against exchange-identified wallets, while deposits and withdrawals remain suspended.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "stablecoins"
+   ]
+  },
   {
    "id": "ec3cfd4480",
    "title": "Injective Introduces Priority Transaction Rail for Institutions",

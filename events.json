@@ -1,6 +1,160 @@
 {
- "updated": "2026-11-02T06:19:43.640753+00:00",
+ "updated": "2026-11-02T08:34:38.433994+00:00",
  "events": [
+  {
+   "id": "0d1766667b",
+   "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
+   "date": "2026-11-02T08:32:01+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Why stealing billions from a crypto exchange can be harder to stop than a bank theft",
+     "url": "https://www.coindesk.com/business/2026/11/02/why-crypto-exchange-hacks-can-be-harder-to-contain-versus-global-banks",
+     "date": "2026-11-02T08:32:01+00:00",
+     "summary": "The $6.3 billion Binance breach has revived a debate over whether crypto exchanges are less secure than banks or simply harder to protect once hackers get inside."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T08:32:01+00:00",
+   "last_seen": "2026-11-02T08:32:01+00:00",
+   "summary": "The $6.3 billion Binance breach has revived a debate over whether crypto exchanges are less secure than banks or simply harder to protect once hackers get inside.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "0b33d04caa",
+   "title": "Binance Restores USD Withdrawals as Post-Hack Reopening Expands",
+   "date": "2026-11-02T08:09:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Restores USD Withdrawals as Post-Hack Reopening Expands",
+     "url": "https://thedefiant.io/news/cefi/binance-restores-usd-withdrawals-as-post-hack-reopening-expands",
+     "date": "2026-11-02T08:09:37+00:00",
+     "summary": "The exchange says all 15 initial crypto network groups have reopened, but withdrawals for several other tokens remain suspended."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T08:09:37+00:00",
+   "last_seen": "2026-11-02T08:09:37+00:00",
+   "summary": "The exchange says all 15 initial crypto network groups have reopened, but withdrawals for several other tokens remain suspended.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "9734e32e28",
+   "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+   "date": "2026-11-02T07:50:36+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin ETFs sink into October outflows with $643M exit after Binance hack",
+     "url": "https://cointelegraph.com/markets/bitcoin-etfs-october-red-binance-hack-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T07:50:36+00:00",
+     "summary": "US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T07:50:36+00:00",
+   "last_seen": "2026-11-02T07:50:36+00:00",
+   "summary": "US spot Bitcoin ETFs ended October with $515 million in net withdrawals, while Ether funds posted a record $1.61 billion in monthly outflows.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "8a06dea9c7",
+   "title": "Binance Attacker Splits $292 Million in XRP Across Six Wallets",
+   "date": "2026-11-02T07:42:43+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Attacker Splits $292 Million in XRP Across Six Wallets",
+     "url": "https://thedefiant.io/news/hacks/binance-attacker-splits-292-million-in-xrp-across-six-wallets",
+     "date": "2026-11-02T07:42:43+00:00",
+     "summary": "The six recipients showed no outgoing payments, but native XRP cannot be frozen by Ripple, leaving exchanges as a potential interception point."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T07:42:43+00:00",
+   "last_seen": "2026-11-02T07:42:43+00:00",
+   "summary": "The six recipients showed no outgoing payments, but native XRP cannot be frozen by Ripple, leaving exchanges as a potential interception point.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "9d05a42b2d",
+   "title": "BTCPay Links Hot-Wallet Drains to Versions 2.4.1 and Older",
+   "date": "2026-11-02T07:18:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "BTCPay Links Hot-Wallet Drains to Versions 2.4.1 and Older",
+     "url": "https://thedefiant.io/news/hacks/btcpay-links-hot-wallet-drains-to-versions-2-4-1-and-older",
+     "date": "2026-11-02T07:18:33+00:00",
+     "summary": "The team urges operators to update and says it has no credible reports of drains on the latest 2.4.7 release."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T07:18:33+00:00",
+   "last_seen": "2026-11-02T07:18:33+00:00",
+   "summary": "The team urges operators to update and says it has no credible reports of drains on the latest 2.4.7 release.",
+   "tags": []
+  },
+  {
+   "id": "d6caf5dee6",
+   "title": "Treasury dealers\u2019 financing burden can outlast their bond holdings, Fed study finds",
+   "date": "2026-11-02T07:00:53+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Treasury dealers\u2019 financing burden can outlast their bond holdings, Fed study finds",
+     "url": "https://cryptoslate.com/treasury-dealers-financing-burden-can-outlast-their-bond-holdings-fed-study-finds/",
+     "date": "2026-11-02T07:00:53+00:00",
+     "summary": "Customer financing persisted beyond inventory effects in historical data, leaving Bitcoin spillover dependent on evidence from crypto credit markets. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T07:00:53+00:00",
+   "last_seen": "2026-11-02T07:00:53+00:00",
+   "summary": "Customer financing persisted beyond inventory effects in historical data, leaving Bitcoin spillover dependent on evidence from crypto credit markets. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "7c9035686f",
+   "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+   "date": "2026-11-02T06:46:41+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin ETFs lost $643 million in outflows Friday, and 2026 is barely green now",
+     "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-etfs-lost-usd643-million-in-outflows-friday-and-2026-is-barely-green-now",
+     "date": "2026-11-02T06:46:41+00:00",
+     "summary": "The first trading day after the Binance hack saw the biggest ETF outflow since June 25."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T06:46:41+00:00",
+   "last_seen": "2026-11-02T06:46:41+00:00",
+   "summary": "The first trading day after the Binance hack saw the biggest ETF outflow since June 25.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "ee951070ce",
    "title": "BTCPay Server warns of hot wallet thefts running on outdated software",

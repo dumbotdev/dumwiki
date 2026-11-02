@@ -1,6 +1,47 @@
 {
- "updated": "2026-11-02T22:57:09.607631+00:00",
+ "updated": "2026-11-02T23:52:06.229656+00:00",
  "events": [
+  {
+   "id": "43c9d003cc",
+   "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
+   "date": "2026-11-02T23:10:25+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
+     "url": "https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks",
+     "date": "2026-11-02T23:10:25+00:00",
+     "summary": "Users say Claude is routing some requests to a stronger unreleased model, a Mythos 5.5 label appeared in Anthropic\u2019s site code, and OpenAI appears to be testing GPT-6.2 Astra."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T23:10:25+00:00",
+   "last_seen": "2026-11-02T23:10:25+00:00",
+   "summary": "Users say Claude is routing some requests to a stronger unreleased model, a Mythos 5.5 label appeared in Anthropic\u2019s site code, and OpenAI appears to be testing GPT-6.2 Astra.",
+   "tags": []
+  },
+  {
+   "id": "966b909ee0",
+   "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+   "date": "2026-11-02T23:07:07+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "North Korea denies role in $6.3B Binance hack, points finger at US",
+     "url": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T23:07:07+00:00",
+     "summary": "Pyongyang has pushed back against the FBI\u2019s attribution of the Binance attack, with Kim Yo Jong calling the US allegations politically motivated."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T23:07:07+00:00",
+   "last_seen": "2026-11-02T23:07:07+00:00",
+   "summary": "Pyongyang has pushed back against the FBI\u2019s attribution of the Binance attack, with Kim Yo Jong calling the US allegations politically motivated.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "b92ab07463",
    "title": "Kim Jong-Un\u2019s sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
@@ -951,14 +992,23 @@
      "url": "https://thedefiant.io/news/hacks/arkham-says-mercado-bitcoin-attacker-holds-46-million",
      "date": "2026-11-02T16:14:47+00:00",
      "summary": "The tracker groups 36 addresses. Mercado Bitcoin says customers suffered no losses but has not disclosed a total loss."
+    },
+    {
+     "source": "CryptoSlate",
+     "title": "Tether freezes $4.5 million as Mercado Bitcoin hacker holds $46 million in crypto",
+     "url": "https://cryptoslate.com/tether-freezes-4-5-million-as-mercado-bitcoin-hacker-holds-46-million-in-crypto/",
+     "date": "2026-11-02T23:00:12+00:00",
+     "summary": "The exchange said restoration work was continuing and released tracking addresses, without giving a reopening timetable or financial amount. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-02T16:14:47+00:00",
-   "last_seen": "2026-11-02T16:14:47+00:00",
-   "summary": "The tracker groups 36 addresses. Mercado Bitcoin says customers suffered no losses but has not disclosed a total loss.",
+   "last_seen": "2026-11-02T23:00:12+00:00",
+   "summary": "The exchange said restoration work was continuing and released tracking addresses, without giving a reopening timetable or financial amount. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
    "tags": [
-    "bitcoin"
+    "bitcoin",
+    "exchanges",
+    "stablecoins"
    ]
   },
   {

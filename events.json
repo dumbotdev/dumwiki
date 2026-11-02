@@ -1,6 +1,113 @@
 {
- "updated": "2026-11-02T20:59:34.412025+00:00",
+ "updated": "2026-11-02T21:58:03.936527+00:00",
  "events": [
+  {
+   "id": "d9930e46a7",
+   "title": "Vitalik is making private Ethereum payments without a crypto website",
+   "date": "2026-11-02T21:40:13+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Vitalik is making private Ethereum payments without a crypto website",
+     "url": "https://cryptoslate.com/vitalik-is-making-private-ethereum-payments-without-a-crypto-website/",
+     "date": "2026-11-02T21:40:13+00:00",
+     "summary": "Retaining local code can reduce repeated website delivery while leaving package updates, signatures and submission as separate trust decisions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T21:40:13+00:00",
+   "last_seen": "2026-11-02T21:40:13+00:00",
+   "summary": "Retaining local code can reduce repeated website delivery while leaving package updates, signatures and submission as separate trust decisions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "983d5d7269",
+   "title": "Big crypto wants the one thing it can\u2019t buy: your vote",
+   "date": "2026-11-02T21:38:53+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Big crypto wants the one thing it can\u2019t buy: your vote",
+     "url": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
+     "date": "2026-11-02T21:38:53+00:00",
+     "summary": "Our loyalty has been to the technology. This election, the trap is to let the biggest intermediaries claim it for themselves, argues Berkeley Law lecturer Hermine Wong."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T21:38:53+00:00",
+   "last_seen": "2026-11-02T21:38:53+00:00",
+   "summary": "Our loyalty has been to the technology. This election, the trap is to let the biggest intermediaries claim it for themselves, argues Berkeley Law lecturer Hermine Wong.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "33f55cd666",
+   "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+   "date": "2026-11-02T21:16:24+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+     "url": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T21:16:24+00:00",
+     "summary": "A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T21:16:24+00:00",
+   "last_seen": "2026-11-02T21:16:24+00:00",
+   "summary": "A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000.",
+   "tags": [
+    "exchanges",
+    "solana"
+   ]
+  },
+  {
+   "id": "43d575d4f4",
+   "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
+   "date": "2026-11-02T21:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
+     "url": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
+     "date": "2026-11-02T21:16:03+00:00",
+     "summary": "Onchain investigator ZachXBT says an unidentified EU entity lost more than $106 million from centralized exchange accounts on Sunday,."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T21:16:03+00:00",
+   "last_seen": "2026-11-02T21:16:03+00:00",
+   "summary": "Onchain investigator ZachXBT says an unidentified EU entity lost more than $106 million from centralized exchange accounts on Sunday,.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "12c11d4436",
+   "title": "Liquid Reserve Gap Falls to 250 BTC After 300 BTC Top-Up",
+   "date": "2026-11-02T21:00:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Liquid Reserve Gap Falls to 250 BTC After 300 BTC Top-Up",
+     "url": "https://thedefiant.io/news/security/liquid-reserve-gap-falls-to-250-btc-after-300-btc-top-up",
+     "date": "2026-11-02T21:00:09+00:00",
+     "summary": "Estimated L-BTC backing rises to 94.14%, but the federation\u2019s recovery plan requires full reserves before direct peg-outs resume."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T21:00:09+00:00",
+   "last_seen": "2026-11-02T21:00:09+00:00",
+   "summary": "Estimated L-BTC backing rises to 94.14%, but the federation\u2019s recovery plan requires full reserves before direct peg-outs resume.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "b7bb518780",
    "title": "Arthur Hayes wants to hedge AI compute bills, but FLOP token swings could change the cost",
@@ -3599,11 +3706,18 @@
      "url": "https://decrypt.co/382316/fbi-blames-north-korea-for-6b-binance-hack-as-exchange-reopens-withdrawals",
      "date": "2026-11-02T10:36:19+00:00",
      "summary": "Binance saw $3.64 billion in net outflows in the first nine and a half hours after reopening withdrawals, or 2.1% of its assets, it said."
+    },
+    {
+     "source": "The Defiant",
+     "title": "North Korea Rejects FBI Blame for $6.3 Billion Binance Hack",
+     "url": "https://thedefiant.io/news/hacks/north-korea-rejects-fbi-blame-for-6-3-billion-binance-hack",
+     "date": "2026-11-02T21:25:45+00:00",
+     "summary": "Kim Yo Jong called the US accusation \u201cabsurd rhetoric,\u201d while Chainalysis cited stolen funds mixing with proceeds of an earlier exploit."
     }
    ],
-   "score": 30,
+   "score": 40,
    "first_seen": "2026-11-01T07:44:38+00:00",
-   "last_seen": "2026-11-02T10:36:19+00:00",
+   "last_seen": "2026-11-02T21:25:45+00:00",
    "summary": "The US Federal Bureau of Investigation (FBI) has blamed North Korea&#039;s TraderTraitor operation for stealing more than $6 billion from Binance. In an Oct. 31 security alert, the agency attributed the Oct. 29 attack to North Korean cyber actors, providing official US...",
    "tags": [
     "exchanges",

@@ -1,6 +1,109 @@
 {
- "updated": "2026-11-01T23:50:05.436337+00:00",
+ "updated": "2026-11-02T01:28:52.849716+00:00",
  "events": [
+  {
+   "id": "b7a3135601",
+   "title": "Ethena Explained: USDe, sUSDe, Rewards and Exit Routes",
+   "date": "2026-11-02T00:33:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ethena Explained: USDe, sUSDe, Rewards and Exit Routes",
+     "url": "https://thedefiant.io/news/defi/ethena-explained-usde-susde-rewards-and-exit-routes",
+     "date": "2026-11-02T00:33:31+00:00",
+     "summary": "Direct issuer redemption is restricted, while sUSDe unstaking returns USDe\u2014not dollars in a bank account."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T00:33:31+00:00",
+   "last_seen": "2026-11-02T00:33:31+00:00",
+   "summary": "Direct issuer redemption is restricted, while sUSDe unstaking returns USDe\u2014not dollars in a bank account.",
+   "tags": []
+  },
+  {
+   "id": "178e238b7b",
+   "title": "Anza Urges Solana Validators to Act on Critical Linux Flaw",
+   "date": "2026-11-02T00:23:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Anza Urges Solana Validators to Act on Critical Linux Flaw",
+     "url": "https://thedefiant.io/news/security/anza-urges-solana-validators-to-act-on-critical-linux-flaw",
+     "date": "2026-11-02T00:23:12+00:00",
+     "summary": "Ubuntu operators were told to filter incoming traffic and disable two networking features while awaiting a fixed kernel."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T00:23:12+00:00",
+   "last_seen": "2026-11-02T00:23:12+00:00",
+   "summary": "Ubuntu operators were told to filter incoming traffic and disable two networking features while awaiting a fixed kernel.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "06f0f9eae8",
+   "title": "Maple\u2019s syrupUSDC and syrupUSDT Explained: Returns, Risks and Exits",
+   "date": "2026-11-02T00:23:02+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Maple\u2019s syrupUSDC and syrupUSDT Explained: Returns, Risks and Exits",
+     "url": "https://thedefiant.io/news/defi/maple-s-syrupusdc-and-syrupusdt-explained-returns-risks-and-exits",
+     "date": "2026-11-02T00:23:02+00:00",
+     "summary": "Pool withdrawals depend on available liquidity and have no guaranteed deadline. Selling a token on an exchange is a different exit, at a market-determined price."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T00:23:02+00:00",
+   "last_seen": "2026-11-02T00:23:02+00:00",
+   "summary": "Pool withdrawals depend on available liquidity and have no guaranteed deadline. Selling a token on an exchange is a different exit, at a market-determined price.",
+   "tags": [
+    "defi",
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "a39f0e9459",
+   "title": "Institutional Crypto Custody: A Guide to Roles and Control",
+   "date": "2026-11-02T00:21:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Institutional Crypto Custody: A Guide to Roles and Control",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/institutional-crypto-custody-a-guide-to-roles-and-control",
+     "date": "2026-11-02T00:21:50+00:00",
+     "summary": "Keeping tokens with a bank does not rule out pledging them for a loan. Separate safekeeping, signing permissions and authority to sell collateral before comparing services."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T00:21:50+00:00",
+   "last_seen": "2026-11-02T00:21:50+00:00",
+   "summary": "Keeping tokens with a bank does not rule out pledging them for a loan. Separate safekeeping, signing permissions and authority to sell collateral before comparing services.",
+   "tags": []
+  },
+  {
+   "id": "c39b44ca99",
+   "title": "Cardano\u2019s 2027 budget proposal would let funding stewards seek grants too",
+   "date": "2026-11-02T00:20:43+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Cardano\u2019s 2027 budget proposal would let funding stewards seek grants too",
+     "url": "https://cryptoslate.com/cardanos-2027-budget-proposal-would-let-funding-stewards-seek-grants-too/",
+     "date": "2026-11-02T00:20:43+00:00",
+     "summary": "Proposed stewards could influence assessments while DReps retain spending votes and a direct funding route awaits its allocation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T00:20:43+00:00",
+   "last_seen": "2026-11-02T00:20:43+00:00",
+   "summary": "Proposed stewards could influence assessments while DReps retain spending votes and a direct funding route awaits its allocation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "funding"
+   ]
+  },
   {
    "id": "75a4832acf",
    "title": "$3.64B flees Binance on reopen, THORChain co-founder opposes coin freeze: Hodler\u2019s Digest",
@@ -376,14 +479,22 @@
      "url": "https://cryptoslate.com/tracked-binance-wallets-record-2-5-billion-in-outflows-as-withdrawals-reopen-after-hack/",
      "date": "2026-11-01T21:00:31+00:00",
      "summary": "Binance&#039;s tracked cryptocurrency wallets recorded $2,510 million in net outflows on Nov. 1 after the exchange resumed withdrawals following its $6.3 billion security breach. According to DeFiLlama data, the outflows included approximately $1,083 million in USDT, $912..."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Binance net outflows surge to $5.8B as withdrawals resume after record hack",
+     "url": "https://cointelegraph.com/news/binance-net-outflows-surge-to-58b-as-withdrawals-resume-after-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-01T23:59:27+00:00",
+     "summary": "The exchange says withdrawals surged after some services resumed but have since slowed, with the outflows representing a fraction of its roughly $171 billion in customer assets."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-11-01T16:32:31+00:00",
-   "last_seen": "2026-11-01T21:00:31+00:00",
+   "last_seen": "2026-11-01T23:59:27+00:00",
    "summary": "Binance&#039;s tracked cryptocurrency wallets recorded $2,510 million in net outflows on Nov. 1 after the exchange resumed withdrawals following its $6.3 billion security breach. According to DeFiLlama data, the outflows included approximately $1,083 million in USDT, $912...",
    "tags": [
     "exchanges",
+    "markets",
     "security",
     "stablecoins"
    ]

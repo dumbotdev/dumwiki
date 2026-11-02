@@ -1,6 +1,161 @@
 {
- "updated": "2026-11-02T19:15:51.845099+00:00",
+ "updated": "2026-11-02T20:07:36.258269+00:00",
  "events": [
+  {
+   "id": "e2f96809c7",
+   "title": "Akash Stakers Approve Move From Cosmos to Solana",
+   "date": "2026-11-02T20:04:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Akash Stakers Approve Move From Cosmos to Solana",
+     "url": "https://thedefiant.io/news/blockchains/akash-stakers-approve-move-from-cosmos-to-solana",
+     "date": "2026-11-02T20:04:42+00:00",
+     "summary": "AKT can launch on Solana after two audits, but moving the compute marketplace and ending staking rewards still require a separate cutover vote."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T20:04:42+00:00",
+   "last_seen": "2026-11-02T20:04:42+00:00",
+   "summary": "AKT can launch on Solana after two audits, but moving the compute marketplace and ending staking rewards still require a separate cutover vote.",
+   "tags": [
+    "defi",
+    "solana"
+   ]
+  },
+  {
+   "id": "cb106d8135",
+   "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+   "date": "2026-11-02T19:46:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+     "url": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
+     "date": "2026-11-02T19:46:02+00:00",
+     "summary": "The Fundstrat strategist says constraints on AI spending have slowed growth without ending the boom, while crypto\u2019s response to the Binance hack suggests sellers may already be exhausted."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T19:46:02+00:00",
+   "last_seen": "2026-11-02T19:46:02+00:00",
+   "summary": "The Fundstrat strategist says constraints on AI spending have slowed growth without ending the boom, while crypto\u2019s response to the Binance hack suggests sellers may already be exhausted.",
+   "tags": [
+    "ai",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "2e7feab495",
+   "title": "Treasury holds $1 trillion as Bitcoin faces a key liquidity test this week",
+   "date": "2026-11-02T19:40:49+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Treasury holds $1 trillion as Bitcoin faces a key liquidity test this week",
+     "url": "https://cryptoslate.com/treasury-holds-1-trillion-as-bitcoin-faces-a-key-liquidity-test-this-week/",
+     "date": "2026-11-02T19:40:49+00:00",
+     "summary": "Treasury\u2019s November financing decisions will test whether a possible cash drawdown can ease funding conditions while debt issuance competes for cash. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T19:40:49+00:00",
+   "last_seen": "2026-11-02T19:40:49+00:00",
+   "summary": "Treasury\u2019s November financing decisions will test whether a possible cash drawdown can ease funding conditions while debt issuance competes for cash. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "ad78f603fe",
+   "title": "NEAR Governance Approves Plan to Lower Issuance Cap to 1.6%",
+   "date": "2026-11-02T19:37:34+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "NEAR Governance Approves Plan to Lower Issuance Cap to 1.6%",
+     "url": "https://thedefiant.io/news/tokens/near-governance-approves-plan-to-lower-issuance-cap-to-1-6",
+     "date": "2026-11-02T19:37:34+00:00",
+     "summary": "The 24-month reduction would lower staking rewards, but Security Council ratification and a validator-adopted protocol upgrade still stand between the vote and activation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T19:37:34+00:00",
+   "last_seen": "2026-11-02T19:37:34+00:00",
+   "summary": "The 24-month reduction would lower staking rewards, but Security Council ratification and a validator-adopted protocol upgrade still stand between the vote and activation.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "3ddc9423a8",
+   "title": "Mercado Bitcoin Breach Wallet Sends 2,800 ETH Onward",
+   "date": "2026-11-02T19:35:40+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Mercado Bitcoin Breach Wallet Sends 2,800 ETH Onward",
+     "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-breach-wallet-sends-2-800-eth-onward",
+     "date": "2026-11-02T19:35:40+00:00",
+     "summary": "Other transfers moved 2.24 million USDC and 1.7 million TRX, while deposits and withdrawals remained suspended."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T19:35:40+00:00",
+   "last_seen": "2026-11-02T19:35:40+00:00",
+   "summary": "Other transfers moved 2.24 million USDC and 1.7 million TRX, while deposits and withdrawals remained suspended.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "a048467ae2",
+   "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+   "date": "2026-11-02T19:27:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+     "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-02T19:27:58+00:00",
+     "summary": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T19:27:58+00:00",
+   "last_seen": "2026-11-02T19:27:58+00:00",
+   "summary": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "dfdf5e765d",
+   "title": "DTCC\u2019s tokenization launch could accelerate adoption and boost Securitize, StoneX says",
+   "date": "2026-11-02T19:15:48+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "DTCC\u2019s tokenization launch could accelerate adoption and boost Securitize, StoneX says",
+     "url": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
+     "date": "2026-11-02T19:15:48+00:00",
+     "summary": "StoneX says DTCC's tokenization service validates Securitize's model, reiterating its buy rating on SECZ as the firm expands tokenized stocks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-02T19:15:48+00:00",
+   "last_seen": "2026-11-02T19:15:48+00:00",
+   "summary": "StoneX says DTCC's tokenization service validates Securitize's model, reiterating its buy rating on SECZ as the firm expands tokenized stocks.",
+   "tags": []
+  },
   {
    "id": "5a423e075b",
    "title": "New Jersey Rescinds Coinbase Staking Order, Clearing Path for Restart",

@@ -1,6 +1,117 @@
 {
- "updated": "2026-11-03T12:04:11.497331+00:00",
+ "updated": "2026-11-03T13:28:05.768080+00:00",
  "events": [
+  {
+   "id": "0c88d626af",
+   "title": "Bitcoin\u2019s year-end liquidity hopes face a projected $150 billion Treasury cash rebuild",
+   "date": "2026-11-03T13:00:37+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s year-end liquidity hopes face a projected $150 billion Treasury cash rebuild",
+     "url": "https://cryptoslate.com/bitcoins-year-end-liquidity-hopes-face-a-projected-150-billion-treasury-cash-rebuild/",
+     "date": "2026-11-03T13:00:37+00:00",
+     "summary": "Any year-end reserve relief depends on actual cash flows and funding costs, with a larger first-quarter Treasury cash rebuild already assumed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T13:00:37+00:00",
+   "last_seen": "2026-11-03T13:00:37+00:00",
+   "summary": "Any year-end reserve relief depends on actual cash flows and funding costs, with a larger first-quarter Treasury cash rebuild already assumed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "c28f7ad5a3",
+   "title": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
+   "date": "2026-11-03T12:57:28+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Binance net outflows reach $5.3 billion after record hack. CEO says recovery underway",
+     "url": "https://www.coindesk.com/business/2026/11/03/binance-net-outflows-reach-usd5-3b-after-record-hack-though-ceo-cites-recovery",
+     "date": "2026-11-03T12:57:28+00:00",
+     "summary": "Nearly $11 billion left the exchange over 46 hours, although CEO Richard Teng said hourly deposits were beginning to exceed withdrawals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T12:57:28+00:00",
+   "last_seen": "2026-11-03T12:57:28+00:00",
+   "summary": "Nearly $11 billion left the exchange over 46 hours, although CEO Richard Teng said hourly deposits were beginning to exceed withdrawals.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "e59c4dda35",
+   "title": "Bitcoin is breaking a midterm election pattern going back to 2014",
+   "date": "2026-11-03T12:30:09+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin is breaking a midterm election pattern going back to 2014",
+     "url": "https://www.coindesk.com/daybook-us/2026/11/03/bitcoin-is-breaking-a-midterm-election-pattern-going-back-to-2014",
+     "date": "2026-11-03T12:30:09+00:00",
+     "summary": "Your day-ahead look for Nov. 3, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T12:30:09+00:00",
+   "last_seen": "2026-11-03T12:30:09+00:00",
+   "summary": "Your day-ahead look for Nov. 3, 2026",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "82109a52c5",
+   "title": "Kraken Restricts Accounts Amid Suspected $133 Million-Plus EU Theft",
+   "date": "2026-11-03T12:24:03+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Kraken Restricts Accounts Amid Suspected $133 Million-Plus EU Theft",
+     "url": "https://thedefiant.io/news/hacks/kraken-restricts-accounts-amid-suspected-133-million-plus-eu-theft",
+     "date": "2026-11-03T12:24:03+00:00",
+     "summary": "The exchange says its own systems and customer accounts were not compromised and that it is working with law enforcement on recovery."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T12:24:03+00:00",
+   "last_seen": "2026-11-03T12:24:03+00:00",
+   "summary": "The exchange says its own systems and customer accounts were not compromised and that it is working with law enforcement on recovery.",
+   "tags": [
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "8f5bbb62fc",
+   "title": "Binance Misses Monthly Luna Classic Burn for First Time Since 2023",
+   "date": "2026-11-03T12:15:29+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Binance Misses Monthly Luna Classic Burn for First Time Since 2023",
+     "url": "https://decrypt.co/382401/binance-misses-monthly-luna-classic-burn-for-first-time-since-2023",
+     "date": "2026-11-03T12:15:29+00:00",
+     "summary": "LUNC holders are waiting for Binance\u2019s November burn, but it hasn\u2019t arrived as the exchange recovers from a record $6.3 billion hack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T12:15:29+00:00",
+   "last_seen": "2026-11-03T12:15:29+00:00",
+   "summary": "LUNC holders are waiting for Binance\u2019s November burn, but it hasn\u2019t arrived as the exchange recovers from a record $6.3 billion hack.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "57774c7874",
    "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
@@ -338,13 +449,22 @@
      "url": "https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378",
      "date": "2026-11-03T09:19:41+00:00",
      "summary": "NEAR's House of Stake passed HSP-029, which lowers the network's maximum annual issuance rate from 2.5% to 1.6% over 24 months."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "NEAR token sinks 7% as proposal to cut annual token issuance passes",
+     "url": "https://cointelegraph.com/markets/near-sinks-7-proposal-cut-annual-token-issuance-passes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T12:30:13+00:00",
+     "summary": "The proposed issuance cut would prevent 11.8 million NEAR from entering circulation over two years, worth about $45 million at today\u2019s price."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-03T09:19:41+00:00",
-   "last_seen": "2026-11-03T09:19:41+00:00",
-   "summary": "NEAR's House of Stake passed HSP-029, which lowers the network's maximum annual issuance rate from 2.5% to 1.6% over 24 months.",
-   "tags": []
+   "last_seen": "2026-11-03T12:30:13+00:00",
+   "summary": "The proposed issuance cut would prevent 11.8 million NEAR from entering circulation over two years, worth about $45 million at today\u2019s price.",
+   "tags": [
+    "markets"
+   ]
   },
   {
    "id": "ff94a68098",
@@ -1907,13 +2027,22 @@
      "url": "https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/",
      "date": "2026-11-03T01:05:23+00:00",
      "summary": "Tom Lee believes crypto&#039;s muted reaction to Binance&#039;s $6.3 billion hack is another sign that a bull market is underway. The BitMine chairman pointed to Ethereum&#039;s roughly 4% decline following the Oct. 29 theft, which was more than four times larger than the $1.5..."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
+     "url": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
+     "date": "2026-11-03T13:11:47+00:00",
+     "summary": "Meanwhile, both the BTC ETFs and ETH ETFs bleed outflows in the Binance hack aftermath, dragging down prices."
     }
    ],
-   "score": 20,
+   "score": 21,
    "first_seen": "2026-11-02T16:23:24+00:00",
-   "last_seen": "2026-11-03T01:05:23+00:00",
+   "last_seen": "2026-11-03T13:11:47+00:00",
    "summary": "Tom Lee believes crypto&#039;s muted reaction to Binance&#039;s $6.3 billion hack is another sign that a bull market is underway. The BitMine chairman pointed to Ethereum&#039;s roughly 4% decline following the Oct. 29 theft, which was more than four times larger than the $1.5...",
    "tags": [
+    "bitcoin",
+    "etfs",
     "ethereum",
     "exchanges",
     "security"

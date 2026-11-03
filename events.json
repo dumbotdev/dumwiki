@@ -1,6 +1,90 @@
 {
- "updated": "2026-11-03T05:14:02.848845+00:00",
+ "updated": "2026-11-03T06:13:36.309807+00:00",
  "events": [
+  {
+   "id": "ee88faf3c0",
+   "title": "Aave Horizon taps perpetual futures to price stock collateral on weekends, Chainlink says",
+   "date": "2026-11-03T05:40:37+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Aave Horizon taps perpetual futures to price stock collateral on weekends, Chainlink says",
+     "url": "https://cryptoslate.com/aave-horizon-taps-perpetual-futures-to-price-stock-collateral-on-weekends-chainlink-says/",
+     "date": "2026-11-03T05:40:37+00:00",
+     "summary": "The moving reference can reveal off-hours collateral declines without ensuring a buyer for seized assets. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T05:40:37+00:00",
+   "last_seen": "2026-11-03T05:40:37+00:00",
+   "summary": "The moving reference can reveal off-hours collateral declines without ensuring a buyer for seized assets. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "0ef3c6c49c",
+   "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+   "date": "2026-11-03T05:36:56+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Binance has spent half its SAFU bitcoin, about $580 million worth, data shows",
+     "url": "https://www.coindesk.com/markets/2026/11/03/binance-has-spent-half-its-safu-bitcoin-about-usd580-million-worth-data-shows",
+     "date": "2026-11-03T05:36:56+00:00",
+     "summary": "The user protection fund now sits below the $800 million level that Binance\u2019s own rules say triggers a top-up, and the exchange hasn\u2019t said when it will refill it."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T05:36:56+00:00",
+   "last_seen": "2026-11-03T05:36:56+00:00",
+   "summary": "The user protection fund now sits below the $800 million level that Binance\u2019s own rules say triggers a top-up, and the exchange hasn\u2019t said when it will refill it.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "977a2464cd",
+   "title": "Arbitrum\u2019s council moved $30 million of Binance hack funds without the hacker\u2019s key",
+   "date": "2026-11-03T05:25:12+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Arbitrum\u2019s council moved $30 million of Binance hack funds without the hacker\u2019s key",
+     "url": "https://www.coindesk.com/tech/2026/11/03/arbitrum-s-council-moved-usd30-million-of-binance-hack-funds-without-the-hacker-s-key",
+     "date": "2026-11-03T05:25:12+00:00",
+     "summary": "A 12-person committee briefly rewrote one of Arbitrum\u2019s core contracts to spend from an address it held no key for, then put the code back. It\u2019s the second time this year."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T05:25:12+00:00",
+   "last_seen": "2026-11-03T05:25:12+00:00",
+   "summary": "A 12-person committee briefly rewrote one of Arbitrum\u2019s core contracts to spend from an address it held no key for, then put the code back. It\u2019s the second time this year.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "11a436bf85",
+   "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
+   "date": "2026-11-03T05:10:19+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
+     "url": "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T05:10:19+00:00",
+     "summary": "Crypto.com will discontinue its consumer app services in Hong Kong in February next year."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T05:10:19+00:00",
+   "last_seen": "2026-11-03T05:10:19+00:00",
+   "summary": "Crypto.com will discontinue its consumer app services in Hong Kong in February next year.",
+   "tags": []
+  },
   {
    "id": "d991ce34df",
    "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
@@ -64,6 +148,28 @@
     "ai",
     "funding",
     "macro"
+   ]
+  },
+  {
+   "id": "e2d95e3e8d",
+   "title": "UK warns AI ransomware attack on infrastructure \u2018highly likely\u2019 by 2028",
+   "date": "2026-11-03T03:58:45+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "UK warns AI ransomware attack on infrastructure \u2018highly likely\u2019 by 2028",
+     "url": "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T03:58:45+00:00",
+     "summary": "The warning comes as UK cyber officials also flag growing threats from state-backed hackers targeting government officials and politicians."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T03:58:45+00:00",
+   "last_seen": "2026-11-03T03:58:45+00:00",
+   "summary": "The warning comes as UK cyber officials also flag growing threats from state-backed hackers targeting government officials and politicians.",
+   "tags": [
+    "ai",
+    "security"
    ]
   },
   {

@@ -1,6 +1,95 @@
 {
- "updated": "2026-11-03T01:27:05.815452+00:00",
+ "updated": "2026-11-03T03:08:30.534607+00:00",
  "events": [
+  {
+   "id": "b12966dd9d",
+   "title": "Binance begins second withdrawal phase following record hack",
+   "date": "2026-11-03T03:03:44+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance begins second withdrawal phase following record hack",
+     "url": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T03:03:44+00:00",
+     "summary": "The exchange says additional assets will become available for withdrawal from 04:00 UTC on Tuesday as security checks are completed, following an initial reopening on Nov. 1."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T03:03:44+00:00",
+   "last_seen": "2026-11-03T03:03:44+00:00",
+   "summary": "The exchange says additional assets will become available for withdrawal from 04:00 UTC on Tuesday as security checks are completed, following an initial reopening on Nov. 1.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "4f05774d65",
+   "title": "Ark Invest buys $3.4 million in Coinbase, adds Circle and Robinhood as stocks trade lower",
+   "date": "2026-11-03T02:57:33+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ark Invest buys $3.4 million in Coinbase, adds Circle and Robinhood as stocks trade lower",
+     "url": "https://www.theblock.co/news/business/2026-11-02-ark-invest-buys-coinbase-circle-robinhood-432352",
+     "date": "2026-11-03T02:57:33+00:00",
+     "summary": "Cathie Wood's Ark Invest bought $3.4 million of Coinbase shares, $2.6 million of Circle, and $645,820 of Robinhood on Monday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T02:57:33+00:00",
+   "last_seen": "2026-11-03T02:57:33+00:00",
+   "summary": "Cathie Wood's Ark Invest bought $3.4 million of Coinbase shares, $2.6 million of Circle, and $645,820 of Robinhood on Monday.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "36fb5b51c0",
+   "title": "Binance can cut a winning Bitcoin hedge even when customer assets are backed",
+   "date": "2026-11-03T02:10:33+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance can cut a winning Bitcoin hedge even when customer assets are backed",
+     "url": "https://cryptoslate.com/binance-can-cut-a-winning-bitcoin-hedge-even-when-customer-assets-are-backed/",
+     "date": "2026-11-03T02:10:33+00:00",
+     "summary": "Binance says only surplus futures reserves were reallocated, while ADL rules can still reduce an opposing profitable position. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T02:10:33+00:00",
+   "last_seen": "2026-11-03T02:10:33+00:00",
+   "summary": "Binance says only surplus futures reserves were reallocated, while ADL rules can still reduce an opposing profitable position. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "1743f1d00e",
+   "title": "South Korea urges exchanges to boost cold storage after Binance hack",
+   "date": "2026-11-03T01:32:39+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "South Korea urges exchanges to boost cold storage after Binance hack",
+     "url": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T01:32:39+00:00",
+     "summary": "South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T01:32:39+00:00",
+   "last_seen": "2026-11-03T01:32:39+00:00",
+   "summary": "South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more.",
+   "tags": [
+    "exchanges",
+    "regulation",
+    "security"
+   ]
+  },
   {
    "id": "b9e92a87eb",
    "title": "Chainalysis Puts Mercado Bitcoin Hack at $49 Million Across 17 Chains",

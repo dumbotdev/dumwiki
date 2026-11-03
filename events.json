@@ -1,6 +1,89 @@
 {
- "updated": "2026-11-03T23:01:55.409543+00:00",
+ "updated": "2026-11-03T23:54:27.553142+00:00",
  "events": [
+  {
+   "id": "2a2a722c12",
+   "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+   "date": "2026-11-03T23:48:32+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+     "url": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
+     "date": "2026-11-03T23:48:32+00:00",
+     "summary": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T23:48:32+00:00",
+   "last_seen": "2026-11-03T23:48:32+00:00",
+   "summary": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "3e456ffd8d",
+   "title": "Coinbase XRP looked cheap on Nov. 2 despite identical market value",
+   "date": "2026-11-03T23:40:07+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Coinbase XRP looked cheap on Nov. 2 despite identical market value",
+     "url": "https://cryptoslate.com/coinbase-xrp-looked-cheap-on-nov-2-despite-identical-market-value/",
+     "date": "2026-11-03T23:40:07+00:00",
+     "summary": "At the November 2 close, an independent comparison narrows XRP\u2019s Coinbase discount from 0.168% to 0.006% after converting USDT into dollars. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T23:40:07+00:00",
+   "last_seen": "2026-11-03T23:40:07+00:00",
+   "summary": "At the November 2 close, an independent comparison narrows XRP\u2019s Coinbase discount from 0.168% to 0.006% after converting USDT into dollars. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "35c4904fcf",
+   "title": "What voters said about their views on crypto",
+   "date": "2026-11-03T23:19:44+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "What voters said about their views on crypto",
+     "url": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+     "date": "2026-11-03T23:19:44+00:00",
+     "summary": "A CoinDesk-commissioned poll from April sheds light on how voters \u2014 who aren't necessarily part of the crypto sector \u2014 view this industry."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T23:19:44+00:00",
+   "last_seen": "2026-11-03T23:19:44+00:00",
+   "summary": "A CoinDesk-commissioned poll from April sheds light on how voters \u2014 who aren't necessarily part of the crypto sector \u2014 view this industry.",
+   "tags": []
+  },
+  {
+   "id": "6b527d8c92",
+   "title": "US midterms election 2026 live: What they mean for crypto",
+   "date": "2026-11-03T23:01:32+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US midterms election 2026 live: What they mean for crypto",
+     "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T23:01:32+00:00",
+     "summary": "Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T23:01:32+00:00",
+   "last_seen": "2026-11-03T23:01:32+00:00",
+   "summary": "Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "73ea2f9e71",
    "title": "What happens if North Korea steals Wall Street's tokenized assets next",

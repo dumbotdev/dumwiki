@@ -1,6 +1,114 @@
 {
- "updated": "2026-11-03T20:10:52.481967+00:00",
+ "updated": "2026-11-03T21:04:01.791336+00:00",
  "events": [
+  {
+   "id": "75b4a06592",
+   "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+   "date": "2026-11-03T20:43:38+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+     "url": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
+     "date": "2026-11-03T20:43:38+00:00",
+     "summary": "In his first interview since the Binance hack, Changpeng Zhao says AI is accelerating cyberattacks and calls for industry security alliance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T20:43:38+00:00",
+   "last_seen": "2026-11-03T20:43:38+00:00",
+   "summary": "In his first interview since the Binance hack, Changpeng Zhao says AI is accelerating cyberattacks and calls for industry security alliance.",
+   "tags": [
+    "ai",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "fea3f757af",
+   "title": "SEC Staff Grants Canton Coin No-Action Relief for Token Minting",
+   "date": "2026-11-03T20:42:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SEC Staff Grants Canton Coin No-Action Relief for Token Minting",
+     "url": "https://thedefiant.io/news/regulation/sec-staff-grants-canton-coin-no-action-relief-for-token-minting",
+     "date": "2026-11-03T20:42:19+00:00",
+     "summary": "The division views Canton Coin as a digital commodity, relying on its network utility and the absence of a controlling central party."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T20:42:19+00:00",
+   "last_seen": "2026-11-03T20:42:19+00:00",
+   "summary": "The division views Canton Coin as a digital commodity, relying on its network utility and the absence of a controlling central party.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "f7bc78c754",
+   "title": "Justin Drake Targets December 2028 for Ethereum\u2019s Post-Quantum Transition",
+   "date": "2026-11-03T20:38:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Justin Drake Targets December 2028 for Ethereum\u2019s Post-Quantum Transition",
+     "url": "https://thedefiant.io/news/blockchains/justin-drake-targets-december-2028-for-ethereum-s-post-quantum-transition",
+     "date": "2026-11-03T20:38:56+00:00",
+     "summary": "The proposed fork sequence would accelerate work across three protocol layers, while migrating existing wallets remains a separate task."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T20:38:56+00:00",
+   "last_seen": "2026-11-03T20:38:56+00:00",
+   "summary": "The proposed fork sequence would accelerate work across three protocol layers, while migrating existing wallets remains a separate task.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "b5f9e5d9b4",
+   "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+   "date": "2026-11-03T20:36:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+     "url": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
+     "date": "2026-11-03T20:36:02+00:00",
+     "summary": "Tron founder Justin Sun said he has asked a federal court to sanction World Liberty Financial, alleging the Trump family-backed venture delayed disclosing UAE ties that could defeat federal jurisdiction over his lawsuit."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T20:36:02+00:00",
+   "last_seen": "2026-11-03T20:36:02+00:00",
+   "summary": "Tron founder Justin Sun said he has asked a federal court to sanction World Liberty Financial, alleging the Trump family-backed venture delayed disclosing UAE ties that could defeat federal jurisdiction over his lawsuit.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "7ad00a089c",
+   "title": "CFTC Chair Says Equity Perps Can Begin US Trading",
+   "date": "2026-11-03T20:16:28+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "CFTC Chair Says Equity Perps Can Begin US Trading",
+     "url": "https://thedefiant.io/converge/regulation/cftc-chair-says-equity-perps-can-begin-us-trading",
+     "date": "2026-11-03T20:16:28+00:00",
+     "summary": "Kraken responded with \u2018coming soon \ud83d\udc40\u2019 as Selig outlined access through futures exchanges also registered with the SEC."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T20:16:28+00:00",
+   "last_seen": "2026-11-03T20:16:28+00:00",
+   "summary": "Kraken responded with \u2018coming soon \ud83d\udc40\u2019 as Selig outlined access through futures exchanges also registered with the SEC.",
+   "tags": [
+    "exchanges",
+    "regulation"
+   ]
+  },
   {
    "id": "3ef4e76387",
    "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
@@ -645,12 +753,19 @@
      "url": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422",
      "date": "2026-11-03T15:37:50+00:00",
      "summary": "The CFTC approved the ability for exchanges in the U.S. to offer perpetual futures contracts tied to individual stocks."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "CFTC clears stock perpetual futures for trading on US exchanges",
+     "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T20:24:55+00:00",
+     "summary": "US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-03T15:37:50+00:00",
-   "last_seen": "2026-11-03T15:37:50+00:00",
-   "summary": "The CFTC approved the ability for exchanges in the U.S. to offer perpetual futures contracts tied to individual stocks.",
+   "last_seen": "2026-11-03T20:24:55+00:00",
+   "summary": "US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes.",
    "tags": [
     "regulation"
    ]

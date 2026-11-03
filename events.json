@@ -1,6 +1,181 @@
 {
- "updated": "2026-11-03T07:36:04.346880+00:00",
+ "updated": "2026-11-03T09:10:20.216889+00:00",
  "events": [
+  {
+   "id": "ff94a68098",
+   "title": "Mercado Bitcoin Promises No Customer Asset Losses After Hack",
+   "date": "2026-11-03T09:08:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Mercado Bitcoin Promises No Customer Asset Losses After Hack",
+     "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-promises-no-customer-asset-losses-after-hack",
+     "date": "2026-11-03T09:08:33+00:00",
+     "summary": "The exchange says $11 million has been blocked, but its assurance does not specify a funding source or reimbursement deadline."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T09:08:33+00:00",
+   "last_seen": "2026-11-03T09:08:33+00:00",
+   "summary": "The exchange says $11 million has been blocked, but its assurance does not specify a funding source or reimbursement deadline.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "funding",
+    "security"
+   ]
+  },
+  {
+   "id": "b7d159d41a",
+   "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
+   "date": "2026-11-03T08:56:48+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Mercado Bitcoin pledges to cover all user losses after near $40 million hack",
+     "url": "https://www.coindesk.com/business/2026/11/03/mercado-bitcoin-pledges-to-cover-all-user-losses-after-near-usd40-million-hack",
+     "date": "2026-11-03T08:56:48+00:00",
+     "summary": "Partners like Tether, Circle, and Chainalysis helped freeze $11M of the stolen assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T08:56:48+00:00",
+   "last_seen": "2026-11-03T08:56:48+00:00",
+   "summary": "Partners like Tether, Circle, and Chainalysis helped freeze $11M of the stolen assets.",
+   "tags": [
+    "bitcoin",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "5587195295",
+   "title": "Consensys launches cross-ledger settlement and routing stack for institutional networks",
+   "date": "2026-11-03T08:56:07+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Consensys launches cross-ledger settlement and routing stack for institutional networks",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-03-consensys-cross-ledger-settlement-routing-stack-432375",
+     "date": "2026-11-03T08:56:07+00:00",
+     "summary": "Consensys launched a technology stack enabling banks to route and settle transactions across independent ledgers without moving assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T08:56:07+00:00",
+   "last_seen": "2026-11-03T08:56:07+00:00",
+   "summary": "Consensys launched a technology stack enabling banks to route and settle transactions across independent ledgers without moving assets.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "5fe5ada76b",
+   "title": "Bitcoin\u2019s latest chart signal looks a lot like the ones before its big crashes",
+   "date": "2026-11-03T08:50:56+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin\u2019s latest chart signal looks a lot like the ones before its big crashes",
+     "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-s-price-chart-is-flashing-a-red-signal",
+     "date": "2026-11-03T08:50:56+00:00",
+     "summary": "The Guppy Multiple Moving Average bands signal a bearish momentum, even as seasonality and post-midterm history lean bullish."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T08:50:56+00:00",
+   "last_seen": "2026-11-03T08:50:56+00:00",
+   "summary": "The Guppy Multiple Moving Average bands signal a bearish momentum, even as seasonality and post-midterm history lean bullish.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "c56a273a92",
+   "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
+   "date": "2026-11-03T08:35:13+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
+     "url": "https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T08:35:13+00:00",
+     "summary": "ARK Invest added Coinbase and Circle shares across two trading sessions while selling about $8 million in Bullish as crypto stocks declined."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T08:35:13+00:00",
+   "last_seen": "2026-11-03T08:35:13+00:00",
+   "summary": "ARK Invest added Coinbase and Circle shares across two trading sessions while selling about $8 million in Bullish as crypto stocks declined.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "ee567cc117",
+   "title": "Suspected EU crypto theft estimate rises to $133M: ZachXBT",
+   "date": "2026-11-03T08:18:22+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Suspected EU crypto theft estimate rises to $133M: ZachXBT",
+     "url": "https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T08:18:22+00:00",
+     "summary": "ZachXBT identified another $27 million in exchange withdrawals, some of which occurred after he first flagged the suspected crypto theft."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T08:18:22+00:00",
+   "last_seen": "2026-11-03T08:18:22+00:00",
+   "summary": "ZachXBT identified another $27 million in exchange withdrawals, some of which occurred after he first flagged the suspected crypto theft.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "ba8b5d1863",
+   "title": "Dollar stablecoin use stayed elevated after capital controls ended, new research suggests",
+   "date": "2026-11-03T08:00:58+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Dollar stablecoin use stayed elevated after capital controls ended, new research suggests",
+     "url": "https://cryptoslate.com/dollar-stablecoin-use-stayed-elevated-after-capital-controls-ended-new-research-suggests/",
+     "date": "2026-11-03T08:00:58+00:00",
+     "summary": "Historical estimates show no detectable reversal after restrictions are lifted, while the monetary-policy consequences remain unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T08:00:58+00:00",
+   "last_seen": "2026-11-03T08:00:58+00:00",
+   "summary": "Historical estimates show no detectable reversal after restrictions are lifted, while the monetary-policy consequences remain unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "de5c30e9d2",
+   "title": "BlackRock\u2019s IBIT sees biggest Bitcoin ETF outflows since June",
+   "date": "2026-11-03T07:49:51+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "BlackRock\u2019s IBIT sees biggest Bitcoin ETF outflows since June",
+     "url": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T07:49:51+00:00",
+     "summary": "BlackRock\u2019s Bitcoin ETF shed $405.3 million on Monday as US spot Bitcoin funds opened November with nearly $399 million in net outflows."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T07:49:51+00:00",
+   "last_seen": "2026-11-03T07:49:51+00:00",
+   "summary": "BlackRock\u2019s Bitcoin ETF shed $405.3 million on Monday as US spot Bitcoin funds opened November with nearly $399 million in net outflows.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
   {
    "id": "adb153480b",
    "title": "Solana study finds wider spreads outside aggregators at five of six sampled pools",
@@ -63,6 +238,28 @@
    "tags": [
     "bitcoin",
     "exchanges"
+   ]
+  },
+  {
+   "id": "cd230836a7",
+   "title": "Bitcoin miner Cipher posts $31 million profit as AI pivot begins",
+   "date": "2026-11-03T05:29:48+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin miner Cipher posts $31 million profit as AI pivot begins",
+     "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-miner-cipher-posts-usd31-million-profit-as-ai-pivot-begins",
+     "date": "2026-11-03T05:29:48+00:00",
+     "summary": "The company's revenue dropped 63% in the third quarter, while a $127 million accounting gain helped turn an operating loss into a reported profit."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T05:29:48+00:00",
+   "last_seen": "2026-11-03T05:29:48+00:00",
+   "summary": "The company's revenue dropped 63% in the third quarter, while a $127 million accounting gain helped turn an operating loss into a reported profit.",
+   "tags": [
+    "ai",
+    "bitcoin"
    ]
   },
   {
@@ -1773,11 +1970,18 @@
      "url": "https://thedefiant.io/news/hacks/binance-sees-5-14-billion-in-daily-net-outflows-after-withdrawal-restart",
      "date": "2026-11-02T14:39:20+00:00",
      "summary": "Weekly net outflows reached nearly $14 billion, while the next nine venues by tracked assets recorded $507 million in combined daily net inflows."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Binance Flips to $1.82 Billion in Daily Net Inflows After Withdrawal Restart",
+     "url": "https://thedefiant.io/news/cefi/binance-flips-to-1-82-billion-in-daily-net-inflows-after-withdrawal-restart",
+     "date": "2026-11-03T09:04:59+00:00",
+     "summary": "Seven-day net outflows remained at $11.832 billion despite the positive daily reading on DefiLlama's exchange dashboard."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-11-02T14:39:20+00:00",
-   "last_seen": "2026-11-02T14:39:20+00:00",
+   "last_seen": "2026-11-03T09:04:59+00:00",
    "summary": "Weekly net outflows reached nearly $14 billion, while the next nine venues by tracked assets recorded $507 million in combined daily net inflows.",
    "tags": [
     "exchanges"

@@ -1,6 +1,220 @@
 {
- "updated": "2026-11-03T15:07:41.098503+00:00",
+ "updated": "2026-11-03T16:11:48.341172+00:00",
  "events": [
+  {
+   "id": "6d28e1d761",
+   "title": "Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties",
+   "date": "2026-11-03T16:08:14+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties",
+     "url": "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439",
+     "date": "2026-11-03T16:08:14+00:00",
+     "summary": "Sun says World Liberty Financial hid its UAE citizenship to escape federal court, and plans to refile his $45M lawsuit in California state court."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T16:08:14+00:00",
+   "last_seen": "2026-11-03T16:08:14+00:00",
+   "summary": "Sun says World Liberty Financial hid its UAE citizenship to escape federal court, and plans to refile his $45M lawsuit in California state court.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "aa4d236723",
+   "title": "BitGo Adds Stacks Bitcoin Staking in Qualified Custody",
+   "date": "2026-11-03T16:05:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "BitGo Adds Stacks Bitcoin Staking in Qualified Custody",
+     "url": "https://thedefiant.io/converge/cefi/bitgo-adds-stacks-bitcoin-staking-in-qualified-custody",
+     "date": "2026-11-03T16:05:15+00:00",
+     "summary": "Eligible institutions must pair BTC with STX worth 5% of their Bitcoin position for roughly six-month bonds funded by Stacks miners."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T16:05:15+00:00",
+   "last_seen": "2026-11-03T16:05:15+00:00",
+   "summary": "Eligible institutions must pair BTC with STX worth 5% of their Bitcoin position for roughly six-month bonds funded by Stacks miners.",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
+  {
+   "id": "559f74e8ff",
+   "title": "Hong Kong bank pilot opens 24/7 cash settlement for tokenized fund deals",
+   "date": "2026-11-03T16:00:28+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Hong Kong bank pilot opens 24/7 cash settlement for tokenized fund deals",
+     "url": "https://cryptoslate.com/hong-kong-bank-pilot-opens-24-7-cash-settlement-for-tokenized-fund-deals/",
+     "date": "2026-11-03T16:00:28+00:00",
+     "summary": "Participating institutions can settle tokenized deposit transactions in central bank money beyond conventional hours, supporting treasury and fund activity. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T16:00:28+00:00",
+   "last_seen": "2026-11-03T16:00:28+00:00",
+   "summary": "Participating institutions can settle tokenized deposit transactions in central bank money beyond conventional hours, supporting treasury and fund activity. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": [
+    "legal",
+    "macro"
+   ]
+  },
+  {
+   "id": "995fb392a0",
+   "title": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Accepts $10 Million in DTCC-Tokenized Treasuries as Collateral",
+   "date": "2026-11-03T15:52:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Soci\u00e9t\u00e9 G\u00e9n\u00e9rale Accepts $10 Million in DTCC-Tokenized Treasuries as Collateral",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/soci-t-g-n-rale-accepts-10-million-in-dtcc-tokenized-treasuries-as-collateral",
+     "date": "2026-11-03T15:52:08+00:00",
+     "summary": "The controlled Canton transaction used the bank\u2019s existing collateral systems, while recurring movements and repo financing remain planned steps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T15:52:08+00:00",
+   "last_seen": "2026-11-03T15:52:08+00:00",
+   "summary": "The controlled Canton transaction used the bank\u2019s existing collateral systems, while recurring movements and repo financing remain planned steps.",
+   "tags": []
+  },
+  {
+   "id": "f08cd76d94",
+   "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in \u2018political gridlock\u2019",
+   "date": "2026-11-03T15:44:42+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in \u2018political gridlock\u2019",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T15:44:42+00:00",
+     "summary": "Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T15:44:42+00:00",
+   "last_seen": "2026-11-03T15:44:42+00:00",
+   "summary": "Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "4e5cdcb6c1",
+   "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
+   "date": "2026-11-03T15:37:50+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
+     "url": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422",
+     "date": "2026-11-03T15:37:50+00:00",
+     "summary": "The CFTC approved the ability for exchanges in the U.S. to offer perpetual futures contracts tied to individual stocks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T15:37:50+00:00",
+   "last_seen": "2026-11-03T15:37:50+00:00",
+   "summary": "The CFTC approved the ability for exchanges in the U.S. to offer perpetual futures contracts tied to individual stocks.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "e0f661970c",
+   "title": "Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach",
+   "date": "2026-11-03T15:34:34+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach",
+     "url": "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406",
+     "date": "2026-11-03T15:34:34+00:00",
+     "summary": "Binance's incident report said hackers used a fake job interview and an internal AI tool to gain access to systems involved in the theft."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T15:34:34+00:00",
+   "last_seen": "2026-11-03T15:34:34+00:00",
+   "summary": "Binance's incident report said hackers used a fake job interview and an internal AI tool to gain access to systems involved in the theft.",
+   "tags": [
+    "ai",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "9e7590a4f1",
+   "title": "Bitcoin and Treasury yields fall together in rare divergence as $80,000 recovery fails",
+   "date": "2026-11-03T15:30:24+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin and Treasury yields fall together in rare divergence as $80,000 recovery fails",
+     "url": "https://cryptoslate.com/bitcoin-and-treasury-yields-fall-together-in-rare-divergence-as-80000-recovery-fails/",
+     "date": "2026-11-03T15:30:24+00:00",
+     "summary": "November 2 ETF redemptions add a demand concern as Bitcoin&#039;s latest decline follows a drop in real yields through October 30. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T15:30:24+00:00",
+   "last_seen": "2026-11-03T15:30:24+00:00",
+   "summary": "November 2 ETF redemptions add a demand concern as Bitcoin&#039;s latest decline follows a drop in real yields through October 30. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "macro"
+   ]
+  },
+  {
+   "id": "320806810a",
+   "title": "Kalshi\u2019s Tradable Midterms Index Settles to Pyth Values",
+   "date": "2026-11-03T15:25:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Kalshi\u2019s Tradable Midterms Index Settles to Pyth Values",
+     "url": "https://thedefiant.io/news/markets/kalshi-s-tradable-midterms-index-settles-to-pyth-values",
+     "date": "2026-11-03T15:25:44+00:00",
+     "summary": "The gauge combines 13 election events, with payouts tied to a time-weighted index reading rather than a race call."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T15:25:44+00:00",
+   "last_seen": "2026-11-03T15:25:44+00:00",
+   "summary": "The gauge combines 13 election events, with payouts tied to a time-weighted index reading rather than a race call.",
+   "tags": []
+  },
+  {
+   "id": "d55500c256",
+   "title": "Andrew Hohns: Why Bitcoin Can Fix America\u2019s Debt Spiral",
+   "date": "2026-11-03T15:17:11+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Andrew Hohns: Why Bitcoin Can Fix America\u2019s Debt Spiral",
+     "url": "https://bitcoinmagazine.com/videos/andrew-hohns-why-bitcoin-can-fix-americas-debt-spiral",
+     "date": "2026-11-03T15:17:11+00:00",
+     "summary": "&#9654; Bitcoin Magazine Andrew Hohns: Why Bitcoin Can Fix America&#8217;s Debt Spiral Battery Finance\u2019s Andrew Hohns explains why taxes won\u2019t fix the $40T debt, how a Bitcoin reserve defeases it, and why Treasury should pilot BitBonds. This post Andrew Hohns: Why Bitcoin Can..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T15:17:11+00:00",
+   "last_seen": "2026-11-03T15:17:11+00:00",
+   "summary": "&#9654; Bitcoin Magazine Andrew Hohns: Why Bitcoin Can Fix America&#8217;s Debt Spiral Battery Finance\u2019s Andrew Hohns explains why taxes won\u2019t fix the $40T debt, how a Bitcoin reserve defeases it, and why Treasury should pilot BitBonds. This post Andrew Hohns: Why Bitcoin Can...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
   {
    "id": "3c03c8bf8c",
    "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
@@ -1227,11 +1441,18 @@
      "url": "https://cointelegraph.com/news/uk-warns-ai-ransomware-attack-on-infrastructure-highly-likely-by-2028?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-11-03T03:58:45+00:00",
      "summary": "The warning comes as UK cyber officials also flag growing threats from state-backed hackers targeting government officials and politicians."
+    },
+    {
+     "source": "Decrypt",
+     "title": "UK Says AI-Powered Ransomware Attack on Critical Infrastructure 'Highly Likely' by 2028",
+     "url": "https://decrypt.co/382411/uk-says-ai-powered-ransomware-attack-on-critical-infrastructure-highly-likely-by-2028",
+     "date": "2026-11-03T16:09:19+00:00",
+     "summary": "The National Cyber Security Centre said AI will expose security flaws \"tolerated for far too long,\" and called time on \"tech on the cheap.\""
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-03T03:58:45+00:00",
-   "last_seen": "2026-11-03T03:58:45+00:00",
+   "last_seen": "2026-11-03T16:09:19+00:00",
    "summary": "The warning comes as UK cyber officials also flag growing threats from state-backed hackers targeting government officials and politicians.",
    "tags": [
     "ai",

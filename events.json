@@ -1,6 +1,89 @@
 {
- "updated": "2026-11-03T09:10:20.216889+00:00",
+ "updated": "2026-11-03T10:12:53.696539+00:00",
  "events": [
+  {
+   "id": "77de743ea8",
+   "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
+   "date": "2026-11-03T10:04:05+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-support-loss-recent-buyers-underwater?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T10:04:05+00:00",
+     "summary": "Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort in a move that risked flipping it to new resistance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T10:04:05+00:00",
+   "last_seen": "2026-11-03T10:04:05+00:00",
+   "summary": "Bitcoin fell below the realized price of the one-to-three-month-old buyer cohort in a move that risked flipping it to new resistance.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "130156cfde",
+   "title": "Live news: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
+   "date": "2026-11-03T09:50:16+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live news: Bitcoin faces fifth weekly loss as midterm elections weigh on markets",
+     "url": "https://www.coindesk.com/markets/2026/11/03/live-news-bitcoin-faces-fifth-weekly-loss-as-midterm-uncertainty-and-apple-warning-weigh-on-markets",
+     "date": "2026-11-03T09:50:16+00:00",
+     "summary": "A fifth straight weekly decline would mark bitcoin\u2019s joint third-longest losing streak, as oil rebounds and Apple\u2019s margin warning adds to investor caution ahead of the U.S. midterms."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T09:50:16+00:00",
+   "last_seen": "2026-11-03T09:50:16+00:00",
+   "summary": "A fifth straight weekly decline would mark bitcoin\u2019s joint third-longest losing streak, as oil rebounds and Apple\u2019s margin warning adds to investor caution ahead of the U.S. midterms.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "a9cd14606b",
+   "title": "BTCPay urges Bitcoin merchants to replace wallets after hackers steal an estimated $1.6 million",
+   "date": "2026-11-03T09:20:39+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "BTCPay urges Bitcoin merchants to replace wallets after hackers steal an estimated $1.6 million",
+     "url": "https://cryptoslate.com/btcpay-urges-bitcoin-merchants-to-replace-wallets-after-hackers-steal-an-estimated-1-6-million/",
+     "date": "2026-11-03T09:20:39+00:00",
+     "summary": "The November 2 update links hot-wallet thefts to an August-patched flaw and says updating cannot remove access already gained. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T09:20:39+00:00",
+   "last_seen": "2026-11-03T09:20:39+00:00",
+   "summary": "The November 2 update links hot-wallet thefts to an August-patched flaw and says updating cannot remove access already gained. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "0c014079dc",
+   "title": "NEAR governance approves proposal to cut token issuance ceiling to 1.6%",
+   "date": "2026-11-03T09:19:41+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "NEAR governance approves proposal to cut token issuance ceiling to 1.6%",
+     "url": "https://www.theblock.co/news/defi/2026-11-03-near-governance-approves-proposal-to-cut-token-issuance-432378",
+     "date": "2026-11-03T09:19:41+00:00",
+     "summary": "NEAR's House of Stake passed HSP-029, which lowers the network's maximum annual issuance rate from 2.5% to 1.6% over 24 months."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T09:19:41+00:00",
+   "last_seen": "2026-11-03T09:19:41+00:00",
+   "summary": "NEAR's House of Stake passed HSP-029, which lowers the network's maximum annual issuance rate from 2.5% to 1.6% over 24 months.",
+   "tags": []
+  },
   {
    "id": "ff94a68098",
    "title": "Mercado Bitcoin Promises No Customer Asset Losses After Hack",
@@ -596,12 +679,19 @@
      "url": "https://cointelegraph.com/news/north-korea-denies-role-in-63b-binance-hack-points-finger-at-us?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-11-02T23:07:07+00:00",
      "summary": "Pyongyang has pushed back against the FBI\u2019s attribution of the Binance attack, with Kim Yo Jong calling the US allegations politically motivated."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "North Korea denies role in $6.4 billion Binance hack after FBI points to TraderTraitor",
+     "url": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
+     "date": "2026-11-03T09:40:32+00:00",
+     "summary": "The high-profile denial follows FBI alerts identifying North Korean-controlled wallet addresses tied to the largest cryptocurrency exploit in history."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-02T23:07:07+00:00",
-   "last_seen": "2026-11-02T23:07:07+00:00",
-   "summary": "Pyongyang has pushed back against the FBI\u2019s attribution of the Binance attack, with Kim Yo Jong calling the US allegations politically motivated.",
+   "last_seen": "2026-11-03T09:40:32+00:00",
+   "summary": "The high-profile denial follows FBI alerts identifying North Korean-controlled wallet addresses tied to the largest cryptocurrency exploit in history.",
    "tags": [
     "exchanges",
     "security"

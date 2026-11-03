@@ -1,6 +1,27 @@
 {
- "updated": "2026-11-03T06:13:36.309807+00:00",
+ "updated": "2026-11-03T07:36:04.346880+00:00",
  "events": [
+  {
+   "id": "adb153480b",
+   "title": "Solana study finds wider spreads outside aggregators at five of six sampled pools",
+   "date": "2026-11-03T06:50:46+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Solana study finds wider spreads outside aggregators at five of six sampled pools",
+     "url": "https://cryptoslate.com/solana-study-finds-wider-spreads-outside-aggregators-at-five-of-six-sampled-pools/",
+     "date": "2026-11-03T06:50:46+00:00",
+     "summary": "A September comparison found wider non-aggregator round-trip spreads at five of six venues, without proving current per-swap savings. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T06:50:46+00:00",
+   "last_seen": "2026-11-03T06:50:46+00:00",
+   "summary": "A September comparison found wider non-aggregator round-trip spreads at five of six venues, without proving current per-swap savings. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "solana"
+   ]
+  },
   {
    "id": "ee88faf3c0",
    "title": "Aave Horizon taps perpetual futures to price stock collateral on weekends, Chainlink says",

@@ -1,6 +1,135 @@
 {
- "updated": "2026-11-03T10:12:53.696539+00:00",
+ "updated": "2026-11-03T11:13:21.291413+00:00",
  "events": [
+  {
+   "id": "be68b8f89c",
+   "title": "Liquid\u2019s bitcoin IOUs are fully backed again after a $320 million exploit",
+   "date": "2026-11-03T11:12:12+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Liquid\u2019s bitcoin IOUs are fully backed again after a $320 million exploit",
+     "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
+     "date": "2026-11-03T11:12:12+00:00",
+     "summary": "A final 250 BTC transfer closed the hole left by September\u2019s bug, but the federation behind the network still hasn\u2019t said who paid to fill it."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T11:12:12+00:00",
+   "last_seen": "2026-11-03T11:12:12+00:00",
+   "summary": "A final 250 BTC transfer closed the hole left by September\u2019s bug, but the federation behind the network still hasn\u2019t said who paid to fill it.",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "e455495dec",
+   "title": "Backpack Warns of Fake Tokenized Stock Airdrops",
+   "date": "2026-11-03T11:07:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Backpack Warns of Fake Tokenized Stock Airdrops",
+     "url": "https://thedefiant.io/news/security/backpack-warns-of-fake-tokenized-stock-airdrops",
+     "date": "2026-11-03T11:07:50+00:00",
+     "summary": "Scammers may cite genuine token addresses to appear legitimate, the company said, directing users to its official Solana mint directory."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T11:07:50+00:00",
+   "last_seen": "2026-11-03T11:07:50+00:00",
+   "summary": "Scammers may cite genuine token addresses to appear legitimate, the company said, directing users to its official Solana mint directory.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "9cc5913504",
+   "title": "France postpones 2027 budget vote, crypto exit-tax proposals scrapped",
+   "date": "2026-11-03T10:49:26+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "France postpones 2027 budget vote, crypto exit-tax proposals scrapped",
+     "url": "https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T10:49:26+00:00",
+     "summary": "The National Assembly postponed the vote on the budget\u2019s revenue section for the second time, while the Nov. 17 deadline for the first reading examination nears."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T10:49:26+00:00",
+   "last_seen": "2026-11-03T10:49:26+00:00",
+   "summary": "The National Assembly postponed the vote on the budget\u2019s revenue section for the second time, while the Nov. 17 deadline for the first reading examination nears.",
+   "tags": []
+  },
+  {
+   "id": "686665aebc",
+   "title": "Bybit and Bitget see crypto deposits surge following Binance\u2019s $6.3 billion hack",
+   "date": "2026-11-03T10:40:42+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bybit and Bitget see crypto deposits surge following Binance\u2019s $6.3 billion hack",
+     "url": "https://cryptoslate.com/bybit-and-bitget-see-crypto-deposits-surge-following-binances-6-3-billion-hack/",
+     "date": "2026-11-03T10:40:42+00:00",
+     "summary": "Bybit and Bitget recorded larger address counts during the shutdown, but the data do not establish Binance customer migration. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T10:40:42+00:00",
+   "last_seen": "2026-11-03T10:40:42+00:00",
+   "summary": "Bybit and Bitget recorded larger address counts during the shutdown, but the data do not establish Binance customer migration. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "markets",
+    "security"
+   ]
+  },
+  {
+   "id": "31b184b92b",
+   "title": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'",
+   "date": "2026-11-03T10:18:48+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'",
+     "url": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
+     "date": "2026-11-03T10:18:48+00:00",
+     "summary": "Kim Yo Jong suggested the U.S. itself could be behind the theft, as Binance said hourly deposits had begun to exceed withdrawals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T10:18:48+00:00",
+   "last_seen": "2026-11-03T10:18:48+00:00",
+   "summary": "Kim Yo Jong suggested the U.S. itself could be behind the theft, as Binance said hourly deposits had begun to exceed withdrawals.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "3955839b94",
+   "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+   "date": "2026-11-03T10:15:53+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
+     "url": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
+     "date": "2026-11-03T10:15:53+00:00",
+     "summary": "Ardoino didn\u2019t say where the extra coins sit. Holdings outside USDT reserves, such as Tether\u2019s investments, wouldn\u2019t appear in the report."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T10:15:53+00:00",
+   "last_seen": "2026-11-03T10:15:53+00:00",
+   "summary": "Ardoino didn\u2019t say where the extra coins sit. Holdings outside USDT reserves, such as Tether\u2019s investments, wouldn\u2019t appear in the report.",
+   "tags": [
+    "bitcoin",
+    "stablecoins"
+   ]
+  },
   {
    "id": "77de743ea8",
    "title": "Bitcoin price threatens $77.7K support loss with recent buyers underwater",

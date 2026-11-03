@@ -1,6 +1,108 @@
 {
- "updated": "2026-11-03T19:14:44.420909+00:00",
+ "updated": "2026-11-03T20:10:52.481967+00:00",
  "events": [
+  {
+   "id": "3ef4e76387",
+   "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
+   "date": "2026-11-03T19:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
+     "url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
+     "date": "2026-11-03T19:46:03+00:00",
+     "summary": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T19:46:03+00:00",
+   "last_seen": "2026-11-03T19:46:03+00:00",
+   "summary": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets.",
+   "tags": [
+    "ai",
+    "security"
+   ]
+  },
+  {
+   "id": "07d3287501",
+   "title": "US midterms: Prediction markets favor Democrats in key crypto races",
+   "date": "2026-11-03T19:38:19+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US midterms: Prediction markets favor Democrats in key crypto races",
+     "url": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T19:38:19+00:00",
+     "summary": "Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil\u2019s runoff."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T19:38:19+00:00",
+   "last_seen": "2026-11-03T19:38:19+00:00",
+   "summary": "Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil\u2019s runoff.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "2b14260c3f",
+   "title": "Stellar's Bell Upgrade Goes Live on Testnet Ahead of Mainnet Vote",
+   "date": "2026-11-03T19:28:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Stellar's Bell Upgrade Goes Live on Testnet Ahead of Mainnet Vote",
+     "url": "https://thedefiant.io/news/blockchains/stellar-s-bell-upgrade-goes-live-on-testnet-ahead-of-mainnet-vote",
+     "date": "2026-11-03T19:28:47+00:00",
+     "summary": "Wallets and indexers must update their software, while smart contracts gain optional post-quantum signature verification."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T19:28:47+00:00",
+   "last_seen": "2026-11-03T19:28:47+00:00",
+   "summary": "Wallets and indexers must update their software, while smart contracts gain optional post-quantum signature verification.",
+   "tags": []
+  },
+  {
+   "id": "2b56ac6ff5",
+   "title": "Sei's Autobahn Consensus Vote Clears Quorum",
+   "date": "2026-11-03T19:27:38+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Sei's Autobahn Consensus Vote Clears Quorum",
+     "url": "https://thedefiant.io/news/blockchains/sei-s-autobahn-consensus-vote-clears-quorum",
+     "date": "2026-11-03T19:27:38+00:00",
+     "summary": "SIP-6 would let validators propose transactions simultaneously, but a public testnet and security audits must precede activation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T19:27:38+00:00",
+   "last_seen": "2026-11-03T19:27:38+00:00",
+   "summary": "SIP-6 would let validators propose transactions simultaneously, but a public testnet and security audits must precede activation.",
+   "tags": []
+  },
+  {
+   "id": "7e64aa5d87",
+   "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
+   "date": "2026-11-03T19:16:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
+     "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
+     "date": "2026-11-03T19:16:02+00:00",
+     "summary": "Chairman Michael Selig said \u201cequity perpetual futures\u201d can now trade on CFTC-registered exchanges, extending a crypto-native instrument to traditional stocks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T19:16:02+00:00",
+   "last_seen": "2026-11-03T19:16:02+00:00",
+   "summary": "Chairman Michael Selig said \u201cequity perpetual futures\u201d can now trade on CFTC-registered exchanges, extending a crypto-native instrument to traditional stocks.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "442b3c0b52",
    "title": "Cboe-Backed Group Sues CFTC Over Single-Stock Perps Approvals",

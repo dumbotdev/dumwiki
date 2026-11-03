@@ -1,6 +1,139 @@
 {
- "updated": "2026-11-03T11:13:21.291413+00:00",
+ "updated": "2026-11-03T12:04:11.497331+00:00",
  "events": [
+  {
+   "id": "57774c7874",
+   "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+   "date": "2026-11-03T12:01:05+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+     "url": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
+     "date": "2026-11-03T12:01:05+00:00",
+     "summary": "But there\u2019s a catch: validators that fail to deliver on their commitments currently face no financial compensation requirement under the service."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T12:01:05+00:00",
+   "last_seen": "2026-11-03T12:01:05+00:00",
+   "summary": "But there\u2019s a catch: validators that fail to deliver on their commitments currently face no financial compensation requirement under the service.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "7f3ebe1acd",
+   "title": "Tether freezes $1.5 billion in 30 minutes after Binance hack, but $729 million escapes",
+   "date": "2026-11-03T12:00:53+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Tether freezes $1.5 billion in 30 minutes after Binance hack, but $729 million escapes",
+     "url": "https://cryptoslate.com/tether-freezes-1-5-billion-in-30-minutes-after-binance-hack-but-729-million-escapes/",
+     "date": "2026-11-03T12:00:53+00:00",
+     "summary": "Tether describes immobilized USDT, while US precedents show separate decisions governing custody, ownership and return. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T12:00:53+00:00",
+   "last_seen": "2026-11-03T12:00:53+00:00",
+   "summary": "Tether describes immobilized USDT, while US precedents show separate decisions governing custody, ownership and return. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f04d9969c2",
+   "title": "Binance Lacks Cyber Insurance for $6.3 Billion Hack, Bloomberg Law Reports",
+   "date": "2026-11-03T11:59:23+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Lacks Cyber Insurance for $6.3 Billion Hack, Bloomberg Law Reports",
+     "url": "https://thedefiant.io/news/hacks/binance-lacks-cyber-insurance-for-6-3-billion-hack-bloomberg-law-reports",
+     "date": "2026-11-03T11:59:23+00:00",
+     "summary": "The exchange says it reserved more than $6.34 billion in company funds and is drawing on emergency and futures reserves to replace stolen assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T11:59:23+00:00",
+   "last_seen": "2026-11-03T11:59:23+00:00",
+   "summary": "The exchange says it reserved more than $6.34 billion in company funds and is drawing on emergency and futures reserves to replace stolen assets.",
+   "tags": [
+    "exchanges",
+    "regulation",
+    "security"
+   ]
+  },
+  {
+   "id": "32706244a3",
+   "title": "Binance\u2019s net inflows turn positive at $2.3B as withdrawals expand",
+   "date": "2026-11-03T11:32:02+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance\u2019s net inflows turn positive at $2.3B as withdrawals expand",
+     "url": "https://cointelegraph.com/news/binances-daily-inflows-positive-18b-withdrawals?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T11:32:02+00:00",
+     "summary": "Binance led exchanges in 24-hour net inflows, reversing Monday\u2019s heavy outflows as it restored access to funds after its $6.3 billion hack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T11:32:02+00:00",
+   "last_seen": "2026-11-03T11:32:02+00:00",
+   "summary": "Binance led exchanges in 24-hour net inflows, reversing Monday\u2019s heavy outflows as it restored access to funds after its $6.3 billion hack.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "1fb4bbe15a",
+   "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
+   "date": "2026-11-03T11:28:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
+     "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
+     "date": "2026-11-03T11:28:00+00:00",
+     "summary": "Bitcoin edged up 0.2% to around $76,900 since midnight UTC as spot ETFs lost $399 million for a second day and Binance customers pulled a net $4.72 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T11:28:00+00:00",
+   "last_seen": "2026-11-03T11:28:00+00:00",
+   "summary": "Bitcoin edged up 0.2% to around $76,900 since midnight UTC as spot ETFs lost $399 million for a second day and Binance customers pulled a net $4.72 billion.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "4af71b67bf",
+   "title": "France Delays Budget Vote Again, Leaving Stablecoin Tax Pending",
+   "date": "2026-11-03T11:13:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "France Delays Budget Vote Again, Leaving Stablecoin Tax Pending",
+     "url": "https://thedefiant.io/news/regulation/france-delays-budget-vote-again-leaving-stablecoin-tax-pending",
+     "date": "2026-11-03T11:13:54+00:00",
+     "summary": "Lawmakers defeated a proposal to tax unrealized crypto gains when residents move abroad, but a stablecoin-swap tax remains in the provisional budget text."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T11:13:54+00:00",
+   "last_seen": "2026-11-03T11:13:54+00:00",
+   "summary": "Lawmakers defeated a proposal to tax unrealized crypto gains when residents move abroad, but a stablecoin-swap tax remains in the provisional budget text.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "be68b8f89c",
    "title": "Liquid\u2019s bitcoin IOUs are fully backed again after a $320 million exploit",
@@ -767,11 +900,25 @@
      "url": "https://thedefiant.io/news/security/liquid-restores-full-bitcoin-backing-after-elements-exploit",
      "date": "2026-11-03T00:12:59+00:00",
      "summary": "Full reserves meet a condition for restarting direct federation withdrawals, which were last reported under enhanced operational controls."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
+     "url": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
+     "date": "2026-11-03T11:22:10+00:00",
+     "summary": "Blockstream CEO Adam Back said the sidechain's defenses have been hardened, and warned developers not to trust AI-suggested fixes blindly."
+    },
+    {
+     "source": "The Block",
+     "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
+     "date": "2026-11-03T11:49:20+00:00",
+     "summary": "Liquid Network said its bitcoin reserves are back to full backing after September's exploit, with Blockstream providing the funds."
     }
    ],
-   "score": 10,
+   "score": 30,
    "first_seen": "2026-11-03T00:12:59+00:00",
-   "last_seen": "2026-11-03T00:12:59+00:00",
+   "last_seen": "2026-11-03T11:49:20+00:00",
    "summary": "Full reserves meet a condition for restarting direct federation withdrawals, which were last reported under enhanced operational controls.",
    "tags": [
     "bitcoin",

@@ -1,6 +1,389 @@
 {
- "updated": "2026-11-03T13:28:05.768080+00:00",
+ "updated": "2026-11-03T15:07:41.098503+00:00",
  "events": [
+  {
+   "id": "3c03c8bf8c",
+   "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
+   "date": "2026-11-03T15:02:13+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "CFTC clears perpetual futures on stocks, bringing crypto trading model to Wall Street",
+     "url": "https://www.coindesk.com/policy/2026/11/03/cftc-clears-perpetual-futures-on-stocks-bringing-crypto-trading-model-to-wall-street",
+     "date": "2026-11-03T15:02:13+00:00",
+     "summary": "CFTC Chair Michael Selig said the move gives U.S. traders a regulated alternative to \u201coffshore, and often unregulated, venues.\u201d"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T15:02:13+00:00",
+   "last_seen": "2026-11-03T15:02:13+00:00",
+   "summary": "CFTC Chair Michael Selig said the move gives U.S. traders a regulated alternative to \u201coffshore, and often unregulated, venues.\u201d",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "515cc7f13c",
+   "title": "Bitcoin Lightning fix blocks a probe linking private channels to onchain funding",
+   "date": "2026-11-03T15:00:18+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin Lightning fix blocks a probe linking private channels to onchain funding",
+     "url": "https://cryptoslate.com/bitcoin-lightning-fix-blocks-a-probe-linking-private-channels-to-onchain-funding/",
+     "date": "2026-11-03T15:00:18+00:00",
+     "summary": "LDK\u2019s October 25 fix rejects a funding-location lookup used by a probe requiring connections to both endpoints of an unannounced channel. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T15:00:18+00:00",
+   "last_seen": "2026-11-03T15:00:18+00:00",
+   "summary": "LDK\u2019s October 25 fix rejects a funding-location lookup used by a probe requiring connections to both endpoints of an unannounced channel. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "3040be8b04",
+   "title": "Binance's $6.3 billion hack began with a fake job interview, exchange says",
+   "date": "2026-11-03T14:53:19+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Binance's $6.3 billion hack began with a fake job interview, exchange says",
+     "url": "https://www.coindesk.com/business/2026/11/03/binance-s-usd6-3-billion-hack-began-with-a-fake-job-interview-exchange-says",
+     "date": "2026-11-03T14:53:19+00:00",
+     "summary": "North Korea-linked attackers spent months compromising Binance employees and internal systems before exploiting its hot-wallet signing infrastructure through Ethereum's EIP-7702 mechanism."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Fake Job Interview Opened Path to $6.34 Billion Hack, Binance Says",
+     "url": "https://thedefiant.io/news/hacks/fake-job-interview-opened-path-to-6-34-billion-hack-binance-says",
+     "date": "2026-11-03T14:57:12+00:00",
+     "summary": "Attackers used an internal AI tool to reach wallet engineers, while persistent onchain permissions complicated containment."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-03T14:53:19+00:00",
+   "last_seen": "2026-11-03T14:57:12+00:00",
+   "summary": "North Korea-linked attackers spent months compromising Binance employees and internal systems before exploiting its hot-wallet signing infrastructure through Ethereum's EIP-7702 mechanism.",
+   "tags": [
+    "ai",
+    "ethereum",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "9fc7a9e092",
+   "title": "CFTC Opens U.S. Stock Market to Equity Perpetual Futures",
+   "date": "2026-11-03T14:50:58+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "CFTC Opens U.S. Stock Market to Equity Perpetual Futures",
+     "url": "https://bitcoinmagazine.com/news/cftc-opens-equity-perpetual-futures",
+     "date": "2026-11-03T14:50:58+00:00",
+     "summary": "Bitcoin Magazine CFTC Opens U.S. Stock Market to Equity Perpetual Futures The CFTC has cleared perpetual futures on individual stocks to trade on dual-registered U.S. exchanges for the first time. This post CFTC Opens U.S. Stock Market to Equity Perpetual Futures first appeared..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T14:50:58+00:00",
+   "last_seen": "2026-11-03T14:50:58+00:00",
+   "summary": "Bitcoin Magazine CFTC Opens U.S. Stock Market to Equity Perpetual Futures The CFTC has cleared perpetual futures on individual stocks to trade on dual-registered U.S. exchanges for the first time. This post CFTC Opens U.S. Stock Market to Equity Perpetual Futures first appeared...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "1dee68f4ea",
+   "title": "Binance Details Months-Long Campaign Behind $6.34 Billion Hack",
+   "date": "2026-11-03T14:43:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Details Months-Long Campaign Behind $6.34 Billion Hack",
+     "url": "https://thedefiant.io/news/hacks/binance-details-months-long-campaign-behind-6-34-billion-hack",
+     "date": "2026-11-03T14:43:08+00:00",
+     "summary": "The exchange says 98% of impacted tokens have been replenished; its report explains why pausing withdrawals did not stop every outflow."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T14:43:08+00:00",
+   "last_seen": "2026-11-03T14:43:08+00:00",
+   "summary": "The exchange says 98% of impacted tokens have been replenished; its report explains why pausing withdrawals did not stop every outflow.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "f059abab83",
+   "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
+   "date": "2026-11-03T14:42:30+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "South Korea asks its biggest banks how a major crypto hack would hit them",
+     "url": "https://www.coindesk.com/business/2026/11/03/south-korea-asks-its-biggest-banks-how-a-major-crypto-hack-would-hit-them",
+     "date": "2026-11-03T14:42:30+00:00",
+     "summary": "In its first such survey, the BOK also asked about a crypto price crash, losses at another firm, and each firm\u2019s crypto teams, budgets and investments."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T14:42:30+00:00",
+   "last_seen": "2026-11-03T14:42:30+00:00",
+   "summary": "In its first such survey, the BOK also asked about a crypto price crash, losses at another firm, and each firm\u2019s crypto teams, budgets and investments.",
+   "tags": [
+    "markets",
+    "security"
+   ]
+  },
+  {
+   "id": "b96d3c1ab4",
+   "title": "CZ warns of more AI-driven hacks following Binance\u2019s historic $6.4 billion heist",
+   "date": "2026-11-03T14:22:09+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "CZ warns of more AI-driven hacks following Binance\u2019s historic $6.4 billion heist",
+     "url": "https://www.coindesk.com/business/2026/11/03/cz-warns-of-more-ai-driven-hacks-following-binance-s-historic-usd6-4-billion-heist",
+     "date": "2026-11-03T14:22:09+00:00",
+     "summary": "While investigators found no evidence that AI agents laundered the stolen Binance funds, Zhao stressed that automated tools are lowering the barrier for complex breaches."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T14:22:09+00:00",
+   "last_seen": "2026-11-03T14:22:09+00:00",
+   "summary": "While investigators found no evidence that AI agents laundered the stolen Binance funds, Zhao stressed that automated tools are lowering the barrier for complex breaches.",
+   "tags": [
+    "ai",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "e400bb4fca",
+   "title": "Crypto Recovery Services: What to Check Before Paying",
+   "date": "2026-11-03T14:17:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Crypto Recovery Services: What to Check Before Paying",
+     "url": "https://thedefiant.io/news/security/crypto-recovery-services-what-to-check-before-paying",
+     "date": "2026-11-03T14:17:54+00:00",
+     "summary": "Tracing stolen crypto is different from getting it back. US consumers should verify a provider\u2019s identity, written deliverables, fees and access to sensitive data."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T14:17:54+00:00",
+   "last_seen": "2026-11-03T14:17:54+00:00",
+   "summary": "Tracing stolen crypto is different from getting it back. US consumers should verify a provider\u2019s identity, written deliverables, fees and access to sensitive data.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "dff091f6d3",
+   "title": "Aztec Launches Tierra Upgrade With Faster Ethereum Messaging",
+   "date": "2026-11-03T14:09:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aztec Launches Tierra Upgrade With Faster Ethereum Messaging",
+     "url": "https://thedefiant.io/news/blockchains/aztec-launches-tierra-upgrade-with-faster-ethereum-messaging",
+     "date": "2026-11-03T14:09:11+00:00",
+     "summary": "The new rollup requires contract recompilation and new addresses, while V5 gets roughly 30 days of funded migration support."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T14:09:11+00:00",
+   "last_seen": "2026-11-03T14:09:11+00:00",
+   "summary": "The new rollup requires contract recompilation and new addresses, while V5 gets roughly 30 days of funded migration support.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "44f93be653",
+   "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
+   "date": "2026-11-03T14:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
+     "url": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
+     "date": "2026-11-03T14:01:02+00:00",
+     "summary": "The \u201cTierra\u201d upgrade resolves a critical bug from the prior version, adds formal verification, and an AI-powered testing harness."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T14:01:02+00:00",
+   "last_seen": "2026-11-03T14:01:02+00:00",
+   "summary": "The \u201cTierra\u201d upgrade resolves a critical bug from the prior version, adds formal verification, and an AI-powered testing harness.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "dcaf73fdcc",
+   "title": "Stronger US factory activity complicates Bitcoin\u2019s hopes for lower rates",
+   "date": "2026-11-03T14:00:45+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Stronger US factory activity complicates Bitcoin\u2019s hopes for lower rates",
+     "url": "https://cryptoslate.com/stronger-us-factory-activity-complicates-bitcoins-hopes-for-lower-rates/",
+     "date": "2026-11-03T14:00:45+00:00",
+     "summary": "ISM\u2019s production index reached 59.0 as factory price increases became less widespread, leaving growth and funding signals in tension. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T14:00:45+00:00",
+   "last_seen": "2026-11-03T14:00:45+00:00",
+   "summary": "ISM\u2019s production index reached 59.0 as factory price increases became less widespread, leaving growth and funding signals in tension. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "c9ad80b466",
+   "title": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
+   "date": "2026-11-03T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "LO:TECH raises $12 million to expand crypto trading into U.S. and Asia",
+     "url": "https://www.coindesk.com/business/2026/11/03/lo-tech-raises-usd12-million-to-expand-crypto-trading-into-u-s-and-asia",
+     "date": "2026-11-03T14:00:00+00:00",
+     "summary": "LO:TECH is betting on round-the-clock tokenized stock trading but didn\u2019t say if it trades them now; a WFE study found stock exchanges still set prices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T14:00:00+00:00",
+   "last_seen": "2026-11-03T14:00:00+00:00",
+   "summary": "LO:TECH is betting on round-the-clock tokenized stock trading but didn\u2019t say if it trades them now; a WFE study found stock exchanges still set prices.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "68834d20d2",
+   "title": "Ethereum Layer 2 Aztec gets Tierra V6 upgrade to support faster private apps",
+   "date": "2026-11-03T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ethereum Layer 2 Aztec gets Tierra V6 upgrade to support faster private apps",
+     "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
+     "date": "2026-11-03T14:00:00+00:00",
+     "summary": "Aztec Foundation has rolled out Tierra V6, saying it fixes earlier security issues and doubles the speed of private transaction proof generation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T14:00:00+00:00",
+   "last_seen": "2026-11-03T14:00:00+00:00",
+   "summary": "Aztec Foundation has rolled out Tierra V6, saying it fixes earlier security issues and doubles the speed of private transaction proof generation.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "ae64ffdb32",
+   "title": "What\u2019s at stake for crypto as the US votes in the 2026 midterms?",
+   "date": "2026-11-03T13:53:07+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "What\u2019s at stake for crypto as the US votes in the 2026 midterms?",
+     "url": "https://cointelegraph.com/news/us-midterms-2026-stake-crypto-election-day?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T13:53:07+00:00",
+     "summary": "Crypto groups spent about $176 million ahead of the US midterms, with control of Congress and the future of crypto legislation at stake."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T13:53:07+00:00",
+   "last_seen": "2026-11-03T13:53:07+00:00",
+   "summary": "Crypto groups spent about $176 million ahead of the US midterms, with control of Congress and the future of crypto legislation at stake.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "a4a2096452",
+   "title": "Bitcoin Price Trades Near $77,500 as Midterm Voting Begins",
+   "date": "2026-11-03T13:46:39+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Trades Near $77,500 as Midterm Voting Begins",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-77500-midterm",
+     "date": "2026-11-03T13:46:39+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Trades Near $77,500 as Midterm Voting Begins Bitcoin price trades near $77,500 as midterm voting begins, pressured by a record $6.3 billion Binance hack, ETF outflows, a Fed leaning toward a December hike and oil above $100 on Iran tensions. This..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T13:46:39+00:00",
+   "last_seen": "2026-11-03T13:46:39+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Trades Near $77,500 as Midterm Voting Begins Bitcoin price trades near $77,500 as midterm voting begins, pressured by a record $6.3 billion Binance hack, ETF outflows, a Fed leaning toward a December hike and oil above $100 on Iran tensions. This...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "exchanges",
+    "macro",
+    "markets",
+    "security"
+   ]
+  },
+  {
+   "id": "69e5055921",
+   "title": "Aave borrowers faced up to 36% APR while a freeze blocked fresh collateral",
+   "date": "2026-11-03T13:30:58+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Aave borrowers faced up to 36% APR while a freeze blocked fresh collateral",
+     "url": "https://cryptoslate.com/borrowers-faced-36-interest-rates-as-aave-froze-deposits-during-binance-hack/",
+     "date": "2026-11-03T13:30:58+00:00",
+     "summary": "Borrowers in Aave&#039;s frozen reserves kept paying interest while the restrictions prevented fresh deposits, including the extra collateral they might normally supply to protect a loan. Suppliers were still able to request their money back, provided enough tokens were..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T13:30:58+00:00",
+   "last_seen": "2026-11-03T13:30:58+00:00",
+   "summary": "Borrowers in Aave&#039;s frozen reserves kept paying interest while the restrictions prevented fresh deposits, including the extra collateral they might normally supply to protect a loan. Suppliers were still able to request their money back, provided enough tokens were...",
+   "tags": []
+  },
+  {
+   "id": "0fb9aa1ac1",
+   "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
+   "date": "2026-11-03T13:15:47+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
+     "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T13:15:47+00:00",
+     "summary": "Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia\u2019s new law, with annual purchase limits for non-qualified investors."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T13:15:47+00:00",
+   "last_seen": "2026-11-03T13:15:47+00:00",
+   "summary": "Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia\u2019s new law, with annual purchase limits for non-qualified investors.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "regulation",
+    "stablecoins"
+   ]
+  },
   {
    "id": "0c88d626af",
    "title": "Bitcoin\u2019s year-end liquidity hopes face a projected $150 billion Treasury cash rebuild",
@@ -1148,13 +1531,21 @@
      "url": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-11-02T22:22:30+00:00",
      "summary": "New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to restore staking access for users in the US state."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "New Jersey Drops Coinbase Staking Order After Three Years",
+     "url": "https://bitcoinmagazine.com/news/new-jersey-drops-coinbase-staking-order",
+     "date": "2026-11-03T14:26:13+00:00",
+     "summary": "Bitcoin Magazine New Jersey Drops Coinbase Staking Order After Three Years New Jersey\u2019s securities regulator has rescinded its 2023 cease-and-desist order and $5 million penalty against Coinbase\u2019s staking service. This post New Jersey Drops Coinbase Staking Order After Three..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-02T22:22:30+00:00",
-   "last_seen": "2026-11-02T22:22:30+00:00",
-   "summary": "New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to restore staking access for users in the US state.",
+   "last_seen": "2026-11-03T14:26:13+00:00",
+   "summary": "Bitcoin Magazine New Jersey Drops Coinbase Staking Order After Three Years New Jersey\u2019s securities regulator has rescinded its 2023 cease-and-desist order and $5 million penalty against Coinbase\u2019s staking service. This post New Jersey Drops Coinbase Staking Order After Three...",
    "tags": [
+    "bitcoin",
     "defi",
     "exchanges",
     "regulation"

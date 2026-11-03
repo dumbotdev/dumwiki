@@ -1,6 +1,93 @@
 {
- "updated": "2026-11-03T21:04:01.791336+00:00",
+ "updated": "2026-11-03T22:02:26.787576+00:00",
  "events": [
+  {
+   "id": "9118127e87",
+   "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
+   "date": "2026-11-03T21:50:17+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
+     "url": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
+     "date": "2026-11-03T21:50:17+00:00",
+     "summary": "Claude's prices are falling, but Anthropic's computing expenses grew faster than sales in the latest quarter\u2014a tricky equation ahead of its IPO."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T21:50:17+00:00",
+   "last_seen": "2026-11-03T21:50:17+00:00",
+   "summary": "Claude's prices are falling, but Anthropic's computing expenses grew faster than sales in the latest quarter\u2014a tricky equation ahead of its IPO.",
+   "tags": [
+    "ai",
+    "funding"
+   ]
+  },
+  {
+   "id": "49dcfdd14c",
+   "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
+   "date": "2026-11-03T21:47:20+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
+     "url": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T21:47:20+00:00",
+     "summary": "SpaceX joined several other issuers objecting to OKXICE tokenized trading, months after crypto platforms offered tokens tied to its shares."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T21:47:20+00:00",
+   "last_seen": "2026-11-03T21:47:20+00:00",
+   "summary": "SpaceX joined several other issuers objecting to OKXICE tokenized trading, months after crypto platforms offered tokens tied to its shares.",
+   "tags": []
+  },
+  {
+   "id": "996ccf08ba",
+   "title": "Bitcoin investors could pay the price as the Federal Reserve tightens bank lending rules",
+   "date": "2026-11-03T21:20:34+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin investors could pay the price as the Federal Reserve tightens bank lending rules",
+     "url": "https://cryptoslate.com/bitcoin-investors-could-pay-the-price-as-the-federal-reserve-tightens-bank-lending-rules/",
+     "date": "2026-11-03T21:20:34+00:00",
+     "summary": "The Fed&#039;s November 2 survey shows tougher approvals alongside stronger nonbank demand, with no evidence of forced Bitcoin sales. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T21:20:34+00:00",
+   "last_seen": "2026-11-03T21:20:34+00:00",
+   "summary": "The Fed&#039;s November 2 survey shows tougher approvals alongside stronger nonbank demand, with no evidence of forced Bitcoin sales. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "f934c124bc",
+   "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
+   "date": "2026-11-03T21:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
+     "url": "https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai",
+     "date": "2026-11-03T21:16:03+00:00",
+     "summary": "CrowdStrike's new kill switch lets security teams cut off unauthorized AI agents through a gateway, while its planned Fiddler acquisition aims to make autonomous software easier to monitor and audit."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T21:16:03+00:00",
+   "last_seen": "2026-11-03T21:16:03+00:00",
+   "summary": "CrowdStrike's new kill switch lets security teams cut off unauthorized AI agents through a gateway, while its planned Fiddler acquisition aims to make autonomous software easier to monitor and audit.",
+   "tags": [
+    "ai",
+    "funding"
+   ]
+  },
   {
    "id": "75b4a06592",
    "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",

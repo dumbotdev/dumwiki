@@ -1,6 +1,94 @@
 {
- "updated": "2026-11-03T22:02:26.787576+00:00",
+ "updated": "2026-11-03T23:01:55.409543+00:00",
  "events": [
+  {
+   "id": "73ea2f9e71",
+   "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+   "date": "2026-11-03T23:00:07+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+     "url": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+     "date": "2026-11-03T23:00:07+00:00",
+     "summary": "The $6.3 billion Binance hack showed how quickly cryptocurrencies can disappear on blockchain rails. Tokenized securities may offer better recourse than crypto after a theft, but the markets around them can still break down when stress hits."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T23:00:07+00:00",
+   "last_seen": "2026-11-03T23:00:07+00:00",
+   "summary": "The $6.3 billion Binance hack showed how quickly cryptocurrencies can disappear on blockchain rails. Tokenized securities may offer better recourse than crypto after a theft, but the markets around them can still break down when stress hits.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "30582fe8c9",
+   "title": "Binance relied on AI to fight fraud before hackers exploited internal tool in $6 billion theft",
+   "date": "2026-11-03T22:30:31+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance relied on AI to fight fraud before hackers exploited internal tool in $6 billion theft",
+     "url": "https://cryptoslate.com/binance-relied-on-ai-to-fight-fraud-before-hackers-exploited-internal-tool-in-6-billion-theft/",
+     "date": "2026-11-03T22:30:31+00:00",
+     "summary": "Hackers exploited Binance&#039;s internal artificial intelligence tools to compromise engineers before stealing $6.34 billion in cryptocurrency, the exchange disclosed. In its Nov. 3 security report, Binance said attackers used a compromised employee computer and an internal AI..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T22:30:31+00:00",
+   "last_seen": "2026-11-03T22:30:31+00:00",
+   "summary": "Hackers exploited Binance&#039;s internal artificial intelligence tools to compromise engineers before stealing $6.34 billion in cryptocurrency, the exchange disclosed. In its Nov. 3 security report, Binance said attackers used a compromised employee computer and an internal AI...",
+   "tags": [
+    "ai",
+    "exchanges",
+    "legal"
+   ]
+  },
+  {
+   "id": "ed56041f2d",
+   "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+   "date": "2026-11-03T22:14:44+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+     "url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+     "date": "2026-11-03T22:14:44+00:00",
+     "summary": "A group backed by Citadel Securities and other firms sued the U.S. derivatives regulator for opening a path for perps that it argued belong in the SEC's hands."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T22:14:44+00:00",
+   "last_seen": "2026-11-03T22:14:44+00:00",
+   "summary": "A group backed by Citadel Securities and other firms sued the U.S. derivatives regulator for opening a path for perps that it argued belong in the SEC's hands.",
+   "tags": [
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "a8a2200a0e",
+   "title": "SEC division views Canton Coin as digital commodity in no-action letter",
+   "date": "2026-11-03T22:11:51+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "SEC division views Canton Coin as digital commodity in no-action letter",
+     "url": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
+     "date": "2026-11-03T22:11:51+00:00",
+     "summary": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T22:11:51+00:00",
+   "last_seen": "2026-11-03T22:11:51+00:00",
+   "summary": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "9118127e87",
    "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
@@ -479,11 +567,18 @@
      "url": "https://bitcoinmagazine.com/news/tether-holds-150000-bitcoin-ceo-says",
      "date": "2026-11-03T18:06:27+00:00",
      "summary": "Bitcoin Magazine Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows Tether CEO Paolo Ardoino said in Lugano that the company holds about 150,000 bitcoin worth $11.5 billion. This post Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its..."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Tether Holds 150,000 Bitcoin, CEO Says\u2014About 50,000 More Than Its Reserve Report Shows",
+     "url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
+     "date": "2026-11-03T22:46:02+00:00",
+     "summary": "Paolo Ardoino told the Plan \u20bf Forum in Lugano the company owns \u201cgive or take 150,000 Bitcoin,\u201d but its Q3 reserve report implies just 100,060."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-03T18:06:27+00:00",
-   "last_seen": "2026-11-03T18:06:27+00:00",
+   "last_seen": "2026-11-03T22:46:02+00:00",
    "summary": "Bitcoin Magazine Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows Tether CEO Paolo Ardoino said in Lugano that the company holds about 150,000 bitcoin worth $11.5 billion. This post Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its...",
    "tags": [
     "bitcoin",

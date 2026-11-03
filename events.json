@@ -1,6 +1,71 @@
 {
- "updated": "2026-11-03T04:12:29.123483+00:00",
+ "updated": "2026-11-03T05:14:02.848845+00:00",
  "events": [
+  {
+   "id": "d991ce34df",
+   "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+   "date": "2026-11-03T04:48:17+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin drops below $77,000 as chip rout deepens ahead of U.S. midterm vote",
+     "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-drops-below-usd77-000-as-chip-rout-deepens-ahead-of-u-s-midterm-vote",
+     "date": "2026-11-03T04:48:17+00:00",
+     "summary": "ZEC tumbled nearly 10% and BNB fell under $700 as the Nasdaq 100 slid into a correction, dragging Asian stocks lower."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T04:48:17+00:00",
+   "last_seen": "2026-11-03T04:48:17+00:00",
+   "summary": "ZEC tumbled nearly 10% and BNB fell under $700 as the Nasdaq 100 slid into a correction, dragging Asian stocks lower.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "5c54b85277",
+   "title": "Ethena\u2019s trading team can approve borrowers of assets backing USDe under new rules",
+   "date": "2026-11-03T04:30:59+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethena\u2019s trading team can approve borrowers of assets backing USDe under new rules",
+     "url": "https://cryptoslate.com/ethenas-trading-team-can-approve-borrowers-of-assets-backing-usde-under-new-rules/",
+     "date": "2026-11-03T04:30:59+00:00",
+     "summary": "The October 29 framework retains committee oversight but specifies no numerical lending ceiling, and its first use remains unverified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T04:30:59+00:00",
+   "last_seen": "2026-11-03T04:30:59+00:00",
+   "summary": "The October 29 framework retains committee oversight but specifies no numerical lending ceiling, and its first use remains unverified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "fbe88dc44a",
+   "title": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
+   "date": "2026-11-03T04:14:32+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
+     "url": "https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T04:14:32+00:00",
+     "summary": "The Reserve Bank of Australia raised its benchmark rate to 4.85% on rising technology costs from AI investment and higher energy prices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T04:14:32+00:00",
+   "last_seen": "2026-11-03T04:14:32+00:00",
+   "summary": "The Reserve Bank of Australia raised its benchmark rate to 4.85% on rising technology costs from AI investment and higher energy prices.",
+   "tags": [
+    "ai",
+    "funding",
+    "macro"
+   ]
+  },
   {
    "id": "24cef280e5",
    "title": "Kinetic\u2019s $24 million XRP-linked lending market showed a 0.04% base rate before rewards",

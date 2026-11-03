@@ -1,6 +1,72 @@
 {
- "updated": "2026-11-02T23:52:06.229656+00:00",
+ "updated": "2026-11-03T01:27:05.815452+00:00",
  "events": [
+  {
+   "id": "b9e92a87eb",
+   "title": "Chainalysis Puts Mercado Bitcoin Hack at $49 Million Across 17 Chains",
+   "date": "2026-11-03T00:56:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Chainalysis Puts Mercado Bitcoin Hack at $49 Million Across 17 Chains",
+     "url": "https://thedefiant.io/news/hacks/chainalysis-puts-mercado-bitcoin-hack-at-49-million-across-17-chains",
+     "date": "2026-11-03T00:56:08+00:00",
+     "summary": "Mercado Bitcoin separately says $11 million has been blocked and promises no customer losses, while access to services remains suspended."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T00:56:08+00:00",
+   "last_seen": "2026-11-03T00:56:08+00:00",
+   "summary": "Mercado Bitcoin separately says $11 million has been blocked and promises no customer losses, while access to services remains suspended.",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "75b927b933",
+   "title": "Binance warns of second wave of crypto theft as $6.3 billion hack recovery continues",
+   "date": "2026-11-03T00:30:20+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance warns of second wave of crypto theft as $6.3 billion hack recovery continues",
+     "url": "https://cryptoslate.com/binance-warns-of-second-wave-of-crypto-theft-as-6-3-billion-hack-recovery-continues/",
+     "date": "2026-11-03T00:30:20+00:00",
+     "summary": "The November 2 update says the full proof is complete, while replenishment remains about 95% and broader token coverage is planned. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T00:30:20+00:00",
+   "last_seen": "2026-11-03T00:30:20+00:00",
+   "summary": "The November 2 update says the full proof is complete, while replenishment remains about 95% and broader token coverage is planned. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "81cd9550fd",
+   "title": "Liquid Restores Full Bitcoin Backing After Elements Exploit",
+   "date": "2026-11-03T00:12:59+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Liquid Restores Full Bitcoin Backing After Elements Exploit",
+     "url": "https://thedefiant.io/news/security/liquid-restores-full-bitcoin-backing-after-elements-exploit",
+     "date": "2026-11-03T00:12:59+00:00",
+     "summary": "Full reserves meet a condition for restarting direct federation withdrawals, which were last reported under enhanced operational controls."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T00:12:59+00:00",
+   "last_seen": "2026-11-03T00:12:59+00:00",
+   "summary": "Full reserves meet a condition for restarting direct federation withdrawals, which were last reported under enhanced operational controls.",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
   {
    "id": "43c9d003cc",
    "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
@@ -969,12 +1035,19 @@
      "url": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
      "date": "2026-11-02T16:23:24+00:00",
      "summary": "The chairman laid out six reasons the market\u2019s \u201cmuted\u201d 4% ETH drop after the record Binance theft shows crypto is \u201cincreasingly resilient,\u201d as the firm\u2019s stash neared its 5% supply goal."
+    },
+    {
+     "source": "CryptoSlate",
+     "title": "Tom Lee calls Ethereum\u2019s 4% post-hack fall bullish",
+     "url": "https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish-but-the-bybit-comparison-has-a-catch/",
+     "date": "2026-11-03T01:05:23+00:00",
+     "summary": "Tom Lee believes crypto&#039;s muted reaction to Binance&#039;s $6.3 billion hack is another sign that a bull market is underway. The BitMine chairman pointed to Ethereum&#039;s roughly 4% decline following the Oct. 29 theft, which was more than four times larger than the $1.5..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-02T16:23:24+00:00",
-   "last_seen": "2026-11-02T16:23:24+00:00",
-   "summary": "The chairman laid out six reasons the market\u2019s \u201cmuted\u201d 4% ETH drop after the record Binance theft shows crypto is \u201cincreasingly resilient,\u201d as the firm\u2019s stash neared its 5% supply goal.",
+   "last_seen": "2026-11-03T01:05:23+00:00",
+   "summary": "Tom Lee believes crypto&#039;s muted reaction to Binance&#039;s $6.3 billion hack is another sign that a bull market is underway. The BitMine chairman pointed to Ethereum&#039;s roughly 4% decline following the Oct. 29 theft, which was more than four times larger than the $1.5...",
    "tags": [
     "ethereum",
     "exchanges",

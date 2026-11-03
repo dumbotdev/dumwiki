@@ -1,6 +1,176 @@
 {
- "updated": "2026-11-03T18:06:59.122444+00:00",
+ "updated": "2026-11-03T19:14:44.420909+00:00",
  "events": [
+  {
+   "id": "442b3c0b52",
+   "title": "Cboe-Backed Group Sues CFTC Over Single-Stock Perps Approvals",
+   "date": "2026-11-03T19:14:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Cboe-Backed Group Sues CFTC Over Single-Stock Perps Approvals",
+     "url": "https://thedefiant.io/news/regulation/cboe-backed-group-sues-cftc-over-single-stock-perps-approvals",
+     "date": "2026-11-03T19:14:33+00:00",
+     "summary": "The complaint targets Coinbase, Kalshi and Bitnomial and seeks emergency relief to prevent their contracts from being listed as security futures."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T19:14:33+00:00",
+   "last_seen": "2026-11-03T19:14:33+00:00",
+   "summary": "The complaint targets Coinbase, Kalshi and Bitnomial and seeks emergency relief to prevent their contracts from being listed as security futures.",
+   "tags": [
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "220c499a32",
+   "title": "Binance says thinly traded tokens are delaying full replacement of stolen assets",
+   "date": "2026-11-03T19:10:35+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance says thinly traded tokens are delaying full replacement of stolen assets",
+     "url": "https://cryptoslate.com/binance-says-thinly-traded-tokens-are-delaying-full-replacement-of-stolen-assets/",
+     "date": "2026-11-03T19:10:35+00:00",
+     "summary": "Binance attributes its last reported 5% replenishment gap to less-liquid assets, while its November 3 withdrawal plan reopens routes progressively. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T19:10:35+00:00",
+   "last_seen": "2026-11-03T19:10:35+00:00",
+   "summary": "Binance attributes its last reported 5% replenishment gap to less-liquid assets, while its November 3 withdrawal plan reopens routes progressively. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "75a1eb87e9",
+   "title": "Prediction markets bet on Democratic sweep of House, Senate in midterm elections",
+   "date": "2026-11-03T18:30:31+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Prediction markets bet on Democratic sweep of House, Senate in midterm elections",
+     "url": "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461",
+     "date": "2026-11-03T18:30:31+00:00",
+     "summary": "Ahead of polls closing across the U.S., bettors on prediction markes are increasingly pricing in Democrats taking both the House and Senate."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T18:30:31+00:00",
+   "last_seen": "2026-11-03T18:30:31+00:00",
+   "summary": "Ahead of polls closing across the U.S., bettors on prediction markes are increasingly pricing in Democrats taking both the House and Senate.",
+   "tags": []
+  },
+  {
+   "id": "2f7730e87e",
+   "title": "What Are Euro Stablecoins? EURC, EURR and Redemption Explained",
+   "date": "2026-11-03T18:22:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "What Are Euro Stablecoins? EURC, EURR and Redemption Explained",
+     "url": "https://thedefiant.io/news/tokens/what-are-euro-stablecoins-eurc-eurr-and-redemption-explained",
+     "date": "2026-11-03T18:22:04+00:00",
+     "summary": "Both tokens disclose a right to redeem at \u20ac1, but issuer accounts and exchange sales have separate access conditions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T18:22:04+00:00",
+   "last_seen": "2026-11-03T18:22:04+00:00",
+   "summary": "Both tokens disclose a right to redeem at \u20ac1, but issuer accounts and exchange sales have separate access conditions.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "c350f2cd8c",
+   "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
+   "date": "2026-11-03T18:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
+     "url": "https://decrypt.co/382459/brazil-mercado-bitcoin-will-refund-users-40-million-hack",
+     "date": "2026-11-03T18:16:03+00:00",
+     "summary": "Mercado Bitcoin says customers won't pay for a hack that drained tens of millions. Withdrawals on the exchange remain frozen with no restart date."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T18:16:03+00:00",
+   "last_seen": "2026-11-03T18:16:03+00:00",
+   "summary": "Mercado Bitcoin says customers won't pay for a hack that drained tens of millions. Withdrawals on the exchange remain frozen with no restart date.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "7f66c07fbd",
+   "title": "Bullish Picks Solana, Aptos and Ethereum for Tokenized Shares",
+   "date": "2026-11-03T18:12:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bullish Picks Solana, Aptos and Ethereum for Tokenized Shares",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/bullish-picks-solana-aptos-and-ethereum-for-tokenized-shares",
+     "date": "2026-11-03T18:12:56+00:00",
+     "summary": "BLSH already trades in tokenized form on Solana; the announcement gave no launch dates for Aptos or Ethereum."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T18:12:56+00:00",
+   "last_seen": "2026-11-03T18:12:56+00:00",
+   "summary": "BLSH already trades in tokenized form on Solana; the announcement gave no launch dates for Aptos or Ethereum.",
+   "tags": [
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "6f86626496",
+   "title": "Crypto spent $55 million defending a senator who already backed CLARITY",
+   "date": "2026-11-03T18:10:31+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Crypto spent $55 million defending a senator who already backed CLARITY",
+     "url": "https://cryptoslate.com/55m-is-riding-on-ohio-senate-race-but-biggest-fight-comes-after-the-election/",
+     "date": "2026-11-03T18:10:31+00:00",
+     "summary": "Defend American Jobs, a crypto-backed political group, spent more than $55 million supporting Republican Jon Husted and opposing Sherrod Brown in Ohio between Sept. 21 and Oct. 26, according to Americans for Financial Reform. Husted had already voted to advance the CLARITY Act...."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T18:10:31+00:00",
+   "last_seen": "2026-11-03T18:10:31+00:00",
+   "summary": "Defend American Jobs, a crypto-backed political group, spent more than $55 million supporting Republican Jon Husted and opposing Sherrod Brown in Ohio between Sept. 21 and Oct. 26, according to Americans for Financial Reform. Husted had already voted to advance the CLARITY Act....",
+   "tags": []
+  },
+  {
+   "id": "bf33db146a",
+   "title": "THORChain Refused to Block the $387M Bitget Hacker. Here\u2019s Why | Chad Barraford",
+   "date": "2026-11-03T18:07:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "THORChain Refused to Block the $387M Bitget Hacker. Here\u2019s Why | Chad Barraford",
+     "url": "https://thedefiant.io/podcasts-and-videos/podcast/thorchain-refused-to-block-the-usd387m-bitget-hacker-here-s-why-or-chad-barraford",
+     "date": "2026-11-03T18:07:04+00:00",
+     "summary": "Bitget lost $387.5 million in a hack and asked THORChain to block the attacker\u2019s addresses. THORChain said no. Weeks later, Tether froze four THORChain vaults on Tron holding 1.45 million USDT, then unfroze them three hours later. And in May, THORChain itself lost $10.7 million..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T18:07:04+00:00",
+   "last_seen": "2026-11-03T18:07:04+00:00",
+   "summary": "Bitget lost $387.5 million in a hack and asked THORChain to block the attacker\u2019s addresses. THORChain said no. Weeks later, Tether froze four THORChain vaults on Tron holding 1.45 million USDT, then unfroze them three hours later. And in May, THORChain itself lost $10.7 million...",
+   "tags": [
+    "security",
+    "stablecoins"
+   ]
+  },
   {
    "id": "f0f7103fe3",
    "title": "Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows",

@@ -1,6 +1,114 @@
 {
- "updated": "2026-11-03T17:16:09.279811+00:00",
+ "updated": "2026-11-03T18:06:59.122444+00:00",
  "events": [
+  {
+   "id": "f0f7103fe3",
+   "title": "Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows",
+   "date": "2026-11-03T18:06:27+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows",
+     "url": "https://bitcoinmagazine.com/news/tether-holds-150000-bitcoin-ceo-says",
+     "date": "2026-11-03T18:06:27+00:00",
+     "summary": "Bitcoin Magazine Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows Tether CEO Paolo Ardoino said in Lugano that the company holds about 150,000 bitcoin worth $11.5 billion. This post Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T18:06:27+00:00",
+   "last_seen": "2026-11-03T18:06:27+00:00",
+   "summary": "Bitcoin Magazine Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its Reserve Report Shows Tether CEO Paolo Ardoino said in Lugano that the company holds about 150,000 bitcoin worth $11.5 billion. This post Tether Holds 150,000 Bitcoin CEO Says, 50,000 More Than Its...",
+   "tags": [
+    "bitcoin",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "4bb53e065c",
+   "title": "Elon Musk\u2019s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+   "date": "2026-11-03T17:46:15+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Elon Musk\u2019s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+     "url": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
+     "date": "2026-11-03T17:46:15+00:00",
+     "summary": "Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 56."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T17:46:15+00:00",
+   "last_seen": "2026-11-03T17:46:15+00:00",
+   "summary": "Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 56.",
+   "tags": []
+  },
+  {
+   "id": "ec4e98c1e4",
+   "title": "TD Cowen: Democratic Congress Would Sink CLARITY Act for Two Years",
+   "date": "2026-11-03T17:39:34+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "TD Cowen: Democratic Congress Would Sink CLARITY Act for Two Years",
+     "url": "https://bitcoinmagazine.com/news/td-cowen-democratic-congress-clarity-act",
+     "date": "2026-11-03T17:39:34+00:00",
+     "summary": "Bitcoin Magazine TD Cowen: Democratic Congress Would Sink CLARITY Act for Two Years TD Cowen\u2019s Jaret Seiberg says a Democratic sweep of Congress would kill the CLARITY Act for two years, hand Elizabeth Warren the Banking Committee and let Democrats block Trump\u2019s picks for the..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T17:39:34+00:00",
+   "last_seen": "2026-11-03T17:39:34+00:00",
+   "summary": "Bitcoin Magazine TD Cowen: Democratic Congress Would Sink CLARITY Act for Two Years TD Cowen\u2019s Jaret Seiberg says a Democratic sweep of Congress would kill the CLARITY Act for two years, hand Elizabeth Warren the Banking Committee and let Democrats block Trump\u2019s picks for the...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "da4e2a741a",
+   "title": "Five Ways North Korea Breaks Into Crypto Firms\u2014and How Binance Was Hacked",
+   "date": "2026-11-03T17:30:54+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Five Ways North Korea Breaks Into Crypto Firms\u2014and How Binance Was Hacked",
+     "url": "https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked",
+     "date": "2026-11-03T17:30:54+00:00",
+     "summary": "From AI deepfakes to poisoning code libraries: here's how North Korean hackers get inside crypto companies."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T17:30:54+00:00",
+   "last_seen": "2026-11-03T17:30:54+00:00",
+   "summary": "From AI deepfakes to poisoning code libraries: here's how North Korean hackers get inside crypto companies.",
+   "tags": [
+    "ai",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "177234f246",
+   "title": "GitBook Revokes All Personal API Tokens After Breach",
+   "date": "2026-11-03T17:18:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "GitBook Revokes All Personal API Tokens After Breach",
+     "url": "https://thedefiant.io/news/security/gitbook-revokes-all-personal-api-tokens-after-breach",
+     "date": "2026-11-03T17:18:50+00:00",
+     "summary": "The company says an attack used AI agents and may have exposed integration credentials and questions submitted by documentation visitors."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T17:18:50+00:00",
+   "last_seen": "2026-11-03T17:18:50+00:00",
+   "summary": "The company says an attack used AI agents and may have exposed integration credentials and questions submitted by documentation visitors.",
+   "tags": [
+    "ai",
+    "security"
+   ]
+  },
   {
    "id": "61bd388bfc",
    "title": "Epidemic of Hacked Freezers Spreads Across Europe",

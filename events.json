@@ -1,6 +1,146 @@
 {
- "updated": "2026-11-03T16:11:48.341172+00:00",
+ "updated": "2026-11-03T17:16:09.279811+00:00",
  "events": [
+  {
+   "id": "61bd388bfc",
+   "title": "Epidemic of Hacked Freezers Spreads Across Europe",
+   "date": "2026-11-03T17:04:46+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Epidemic of Hacked Freezers Spreads Across Europe",
+     "url": "https://decrypt.co/382423/epidemic-hacked-freezers-spreads-europe",
+     "date": "2026-11-03T17:04:46+00:00",
+     "summary": "A suspected hacking wave has pushed supermarket freezers into defrost mode across ten European countries, with temperatures reportedly hitting 50\u00b0C. Nobody knows who's behind it or why it spread."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T17:04:46+00:00",
+   "last_seen": "2026-11-03T17:04:46+00:00",
+   "summary": "A suspected hacking wave has pushed supermarket freezers into defrost mode across ten European countries, with temperatures reportedly hitting 50\u00b0C. Nobody knows who's behind it or why it spread.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "524fea573e",
+   "title": "South Korea's president says country needs a \u2018cybersecurity czar\u2019 following $6.3 billion Binance hack",
+   "date": "2026-11-03T16:49:56+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "South Korea's president says country needs a \u2018cybersecurity czar\u2019 following $6.3 billion Binance hack",
+     "url": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+     "date": "2026-11-03T16:49:56+00:00",
+     "summary": "Lee Jae Myung said he wants a government-wide agency to tackle cyberattacks as AI raises security concerns across financial institutions and critical infrastructure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T16:49:56+00:00",
+   "last_seen": "2026-11-03T16:49:56+00:00",
+   "summary": "Lee Jae Myung said he wants a government-wide agency to tackle cyberattacks as AI raises security concerns across financial institutions and critical infrastructure.",
+   "tags": [
+    "ai",
+    "exchanges",
+    "funding",
+    "security"
+   ]
+  },
+  {
+   "id": "c779258c42",
+   "title": "Wall Street killed Bitcoin\u2019s wild rallies: 10x\u2019s Markus Thielen",
+   "date": "2026-11-03T16:47:01+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Wall Street killed Bitcoin\u2019s wild rallies: 10x\u2019s Markus Thielen",
+     "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T16:47:01+00:00",
+     "summary": "Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T16:47:01+00:00",
+   "last_seen": "2026-11-03T16:47:01+00:00",
+   "summary": "Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "7f45a49c34",
+   "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+   "date": "2026-11-03T16:44:06+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+     "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T16:44:06+00:00",
+     "summary": "Hackers exploited compromised employee computers and stolen credentials to breach Binance\u2019s wallet infrastructure, according to the exchange\u2019s investigation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T16:44:06+00:00",
+   "last_seen": "2026-11-03T16:44:06+00:00",
+   "summary": "Hackers exploited compromised employee computers and stolen credentials to breach Binance\u2019s wallet infrastructure, according to the exchange\u2019s investigation.",
+   "tags": [
+    "ai",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "7fee02d346",
+   "title": "Amazon, Tesla and SpaceX join OKX\u2013ICE tokenized stock objections as deadline looms",
+   "date": "2026-11-03T16:17:51+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Amazon, Tesla and SpaceX join OKX\u2013ICE tokenized stock objections as deadline looms",
+     "url": "https://www.coindesk.com/business/2026/11/03/amazon-tesla-and-spacex-join-okx-ice-tokenized-stock-objections-as-deadline-looms",
+     "date": "2026-11-03T16:17:51+00:00",
+     "summary": "Objections have reached 56 companies, with nearly 80% of the venture\u2019s initial stock selection opting out."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Amazon, Tesla and SpaceX Join Objections to OKX\u2013ICE Tokenized Stocks",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/amazon-tesla-and-spacex-join-objections-to-okx-ice-tokenized-stocks",
+     "date": "2026-11-03T16:32:01+00:00",
+     "summary": "Disclosed opt-outs cover 50 of the venture\u2019s 63 originally proposed symbols, leaving 13 without a published objection."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-03T16:17:51+00:00",
+   "last_seen": "2026-11-03T16:32:01+00:00",
+   "summary": "Disclosed opt-outs cover 50 of the venture\u2019s 63 originally proposed symbols, leaving 13 without a published objection.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "004dc3d947",
+   "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
+   "date": "2026-11-03T16:12:35+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Stablecoin governance group behind OUSD sets out management fee, offers equity earning pool",
+     "url": "https://www.coindesk.com/business/2026/11/03/stablecoin-governance-group-behind-ousd-sets-out-management-fee-offers-equity-earning-pool",
+     "date": "2026-11-03T16:12:35+00:00",
+     "summary": "Governance group Open Standard will charge a 0.1 basis point management fee on payment volume, capped at at $0.01 per payment."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T16:12:35+00:00",
+   "last_seen": "2026-11-03T16:12:35+00:00",
+   "summary": "Governance group Open Standard will charge a 0.1 basis point management fee on payment volume, capped at at $0.01 per payment.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "6d28e1d761",
    "title": "Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties",
@@ -12,11 +152,18 @@
      "url": "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439",
      "date": "2026-11-03T16:08:14+00:00",
      "summary": "Sun says World Liberty Financial hid its UAE citizenship to escape federal court, and plans to refile his $45M lawsuit in California state court."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
+     "url": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
+     "date": "2026-11-03T16:55:10+00:00",
+     "summary": "The Tron founder says World Liberty failed to disclose its UAE ties until months into his lawsuit over $45 million in WLFI tokens."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-03T16:08:14+00:00",
-   "last_seen": "2026-11-03T16:08:14+00:00",
+   "last_seen": "2026-11-03T16:55:10+00:00",
    "summary": "Sun says World Liberty Financial hid its UAE citizenship to escape federal court, and plans to refile his $45M lawsuit in California state court.",
    "tags": [
     "legal"
@@ -276,14 +423,22 @@
      "url": "https://thedefiant.io/news/hacks/fake-job-interview-opened-path-to-6-34-billion-hack-binance-says",
      "date": "2026-11-03T14:57:12+00:00",
      "summary": "Attackers used an internal AI tool to reach wallet engineers, while persistent onchain permissions complicated containment."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Binance Says $6.34 Billion Hack Began With Fake Job Interview",
+     "url": "https://bitcoinmagazine.com/news/binance-says-6-34-billion-hack-job",
+     "date": "2026-11-03T16:44:20+00:00",
+     "summary": "Bitcoin Magazine Binance Says $6.34 Billion Hack Began With Fake Job Interview Binance\u2019s incident report says the $6.34 billion Oct. 29 theft was a five-month campaign that began with a fake job interview and a poisoned developer tool. This post Binance Says $6.34 Billion Hack..."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-11-03T14:53:19+00:00",
-   "last_seen": "2026-11-03T14:57:12+00:00",
-   "summary": "North Korea-linked attackers spent months compromising Binance employees and internal systems before exploiting its hot-wallet signing infrastructure through Ethereum's EIP-7702 mechanism.",
+   "last_seen": "2026-11-03T16:44:20+00:00",
+   "summary": "Bitcoin Magazine Binance Says $6.34 Billion Hack Began With Fake Job Interview Binance\u2019s incident report says the $6.34 billion Oct. 29 theft was a five-month campaign that began with a fake job interview and a poisoned developer tool. This post Binance Says $6.34 Billion Hack...",
    "tags": [
     "ai",
+    "bitcoin",
     "ethereum",
     "exchanges",
     "security"
@@ -1686,12 +1841,19 @@
      "url": "https://www.coindesk.com/business/2026/11/03/north-korea-denies-role-in-usd6-4-billion-binance-hack-after-fbi-points-to-tradertraitor",
      "date": "2026-11-03T09:40:32+00:00",
      "summary": "The high-profile denial follows FBI alerts identifying North Korean-controlled wallet addresses tied to the largest cryptocurrency exploit in history."
+    },
+    {
+     "source": "CryptoSlate",
+     "title": "North Korea denies role in $6 billion Binance hack after FBI accusation",
+     "url": "https://cryptoslate.com/north-korea-denies-role-in-6-billion-binance-hack-after-fbi-accusation/",
+     "date": "2026-11-03T17:10:03+00:00",
+     "summary": "Reuters, citing KCNA, reported the denial after the FBI blamed TraderTraitor for stealing more than $6 billion from Binance. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-11-02T23:07:07+00:00",
-   "last_seen": "2026-11-03T09:40:32+00:00",
-   "summary": "The high-profile denial follows FBI alerts identifying North Korean-controlled wallet addresses tied to the largest cryptocurrency exploit in history.",
+   "last_seen": "2026-11-03T17:10:03+00:00",
+   "summary": "Reuters, citing KCNA, reported the denial after the FBI blamed TraderTraitor for stealing more than $6 billion from Binance. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
    "tags": [
     "exchanges",
     "security"

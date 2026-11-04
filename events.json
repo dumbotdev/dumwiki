@@ -1,6 +1,242 @@
 {
- "updated": "2026-11-04T13:29:02.102380+00:00",
+ "updated": "2026-11-04T15:10:15.393180+00:00",
  "events": [
+  {
+   "id": "36eb903a85",
+   "title": "Bitcoin Reclaims $79,000 After 5% Rebound From Election-Night Low",
+   "date": "2026-11-04T14:57:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Reclaims $79,000 After 5% Rebound From Election-Night Low",
+     "url": "https://thedefiant.io/news/markets/bitcoin-reclaims-79-000-after-5-rebound-from-election-night-low",
+     "date": "2026-11-04T14:57:51+00:00",
+     "summary": "Ether and Solana joined the recovery, while S&P 500 and gold futures gained about 3% over a matched overnight window."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T14:57:51+00:00",
+   "last_seen": "2026-11-04T14:57:51+00:00",
+   "summary": "Ether and Solana joined the recovery, while S&P 500 and gold futures gained about 3% over a matched overnight window.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "f1a566d463",
+   "title": "NEAR Adds 24/7 NIFTY 50 Perpetual With Cross-Chain Funding",
+   "date": "2026-11-04T14:53:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "NEAR Adds 24/7 NIFTY 50 Perpetual With Cross-Chain Funding",
+     "url": "https://thedefiant.io/news/defi/near-adds-24-7-nifty-50-perpetual-with-cross-chain-funding",
+     "date": "2026-11-04T14:53:46+00:00",
+     "summary": "The Hyperliquid-based contract allows up to 20x leverage and settles index-point gains and losses in USDC, without delivering Indian shares."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T14:53:46+00:00",
+   "last_seen": "2026-11-04T14:53:46+00:00",
+   "summary": "The Hyperliquid-based contract allows up to 20x leverage and settles index-point gains and losses in USDC, without delivering Indian shares.",
+   "tags": [
+    "funding",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "08f40c8caf",
+   "title": "Polkadot lost $1.38 million after hacker exploited security flaw fixed four months earlier",
+   "date": "2026-11-04T14:50:52+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Polkadot lost $1.38 million after hacker exploited security flaw fixed four months earlier",
+     "url": "https://cryptoslate.com/polkadot-lost-1-38-million-after-hacker-exploited-security-flaw-fixed-four-months-earlier/",
+     "date": "2026-11-04T14:50:52+00:00",
+     "summary": "The attacker resumed on October 26 with its own relayer before the XCM fix; a later upgrade corrected supply without changing balances. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T14:50:52+00:00",
+   "last_seen": "2026-11-04T14:50:52+00:00",
+   "summary": "The attacker resumed on October 26 with its own relayer before the XCM fix; a later upgrade corrected supply without changing balances. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "8729fbb80f",
+   "title": "Circle (CRCL) Cuts About 5% of Workforce as Q3 Revenue Hits $865M",
+   "date": "2026-11-04T14:39:56+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Circle (CRCL) Cuts About 5% of Workforce as Q3 Revenue Hits $865M",
+     "url": "https://bitcoinmagazine.com/news/circle-crcl-cuts-about-5-of-workforce",
+     "date": "2026-11-04T14:39:56+00:00",
+     "summary": "Bitcoin Magazine Circle (CRCL) Cuts About 5% of Workforce as Q3 Revenue Hits $865M Circle cut about 5% of its workforce and booked a $9.1 million restructuring charge in a quarter where revenue rose 17% to $865 million. This post Circle (CRCL) Cuts About 5% of Workforce as Q3..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T14:39:56+00:00",
+   "last_seen": "2026-11-04T14:39:56+00:00",
+   "summary": "Bitcoin Magazine Circle (CRCL) Cuts About 5% of Workforce as Q3 Revenue Hits $865M Circle cut about 5% of its workforce and booked a $9.1 million restructuring charge in a quarter where revenue rose 17% to $865 million. This post Circle (CRCL) Cuts About 5% of Workforce as Q3...",
+   "tags": [
+    "bitcoin",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f5d5042cdf",
+   "title": "The election changes Washington. The work on crypto continues",
+   "date": "2026-11-04T14:25:12+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "The election changes Washington. The work on crypto continues",
+     "url": "https://www.coindesk.com/opinion/2026/11/04/the-election-changes-washington-the-work-on-crypto-continues",
+     "date": "2026-11-04T14:25:12+00:00",
+     "summary": "The next Congress inherits an unfinished assignment: establishing clear, lasting rules for digital assets that protect consumers and ensure American innovation continues to thrive, writes Blockchain Association's Lindsay Fraser."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T14:25:12+00:00",
+   "last_seen": "2026-11-04T14:25:12+00:00",
+   "summary": "The next Congress inherits an unfinished assignment: establishing clear, lasting rules for digital assets that protect consumers and ensure American innovation continues to thrive, writes Blockchain Association's Lindsay Fraser.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "6ea429f7f6",
+   "title": "Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress",
+   "date": "2026-11-04T14:21:35+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress",
+     "url": "https://bitcoinmagazine.com/news/bitcoin-trades-above-78000-after-dem-sweep",
+     "date": "2026-11-04T14:21:35+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress Bitcoin trades near $79,000 after a dip to $75,600 as Democrats sweep both chambers of Congress. This post Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress first appeared on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T14:21:35+00:00",
+   "last_seen": "2026-11-04T14:21:35+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress Bitcoin trades near $79,000 after a dip to $75,600 as Democrats sweep both chambers of Congress. This post Bitcoin Price Soars Above $79,000 After Democratic Sweep of Congress first appeared on...",
+   "tags": [
+    "bitcoin",
+    "markets",
+    "regulation"
+   ]
+  },
+  {
+   "id": "972f85ca1f",
+   "title": "Dialectic Launches SpaceX Yield Vault Using Aave Loans on Base",
+   "date": "2026-11-04T14:13:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Dialectic Launches SpaceX Yield Vault Using Aave Loans on Base",
+     "url": "https://thedefiant.io/news/defi/dialectic-launches-spacex-yield-vault-using-aave-loans-on-base",
+     "date": "2026-11-04T14:13:26+00:00",
+     "summary": "Starloop borrows USDC against tokenized shares, adding liquidation risk to a strategy operating within Aave\u2019s 37,000-token collateral cap."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T14:13:26+00:00",
+   "last_seen": "2026-11-04T14:13:26+00:00",
+   "summary": "Starloop borrows USDC against tokenized shares, adding liquidation risk to a strategy operating within Aave\u2019s 37,000-token collateral cap.",
+   "tags": [
+    "defi",
+    "markets",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "19fdbd0bed",
+   "title": "Core Lightning Urges Upgrade to 26.06.10 to Patch Channel Flaws",
+   "date": "2026-11-04T14:11:30+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Core Lightning Urges Upgrade to 26.06.10 to Patch Channel Flaws",
+     "url": "https://thedefiant.io/news/security/core-lightning-urges-upgrade-to-26-06-10-to-patch-channel-flaws",
+     "date": "2026-11-04T14:11:30+00:00",
+     "summary": "The release addresses channel-balance risks and remote crashes; maintainers are withholding tests for the fixes to give node runners time to update."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T14:11:30+00:00",
+   "last_seen": "2026-11-04T14:11:30+00:00",
+   "summary": "The release addresses channel-balance risks and remote crashes; maintainers are withholding tests for the fixes to give node runners time to update.",
+   "tags": []
+  },
+  {
+   "id": "73c1e71445",
+   "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+   "date": "2026-11-04T14:00:53+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+     "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+     "date": "2026-11-04T14:00:53+00:00",
+     "summary": "The biggest losers, so far, are the AI data center stocks following victories for several candidates who campaigned expressly against the sector."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T14:00:53+00:00",
+   "last_seen": "2026-11-04T14:00:53+00:00",
+   "summary": "The biggest losers, so far, are the AI data center stocks following victories for several candidates who campaigned expressly against the sector.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "d707d2b1bc",
+   "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
+   "date": "2026-11-04T13:44:52+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "France backs reporting for self-custodied crypto worth 100K euros or more",
+     "url": "https://cointelegraph.com/news/france-approves-amendment-self-custodied-crypto-wallets-100k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T13:44:52+00:00",
+     "summary": "The amendment would require taxpayers to report holdings worth at least $112,000, but the measure still needs to survive the budget process."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T13:44:52+00:00",
+   "last_seen": "2026-11-04T13:44:52+00:00",
+   "summary": "The amendment would require taxpayers to report holdings worth at least $112,000, but the measure still needs to survive the budget process.",
+   "tags": []
+  },
+  {
+   "id": "450cebcf3c",
+   "title": "Why rising XRP whale counts are a fake bullish signal",
+   "date": "2026-11-04T13:40:13+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Why rising XRP whale counts are a fake bullish signal",
+     "url": "https://cryptoslate.com/why-rising-xrp-whale-counts-are-a-fake-bullish-signal/",
+     "date": "2026-11-04T13:40:13+00:00",
+     "summary": "Bitquery traced stolen Binance XRP into six accounts above one million tokens, while their effect on Santiment&#039;s dataset remains unconfirmed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T13:40:13+00:00",
+   "last_seen": "2026-11-04T13:40:13+00:00",
+   "summary": "Bitquery traced stolen Binance XRP into six accounts above one million tokens, while their effect on Santiment&#039;s dataset remains unconfirmed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "083baa8b75",
    "title": "Morning Minute: CFTC Clears Stock Perps, Gets Sued the Same Day",
@@ -4833,15 +5069,24 @@
      "url": "https://cryptoslate.com/tether-freezes-4-5-million-as-mercado-bitcoin-hacker-holds-46-million-in-crypto/",
      "date": "2026-11-02T23:00:12+00:00",
      "summary": "The exchange said restoration work was continuing and released tracking addresses, without giving a reopening timetable or financial amount. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+     "source": "The Defiant",
+     "title": "Mercado Bitcoin Attacker Swaps Tokens for $10.55 Million in ETH, Arkham Says",
+     "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-attacker-swaps-tokens-for-10-55-million-in-eth-arkham-says",
+     "date": "2026-11-04T13:57:15+00:00",
+     "summary": "Arkham traced $13.26 million leaving labelled wallets, while Mercado Bitcoin has raised its blocked-assets estimate to $12.9 million."
     }
    ],
-   "score": 20,
+   "score": 21,
    "first_seen": "2026-11-02T16:14:47+00:00",
-   "last_seen": "2026-11-02T23:00:12+00:00",
+   "last_seen": "2026-11-04T13:57:15+00:00",
    "summary": "The exchange said restoration work was continuing and released tracking addresses, without giving a reopening timetable or financial amount. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
    "tags": [
     "bitcoin",
+    "ethereum",
     "exchanges",
+    "funding",
     "stablecoins"
    ]
   },

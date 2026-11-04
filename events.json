@@ -1,6 +1,53 @@
 {
- "updated": "2026-11-04T01:26:39.250141+00:00",
+ "updated": "2026-11-04T03:07:58.490193+00:00",
  "events": [
+  {
+   "id": "ffae376c5c",
+   "title": "THORChain Restarts Most Swaps, With 14 Nodes Yet to Upgrade",
+   "date": "2026-11-04T02:18:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "THORChain Restarts Most Swaps, With 14 Nodes Yet to Upgrade",
+     "url": "https://thedefiant.io/news/defi/thorchain-restarts-most-swaps-with-14-nodes-yet-to-upgrade",
+     "date": "2026-11-04T02:18:50+00:00",
+     "summary": "Cosmos Hub, BNB Smart Chain and Solana still have trading and outbound-signing restrictions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T02:18:50+00:00",
+   "last_seen": "2026-11-04T02:18:50+00:00",
+   "summary": "Cosmos Hub, BNB Smart Chain and Solana still have trading and outbound-signing restrictions.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "b3793c16e6",
+   "title": "South Korea\u2019s Ruling Party Formally Seeks Crypto Tax Delay",
+   "date": "2026-11-04T01:53:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "South Korea\u2019s Ruling Party Formally Seeks Crypto Tax Delay",
+     "url": "https://thedefiant.io/news/regulation/south-korea-s-ruling-party-formally-seeks-crypto-tax-delay",
+     "date": "2026-11-04T01:53:19+00:00",
+     "summary": "Kim Min-seok wants a digital-asset framework enacted before taxation. A two-year postponement is under discussion, but the legal start date remains Jan. 1, 2027."
+    },
+    {
+     "source": "The Block",
+     "title": "South Korea\u2019s ruling party formally proposes deferral of crypto income tax",
+     "url": "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580",
+     "date": "2026-11-04T02:51:52+00:00",
+     "summary": "The party leader stated that the country should first enact the Digital Asset Basic Act, a comprehensive legal framework for crypto."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-04T01:53:19+00:00",
+   "last_seen": "2026-11-04T02:51:52+00:00",
+   "summary": "Kim Min-seok wants a digital-asset framework enacted before taxation. A two-year postponement is under discussion, but the legal start date remains Jan. 1, 2027.",
+   "tags": []
+  },
   {
    "id": "3140e62ad4",
    "title": "Binance stopped 57 North Korean cyber threats but fell for a fake job interview",

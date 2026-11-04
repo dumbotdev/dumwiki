@@ -1,6 +1,270 @@
 {
- "updated": "2026-11-04T19:20:27.515278+00:00",
+ "updated": "2026-11-04T21:09:21.744809+00:00",
  "events": [
+  {
+   "id": "fd1e77fd11",
+   "title": "Huizenga Loses House Seat Despite $1 Million From Crypto PAC Fairshake",
+   "date": "2026-11-04T21:09:04+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Huizenga Loses House Seat Despite $1 Million From Crypto PAC Fairshake",
+     "url": "https://bitcoinmagazine.com/news/huizenga-loses-despite-fairshake",
+     "date": "2026-11-04T21:09:04+00:00",
+     "summary": "Bitcoin Magazine Huizenga Loses House Seat Despite $1 Million From Crypto PAC Fairshake Rep. Bill Huizenga, vice chair of the House Financial Services Committee, lost despite $1 million from Fairshake. This post Huizenga Loses House Seat Despite $1 Million From Crypto PAC..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T21:09:04+00:00",
+   "last_seen": "2026-11-04T21:09:04+00:00",
+   "summary": "Bitcoin Magazine Huizenga Loses House Seat Despite $1 Million From Crypto PAC Fairshake Rep. Bill Huizenga, vice chair of the House Financial Services Committee, lost despite $1 million from Fairshake. This post Huizenga Loses House Seat Despite $1 Million From Crypto PAC...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "ea64a00fa1",
+   "title": "Pro-crypto candidates sweep 241 seats as Congress shifts power",
+   "date": "2026-11-04T21:00:44+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Pro-crypto candidates sweep 241 seats as Congress shifts power",
+     "url": "https://cryptoslate.com/pro-crypto-candidates-sweep-241-seats-as-congress-shifts-power/",
+     "date": "2026-11-04T21:00:44+00:00",
+     "summary": "The group&#039;s unofficial tally names CLARITY backers among the winners, but its ratings do not establish votes for passage. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T21:00:44+00:00",
+   "last_seen": "2026-11-04T21:00:44+00:00",
+   "summary": "The group&#039;s unofficial tally names CLARITY backers among the winners, but its ratings do not establish votes for passage. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "07cdbe7087",
+   "title": "French Bank Credit Mutuel Arkea Confirms Cyberattack as ZachXBT Puts Losses Above $133 Million",
+   "date": "2026-11-04T20:57:01+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "French Bank Credit Mutuel Arkea Confirms Cyberattack as ZachXBT Puts Losses Above $133 Million",
+     "url": "https://bitcoinmagazine.com/news/credit-mutuel-arkea-hack-133-million",
+     "date": "2026-11-04T20:57:01+00:00",
+     "summary": "Bitcoin Magazine French Bank Credit Mutuel Arkea Confirms Cyberattack as ZachXBT Puts Losses Above $133 Million Credit Mutuel Arkea says a cyberattack through a service provider enabled fraudulent transfers from its own account, while ZachXBT puts the theft above $133 million, a..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T20:57:01+00:00",
+   "last_seen": "2026-11-04T20:57:01+00:00",
+   "summary": "Bitcoin Magazine French Bank Credit Mutuel Arkea Confirms Cyberattack as ZachXBT Puts Losses Above $133 Million Credit Mutuel Arkea says a cyberattack through a service provider enabled fraudulent transfers from its own account, while ZachXBT puts the theft above $133 million, a...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "a01d53a984",
+   "title": "House Democrats Eye Their Own Crypto Market Structure Bill With a Bigger SEC Role After Sweep",
+   "date": "2026-11-04T20:52:54+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "House Democrats Eye Their Own Crypto Market Structure Bill With a Bigger SEC Role After Sweep",
+     "url": "https://bitcoinmagazine.com/news/house-democrats-crypto-market-structure",
+     "date": "2026-11-04T20:52:54+00:00",
+     "summary": "Bitcoin Magazine House Democrats Eye Their Own Crypto Market Structure Bill With a Bigger SEC Role After Sweep House Democrats are discussing a crypto market structure bill built on Rep. Maxine Waters' rejected Clarity Act amendments, with a bigger SEC role, a smaller CFTC role..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T20:52:54+00:00",
+   "last_seen": "2026-11-04T20:52:54+00:00",
+   "summary": "Bitcoin Magazine House Democrats Eye Their Own Crypto Market Structure Bill With a Bigger SEC Role After Sweep House Democrats are discussing a crypto market structure bill built on Rep. Maxine Waters' rejected Clarity Act amendments, with a bigger SEC role, a smaller CFTC role...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "0415c9dcd2",
+   "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers\u2019 Reach",
+   "date": "2026-11-04T20:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers\u2019 Reach",
+     "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
+     "date": "2026-11-04T20:46:03+00:00",
+     "summary": "Coinbase told customers it wasn\u2019t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T20:46:03+00:00",
+   "last_seen": "2026-11-04T20:46:03+00:00",
+   "summary": "Coinbase told customers it wasn\u2019t affected by the $6.4 billion Binance hack and detailed its security controls, including offline storage for over 99% of assets, split private keys and kill switches.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "e44a240bde",
+   "title": "Nasdaq Approves Listing of Canary\u2019s Staked Injective ETF",
+   "date": "2026-11-04T20:38:59+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Nasdaq Approves Listing of Canary\u2019s Staked Injective ETF",
+     "url": "https://thedefiant.io/news/tokens/nasdaq-approves-listing-of-canary-s-staked-injective-etf",
+     "date": "2026-11-04T20:38:59+00:00",
+     "summary": "The proposed INJC fund would stake at least 90% of its INJ holdings and charge a 1.10% annual sponsor fee."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T20:38:59+00:00",
+   "last_seen": "2026-11-04T20:38:59+00:00",
+   "summary": "The proposed INJC fund would stake at least 90% of its INJ holdings and charge a 1.10% annual sponsor fee.",
+   "tags": [
+    "etfs"
+   ]
+  },
+  {
+   "id": "7b7520eb45",
+   "title": "Bitcoin Price Holds Near $80,000 as Democratic Sweep Sparks Short Squeeze",
+   "date": "2026-11-04T20:32:51+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Holds Near $80,000 as Democratic Sweep Sparks Short Squeeze",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-80000-short",
+     "date": "2026-11-04T20:32:51+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Holds Near $80,000 as Democratic Sweep Sparks Short Squeeze Bitcoin price holds near $80,000 after rebounding from an election-night low of $75,600, as a short squeeze, a stock rally and a 9% drop in oil follow the Democratic sweep of Congress...."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T20:32:51+00:00",
+   "last_seen": "2026-11-04T20:32:51+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Holds Near $80,000 as Democratic Sweep Sparks Short Squeeze Bitcoin price holds near $80,000 after rebounding from an election-night low of $75,600, as a short squeeze, a stock rally and a 9% drop in oil follow the Democratic sweep of Congress....",
+   "tags": [
+    "bitcoin",
+    "markets",
+    "regulation"
+   ]
+  },
+  {
+   "id": "eaa4490bfa",
+   "title": "Crypto's powerhouse super PAC, Fairshake, found its kryptonite",
+   "date": "2026-11-04T20:29:12+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto's powerhouse super PAC, Fairshake, found its kryptonite",
+     "url": "https://www.coindesk.com/news-analysis/2026/11/04/crypto-s-powerhouse-super-pac-fairshake-found-its-kryptonite",
+     "date": "2026-11-04T20:29:12+00:00",
+     "summary": "The industry's primary campaign arm had cultivated a reputation as an unstoppable force, but more than a third of its spending failed to hit the mark, especially in Ohio."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T20:29:12+00:00",
+   "last_seen": "2026-11-04T20:29:12+00:00",
+   "summary": "The industry's primary campaign arm had cultivated a reputation as an unstoppable force, but more than a third of its spending failed to hit the mark, especially in Ohio.",
+   "tags": []
+  },
+  {
+   "id": "e1cc8db1ea",
+   "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+   "date": "2026-11-04T20:09:58+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+     "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery-433030",
+     "date": "2026-11-04T20:09:58+00:00",
+     "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T20:09:58+00:00",
+   "last_seen": "2026-11-04T20:09:58+00:00",
+   "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "regulation",
+    "security"
+   ]
+  },
+  {
+   "id": "05281ace0d",
+   "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
+   "date": "2026-11-04T19:57:18+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "US Bank Regulator Issues First AI Framework as Banks Battle Rogue Agents",
+     "url": "https://decrypt.co/382560/us-bank-regulator-issues-first-ai-framework-banks-battle-rogue-agents",
+     "date": "2026-11-04T19:57:18+00:00",
+     "summary": "The OCC's first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents\u2014the same risk that recently prompted major banks to restrict customer-account access."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T19:57:18+00:00",
+   "last_seen": "2026-11-04T19:57:18+00:00",
+   "summary": "The OCC's first examiner guide weighs autonomy and financial harm, and directly addresses outside AI agents\u2014the same risk that recently prompted major banks to restrict customer-account access.",
+   "tags": [
+    "ai",
+    "regulation"
+   ]
+  },
+  {
+   "id": "3904388f14",
+   "title": "Aave and Lido lose $1.7B in massive DeFi capital drop after the Binance hack",
+   "date": "2026-11-04T19:50:13+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Aave and Lido lose $1.7B in massive DeFi capital drop after the Binance hack",
+     "url": "https://cryptoslate.com/aave-and-lido-lose-1-7b-in-massive-defi-capital-drop-after-the-binance-hack/",
+     "date": "2026-11-04T19:50:13+00:00",
+     "summary": "Stablecoin contraction was evident before the breach, while Aave&#039;s temporary freeze showed how collateralized loans can coexist with scarce withdrawal cash. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T19:50:13+00:00",
+   "last_seen": "2026-11-04T19:50:13+00:00",
+   "summary": "Stablecoin contraction was evident before the breach, while Aave&#039;s temporary freeze showed how collateralized loans can coexist with scarce withdrawal cash. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst...",
+   "tags": [
+    "defi",
+    "exchanges",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f40dcf3d89",
+   "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
+   "date": "2026-11-04T19:15:39+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Trump-linked tokens lead crypto losses after Democrats sweep in the US midterms",
+     "url": "https://cointelegraph.com/news/trump-linked-tokens-lead-crypto-losses-after-democrats-sweep-in-the-us-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T19:15:39+00:00",
+     "summary": "The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday, even as Bitcoin and Ether rallied."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T19:15:39+00:00",
+   "last_seen": "2026-11-04T19:15:39+00:00",
+   "summary": "The official Trump and World Liberty Financial tokens were the two biggest losers among the top 100 cryptocurrencies on Wednesday, even as Bitcoin and Ether rallied.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
   {
    "id": "ba3b6c1494",
    "title": "French Hill\u2019s race still too close to call as House flips, changing the direction of crypto legislation",

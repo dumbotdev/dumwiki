@@ -1,6 +1,89 @@
 {
- "updated": "2026-11-03T23:54:27.553142+00:00",
+ "updated": "2026-11-04T01:26:39.250141+00:00",
  "events": [
+  {
+   "id": "3140e62ad4",
+   "title": "Binance stopped 57 North Korean cyber threats but fell for a fake job interview",
+   "date": "2026-11-04T01:10:53+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance stopped 57 North Korean cyber threats but fell for a fake job interview",
+     "url": "https://cryptoslate.com/binance-stopped-57-north-korean-cyber-threats-but-fell-for-a-fake-job-interview/",
+     "date": "2026-11-04T01:10:53+00:00",
+     "summary": "Binance said it thwarted 57 suspected North Korea-linked cyber threats in 2026, yet a fake interview compromised one of its engineers. The disclosure, in the exchange&#039;s Nov. 3 security report, reveals how attackers used a recruitment scam involving staged interviews,..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T01:10:53+00:00",
+   "last_seen": "2026-11-04T01:10:53+00:00",
+   "summary": "Binance said it thwarted 57 suspected North Korea-linked cyber threats in 2026, yet a fake interview compromised one of its engineers. The disclosure, in the exchange&#039;s Nov. 3 security report, reveals how attackers used a recruitment scam involving staged interviews,...",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "cf80ece84e",
+   "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
+   "date": "2026-11-04T00:45:16+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
+     "url": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T00:45:16+00:00",
+     "summary": "Crypto executives expect US regulators to drive crypto policymaking regardless of the midterm election outcome."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T00:45:16+00:00",
+   "last_seen": "2026-11-04T00:45:16+00:00",
+   "summary": "Crypto executives expect US regulators to drive crypto policymaking regardless of the midterm election outcome.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "c01d4b834c",
+   "title": "Live updates: 2026 U.S. midterm elections and results as first polls close",
+   "date": "2026-11-04T00:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: 2026 U.S. midterm elections and results as first polls close",
+     "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
+     "date": "2026-11-04T00:00:00+00:00",
+     "summary": "Voters are choosing who will represent them in the House, Senate and state-wide seats."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T00:00:00+00:00",
+   "last_seen": "2026-11-04T00:00:00+00:00",
+   "summary": "Voters are choosing who will represent them in the House, Senate and state-wide seats.",
+   "tags": []
+  },
+  {
+   "id": "ed5f0eea67",
+   "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
+   "date": "2026-11-03T23:56:09+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
+     "url": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-03T23:56:09+00:00",
+     "summary": "THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-03T23:56:09+00:00",
+   "last_seen": "2026-11-03T23:56:09+00:00",
+   "summary": "THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
   {
    "id": "2a2a722c12",
    "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",

@@ -1,6 +1,173 @@
 {
- "updated": "2026-11-04T05:21:04.515910+00:00",
+ "updated": "2026-11-04T07:38:54.845875+00:00",
  "events": [
+  {
+   "id": "f818cea213",
+   "title": "Apple Joins OKXICE Stock-Token Objectors as Total Reaches 59",
+   "date": "2026-11-04T07:35:36+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Apple Joins OKXICE Stock-Token Objectors as Total Reaches 59",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/apple-joins-okxice-stock-token-objectors-as-total-reaches-59",
+     "date": "2026-11-04T07:35:36+00:00",
+     "summary": "Objections now cover 53 of the venue\u2019s original 63 proposed stock symbols, leaving ten without a disclosed opt-out."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T07:35:36+00:00",
+   "last_seen": "2026-11-04T07:35:36+00:00",
+   "summary": "Objections now cover 53 of the venue\u2019s original 63 proposed stock symbols, leaving ten without a disclosed opt-out.",
+   "tags": []
+  },
+  {
+   "id": "0957a8444c",
+   "title": "Democrats Win House, Gaining New Leverage Over Crypto Legislation",
+   "date": "2026-11-04T07:32:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Democrats Win House, Gaining New Leverage Over Crypto Legislation",
+     "url": "https://thedefiant.io/news/regulation/democrats-win-house-gaining-new-leverage-over-crypto-legislation",
+     "date": "2026-11-04T07:32:44+00:00",
+     "summary": "The incoming majority will control key House committees and oversight, while the CLARITY Act remains stalled at the Senate floor."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T07:32:44+00:00",
+   "last_seen": "2026-11-04T07:32:44+00:00",
+   "summary": "The incoming majority will control key House committees and oversight, while the CLARITY Act remains stalled at the Senate floor.",
+   "tags": []
+  },
+  {
+   "id": "ea37d5b1e6",
+   "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
+   "date": "2026-11-04T07:25:47+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin bounces from 7-week low under $76K as Democrats sweep Congress",
+     "url": "https://cointelegraph.com/markets/bitcoin-bounces-from-7-week-low-under-76k-as-democrats-eye-congress-sweep?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T07:25:47+00:00",
+     "summary": "Bitcoin price downside reached a seven-week-low of $75,618 as 24-hour crypto long liquidations neared $300 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T07:25:47+00:00",
+   "last_seen": "2026-11-04T07:25:47+00:00",
+   "summary": "Bitcoin price downside reached a seven-week-low of $75,618 as 24-hour crypto long liquidations neared $300 million.",
+   "tags": [
+    "bitcoin",
+    "markets",
+    "regulation"
+   ]
+  },
+  {
+   "id": "f637f60b0b",
+   "title": "Liquid restores 1:1 Bitcoin backing, but wallet refills remain manual",
+   "date": "2026-11-04T06:30:52+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Liquid restores 1:1 Bitcoin backing, but wallet refills remain manual",
+     "url": "https://cryptoslate.com/liquid-restores-11-bitcoin-backing-but-wallet-refills-remain-manual/",
+     "date": "2026-11-04T06:30:52+00:00",
+     "summary": "SideSwap reports full L-BTC backing, while customer payouts still depend on its own Bitcoin wallet and manual refills. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T06:30:52+00:00",
+   "last_seen": "2026-11-04T06:30:52+00:00",
+   "summary": "SideSwap reports full L-BTC backing, while customer payouts still depend on its own Bitcoin wallet and manual refills. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "99fbbd61ea",
+   "title": "Block Reaches $964 Million DOJ Deal in Principle Over AML Lapses",
+   "date": "2026-11-04T06:17:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Block Reaches $964 Million DOJ Deal in Principle Over AML Lapses",
+     "url": "https://thedefiant.io/converge/regulation/block-reaches-964-million-doj-deal-in-principle-over-aml-lapses",
+     "date": "2026-11-04T06:17:48+00:00",
+     "summary": "Credits for prior regulatory resolutions would reduce the payment to about $764 million. Separately, bitcoin ecosystem gross profit fell 50%, primarily because of Cash App fee cuts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T06:17:48+00:00",
+   "last_seen": "2026-11-04T06:17:48+00:00",
+   "summary": "Credits for prior regulatory resolutions would reduce the payment to about $764 million. Separately, bitcoin ecosystem gross profit fell 50%, primarily because of Cash App fee cuts.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "85d7b7e6b6",
+   "title": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades",
+   "date": "2026-11-04T06:16:40+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin knocks on $78,000 in V-shaped comeback as midterm election uncertainty fades",
+     "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-knocks-on-usd78-000-in-v-shaped-comeback-as-midterm-uncertainty-fades",
+     "date": "2026-11-04T06:16:40+00:00",
+     "summary": "BTC is steaming higher as U.S. midterm election uncertainty fades."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T06:16:40+00:00",
+   "last_seen": "2026-11-04T06:16:40+00:00",
+   "summary": "BTC is steaming higher as U.S. midterm election uncertainty fades.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "d94bacb8ed",
+   "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
+   "date": "2026-11-04T06:06:04+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Jack Dorsey's Block faces $764 million DOJ settlement as bitcoin profit plunges 50%",
+     "url": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
+     "date": "2026-11-04T06:06:04+00:00",
+     "summary": "The proposed agreement would resolve a federal anti-money-laundering investigation, while lower Cash App trading fees halved Block's quarterly bitcoin gross profit."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T06:06:04+00:00",
+   "last_seen": "2026-11-04T06:06:04+00:00",
+   "summary": "The proposed agreement would resolve a federal anti-money-laundering investigation, while lower Cash App trading fees halved Block's quarterly bitcoin gross profit.",
+   "tags": [
+    "bitcoin",
+    "legal"
+   ]
+  },
+  {
+   "id": "b9366eb3de",
+   "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
+   "date": "2026-11-04T05:46:33+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ethereum dev targets 2028 for quantum resistance, a year early",
+     "url": "https://cointelegraph.com/news/ethereum-post-quantum-transition-2028-target?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T05:46:33+00:00",
+     "summary": "Ethereum researcher Justin Drake said it is their \u201chope\u201d that Ethereum will achieve its post-quantum and post-AI transition by December 2028."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T05:46:33+00:00",
+   "last_seen": "2026-11-04T05:46:33+00:00",
+   "summary": "Ethereum researcher Justin Drake said it is their \u201chope\u201d that Ethereum will achieve its post-quantum and post-AI transition by December 2028.",
+   "tags": [
+    "ethereum"
+   ]
+  },
   {
    "id": "dff69b3d35",
    "title": "Democrats Win Senate Control as CLARITY Act Remains Stalled",

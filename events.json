@@ -1,6 +1,221 @@
 {
- "updated": "2026-11-04T12:06:22.244685+00:00",
+ "updated": "2026-11-04T13:29:02.102380+00:00",
  "events": [
+  {
+   "id": "083baa8b75",
+   "title": "Morning Minute: CFTC Clears Stock Perps, Gets Sued the Same Day",
+   "date": "2026-11-04T13:25:01+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: CFTC Clears Stock Perps, Gets Sued the Same Day",
+     "url": "https://decrypt.co/382497/morning-minute-cftc-clears-stock-perps-gets-sued-the-same-day",
+     "date": "2026-11-04T13:25:01+00:00",
+     "summary": "Plus, pro-crypto spending largely failed to produce results as the Democrats swept the Senate and House in Midterms."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T13:25:01+00:00",
+   "last_seen": "2026-11-04T13:25:01+00:00",
+   "summary": "Plus, pro-crypto spending largely failed to produce results as the Democrats swept the Senate and House in Midterms.",
+   "tags": [
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "4d81c8730c",
+   "title": "Circle reports $865 million in Q3 revenue and reserve income, discloses 5% workforce reduction",
+   "date": "2026-11-04T13:17:31+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Circle reports $865 million in Q3 revenue and reserve income, discloses 5% workforce reduction",
+     "url": "https://www.theblock.co/news/business/2026-11-04-circle-reports-865-million-in-q3-revenue-and-reserve-income-discloses-5-workforce-reduction-432671",
+     "date": "2026-11-04T13:17:31+00:00",
+     "summary": "Circle reported $865 million in third-quarter revenue and reserve income and disclosed cuts affecting approximately 5% of its workforce."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T13:17:31+00:00",
+   "last_seen": "2026-11-04T13:17:31+00:00",
+   "summary": "Circle reported $865 million in third-quarter revenue and reserve income and disclosed cuts affecting approximately 5% of its workforce.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "a4d95f550b",
+   "title": "Bitcoin Shrugs Off Midterms as Experts Say Democratic Sweep Was 'Priced In'",
+   "date": "2026-11-04T13:13:24+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Shrugs Off Midterms as Experts Say Democratic Sweep Was 'Priced In'",
+     "url": "https://decrypt.co/382492/bitcoin-shrugs-off-midterms-as-experts-say-democratic-sweep-was-priced-in",
+     "date": "2026-11-04T13:13:24+00:00",
+     "summary": "Experts say the Democratic sweep was largely priced in, but it makes the road ahead harder for crypto policy."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T13:13:24+00:00",
+   "last_seen": "2026-11-04T13:13:24+00:00",
+   "summary": "Experts say the Democratic sweep was largely priced in, but it makes the road ahead harder for crypto policy.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "17ed557868",
+   "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
+   "date": "2026-11-04T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Global asset manager Schroders brings emerging market bond fund to Solana",
+     "url": "https://www.coindesk.com/business/2026/11/04/global-asset-manager-schroders-brings-emerging-market-bond-fund-to-solana",
+     "date": "2026-11-04T13:00:00+00:00",
+     "summary": "The global asset manager, which oversees $1.1 trillion in assets, is bringing an actively managed bond strategy onchain through tokenization specialist Centrifuge."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T13:00:00+00:00",
+   "last_seen": "2026-11-04T13:00:00+00:00",
+   "summary": "The global asset manager, which oversees $1.1 trillion in assets, is bringing an actively managed bond strategy onchain through tokenization specialist Centrifuge.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "afd8c76412",
+   "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+   "date": "2026-11-04T12:49:56+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "THORChain's RUNE jumps 10% as North Korean hackers resume laundering Binance loot",
+     "url": "https://www.coindesk.com/markets/2026/11/04/thorchain-s-rune-jumps-10-as-north-korean-hackers-resume-laundering-binance-loot",
+     "date": "2026-11-04T12:49:56+00:00",
+     "summary": "North Korea\u2019s TraderTraitor is routing Binance hack proceeds through THORChain, swapping ether for bitcoin after an earlier wave of conversions from Tron."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T12:49:56+00:00",
+   "last_seen": "2026-11-04T12:49:56+00:00",
+   "summary": "North Korea\u2019s TraderTraitor is routing Binance hack proceeds through THORChain, swapping ether for bitcoin after an earlier wave of conversions from Tron.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "ee340a6ef3",
+   "title": "USDC Issuer Circle Quietly Cuts 5% of Staff in Profitable Quarter",
+   "date": "2026-11-04T12:44:00+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "USDC Issuer Circle Quietly Cuts 5% of Staff in Profitable Quarter",
+     "url": "https://decrypt.co/382493/usdc-issuer-circle-quietly-cuts-5-of-staff-in-profitable-quarter",
+     "date": "2026-11-04T12:44:00+00:00",
+     "summary": "The USDC issuer disclosed the cuts in its earnings release, booking $9.1 million in restructuring costs as reserve income fell 8%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T12:44:00+00:00",
+   "last_seen": "2026-11-04T12:44:00+00:00",
+   "summary": "The USDC issuer disclosed the cuts in its earnings release, booking $9.1 million in restructuring costs as reserve income fell 8%.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "5545801df5",
+   "title": "Circle beats earnings and revenue estimates on soaring USDC transaction volume",
+   "date": "2026-11-04T12:33:54+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Circle beats earnings and revenue estimates on soaring USDC transaction volume",
+     "url": "https://www.coindesk.com/business/2026/11/04/circle-beats-earnings-and-revenue-estimates-on-soaring-usdc-transaction-volume",
+     "date": "2026-11-04T12:33:54+00:00",
+     "summary": "Circle\u2019s net income for continuing operations of $226 million grew 5% year-over-year to $226 million in the third quarter."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T12:33:54+00:00",
+   "last_seen": "2026-11-04T12:33:54+00:00",
+   "summary": "Circle\u2019s net income for continuing operations of $226 million grew 5% year-over-year to $226 million in the third quarter.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "4c7cd1909f",
+   "title": "Bitcoin rebounds after Democratic sweep despite three days of ETF outflows",
+   "date": "2026-11-04T12:30:18+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin rebounds after Democratic sweep despite three days of ETF outflows",
+     "url": "https://cryptoslate.com/bitcoin-rebounds-after-democratic-sweep-despite-three-days-of-etf-outflows/",
+     "date": "2026-11-04T12:30:18+00:00",
+     "summary": "Ryan Kirkley sees a year-end rebound even under Democratic control, while fund withdrawals and overhead supply keep the outlook conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T12:30:18+00:00",
+   "last_seen": "2026-11-04T12:30:18+00:00",
+   "summary": "Ryan Kirkley sees a year-end rebound even under Democratic control, while fund withdrawals and overhead supply keep the outlook conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "a342ec1ce9",
+   "title": "Here's how analysts are reacting to the new blue Congress",
+   "date": "2026-11-04T12:14:11+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Here's how analysts are reacting to the new blue Congress",
+     "url": "https://www.coindesk.com/daybook-us/2026/11/04/here-s-how-analysts-are-reacting-to-the-new-blue-congress",
+     "date": "2026-11-04T12:14:11+00:00",
+     "summary": "Your day-ahead look for Nov. 4, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T12:14:11+00:00",
+   "last_seen": "2026-11-04T12:14:11+00:00",
+   "summary": "Your day-ahead look for Nov. 4, 2026",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "b38b8a2269",
+   "title": "Canton\u2019s CC rises 4% as SEC staff view it as \u2018digital commodity\u2019",
+   "date": "2026-11-04T12:12:15+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Canton\u2019s CC rises 4% as SEC staff view it as \u2018digital commodity\u2019",
+     "url": "https://cointelegraph.com/markets/cantons-cc-rises-sec-no-action-letter-digital-commodity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T12:12:15+00:00",
+     "summary": "SEC staff\u2019s no-action letter covers CC earned by running infrastructure and applications, but is not a binding ruling on its legal status."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T12:12:15+00:00",
+   "last_seen": "2026-11-04T12:12:15+00:00",
+   "summary": "SEC staff\u2019s no-action letter covers CC earned by running infrastructure and applications, but is not a binding ruling on its legal status.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "15ac66799f",
    "title": "BitGo launches institutional trading and financial solutions business led by former NYDIG executive",

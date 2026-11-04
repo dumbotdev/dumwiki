@@ -1,6 +1,89 @@
 {
- "updated": "2026-11-04T03:07:58.490193+00:00",
+ "updated": "2026-11-04T04:14:54.355730+00:00",
  "events": [
+  {
+   "id": "35aaf0344e",
+   "title": "Block Inc. shares rise 6% after-hours as it raises full-year profit forecast",
+   "date": "2026-11-04T04:13:10+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Block Inc. shares rise 6% after-hours as it raises full-year profit forecast",
+     "url": "https://www.theblock.co/news/business/2026-11-03-block-q3-earnings-shares-rise-432585",
+     "date": "2026-11-04T04:13:10+00:00",
+     "summary": "Block raised its full-year gross profit forecast to $12.63 billion, which would represent a 22% year-on-year growth."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T04:13:10+00:00",
+   "last_seen": "2026-11-04T04:13:10+00:00",
+   "summary": "Block raised its full-year gross profit forecast to $12.63 billion, which would represent a 22% year-on-year growth.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "c70c4543ba",
+   "title": "ZachXBT identifies French bank as alleged victim of $133M crypto theft",
+   "date": "2026-11-04T03:35:30+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "ZachXBT identifies French bank as alleged victim of $133M crypto theft",
+     "url": "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T03:35:30+00:00",
+     "summary": "The French bank has not confirmed its alleged involvement in the crypto theft, which ZachXBT said could have resulted in losses exceeding $133 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T03:35:30+00:00",
+   "last_seen": "2026-11-04T03:35:30+00:00",
+   "summary": "The French bank has not confirmed its alleged involvement in the crypto theft, which ZachXBT said could have resulted in losses exceeding $133 million.",
+   "tags": []
+  },
+  {
+   "id": "5a91c6dc51",
+   "title": "Solana Breaks Below $90 as Bitcoin Slides Under $76,000",
+   "date": "2026-11-04T03:20:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Solana Breaks Below $90 as Bitcoin Slides Under $76,000",
+     "url": "https://thedefiant.io/news/markets/solana-breaks-below-90-as-bitcoin-slides-under-76-000",
+     "date": "2026-11-04T03:20:50+00:00",
+     "summary": "SOL has lost about 24% in four weeks, more than double bitcoin's decline over the same window."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T03:20:50+00:00",
+   "last_seen": "2026-11-04T03:20:50+00:00",
+   "summary": "SOL has lost about 24% in four weeks, more than double bitcoin's decline over the same window.",
+   "tags": [
+    "bitcoin",
+    "solana"
+   ]
+  },
+  {
+   "id": "1c451fea5d",
+   "title": "Justin Sun demands court sanctions over Trump-linked World Liberty Financial\u2019s hidden UAE owners",
+   "date": "2026-11-04T03:20:42+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Justin Sun demands court sanctions over Trump-linked World Liberty Financial\u2019s hidden UAE owners",
+     "url": "https://cryptoslate.com/justin-sun-demands-court-sanctions-over-trump-linked-world-liberty-financials-hidden-uae-owners/",
+     "date": "2026-11-04T03:20:42+00:00",
+     "summary": "Justin Sun accused the President Donald Trump-backed crypto firm World Liberty Financial of concealing UAE citizenship to escape his federal lawsuit. The Tron founder said on Nov. 3 that his lawyers had requested sanctions against World Liberty Financial and its attorneys after..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T03:20:42+00:00",
+   "last_seen": "2026-11-04T03:20:42+00:00",
+   "summary": "Justin Sun accused the President Donald Trump-backed crypto firm World Liberty Financial of concealing UAE citizenship to escape his federal lawsuit. The Tron founder said on Nov. 3 that his lawyers had requested sanctions against World Liberty Financial and its attorneys after...",
+   "tags": [
+    "legal"
+   ]
+  },
   {
    "id": "ffae376c5c",
    "title": "THORChain Restarts Most Swaps, With 14 Nodes Yet to Upgrade",

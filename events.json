@@ -1,6 +1,150 @@
 {
- "updated": "2026-11-04T04:14:54.355730+00:00",
+ "updated": "2026-11-04T05:21:04.515910+00:00",
  "events": [
+  {
+   "id": "dff69b3d35",
+   "title": "Democrats Win Senate Control as CLARITY Act Remains Stalled",
+   "date": "2026-11-04T05:01:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Democrats Win Senate Control as CLARITY Act Remains Stalled",
+     "url": "https://thedefiant.io/news/regulation/democrats-win-senate-control-as-clarity-act-remains-stalled",
+     "date": "2026-11-04T05:01:44+00:00",
+     "summary": "Elizabeth Warren is positioned to take over Banking, but the crypto market-structure bill is already awaiting floor action after a failed procedural vote."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T05:01:44+00:00",
+   "last_seen": "2026-11-04T05:01:44+00:00",
+   "summary": "Elizabeth Warren is positioned to take over Banking, but the crypto market-structure bill is already awaiting floor action after a failed procedural vote.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "aab1dc5ac7",
+   "title": "French bank Cr\u00e9dit Mutuel Ark\u00e9a exploited for over $133 million, ZachXBT says",
+   "date": "2026-11-04T04:57:41+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "French bank Cr\u00e9dit Mutuel Ark\u00e9a exploited for over $133 million, ZachXBT says",
+     "url": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607",
+     "date": "2026-11-04T04:57:41+00:00",
+     "summary": "ZachXBT said he has a 'high degree of confidence' that the attacker is not associated with North Korea's Lazarus Group."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T04:57:41+00:00",
+   "last_seen": "2026-11-04T04:57:41+00:00",
+   "summary": "ZachXBT said he has a 'high degree of confidence' that the attacker is not associated with North Korea's Lazarus Group.",
+   "tags": []
+  },
+  {
+   "id": "bdf97a6fb2",
+   "title": "BitMart Founder Confirms Hack During Restructuring",
+   "date": "2026-11-04T04:56:34+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "BitMart Founder Confirms Hack During Restructuring",
+     "url": "https://thedefiant.io/news/hacks/bitmart-founder-confirms-hack-during-restructuring",
+     "date": "2026-11-04T04:56:34+00:00",
+     "summary": "Bitquery traced about $391,000 in outflows mostly from BitMart-linked wallets to an address used in the Mercado Bitcoin attack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T04:56:34+00:00",
+   "last_seen": "2026-11-04T04:56:34+00:00",
+   "summary": "Bitquery traced about $391,000 in outflows mostly from BitMart-linked wallets to an address used in the Mercado Bitcoin attack.",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "2d7366b6d7",
+   "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
+   "date": "2026-11-04T04:55:11+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Democrats surge toward Senate, House majorities, with crypto braced for new direction",
+     "url": "https://www.coindesk.com/policy/2026/11/03/democrats-surge-toward-senate-house-majorities-with-crypto-braced-for-new-direction",
+     "date": "2026-11-04T04:55:11+00:00",
+     "summary": "The dominance of Republicans in all three government branches has been broken by the midterms, and the industry will feel the result as Congress changes hands."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T04:55:11+00:00",
+   "last_seen": "2026-11-04T04:55:11+00:00",
+   "summary": "The dominance of Republicans in all three government branches has been broken by the midterms, and the industry will feel the result as Congress changes hands.",
+   "tags": [
+    "markets",
+    "regulation"
+   ]
+  },
+  {
+   "id": "4444dbb86a",
+   "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
+   "date": "2026-11-04T04:48:16+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin briefly sinks to $75,700 as bets on a Democratic sweep rattle markets",
+     "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-briefly-sinks-to-usd75-700-as-bets-on-a-democratic-sweep-rattle-markets",
+     "date": "2026-11-04T04:48:16+00:00",
+     "summary": "Stock futures and the dollar slid and Treasuries rallied as early U.S. midterm returns pointed to Democrats taking both chambers of Congress."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T04:48:16+00:00",
+   "last_seen": "2026-11-04T04:48:16+00:00",
+   "summary": "Stock futures and the dollar slid and Treasuries rallied as early U.S. midterm returns pointed to Democrats taking both chambers of Congress.",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "392580d913",
+   "title": "Democrats claim control of the US Senate",
+   "date": "2026-11-04T04:40:44+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Democrats claim control of the US Senate",
+     "url": "https://cointelegraph.com/news/democrats-flip-us-senate-as-crypto-industry-faces-policy-reset?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T04:40:44+00:00",
+     "summary": "The shift in Senate control could change the path for the CLARITY Act, reshape committee leadership and bring closer scrutiny of Trump\u2019s crypto businesses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T04:40:44+00:00",
+   "last_seen": "2026-11-04T04:40:44+00:00",
+   "summary": "The shift in Senate control could change the path for the CLARITY Act, reshape committee leadership and bring closer scrutiny of Trump\u2019s crypto businesses.",
+   "tags": []
+  },
+  {
+   "id": "877c911f16",
+   "title": "Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake",
+   "date": "2026-11-04T04:35:48+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Former Sen. Sherrod Brown defeats Jon Husted, dealing a blow to crypto PAC Fairshake",
+     "url": "https://www.theblock.co/news/regulation/2026-11-03-sherrod-brown-defeats-jon-husted-432495",
+     "date": "2026-11-04T04:35:48+00:00",
+     "summary": "Former Democratic Sen. Sherrod Brown is taking back his spot in the Senate, leaving crypto political action committee Fairshake with the bag."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T04:35:48+00:00",
+   "last_seen": "2026-11-04T04:35:48+00:00",
+   "summary": "Former Democratic Sen. Sherrod Brown is taking back his spot in the Senate, leaving crypto political action committee Fairshake with the bag.",
+   "tags": []
+  },
   {
    "id": "35aaf0344e",
    "title": "Block Inc. shares rise 6% after-hours as it raises full-year profit forecast",
@@ -123,13 +267,22 @@
      "url": "https://www.theblock.co/news/regulation/2026-11-03-south-koreas-ruling-party-proposes-deferral-crypto-income-tax-432580",
      "date": "2026-11-04T02:51:52+00:00",
      "summary": "The party leader stated that the country should first enact the Digital Asset Basic Act, a comprehensive legal framework for crypto."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "South Korea's ruling party wants to delay its crypto tax again",
+     "url": "https://www.coindesk.com/policy/2026/11/04/south-korea-s-ruling-party-wants-to-put-off-its-crypto-tax-again",
+     "date": "2026-11-04T05:09:40+00:00",
+     "summary": "South Korea's ruling party wants to delay crypto tax by about two years, as it waits for global tax-sharing rules and new digital assets law."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-11-04T01:53:19+00:00",
-   "last_seen": "2026-11-04T02:51:52+00:00",
+   "last_seen": "2026-11-04T05:09:40+00:00",
    "summary": "Kim Min-seok wants a digital-asset framework enacted before taxation. A two-year postponement is under discussion, but the legal start date remains Jan. 1, 2027.",
-   "tags": []
+   "tags": [
+    "regulation"
+   ]
   },
   {
    "id": "3140e62ad4",
@@ -1712,12 +1865,19 @@
      "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-11-03T13:15:47+00:00",
      "summary": "Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia\u2019s new law, with annual purchase limits for non-qualified investors."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "U.S.-sanctioned Moscow Exchange to list bitcoin and Tether\u2019s USDT in December",
+     "url": "https://www.coindesk.com/markets/2026/11/04/u-s-sanctioned-moscow-exchange-to-list-bitcoin-and-tether-s-usdt-in-december",
+     "date": "2026-11-04T05:14:12+00:00",
+     "summary": "Russia\u2019s main bourse wants back the crypto trading Russians do abroad, and one of the coins it's listing is issued by a company that freezes wallets on the U.S. sanctions list."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-03T13:15:47+00:00",
-   "last_seen": "2026-11-03T13:15:47+00:00",
-   "summary": "Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia\u2019s new law, with annual purchase limits for non-qualified investors.",
+   "last_seen": "2026-11-04T05:14:12+00:00",
+   "summary": "Russia\u2019s main bourse wants back the crypto trading Russians do abroad, and one of the coins it's listing is issued by a company that freezes wallets on the U.S. sanctions list.",
    "tags": [
     "bitcoin",
     "ethereum",

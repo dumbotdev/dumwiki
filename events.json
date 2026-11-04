@@ -1,6 +1,130 @@
 {
- "updated": "2026-11-04T21:09:21.744809+00:00",
+ "updated": "2026-11-04T22:04:02.170137+00:00",
  "events": [
+  {
+   "id": "583fc9e73d",
+   "title": "Judge Lets Stock Perpetual Futures Keep Trading but Says CFTC Likely Overstepped Its Authority",
+   "date": "2026-11-04T22:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Judge Lets Stock Perpetual Futures Keep Trading but Says CFTC Likely Overstepped Its Authority",
+     "url": "https://bitcoinmagazine.com/news/judge-lets-stock-perps-keep-trading-cftc",
+     "date": "2026-11-04T22:00:00+00:00",
+     "summary": "Bitcoin Magazine Judge Lets Stock Perpetual Futures Keep Trading but Says CFTC Likely Overstepped Its Authority A federal judge refused to halt stock perpetual futures on Kalshi, Coinbase Derivatives and Bitnomial but found a Cboe- and Citadel Securities-backed group likely to..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T22:00:00+00:00",
+   "last_seen": "2026-11-04T22:00:00+00:00",
+   "summary": "Bitcoin Magazine Judge Lets Stock Perpetual Futures Keep Trading but Says CFTC Likely Overstepped Its Authority A federal judge refused to halt stock perpetual futures on Kalshi, Coinbase Derivatives and Bitnomial but found a Cboe- and Citadel Securities-backed group likely to...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "40eec1a45a",
+   "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
+   "date": "2026-11-04T21:54:49+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Democratic sweep of Congress forces crypto industry to rethink Washington strategy",
+     "url": "https://www.theblock.co/news/regulation/2026-11-04-democratic-sweep-congress-forces-crypto-industry-rethink-washington-strategy-434362",
+     "date": "2026-11-04T21:54:49+00:00",
+     "summary": "After two years of a pro-crypto, pro-innovation climate in Washington, the digital asset industry faces a sharp political jolt."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T21:54:49+00:00",
+   "last_seen": "2026-11-04T21:54:49+00:00",
+   "summary": "After two years of a pro-crypto, pro-innovation climate in Washington, the digital asset industry faces a sharp political jolt.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "ee048fafc9",
+   "title": "TSV Begins Tokenized CNTN Trades Under SEC Innovation Exemption",
+   "date": "2026-11-04T21:47:30+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "TSV Begins Tokenized CNTN Trades Under SEC Innovation Exemption",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/tsv-begins-tokenized-cntn-trades-under-sec-innovation-exemption",
+     "date": "2026-11-04T21:47:30+00:00",
+     "summary": "Tradecraft's public feed recorded $30,296 in purchases, while Fairmint maintains the shares' official onchain ownership register."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T21:47:30+00:00",
+   "last_seen": "2026-11-04T21:47:30+00:00",
+   "summary": "Tradecraft's public feed recorded $30,296 in purchases, while Fairmint maintains the shares' official onchain ownership register.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "aae44d4940",
+   "title": "Crypto Groups Seek to Strike Down Illinois\u2019 0.2% Tax",
+   "date": "2026-11-04T21:39:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Crypto Groups Seek to Strike Down Illinois\u2019 0.2% Tax",
+     "url": "https://thedefiant.io/news/regulation/crypto-groups-seek-to-strike-down-illinois-0-2-tax",
+     "date": "2026-11-04T21:39:13+00:00",
+     "summary": "The levy would tax asset value rather than gains, with covered brokers required to collect it from Illinois customers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T21:39:13+00:00",
+   "last_seen": "2026-11-04T21:39:13+00:00",
+   "summary": "The levy would tax asset value rather than gains, with covered brokers required to collect it from Illinois customers.",
+   "tags": []
+  },
+  {
+   "id": "72acc3ed42",
+   "title": "How Aussie Bitcoiners can avoid 2027\u2019s shock CGT hike: Part 1",
+   "date": "2026-11-04T21:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "How Aussie Bitcoiners can avoid 2027\u2019s shock CGT hike: Part 1",
+     "url": "https://cointelegraph.com/magazine/how-aussie-bitcoiners-can-avoid-2027s-shock-cgt-increase-part-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T21:30:00+00:00",
+     "summary": "From setting up an SMSF or a company, to just leaving the country entirely, here are some strategies Australian Bitcoiners can employ to deal with 2027\u2019s massive CGT hike."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T21:30:00+00:00",
+   "last_seen": "2026-11-04T21:30:00+00:00",
+   "summary": "From setting up an SMSF or a company, to just leaving the country entirely, here are some strategies Australian Bitcoiners can employ to deal with 2027\u2019s massive CGT hike.",
+   "tags": []
+  },
+  {
+   "id": "6c46fcdf1b",
+   "title": "Google Tells Schools They Can Reject AI\u2014But They'll Lose Search, Too",
+   "date": "2026-11-04T21:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Google Tells Schools They Can Reject AI\u2014But They'll Lose Search, Too",
+     "url": "https://decrypt.co/382572/google-schools-reject-ai-but-lose-search",
+     "date": "2026-11-04T21:16:03+00:00",
+     "summary": "Google is giving schools more control over Gemini, but districts that want Search without AI are out of luck, fueling accusations that the company is pressuring educators into adopting AI."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T21:16:03+00:00",
+   "last_seen": "2026-11-04T21:16:03+00:00",
+   "summary": "Google is giving schools more control over Gemini, but districts that want Search without AI are out of luck, fueling accusations that the company is pressuring educators into adopting AI.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "fd1e77fd11",
    "title": "Huizenga Loses House Seat Despite $1 Million From Crypto PAC Fairshake",

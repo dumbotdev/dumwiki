@@ -1,6 +1,152 @@
 {
- "updated": "2026-11-04T22:04:02.170137+00:00",
+ "updated": "2026-11-04T23:02:12.722954+00:00",
  "events": [
+  {
+   "id": "2561f04d38",
+   "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+   "date": "2026-11-04T22:55:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",
+     "url": "https://www.coindesk.com/policy/2026/11/04/tokenization-and-stablecoins-may-weather-democrats-sweep-as-broader-crypto-rules-face-uncertainty",
+     "date": "2026-11-04T22:55:00+00:00",
+     "summary": "Wall Street's push to bring finance onto blockchain rails may continue under existing laws, though the SEC and CFTC face tougher oversight and questions over how long their rules will last, experts said."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T22:55:00+00:00",
+   "last_seen": "2026-11-04T22:55:00+00:00",
+   "summary": "Wall Street's push to bring finance onto blockchain rails may continue under existing laws, though the SEC and CFTC face tougher oversight and questions over how long their rules will last, experts said.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "9e8e32fb53",
+   "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+   "date": "2026-11-04T22:51:42+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto's Washington hopes fade, but Grayscale and BlackRock see growth ahead",
+     "url": "https://www.coindesk.com/business/2026/11/04/crypto-s-washington-hopes-fade-but-grayscale-and-blackrock-see-growth-ahead",
+     "date": "2026-11-04T22:51:42+00:00",
+     "summary": "The asset manager says global demand and institutional adoption will sustain the industry despite a political setback, while BlackRock sees little impact on its crypto business."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T22:51:42+00:00",
+   "last_seen": "2026-11-04T22:51:42+00:00",
+   "summary": "The asset manager says global demand and institutional adoption will sustain the industry despite a political setback, while BlackRock sees little impact on its crypto business.",
+   "tags": []
+  },
+  {
+   "id": "e2ed078cad",
+   "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
+   "date": "2026-11-04T22:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Why Bitcoin's Next Soft Fork Could Feel Like a Practice Run",
+     "url": "https://decrypt.co/382568/why-bitcoin-next-soft-fork-could-feel-like-practice-run",
+     "date": "2026-11-04T22:46:03+00:00",
+     "summary": "Matt Corallo explains why patching four legacy bugs is about rebuilding muscle memory, just as much as it\u2019s about Bitcoin maintenance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T22:46:03+00:00",
+   "last_seen": "2026-11-04T22:46:03+00:00",
+   "summary": "Matt Corallo explains why patching four legacy bugs is about rebuilding muscle memory, just as much as it\u2019s about Bitcoin maintenance.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "ff3e0fc060",
+   "title": "BitMart founder says security team \u2018severely understaffed\u2019 after new hack",
+   "date": "2026-11-04T22:31:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "BitMart founder says security team \u2018severely understaffed\u2019 after new hack",
+     "url": "https://cointelegraph.com/news/bitmart-hack-security-staffing-crypto-exchange-restructuring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T22:31:58+00:00",
+     "summary": "The crypto exchange\u2019s founder warned of security staffing shortages amid restructuring as analysts flagged suspicious transfers potentially linked to the Mercado Bitcoin hack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T22:31:58+00:00",
+   "last_seen": "2026-11-04T22:31:58+00:00",
+   "summary": "The crypto exchange\u2019s founder warned of security staffing shortages amid restructuring as analysts flagged suspicious transfers potentially linked to the Mercado Bitcoin hack.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "26df2106da",
+   "title": "Nvidia stock tokens show price spreads, but slippage crushes the arbitrage",
+   "date": "2026-11-04T22:30:48+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Nvidia stock tokens show price spreads, but slippage crushes the arbitrage",
+     "url": "https://cryptoslate.com/nvidia-stock-tokens-show-price-spreads-but-slippage-crushes-the-arbitrage/",
+     "date": "2026-11-04T22:30:48+00:00",
+     "summary": "Two $1,000 comparisons leave about 1 basis point and negative 15 before fees, while access and share adjustments complicate the trade. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T22:30:48+00:00",
+   "last_seen": "2026-11-04T22:30:48+00:00",
+   "summary": "Two $1,000 comparisons leave about 1 basis point and negative 15 before fees, while access and share adjustments complicate the trade. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "af033c08ca",
+   "title": "Crypto PACs eye 2028 \u2018new map\u2019 as Democrats take Congress",
+   "date": "2026-11-04T22:17:33+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto PACs eye 2028 \u2018new map\u2019 as Democrats take Congress",
+     "url": "https://cointelegraph.com/news/crypto-superpac-midterms?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T22:17:33+00:00",
+     "summary": "Crypto super PACs spent more than $176 million on the midterms, but the Democratic sweep raises the prospect of tougher industry scrutiny."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T22:17:33+00:00",
+   "last_seen": "2026-11-04T22:17:33+00:00",
+   "summary": "Crypto super PACs spent more than $176 million on the midterms, but the Democratic sweep raises the prospect of tougher industry scrutiny.",
+   "tags": [
+    "funding",
+    "regulation"
+   ]
+  },
+  {
+   "id": "ae92eebe2e",
+   "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
+   "date": "2026-11-04T22:16:05+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "ChatGPT Is Getting a GIF Maker Powered by OpenAI's Unannounced Images 2.6 Model",
+     "url": "https://decrypt.co/382574/chatgpt-gif-maker-openai-unannounced-images-2-6-model",
+     "date": "2026-11-04T22:16:05+00:00",
+     "summary": "OpenAI is rolling out animated GIF creation in ChatGPT, with frame-by-frame editing and speed controls."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T22:16:05+00:00",
+   "last_seen": "2026-11-04T22:16:05+00:00",
+   "summary": "OpenAI is rolling out animated GIF creation in ChatGPT, with frame-by-frame editing and speed controls.",
+   "tags": []
+  },
   {
    "id": "583fc9e73d",
    "title": "Judge Lets Stock Perpetual Futures Keep Trading but Says CFTC Likely Overstepped Its Authority",

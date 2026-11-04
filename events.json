@@ -1,6 +1,70 @@
 {
- "updated": "2026-11-04T07:38:54.845875+00:00",
+ "updated": "2026-11-04T09:14:51.648104+00:00",
  "events": [
+  {
+   "id": "2b9f1b47a5",
+   "title": "South Korea orders massive crypto wallet lockdown following the Binance hack",
+   "date": "2026-11-04T08:20:08+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "South Korea orders massive crypto wallet lockdown following the Binance hack",
+     "url": "https://cryptoslate.com/south-korea-orders-massive-crypto-wallet-lockdown-following-the-binance-hack/",
+     "date": "2026-11-04T08:20:08+00:00",
+     "summary": "The FSC also requested stronger transfer monitoring, response staffing and reserves, while exchange implementation and any new custody threshold remain unspecified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T08:20:08+00:00",
+   "last_seen": "2026-11-04T08:20:08+00:00",
+   "summary": "The FSC also requested stronger transfer monitoring, response staffing and reserves, while exchange implementation and any new custody threshold remain unspecified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The...",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "6afbaddcf0",
+   "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
+   "date": "2026-11-04T08:04:04+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Zcash grants committee drops plan to redirect 98,000 ZEC to future mining rewards",
+     "url": "https://www.coindesk.com/markets/2026/11/04/zcash-grants-committee-drops-plan-to-redirect-98-000-zec-to-future-mining-rewards",
+     "date": "2026-11-04T08:04:04+00:00",
+     "summary": "The committee withdrew its proposal after community backlash, leaving competing plans to cut off its funding or preserve the existing grants system."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T08:04:04+00:00",
+   "last_seen": "2026-11-04T08:04:04+00:00",
+   "summary": "The committee withdrew its proposal after community backlash, leaving competing plans to cut off its funding or preserve the existing grants system.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "c25d67caf1",
+   "title": "Democrats win US House to secure control of Congress in midterms",
+   "date": "2026-11-04T07:50:27+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Democrats win US House to secure control of Congress in midterms",
+     "url": "https://cointelegraph.com/news/democrats-win-us-house-congress-control?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T07:50:27+00:00",
+     "summary": "Democrats will take control of House committees in January 2027, giving them power to investigate President Donald Trump\u2019s administration."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T07:50:27+00:00",
+   "last_seen": "2026-11-04T07:50:27+00:00",
+   "summary": "Democrats will take control of House committees in January 2027, giving them power to investigate President Donald Trump\u2019s administration.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "f818cea213",
    "title": "Apple Joins OKXICE Stock-Token Objectors as Total Reaches 59",

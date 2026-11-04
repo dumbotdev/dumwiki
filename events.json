@@ -1,6 +1,50 @@
 {
- "updated": "2026-11-04T23:02:12.722954+00:00",
+ "updated": "2026-11-04T23:56:45.541870+00:00",
  "events": [
+  {
+   "id": "947f7049ae",
+   "title": "Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack",
+   "date": "2026-11-04T23:36:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack",
+     "url": "https://thedefiant.io/news/hacks/mercado-bitcoin-plans-view-only-reopening-on-nov-9-after-hack",
+     "date": "2026-11-04T23:36:50+00:00",
+     "summary": "The exchange says it will use company funds to replace affected assets, while withdrawals and trading await security clearance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T23:36:50+00:00",
+   "last_seen": "2026-11-04T23:36:50+00:00",
+   "summary": "The exchange says it will use company funds to replace affected assets, while withdrawals and trading await security clearance.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "43a8ff297b",
+   "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
+   "date": "2026-11-04T23:20:17+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Mercado Bitcoin says phased reopening to begin Monday, will cover losses",
+     "url": "https://cointelegraph.com/news/mercado-bitcoin-phased-reopening-to-begin-monday-pledges-to-cover-losses?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T23:20:17+00:00",
+     "summary": "Customers will initially be able to view their holdings, while withdrawals and trading remain suspended pending security checks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T23:20:17+00:00",
+   "last_seen": "2026-11-04T23:20:17+00:00",
+   "summary": "Customers will initially be able to view their holdings, while withdrawals and trading remain suspended pending security checks.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "2561f04d38",
    "title": "Tokenization and stablecoins may weather Democrats' sweep as broader crypto rules face uncertainty",

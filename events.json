@@ -1,6 +1,237 @@
 {
- "updated": "2026-11-04T16:12:21.464034+00:00",
+ "updated": "2026-11-04T17:13:55.581158+00:00",
  "events": [
+  {
+   "id": "836a5739a7",
+   "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
+   "date": "2026-11-04T17:06:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Tech, AI Stocks Split After Democratic Sweep: Microsoft Jumps, Tesla and Nvidia Tank",
+     "url": "https://decrypt.co/382528/tech-ai-stocks-split-democratic-microsoft-jumps-tesla-nvidia-tank",
+     "date": "2026-11-04T17:06:03+00:00",
+     "summary": "Microsoft and Alphabet surged while Nvidia and Tesla fell, highlighting a divided market as investors reassess Washington's approach to AI and Big Tech."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T17:06:03+00:00",
+   "last_seen": "2026-11-04T17:06:03+00:00",
+   "summary": "Microsoft and Alphabet surged while Nvidia and Tesla fell, highlighting a divided market as investors reassess Washington's approach to AI and Big Tech.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "1f955159d4",
+   "title": "Zcash Climbs 9.5% Ahead of NU7 Network Upgrade",
+   "date": "2026-11-04T17:00:22+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Zcash Climbs 9.5% Ahead of NU7 Network Upgrade",
+     "url": "https://thedefiant.io/news/markets/zcash-climbs-9-5-ahead-of-nu7-network-upgrade",
+     "date": "2026-11-04T17:00:22+00:00",
+     "summary": "The upgrade is expected around Nov. 5 and will shorten target block times without materially increasing scheduled daily issuance. Node operators face a software-upgrade deadline."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T17:00:22+00:00",
+   "last_seen": "2026-11-04T17:00:22+00:00",
+   "summary": "The upgrade is expected around Nov. 5 and will shorten target block times without materially increasing scheduled daily issuance. Node operators face a software-upgrade deadline.",
+   "tags": []
+  },
+  {
+   "id": "e98f276e6d",
+   "title": "Coinbase says 99% of customer assets sit in cold storage after Binance\u2019s $6.3 billion breach",
+   "date": "2026-11-04T16:58:42+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Coinbase says 99% of customer assets sit in cold storage after Binance\u2019s $6.3 billion breach",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-04-coinbase-security-cold-storage-binance-hack-432880",
+     "date": "2026-11-04T16:58:42+00:00",
+     "summary": "Coinbase says 99% of customer assets are in cold storage and it wasn't affected by the $6.3 billion Binance hack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T16:58:42+00:00",
+   "last_seen": "2026-11-04T16:58:42+00:00",
+   "summary": "Coinbase says 99% of customer assets are in cold storage and it wasn't affected by the $6.3 billion Binance hack.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "597e1127ab",
+   "title": "Bitcoin miners\u2019 daily revenue per unit of computing power falls 8.7%",
+   "date": "2026-11-04T16:50:39+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin miners\u2019 daily revenue per unit of computing power falls 8.7%",
+     "url": "https://cryptoslate.com/bitcoins-mining-hedge-market-prices-a-winter-pause-after-difficultys-16-rebound/",
+     "date": "2026-11-04T16:50:39+00:00",
+     "summary": "Nearly flat implied network growth offers limited relief when hedges still leave miners exposed to costs and delivery. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T16:50:39+00:00",
+   "last_seen": "2026-11-04T16:50:39+00:00",
+   "summary": "Nearly flat implied network growth offers limited relief when hedges still leave miners exposed to costs and delivery. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "6ab1d71c72",
+   "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
+   "date": "2026-11-04T16:49:31+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Rebounds After Democratic Midterm Sweep, But Crypto Faces Tougher Fight in Washington",
+     "url": "https://decrypt.co/382515/bitcoin-rebounds-democratic-midterm-sweep-crypto-washington",
+     "date": "2026-11-04T16:49:31+00:00",
+     "summary": "Bitcoin bounced back after Democrats won control of Congress, but a stalled market structure bill and heavy industry campaign spending reveal crypto\u2019s exposure to shifting US political power."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T16:49:31+00:00",
+   "last_seen": "2026-11-04T16:49:31+00:00",
+   "summary": "Bitcoin bounced back after Democrats won control of Congress, but a stalled market structure bill and heavy industry campaign spending reveal crypto\u2019s exposure to shifting US political power.",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "62ffdfd0fa",
+   "title": "ApeChain Plans Switch From LayerZero to Chainlink CCIP",
+   "date": "2026-11-04T16:42:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "ApeChain Plans Switch From LayerZero to Chainlink CCIP",
+     "url": "https://thedefiant.io/news/infrastructure/apechain-plans-switch-from-layerzero-to-chainlink-ccip",
+     "date": "2026-11-04T16:42:48+00:00",
+     "summary": "The plan includes upgrading APE and USDC to Chainlink Cross-Chain Tokens, but the announcements do not specify holder migration steps or a legacy-bridge shutdown date."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T16:42:48+00:00",
+   "last_seen": "2026-11-04T16:42:48+00:00",
+   "summary": "The plan includes upgrading APE and USDC to Chainlink Cross-Chain Tokens, but the announcements do not specify holder migration steps or a legacy-bridge shutdown date.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "8766b9d2a9",
+   "title": "Privacy Cash Pauses Deposits After Binance Hack",
+   "date": "2026-11-04T16:39:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Privacy Cash Pauses Deposits After Binance Hack",
+     "url": "https://thedefiant.io/news/defi/privacy-cash-pauses-deposits-after-binance-hack",
+     "date": "2026-11-04T16:39:50+00:00",
+     "summary": "Elliptic traced about $1.2 million in theft-linked ETH and SOL into its pools; the team says withdrawals remain open."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T16:39:50+00:00",
+   "last_seen": "2026-11-04T16:39:50+00:00",
+   "summary": "Elliptic traced about $1.2 million in theft-linked ETH and SOL into its pools; the team says withdrawals remain open.",
+   "tags": [
+    "ethereum",
+    "exchanges",
+    "security",
+    "solana"
+   ]
+  },
+  {
+   "id": "ce99db8d59",
+   "title": "Wall Street\u2019s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
+   "date": "2026-11-04T16:29:36+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Wall Street\u2019s Plumbing Goes Onchain as Morgan Stanley Tokenizes Securities",
+     "url": "https://decrypt.co/382513/wall-streets-plumbing-onchain-morgan-stanley-tokenizes-securities",
+     "date": "2026-11-04T16:29:36+00:00",
+     "summary": "Morgan Stanley says it has converted U.S. equities and Treasuries into tokenized form through the newly launched DTCC Tokenization Service, which 20 Wall Street firms have signed up to use."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T16:29:36+00:00",
+   "last_seen": "2026-11-04T16:29:36+00:00",
+   "summary": "Morgan Stanley says it has converted U.S. equities and Treasuries into tokenized form through the newly launched DTCC Tokenization Service, which 20 Wall Street firms have signed up to use.",
+   "tags": []
+  },
+  {
+   "id": "a60cc6a188",
+   "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
+   "date": "2026-11-04T16:27:49+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
+     "url": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana-432878",
+     "date": "2026-11-04T16:27:49+00:00",
+     "summary": "The $1 trillion-plus asset manager brings its emerging markets bond strategy to Solana, expanding the range of onchain actively managed funds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T16:27:49+00:00",
+   "last_seen": "2026-11-04T16:27:49+00:00",
+   "summary": "The $1 trillion-plus asset manager brings its emerging markets bond strategy to Solana, expanding the range of onchain actively managed funds.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "75a1daa776",
+   "title": "Coinbase Brings Deribit Options and Perpetuals to US Prime Clients",
+   "date": "2026-11-04T16:12:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coinbase Brings Deribit Options and Perpetuals to US Prime Clients",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/coinbase-brings-deribit-options-and-perpetuals-to-us-prime-clients",
+     "date": "2026-11-04T16:12:42+00:00",
+     "summary": "Institutions can access global derivatives through Coinbase Financial Markets, but shared liquidity does not mean a single margin pool."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T16:12:42+00:00",
+   "last_seen": "2026-11-04T16:12:42+00:00",
+   "summary": "Institutions can access global derivatives through Coinbase Financial Markets, but shared liquidity does not mean a single margin pool.",
+   "tags": [
+    "defi",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "0b1a21179b",
+   "title": "U.S. Democratic sweep could be the final nail in the \u2018Clarity Act\u2019s coffin\u2019",
+   "date": "2026-11-04T16:11:29+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "U.S. Democratic sweep could be the final nail in the \u2018Clarity Act\u2019s coffin\u2019",
+     "url": "https://www.coindesk.com/policy/2026/11/04/u-s-democratic-sweep-could-be-the-final-nail-in-the-clarity-act-s-coffin",
+     "date": "2026-11-04T16:11:29+00:00",
+     "summary": "Industry experts warn the Clarity Act is likely dead in its current form as incoming Democratic majorities eye tighter scrutiny of crypto markets and tokenized stocks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T16:11:29+00:00",
+   "last_seen": "2026-11-04T16:11:29+00:00",
+   "summary": "Industry experts warn the Clarity Act is likely dead in its current form as incoming Democratic majorities eye tighter scrutiny of crypto markets and tokenized stocks.",
+   "tags": []
+  },
   {
    "id": "5ab1c25a7e",
    "title": "Wall Street cuts Bitcoin miner price targets as newly blue Texas threatens data center boom",

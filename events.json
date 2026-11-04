@@ -1,6 +1,208 @@
 {
- "updated": "2026-11-04T18:08:43.967221+00:00",
+ "updated": "2026-11-04T19:20:27.515278+00:00",
  "events": [
+  {
+   "id": "ba3b6c1494",
+   "title": "French Hill\u2019s race still too close to call as House flips, changing the direction of crypto legislation",
+   "date": "2026-11-04T19:02:05+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "French Hill\u2019s race still too close to call as House flips, changing the direction of crypto legislation",
+     "url": "https://www.theblock.co/news/regulation/2026-11-04-french-hill-too-close-to-call-house-flips-changing-crypto-legislation-432572",
+     "date": "2026-11-04T19:02:05+00:00",
+     "summary": "As of Wednesday afternoon, House Financial Services Committee Chair French Hill's race for reelection is too close to call."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T19:02:05+00:00",
+   "last_seen": "2026-11-04T19:02:05+00:00",
+   "summary": "As of Wednesday afternoon, House Financial Services Committee Chair French Hill's race for reelection is too close to call.",
+   "tags": []
+  },
+  {
+   "id": "b059945771",
+   "title": "Kamino links most of CEO\u2019s KMNO vesting to valuation while holders have no foundation revenue claim",
+   "date": "2026-11-04T18:50:41+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Kamino links most of CEO\u2019s KMNO vesting to valuation while holders have no foundation revenue claim",
+     "url": "https://cryptoslate.com/kamino-ties-most-of-weiszs-kmno-allocation-to-valuation-but-holders-have-no-foundation-revenue-claim/",
+     "date": "2026-11-04T18:50:41+00:00",
+     "summary": "The CEO\u2019s vesting incentive and a $20 million growth commitment leave capital allocation between foundation earnings and any future holder benefit. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T18:50:41+00:00",
+   "last_seen": "2026-11-04T18:50:41+00:00",
+   "summary": "The CEO\u2019s vesting incentive and a $20 million growth commitment leave capital allocation between foundation earnings and any future holder benefit. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "fdcf8e803b",
+   "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
+   "date": "2026-11-04T18:47:56+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Riot shares surge on $28B AI lease as Hut 8 sinks on revenue miss",
+     "url": "https://cointelegraph.com/news/riots-28b-ai-deal-lifts-shares-as-hut-8-faces-transition-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T18:47:56+00:00",
+     "summary": "Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T18:47:56+00:00",
+   "last_seen": "2026-11-04T18:47:56+00:00",
+   "summary": "Bitcoin miner Riot sold BTC to finance its AI expansion, while Hut 8 reported falling revenue and rising costs before its major data center leases generate income.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "3ecd5b9148",
+   "title": "US Voters Back AI Data Center Restrictions in At Least 29 Communities",
+   "date": "2026-11-04T18:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "US Voters Back AI Data Center Restrictions in At Least 29 Communities",
+     "url": "https://decrypt.co/382556/us-voters-back-ai-data-center-restrictions",
+     "date": "2026-11-04T18:46:03+00:00",
+     "summary": "Voters across the United States backed measures to curb data centers, raising new obstacles for the infrastructure powering AI as electricity bills, water supplies, and public oversight dominate the debate."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T18:46:03+00:00",
+   "last_seen": "2026-11-04T18:46:03+00:00",
+   "summary": "Voters across the United States backed measures to curb data centers, raising new obstacles for the infrastructure powering AI as electricity bills, water supplies, and public oversight dominate the debate.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "4654573741",
+   "title": "Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation",
+   "date": "2026-11-04T18:31:56+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation",
+     "url": "https://bitcoinmagazine.com/news/matt-corallo-flags-critical-linux-kernel-flaw-lightning-labs-ships-lnd-mitigation",
+     "date": "2026-11-04T18:31:56+00:00",
+     "summary": "Bitcoin Magazine Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation Bitcoin Core and Lightning developer Matt Corallo highlighted CVE-2026-98432 on October 30, a use-after-free in the Linux kernel IPv4 TCP handshake code scored CVSS 9.8...."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Lightning Labs Releases LND Mitigation for Critical Linux Flaw",
+     "url": "https://thedefiant.io/news/security/lightning-labs-releases-lnd-mitigation-for-critical-linux-flaw",
+     "date": "2026-11-04T18:47:43+00:00",
+     "summary": "LND v0.20.7-beta and v0.21.6-beta disable Multipath TCP by default, but operators still need a patched kernel to fix the underlying vulnerability."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-04T18:31:56+00:00",
+   "last_seen": "2026-11-04T18:47:43+00:00",
+   "summary": "Bitcoin Magazine Matt Corallo Flags Critical Linux Kernel Flaw; Lightning Labs Ships LND Mitigation Bitcoin Core and Lightning developer Matt Corallo highlighted CVE-2026-98432 on October 30, a use-after-free in the Linux kernel IPv4 TCP handshake code scored CVSS 9.8....",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b62533947a",
+   "title": "Bitcoin rockets above $80,000 for first time since Binance hack despite Democrats sweep, but a historical crash looms",
+   "date": "2026-11-04T18:20:58+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin rockets above $80,000 for first time since Binance hack despite Democrats sweep, but a historical crash looms",
+     "url": "https://cryptoslate.com/bitcoin-rockets-above-80000-for-first-time-since-binance-hack-despite-democrats-sweep-but-a-historical-crash-looms/",
+     "date": "2026-11-04T18:20:58+00:00",
+     "summary": "Bitcoin surged more than 5% from its election-night low to reclaim $80,000 for the first time since Binance&#039;s record hack. The cryptocurrency extended its recovery from approximately $75,600 on Wednesday, shaking off concerns that Democrats&#039; takeover of Congress would..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T18:20:58+00:00",
+   "last_seen": "2026-11-04T18:20:58+00:00",
+   "summary": "Bitcoin surged more than 5% from its election-night low to reclaim $80,000 for the first time since Binance&#039;s record hack. The cryptocurrency extended its recovery from approximately $75,600 on Wednesday, shaking off concerns that Democrats&#039; takeover of Congress would...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "markets",
+    "regulation",
+    "security"
+   ]
+  },
+  {
+   "id": "e0e9e53c55",
+   "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+   "date": "2026-11-04T18:16:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Canton Coin Gets SEC Nod as Wall Street Tokenization Heats Up",
+     "url": "https://decrypt.co/382554/canton-coin-sec-no-action-wall-street-tokenization",
+     "date": "2026-11-04T18:16:02+00:00",
+     "summary": "SEC staff said they view Canton Coin as a digital commodity and won\u2019t recommend enforcement over how it\u2019s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T18:16:02+00:00",
+   "last_seen": "2026-11-04T18:16:02+00:00",
+   "summary": "SEC staff said they view Canton Coin as a digital commodity and won\u2019t recommend enforcement over how it\u2019s minted, a week after DTCC launched a tokenization service that runs partly on the Canton Network.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "737c7deb50",
+   "title": "What Are Privacy Coins? Bitcoin, Monero and Zcash Compared",
+   "date": "2026-11-04T18:15:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "What Are Privacy Coins? Bitcoin, Monero and Zcash Compared",
+     "url": "https://thedefiant.io/news/tokens/what-are-privacy-coins-bitcoin-monero-and-zcash-compared",
+     "date": "2026-11-04T18:15:35+00:00",
+     "summary": "Monero requires privacy mechanisms for ordinary transfers, while Zcash supports transparent and shielded modes. Neither erases an exchange\u2019s identity records."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T18:15:35+00:00",
+   "last_seen": "2026-11-04T18:15:35+00:00",
+   "summary": "Monero requires privacy mechanisms for ordinary transfers, while Zcash supports transparent and shielded modes. Neither erases an exchange\u2019s identity records.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "cdc3992caa",
+   "title": "Circle\u2019s ARC token sale lifts earnings as lower yields weigh on USDC income",
+   "date": "2026-11-04T18:02:42+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Circle\u2019s ARC token sale lifts earnings as lower yields weigh on USDC income",
+     "url": "https://cointelegraph.com/news/circles-arc-token-sale-earnings-yields-usdc-income?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T18:02:42+00:00",
+     "summary": "Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T18:02:42+00:00",
+   "last_seen": "2026-11-04T18:02:42+00:00",
+   "summary": "Circle is looking to payments fees and future staking rewards to diversify revenue as its core stablecoin business faces pressure from lower yields and growing competition.",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
   {
    "id": "24518978a4",
    "title": "Librer\u00eda de Satoshi Rebrands to ISMOS, Launches Global Platform to Train One Million Bitcoin Developers",
@@ -78,13 +280,21 @@
      "url": "https://thedefiant.io/news/markets/strategy-s-strc-hits-100-for-first-time-since-may",
      "date": "2026-11-04T17:52:00+00:00",
      "summary": "The recovery follows roughly $2.25 billion of buybacks and brings the preferred stock back to Strategy\u2019s stated minimum price for new issuance."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Strategy\u2019s STRC Hits $100 Par for First Time Since May After Over $2 Billion in Buybacks",
+     "url": "https://bitcoinmagazine.com/news/strategys-strc-hits-100-par-may",
+     "date": "2026-11-04T18:29:01+00:00",
+     "summary": "Bitcoin Magazine Strategy&#8217;s STRC Hits $100 Par for First Time Since May After Over $2 Billion in Buybacks Strategy\u2019s STRC preferred hit $100 par on Wednesday for the first time since May, after billions in buybacks, a 12% dividend rate and a switch to daily payouts. This..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-04T17:52:00+00:00",
-   "last_seen": "2026-11-04T17:52:00+00:00",
-   "summary": "The recovery follows roughly $2.25 billion of buybacks and brings the preferred stock back to Strategy\u2019s stated minimum price for new issuance.",
+   "last_seen": "2026-11-04T18:29:01+00:00",
+   "summary": "Bitcoin Magazine Strategy&#8217;s STRC Hits $100 Par for First Time Since May After Over $2 Billion in Buybacks Strategy\u2019s STRC preferred hit $100 par on Wednesday for the first time since May, after billions in buybacks, a 12% dividend rate and a switch to daily payouts. This...",
    "tags": [
+    "bitcoin",
     "markets"
    ]
   },
@@ -1665,12 +1875,19 @@
      "url": "https://www.coindesk.com/markets/2026/11/04/jack-dorsey-s-block-faces-usd764-million-doj-settlement-as-bitcoin-profit-plunges-50",
      "date": "2026-11-04T06:06:04+00:00",
      "summary": "The proposed agreement would resolve a federal anti-money-laundering investigation, while lower Cash App trading fees halved Block's quarterly bitcoin gross profit."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Jack Dorsey\u2019s Block (XYZ) Sets Aside $764 Million for DOJ Settlement as Bitcoin Profit Halves",
+     "url": "https://bitcoinmagazine.com/news/block-xyz-sets-aside-764-million",
+     "date": "2026-11-04T18:11:38+00:00",
+     "summary": "Bitcoin Magazine Jack Dorsey&#8217;s Block (XYZ) Sets Aside $764 Million for DOJ Settlement as Bitcoin Profit Halves Block agreed in principle to a $764 million deferred-prosecution deal over anti-money-laundering failures at Cash App, a sum that exceeds its $566 million Q3..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-04T06:06:04+00:00",
-   "last_seen": "2026-11-04T06:06:04+00:00",
-   "summary": "The proposed agreement would resolve a federal anti-money-laundering investigation, while lower Cash App trading fees halved Block's quarterly bitcoin gross profit.",
+   "last_seen": "2026-11-04T18:11:38+00:00",
+   "summary": "Bitcoin Magazine Jack Dorsey&#8217;s Block (XYZ) Sets Aside $764 Million for DOJ Settlement as Bitcoin Profit Halves Block agreed in principle to a $764 million deferred-prosecution deal over anti-money-laundering failures at Cash App, a sum that exceeds its $566 million Q3...",
    "tags": [
     "bitcoin",
     "legal"

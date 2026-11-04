@@ -1,6 +1,221 @@
 {
- "updated": "2026-11-04T15:10:15.393180+00:00",
+ "updated": "2026-11-04T16:12:21.464034+00:00",
  "events": [
+  {
+   "id": "5ab1c25a7e",
+   "title": "Wall Street cuts Bitcoin miner price targets as newly blue Texas threatens data center boom",
+   "date": "2026-11-04T16:08:14+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Wall Street cuts Bitcoin miner price targets as newly blue Texas threatens data center boom",
+     "url": "https://www.coindesk.com/markets/2026/11/04/wall-street-cuts-bitcoin-miner-price-targets-after-democrats-texas-win-threatens-ai-data-center-boom",
+     "date": "2026-11-04T16:08:14+00:00",
+     "summary": "Wall Street is cutting bitcoin miner price targets after Democrats' Texas win raised fears of delays to AI data center projects."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T16:08:14+00:00",
+   "last_seen": "2026-11-04T16:08:14+00:00",
+   "summary": "Wall Street is cutting bitcoin miner price targets after Democrats' Texas win raised fears of delays to AI data center projects.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "76dba007c2",
+   "title": "TD Cowen: Democratic Sweep Makes a Crypto-Backed CLARITY Act \u2018Impossible\u2019",
+   "date": "2026-11-04T15:51:48+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "TD Cowen: Democratic Sweep Makes a Crypto-Backed CLARITY Act \u2018Impossible\u2019",
+     "url": "https://bitcoinmagazine.com/news/td-cowen-democratic-sweep-clarity",
+     "date": "2026-11-04T15:51:48+00:00",
+     "summary": "Bitcoin Magazine TD Cowen: Democratic Sweep Makes a Crypto-Backed CLARITY Act &#8216;Impossible&#8217; The Democratic sweep and Sherrod Brown\u2019s return may kill the CLARITY Act for two years and may make any industry-backed version impossible as Democrats investigate Trump\u2019s..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T15:51:48+00:00",
+   "last_seen": "2026-11-04T15:51:48+00:00",
+   "summary": "Bitcoin Magazine TD Cowen: Democratic Sweep Makes a Crypto-Backed CLARITY Act &#8216;Impossible&#8217; The Democratic sweep and Sherrod Brown\u2019s return may kill the CLARITY Act for two years and may make any industry-backed version impossible as Democrats investigate Trump\u2019s...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "77c6b09e05",
+   "title": "Evernorth\u2019s XRP funding plan could raise $18 million less at lower share price",
+   "date": "2026-11-04T15:50:35+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Evernorth\u2019s XRP funding plan could raise $18 million less at lower share price",
+     "url": "https://cryptoslate.com/evernorths-xrp-funding-clears-a-hurdle-as-weaker-shares-reduce-what-it-could-raise/",
+     "date": "2026-11-04T15:50:35+00:00",
+     "summary": "October 30 effectiveness satisfies one condition, while the original full share allowance illustrates $62.5 million at November 3\u2019s close before discounts and expenses. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T15:50:35+00:00",
+   "last_seen": "2026-11-04T15:50:35+00:00",
+   "summary": "October 30 effectiveness satisfies one condition, while the original full share allowance illustrates $62.5 million at November 3\u2019s close before discounts and expenses. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The...",
+   "tags": [
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "2ca832f566",
+   "title": "Blast Shuts Down Layer 2, Directs Users to Recovery Site",
+   "date": "2026-11-04T15:41:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Blast Shuts Down Layer 2, Directs Users to Recovery Site",
+     "url": "https://thedefiant.io/news/blockchains/blast-shuts-down-layer-2-directs-users-to-recovery-site",
+     "date": "2026-11-04T15:41:18+00:00",
+     "summary": "DefiLlama\u2019s latest daily reading puts bridge assets at $6.51 million, about 84% below the reading reported on Oct. 26."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T15:41:18+00:00",
+   "last_seen": "2026-11-04T15:41:18+00:00",
+   "summary": "DefiLlama\u2019s latest daily reading puts bridge assets at $6.51 million, about 84% below the reading reported on Oct. 26.",
+   "tags": []
+  },
+  {
+   "id": "2dd097a2c9",
+   "title": "Binance Expands Proof of Reserves to 44 Tokens After Hack",
+   "date": "2026-11-04T15:38:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Expands Proof of Reserves to 44 Tokens After Hack",
+     "url": "https://thedefiant.io/news/hacks/binance-expands-proof-of-reserves-to-44-tokens-after-hack",
+     "date": "2026-11-04T15:38:12+00:00",
+     "summary": "The exchange says it has replenished about 98% of affected assets, but the new cryptographic proof is unfinished and withdrawals are not fully reopened."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T15:38:12+00:00",
+   "last_seen": "2026-11-04T15:38:12+00:00",
+   "summary": "The exchange says it has replenished about 98% of affected assets, but the new cryptographic proof is unfinished and withdrawals are not fully reopened.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "ecc8caeb38",
+   "title": "Riot Signs $28 Billion AI Lease for Entire Corsicana Campus",
+   "date": "2026-11-04T15:31:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Riot Signs $28 Billion AI Lease for Entire Corsicana Campus",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/riot-signs-28-billion-ai-lease-for-entire-corsicana-campus",
+     "date": "2026-11-04T15:31:44+00:00",
+     "summary": "The miner has sold 20,264 BTC this year to help fund data centers, while mining still supplied about 64% of third-quarter revenue."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T15:31:44+00:00",
+   "last_seen": "2026-11-04T15:31:44+00:00",
+   "summary": "The miner has sold 20,264 BTC this year to help fund data centers, while mining still supplied about 64% of third-quarter revenue.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "d8b95171ef",
+   "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+   "date": "2026-11-04T15:29:23+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T15:29:23+00:00",
+     "summary": "Bitcoin climbed toward $80,500 as risk assets rallied on Democrats\u2019 midterm election gains and oil prices fell."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T15:29:23+00:00",
+   "last_seen": "2026-11-04T15:29:23+00:00",
+   "summary": "Bitcoin climbed toward $80,500 as risk assets rallied on Democrats\u2019 midterm election gains and oil prices fell.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "e75c09a0fc",
+   "title": "Crypto Long & Short: ICE is betting on retail\u2019s appetite for quick outcomes",
+   "date": "2026-11-04T15:27:20+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto Long & Short: ICE is betting on retail\u2019s appetite for quick outcomes",
+     "url": "https://www.coindesk.com/coindesk-indices/2026/11/04/crypto-long-and-short-ice-is-betting-on-retail-s-appetite-for-quick-outcomes",
+     "date": "2026-11-04T15:27:20+00:00",
+     "summary": ""
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T15:27:20+00:00",
+   "last_seen": "2026-11-04T15:27:20+00:00",
+   "summary": "",
+   "tags": []
+  },
+  {
+   "id": "9f81eebaef",
+   "title": "Riot (RIOT) and Hut 8 (HUT) Sell Thousands of Bitcoin to Fund AI Ventures, Share Buybacks",
+   "date": "2026-11-04T15:17:29+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Riot (RIOT) and Hut 8 (HUT) Sell Thousands of Bitcoin to Fund AI Ventures, Share Buybacks",
+     "url": "https://bitcoinmagazine.com/news/riot-and-hut-8-sell-thousands-of-bitcoin",
+     "date": "2026-11-04T15:17:29+00:00",
+     "summary": "Bitcoin Magazine Riot (RIOT) and Hut 8 (HUT) Sell Thousands of Bitcoin to Fund AI Ventures, Share Buybacks Riot has sold 20,264 bitcoin this year to fund AI data centers, leaving it with 2,418 BTC, while Hut 8 sold 3,102 to buy back $250 million of stock. This post Riot (RIOT)..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T15:17:29+00:00",
+   "last_seen": "2026-11-04T15:17:29+00:00",
+   "summary": "Bitcoin Magazine Riot (RIOT) and Hut 8 (HUT) Sell Thousands of Bitcoin to Fund AI Ventures, Share Buybacks Riot has sold 20,264 bitcoin this year to fund AI data centers, leaving it with 2,418 BTC, while Hut 8 sold 3,102 to buy back $250 million of stock. This post Riot (RIOT)...",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "70934ab1dd",
+   "title": "Polkadot Treasury Lost $1.38 Million After XCM Patch Missed Production",
+   "date": "2026-11-04T15:11:38+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Polkadot Treasury Lost $1.38 Million After XCM Patch Missed Production",
+     "url": "https://thedefiant.io/news/hacks/polkadot-treasury-lost-1-38-million-after-xcm-patch-missed-production",
+     "date": "2026-11-04T15:11:38+00:00",
+     "summary": "The flaw distorted DOT/dotUSD pool pricing. A later upgrade repaired the stablecoin\u2019s supply accounting without changing holders\u2019 balances."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T15:11:38+00:00",
+   "last_seen": "2026-11-04T15:11:38+00:00",
+   "summary": "The flaw distorted DOT/dotUSD pool pricing. A later upgrade repaired the stablecoin\u2019s supply accounting without changing holders\u2019 balances.",
+   "tags": [
+    "macro",
+    "stablecoins"
+   ]
+  },
   {
    "id": "36eb903a85",
    "title": "Bitcoin Reclaims $79,000 After 5% Rebound From Election-Night Low",

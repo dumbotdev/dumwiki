@@ -1,6 +1,404 @@
 {
- "updated": "2026-11-04T09:14:51.648104+00:00",
+ "updated": "2026-11-04T12:06:22.244685+00:00",
  "events": [
+  {
+   "id": "15ac66799f",
+   "title": "BitGo launches institutional trading and financial solutions business led by former NYDIG executive",
+   "date": "2026-11-04T12:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "BitGo launches institutional trading and financial solutions business led by former NYDIG executive",
+     "url": "https://www.theblock.co/news/business/2026-11-04-bitgo-launches-institutional-trading-and-financial-solutions-business-led-by-former-nydig-executive-432646",
+     "date": "2026-11-04T12:00:00+00:00",
+     "summary": "BitGo has launched Global Markets, an institutional trading and financial solutions business headed by former NYDIG executive Pete Janney."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T12:00:00+00:00",
+   "last_seen": "2026-11-04T12:00:00+00:00",
+   "summary": "BitGo has launched Global Markets, an institutional trading and financial solutions business headed by former NYDIG executive Pete Janney.",
+   "tags": []
+  },
+  {
+   "id": "1c0159b252",
+   "title": "Coinbase, Kalshi Denied Shield From State Prediction-Market Enforcement",
+   "date": "2026-11-04T11:49:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coinbase, Kalshi Denied Shield From State Prediction-Market Enforcement",
+     "url": "https://thedefiant.io/news/regulation/coinbase-kalshi-denied-shield-from-state-prediction-market-enforcement",
+     "date": "2026-11-04T11:49:47+00:00",
+     "summary": "The Second Circuit denied interim protection in Connecticut and New York, but its order does not require trading to stop or existing positions to close."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T11:49:47+00:00",
+   "last_seen": "2026-11-04T11:49:47+00:00",
+   "summary": "The Second Circuit denied interim protection in Connecticut and New York, but its order does not require trading to stop or existing positions to close.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "7ce9c790b2",
+   "title": "Midterms Blue Wave Makes $917K for One Polymarket Trader, If Alaska Doesn\u2019t Flip",
+   "date": "2026-11-04T11:48:50+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Midterms Blue Wave Makes $917K for One Polymarket Trader, If Alaska Doesn\u2019t Flip",
+     "url": "https://decrypt.co/382489/midterms-blue-wave-makes-917k-for-one-polymarket-trader-if-alaska-doesnt-flip",
+     "date": "2026-11-04T11:48:50+00:00",
+     "summary": "A Polymarket trader topped the prediction market\u2019s leaderboard after Democrats swept the US midterms, but Alaska could still flip it."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T11:48:50+00:00",
+   "last_seen": "2026-11-04T11:48:50+00:00",
+   "summary": "A Polymarket trader topped the prediction market\u2019s leaderboard after Democrats swept the US midterms, but Alaska could still flip it.",
+   "tags": []
+  },
+  {
+   "id": "a7491abba7",
+   "title": "Circle Payments Network Reaches $41.3 Billion Annualized Volume in Q3",
+   "date": "2026-11-04T11:41:41+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Circle Payments Network Reaches $41.3 Billion Annualized Volume in Q3",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/circle-payments-network-reaches-41-3-billion-annualized-volume-in-q3",
+     "date": "2026-11-04T11:41:41+00:00",
+     "summary": "Circle retained 52.4% of revenue and reserve income after distribution-related costs, but ARC token sales lifted that share. Its pending Tazapay acquisition would deepen local payout access."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T11:41:41+00:00",
+   "last_seen": "2026-11-04T11:41:41+00:00",
+   "summary": "Circle retained 52.4% of revenue and reserve income after distribution-related costs, but ARC token sales lifted that share. Its pending Tazapay acquisition would deepen local payout access.",
+   "tags": [
+    "funding",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "458643c1e7",
+   "title": "Binance hack may be \u2018temporary setback\u2019 for crypto, Grayscale\u2019s Pandl says",
+   "date": "2026-11-04T11:11:57+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance hack may be \u2018temporary setback\u2019 for crypto, Grayscale\u2019s Pandl says",
+     "url": "https://cointelegraph.com/markets/crypto-market-recovery-grayscale-binance-hack-temporary-setback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T11:11:57+00:00",
+     "summary": "Zach Pandl highlighted institutional custody safeguards as crypto markets recovered some losses following the record $6.3 billion Binance hack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T11:11:57+00:00",
+   "last_seen": "2026-11-04T11:11:57+00:00",
+   "summary": "Zach Pandl highlighted institutional custody safeguards as crypto markets recovered some losses following the record $6.3 billion Binance hack.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "143dbd3c12",
+   "title": "Binance reports $11 billion withdrawn in 46 hours as Zhao says few funds went to rivals",
+   "date": "2026-11-04T11:10:32+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance reports $11 billion withdrawn in 46 hours as Zhao says few funds went to rivals",
+     "url": "https://cryptoslate.com/binance-reports-11-billion-withdrawn-in-46-hours-as-zhao-says-few-funds-went-to-rivals/",
+     "date": "2026-11-04T11:10:32+00:00",
+     "summary": "Binance reported about $11 billion in withdrawals between 06:00 UTC on Nov. 1 and 04:00 UTC on Nov. 3, after reopening services following its record $6 billion hack on Oct. 29. Deposits of about $6 billion offset just over half the withdrawals, leaving roughly $5 billion in net..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T11:10:32+00:00",
+   "last_seen": "2026-11-04T11:10:32+00:00",
+   "summary": "Binance reported about $11 billion in withdrawals between 06:00 UTC on Nov. 1 and 04:00 UTC on Nov. 3, after reopening services following its record $6 billion hack on Oct. 29. Deposits of about $6 billion offset just over half the withdrawals, leaving roughly $5 billion in net...",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "8549f5a613",
+   "title": "DeFi Explained",
+   "date": "2026-11-04T11:05:30+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "DeFi Explained",
+     "url": "https://www.theblock.co/learn/defi/defi-explained-432391",
+     "date": "2026-11-04T11:05:30+00:00",
+     "summary": "DeFi 201 explains decentralized finance as a connected protocol system. It follows how DEXs and AMMs, liquidity pools, lending markets, yield aggregators, oracles, derivatives and DAO governance fit together, and where composability creates systemic risk."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T11:05:30+00:00",
+   "last_seen": "2026-11-04T11:05:30+00:00",
+   "summary": "DeFi 201 explains decentralized finance as a connected protocol system. It follows how DEXs and AMMs, liquidity pools, lending markets, yield aggregators, oracles, derivatives and DAO governance fit together, and where composability creates systemic risk.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "054ea470f2",
+   "title": "Morgan Stanley Tokenizes US Stocks and Treasuries Through DTCC",
+   "date": "2026-11-04T10:43:28+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Morgan Stanley Tokenizes US Stocks and Treasuries Through DTCC",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/morgan-stanley-tokenizes-us-stocks-and-treasuries-through-dtcc",
+     "date": "2026-11-04T10:43:28+00:00",
+     "summary": "The bank was among 20 participants signed up at launch. The service permits 24/7 token transfers only between registered wallets on the same blockchain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T10:43:28+00:00",
+   "last_seen": "2026-11-04T10:43:28+00:00",
+   "summary": "The bank was among 20 participants signed up at launch. The service permits 24/7 token transfers only between registered wallets on the same blockchain.",
+   "tags": []
+  },
+  {
+   "id": "7521c0a355",
+   "title": "WLFI Slides 11% on Election Night, Lags Bitcoin\u2019s Recovery",
+   "date": "2026-11-04T10:42:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "WLFI Slides 11% on Election Night, Lags Bitcoin\u2019s Recovery",
+     "url": "https://thedefiant.io/news/markets/wlfi-slides-11-on-election-night-lags-bitcoin-s-recovery",
+     "date": "2026-11-04T10:42:47+00:00",
+     "summary": "World Liberty\u2019s token remained 5.1% below its early-evening level by 5 a.m. ET, while bitcoin had recovered its losses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T10:42:47+00:00",
+   "last_seen": "2026-11-04T10:42:47+00:00",
+   "summary": "World Liberty\u2019s token remained 5.1% below its early-evening level by 5 a.m. ET, while bitcoin had recovered its losses.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "a94e137bb5",
+   "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
+   "date": "2026-11-04T10:38:58+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin rebounds from midterm dip as DeFi leads gains",
+     "url": "https://www.coindesk.com/markets/2026/11/04/bitcoin-rebounds-from-midterm-dip-as-defi-leads-gains",
+     "date": "2026-11-04T10:38:58+00:00",
+     "summary": "Bitcoin recovered from a dip to around $75,600 as Democrats won Congress, while DeFi tokens led gains and Trump-linked coins fell."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T10:38:58+00:00",
+   "last_seen": "2026-11-04T10:38:58+00:00",
+   "summary": "Bitcoin recovered from a dip to around $75,600 as Democrats won Congress, while DeFi tokens led gains and Trump-linked coins fell.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "regulation"
+   ]
+  },
+  {
+   "id": "9d456f3959",
+   "title": "Judge Orders Bitcoin Wallet Returned to Family of Convicted Canadian Killer",
+   "date": "2026-11-04T10:35:01+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Judge Orders Bitcoin Wallet Returned to Family of Convicted Canadian Killer",
+     "url": "https://decrypt.co/382484/judge-orders-bitcoin-wallet-returned-to-family-of-convicted-canadian-killer",
+     "date": "2026-11-04T10:35:01+00:00",
+     "summary": "A Nova Scotia judge found prosecutors failed to link William Sandeson's Bitcoin to the 2015 murder of fellow student Taylor Samson."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T10:35:01+00:00",
+   "last_seen": "2026-11-04T10:35:01+00:00",
+   "summary": "A Nova Scotia judge found prosecutors failed to link William Sandeson's Bitcoin to the 2015 murder of fellow student Taylor Samson.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b1a567b6b4",
+   "title": "Justin Sun seeks $264K sanctions over World Liberty\u2019s UAE disclosure",
+   "date": "2026-11-04T10:30:42+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Justin Sun seeks $264K sanctions over World Liberty\u2019s UAE disclosure",
+     "url": "https://cointelegraph.com/news/justin-sun-world-liberty-264k-sanctions-uae-disclosure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T10:30:42+00:00",
+     "summary": "Sun plans to refile his token-freeze lawsuit in California state court after the sanctions motion is resolved. A hearing is set for Dec. 10."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T10:30:42+00:00",
+   "last_seen": "2026-11-04T10:30:42+00:00",
+   "summary": "Sun plans to refile his token-freeze lawsuit in California state court after the sanctions motion is resolved. A hearing is set for Dec. 10.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "c4f6d6a3ab",
+   "title": "Hong Kong Passes Crypto Tax Reporting Bill for 2027 Start",
+   "date": "2026-11-04T10:26:52+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Hong Kong Passes Crypto Tax Reporting Bill for 2027 Start",
+     "url": "https://thedefiant.io/converge/regulation/hong-kong-passes-crypto-tax-reporting-bill-for-2027-start",
+     "date": "2026-11-04T10:26:52+00:00",
+     "summary": "Annual reports will link customer identities to fiat trades, token swaps and transfers, including withdrawals to external wallets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T10:26:52+00:00",
+   "last_seen": "2026-11-04T10:26:52+00:00",
+   "summary": "Annual reports will link customer identities to fiat trades, token swaps and transfers, including withdrawals to external wallets.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "94c7bb2159",
+   "title": "SEC ruling lifts Canton Coin 6% as a16z sees pathway out of securities laws",
+   "date": "2026-11-04T10:10:35+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "SEC ruling lifts Canton Coin 6% as a16z sees pathway out of securities laws",
+     "url": "https://cryptoslate.com/sec-ruling-lifts-canton-coin-6-as-a16z-sees-pathway-out-of-securities-laws/",
+     "date": "2026-11-04T10:10:35+00:00",
+     "summary": "The no-action position covers three types of network participant under counsel\u2019s described model and gives no binding legal conclusion. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T10:10:35+00:00",
+   "last_seen": "2026-11-04T10:10:35+00:00",
+   "summary": "The no-action position covers three types of network participant under counsel\u2019s described model and gives no binding legal conclusion. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "b5d912cdca",
+   "title": "Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
+   "date": "2026-11-04T10:03:33+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Elon Musk floats space data centers as Democratic sweep puts pressure on AI trade",
+     "url": "https://www.coindesk.com/markets/2026/11/04/elon-musk-floats-space-data-centers-as-democratic-sweep-puts-pressure-on-ai-trade",
+     "date": "2026-11-04T10:03:33+00:00",
+     "summary": "Texas election result raises fears of data centre restrictions, while Musk and Palihapitiya draw attention to the space economy."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T10:03:33+00:00",
+   "last_seen": "2026-11-04T10:03:33+00:00",
+   "summary": "Texas election result raises fears of data centre restrictions, while Musk and Palihapitiya draw attention to the space economy.",
+   "tags": [
+    "ai",
+    "funding"
+   ]
+  },
+  {
+   "id": "63fb9fd37f",
+   "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling \u2018short-term\u2019",
+   "date": "2026-11-04T09:38:07+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin ETFs lose $1.16B as Bitwise calls selling \u2018short-term\u2019",
+     "url": "https://cointelegraph.com/markets/bitcoin-etf-shed-1-16-billion-bitwise-short-term-risk-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T09:38:07+00:00",
+     "summary": "Bitwise\u2019s Andr\u00e9 Dragosch attributed Bitcoin ETF outflows to weaker market sentiment, saying institutions have largely maintained their exposure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T09:38:07+00:00",
+   "last_seen": "2026-11-04T09:38:07+00:00",
+   "summary": "Bitwise\u2019s Andr\u00e9 Dragosch attributed Bitcoin ETF outflows to weaker market sentiment, saying institutions have largely maintained their exposure.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "50de022916",
+   "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC\u2019s service",
+   "date": "2026-11-04T09:37:45+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Morgan Stanley among first banks to tokenize US equities, Treasurys through DTCC\u2019s service",
+     "url": "https://www.theblock.co/news/markets/2026-11-04-morgan-stanley-among-first-banks-to-tokenize-us-equities-treasurys-through-dtccs-service-432633",
+     "date": "2026-11-04T09:37:45+00:00",
+     "summary": "Morgan Stanley said it converted US equities and Treasurys into tokenized form through DTCC's new tokenization service."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T09:37:45+00:00",
+   "last_seen": "2026-11-04T09:37:45+00:00",
+   "summary": "Morgan Stanley said it converted US equities and Treasurys into tokenized form through DTCC's new tokenization service.",
+   "tags": []
+  },
+  {
+   "id": "4930ed8126",
+   "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
+   "date": "2026-11-04T09:22:58+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Morgan Stanley says it is among the first banks to tokenize real world assets",
+     "url": "https://www.coindesk.com/markets/2026/11/04/morgan-stanley-says-it-is-among-the-first-banks-to-put-u-s-stocks-and-treasuries-on-a-blockchain",
+     "date": "2026-11-04T09:22:58+00:00",
+     "summary": "The bank's announcement follows the launch of the Depository Trust & Clearing Corporation\u2019s Tokenization Service, or DTS, on Oct. 28."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T09:22:58+00:00",
+   "last_seen": "2026-11-04T09:22:58+00:00",
+   "summary": "The bank's announcement follows the launch of the Depository Trust & Clearing Corporation\u2019s Tokenization Service, or DTS, on Oct. 28.",
+   "tags": []
+  },
+  {
+   "id": "761ae0002c",
+   "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
+   "date": "2026-11-04T09:15:55+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance hackers move 81% of stolen Solana, route funds via THORChain",
+     "url": "https://cointelegraph.com/news/binance-hackers-move-81-stolen-solana-route-thorchain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-04T09:15:55+00:00",
+     "summary": "The Binance attackers moved most of the stolen SOL and continued laundering funds through THORChain after the protocol resumed swaps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-04T09:15:55+00:00",
+   "last_seen": "2026-11-04T09:15:55+00:00",
+   "summary": "The Binance attackers moved most of the stolen SOL and continued laundering funds through THORChain after the protocol resumed swaps.",
+   "tags": [
+    "exchanges",
+    "security",
+    "solana"
+   ]
+  },
   {
    "id": "2b9f1b47a5",
    "title": "South Korea orders massive crypto wallet lockdown following the Binance hack",
@@ -264,13 +662,22 @@
      "url": "https://www.theblock.co/news/web3/2026-11-03-french-bank-credit-mutuel-arkea-exploited-zachxbt-432607",
      "date": "2026-11-04T04:57:41+00:00",
      "summary": "ZachXBT said he has a 'high degree of confidence' that the attacker is not associated with North Korea's Lazarus Group."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "ZachXBT names French bank Cr\u00e9dit Mutuel Ark\u00e9a as suspected victim of $133 million crypto theft",
+     "url": "https://www.coindesk.com/business/2026/11/04/zachxbt-names-french-bank-credit-mutuel-arkea-as-suspected-victim-of-usd133-million-crypto-theft",
+     "date": "2026-11-04T10:18:50+00:00",
+     "summary": "Blockchain sleuth ZachXBT says the French bank may have lost more than $133 million from crypto exchange accounts. Crypto.com confirms it has blocked funds linked to the theft."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-04T04:57:41+00:00",
-   "last_seen": "2026-11-04T04:57:41+00:00",
-   "summary": "ZachXBT said he has a 'high degree of confidence' that the attacker is not associated with North Korea's Lazarus Group.",
-   "tags": []
+   "last_seen": "2026-11-04T10:18:50+00:00",
+   "summary": "Blockchain sleuth ZachXBT says the French bank may have lost more than $133 million from crypto exchange accounts. Crypto.com confirms it has blocked funds linked to the theft.",
+   "tags": [
+    "exchanges"
+   ]
   },
   {
    "id": "bdf97a6fb2",
@@ -408,11 +815,18 @@
      "url": "https://cointelegraph.com/news/zachxbt-french-bank-credit-mutuel-arkea-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-11-04T03:35:30+00:00",
      "summary": "The French bank has not confirmed its alleged involvement in the crypto theft, which ZachXBT said could have resulted in losses exceeding $133 million."
+    },
+    {
+     "source": "Decrypt",
+     "title": "ZachXBT Names French Bank Cr\u00e9dit Mutuel Ark\u00e9a as Alleged Victim of $133M Crypto Theft",
+     "url": "https://decrypt.co/382486/zachxbt-names-french-bank-credit-mutuel-arkea-as-alleged-victim-of-133m-crypto-theft",
+     "date": "2026-11-04T11:20:31+00:00",
+     "summary": "The onchain investigator says the theft is being \"covered up,\" and that a lack of disclosure let more than $30 million be laundered."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-04T03:35:30+00:00",
-   "last_seen": "2026-11-04T03:35:30+00:00",
+   "last_seen": "2026-11-04T11:20:31+00:00",
    "summary": "The French bank has not confirmed its alleged involvement in the crypto theft, which ZachXBT said could have resulted in losses exceeding $133 million.",
    "tags": []
   },

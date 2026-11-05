@@ -1,6 +1,345 @@
 {
- "updated": "2026-11-05T11:19:07.160016+00:00",
+ "updated": "2026-11-05T13:34:13.440503+00:00",
  "events": [
+  {
+   "id": "0416652236",
+   "title": "Google could take stake in bitcoin miner TeraWulf\u2019s $19 billion AI project if Anthropic defaults",
+   "date": "2026-11-05T13:29:40+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Google could take stake in bitcoin miner TeraWulf\u2019s $19 billion AI project if Anthropic defaults",
+     "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
+     "date": "2026-11-05T13:29:40+00:00",
+     "summary": "A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T13:29:40+00:00",
+   "last_seen": "2026-11-05T13:29:40+00:00",
+   "summary": "A $19 billion data-center agreement includes an unusual provision allowing Google to acquire part of the project if Anthropic fails to pay its rent.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "08ef2a9757",
+   "title": "Morning Minute: Democrat Sweep Pumps Crypto as Clarity Act Resurfaces",
+   "date": "2026-11-05T13:14:05+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Democrat Sweep Pumps Crypto as Clarity Act Resurfaces",
+     "url": "https://decrypt.co/382603/morning-minute-democrat-sweep-pumps-crypto-as-clarity-act-resurfaces",
+     "date": "2026-11-05T13:14:05+00:00",
+     "summary": "The Dems are already talking compromise on the Clarity Act and their requests all seem logical - does the bill have new life?"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T13:14:05+00:00",
+   "last_seen": "2026-11-05T13:14:05+00:00",
+   "summary": "The Dems are already talking compromise on the Clarity Act and their requests all seem logical - does the bill have new life?",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "585228d8a4",
+   "title": "Riot\u2019s $28 billion AI lease gives Anthropic a veto on voluntary power cuts",
+   "date": "2026-11-05T13:10:25+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Riot\u2019s $28 billion AI lease gives Anthropic a veto on voluntary power cuts",
+     "url": "https://cryptoslate.com/riots-28-billion-ai-lease-gives-anthropic-a-veto-on-voluntary-power-cuts/",
+     "date": "2026-11-05T13:10:25+00:00",
+     "summary": "The binding Corsicana deal covers a planned 910 MW, with mandatory grid orders exempt and rent dependent on future delivery. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T13:10:25+00:00",
+   "last_seen": "2026-11-05T13:10:25+00:00",
+   "summary": "The binding Corsicana deal covers a planned 910 MW, with mandatory grid orders exempt and rent dependent on future delivery. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "8b6fe3f6f2",
+   "title": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
+   "date": "2026-11-05T13:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
+     "url": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
+     "date": "2026-11-05T13:01:02+00:00",
+     "summary": "Eligible U.S. Galaxy users can now buy, hold, send and receive USDC on Solana directly in Samsung Wallet, without a separate crypto app or private keys to manage."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T13:01:02+00:00",
+   "last_seen": "2026-11-05T13:01:02+00:00",
+   "summary": "Eligible U.S. Galaxy users can now buy, hold, send and receive USDC on Solana directly in Samsung Wallet, without a separate crypto app or private keys to manage.",
+   "tags": [
+    "solana",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "97ebaa8127",
+   "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
+   "date": "2026-11-05T12:55:03+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
+     "url": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
+     "date": "2026-11-05T12:55:03+00:00",
+     "summary": "The exchange says its systems are unaffected but has removed trading connections to the third-party platform as a precaution."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T12:55:03+00:00",
+   "last_seen": "2026-11-05T12:55:03+00:00",
+   "summary": "The exchange says its systems are unaffected but has removed trading connections to the third-party platform as a precaution.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "ae39262fee",
+   "title": "Ukraine\u2019s central bank opposes crypto bill, citing monetary sovereignty concerns",
+   "date": "2026-11-05T12:50:57+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ukraine\u2019s central bank opposes crypto bill, citing monetary sovereignty concerns",
+     "url": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
+     "date": "2026-11-05T12:50:57+00:00",
+     "summary": "Ukraine\u2019s central bank won\u2019t back a crypto legalization bill in its current form and wants lawmakers to revise it before a final vote."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T12:50:57+00:00",
+   "last_seen": "2026-11-05T12:50:57+00:00",
+   "summary": "Ukraine\u2019s central bank won\u2019t back a crypto legalization bill in its current form and wants lawmakers to revise it before a final vote.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "eb7e0b5ab3",
+   "title": "Trump\u2019s memecoin ventures derailed CLARITY Act, Scaramucci says",
+   "date": "2026-11-05T12:39:36+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Trump\u2019s memecoin ventures derailed CLARITY Act, Scaramucci says",
+     "url": "https://cointelegraph.com/news/scaramucci-trump-memecoins-clarity-act-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-05T12:39:36+00:00",
+     "summary": "The SkyBridge founder said disputes over ethics restrictions also stalled negotiations, with both sides responsible for the setback."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T12:39:36+00:00",
+   "last_seen": "2026-11-05T12:39:36+00:00",
+   "summary": "The SkyBridge founder said disputes over ethics restrictions also stalled negotiations, with both sides responsible for the setback.",
+   "tags": [
+    "memecoins"
+   ]
+  },
+  {
+   "id": "e944b5f89a",
+   "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
+   "date": "2026-11-05T12:27:04+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
+     "url": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
+     "date": "2026-11-05T12:27:04+00:00",
+     "summary": "Your day-ahead look for Nov. 5, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T12:27:04+00:00",
+   "last_seen": "2026-11-05T12:27:04+00:00",
+   "summary": "Your day-ahead look for Nov. 5, 2026",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "0bc83f861b",
+   "title": "Binance Cuts Off SignalPlus API Keys Over 'Potential Security Issue' at Trading Platform",
+   "date": "2026-11-05T12:23:24+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Binance Cuts Off SignalPlus API Keys Over 'Potential Security Issue' at Trading Platform",
+     "url": "https://decrypt.co/382599/binance-cuts-off-signalplus-api-keys-over-potential-security-issue-at-trading-platform",
+     "date": "2026-11-05T12:23:24+00:00",
+     "summary": "The exchange said its own systems and user funds are unaffected, a week after it lost $6.4 billion in a hack blamed on North Korea."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T12:23:24+00:00",
+   "last_seen": "2026-11-05T12:23:24+00:00",
+   "summary": "The exchange said its own systems and user funds are unaffected, a week after it lost $6.4 billion in a hack blamed on North Korea.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "f40b18244c",
+   "title": "Are you getting the AI you paid for? Anthropic\u2019s new AI verification tool has a costly catch",
+   "date": "2026-11-05T12:10:19+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Are you getting the AI you paid for? Anthropic\u2019s new AI verification tool has a costly catch",
+     "url": "https://cryptoslate.com/are-you-getting-the-ai-you-paid-for-anthropics-new-proof-has-a-costly-catch/",
+     "date": "2026-11-05T12:10:19+00:00",
+     "summary": "FlashProve could help verify model computation, but its benchmark takes roughly 70 to 95 times the GPU work of ordinary inference. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T12:10:19+00:00",
+   "last_seen": "2026-11-05T12:10:19+00:00",
+   "summary": "FlashProve could help verify model computation, but its benchmark takes roughly 70 to 95 times the GPU work of ordinary inference. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "9b64dceddc",
+   "title": "Canadian Man Extradited to US Over Plot to Hijack University Supercomputers for Crypto",
+   "date": "2026-11-05T12:00:01+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Canadian Man Extradited to US Over Plot to Hijack University Supercomputers for Crypto",
+     "url": "https://decrypt.co/382590/canadian-man-extradited-to-us-over-plot-to-hijack-university-supercomputers-for-crypto",
+     "date": "2026-11-05T12:00:01+00:00",
+     "summary": "Prosecutors say Ryan Roach and a co-defendant targeted U.S. universities with supercomputers, stealing logins and secretly mining crypto."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T12:00:01+00:00",
+   "last_seen": "2026-11-05T12:00:01+00:00",
+   "summary": "Prosecutors say Ryan Roach and a co-defendant targeted U.S. universities with supercomputers, stealing logins and secretly mining crypto.",
+   "tags": []
+  },
+  {
+   "id": "d4bf80a689",
+   "title": "Thailand Sets Dec. 5 Bitget Block As Local Exchange Deal Awaits Approval",
+   "date": "2026-11-05T11:49:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Thailand Sets Dec. 5 Bitget Block As Local Exchange Deal Awaits Approval",
+     "url": "https://thedefiant.io/news/regulation/thailand-sets-dec-5-bitget-block-as-local-exchange-deal-awaits-approval",
+     "date": "2026-11-05T11:49:37+00:00",
+     "summary": "Seller GMO Internet has pushed the planned share transfer to Nov. 30 while it works through Thai regulatory procedures."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T11:49:37+00:00",
+   "last_seen": "2026-11-05T11:49:37+00:00",
+   "summary": "Seller GMO Internet has pushed the planned share transfer to Nov. 30 while it works through Thai regulatory procedures.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "7d8c6bdbc7",
+   "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
+   "date": "2026-11-05T11:49:23+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
+     "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
+     "date": "2026-11-05T11:49:23+00:00",
+     "summary": "Investors dumped AI infrastructure providers across the board in October, treating companies in very different sectors as one monolithic trade."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T11:49:23+00:00",
+   "last_seen": "2026-11-05T11:49:23+00:00",
+   "summary": "Investors dumped AI infrastructure providers across the board in October, treating companies in very different sectors as one monolithic trade.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "5a8787e03f",
+   "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
+   "date": "2026-11-05T11:45:54+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Trump-linked American Bitcoin swings to $126 million profit but misses revenue estimates",
+     "url": "https://www.coindesk.com/business/2026/11/05/trump-linked-american-bitcoin-swings-to-usd126-million-profit-in-q3-2026",
+     "date": "2026-11-05T11:45:54+00:00",
+     "summary": "Revenue fell to $63.4 million in the third quarter and missed analysts\u2019 forecasts as bitcoin production declined and higher summer electricity prices pushed mining costs up."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T11:45:54+00:00",
+   "last_seen": "2026-11-05T11:45:54+00:00",
+   "summary": "Revenue fell to $63.4 million in the third quarter and missed analysts\u2019 forecasts as bitcoin production declined and higher summer electricity prices pushed mining costs up.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "17749a875c",
+   "title": "Thailand to block Bitget in December over unlicensed crypto trading",
+   "date": "2026-11-05T11:33:20+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Thailand to block Bitget in December over unlicensed crypto trading",
+     "url": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-05T11:33:20+00:00",
+     "summary": "Thailand\u2019s SEC filed a criminal complaint against Bitget\u2019s operator, with access to its website and app set to be blocked from Dec. 5."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T11:33:20+00:00",
+   "last_seen": "2026-11-05T11:33:20+00:00",
+   "summary": "Thailand\u2019s SEC filed a criminal complaint against Bitget\u2019s operator, with access to its website and app set to be blocked from Dec. 5.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "a4690f60fa",
+   "title": "Bitcoin holds above $80,000 after Wednesday\u2019s jump as injective rallies on staked ETF listing",
+   "date": "2026-11-05T11:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin holds above $80,000 after Wednesday\u2019s jump as injective rallies on staked ETF listing",
+     "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-holds-above-usd80-000-after-wednesday-s-jump-as-injective-rallies-on-staked-etf-listing",
+     "date": "2026-11-05T11:30:00+00:00",
+     "summary": "Bitcoin slipped 0.2% to around $80,250 since midnight UTC, holding above $80,000 after Wednesday\u2019s jump, as spot ETFs ended a three-day outflow streak."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T11:30:00+00:00",
+   "last_seen": "2026-11-05T11:30:00+00:00",
+   "summary": "Bitcoin slipped 0.2% to around $80,250 since midnight UTC, holding above $80,000 after Wednesday\u2019s jump, as spot ETFs ended a three-day outflow streak.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
   {
    "id": "0085950779",
    "title": "Democrats reportedly seek greater SEC control over crypto after CLARITY Act collapse",

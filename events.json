@@ -1,6 +1,1015 @@
 {
- "updated": "2026-11-05T17:27:16.081799+00:00",
+ "updated": "2026-11-05T23:42:37.964599+00:00",
  "events": [
+  {
+   "id": "cc02f400bb",
+   "title": "Treasury bought back $6B in bonds, but dealers say bigger isn\u2019t enough",
+   "date": "2026-11-05T23:20:13+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Treasury bought back $6B in bonds, but dealers say bigger isn\u2019t enough",
+     "url": "https://cryptoslate.com/treasury-bought-back-6b-in-bonds-but-dealers-say-bigger-isnt-enough/",
+     "date": "2026-11-05T23:20:13+00:00",
+     "summary": "The US Treasury bought back $6 billion of older government bonds on Nov. 4, hitting the full limit of its latest operation. On paper, that looks like a success for a program designed to make the Treasury market easier to trade. But there&#039;s a catch. One bond accounted for..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T23:20:13+00:00",
+   "last_seen": "2026-11-05T23:20:13+00:00",
+   "summary": "The US Treasury bought back $6 billion of older government bonds on Nov. 4, hitting the full limit of its latest operation. On paper, that looks like a success for a program designed to make the Treasury market easier to trade. But there&#039;s a catch. One bond accounted for...",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "277d5fa279",
+   "title": "Claude Gets Personal Finance\u2014Anthony Pompliano Accuses Anthropic of Copying His Startup",
+   "date": "2026-11-05T23:06:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Claude Gets Personal Finance\u2014Anthony Pompliano Accuses Anthropic of Copying His Startup",
+     "url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
+     "date": "2026-11-05T23:06:02+00:00",
+     "summary": "Anthropic's Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T23:06:02+00:00",
+   "last_seen": "2026-11-05T23:06:02+00:00",
+   "summary": "Anthropic's Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it.",
+   "tags": []
+  },
+  {
+   "id": "e6a9c7503a",
+   "title": "American Bitcoin\u2019s $126M profit masks mining pressure as rivals turn to AI",
+   "date": "2026-11-05T22:43:18+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "American Bitcoin\u2019s $126M profit masks mining pressure as rivals turn to AI",
+     "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-05T22:43:18+00:00",
+     "summary": "The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains on its Bitcoin holdings, despite rising mining costs and shrinking margins."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T22:43:18+00:00",
+   "last_seen": "2026-11-05T22:43:18+00:00",
+   "summary": "The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains on its Bitcoin holdings, despite rising mining costs and shrinking margins.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "8e1a2f5394",
+   "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+   "date": "2026-11-05T22:18:42+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+     "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-05T22:18:42+00:00",
+     "summary": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T22:18:42+00:00",
+   "last_seen": "2026-11-05T22:18:42+00:00",
+   "summary": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "73ece9a55b",
+   "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
+   "date": "2026-11-05T22:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
+     "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
+     "date": "2026-11-05T22:16:03+00:00",
+     "summary": "Ueno\u2019s collapse trapped millions of Paraguayan depositors and triggered a president\u2019s resignation, reviving Bitcoin\u2019s argument for self-custody."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T22:16:03+00:00",
+   "last_seen": "2026-11-05T22:16:03+00:00",
+   "summary": "Ueno\u2019s collapse trapped millions of Paraguayan depositors and triggered a president\u2019s resignation, reviving Bitcoin\u2019s argument for self-custody.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "a99407db19",
+   "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
+   "date": "2026-11-05T22:09:14+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
+     "url": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
+     "date": "2026-11-05T22:09:14+00:00",
+     "summary": "Hyperliquid Strategies posted $13.3M in revenue and $620.6M net income, and filed with the CFTC to become an FCM for U.S. HIP-3 perp markets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T22:09:14+00:00",
+   "last_seen": "2026-11-05T22:09:14+00:00",
+   "summary": "Hyperliquid Strategies posted $13.3M in revenue and $620.6M net income, and filed with the CFTC to become an FCM for U.S. HIP-3 perp markets.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "5d0cfd46bb",
+   "title": "Solana developers propose major overhaul to address hidden risk that could disrupt its network",
+   "date": "2026-11-05T22:00:30+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Solana developers propose major overhaul to address hidden risk that could disrupt its network",
+     "url": "https://cryptoslate.com/solana-developers-propose-major-overhaul-to-address-hidden-risk-that-could-disrupt-its-network/",
+     "date": "2026-11-05T22:00:30+00:00",
+     "summary": "The draft defines a common target while leaving starting-state trust, implementation testing and upgrade reviews to address. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T22:00:30+00:00",
+   "last_seen": "2026-11-05T22:00:30+00:00",
+   "summary": "The draft defines a common target while leaving starting-state trust, implementation testing and upgrade reviews to address. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "06d5692ca6",
+   "title": "Hyperliquid Strategies Posts $620.6 Million Profit on HYPE Paper Gains",
+   "date": "2026-11-05T21:56:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Hyperliquid Strategies Posts $620.6 Million Profit on HYPE Paper Gains",
+     "url": "https://thedefiant.io/news/tokens/hyperliquid-strategies-posts-620-6-million-profit-on-hype-paper-gains",
+     "date": "2026-11-05T21:56:51+00:00",
+     "summary": "HYPE was trading about 14% below the price used to value the company's quarter-end token holdings."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T21:56:51+00:00",
+   "last_seen": "2026-11-05T21:56:51+00:00",
+   "summary": "HYPE was trading about 14% below the price used to value the company's quarter-end token holdings.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "84695c4d6a",
+   "title": "Former FBI Agent Pleads Guilty to $2.47 Million Crypto Theft",
+   "date": "2026-11-05T21:53:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Former FBI Agent Pleads Guilty to $2.47 Million Crypto Theft",
+     "url": "https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft",
+     "date": "2026-11-05T21:53:55+00:00",
+     "summary": "Prosecutors say Patrick Steven Yaroch used credentials tied to 35 FBI investigations, compromising cases and intelligence sources and methods."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T21:53:55+00:00",
+   "last_seen": "2026-11-05T21:53:55+00:00",
+   "summary": "Prosecutors say Patrick Steven Yaroch used credentials tied to 35 FBI investigations, compromising cases and intelligence sources and methods.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "d38eabb06a",
+   "title": "Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction",
+   "date": "2026-11-05T21:46:35+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-76000-nasdaq",
+     "date": "2026-11-05T21:46:35+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction Bitcoin price held near $76,000 Thursday afternoon as the Nasdaq sank deeper into a correction, crypto liquidations topped $1 billion and Strategy, Coinbase and bitcoin miners sold off in double..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T21:46:35+00:00",
+   "last_seen": "2026-11-05T21:46:35+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction Bitcoin price held near $76,000 Thursday afternoon as the Nasdaq sank deeper into a correction, crypto liquidations topped $1 billion and Strategy, Coinbase and bitcoin miners sold off in double...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "21f2219412",
+   "title": "Crypto ally French Hill wins reelection but set to lose House chair",
+   "date": "2026-11-05T21:39:19+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto ally French Hill wins reelection but set to lose House chair",
+     "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-05T21:39:19+00:00",
+     "summary": "Republican French Hill secured another term in Congress but will lose his leadership of the House Financial Services Committee when Democrats take control in January."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T21:39:19+00:00",
+   "last_seen": "2026-11-05T21:39:19+00:00",
+   "summary": "Republican French Hill secured another term in Congress but will lose his leadership of the House Financial Services Committee when Democrats take control in January.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "eac67b375f",
+   "title": "OpenAI Promises to Foot AI\u2019s Power Bill After Voter Revolt. Who Enforces It?",
+   "date": "2026-11-05T21:36:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI Promises to Foot AI\u2019s Power Bill After Voter Revolt. Who Enforces It?",
+     "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
+     "date": "2026-11-05T21:36:03+00:00",
+     "summary": "OpenAI wants to ease the backlash against AI campuses with promises on electricity, water and secrecy. Its new compact raises a tougher question: Who would make the company comply?"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T21:36:03+00:00",
+   "last_seen": "2026-11-05T21:36:03+00:00",
+   "summary": "OpenAI wants to ease the backlash against AI campuses with promises on electricity, water and secrecy. Its new compact raises a tougher question: Who would make the company comply?",
+   "tags": [
+    "ai",
+    "funding",
+    "regulation"
+   ]
+  },
+  {
+   "id": "ef5662dffb",
+   "title": "DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse",
+   "date": "2026-11-05T20:46:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse",
+     "url": "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
+     "date": "2026-11-05T20:46:02+00:00",
+     "summary": "Led by two senior DOJ officials, the Super Intelligence Task Force will target misuse by foreign governments, criminal groups and fraudsters\u2014while pushing AI developers to tighten internal controls so their systems \u201cbehave as intended.\u201d"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T20:46:02+00:00",
+   "last_seen": "2026-11-05T20:46:02+00:00",
+   "summary": "Led by two senior DOJ officials, the Super Intelligence Task Force will target misuse by foreign governments, criminal groups and fraudsters\u2014while pushing AI developers to tighten internal controls so their systems \u201cbehave as intended.\u201d",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "5ca9e57f3e",
+   "title": "Bitcoin traders face Friday\u2019s $2.7 billion options expiry with a dangerous five-hour blind spot",
+   "date": "2026-11-05T20:40:25+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin traders face Friday\u2019s $2.7 billion options expiry with a dangerous five-hour blind spot",
+     "url": "https://cryptoslate.com/bitcoin-traders-face-fridays-2-7-billion-options-expiry-with-a-dangerous-five-hour-blind-spot/",
+     "date": "2026-11-05T20:40:25+00:00",
+     "summary": "Deribit\u2019s Friday expiry precedes payrolls by five and a half hours, while later-dated puts span different risks at higher quoted prices. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T20:40:25+00:00",
+   "last_seen": "2026-11-05T20:40:25+00:00",
+   "summary": "Deribit\u2019s Friday expiry precedes payrolls by five and a half hours, while later-dated puts span different risks at higher quoted prices. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "39922758fe",
+   "title": "Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million",
+   "date": "2026-11-05T20:39:27+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million",
+     "url": "https://bitcoinmagazine.com/news/core-scientific-exits-bitcoin-year-end",
+     "date": "2026-11-05T20:39:27+00:00",
+     "summary": "Bitcoin Magazine Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million Core Scientific will finish winding down bitcoin mining in the fourth quarter and enter 2027 as a pure-play AI colocation landlord, with self-mining revenue already down to..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T20:39:27+00:00",
+   "last_seen": "2026-11-05T20:39:27+00:00",
+   "summary": "Bitcoin Magazine Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million Core Scientific will finish winding down bitcoin mining in the fourth quarter and enter 2027 as a pure-play AI colocation landlord, with self-mining revenue already down to...",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "a798255509",
+   "title": "Extended Sets Final XTEN Airdrop Rate as Xpoints Program Ends",
+   "date": "2026-11-05T20:23:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Extended Sets Final XTEN Airdrop Rate as Xpoints Program Ends",
+     "url": "https://thedefiant.io/news/tokens/extended-sets-final-xten-airdrop-rate-as-xpoints-program-ends",
+     "date": "2026-11-05T20:23:31+00:00",
+     "summary": "The exchange also awarded Xpoints to 97 Discord Tester-role holders for early testing, feedback and platform use."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T20:23:31+00:00",
+   "last_seen": "2026-11-05T20:23:31+00:00",
+   "summary": "The exchange also awarded Xpoints to 97 Discord Tester-role holders for early testing, feedback and platform use.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "164bfe7a64",
+   "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
+   "date": "2026-11-05T20:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
+     "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
+     "date": "2026-11-05T20:16:03+00:00",
+     "summary": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian exchange said it had stopped the breach on Monday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T20:16:03+00:00",
+   "last_seen": "2026-11-05T20:16:03+00:00",
+   "summary": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian exchange said it had stopped the breach on Monday.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "43182c72f5",
+   "title": "Greek Parliament Approves 10% Tax on Crypto Gains",
+   "date": "2026-11-05T20:14:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Greek Parliament Approves 10% Tax on Crypto Gains",
+     "url": "https://thedefiant.io/news/regulation/greek-parliament-approves-10-tax-on-crypto-gains",
+     "date": "2026-11-05T20:14:26+00:00",
+     "summary": "The framework exempts annual net gains of up to \u20ac500 and is scheduled to apply from January 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T20:14:26+00:00",
+   "last_seen": "2026-11-05T20:14:26+00:00",
+   "summary": "The framework exempts annual net gains of up to \u20ac500 and is scheduled to apply from January 2027.",
+   "tags": []
+  },
+  {
+   "id": "85705dff49",
+   "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
+   "date": "2026-11-05T20:11:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
+     "url": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
+     "date": "2026-11-05T20:11:02+00:00",
+     "summary": "Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T20:11:02+00:00",
+   "last_seen": "2026-11-05T20:11:02+00:00",
+   "summary": "Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "markets"
+   ]
+  },
+  {
+   "id": "adee94a295",
+   "title": "California Tribes Win Order Barring Kalshi Sports Contracts on Their Lands",
+   "date": "2026-11-05T20:07:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "California Tribes Win Order Barring Kalshi Sports Contracts on Their Lands",
+     "url": "https://thedefiant.io/news/regulation/california-tribes-win-order-barring-kalshi-sports-contracts-on-their-lands",
+     "date": "2026-11-05T20:07:05+00:00",
+     "summary": "Kalshi must report compliance steps within 21 days, after the tribes disputed the effectiveness of its voluntary location blocks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T20:07:05+00:00",
+   "last_seen": "2026-11-05T20:07:05+00:00",
+   "summary": "Kalshi must report compliance steps within 21 days, after the tribes disputed the effectiveness of its voluntary location blocks.",
+   "tags": []
+  },
+  {
+   "id": "9a5e231ad2",
+   "title": "Solana Labs\u2019 Leap Opens iPhone Beta for Tokenized Stocks and Crypto",
+   "date": "2026-11-05T19:50:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Solana Labs\u2019 Leap Opens iPhone Beta for Tokenized Stocks and Crypto",
+     "url": "https://thedefiant.io/news/defi/solana-labs-leap-opens-iphone-beta-for-tokenized-stocks-and-crypto",
+     "date": "2026-11-05T19:50:19+00:00",
+     "summary": "Trades route through Jupiter, while tokenized securities are unavailable to US persons and users in several other major markets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T19:50:19+00:00",
+   "last_seen": "2026-11-05T19:50:19+00:00",
+   "summary": "Trades route through Jupiter, while tokenized securities are unavailable to US persons and users in several other major markets.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "0d36503730",
+   "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
+   "date": "2026-11-05T19:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
+     "url": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
+     "date": "2026-11-05T19:46:03+00:00",
+     "summary": "Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawals, potentially leaving their owners empty-handed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T19:46:03+00:00",
+   "last_seen": "2026-11-05T19:46:03+00:00",
+   "summary": "Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawals, potentially leaving their owners empty-handed.",
+   "tags": []
+  },
+  {
+   "id": "e9680957f1",
+   "title": "South Korea wants to delay its 22% crypto tax again and give investors a new break on losses",
+   "date": "2026-11-05T19:30:45+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "South Korea wants to delay its 22% crypto tax again and give investors a new break on losses",
+     "url": "https://cryptoslate.com/south-korea-wants-to-delay-its-22-crypto-tax-again-and-give-investors-a-new-break-on-losses/",
+     "date": "2026-11-05T19:30:45+00:00",
+     "summary": "The November 4 request cites preparation needs, while tax guidance retains January 1, 2027 and no replacement date is settled. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T19:30:45+00:00",
+   "last_seen": "2026-11-05T19:30:45+00:00",
+   "summary": "The November 4 request cites preparation needs, while tax guidance retains January 1, 2027 and no replacement date is settled. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "3f0688541f",
+   "title": "Anza Urges Solana Validators to Upgrade Agave Before Epoch 1079",
+   "date": "2026-11-05T19:26:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Anza Urges Solana Validators to Upgrade Agave Before Epoch 1079",
+     "url": "https://thedefiant.io/news/blockchains/anza-urges-solana-validators-to-upgrade-agave-before-epoch-1079",
+     "date": "2026-11-05T19:26:48+00:00",
+     "summary": "Agave 4.4.1 changes how loader-v3 program data counts toward transaction limits, ahead of a planned Nov. 6 cutoff for unpatched nodes."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T19:26:48+00:00",
+   "last_seen": "2026-11-05T19:26:48+00:00",
+   "summary": "Agave 4.4.1 changes how loader-v3 program data counts toward transaction limits, ahead of a planned Nov. 6 cutoff for unpatched nodes.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "e6adb978dd",
+   "title": "OpenAI Found 948 Linux Security Flaws\u2014And Figured Out How to Exploit Them",
+   "date": "2026-11-05T19:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI Found 948 Linux Security Flaws\u2014And Figured Out How to Exploit Them",
+     "url": "https://decrypt.co/382632/openai-linux-security-flaws-exploit",
+     "date": "2026-11-05T19:16:03+00:00",
+     "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T19:16:03+00:00",
+   "last_seen": "2026-11-05T19:16:03+00:00",
+   "summary": "An automated OpenAI system produced working exploits and draft fixes at roughly $1,279 per flaw, raising new questions about how cheaply AI can find holes in critical software at scale.",
+   "tags": [
+    "ai",
+    "security"
+   ]
+  },
+  {
+   "id": "366c69f918",
+   "title": "EEZ Launches Rollup X With Swaps Filled by Mainnet Liquidity",
+   "date": "2026-11-05T19:15:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "EEZ Launches Rollup X With Swaps Filled by Mainnet Liquidity",
+     "url": "https://thedefiant.io/news/blockchains/eez-launches-rollup-x-with-swaps-filled-by-mainnet-liquidity",
+     "date": "2026-11-05T19:15:00+00:00",
+     "summary": "The Ethereum Economic Zone ran three demonstrations at Devcon in Mumbai. Rollup X is a devnet whose batches are attested by a designated signer rather than proven."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T19:15:00+00:00",
+   "last_seen": "2026-11-05T19:15:00+00:00",
+   "summary": "The Ethereum Economic Zone ran three demonstrations at Devcon in Mumbai. Rollup X is a devnet whose batches are attested by a designated signer rather than proven.",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "60f128296a",
+   "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+   "date": "2026-11-05T19:02:19+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+     "url": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-05T19:02:19+00:00",
+     "summary": "SignalPlus said attackers compromised an engineer\u2019s computer in a breach that resulted in losses of less than $82,000, which the crypto trading platform pledged to reimburse in full."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T19:02:19+00:00",
+   "last_seen": "2026-11-05T19:02:19+00:00",
+   "summary": "SignalPlus said attackers compromised an engineer\u2019s computer in a breach that resulted in losses of less than $82,000, which the crypto trading platform pledged to reimburse in full.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "ca9beb094b",
+   "title": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times",
+   "date": "2026-11-05T19:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433",
+     "date": "2026-11-05T19:00:00+00:00",
+     "summary": "Base activated its fourth network upgrade, Denim, introducing five canonical blocks per second at 200ms intervals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T19:00:00+00:00",
+   "last_seen": "2026-11-05T19:00:00+00:00",
+   "summary": "Base activated its fourth network upgrade, Denim, introducing five canonical blocks per second at 200ms intervals.",
+   "tags": []
+  },
+  {
+   "id": "67fbbad4bd",
+   "title": "Greece Approves 10% Crypto Capital Gains Tax as First Framework Lands Below Draft Rate",
+   "date": "2026-11-05T19:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Greece Approves 10% Crypto Capital Gains Tax as First Framework Lands Below Draft Rate",
+     "url": "https://bitcoinmagazine.com/news/greece-approves-10-crypto-gains-tax",
+     "date": "2026-11-05T19:00:00+00:00",
+     "summary": "Bitcoin Magazine Greece Approves 10% Crypto Capital Gains Tax as First Framework Lands Below Draft Rate Greece's parliament approved a 10% capital gains tax on cryptocurrencies, the country's first dedicated crypto tax framework, with annual gains up to \u20ac500 exempt. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T19:00:00+00:00",
+   "last_seen": "2026-11-05T19:00:00+00:00",
+   "summary": "Bitcoin Magazine Greece Approves 10% Crypto Capital Gains Tax as First Framework Lands Below Draft Rate Greece's parliament approved a 10% capital gains tax on cryptocurrencies, the country's first dedicated crypto tax framework, with annual gains up to \u20ac500 exempt. This post...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b32491ea43",
+   "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
+   "date": "2026-11-05T18:59:45+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
+     "url": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
+     "date": "2026-11-05T18:59:45+00:00",
+     "summary": "The new DOJ task force will aid the recently designated U.S. \"SI Force\" by warding off bad actors backed by other nations, criminal groups or corporate fraud."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T18:59:45+00:00",
+   "last_seen": "2026-11-05T18:59:45+00:00",
+   "summary": "The new DOJ task force will aid the recently designated U.S. \"SI Force\" by warding off bad actors backed by other nations, criminal groups or corporate fraud.",
+   "tags": [
+    "ai",
+    "legal"
+   ]
+  },
+  {
+   "id": "1a6efb5ab6",
+   "title": "SEC Crypto Broker Rule Enters White House Review",
+   "date": "2026-11-05T18:55:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SEC Crypto Broker Rule Enters White House Review",
+     "url": "https://thedefiant.io/converge/regulation/sec-crypto-broker-rule-enters-white-house-review",
+     "date": "2026-11-05T18:55:08+00:00",
+     "summary": "The planned amendments cover capital requirements, customer-asset safeguards and recordkeeping for broker-dealers handling crypto assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T18:55:08+00:00",
+   "last_seen": "2026-11-05T18:55:08+00:00",
+   "summary": "The planned amendments cover capital requirements, customer-asset safeguards and recordkeeping for broker-dealers handling crypto assets.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "d758faee95",
+   "title": "Bitcoin crashes below $76,000 as AI bubble fears wipe $2.5 trillion from Wall Street",
+   "date": "2026-11-05T18:50:46+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin crashes below $76,000 as AI bubble fears wipe $2.5 trillion from Wall Street",
+     "url": "https://cryptoslate.com/bitcoin-crashes-below-76000-as-ai-bubble-fears-wipe-2-5-trillion-from-wall-street/",
+     "date": "2026-11-05T18:50:46+00:00",
+     "summary": "Technology stocks plunged after the Democratic midterm sweep intensified concerns over AI spending, dragging Bitcoin lower as leveraged traders suffered heavy losses. Bitcoin hit an intraday low of $75,568 on Thursday and recovered to $76,830.67 as of press time, as a historic..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T18:50:46+00:00",
+   "last_seen": "2026-11-05T18:50:46+00:00",
+   "summary": "Technology stocks plunged after the Democratic midterm sweep intensified concerns over AI spending, dragging Bitcoin lower as leveraged traders suffered heavy losses. Bitcoin hit an intraday low of $75,568 on Thursday and recovered to $76,830.67 as of press time, as a historic...",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "ec7520ff2a",
+   "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+   "date": "2026-11-05T18:48:40+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+     "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+     "date": "2026-11-05T18:48:40+00:00",
+     "summary": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T18:48:40+00:00",
+   "last_seen": "2026-11-05T18:48:40+00:00",
+   "summary": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave.",
+   "tags": [
+    "ai",
+    "markets"
+   ]
+  },
+  {
+   "id": "99e11e5273",
+   "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+   "date": "2026-11-05T18:32:45+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+     "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-05T18:32:45+00:00",
+     "summary": "US regulators reportedly contacted banks following last week\u2019s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T18:32:45+00:00",
+   "last_seen": "2026-11-05T18:32:45+00:00",
+   "summary": "US regulators reportedly contacted banks following last week\u2019s $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks.",
+   "tags": [
+    "exchanges",
+    "funding",
+    "macro",
+    "security"
+   ]
+  },
+  {
+   "id": "37a1720e16",
+   "title": "OpenSSH Ships Urgent Workaround for Alpine Password Bypass",
+   "date": "2026-11-05T18:31:59+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OpenSSH Ships Urgent Workaround for Alpine Password Bypass",
+     "url": "https://thedefiant.io/news/security/openssh-ships-urgent-workaround-for-alpine-password-bypass",
+     "date": "2026-11-05T18:31:59+00:00",
+     "summary": "Key-only accounts can be exposed if SSH password authentication remains enabled. Alpine urges operators to update and restart the server process."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T18:31:59+00:00",
+   "last_seen": "2026-11-05T18:31:59+00:00",
+   "summary": "Key-only accounts can be exposed if SSH password authentication remains enabled. Alpine urges operators to update and restart the server process.",
+   "tags": []
+  },
+  {
+   "id": "880a7114d5",
+   "title": "Strategy\u2019s $100 STRC comeback could turn a cash drain into fresh Bitcoin buying power",
+   "date": "2026-11-05T18:30:02+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Strategy\u2019s $100 STRC comeback could turn a cash drain into fresh Bitcoin buying power",
+     "url": "https://cryptoslate.com/strategys-100-strc-comeback-could-turn-a-cash-drain-into-fresh-bitcoin-buying-power/",
+     "date": "2026-11-05T18:30:02+00:00",
+     "summary": "Strategy&#039;s STRC preferred stock briefly returned to $100 on Nov. 4, potentially restoring a funding channel for Bitcoin purchases after months of cash-consuming share buybacks. The company announced on Nov. 4 that its STRC security had reached $100, prompting executive..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T18:30:02+00:00",
+   "last_seen": "2026-11-05T18:30:02+00:00",
+   "summary": "Strategy&#039;s STRC preferred stock briefly returned to $100 on Nov. 4, potentially restoring a funding channel for Bitcoin purchases after months of cash-consuming share buybacks. The company announced on Nov. 4 that its STRC security had reached $100, prompting executive...",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "4eb0b67ad9",
+   "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
+   "date": "2026-11-05T18:25:31+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
+     "url": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
+     "date": "2026-11-05T18:25:31+00:00",
+     "summary": "The Hut 8-backed miner reversed a second-quarter loss, driven largely by a $197 million gain on its Bitcoin holdings."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T18:25:31+00:00",
+   "last_seen": "2026-11-05T18:25:31+00:00",
+   "summary": "The Hut 8-backed miner reversed a second-quarter loss, driven largely by a $197 million gain on its Bitcoin holdings.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "9cd0f69d4e",
+   "title": "Blockaid Warns Reth Bug Can Produce Incorrect State Proofs",
+   "date": "2026-11-05T18:18:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Blockaid Warns Reth Bug Can Produce Incorrect State Proofs",
+     "url": "https://thedefiant.io/news/security/blockaid-warns-reth-bug-can-produce-incorrect-state-proofs",
+     "date": "2026-11-05T18:18:06+00:00",
+     "summary": "Blockaid listed patched builds for reth, op-reth and Base, while Gauntlet curtailed deposits and allocations."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T18:18:06+00:00",
+   "last_seen": "2026-11-05T18:18:06+00:00",
+   "summary": "Blockaid listed patched builds for reth, op-reth and Base, while Gauntlet curtailed deposits and allocations.",
+   "tags": []
+  },
+  {
+   "id": "5035d40a1d",
+   "title": "Crypto Clearing vs. Settlement: What Happens After a Trade?",
+   "date": "2026-11-05T18:15:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Crypto Clearing vs. Settlement: What Happens After a Trade?",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/crypto-clearing-vs-settlement-what-happens-after-a-trade",
+     "date": "2026-11-05T18:15:55+00:00",
+     "summary": "Netting offsets obligations, while collateral backs performance. Neither is the same as completing payment and delivery."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T18:15:55+00:00",
+   "last_seen": "2026-11-05T18:15:55+00:00",
+   "summary": "Netting offsets obligations, while collateral backs performance. Neither is the same as completing payment and delivery.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "8d12b5cd9f",
+   "title": "Europe\u2019s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+   "date": "2026-11-05T18:09:38+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Europe\u2019s largest asset manager Amundi tokenizes equity index fund on Ethereum",
+     "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-05T18:09:38+00:00",
+     "summary": "The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T18:09:38+00:00",
+   "last_seen": "2026-11-05T18:09:38+00:00",
+   "summary": "The new share class offers blockchain-based exposure to an index tracking 600 companies across European markets.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "8ca61b2942",
+   "title": "S&#038;P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs",
+   "date": "2026-11-05T18:05:21+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "S&#038;P 500 Plunges, Wall Street Fears Circuit Breaker, Just One Day After Trump Celebrated Record Highs",
+     "url": "https://decrypt.co/382637/sp-500-plunges-wall-street-circuit-breaker-trump-record-highs",
+     "date": "2026-11-05T18:05:21+00:00",
+     "summary": "A day after Trump celebrated stock market records, the S&#038;P 500 sank 3.8%, putting emergency trading halts in focus as AI stocks dragged Wall Street sharply lower during Thursday trading."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T18:05:21+00:00",
+   "last_seen": "2026-11-05T18:05:21+00:00",
+   "summary": "A day after Trump celebrated stock market records, the S&#038;P 500 sank 3.8%, putting emergency trading halts in focus as AI stocks dragged Wall Street sharply lower during Thursday trading.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "56b526aa1b",
+   "title": "Paraguay\u2019s Pe\u00f1a Submits Resignation Amid Ueno Bank Crisis",
+   "date": "2026-11-05T18:02:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Paraguay\u2019s Pe\u00f1a Submits Resignation Amid Ueno Bank Crisis",
+     "url": "https://thedefiant.io/converge/regulation/paraguay-s-pe-a-submits-resignation-amid-ueno-bank-crisis",
+     "date": "2026-11-05T18:02:18+00:00",
+     "summary": "Lawmakers approved impeachment proceedings with 78 votes, while the central bank outlined a first payout group for Ueno depositors."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T18:02:18+00:00",
+   "last_seen": "2026-11-05T18:02:18+00:00",
+   "summary": "Lawmakers approved impeachment proceedings with 78 votes, while the central bank outlined a first payout group for Ueno depositors.",
+   "tags": []
+  },
+  {
+   "id": "bfe0db1a40",
+   "title": "Bull Bitcoin Becomes First Exchange to Add Payjoin Privacy Deposits, Withdrawals, and Payjoin-by-Default Trading",
+   "date": "2026-11-05T18:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bull Bitcoin Becomes First Exchange to Add Payjoin Privacy Deposits, Withdrawals, and Payjoin-by-Default Trading",
+     "url": "https://bitcoinmagazine.com/business/bull-bitcoin-becomes-first-exchange-to-add-payjoin-privacy-deposits-withdrawals-and-payjoin-by-default-trading",
+     "date": "2026-11-05T18:00:00+00:00",
+     "summary": "Bitcoin Magazine Bull Bitcoin Becomes First Exchange to Add Payjoin Privacy Deposits, Withdrawals, and Payjoin-by-Default Trading Bull Bitcoin is the first Bitcoin exchange to offer Payjoin privacy as a deposit and withdrawal option. Every on-chain buy or sell via BULL Wallet is..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T18:00:00+00:00",
+   "last_seen": "2026-11-05T18:00:00+00:00",
+   "summary": "Bitcoin Magazine Bull Bitcoin Becomes First Exchange to Add Payjoin Privacy Deposits, Withdrawals, and Payjoin-by-Default Trading Bull Bitcoin is the first Bitcoin exchange to offer Payjoin privacy as a deposit and withdrawal option. Every on-chain buy or sell via BULL Wallet is...",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "973766a693",
+   "title": "South Korea Pushes 22% Crypto Tax to 2029 in Fourth Delay, Offers Three-Year Loss Carryforward",
+   "date": "2026-11-05T18:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "South Korea Pushes 22% Crypto Tax to 2029 in Fourth Delay, Offers Three-Year Loss Carryforward",
+     "url": "https://bitcoinmagazine.com/news/south-korea-crypto-tax-2029",
+     "date": "2026-11-05T18:00:00+00:00",
+     "summary": "Bitcoin Magazine South Korea Pushes 22% Crypto Tax to 2029 in Fourth Delay, Offers Three-Year Loss Carryforward South Korea's government will ask lawmakers to delay its 22% crypto gains tax to 2029 and let investors carry losses forward for up to three years. This post South..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T18:00:00+00:00",
+   "last_seen": "2026-11-05T18:00:00+00:00",
+   "summary": "Bitcoin Magazine South Korea Pushes 22% Crypto Tax to 2029 in Fourth Delay, Offers Three-Year Loss Carryforward South Korea's government will ask lawmakers to delay its 22% crypto gains tax to 2029 and let investors carry losses forward for up to three years. This post South...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "16890e0e8e",
+   "title": "Gauntlet Restricts V1 Vault Deposits After Reported op-reth Vulnerability",
+   "date": "2026-11-05T17:51:32+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Gauntlet Restricts V1 Vault Deposits After Reported op-reth Vulnerability",
+     "url": "https://thedefiant.io/news/defi/gauntlet-restricts-v1-vault-deposits-after-reported-op-reth-vulnerability",
+     "date": "2026-11-05T17:51:32+00:00",
+     "summary": "The risk curator is also pausing allocations and reducing LayerZero-bridged asset exposure, while saying no exploit has been reported to its knowledge."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T17:51:32+00:00",
+   "last_seen": "2026-11-05T17:51:32+00:00",
+   "summary": "The risk curator is also pausing allocations and reducing LayerZero-bridged asset exposure, while saying no exploit has been reported to its knowledge.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "066720f975",
+   "title": "Paraguay president resigns after collapse of Ueno digital bank",
+   "date": "2026-11-05T17:40:25+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Paraguay president resigns after collapse of Ueno digital bank",
+     "url": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-05T17:40:25+00:00",
+     "summary": "Santiago Pe\u00f1a stepped down amid mounting scrutiny over his former ties to Ueno Bank\u2019s parent company, as the lender\u2019s collapse left millions of customers unable to access their funds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T17:40:25+00:00",
+   "last_seen": "2026-11-05T17:40:25+00:00",
+   "summary": "Santiago Pe\u00f1a stepped down amid mounting scrutiny over his former ties to Ueno Bank\u2019s parent company, as the lender\u2019s collapse left millions of customers unable to access their funds.",
+   "tags": []
+  },
+  {
+   "id": "d9a4068cc7",
+   "title": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report",
+   "date": "2026-11-05T17:31:10+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report",
+     "url": "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
+     "date": "2026-11-05T17:31:10+00:00",
+     "summary": "Employees are being told not to bet on casting news, release dates or earnings, though experts say the rules will be hard to enforce."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T17:31:10+00:00",
+   "last_seen": "2026-11-05T17:31:10+00:00",
+   "summary": "Employees are being told not to bet on casting news, release dates or earnings, though experts say the rules will be hard to enforce.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "7d92df67c8",
+   "title": "India warns AI-assisted hackers are stealing crypto wallet keys",
+   "date": "2026-11-05T17:30:59+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "India warns AI-assisted hackers are stealing crypto wallet keys",
+     "url": "https://cryptoslate.com/india-warns-ai-assisted-hackers-are-stealing-crypto-wallet-keys/",
+     "date": "2026-11-05T17:30:59+00:00",
+     "summary": "CERT-In\u2019s CRAFTY FALCON advisory reports re-targeting after incomplete remediation and includes stolen crypto wallet keys among the campaign\u2019s effects. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T17:30:59+00:00",
+   "last_seen": "2026-11-05T17:30:59+00:00",
+   "summary": "CERT-In\u2019s CRAFTY FALCON advisory reports re-targeting after incomplete remediation and includes stolen crypto wallet keys among the campaign\u2019s effects. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "600df191e0",
    "title": "Floki Takes Trading Bot Offline Amid Exploit Investigation",

@@ -1,6 +1,144 @@
 {
- "updated": "2026-11-05T05:21:23.171758+00:00",
+ "updated": "2026-11-05T07:39:54.177621+00:00",
  "events": [
+  {
+   "id": "3f671cb045",
+   "title": "Cr\u00e9dit Mutuel Ark\u00e9a resumes operations after attack, assesses losses",
+   "date": "2026-11-05T07:23:06+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Cr\u00e9dit Mutuel Ark\u00e9a resumes operations after attack, assesses losses",
+     "url": "https://cointelegraph.com/news/credit-mutuel-arkea-resumes-operations-133m-crypto-theft?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-05T07:23:06+00:00",
+     "summary": "The bank said customer funds were unaffected after attackers accessed its systems through a service provider\u2019s platform."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T07:23:06+00:00",
+   "last_seen": "2026-11-05T07:23:06+00:00",
+   "summary": "The bank said customer funds were unaffected after attackers accessed its systems through a service provider\u2019s platform.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "3d22501c5e",
+   "title": "Altcoin profit share sinks to 12% as short-term traders take losses",
+   "date": "2026-11-05T06:20:22+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Altcoin profit share sinks to 12% as short-term traders take losses",
+     "url": "https://cryptoslate.com/altcoin-profit-share-sinks-to-12-as-short-term-traders-take-losses/",
+     "date": "2026-11-05T06:20:22+00:00",
+     "summary": "Glassnode&#039;s end-October profitability reset and BlockchainCenter&#039;s neutral November 4 breadth reading leave a broad altcoin recovery unconfirmed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T06:20:22+00:00",
+   "last_seen": "2026-11-05T06:20:22+00:00",
+   "summary": "Glassnode&#039;s end-October profitability reset and BlockchainCenter&#039;s neutral November 4 breadth reading leave a broad altcoin recovery unconfirmed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": []
+  },
+  {
+   "id": "6679d9fc3b",
+   "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+   "date": "2026-11-05T06:02:29+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance, Polymarket seek Polygon hard fork to recover $6.8M in stolen crypto",
+     "url": "https://cointelegraph.com/news/polygon-hard-fork-binance-polymarket-6-8m-hack-recovery?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-05T06:02:29+00:00",
+     "summary": "Polygon block producers have already frozen the stolen tokens, but a proposed hard fork would allow the funds to be recovered and returned to their owners."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T06:02:29+00:00",
+   "last_seen": "2026-11-05T06:02:29+00:00",
+   "summary": "Polygon block producers have already frozen the stolen tokens, but a proposed hard fork would allow the funds to be recovered and returned to their owners.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "e3ce704161",
+   "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
+   "date": "2026-11-05T05:47:01+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Zcash is about to freeze $16 million in its oldest privacy pool",
+     "url": "https://www.coindesk.com/tech/2026/11/05/zcash-is-about-to-freeze-usd16-million-in-its-oldest-privacy-pool",
+     "date": "2026-11-05T05:47:01+00:00",
+     "summary": "About 12,200 ZEC remains in Sprout, the privacy pool Zcash launched in 2016. Roughly 10,000 coins have left over the past week, but only about 40 moved out Wednesday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T05:47:01+00:00",
+   "last_seen": "2026-11-05T05:47:01+00:00",
+   "summary": "About 12,200 ZEC remains in Sprout, the privacy pool Zcash launched in 2016. Roughly 10,000 coins have left over the past week, but only about 40 moved out Wednesday.",
+   "tags": []
+  },
+  {
+   "id": "ca74ac6635",
+   "title": "Arkansas Sues Kalshi to Stop Alleged Illegal Gambling",
+   "date": "2026-11-05T05:39:52+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Arkansas Sues Kalshi to Stop Alleged Illegal Gambling",
+     "url": "https://thedefiant.io/news/regulation/arkansas-sues-kalshi-to-stop-alleged-illegal-gambling",
+     "date": "2026-11-05T05:39:52+00:00",
+     "summary": "The state seeks restitution, unpaid taxes and civil penalties as Kalshi continues its federal appeals against state gambling-law enforcement."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T05:39:52+00:00",
+   "last_seen": "2026-11-05T05:39:52+00:00",
+   "summary": "The state seeks restitution, unpaid taxes and civil penalties as Kalshi continues its federal appeals against state gambling-law enforcement.",
+   "tags": []
+  },
+  {
+   "id": "f59992d5fa",
+   "title": "The pile of lawsuits against Kalshi just grew by one",
+   "date": "2026-11-05T05:28:52+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "The pile of lawsuits against Kalshi just grew by one",
+     "url": "https://www.coindesk.com/policy/2026/11/05/the-pile-of-lawsuits-against-kalshi-just-grew-by-one",
+     "date": "2026-11-05T05:28:52+00:00",
+     "summary": "Arkansas has accused the prediction market of running illegal gambling, joining Utah and several other U.S. states that have filed criminal or civil charges."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T05:28:52+00:00",
+   "last_seen": "2026-11-05T05:28:52+00:00",
+   "summary": "Arkansas has accused the prediction market of running illegal gambling, joining Utah and several other U.S. states that have filed criminal or civil charges.",
+   "tags": []
+  },
+  {
+   "id": "35d516d047",
+   "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+   "date": "2026-11-05T05:25:06+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "XRP Ledger fixes a disclosed bug that could have led to the creation of new tokens",
+     "url": "https://www.coindesk.com/markets/2026/11/05/xrp-ledger-closes-bug-that-let-approved-token-burners-create-new-tokens",
+     "date": "2026-11-05T05:25:06+00:00",
+     "summary": "The fix went live Wednesday after validator support reset the activation clock in October. XRP itself was unaffected."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T05:25:06+00:00",
+   "last_seen": "2026-11-05T05:25:06+00:00",
+   "summary": "The fix went live Wednesday after validator support reset the activation clock in October. XRP itself was unaffected.",
+   "tags": []
+  },
   {
    "id": "92dfc0fefc",
    "title": "Bitcoin holds above $80,000 as Zcash jumps 12% in post-election crypto rebound",

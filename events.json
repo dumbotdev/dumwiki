@@ -1,6 +1,89 @@
 {
- "updated": "2026-11-05T03:08:46.839345+00:00",
+ "updated": "2026-11-05T04:15:24.003584+00:00",
  "events": [
+  {
+   "id": "8e071763b1",
+   "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+   "date": "2026-11-05T04:11:33+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Trump Media moves $342 million in bitcoin to Crypto.com, blockchain data show",
+     "url": "https://www.coindesk.com/markets/2026/11/05/trump-media-moves-usd434-million-in-bitcoin-to-crypto-com-blockchain-data-show",
+     "date": "2026-11-05T04:11:33+00:00",
+     "summary": "A wallet supposedly linked to Trump Media has made a large BTC transfer to Crypto.com, data tracked by Arkham show."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T04:11:33+00:00",
+   "last_seen": "2026-11-05T04:11:33+00:00",
+   "summary": "A wallet supposedly linked to Trump Media has made a large BTC transfer to Crypto.com, data tracked by Arkham show.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "6e1bb6323b",
+   "title": "Cr\u00e9dit Mutuel Ark\u00e9a confirms cyberattack after ZachXBT flags $133M in suspected losses",
+   "date": "2026-11-05T04:01:16+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Cr\u00e9dit Mutuel Ark\u00e9a confirms cyberattack after ZachXBT flags $133M in suspected losses",
+     "url": "https://www.theblock.co/news/business/2026-11-04-french-bank-confirms-cyberattack-434372",
+     "date": "2026-11-05T04:01:16+00:00",
+     "summary": "Cr\u00e9dit Mutuel Ark\u00e9a did not confirm the exact amount of losses but validated the order of magnitude of the $133 million figure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T04:01:16+00:00",
+   "last_seen": "2026-11-05T04:01:16+00:00",
+   "summary": "Cr\u00e9dit Mutuel Ark\u00e9a did not confirm the exact amount of losses but validated the order of magnitude of the $133 million figure.",
+   "tags": []
+  },
+  {
+   "id": "c7e083eb7e",
+   "title": "OKX\u2013ICE Stock Venue\u2019s Issuer Objections Reach 62",
+   "date": "2026-11-05T03:31:02+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OKX\u2013ICE Stock Venue\u2019s Issuer Objections Reach 62",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/okx-ice-stock-venue-s-issuer-objections-reach-62",
+     "date": "2026-11-05T03:31:02+00:00",
+     "summary": "Boeing and ServiceNow\u2019s objections leave eight of the venture\u2019s 63 originally proposed symbols without a disclosed opt-out."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T03:31:02+00:00",
+   "last_seen": "2026-11-05T03:31:02+00:00",
+   "summary": "Boeing and ServiceNow\u2019s objections leave eight of the venture\u2019s 63 originally proposed symbols without a disclosed opt-out.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "0a93e3f335",
+   "title": "Trump Media-Linked Wallets Send 4,259 BTC to Crypto.com",
+   "date": "2026-11-05T03:11:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Trump Media-Linked Wallets Send 4,259 BTC to Crypto.com",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/trump-media-linked-wallets-send-4-259-btc-to-crypto-com",
+     "date": "2026-11-05T03:11:19+00:00",
+     "summary": "The movement equals about 30% of the bitcoin treasury disclosed for July 31. Arkham labels both sending wallets as convertible-note collateral."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T03:11:19+00:00",
+   "last_seen": "2026-11-05T03:11:19+00:00",
+   "summary": "The movement equals about 30% of the bitcoin treasury disclosed for July 31. Arkham labels both sending wallets as convertible-note collateral.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
   {
    "id": "77017cd469",
    "title": "French bank resumes transfers after $133 million attack but leaves crypto loss unconfirmed",

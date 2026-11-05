@@ -1,6 +1,68 @@
 {
- "updated": "2026-11-05T01:29:28.823175+00:00",
+ "updated": "2026-11-05T03:08:46.839345+00:00",
  "events": [
+  {
+   "id": "77017cd469",
+   "title": "French bank resumes transfers after $133 million attack but leaves crypto loss unconfirmed",
+   "date": "2026-11-05T02:30:38+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "French bank resumes transfers after $133 million attack but leaves crypto loss unconfirmed",
+     "url": "https://cryptoslate.com/french-bank-resumes-transfers-after-133-million-attack-but-leaves-crypto-loss-unconfirmed/",
+     "date": "2026-11-05T02:30:38+00:00",
+     "summary": "Ark\u00e9a says attackers used its own account through a provider&#039;s platform, while a separate $108.8 million USDC trail leaves the bank-to-crypto link unproven. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T02:30:38+00:00",
+   "last_seen": "2026-11-05T02:30:38+00:00",
+   "summary": "Ark\u00e9a says attackers used its own account through a provider&#039;s platform, while a separate $108.8 million USDC trail leaves the bank-to-crypto link unproven. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst...",
+   "tags": [
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "2c4371446d",
+   "title": "India warns AI-powered hackers targeting crypto exchanges at \u2018machine speed\u2019",
+   "date": "2026-11-05T01:51:21+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "India warns AI-powered hackers targeting crypto exchanges at \u2018machine speed\u2019",
+     "url": "https://cointelegraph.com/news/india-warns-ai-powered-hackers-targeting-crypto-exchanges-at-machine-speed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-05T01:51:21+00:00",
+     "summary": "India\u2019s cybersecurity agency says a threat actor is escalating an AI-assisted hacking campaign targeting crypto exchanges and other financial firms."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T01:51:21+00:00",
+   "last_seen": "2026-11-05T01:51:21+00:00",
+   "summary": "India\u2019s cybersecurity agency says a threat actor is escalating an AI-assisted hacking campaign targeting crypto exchanges and other financial firms.",
+   "tags": []
+  },
+  {
+   "id": "1cea9e691f",
+   "title": "American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million",
+   "date": "2026-11-05T01:44:49+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million",
+     "url": "https://bitcoinmagazine.com/news/american-bitcoin-126m-q3-profit",
+     "date": "2026-11-05T01:44:49+00:00",
+     "summary": "Bitcoin Magazine American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million American Bitcoin swung to about $126 million in third-quarter net income after a $197.3 million gain on its bitcoin holdings, reversing a $57.2 million loss in the prior quarter...."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T01:44:49+00:00",
+   "last_seen": "2026-11-05T01:44:49+00:00",
+   "summary": "Bitcoin Magazine American Bitcoin (ABTC) Posts $126 Million Profit as Holdings Gain $197 Million American Bitcoin swung to about $126 million in third-quarter net income after a $197.3 million gain on its bitcoin holdings, reversing a $57.2 million loss in the prior quarter....",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "658ad671f5",
    "title": "Pendle Volume Hits $221.5 Million, a 30-Day High",

@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-04T23:56:45.541870+00:00",
+ "updated": "2026-11-05T01:29:28.823175+00:00",
  "events": [
+  {
+   "id": "658ad671f5",
+   "title": "Pendle Volume Hits $221.5 Million, a 30-Day High",
+   "date": "2026-11-05T00:27:36+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Pendle Volume Hits $221.5 Million, a 30-Day High",
+     "url": "https://thedefiant.io/news/defi/pendle-volume-hits-221-5-million-a-30-day-high",
+     "date": "2026-11-05T00:27:36+00:00",
+     "summary": "Ethereum accounted for nearly all the trading, while reported locked value stayed near $1.03 billion through the day's latest snapshot."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T00:27:36+00:00",
+   "last_seen": "2026-11-05T00:27:36+00:00",
+   "summary": "Ethereum accounted for nearly all the trading, while reported locked value stayed near $1.03 billion through the day's latest snapshot.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "b48149f193",
+   "title": "Weekend stock tokens predict Monday open, but guessing up scores 55%",
+   "date": "2026-11-05T00:20:37+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Weekend stock tokens predict Monday open, but guessing up scores 55%",
+     "url": "https://cryptoslate.com/weekend-stock-tokens-predict-monday-open-but-guessing-up-scores-55/",
+     "date": "2026-11-05T00:20:37+00:00",
+     "summary": "Bitquery\u2019s pre-futures weekend test found no clear directional edge, while Nasdaq\u2019s proposed weekday expansion remains conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T00:20:37+00:00",
+   "last_seen": "2026-11-05T00:20:37+00:00",
+   "summary": "Bitquery\u2019s pre-futures weekend test found no clear directional edge, while Nasdaq\u2019s proposed weekday expansion remains conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
   {
    "id": "947f7049ae",
    "title": "Mercado Bitcoin Plans View-Only Reopening on Nov. 9 After Hack",

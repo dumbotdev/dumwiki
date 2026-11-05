@@ -1,6 +1,352 @@
 {
- "updated": "2026-11-05T13:34:13.440503+00:00",
+ "updated": "2026-11-05T15:17:29.995130+00:00",
  "events": [
+  {
+   "id": "43d76c2c67",
+   "title": "Kalshi Opens Single-Stock Perpetual Futures Trading",
+   "date": "2026-11-05T15:12:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Kalshi Opens Single-Stock Perpetual Futures Trading",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/kalshi-opens-single-stock-perpetual-futures-trading",
+     "date": "2026-11-05T15:12:50+00:00",
+     "summary": "AAPL and AMZN contracts showed estimated leverage near five times, while a court challenge threatens the regulatory basis for stock perps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T15:12:50+00:00",
+   "last_seen": "2026-11-05T15:12:50+00:00",
+   "summary": "AAPL and AMZN contracts showed estimated leverage near five times, while a court challenge threatens the regulatory basis for stock perps.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "31daf45a85",
+   "title": "Binance Asks ArbitrumDAO to Release Frozen ETH and ARB",
+   "date": "2026-11-05T15:11:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Asks ArbitrumDAO to Release Frozen ETH and ARB",
+     "url": "https://thedefiant.io/news/defi/binance-asks-arbitrumdao-to-release-frozen-eth-and-arb",
+     "date": "2026-11-05T15:11:18+00:00",
+     "summary": "The draft would let recovered assets replenish reserves used to cover customer losses. Binance expects the governance process to take seven weeks or longer."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T15:11:18+00:00",
+   "last_seen": "2026-11-05T15:11:18+00:00",
+   "summary": "The draft would let recovered assets replenish reserves used to cover customer losses. Binance expects the governance process to take seven weeks or longer.",
+   "tags": [
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "ebdc067679",
+   "title": "Treasury\u2019s cash plan points to a possible December liquidity window for Bitcoin",
+   "date": "2026-11-05T15:10:14+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Treasury\u2019s cash plan points to a possible December liquidity window for Bitcoin",
+     "url": "https://cryptoslate.com/bitcoins-liquidity-hopes-sit-between-two-projected-treasury-cash-peaks/",
+     "date": "2026-11-05T15:10:14+00:00",
+     "summary": "Treasury\u2019s November 4 plan frames a possible December respite, while tax receipts and a projected January cash peak complicate the reserve case. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T15:10:14+00:00",
+   "last_seen": "2026-11-05T15:10:14+00:00",
+   "summary": "Treasury\u2019s November 4 plan frames a possible December respite, while tax receipts and a projected January cash peak complicate the reserve case. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "macro"
+   ]
+  },
+  {
+   "id": "4f6aa54ffd",
+   "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance\u2019s",
+   "date": "2026-11-05T14:21:50+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance\u2019s",
+     "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
+     "date": "2026-11-05T14:21:50+00:00",
+     "summary": "Lin Han says Gate holds enough assets in cold storage to cover customer balances even if its hot wallets are emptied. An independent audit is underway."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T14:21:50+00:00",
+   "last_seen": "2026-11-05T14:21:50+00:00",
+   "summary": "Lin Han says Gate holds enough assets in cold storage to cover customer balances even if its hot wallets are emptied. An independent audit is underway.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "8254aa04f9",
+   "title": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
+   "date": "2026-11-05T14:19:51+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Samsung Wallet launches USDC accounts on Solana for US Galaxy users",
+     "url": "https://www.theblock.co/news/business/2026-11-05-samsung-wallet-launches-usdc-accounts-solana-us-galaxy-users-434523",
+     "date": "2026-11-05T14:19:51+00:00",
+     "summary": "Samsung Wallet's Stablecoin Account is now live for eligible U.S. Galaxy users, allowing them to use USDC on Solana."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T14:19:51+00:00",
+   "last_seen": "2026-11-05T14:19:51+00:00",
+   "summary": "Samsung Wallet's Stablecoin Account is now live for eligible U.S. Galaxy users, allowing them to use USDC on Solana.",
+   "tags": [
+    "solana",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "440b3610dc",
+   "title": "How Fed Interest Rates Affect Crypto",
+   "date": "2026-11-05T14:16:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "How Fed Interest Rates Affect Crypto",
+     "url": "https://thedefiant.io/news/markets/how-fed-interest-rates-affect-crypto",
+     "date": "2026-11-05T14:16:05+00:00",
+     "summary": "Bitcoin can move before a rate decision as expectations shift. The surprise and the Fed\u2019s message about future policy can matter more than the cut or hike itself."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T14:16:05+00:00",
+   "last_seen": "2026-11-05T14:16:05+00:00",
+   "summary": "Bitcoin can move before a rate decision as expectations shift. The surprise and the Fed\u2019s message about future policy can matter more than the cut or hike itself.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "c1fa99839b",
+   "title": "Selling Tokenized Stocks After Hours: What Determines the Price",
+   "date": "2026-11-05T14:15:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Selling Tokenized Stocks After Hours: What Determines the Price",
+     "url": "https://thedefiant.io/news/markets/selling-tokenized-stocks-after-hours-what-determines-the-price",
+     "date": "2026-11-05T14:15:26+00:00",
+     "summary": "Some token venues offer weekend trading, but selling an existing token and redeeming it with its issuer run on separate schedules."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T14:15:26+00:00",
+   "last_seen": "2026-11-05T14:15:26+00:00",
+   "summary": "Some token venues offer weekend trading, but selling an existing token and redeeming it with its issuer run on separate schedules.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "d86156dd9c",
+   "title": "Bitcoin ETFs take in $75 million as Fidelity inflows outweigh BlackRock withdrawals",
+   "date": "2026-11-05T14:10:06+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin ETFs take in $75 million as Fidelity inflows outweigh BlackRock withdrawals",
+     "url": "https://cryptoslate.com/bitcoin-etfs-record-74-6-million-in-net-inflows-as-fbtc-offsets-ibit-withdrawals/",
+     "date": "2026-11-05T14:10:06+00:00",
+     "summary": "Four funds attracted money on November 4, with FBTC leading inflows while IBIT remained the sole fund recording withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T14:10:06+00:00",
+   "last_seen": "2026-11-05T14:10:06+00:00",
+   "summary": "Four funds attracted money on November 4, with FBTC leading inflows while IBIT remained the sole fund recording withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "03b50fc5e2",
+   "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
+   "date": "2026-11-05T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
+     "url": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
+     "date": "2026-11-05T14:00:00+00:00",
+     "summary": "The investment follows talks first reported by CoinDesk in June that included a proposed equity stake in Aave Group."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T14:00:00+00:00",
+   "last_seen": "2026-11-05T14:00:00+00:00",
+   "summary": "The investment follows talks first reported by CoinDesk in June that included a proposed equity stake in Aave Group.",
+   "tags": [
+    "defi",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "f08c8f30a1",
+   "title": "Polygon Draft Would Give Labs a New Route to Upgrade Contracts",
+   "date": "2026-11-05T13:59:27+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Polygon Draft Would Give Labs a New Route to Upgrade Contracts",
+     "url": "https://thedefiant.io/news/blockchains/polygon-draft-would-give-labs-a-new-route-to-upgrade-contracts",
+     "date": "2026-11-05T13:59:27+00:00",
+     "summary": "PIP-93 would consolidate upgrade powers under an 8-of-11 Security Council, with a seven-day delay for Polygon Labs proposals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T13:59:27+00:00",
+   "last_seen": "2026-11-05T13:59:27+00:00",
+   "summary": "PIP-93 would consolidate upgrade powers under an 8-of-11 Security Council, with a seven-day delay for Polygon Labs proposals.",
+   "tags": []
+  },
+  {
+   "id": "f19bb3da42",
+   "title": "Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack",
+   "date": "2026-11-05T13:57:43+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack",
+     "url": "https://bitcoinmagazine.com/news/tether-tron-scrap-t3-crime-unit",
+     "date": "2026-11-05T13:57:43+00:00",
+     "summary": "Bitcoin Magazine Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack The T3 Financial Crime Unit, which said it froze more than $450 million in illicit USDT with authorities in 23 jurisdictions, wound down in late August. This post Tether..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T13:57:43+00:00",
+   "last_seen": "2026-11-05T13:57:43+00:00",
+   "summary": "Bitcoin Magazine Tether and Tron Quietly Scrapped T3 Crime Unit Two Months Before $6.3 Billion Binance Hack The T3 Financial Crime Unit, which said it froze more than $450 million in illicit USDT with authorities in 23 jurisdictions, wound down in late August. This post Tether...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "de6249a062",
+   "title": "Riot (RIOT) Names Anthropic as Tenant in $28 Billion Texas Lease, Could Owe It 12% Interest",
+   "date": "2026-11-05T13:52:53+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Riot (RIOT) Names Anthropic as Tenant in $28 Billion Texas Lease, Could Owe It 12% Interest",
+     "url": "https://bitcoinmagazine.com/news/riot-names-anthropic-texas-lease",
+     "date": "2026-11-05T13:52:53+00:00",
+     "summary": "Bitcoin Magazine Riot (RIOT) Names Anthropic as Tenant in $28 Billion Texas Lease, Could Owe It 12% Interest Riot's 10-Q identifies Anthropic as the AI lab behind its 910 MW Corsicana lease and shows Riot could owe the tenant 12% interest on up to $3.6 billion in build costs...."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T13:52:53+00:00",
+   "last_seen": "2026-11-05T13:52:53+00:00",
+   "summary": "Bitcoin Magazine Riot (RIOT) Names Anthropic as Tenant in $28 Billion Texas Lease, Could Owe It 12% Interest Riot's 10-Q identifies Anthropic as the AI lab behind its 910 MW Corsicana lease and shows Riot could owe the tenant 12% interest on up to $3.6 billion in build costs....",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "eaee87dbfd",
+   "title": "Bitcoin Price Trades Near $79,600 as Oil Rebounds and Bank of England Hikes Rates",
+   "date": "2026-11-05T13:47:53+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Trades Near $79,600 as Oil Rebounds and Bank of England Hikes Rates",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-79600-oil",
+     "date": "2026-11-05T13:47:53+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Trades Near $79,600 as Oil Rebounds and Bank of England Hikes Rates Bitcoin price slipped back below $80,000 on Thursday morning. This post Bitcoin Price Trades Near $79,600 as Oil Rebounds and Bank of England Hikes Rates first appeared on Bitcoin..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T13:47:53+00:00",
+   "last_seen": "2026-11-05T13:47:53+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Trades Near $79,600 as Oil Rebounds and Bank of England Hikes Rates Bitcoin price slipped back below $80,000 on Thursday morning. This post Bitcoin Price Trades Near $79,600 as Oil Rebounds and Bank of England Hikes Rates first appeared on Bitcoin...",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "2da5f29e27",
+   "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
+   "date": "2026-11-05T13:37:25+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
+     "url": "https://decrypt.co/382606/sam-altman-says-its-fucking-annoying-his-ram-comments-were-taken-out-of-context",
+     "date": "2026-11-05T13:37:25+00:00",
+     "summary": "The OpenAI CEO briefly renamed himself \"Ram Altman\" on X after Elon Musk mocked him for saying idle home PC memory is \"quite terrible.\""
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T13:37:25+00:00",
+   "last_seen": "2026-11-05T13:37:25+00:00",
+   "summary": "The OpenAI CEO briefly renamed himself \"Ram Altman\" on X after Elon Musk mocked him for saying idle home PC memory is \"quite terrible.\"",
+   "tags": []
+  },
+  {
+   "id": "f88ff6c530",
+   "title": "Blockchain is \u2018perfect solution\u2019 for AI agent trust, VeChain CEO says",
+   "date": "2026-11-05T13:34:57+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Blockchain is \u2018perfect solution\u2019 for AI agent trust, VeChain CEO says",
+     "url": "https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-05T13:34:57+00:00",
+     "summary": "Sunny Lu said AI agents would need identity and reputation systems, making the case while promoting agent-building platform VeWorld.ai."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T13:34:57+00:00",
+   "last_seen": "2026-11-05T13:34:57+00:00",
+   "summary": "Sunny Lu said AI agents would need identity and reputation systems, making the case while promoting agent-building platform VeWorld.ai.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "b5e585cfa0",
+   "title": "Can decentralized phone networks power the AI revolution?",
+   "date": "2026-11-05T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Can decentralized phone networks power the AI revolution?",
+     "url": "https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-05T13:30:00+00:00",
+     "summary": "Decentralized AI networks want to turn everyday phones into an alternative to centralized computing infrastructure \u2014 but skeptics have their doubts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T13:30:00+00:00",
+   "last_seen": "2026-11-05T13:30:00+00:00",
+   "summary": "Decentralized AI networks want to turn everyday phones into an alternative to centralized computing infrastructure \u2014 but skeptics have their doubts.",
+   "tags": [
+    "ai"
+   ]
+  },
   {
    "id": "0416652236",
    "title": "Google could take stake in bitcoin miner TeraWulf\u2019s $19 billion AI project if Anthropic defaults",

@@ -1,6 +1,550 @@
 {
- "updated": "2026-11-05T15:17:29.995130+00:00",
+ "updated": "2026-11-05T17:27:16.081799+00:00",
  "events": [
+  {
+   "id": "600df191e0",
+   "title": "Floki Takes Trading Bot Offline Amid Exploit Investigation",
+   "date": "2026-11-05T17:17:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Floki Takes Trading Bot Offline Amid Exploit Investigation",
+     "url": "https://thedefiant.io/news/security/floki-takes-trading-bot-offline-amid-exploit-investigation",
+     "date": "2026-11-05T17:17:51+00:00",
+     "summary": "The team plans to move affected users to new wallets and warns against further deposits into bot wallets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T17:17:51+00:00",
+   "last_seen": "2026-11-05T17:17:51+00:00",
+   "summary": "The team plans to move affected users to new wallets and warns against further deposits into bot wallets.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "255f3f1da0",
+   "title": "Aave Schedules Vote on Babylon Native Bitcoin Collateral for V4",
+   "date": "2026-11-05T17:05:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aave Schedules Vote on Babylon Native Bitcoin Collateral for V4",
+     "url": "https://thedefiant.io/news/defi/aave-schedules-vote-on-babylon-native-bitcoin-collateral-for-v4",
+     "date": "2026-11-05T17:05:47+00:00",
+     "summary": "LlamaRisk has proposed a 300 BTC collateral cap, but activating the market would still require a separate onchain governance vote."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T17:05:47+00:00",
+   "last_seen": "2026-11-05T17:05:47+00:00",
+   "summary": "LlamaRisk has proposed a 300 BTC collateral cap, but activating the market would still require a separate onchain governance vote.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "963f1613af",
+   "title": "Bitcoin Slides Below $77,000 as Ether Sinks 7%",
+   "date": "2026-11-05T17:05:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Slides Below $77,000 as Ether Sinks 7%",
+     "url": "https://thedefiant.io/news/markets/bitcoin-slides-below-77-000-as-ether-sinks-7",
+     "date": "2026-11-05T17:05:42+00:00",
+     "summary": "Total crypto market value fell 6.8% over 24 hours, while bitcoin gave back much of Wednesday\u2019s post-election rebound."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T17:05:42+00:00",
+   "last_seen": "2026-11-05T17:05:42+00:00",
+   "summary": "Total crypto market value fell 6.8% over 24 hours, while bitcoin gave back much of Wednesday\u2019s post-election rebound.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "2bd6cb43f1",
+   "title": "Solana Labs\u2019 Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
+   "date": "2026-11-05T17:01:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Solana Labs\u2019 Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
+     "url": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
+     "date": "2026-11-05T17:01:03+00:00",
+     "summary": "Leap, built by the team behind Dialect, launched a beta iPhone app for trading tokenized stocks, ETFs, metals, currencies and crypto on Solana, pitching itself to traders looking beyond meme coins."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T17:01:03+00:00",
+   "last_seen": "2026-11-05T17:01:03+00:00",
+   "summary": "Leap, built by the team behind Dialect, launched a beta iPhone app for trading tokenized stocks, ETFs, metals, currencies and crypto on Solana, pitching itself to traders looking beyond meme coins.",
+   "tags": [
+    "etfs",
+    "memecoins",
+    "solana"
+   ]
+  },
+  {
+   "id": "b1553d463c",
+   "title": "SoFi Says Crypto Vendor Issue Is Delaying Deposits and Withdrawals",
+   "date": "2026-11-05T16:58:43+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SoFi Says Crypto Vendor Issue Is Delaying Deposits and Withdrawals",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/sofi-says-crypto-vendor-issue-is-delaying-deposits-and-withdrawals",
+     "date": "2026-11-05T16:58:43+00:00",
+     "summary": "The bank says incoming transfers are awaiting review and outgoing transfers will be processed after review, while assuring customers their funds are secure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T16:58:43+00:00",
+   "last_seen": "2026-11-05T16:58:43+00:00",
+   "summary": "The bank says incoming transfers are awaiting review and outgoing transfers will be processed after review, while assuring customers their funds are secure.",
+   "tags": []
+  },
+  {
+   "id": "6b8d1a1d85",
+   "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+   "date": "2026-11-05T16:58:21+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+     "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
+     "date": "2026-11-05T16:58:21+00:00",
+     "summary": "The hacking group has been behind some of the crypto industry's most recent high-profile thefts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T16:58:21+00:00",
+   "last_seen": "2026-11-05T16:58:21+00:00",
+   "summary": "The hacking group has been behind some of the crypto industry's most recent high-profile thefts.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "562dfc7fe4",
+   "title": "Canary\u2019s Injective ETF debuts on Nasdaq with exposure to staking rewards",
+   "date": "2026-11-05T16:53:56+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Canary\u2019s Injective ETF debuts on Nasdaq with exposure to staking rewards",
+     "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
+     "date": "2026-11-05T16:53:56+00:00",
+     "summary": "Canary Capital's Staked INJ ETF debuts on Nasdaq, giving investors exposure to Injective's INJ token plus staking rewards reflected in NAV."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T16:53:56+00:00",
+   "last_seen": "2026-11-05T16:53:56+00:00",
+   "summary": "Canary Capital's Staked INJ ETF debuts on Nasdaq, giving investors exposure to Injective's INJ token plus staking rewards reflected in NAV.",
+   "tags": [
+    "defi",
+    "etfs"
+   ]
+  },
+  {
+   "id": "a18fed9948",
+   "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+   "date": "2026-11-05T16:49:08+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+     "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
+     "date": "2026-11-05T16:49:08+00:00",
+     "summary": "Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T16:49:08+00:00",
+   "last_seen": "2026-11-05T16:49:08+00:00",
+   "summary": "Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "funding"
+   ]
+  },
+  {
+   "id": "bd31543cb9",
+   "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
+   "date": "2026-11-05T16:48:41+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-05T16:48:41+00:00",
+     "summary": "Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T16:48:41+00:00",
+   "last_seen": "2026-11-05T16:48:41+00:00",
+   "summary": "Bitcoin saw sudden downside at the Wall Street open as stocks witnessed a snap sell-off, reversing post-election gains.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "cada93ca54",
+   "title": "Groma Launches Real Estate Issuance and Redemption on Uniswap",
+   "date": "2026-11-05T16:46:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Groma Launches Real Estate Issuance and Redemption on Uniswap",
+     "url": "https://thedefiant.io/news/defi/groma-launches-real-estate-issuance-and-redemption-on-uniswap",
+     "date": "2026-11-05T16:46:07+00:00",
+     "summary": "The GRO/USDC pool on Base uses net asset value pricing, with wallet eligibility enforced by Uniswap v4\u2019s Permissioned Pools Hook."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T16:46:07+00:00",
+   "last_seen": "2026-11-05T16:46:07+00:00",
+   "summary": "The GRO/USDC pool on Base uses net asset value pricing, with wallet eligibility enforced by Uniswap v4\u2019s Permissioned Pools Hook.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "e40dce1569",
+   "title": "Keel (KEEL) Sells Entire Bitcoin Treasury for $192 Million, Will Sell BTC Daily",
+   "date": "2026-11-05T16:45:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Keel (KEEL) Sells Entire Bitcoin Treasury for $192 Million, Will Sell BTC Daily",
+     "url": "https://bitcoinmagazine.com/news/keel-sells-entire-bitcoin-treasury-192m",
+     "date": "2026-11-05T16:45:00+00:00",
+     "summary": "Bitcoin Magazine Keel (KEEL) Sells Entire Bitcoin Treasury for $192 Million, Will Sell BTC Daily Keel sold 2,520 bitcoin in the third quarter, left its treasury near zero and said Quebec-mined coins will now be sold every day as it pivots to AI data centers. This post Keel..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T16:45:00+00:00",
+   "last_seen": "2026-11-05T16:45:00+00:00",
+   "summary": "Bitcoin Magazine Keel (KEEL) Sells Entire Bitcoin Treasury for $192 Million, Will Sell BTC Daily Keel sold 2,520 bitcoin in the third quarter, left its treasury near zero and said Quebec-mined coins will now be sold every day as it pivots to AI data centers. This post Keel...",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "f757725a20",
+   "title": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
+   "date": "2026-11-05T16:37:20+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
+     "url": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report",
+     "date": "2026-11-05T16:37:20+00:00",
+     "summary": "Analysts said that the Clarity Act's path has become tougher, while advocacy group Stand With Crypto has endorsed 27 winning candidates so far."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T16:37:20+00:00",
+   "last_seen": "2026-11-05T16:37:20+00:00",
+   "summary": "Analysts said that the Clarity Act's path has become tougher, while advocacy group Stand With Crypto has endorsed 27 winning candidates so far.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "7fdec09872",
+   "title": "Circle\u2019s $182 million crypto token sale masks revenue decline as USDC business weakens",
+   "date": "2026-11-05T16:30:57+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Circle\u2019s $182 million crypto token sale masks revenue decline as USDC business weakens",
+     "url": "https://cryptoslate.com/circles-182-million-crypto-token-sale-masks-revenue-decline-as-usdc-business-weakens/",
+     "date": "2026-11-05T16:30:57+00:00",
+     "summary": "Reserve income fell 8% as presale recognition lifted Circle\u2019s third-quarter total to $865 million. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T16:30:57+00:00",
+   "last_seen": "2026-11-05T16:30:57+00:00",
+   "summary": "Reserve income fell 8% as presale recognition lifted Circle\u2019s third-quarter total to $865 million. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "6c9a68dfd8",
+   "title": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
+   "date": "2026-11-05T16:29:11+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
+     "url": "https://decrypt.co/382612/bitcoin-erases-election-rally-ai-stocks-plunge-428-million-crypto-longs",
+     "date": "2026-11-05T16:29:11+00:00",
+     "summary": "Bitcoin plunged nearly 5% as AI stocks sank, Democratic midterm wins raised fresh policy questions, and forced liquidations erased a Wednesday rally that had been fueled partly by short covering."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T16:29:11+00:00",
+   "last_seen": "2026-11-05T16:29:11+00:00",
+   "summary": "Bitcoin plunged nearly 5% as AI stocks sank, Democratic midterm wins raised fresh policy questions, and forced liquidations erased a Wednesday rally that had been fueled partly by short covering.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "f2c765770d",
+   "title": "Zcash Nears NU7 Upgrade and Sprout Spending Cutoff",
+   "date": "2026-11-05T16:26:10+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Zcash Nears NU7 Upgrade and Sprout Spending Cutoff",
+     "url": "https://thedefiant.io/news/blockchains/zcash-nears-nu7-upgrade-and-sprout-spending-cutoff",
+     "date": "2026-11-05T16:26:10+00:00",
+     "summary": "About 12,224 ZEC remained in the legacy shielded pool ahead of the cutoff. NU7 will also reduce target block spacing from 75 seconds to 25 seconds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T16:26:10+00:00",
+   "last_seen": "2026-11-05T16:26:10+00:00",
+   "summary": "About 12,224 ZEC remained in the legacy shielded pool ahead of the cutoff. NU7 will also reduce target block spacing from 75 seconds to 25 seconds.",
+   "tags": []
+  },
+  {
+   "id": "aed88606ce",
+   "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
+   "date": "2026-11-05T16:13:32+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
+     "url": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
+     "date": "2026-11-05T16:13:32+00:00",
+     "summary": ""
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T16:13:32+00:00",
+   "last_seen": "2026-11-05T16:13:32+00:00",
+   "summary": "",
+   "tags": []
+  },
+  {
+   "id": "252a54d8e3",
+   "title": "Tempo Introduces Credit Service With Unsecured Loans in Bolivia",
+   "date": "2026-11-05T16:04:14+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tempo Introduces Credit Service With Unsecured Loans in Bolivia",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/tempo-introduces-credit-service-with-unsecured-loans-in-bolivia",
+     "date": "2026-11-05T16:04:14+00:00",
+     "summary": "Tala supplies the capital and takes the credit risk for eligible El Dorado users, while Tempo connects businesses with third-party lenders."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T16:04:14+00:00",
+   "last_seen": "2026-11-05T16:04:14+00:00",
+   "summary": "Tala supplies the capital and takes the credit risk for eligible El Dorado users, while Tempo connects businesses with third-party lenders.",
+   "tags": []
+  },
+  {
+   "id": "4a578ace25",
+   "title": "Anchorage Digital seeks CFTC swap dealer registration for crypto options business",
+   "date": "2026-11-05T16:00:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Anchorage Digital seeks CFTC swap dealer registration for crypto options business",
+     "url": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437",
+     "date": "2026-11-05T16:00:02+00:00",
+     "summary": "Anchorage Digital has applied for CFTC swap dealer registration and plans to offer European-style bitcoin and ether options if approved."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Anchorage Digital Applies for CFTC Swap Dealer Registration",
+     "url": "https://thedefiant.io/converge/regulation/anchorage-digital-applies-for-cftc-swap-dealer-registration",
+     "date": "2026-11-05T16:09:07+00:00",
+     "summary": "The firm says its US-client options business has crossed the $8 billion threshold for an exemption from swap dealer registration."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-05T16:00:02+00:00",
+   "last_seen": "2026-11-05T16:09:07+00:00",
+   "summary": "Anchorage Digital has applied for CFTC swap dealer registration and plans to offer European-style bitcoin and ether options if approved.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "regulation"
+   ]
+  },
+  {
+   "id": "c32532bf78",
+   "title": "U.S.-Sanctioned Moscow Exchange Will List Bitcoin on Dec. 1 as Russia Pulls Crypto Trading Home",
+   "date": "2026-11-05T16:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "U.S.-Sanctioned Moscow Exchange Will List Bitcoin on Dec. 1 as Russia Pulls Crypto Trading Home",
+     "url": "https://bitcoinmagazine.com/news/moscow-exchange-bitcoin-trading-dec-1",
+     "date": "2026-11-05T16:00:00+00:00",
+     "summary": "Bitcoin Magazine U.S.-Sanctioned Moscow Exchange Will List Bitcoin on Dec. 1 as Russia Pulls Crypto Trading Home Russia's largest exchange, Moscow Exchange,. will open bitcoin trading on Dec. 1 under the country's new crypto law, with retail buyers tested and capped at 300,000..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T16:00:00+00:00",
+   "last_seen": "2026-11-05T16:00:00+00:00",
+   "summary": "Bitcoin Magazine U.S.-Sanctioned Moscow Exchange Will List Bitcoin on Dec. 1 as Russia Pulls Crypto Trading Home Russia's largest exchange, Moscow Exchange,. will open bitcoin trading on Dec. 1 under the country's new crypto law, with retail buyers tested and capped at 300,000...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "16b03168b8",
+   "title": "Bitcoin Price Crashes Over 5% to $75,000 as Tech Rout Wipes Out Leveraged Longs",
+   "date": "2026-11-05T15:48:18+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Crashes Over 5% to $75,000 as Tech Rout Wipes Out Leveraged Longs",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-below-75000-tech",
+     "date": "2026-11-05T15:48:18+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Crashes Over 5% to $75,000 as Tech Rout Wipes Out Leveraged Longs Bitcoin price fell from above $80,800 to near $76,600 on Thursday morning as a Nasdaq selloff in chip and AI stocks spilled into crypto. This post Bitcoin Price Crashes Over 5% to..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T15:48:18+00:00",
+   "last_seen": "2026-11-05T15:48:18+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Crashes Over 5% to $75,000 as Tech Rout Wipes Out Leveraged Longs Bitcoin price fell from above $80,800 to near $76,600 on Thursday morning as a Nasdaq selloff in chip and AI stocks spilled into crypto. This post Bitcoin Price Crashes Over 5% to...",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "f69b3363ce",
+   "title": "Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading",
+   "date": "2026-11-05T15:45:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading",
+     "url": "https://bitcoinmagazine.com/news/ukraine-central-bank-refuses-crypto-bill",
+     "date": "2026-11-05T15:45:00+00:00",
+     "summary": "Bitcoin Magazine Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading Ukraine's National Bank says draft law 10225-d on virtual assets lacks safeguards on foreign tokens and platform licensing. This post Ukraine Central Bank Refuses to Back Crypto Bill..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T15:45:00+00:00",
+   "last_seen": "2026-11-05T15:45:00+00:00",
+   "summary": "Bitcoin Magazine Ukraine Central Bank Refuses to Back Crypto Bill Cleared for Second Reading Ukraine's National Bank says draft law 10225-d on virtual assets lacks safeguards on foreign tokens and platform licensing. This post Ukraine Central Bank Refuses to Back Crypto Bill...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "e591cc1e9f",
+   "title": "Payward-affiliated fund and clients buy AAVE token stake on secondary market",
+   "date": "2026-11-05T15:36:50+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Payward-affiliated fund and clients buy AAVE token stake on secondary market",
+     "url": "https://www.theblock.co/news/business/2026-11-05-payward-affiliated-fund-clients-buy-aave-token-stake-secondary-market-aave-says-434798",
+     "date": "2026-11-05T15:36:50+00:00",
+     "summary": "Payward disclosed neither the size nor price of the AAVE purchases and said it may acquire more tokens."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T15:36:50+00:00",
+   "last_seen": "2026-11-05T15:36:50+00:00",
+   "summary": "Payward disclosed neither the size nor price of the AAVE purchases and said it may acquire more tokens.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "66c92aff56",
+   "title": "Canary\u2019s Staked INJ ETF Begins Trading on Nasdaq",
+   "date": "2026-11-05T15:25:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Canary\u2019s Staked INJ ETF Begins Trading on Nasdaq",
+     "url": "https://thedefiant.io/news/tokens/canary-s-staked-inj-etf-begins-trading-on-nasdaq",
+     "date": "2026-11-05T15:25:56+00:00",
+     "summary": "The fund expects to retain 70% of staking rewards before its separate 1.10% annual sponsor fee and other expenses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T15:25:56+00:00",
+   "last_seen": "2026-11-05T15:25:56+00:00",
+   "summary": "The fund expects to retain 70% of staking rewards before its separate 1.10% annual sponsor fee and other expenses.",
+   "tags": [
+    "defi",
+    "etfs"
+   ]
+  },
+  {
+   "id": "6040a9ce97",
+   "title": "Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack",
+   "date": "2026-11-05T15:25:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack",
+     "url": "https://bitcoinmagazine.com/news/fed-occ-quiz-banks-binance-hack",
+     "date": "2026-11-05T15:25:00+00:00",
+     "summary": "Bitcoin Magazine Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack Federal Reserve and OCC supervisors contacted U.S. banks this week to check for vulnerabilities after the Binance hack. This post Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack first..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T15:25:00+00:00",
+   "last_seen": "2026-11-05T15:25:00+00:00",
+   "summary": "Bitcoin Magazine Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack Federal Reserve and OCC supervisors contacted U.S. banks this week to check for vulnerabilities after the Binance hack. This post Fed and OCC Quiz U.S. Banks After $6.3 Billion Binance Hack first...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "macro",
+    "security"
+   ]
+  },
+  {
+   "id": "95cd8b25b3",
+   "title": "Lido Adds Firelight Loss Protection to Earn Vaults",
+   "date": "2026-11-05T15:17:36+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Lido Adds Firelight Loss Protection to Earn Vaults",
+     "url": "https://thedefiant.io/news/defi/lido-adds-firelight-loss-protection-to-earn-vaults",
+     "date": "2026-11-05T15:17:36+00:00",
+     "summary": "First-period Firelight limits are about $12.1 million for EarnETH and $4 million for EarnUSD, ahead of the DAO\u2019s existing share-burn buffer."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-05T15:17:36+00:00",
+   "last_seen": "2026-11-05T15:17:36+00:00",
+   "summary": "First-period Firelight limits are about $12.1 million for EarnETH and $4 million for EarnUSD, ahead of the DAO\u2019s existing share-burn buffer.",
+   "tags": []
+  },
   {
    "id": "43d76c2c67",
    "title": "Kalshi Opens Single-Stock Perpetual Futures Trading",

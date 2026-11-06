@@ -1,6 +1,745 @@
 {
- "updated": "2026-11-06T15:09:08.608714+00:00",
+ "updated": "2026-11-06T20:56:42.216619+00:00",
  "events": [
+  {
+   "id": "ddcfa6b55a",
+   "title": "US Treasury walks back crypto surveillance \u2018travel rule\u2019 proposal",
+   "date": "2026-11-06T20:37:34+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "US Treasury walks back crypto surveillance \u2018travel rule\u2019 proposal",
+     "url": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951",
+     "date": "2026-11-06T20:37:34+00:00",
+     "summary": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T20:37:34+00:00",
+   "last_seen": "2026-11-06T20:37:34+00:00",
+   "summary": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "112ca442c8",
+   "title": "Binance hack is \u2018cyber war,\u2019 TRM Labs executive says",
+   "date": "2026-11-06T20:36:25+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance hack is \u2018cyber war,\u2019 TRM Labs executive says",
+     "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T20:36:25+00:00",
+     "summary": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T20:36:25+00:00",
+   "last_seen": "2026-11-06T20:36:25+00:00",
+   "summary": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "6aa3c40575",
+   "title": "Apple, Meta reject OKX\u2013ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+   "date": "2026-11-06T20:09:18+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Apple, Meta reject OKX\u2013ICE tokenized stock plans, leaving crypto firms as the ones to watch",
+     "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
+     "date": "2026-11-06T20:09:18+00:00",
+     "summary": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture\u2019s initial selection with no disclosed objection, after 90% of issuers opted out."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T20:09:18+00:00",
+   "last_seen": "2026-11-06T20:09:18+00:00",
+   "summary": "Strategy, Coinbase, Circle and Robinhood are among six companies from the venture\u2019s initial selection with no disclosed objection, after 90% of issuers opted out.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "bf651dd299",
+   "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+   "date": "2026-11-06T20:04:27+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+     "url": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T20:04:27+00:00",
+     "summary": "While the proposal doesn\u2019t exclude altcoins and smaller cryptocurrencies, experts say they could face challenges getting into retirement plans."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T20:04:27+00:00",
+   "last_seen": "2026-11-06T20:04:27+00:00",
+   "summary": "While the proposal doesn\u2019t exclude altcoins and smaller cryptocurrencies, experts say they could face challenges getting into retirement plans.",
+   "tags": []
+  },
+  {
+   "id": "8ba194a0db",
+   "title": "Greece ends years of crypto tax uncertainty with new 10% levy on Bitcoin profits",
+   "date": "2026-11-06T20:00:30+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Greece ends years of crypto tax uncertainty with new 10% levy on Bitcoin profits",
+     "url": "https://cryptoslate.com/greece-ends-years-of-crypto-tax-uncertainty-with-new-10-levy-on-bitcoin-profits/",
+     "date": "2026-11-06T20:00:30+00:00",
+     "summary": "Annual gains up to \u20ac500 are exempt under the approved bill, while directives on transparency and audits are still forthcoming. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T20:00:30+00:00",
+   "last_seen": "2026-11-06T20:00:30+00:00",
+   "summary": "Annual gains up to \u20ac500 are exempt under the approved bill, while directives on transparency and audits are still forthcoming. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "27c6853932",
+   "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
+   "date": "2026-11-06T19:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
+     "url": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
+     "date": "2026-11-06T19:46:03+00:00",
+     "summary": "Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permissioned Hyperliquid markets, pending regulatory approval."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T19:46:03+00:00",
+   "last_seen": "2026-11-06T19:46:03+00:00",
+   "summary": "Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permissioned Hyperliquid markets, pending regulatory approval.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "a358aa9a3c",
+   "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
+   "date": "2026-11-06T19:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
+     "url": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
+     "date": "2026-11-06T19:16:03+00:00",
+     "summary": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Pe\u00f1a."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T19:16:03+00:00",
+   "last_seen": "2026-11-06T19:16:03+00:00",
+   "summary": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Pe\u00f1a.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "1fbe093342",
+   "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
+   "date": "2026-11-06T18:58:58+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
+     "url": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
+     "date": "2026-11-06T18:58:58+00:00",
+     "summary": "Gnosis Pay disclosed a data breach after unauthorized access to its legacy debit card system on Nov. 3. Customer funds were not affected."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T18:58:58+00:00",
+   "last_seen": "2026-11-06T18:58:58+00:00",
+   "summary": "Gnosis Pay disclosed a data breach after unauthorized access to its legacy debit card system on Nov. 3. Customer funds were not affected.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "9e61e7b27e",
+   "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+   "date": "2026-11-06T18:47:45+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+     "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T18:47:45+00:00",
+     "summary": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T18:47:45+00:00",
+   "last_seen": "2026-11-06T18:47:45+00:00",
+   "summary": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "6df3722471",
+   "title": "Ethereum software bug triggers emergency fixes across major layer-2 networks",
+   "date": "2026-11-06T18:40:30+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum software bug triggers emergency fixes across major layer-2 networks",
+     "url": "https://cryptoslate.com/ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks/",
+     "date": "2026-11-06T18:40:30+00:00",
+     "summary": "Published fixes span several software lines, but they do not establish operator adoption or the status of every cross-chain route. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T18:40:30+00:00",
+   "last_seen": "2026-11-06T18:40:30+00:00",
+   "summary": "Published fixes span several software lines, but they do not establish operator adoption or the status of every cross-chain route. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "45951fa084",
+   "title": "Merkley-Raskin Bill Would Ban Election and Sports Contracts on US Exchanges",
+   "date": "2026-11-06T18:39:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Merkley-Raskin Bill Would Ban Election and Sports Contracts on US Exchanges",
+     "url": "https://thedefiant.io/news/regulation/merkley-raskin-bill-would-ban-election-and-sports-contracts-on-us-exchanges",
+     "date": "2026-11-06T18:39:46+00:00",
+     "summary": "The March 26 proposal also targets US government-action contracts, with a commercial-hedging exception defined by the CFTC. It remains in committee."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T18:39:46+00:00",
+   "last_seen": "2026-11-06T18:39:46+00:00",
+   "summary": "The March 26 proposal also targets US government-action contracts, with a commercial-hedging exception defined by the CFTC. It remains in committee.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "eabbff94d5",
+   "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+   "date": "2026-11-06T18:36:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+     "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
+     "date": "2026-11-06T18:36:03+00:00",
+     "summary": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T18:36:03+00:00",
+   "last_seen": "2026-11-06T18:36:03+00:00",
+   "summary": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "b2c1fe7e7b",
+   "title": "Bitcoin Magazine Books Opens 333-Copy Genesis Book Collector Edition for 3rd Anniversary",
+   "date": "2026-11-06T18:32:32+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Magazine Books Opens 333-Copy Genesis Book Collector Edition for 3rd Anniversary",
+     "url": "https://bitcoinmagazine.com/news/genesis-book-333-collector-3rd-anniversary",
+     "date": "2026-11-06T18:32:32+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Magazine Books Opens 333-Copy Genesis Book Collector Edition for 3rd Anniversary Bitcoin Magazine Books opened a third-anniversary campaign for Aaron van Wirdum's The Genesis Book, capping a hand-signed Collectors Edition at 333 numbered copies. This..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T18:32:32+00:00",
+   "last_seen": "2026-11-06T18:32:32+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Magazine Books Opens 333-Copy Genesis Book Collector Edition for 3rd Anniversary Bitcoin Magazine Books opened a third-anniversary campaign for Aaron van Wirdum's The Genesis Book, capping a hand-signed Collectors Edition at 333 numbered copies. This...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "1133c709fb",
+   "title": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
+   "date": "2026-11-06T18:29:36+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
+     "url": "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939",
+     "date": "2026-11-06T18:29:36+00:00",
+     "summary": "A rule that would open up 401(k) retirement accounts to alternative assets, including cryptocurrencies, has landed at the White House."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T18:29:36+00:00",
+   "last_seen": "2026-11-06T18:29:36+00:00",
+   "summary": "A rule that would open up 401(k) retirement accounts to alternative assets, including cryptocurrencies, has landed at the White House.",
+   "tags": []
+  },
+  {
+   "id": "579a9879ae",
+   "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+   "date": "2026-11-06T18:22:42+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+     "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T18:22:42+00:00",
+     "summary": "Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T18:22:42+00:00",
+   "last_seen": "2026-11-06T18:22:42+00:00",
+   "summary": "Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC.",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "d583ecbc05",
+   "title": "What Is Stablecoin Market Cap? Supply, Share and Dominance Explained",
+   "date": "2026-11-06T18:12:32+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "What Is Stablecoin Market Cap? Supply, Share and Dominance Explained",
+     "url": "https://thedefiant.io/news/tokens/what-is-stablecoin-market-cap-supply-share-and-dominance-explained",
+     "date": "2026-11-06T18:12:32+00:00",
+     "summary": "Issuance and redemptions change circulating supply. Transfers do not, and a price move can change market cap without any tokens being issued or redeemed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T18:12:32+00:00",
+   "last_seen": "2026-11-06T18:12:32+00:00",
+   "summary": "Issuance and redemptions change circulating supply. Transfers do not, and a price move can change market cap without any tokens being issued or redeemed.",
+   "tags": [
+    "markets",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "0460277532",
+   "title": "Algorand Foundation Shuts Forum and Advisory Council",
+   "date": "2026-11-06T18:07:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Algorand Foundation Shuts Forum and Advisory Council",
+     "url": "https://thedefiant.io/news/blockchains/algorand-foundation-shuts-forum-and-advisory-council",
+     "date": "2026-11-06T18:07:16+00:00",
+     "summary": "The Foundation will pause xGov grants on Dec. 6 and shelve Project King Safety, while maintaining bonus staking support through January 2028."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T18:07:16+00:00",
+   "last_seen": "2026-11-06T18:07:16+00:00",
+   "summary": "The Foundation will pause xGov grants on Dec. 6 and shelve Project King Safety, while maintaining bonus staking support through January 2028.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "59435c4dd5",
+   "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+   "date": "2026-11-06T18:06:59+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+     "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+     "date": "2026-11-06T18:06:59+00:00",
+     "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T18:06:59+00:00",
+   "last_seen": "2026-11-06T18:06:59+00:00",
+   "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "a7f18125e3",
+   "title": "Veranta Adds 1,000x BTC and ETH Leverage on Base",
+   "date": "2026-11-06T18:03:30+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Veranta Adds 1,000x BTC and ETH Leverage on Base",
+     "url": "https://thedefiant.io/news/defi/veranta-adds-1-000x-btc-and-eth-leverage-on-base",
+     "date": "2026-11-06T18:03:30+00:00",
+     "summary": "The venue says traders can redeem profits immediately, with payouts drawn from a protocol buffer before liquidity-provider capital."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T18:03:30+00:00",
+   "last_seen": "2026-11-06T18:03:30+00:00",
+   "summary": "The venue says traders can redeem profits immediately, with payouts drawn from a protocol buffer before liquidity-provider capital.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "39ddf1b9e3",
+   "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+   "date": "2026-11-06T17:49:33+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T17:49:33+00:00",
+     "summary": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T17:49:33+00:00",
+   "last_seen": "2026-11-06T17:49:33+00:00",
+   "summary": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "5fb9772307",
+   "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
+   "date": "2026-11-06T17:42:31+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
+     "url": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
+     "date": "2026-11-06T17:42:31+00:00",
+     "summary": "OFAC targeted offshore companies and associates it says helped Prince Group executives hide assets and dodge earlier sanctions."
+    },
+    {
+     "source": "The Defiant",
+     "title": "US Sanctions 45 More Targets Linked to Prince Group",
+     "url": "https://thedefiant.io/news/regulation/us-sanctions-45-more-targets-linked-to-prince-group",
+     "date": "2026-11-06T17:50:26+00:00",
+     "summary": "The SDN update lists no crypto addresses for the newly designated parties, but US firms must still block covered assets and avoid unauthorized dealings with them."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-06T17:42:31+00:00",
+   "last_seen": "2026-11-06T17:50:26+00:00",
+   "summary": "The SDN update lists no crypto addresses for the newly designated parties, but US firms must still block covered assets and avoid unauthorized dealings with them.",
+   "tags": []
+  },
+  {
+   "id": "75152211e7",
+   "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+   "date": "2026-11-06T17:42:28+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+     "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
+     "date": "2026-11-06T17:42:28+00:00",
+     "summary": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T17:42:28+00:00",
+   "last_seen": "2026-11-06T17:42:28+00:00",
+   "summary": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so.",
+   "tags": [
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "ec9ea0d04b",
+   "title": "Bitcoin miner IREN\u2019s AI revenue milestone slips into 2027 as expansion seeks $6 billion",
+   "date": "2026-11-06T17:30:09+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin miner IREN\u2019s AI revenue milestone slips into 2027 as expansion seeks $6 billion",
+     "url": "https://cryptoslate.com/bitcoin-miner-irens-ai-revenue-milestone-slips-into-2027-as-expansion-seeks-6-billion/",
+     "date": "2026-11-06T17:30:09+00:00",
+     "summary": "Conditional funding covers IREN\u2019s initial 0.3GW AI program, while wider FY27 expansion still targets $6 billion of additional financing. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T17:30:09+00:00",
+   "last_seen": "2026-11-06T17:30:09+00:00",
+   "summary": "Conditional funding covers IREN\u2019s initial 0.3GW AI program, while wider FY27 expansion still targets $6 billion of additional financing. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "e647ea4d13",
+   "title": "Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block",
+   "date": "2026-11-06T17:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block",
+     "url": "https://bitcoinmagazine.com/news/thailand-sec-bitget-criminal-dec-5",
+     "date": "2026-11-06T17:30:00+00:00",
+     "summary": "Bitcoin Magazine Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block Thailand's SEC filed a criminal complaint against Bitget operator BG Limited for unlicensed Thai trading from 2022 to 2025. This post Thailand SEC Files Criminal Complaint Against..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T17:30:00+00:00",
+   "last_seen": "2026-11-06T17:30:00+00:00",
+   "summary": "Bitcoin Magazine Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block Thailand's SEC filed a criminal complaint against Bitget operator BG Limited for unlicensed Thai trading from 2022 to 2025. This post Thailand SEC Files Criminal Complaint Against...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "384d8c9a9c",
+   "title": "Threshold Sets tBTC Reconnection Target as Week-Long Pause Continues",
+   "date": "2026-11-06T17:14:38+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Threshold Sets tBTC Reconnection Target as Week-Long Pause Continues",
+     "url": "https://thedefiant.io/news/security/threshold-sets-tbtc-reconnection-target-as-week-long-pause-continues",
+     "date": "2026-11-06T17:14:38+00:00",
+     "summary": "Bitcoin redemptions will resume once enough operators return, while Aave\u2019s $123.2 million Ethereum Core tBTC reserve remains frozen."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T17:14:38+00:00",
+   "last_seen": "2026-11-06T17:14:38+00:00",
+   "summary": "Bitcoin redemptions will resume once enough operators return, while Aave\u2019s $123.2 million Ethereum Core tBTC reserve remains frozen.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "15a1584659",
+   "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+   "date": "2026-11-06T16:41:29+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+     "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+     "date": "2026-11-06T16:41:29+00:00",
+     "summary": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren\u2019t affected and its enterprise card platform was untouched."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T16:41:29+00:00",
+   "last_seen": "2026-11-06T16:41:29+00:00",
+   "summary": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren\u2019t affected and its enterprise card platform was untouched.",
+   "tags": []
+  },
+  {
+   "id": "5744511fd1",
+   "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+   "date": "2026-11-06T16:34:07+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+     "url": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
+     "date": "2026-11-06T16:34:07+00:00",
+     "summary": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T16:34:07+00:00",
+   "last_seen": "2026-11-06T16:34:07+00:00",
+   "summary": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "8ec640eccc",
+   "title": "Binance cuts off trading platform SignalPlus after hackers break in with a fake Teams invite",
+   "date": "2026-11-06T16:30:48+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance cuts off trading platform SignalPlus after hackers break in with a fake Teams invite",
+     "url": "https://cryptoslate.com/binance-cuts-off-trading-platform-signalplus-after-hackers-break-in-with-a-fake-teams-invite/",
+     "date": "2026-11-06T16:30:48+00:00",
+     "summary": "SignalPlus later reported an attack, losses below $82,000 and reimbursement underway, while Deribit also disabled connected keys. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T16:30:48+00:00",
+   "last_seen": "2026-11-06T16:30:48+00:00",
+   "summary": "SignalPlus later reported an attack, losses below $82,000 and reimbursement underway, while Deribit also disabled connected keys. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "2bbc4fb4e9",
+   "title": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
+   "date": "2026-11-06T16:28:58+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Anthropic IPO Valuation Could Be Slashed in Half to $1T After AI Stock Rout: Report",
+     "url": "https://decrypt.co/382716/anthropic-ipo-valuation-could-fall-to-1-trillion-after-ai-stock-rout-report",
+     "date": "2026-11-06T16:28:58+00:00",
+     "summary": "Investors told The Wall Street Journal that the $1.5 trillion target now looks too high, as prediction markets bet on a December listing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T16:28:58+00:00",
+   "last_seen": "2026-11-06T16:28:58+00:00",
+   "summary": "Investors told The Wall Street Journal that the $1.5 trillion target now looks too high, as prediction markets bet on a December listing.",
+   "tags": [
+    "ai",
+    "funding"
+   ]
+  },
+  {
+   "id": "442f8b0f87",
+   "title": "Strive (ASST) Posts $474.8 Million Common Net Income as Bitcoin Yield Hits 63.2%",
+   "date": "2026-11-06T16:15:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Strive (ASST) Posts $474.8 Million Common Net Income as Bitcoin Yield Hits 63.2%",
+     "url": "https://bitcoinmagazine.com/news/strive-asst-posts-474-8m-common-net-income",
+     "date": "2026-11-06T16:15:00+00:00",
+     "summary": "Bitcoin Magazine Strive (ASST) Posts $474.8 Million Common Net Income as Bitcoin Yield Hits 63.2% Strive posted $474.8M in Q3 net income to common holders, almost entirely a $533.7M unrealized bitcoin gain, and touted 103.7% year-to-date outperformance versus bitcoin. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T16:15:00+00:00",
+   "last_seen": "2026-11-06T16:15:00+00:00",
+   "summary": "Bitcoin Magazine Strive (ASST) Posts $474.8 Million Common Net Income as Bitcoin Yield Hits 63.2% Strive posted $474.8M in Q3 net income to common holders, almost entirely a $533.7M unrealized bitcoin gain, and touted 103.7% year-to-date outperformance versus bitcoin. This post...",
+   "tags": [
+    "bitcoin",
+    "defi"
+   ]
+  },
+  {
+   "id": "9736cba320",
+   "title": "Coinbase Opens USDC Borrowing Against PAX Gold",
+   "date": "2026-11-06T15:39:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coinbase Opens USDC Borrowing Against PAX Gold",
+     "url": "https://thedefiant.io/news/defi/coinbase-opens-usdc-borrowing-against-pax-gold",
+     "date": "2026-11-06T15:39:15+00:00",
+     "summary": "The gold-backed token joins Coinbase\u2019s collateral options, while its loan-health pricing updates only during gold-market hours."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T15:39:15+00:00",
+   "last_seen": "2026-11-06T15:39:15+00:00",
+   "summary": "The gold-backed token joins Coinbase\u2019s collateral options, while its loan-health pricing updates only during gold-market hours.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "2784d443d0",
+   "title": "Ondo Plans Tokenized Anthropic Shares From IPO Day",
+   "date": "2026-11-06T15:31:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ondo Plans Tokenized Anthropic Shares From IPO Day",
+     "url": "https://thedefiant.io/news/defi/ondo-plans-tokenized-anthropic-shares-from-ipo-day",
+     "date": "2026-11-06T15:31:46+00:00",
+     "summary": "Ondo Stocks uses share-backed notes for eligible non-US investors, unlike the derivatives already trading on Anthropic's valuation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T15:31:46+00:00",
+   "last_seen": "2026-11-06T15:31:46+00:00",
+   "summary": "Ondo Stocks uses share-backed notes for eligible non-US investors, unlike the derivatives already trading on Anthropic's valuation.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "d36ce38cd8",
+   "title": "Bitcoin ETFs bought nearly twice what miners produced in Q3\u2014but $430 million left on Thursday",
+   "date": "2026-11-06T15:30:30+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin ETFs bought nearly twice what miners produced in Q3\u2014but $430 million left on Thursday",
+     "url": "https://cryptoslate.com/bitcoin-etfs-bought-nearly-twice-what-miners-produced-in-q3-but-430-million-left-on-thursday/",
+     "date": "2026-11-06T15:30:30+00:00",
+     "summary": "Concentrated Q3 buying and falling older-holder balances leave sustained absorption unproven as November withdrawals meet the next US jobs report. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T15:30:30+00:00",
+   "last_seen": "2026-11-06T15:30:30+00:00",
+   "summary": "Concentrated Q3 buying and falling older-holder balances leave sustained absorption unproven as November withdrawals meet the next US jobs report. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "50e5535d35",
+   "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+   "date": "2026-11-06T15:26:38+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+     "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+     "date": "2026-11-06T15:26:38+00:00",
+     "summary": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T15:26:38+00:00",
+   "last_seen": "2026-11-06T15:26:38+00:00",
+   "summary": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
   {
    "id": "b8a23549eb",
    "title": "Rule to Allow Crypto in 401(k)s Arrives at White House for Final Review",
@@ -273,11 +1012,18 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitcoin-gains-drive-strive-s-474-8-million-q3-profit",
      "date": "2026-11-06T14:03:00+00:00",
      "summary": "SATA and SATS imply about $287.4 million in annual dividends at November rates and Oct. 30 share counts, a cost excluded from its Bitcoin Yield metric."
+    },
+    {
+     "source": "The Block",
+     "title": "Strive\u2019s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
+     "url": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
+     "date": "2026-11-06T16:07:24+00:00",
+     "summary": "Strive\u2019s bitcoin stash reached 43,124 BTC as its shares continued to slide despite a profitable third quarter."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-06T14:03:00+00:00",
-   "last_seen": "2026-11-06T14:03:00+00:00",
+   "last_seen": "2026-11-06T16:07:24+00:00",
    "summary": "SATA and SATS imply about $287.4 million in annual dividends at November rates and Oct. 30 share counts, a cost excluded from its Bitcoin Yield metric.",
    "tags": [
     "bitcoin",
@@ -955,14 +1701,22 @@
      "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
      "date": "2026-11-06T08:47:42+00:00",
      "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
+     "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+     "date": "2026-11-06T20:36:03+00:00",
+     "summary": "Greece has approved a crypto tax framework with a \u20ac500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-06T08:47:42+00:00",
-   "last_seen": "2026-11-06T08:47:42+00:00",
-   "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
+   "last_seen": "2026-11-06T20:36:03+00:00",
+   "summary": "Greece has approved a crypto tax framework with a \u20ac500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved.",
    "tags": [
-    "defi"
+    "defi",
+    "regulation"
    ]
   },
   {
@@ -1592,14 +2346,23 @@
      "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
      "date": "2026-11-06T10:57:06+00:00",
      "summary": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations",
+     "url": "https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft",
+     "date": "2026-11-06T17:00:00+00:00",
+     "summary": "Bitcoin Magazine Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations Patrick Steven Yaroch, 37, of Ashburn, Virginia, pleaded guilty Thursday to wire fraud and money laundering after using wallet credentials from 35 FBI investigations to take..."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-11-05T21:53:55+00:00",
-   "last_seen": "2026-11-06T10:57:06+00:00",
-   "summary": "Prosecutors say Patrick Steven Yaroch used credentials tied to 35 FBI investigations, compromising cases and intelligence sources and methods.",
+   "last_seen": "2026-11-06T17:00:00+00:00",
+   "summary": "Bitcoin Magazine Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations Patrick Steven Yaroch, 37, of Ashburn, Virginia, pleaded guilty Thursday to wire fraud and money laundering after using wallet credentials from 35 FBI investigations to take...",
    "tags": [
     "ai",
+    "bitcoin",
+    "legal",
     "security"
    ]
   },

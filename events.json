@@ -1,6 +1,280 @@
 {
- "updated": "2026-11-05T23:42:37.964599+00:00",
+ "updated": "2026-11-06T06:58:36.789592+00:00",
  "events": [
+  {
+   "id": "91f0c25806",
+   "title": "Bitcoin\u2019s rate cut relief stalls as service inflation flares",
+   "date": "2026-11-06T06:40:14+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s rate cut relief stalls as service inflation flares",
+     "url": "https://cryptoslate.com/bitcoins-rate-cut-relief-stalls-as-service-inflation-flares/",
+     "date": "2026-11-06T06:40:14+00:00",
+     "summary": "October\u2019s services prices index eased to 73, but its 12-month average reached 69.2, the highest since April 2023. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T06:40:14+00:00",
+   "last_seen": "2026-11-06T06:40:14+00:00",
+   "summary": "October\u2019s services prices index eased to 73, but its 12-month average reached 69.2, the highest since April 2023. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "06f87ec264",
+   "title": "IREN Mining Revenue Falls 58% as AI Sales Reach $200 Million",
+   "date": "2026-11-06T05:40:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "IREN Mining Revenue Falls 58% as AI Sales Reach $200 Million",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/iren-mining-revenue-falls-58-as-ai-sales-reach-200-million",
+     "date": "2026-11-06T05:40:09+00:00",
+     "summary": "IREN aims to substantially complete its mining transition by December, while its $4 billion AI revenue run-rate target moves into early 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T05:40:09+00:00",
+   "last_seen": "2026-11-06T05:40:09+00:00",
+   "summary": "IREN aims to substantially complete its mining transition by December, while its $4 billion AI revenue run-rate target moves into early 2027.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "d5615f29b4",
+   "title": "Zcash\u2019s landmark NU7 upgrade goes live, speeding up private payments",
+   "date": "2026-11-06T05:14:48+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Zcash\u2019s landmark NU7 upgrade goes live, speeding up private payments",
+     "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
+     "date": "2026-11-06T05:14:48+00:00",
+     "summary": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T05:14:48+00:00",
+   "last_seen": "2026-11-06T05:14:48+00:00",
+   "summary": "NU7 cuts the target time between blocks to 25 seconds, reduces the work wallets must do to find private payments and sets aside fees for future miners.",
+   "tags": []
+  },
+  {
+   "id": "dbc6fd4481",
+   "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+   "date": "2026-11-06T05:07:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto exchanges tout cold storage ratios after Binance attack",
+     "url": "https://cointelegraph.com/news/binance-hack-puts-crypto-exchanges-cold-wallet-ratio-under-spotlight?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T05:07:00+00:00",
+     "summary": "Coinbase says it keeps more than 99% of customer assets offline, while Gate reports 88.26% of its total assets are kept in cold storage."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T05:07:00+00:00",
+   "last_seen": "2026-11-06T05:07:00+00:00",
+   "summary": "Coinbase says it keeps more than 99% of customer assets offline, while Gate reports 88.26% of its total assets are kept in cold storage.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "b0dc4f1f1d",
+   "title": "Unpatched Bitcoin Lightning nodes face channel-draining bug",
+   "date": "2026-11-06T04:30:28+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Unpatched Bitcoin Lightning nodes face channel-draining bug",
+     "url": "https://cryptoslate.com/unpatched-bitcoin-lightning-nodes-face-channel-draining-bug/",
+     "date": "2026-11-06T04:30:28+00:00",
+     "summary": "The v26.06.10 update adds channel checks and remote-command fixes, while maintainers also advise restricting and replacing unaccounted-for credentials. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T04:30:28+00:00",
+   "last_seen": "2026-11-06T04:30:28+00:00",
+   "summary": "The v26.06.10 update adds channel checks and remote-command fixes, while maintainers also advise restricting and replacing unaccounted-for credentials. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "8c142749d7",
+   "title": "IREN\u2019s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
+   "date": "2026-11-06T04:29:14+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "IREN\u2019s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
+     "url": "https://www.theblock.co/news/business/2026-11-05-irens-mining-revenue-drops-435783",
+     "date": "2026-11-06T04:29:14+00:00",
+     "summary": "IREN has been shifting its focus to the AI infrastructure business, and its AI cloud revenue rose 182% in the past quarter to $200 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T04:29:14+00:00",
+   "last_seen": "2026-11-06T04:29:14+00:00",
+   "summary": "IREN has been shifting its focus to the AI infrastructure business, and its AI cloud revenue rose 182% in the past quarter to $200 million.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "f170ef1ee3",
+   "title": "Ark Invest buys more Coinbase as shares plunge 10% in wider market rout",
+   "date": "2026-11-06T03:56:28+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ark Invest buys more Coinbase as shares plunge 10% in wider market rout",
+     "url": "https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769",
+     "date": "2026-11-06T03:56:28+00:00",
+     "summary": "Cathie Wood's Ark Invest bought $2.44 million worth of Coinbase on Thursday as the stock plunged 9.69% amid a broader sell-off."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T03:56:28+00:00",
+   "last_seen": "2026-11-06T03:56:28+00:00",
+   "summary": "Cathie Wood's Ark Invest bought $2.44 million worth of Coinbase on Thursday as the stock plunged 9.69% amid a broader sell-off.",
+   "tags": [
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "267c430b76",
+   "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+   "date": "2026-11-06T02:24:23+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
+     "url": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
+     "date": "2026-11-06T02:24:23+00:00",
+     "summary": "The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T02:24:23+00:00",
+   "last_seen": "2026-11-06T02:24:23+00:00",
+   "summary": "The company said it's trying to establish a U.S. \"futures commission merchant\" with full compliance for activity with U.S. clients, though the timing is uncertain.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "9eb008d52c",
+   "title": "Optimism new proposal weakens council power over standalone chains",
+   "date": "2026-11-06T02:10:05+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Optimism new proposal weakens council power over standalone chains",
+     "url": "https://cryptoslate.com/optimism-new-proposal-weakens-council-power-over-standalone-chains/",
+     "date": "2026-11-06T02:10:05+00:00",
+     "summary": "The proposed policy would let qualifying transfers proceed without another governance vote, changing who users rely on for upgrades. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T02:10:05+00:00",
+   "last_seen": "2026-11-06T02:10:05+00:00",
+   "summary": "The proposed policy would let qualifying transfers proceed without another governance vote, changing who users rely on for upgrades. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "884270590b",
+   "title": "Bitcoin developer proposes \u2018landmines\u2019 to make quantum thieves lose their own BTC",
+   "date": "2026-11-06T01:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin developer proposes \u2018landmines\u2019 to make quantum thieves lose their own BTC",
+     "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+     "date": "2026-11-06T01:30:00+00:00",
+     "summary": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T01:30:00+00:00",
+   "last_seen": "2026-11-06T01:30:00+00:00",
+   "summary": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "e677ff2c08",
+   "title": "Loopscale Partly Restores Loan Functions, Keeps Vault Withdrawals Frozen",
+   "date": "2026-11-06T00:42:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Loopscale Partly Restores Loan Functions, Keeps Vault Withdrawals Frozen",
+     "url": "https://thedefiant.io/news/hacks/loopscale-partly-restores-loan-functions-keeps-vault-withdrawals-frozen",
+     "date": "2026-11-06T00:42:07+00:00",
+     "summary": "Repayments and collateral withdrawals remain disabled for USDC Genesis-funded loans as the Solana lender details two attack paths."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T00:42:07+00:00",
+   "last_seen": "2026-11-06T00:42:07+00:00",
+   "summary": "Repayments and collateral withdrawals remain disabled for USDC Genesis-funded loans as the Solana lender details two attack paths.",
+   "tags": [
+    "security",
+    "solana",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "7ef90260af",
+   "title": "Gate boasts 104% cold reserve coverage, but separate snapshot dates raise red flags",
+   "date": "2026-11-06T00:40:44+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Gate boasts 104% cold reserve coverage, but separate snapshot dates raise red flags",
+     "url": "https://cryptoslate.com/gate-boasts-104-cold-reserve-coverage-but-separate-snapshot-dates-raise-red-flags/",
+     "date": "2026-11-06T00:40:44+00:00",
+     "summary": "Its new hot-wallet loss test uses separate measurement bases, while independent verification of current PoSEC data remains in progress. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T00:40:44+00:00",
+   "last_seen": "2026-11-06T00:40:44+00:00",
+   "summary": "Its new hot-wallet loss test uses separate measurement bases, while independent verification of current PoSEC data remains in progress. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "182449c767",
+   "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+   "date": "2026-11-06T00:19:49+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+     "url": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T00:19:49+00:00",
+     "summary": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T00:19:49+00:00",
+   "last_seen": "2026-11-06T00:19:49+00:00",
+   "summary": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
   {
    "id": "cc02f400bb",
    "title": "Treasury bought back $6B in bonds, but dealers say bigger isn\u2019t enough",

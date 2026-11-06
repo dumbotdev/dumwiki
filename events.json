@@ -1,6 +1,1138 @@
 {
- "updated": "2026-11-06T06:58:36.789592+00:00",
+ "updated": "2026-11-06T15:09:08.608714+00:00",
  "events": [
+  {
+   "id": "b8a23549eb",
+   "title": "Rule to Allow Crypto in 401(k)s Arrives at White House for Final Review",
+   "date": "2026-11-06T15:09:02+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Rule to Allow Crypto in 401(k)s Arrives at White House for Final Review",
+     "url": "https://bitcoinmagazine.com/news/dol-rule-crypto-401k-white-house-review",
+     "date": "2026-11-06T15:09:02+00:00",
+     "summary": "Bitcoin Magazine Rule to Allow Crypto in 401(k)s Arrives at White House for Final Review A final Labor Department rule that would create a fiduciary safe harbor for private equity, real estate and crypto in 401(k) menus arrived at OIRA on Thursday, putting public release within..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T15:09:02+00:00",
+   "last_seen": "2026-11-06T15:09:02+00:00",
+   "summary": "Bitcoin Magazine Rule to Allow Crypto in 401(k)s Arrives at White House for Final Review A final Labor Department rule that would create a fiduciary safe harbor for private equity, real estate and crypto in 401(k) menus arrived at OIRA on Thursday, putting public release within...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "9502fcbe9c",
+   "title": "Gnosis Pay Confirms Breach of Consumer-Card System",
+   "date": "2026-11-06T15:01:29+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Gnosis Pay Confirms Breach of Consumer-Card System",
+     "url": "https://thedefiant.io/news/security/gnosis-pay-confirms-breach-of-consumer-card-system",
+     "date": "2026-11-06T15:01:29+00:00",
+     "summary": "The company says funds and its enterprise platform were unaffected, but has not disclosed how many customers were hit."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T15:01:29+00:00",
+   "last_seen": "2026-11-06T15:01:29+00:00",
+   "summary": "The company says funds and its enterprise platform were unaffected, but has not disclosed how many customers were hit.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "5ad37dd949",
+   "title": "Aave Labs buys Avon team in fixed-rate lending push",
+   "date": "2026-11-06T15:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Aave Labs buys Avon team in fixed-rate lending push",
+     "url": "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
+     "date": "2026-11-06T15:00:00+00:00",
+     "summary": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T15:00:00+00:00",
+   "last_seen": "2026-11-06T15:00:00+00:00",
+   "summary": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "57ae5aba6b",
+   "title": "Rotki Founder Says Gnosis Pay Exposed His Address, Card and Wallet Details",
+   "date": "2026-11-06T14:34:02+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Rotki Founder Says Gnosis Pay Exposed His Address, Card and Wallet Details",
+     "url": "https://thedefiant.io/news/security/rotki-founder-says-gnosis-pay-exposed-his-address-card-and-wallet-details",
+     "date": "2026-11-06T14:34:02+00:00",
+     "summary": "A notification screenshot he shared describes unauthorized access to the consumer-card system on Nov. 3 and says enterprise programs were unaffected."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T14:34:02+00:00",
+   "last_seen": "2026-11-06T14:34:02+00:00",
+   "summary": "A notification screenshot he shared describes unauthorized access to the consumer-card system on Nov. 3 and says enterprise programs were unaffected.",
+   "tags": []
+  },
+  {
+   "id": "7b6f22fe88",
+   "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+   "date": "2026-11-06T14:33:49+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+     "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+     "date": "2026-11-06T14:33:49+00:00",
+     "summary": "Thailand\u2019s SEC filed a criminal complaint against Bitget\u2019s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T14:33:49+00:00",
+   "last_seen": "2026-11-06T14:33:49+00:00",
+   "summary": "Thailand\u2019s SEC filed a criminal complaint against Bitget\u2019s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025.",
+   "tags": [
+    "exchanges",
+    "funding",
+    "regulation"
+   ]
+  },
+  {
+   "id": "3a6ec8c29f",
+   "title": "Bank of England raises rates to 4% as it forecasts inflation near 5% next year",
+   "date": "2026-11-06T14:30:41+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bank of England raises rates to 4% as it forecasts inflation near 5% next year",
+     "url": "https://cryptoslate.com/bank-of-england-raises-rates-to-4-as-it-forecasts-inflation-near-5-next-year/",
+     "date": "2026-11-06T14:30:41+00:00",
+     "summary": "Energy inflation has prompted UK tightening, while any pressure on Bitcoin depends on financing conditions and investor demand. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T14:30:41+00:00",
+   "last_seen": "2026-11-06T14:30:41+00:00",
+   "summary": "Energy inflation has prompted UK tightening, while any pressure on Bitcoin depends on financing conditions and investor demand. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "f70a8e0438",
+   "title": "Bitcoin Price Holds Near $75,000 After Hot October Jobs Report",
+   "date": "2026-11-06T14:30:11+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Holds Near $75,000 After Hot October Jobs Report",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-75800-jobs",
+     "date": "2026-11-06T14:30:11+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Holds Near $75,000 After Hot October Jobs Report Bitcoin price held near $75,800 Friday after U.S. employers added 165,000 jobs in October, far above the 59,000 forecast, as December Fed hike odds climbed toward 80%. This post Bitcoin Price Holds..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T14:30:11+00:00",
+   "last_seen": "2026-11-06T14:30:11+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Holds Near $75,000 After Hot October Jobs Report Bitcoin price held near $75,800 Friday after U.S. employers added 165,000 jobs in October, far above the 59,000 forecast, as December Fed hike odds climbed toward 80%. This post Bitcoin Price Holds...",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "c1b579fc94",
+   "title": "What Democrats\u2019 US midterm sweep means for the CLARITY Act",
+   "date": "2026-11-06T14:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "What Democrats\u2019 US midterm sweep means for the CLARITY Act",
+     "url": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T14:30:00+00:00",
+     "summary": "The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T14:30:00+00:00",
+   "last_seen": "2026-11-06T14:30:00+00:00",
+   "summary": "The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "2c4924235f",
+   "title": "South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat",
+   "date": "2026-11-06T14:22:23+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat",
+     "url": "https://bitcoinmagazine.com/news/gopax-suspends-withdrawals-hacking-threat",
+     "date": "2026-11-06T14:22:23+00:00",
+     "summary": "Bitcoin Magazine South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat South Korea's Gopax halted standard withdrawals at 2:55 p.m. and trading at 3:53 p.m. Friday after a hacking-threat email, and is transferring all held assets to cold..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T14:22:23+00:00",
+   "last_seen": "2026-11-06T14:22:23+00:00",
+   "summary": "Bitcoin Magazine South Korean Crypto Exchange Gopax Suspends Withdrawals and Trading After Hacking Threat South Korea's Gopax halted standard withdrawals at 2:55 p.m. and trading at 3:53 p.m. Friday after a hacking-threat email, and is transferring all held assets to cold...",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "230b3962c0",
+   "title": "What Are Crypto Derivatives? Futures, Perpetuals and Options Explained",
+   "date": "2026-11-06T14:16:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "What Are Crypto Derivatives? Futures, Perpetuals and Options Explained",
+     "url": "https://thedefiant.io/news/markets/what-are-crypto-derivatives-futures-perpetuals-and-options-explained",
+     "date": "2026-11-06T14:16:18+00:00",
+     "summary": "Futures bind both sides to settlement obligations. Options give buyers a right in exchange for a premium, while sellers take the corresponding obligation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T14:16:18+00:00",
+   "last_seen": "2026-11-06T14:16:18+00:00",
+   "summary": "Futures bind both sides to settlement obligations. Options give buyers a right in exchange for a premium, while sellers take the corresponding obligation.",
+   "tags": [
+    "exchanges",
+    "legal"
+   ]
+  },
+  {
+   "id": "07ef78434b",
+   "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+   "date": "2026-11-06T14:04:18+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+     "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+     "date": "2026-11-06T14:04:18+00:00",
+     "summary": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T14:04:18+00:00",
+   "last_seen": "2026-11-06T14:04:18+00:00",
+   "summary": "The attackers have used more than 20,000 wallets on 16 blockchains so far, but the bulk of the stolen ETH and Bitcoin hasn't moved.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "1ea3107779",
+   "title": "Treasury and Fed Withdraw Plan for $250 Cross-Border Travel Rule Threshold",
+   "date": "2026-11-06T14:04:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Treasury and Fed Withdraw Plan for $250 Cross-Border Travel Rule Threshold",
+     "url": "https://thedefiant.io/news/regulation/treasury-and-fed-withdraw-plan-for-250-cross-border-travel-rule-threshold",
+     "date": "2026-11-06T14:04:06+00:00",
+     "summary": "The $3,000 threshold remains in place, including for qualifying crypto transfers under FinCEN's existing guidance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T14:04:06+00:00",
+   "last_seen": "2026-11-06T14:04:06+00:00",
+   "summary": "The $3,000 threshold remains in place, including for qualifying crypto transfers under FinCEN's existing guidance.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "97d266d11a",
+   "title": "Bitcoin Gains Drive Strive's $474.8 Million Q3 Profit",
+   "date": "2026-11-06T14:03:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Gains Drive Strive's $474.8 Million Q3 Profit",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/bitcoin-gains-drive-strive-s-474-8-million-q3-profit",
+     "date": "2026-11-06T14:03:00+00:00",
+     "summary": "SATA and SATS imply about $287.4 million in annual dividends at November rates and Oct. 30 share counts, a cost excluded from its Bitcoin Yield metric."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T14:03:00+00:00",
+   "last_seen": "2026-11-06T14:03:00+00:00",
+   "summary": "SATA and SATS imply about $287.4 million in annual dividends at November rates and Oct. 30 share counts, a cost excluded from its Bitcoin Yield metric.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "macro"
+   ]
+  },
+  {
+   "id": "73f392651e",
+   "title": "Argentine Bitcoiners Debut \u201cThe Genesis of Satoshi Nakamoto\u201d Artwork in Downtown Buenos Aires",
+   "date": "2026-11-06T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Argentine Bitcoiners Debut \u201cThe Genesis of Satoshi Nakamoto\u201d Artwork in Downtown Buenos Aires",
+     "url": "https://bitcoinmagazine.com/culture/argentine-bitcoiners-debut-the-genesis-of-satoshi-nakamoto-artwork-in-downtown-buenos-aires",
+     "date": "2026-11-06T14:00:00+00:00",
+     "summary": "Bitcoin Magazine Argentine Bitcoiners Debut \u201cThe Genesis of Satoshi Nakamoto\u201d Artwork in Downtown Buenos Aires Bitcoin.ar presented the 2.4-meter stainless steel and glass cube \u201cThe Genesis of Satoshi Nakamoto\u201d on October 29 at Polo Dot as part of LABITCONF 2026\u2019s Open Fest...."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T14:00:00+00:00",
+   "last_seen": "2026-11-06T14:00:00+00:00",
+   "summary": "Bitcoin Magazine Argentine Bitcoiners Debut \u201cThe Genesis of Satoshi Nakamoto\u201d Artwork in Downtown Buenos Aires Bitcoin.ar presented the 2.4-meter stainless steel and glass cube \u201cThe Genesis of Satoshi Nakamoto\u201d on October 29 at Polo Dot as part of LABITCONF 2026\u2019s Open Fest....",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "55fba6bab1",
+   "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+   "date": "2026-11-06T13:57:14+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+     "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T13:57:14+00:00",
+     "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T13:57:14+00:00",
+   "last_seen": "2026-11-06T13:57:14+00:00",
+   "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services.",
+   "tags": []
+  },
+  {
+   "id": "aeb917a11c",
+   "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
+   "date": "2026-11-06T13:53:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
+     "url": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
+     "date": "2026-11-06T13:53:04+00:00",
+     "summary": "The Tesla CEO said the Texas plant will make room for the Cybercab, as sales of the stainless-steel pickup run far below capacity."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T13:53:04+00:00",
+   "last_seen": "2026-11-06T13:53:04+00:00",
+   "summary": "The Tesla CEO said the Texas plant will make room for the Cybercab, as sales of the stainless-steel pickup run far below capacity.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "cc32c177c2",
+   "title": "Safe Says $12.4 Billion of Smart-Account Assets Sits in DeFi",
+   "date": "2026-11-06T13:50:01+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Safe Says $12.4 Billion of Smart-Account Assets Sits in DeFi",
+     "url": "https://thedefiant.io/news/defi/safe-says-12-4-billion-of-smart-account-assets-sits-in-defi",
+     "date": "2026-11-06T13:50:01+00:00",
+     "summary": "The figure is net of $2.37 billion in borrowing. Safe's published third-quarter report gives the $57.64 billion total but not the DeFi split."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T13:50:01+00:00",
+   "last_seen": "2026-11-06T13:50:01+00:00",
+   "summary": "The figure is net of $2.37 billion in borrowing. Safe's published third-quarter report gives the $57.64 billion total but not the DeFi split.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "55419e5e69",
+   "title": "Cheap online services routed web traffic through a White House-linked network, researchers say",
+   "date": "2026-11-06T13:48:19+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Cheap online services routed web traffic through a White House-linked network, researchers say",
+     "url": "https://cryptoslate.com/cheap-online-services-routed-web-traffic-through-a-white-house-linked-network-researchers-say/",
+     "date": "2026-11-06T13:48:19+00:00",
+     "summary": "The firm says six public addresses appeared across 28 services, while its data identifies neither the device nor the person. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T13:48:19+00:00",
+   "last_seen": "2026-11-06T13:48:19+00:00",
+   "summary": "The firm says six public addresses appeared across 28 services, while its data identifies neither the device nor the person. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "5567615699",
+   "title": "TeraWulf\u2019s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
+   "date": "2026-11-06T13:40:22+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "TeraWulf\u2019s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
+     "url": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
+     "date": "2026-11-06T13:40:22+00:00",
+     "summary": "TeraWulf reported $63 million in artificial intelligence-related quarterly HPC lease revenue, up 774% year over year."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T13:40:22+00:00",
+   "last_seen": "2026-11-06T13:40:22+00:00",
+   "summary": "TeraWulf reported $63 million in artificial intelligence-related quarterly HPC lease revenue, up 774% year over year.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "e3e9a3ec8d",
+   "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+   "date": "2026-11-06T13:31:54+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+     "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+     "date": "2026-11-06T13:31:54+00:00",
+     "summary": "The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T13:31:54+00:00",
+   "last_seen": "2026-11-06T13:31:54+00:00",
+   "summary": "The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "69375f36ff",
+   "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
+   "date": "2026-11-06T13:29:20+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
+     "url": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
+     "date": "2026-11-06T13:29:20+00:00",
+     "summary": "Thursday marked a massive reversal and historic selloff for AI stocks, and crypto was not immune. What held up the strongest?"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T13:29:20+00:00",
+   "last_seen": "2026-11-06T13:29:20+00:00",
+   "summary": "Thursday marked a massive reversal and historic selloff for AI stocks, and crypto was not immune. What held up the strongest?",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "52c3021616",
+   "title": "Ethereum devs won\u2019t fork Glamsterdam on Hoodi until smart contract risks resolved",
+   "date": "2026-11-06T13:23:08+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ethereum devs won\u2019t fork Glamsterdam on Hoodi until smart contract risks resolved",
+     "url": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T13:23:08+00:00",
+     "summary": "Ethereum developers are investigating concerns tied to eight smart contract invariants tied to Glamsterdam\u2019s EIP-8037 and EIP-8038."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T13:23:08+00:00",
+   "last_seen": "2026-11-06T13:23:08+00:00",
+   "summary": "Ethereum developers are investigating concerns tied to eight smart contract invariants tied to Glamsterdam\u2019s EIP-8037 and EIP-8038.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "ebad5be30f",
+   "title": "Hypercall to launch first Anthropic-linked pre-IPO options market",
+   "date": "2026-11-06T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Hypercall to launch first Anthropic-linked pre-IPO options market",
+     "url": "https://www.theblock.co/news/markets/2026-11-06-hypercall-anthropic-linked-pre-ipo-options-market-435453",
+     "date": "2026-11-06T13:00:00+00:00",
+     "summary": "Trading is expected to begin Monday, with calls, puts and more complex strategies available in select non-US jurisdictions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T13:00:00+00:00",
+   "last_seen": "2026-11-06T13:00:00+00:00",
+   "summary": "Trading is expected to begin Monday, with calls, puts and more complex strategies available in select non-US jurisdictions.",
+   "tags": []
+  },
+  {
+   "id": "83decc8573",
+   "title": "Bank of Russia Clears Bitcoin, Ether and USDT Rules for Nov. 17",
+   "date": "2026-11-06T12:51:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bank of Russia Clears Bitcoin, Ether and USDT Rules for Nov. 17",
+     "url": "https://thedefiant.io/converge/regulation/bank-of-russia-clears-bitcoin-ether-and-usdt-rules-for-nov-17",
+     "date": "2026-11-06T12:51:42+00:00",
+     "summary": "Non-qualified investors face testing and a 300,000-ruble annual purchase cap per intermediary, while Moscow Exchange targets a Dec. 1 rollout."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T12:51:42+00:00",
+   "last_seen": "2026-11-06T12:51:42+00:00",
+   "summary": "Non-qualified investors face testing and a 300,000-ruble annual purchase cap per intermediary, while Moscow Exchange targets a Dec. 1 rollout.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "18994835cf",
+   "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
+   "date": "2026-11-06T12:33:31+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
+     "url": "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows-amid-post-midterm-market-slide-435873",
+     "date": "2026-11-06T12:33:31+00:00",
+     "summary": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T12:33:31+00:00",
+   "last_seen": "2026-11-06T12:33:31+00:00",
+   "summary": "U.S. spot crypto ETFs slumped back to net outflows on Thursday, with more than $540 million in withdrawals across major products.",
+   "tags": [
+    "etfs"
+   ]
+  },
+  {
+   "id": "17718297a9",
+   "title": "NYSE-backed crypto venture faces 90% stock rejection as $92 liquidity problem threatens tokenization dream",
+   "date": "2026-11-06T12:30:58+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "NYSE-backed crypto venture faces 90% stock rejection as $92 liquidity problem threatens tokenization dream",
+     "url": "https://cryptoslate.com/nyse-backed-crypto-venture-faces-90-stock-rejection-as-92-liquidity-problem-threatens-tokenization-dream/",
+     "date": "2026-11-06T12:30:58+00:00",
+     "summary": "Its November 4 notice says the operator and affiliates will abstain from providing liquidity, leaving eligible outside participants to supply the planned pools. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T12:30:58+00:00",
+   "last_seen": "2026-11-06T12:30:58+00:00",
+   "summary": "Its November 4 notice says the operator and affiliates will abstain from providing liquidity, leaving eligible outside participants to supply the planned pools. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst...",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "869a1dcb6a",
+   "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+   "date": "2026-11-06T12:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+     "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+     "date": "2026-11-06T12:30:00+00:00",
+     "summary": "Your day-ahead look for Nov. 6, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T12:30:00+00:00",
+   "last_seen": "2026-11-06T12:30:00+00:00",
+   "summary": "Your day-ahead look for Nov. 6, 2026",
+   "tags": [
+    "etfs"
+   ]
+  },
+  {
+   "id": "2a76f314e2",
+   "title": "Solana\u2019s Shanghai event halted over unauthorized promotion: Report",
+   "date": "2026-11-06T12:15:28+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Solana\u2019s Shanghai event halted over unauthorized promotion: Report",
+     "url": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T12:15:28+00:00",
+     "summary": "Solana\u2019s promotional campaigns through domestic entities allegedly violated China\u2019s crypto-related restrictions, an unidentified PBOC official told China\u2019s Financial News."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T12:15:28+00:00",
+   "last_seen": "2026-11-06T12:15:28+00:00",
+   "summary": "Solana\u2019s promotional campaigns through domestic entities allegedly violated China\u2019s crypto-related restrictions, an unidentified PBOC official told China\u2019s Financial News.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "c7c4631ed3",
+   "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
+   "date": "2026-11-06T11:58:40+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
+     "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+     "date": "2026-11-06T11:58:40+00:00",
+     "summary": "Chip stocks were leading a rebound in the broader market on Friday following yesterday's washout."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T11:58:40+00:00",
+   "last_seen": "2026-11-06T11:58:40+00:00",
+   "summary": "Chip stocks were leading a rebound in the broader market on Friday following yesterday's washout.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "6a512280a6",
+   "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+   "date": "2026-11-06T11:49:35+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+     "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+     "date": "2026-11-06T11:49:35+00:00",
+     "summary": "Bitcoin bounced from around $75,200 after Thursday\u2019s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T11:49:35+00:00",
+   "last_seen": "2026-11-06T11:49:35+00:00",
+   "summary": "Bitcoin bounced from around $75,200 after Thursday\u2019s AI-led selloff, which drove more than $1 billion in liquidations, as traders await the U.S. jobs report.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "47620a4e4f",
+   "title": "Nigeria\u2019s central bank introduces stablecoin licensing rules, bans algorithmic versions",
+   "date": "2026-11-06T11:43:44+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Nigeria\u2019s central bank introduces stablecoin licensing rules, bans algorithmic versions",
+     "url": "https://www.theblock.co/news/regulation/2026-11-06-nigerias-central-bank-introduces-stablecoin-licensing-rules-bans-algorithmic-versions-435867",
+     "date": "2026-11-06T11:43:44+00:00",
+     "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T11:43:44+00:00",
+   "last_seen": "2026-11-06T11:43:44+00:00",
+   "summary": "Nigeria's central bank issued new virtual asset regulations requiring stablecoin issuers and other service providers to obtain local licenses.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "2768a91c3f",
+   "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+   "date": "2026-11-06T11:26:30+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+     "url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T11:26:30+00:00",
+     "summary": "The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T11:26:30+00:00",
+   "last_seen": "2026-11-06T11:26:30+00:00",
+   "summary": "The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "e47da6d391",
+   "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+   "date": "2026-11-06T11:16:53+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+     "url": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T11:16:53+00:00",
+     "summary": "Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T11:16:53+00:00",
+   "last_seen": "2026-11-06T11:16:53+00:00",
+   "summary": "Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "markets",
+    "regulation"
+   ]
+  },
+  {
+   "id": "acd0e917d6",
+   "title": "FBI agent drains crypto wallets tied to 35 investigations, steals $2.47 million and plans Portugal escape",
+   "date": "2026-11-06T11:10:46+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "FBI agent drains crypto wallets tied to 35 investigations, steals $2.47 million and plans Portugal escape",
+     "url": "https://cryptoslate.com/fbi-agent-drains-crypto-wallets-tied-to-35-investigations-steals-2-47-million-and-plans-portugal-escape/",
+     "date": "2026-11-06T11:10:46+00:00",
+     "summary": "Patrick Steven Yaroch used credentials tied to 35 investigations for about 100 fraudulent transfers, according to DOJ. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T11:10:46+00:00",
+   "last_seen": "2026-11-06T11:10:46+00:00",
+   "summary": "Patrick Steven Yaroch used credentials tied to 35 investigations for about 100 fraudulent transfers, according to DOJ. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "de661645ee",
+   "title": "Binance Hackers Swap $50 Million in XRP, Mostly Into Bitcoin, Elliptic Says",
+   "date": "2026-11-06T11:06:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Hackers Swap $50 Million in XRP, Mostly Into Bitcoin, Elliptic Says",
+     "url": "https://thedefiant.io/news/hacks/binance-hackers-swap-50-million-in-xrp-mostly-into-bitcoin-elliptic-says",
+     "date": "2026-11-06T11:06:26+00:00",
+     "summary": "Bitcoin obtained from other stolen assets nearly doubled in a day to 1,650 BTC, while the main ETH and bitcoin holdings remain untouched."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says",
+     "url": "https://bitcoinmagazine.com/news/binance-hackers-swap-50m-xrp-bitcoin",
+     "date": "2026-11-06T14:50:00+00:00",
+     "summary": "Bitcoin Magazine Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says About 42 million stolen XRP, worth roughly $50 million, has been swapped mostly into bitcoin via THORChain, Elliptic said, lifting converted bitcoin from the Binance theft to..."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-06T11:06:26+00:00",
+   "last_seen": "2026-11-06T14:50:00+00:00",
+   "summary": "Bitcoin Magazine Binance Hackers Swap About $50 Million of Stolen XRP Mostly Into Bitcoin, Elliptic Says About 42 million stolen XRP, worth roughly $50 million, has been swapped mostly into bitcoin via THORChain, Elliptic said, lifting converted bitcoin from the Binance theft to...",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "d2627598d3",
+   "title": "Greece approves 10% tax on crypto gains starting in 2027",
+   "date": "2026-11-06T11:05:36+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Greece approves 10% tax on crypto gains starting in 2027",
+     "url": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T11:05:36+00:00",
+     "summary": "Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T11:05:36+00:00",
+   "last_seen": "2026-11-06T11:05:36+00:00",
+   "summary": "Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros.",
+   "tags": []
+  },
+  {
+   "id": "7b962a8528",
+   "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
+   "date": "2026-11-06T10:47:33+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
+     "url": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T10:47:33+00:00",
+     "summary": "South Korea\u2019s GOPAX suspended trading, deposits and standard withdrawals after a hacking threat, with manual withdrawals available through support."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T10:47:33+00:00",
+   "last_seen": "2026-11-06T10:47:33+00:00",
+   "summary": "South Korea\u2019s GOPAX suspended trading, deposits and standard withdrawals after a hacking threat, with manual withdrawals available through support.",
+   "tags": []
+  },
+  {
+   "id": "79fe8ea783",
+   "title": "Binance\u2019s $6.3B hack leaves questions over hot wallet safeguards",
+   "date": "2026-11-06T10:40:57+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance\u2019s $6.3B hack leaves questions over hot wallet safeguards",
+     "url": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T10:40:57+00:00",
+     "summary": "Experts say blockchain records show repeated wallet drains but cannot establish Binance\u2019s internal signing controls or transaction limits."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T10:40:57+00:00",
+   "last_seen": "2026-11-06T10:40:57+00:00",
+   "summary": "Experts say blockchain records show repeated wallet drains but cannot establish Binance\u2019s internal signing controls or transaction limits.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "bfadcc73d5",
+   "title": "Ethereum Foundation Calls for Contract Checks After Glamsterdam Security Findings",
+   "date": "2026-11-06T10:27:22+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ethereum Foundation Calls for Contract Checks After Glamsterdam Security Findings",
+     "url": "https://thedefiant.io/news/security/ethereum-foundation-calls-for-contract-checks-after-glamsterdam-security-findings",
+     "date": "2026-11-06T10:27:22+00:00",
+     "summary": "Most findings involve fixed gas budgets and reserves. The Hoodi testnet upgrade remains paused, with no confirmed mainnet activation date."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T10:27:22+00:00",
+   "last_seen": "2026-11-06T10:27:22+00:00",
+   "summary": "Most findings involve fixed gas budgets and reserves. The Hoodi testnet upgrade remains paused, with no confirmed mainnet activation date.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "507f8d99dd",
+   "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
+   "date": "2026-11-06T10:13:27+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
+     "url": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
+     "date": "2026-11-06T10:13:27+00:00",
+     "summary": "The Network Sustainability Mechanism will reissue removed ZEC from 2031 within the 21 million cap, as the community debates its dev fund."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T10:13:27+00:00",
+   "last_seen": "2026-11-06T10:13:27+00:00",
+   "summary": "The Network Sustainability Mechanism will reissue removed ZEC from 2031 within the 21 million cap, as the community debates its dev fund.",
+   "tags": []
+  },
+  {
+   "id": "681fe5626d",
+   "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
+   "date": "2026-11-06T09:55:27+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
+     "url": "https://cryptoslate.com/bitcoin-and-ethereum-etfs-lose-530-million-in-one-day-as-3-trillion-wall-street-wipeout-rattles-crypto/",
+     "date": "2026-11-06T09:55:27+00:00",
+     "summary": "Six funds recorded withdrawals on November 5, leaving this week&#039;s ETF demand recovery short-lived. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T09:55:27+00:00",
+   "last_seen": "2026-11-06T09:55:27+00:00",
+   "summary": "Six funds recorded withdrawals on November 5, leaving this week&#039;s ETF demand recovery short-lived. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "142884e988",
+   "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+   "date": "2026-11-06T09:53:27+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+     "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+     "date": "2026-11-06T09:53:27+00:00",
+     "summary": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T09:53:27+00:00",
+   "last_seen": "2026-11-06T09:53:27+00:00",
+   "summary": "Bitcoin recovered above $76,000 Friday after dropping below that level during Thursday's tech-driven market rout.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "60bee9eeb9",
+   "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+   "date": "2026-11-06T09:00:36+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+     "url": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T09:00:36+00:00",
+     "summary": "Zcash\u2019s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T09:00:36+00:00",
+   "last_seen": "2026-11-06T09:00:36+00:00",
+   "summary": "Zcash\u2019s NU7 upgrade has rendered about $15 million in legacy Sprout funds unspendable, although a future network upgrade could potentially restore access.",
+   "tags": []
+  },
+  {
+   "id": "053e746f42",
+   "title": "XRP sellers face massive slip as USD order book depth fakes size",
+   "date": "2026-11-06T08:50:00+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP sellers face massive slip as USD order book depth fakes size",
+     "url": "https://cryptoslate.com/xrp-sellers-face-massive-slip-as-usd-order-book-depth-fakes-size/",
+     "date": "2026-11-06T08:50:00+00:00",
+     "summary": "At the November 4 close, a capped sample of Bitstamp-issued USD offers held less funded inventory than the smaller RLUSD book. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T08:50:00+00:00",
+   "last_seen": "2026-11-06T08:50:00+00:00",
+   "summary": "At the November 4 close, a capped sample of Bitstamp-issued USD offers held less funded inventory than the smaller RLUSD book. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "753e5edee5",
+   "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+   "date": "2026-11-06T08:47:42+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+     "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+     "date": "2026-11-06T08:47:42+00:00",
+     "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T08:47:42+00:00",
+   "last_seen": "2026-11-06T08:47:42+00:00",
+   "summary": "Investors will have 12 months to declare past crypto gains without late-filing penalties, though questions remain over crypto-to-crypto swaps.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "2bbd52c546",
+   "title": "Hyperliquid Strategies seeks futures registration for perps",
+   "date": "2026-11-06T08:42:54+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Hyperliquid Strategies seeks futures registration for perps",
+     "url": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T08:42:54+00:00",
+     "summary": "The HYPE treasury company spent $785 million on tokens during the quarter and wants to bring Hyperliquid-based perpetual futures to the US."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T08:42:54+00:00",
+   "last_seen": "2026-11-06T08:42:54+00:00",
+   "summary": "The HYPE treasury company spent $785 million on tokens during the quarter and wants to bring Hyperliquid-based perpetual futures to the US.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "94513c5cc3",
+   "title": "Kalshi hit with injunction over sports contracts on California tribal lands",
+   "date": "2026-11-06T08:34:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Kalshi hit with injunction over sports contracts on California tribal lands",
+     "url": "https://www.theblock.co/news/business/2026-11-06-kalshi-injunction-california-tribal-lands-435813",
+     "date": "2026-11-06T08:34:02+00:00",
+     "summary": "A federal judge has granted the preliminary injunction to bar Kalshi from offering sports contracts on the lands of two California tribes."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T08:34:02+00:00",
+   "last_seen": "2026-11-06T08:34:02+00:00",
+   "summary": "A federal judge has granted the preliminary injunction to bar Kalshi from offering sports contracts on the lands of two California tribes.",
+   "tags": []
+  },
+  {
+   "id": "2df77b691a",
+   "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+   "date": "2026-11-06T08:19:18+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+     "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T08:19:18+00:00",
+     "summary": "US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T08:19:18+00:00",
+   "last_seen": "2026-11-06T08:19:18+00:00",
+   "summary": "US spot Bitcoin and Ether ETFs shed a combined $530 million Thursday as Bitcoin fell below $76,000 and US stocks tumbled.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "74f3f5a853",
+   "title": "iPhone Wallet Theft Probe Traces $4.06 Million in TRON Drains",
+   "date": "2026-11-06T08:13:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "iPhone Wallet Theft Probe Traces $4.06 Million in TRON Drains",
+     "url": "https://thedefiant.io/news/hacks/iphone-wallet-theft-probe-traces-4-06-million-in-tron-drains",
+     "date": "2026-11-06T08:13:07+00:00",
+     "summary": "Trust Wallet warns that DarkSword and Coruna exploit older iOS versions to access wallet data, rather than flaws in wallet apps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T08:13:07+00:00",
+   "last_seen": "2026-11-06T08:13:07+00:00",
+   "summary": "Trust Wallet warns that DarkSword and Coruna exploit older iOS versions to access wallet data, rather than flaws in wallet apps.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "634ab9b181",
+   "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+   "date": "2026-11-06T08:04:52+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+     "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+     "date": "2026-11-06T08:04:52+00:00",
+     "summary": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T08:04:52+00:00",
+   "last_seen": "2026-11-06T08:04:52+00:00",
+   "summary": "The crypto venture may use fees from its USD1 stablecoin reserves to fund token purchases as it seeks to boost governance.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "d89a7a3a63",
+   "title": "Zcash\u2019s major network upgrade NU7 goes live on mainnet, cutting block time by threefold",
+   "date": "2026-11-06T07:36:42+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Zcash\u2019s major network upgrade NU7 goes live on mainnet, cutting block time by threefold",
+     "url": "https://www.theblock.co/news/defi/2026-11-06-zcashs-nu7-goes-live-435807",
+     "date": "2026-11-06T07:36:42+00:00",
+     "summary": "NU7 also activates the Network Sustainability Mechanism, which removes 60% of each block's transaction fees from circulation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T07:36:42+00:00",
+   "last_seen": "2026-11-06T07:36:42+00:00",
+   "summary": "NU7 also activates the Network Sustainability Mechanism, which removes 60% of each block's transaction fees from circulation.",
+   "tags": []
+  },
+  {
+   "id": "6ac680a00b",
+   "title": "Ether Falls 8.5% to $2,220, Lagging Bitcoin",
+   "date": "2026-11-06T07:17:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ether Falls 8.5% to $2,220, Lagging Bitcoin",
+     "url": "https://thedefiant.io/news/markets/ether-falls-8-5-to-2-220-lagging-bitcoin",
+     "date": "2026-11-06T07:17:37+00:00",
+     "summary": "US ether ETFs recorded $99.9 million in net withdrawals on Nov. 5, reversing the previous day's $53 million inflow."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T07:17:37+00:00",
+   "last_seen": "2026-11-06T07:17:37+00:00",
+   "summary": "US ether ETFs recorded $99.9 million in net withdrawals on Nov. 5, reversing the previous day's $53 million inflow.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "3d3aa42e67",
+   "title": "Chainalysis says breach exposed password hashes and live tokens",
+   "date": "2026-11-06T06:54:34+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Chainalysis says breach exposed password hashes and live tokens",
+     "url": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T06:54:34+00:00",
+     "summary": "Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T06:54:34+00:00",
+   "last_seen": "2026-11-06T06:54:34+00:00",
+   "summary": "Chainalysis disclosed password hashes and live tokens were exposed after initially reporting only non-sensitive customer data was accessed.",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "91f0c25806",
    "title": "Bitcoin\u2019s rate cut relief stalls as service inflation flares",
@@ -453,14 +1585,22 @@
      "url": "https://thedefiant.io/news/security/former-fbi-agent-pleads-guilty-to-2-47-million-crypto-theft",
      "date": "2026-11-05T21:53:55+00:00",
      "summary": "Prosecutors say Patrick Steven Yaroch used credentials tied to 35 FBI investigations, compromising cases and intelligence sources and methods."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+     "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+     "date": "2026-11-06T10:57:06+00:00",
+     "summary": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-05T21:53:55+00:00",
-   "last_seen": "2026-11-05T21:53:55+00:00",
+   "last_seen": "2026-11-06T10:57:06+00:00",
    "summary": "Prosecutors say Patrick Steven Yaroch used credentials tied to 35 FBI investigations, compromising cases and intelligence sources and methods.",
    "tags": [
-    "ai"
+    "ai",
+    "security"
    ]
   },
   {
@@ -918,12 +2058,19 @@
      "url": "https://thedefiant.io/converge/regulation/sec-crypto-broker-rule-enters-white-house-review",
      "date": "2026-11-05T18:55:08+00:00",
      "summary": "The planned amendments cover capital requirements, customer-asset safeguards and recordkeeping for broker-dealers handling crypto assets."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Crypto 401(k) Rule Enters Final White House Review",
+     "url": "https://thedefiant.io/converge/regulation/crypto-401-k-rule-enters-final-white-house-review",
+     "date": "2026-11-06T14:39:57+00:00",
+     "summary": "Labor\u2019s public proposal would give plan fiduciaries a process-based safe harbor for investment decisions involving crypto and other assets."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-11-05T18:55:08+00:00",
-   "last_seen": "2026-11-05T18:55:08+00:00",
-   "summary": "The planned amendments cover capital requirements, customer-asset safeguards and recordkeeping for broker-dealers handling crypto assets.",
+   "last_seen": "2026-11-06T14:39:57+00:00",
+   "summary": "Labor\u2019s public proposal would give plan fiduciaries a process-based safe harbor for investment decisions involving crypto and other assets.",
    "tags": [
     "regulation"
    ]

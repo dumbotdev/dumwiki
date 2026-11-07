@@ -1,6 +1,152 @@
 {
- "updated": "2026-11-07T18:51:24.082463+00:00",
+ "updated": "2026-11-07T22:48:47.590042+00:00",
  "events": [
+  {
+   "id": "6a2b8a8224",
+   "title": "Thailand is cutting off Bitget. Users have until December 5 to prepare",
+   "date": "2026-11-07T22:00:03+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Thailand is cutting off Bitget. Users have until December 5 to prepare",
+     "url": "https://cryptoslate.com/thailand-is-cutting-off-bitget-users-have-until-december-5-to-prepare/",
+     "date": "2026-11-07T22:00:03+00:00",
+     "summary": "The regulator asks customers to consider action on holdings before the block, while Bitget promises guidance on service access. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T22:00:03+00:00",
+   "last_seen": "2026-11-07T22:00:03+00:00",
+   "summary": "The regulator asks customers to consider action on holdings before the block, while Bitget promises guidance on service access. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "b20338abdc",
+   "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+   "date": "2026-11-07T21:57:58+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Binance CFO steps down nine days after record hack; co-CEO says transition was planned six months ago",
+     "url": "https://www.theblock.co/news/business/2026-11-07-binance-cfo-steps-down-nine-days-after-record-hack-co-ceo-says-transition-was-planned-six-months-ago-435992",
+     "date": "2026-11-07T21:57:58+00:00",
+     "summary": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T21:57:58+00:00",
+   "last_seen": "2026-11-07T21:57:58+00:00",
+   "summary": "Co-CEO Yi He said Ng is departing to pursue a new venture, under a transition plan put in place over the past six months.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "8dab053960",
+   "title": "Loopscale Reopens All Vaults After Attack-Related Freeze",
+   "date": "2026-11-07T21:46:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Loopscale Reopens All Vaults After Attack-Related Freeze",
+     "url": "https://thedefiant.io/news/hacks/loopscale-reopens-all-vaults-after-attack-related-freeze",
+     "date": "2026-11-07T21:46:26+00:00",
+     "summary": "The restart includes the USDC Genesis Vault and lifts its remaining loan-management restrictions. Loopscale says a technical post-mortem will follow."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T21:46:26+00:00",
+   "last_seen": "2026-11-07T21:46:26+00:00",
+   "summary": "The restart includes the USDC Genesis Vault and lifts its remaining loan-management restrictions. Loopscale says a technical post-mortem will follow.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "8c975bbfab",
+   "title": "Binance Names Justin Yek CFO as Kaiser Ng Prepares to Leave",
+   "date": "2026-11-07T21:22:36+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Names Justin Yek CFO as Kaiser Ng Prepares to Leave",
+     "url": "https://thedefiant.io/news/cefi/binance-names-justin-yek-cfo-as-kaiser-ng-prepares-to-leave",
+     "date": "2026-11-07T21:22:36+00:00",
+     "summary": "Co-CEO Yi He says a transition plan has been underway for six months, placing the handover's planning before the exchange's $6.34 billion theft."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T21:22:36+00:00",
+   "last_seen": "2026-11-07T21:22:36+00:00",
+   "summary": "Co-CEO Yi He says a transition plan has been underway for six months, placing the handover's planning before the exchange's $6.34 billion theft.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "cf58b5c9fe",
+   "title": "US sanctions hit 41 companies accused of keeping Prince Group\u2019s scam network running",
+   "date": "2026-11-07T20:30:48+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "US sanctions hit 41 companies accused of keeping Prince Group\u2019s scam network running",
+     "url": "https://cryptoslate.com/us-sanctions-hit-41-companies-accused-of-keeping-prince-groups-scam-network-running/",
+     "date": "2026-11-07T20:30:48+00:00",
+     "summary": "Treasury says the network concealed ownership and sustained Prince Group operations, while US rules require covered assets to be blocked. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T20:30:48+00:00",
+   "last_seen": "2026-11-07T20:30:48+00:00",
+   "summary": "Treasury says the network concealed ownership and sustained Prince Group operations, while US rules require covered assets to be blocked. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "a4f0c86b98",
+   "title": "Zcash\u2019s new security fund is 99.7% old money",
+   "date": "2026-11-07T19:20:50+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Zcash\u2019s new security fund is 99.7% old money",
+     "url": "https://cryptoslate.com/zcashs-new-security-fund-is-99-7-old-money/",
+     "date": "2026-11-07T19:20:50+00:00",
+     "summary": "A November 7 mainnet snapshot puts the historical seed at 99.7% of the reserve, with 1.12 ZEC accumulated under NU7\u2019s fee rules. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T19:20:50+00:00",
+   "last_seen": "2026-11-07T19:20:50+00:00",
+   "summary": "A November 7 mainnet snapshot puts the historical seed at 99.7% of the reserve, with 1.12 ZEC accumulated under NU7\u2019s fee rules. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "2f3a82031b",
+   "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+   "date": "2026-11-07T19:13:16+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+     "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+     "date": "2026-11-07T19:13:16+00:00",
+     "summary": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T19:13:16+00:00",
+   "last_seen": "2026-11-07T19:13:16+00:00",
+   "summary": "Affected accounts are reportedly set to close on Dec. 31. Users in Spain, France, and Poland say they've received similar notices.",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "1da230fbd3",
    "title": "Higher wages don\u2019t have to mean higher inflation. That could matter for Bitcoin",
@@ -3171,11 +3317,18 @@
      "url": "https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft",
      "date": "2026-11-06T17:00:00+00:00",
      "summary": "Bitcoin Magazine Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations Patrick Steven Yaroch, 37, of Ashburn, Virginia, pleaded guilty Thursday to wire fraud and money laundering after using wallet credentials from 35 FBI investigations to take..."
+    },
+    {
+     "source": "The Block",
+     "title": "Ex-FBI agent pleads guilty to stealing $2.47 million in crypto from wallets tied to 35 investigations",
+     "url": "https://www.theblock.co/news/regulation/2026-11-07-ex-fbi-agent-pleads-guilty-to-stealing-2-47-million-in-crypto-from-wallets-tied-to-35-investigations-435988",
+     "date": "2026-11-07T20:59:47+00:00",
+     "summary": "Yaroch will pay at least $2.4 million in restitution and will forfeit any profits he would earn in the future from telling his story."
     }
    ],
-   "score": 30,
+   "score": 40,
    "first_seen": "2026-11-05T21:53:55+00:00",
-   "last_seen": "2026-11-06T17:00:00+00:00",
+   "last_seen": "2026-11-07T20:59:47+00:00",
    "summary": "Bitcoin Magazine Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations Patrick Steven Yaroch, 37, of Ashburn, Virginia, pleaded guilty Thursday to wire fraud and money laundering after using wallet credentials from 35 FBI investigations to take...",
    "tags": [
     "ai",

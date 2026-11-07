@@ -1,6 +1,175 @@
 {
- "updated": "2026-11-07T07:16:26.554027+00:00",
+ "updated": "2026-11-07T14:11:45.280747+00:00",
  "events": [
+  {
+   "id": "0410bdd453",
+   "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say",
+   "date": "2026-11-07T14:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say",
+     "url": "https://decrypt.co/382714/sony-axing-game-discs-will-have-outsized-impact-on-low-income-gamers-experts-say",
+     "date": "2026-11-07T14:01:02+00:00",
+     "summary": "Experts say a disc-free PlayStation will price out low-income players, while in much of Africa, digital-only gaming means breaking Sony\u2019s rules."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T14:01:02+00:00",
+   "last_seen": "2026-11-07T14:01:02+00:00",
+   "summary": "Experts say a disc-free PlayStation will price out low-income players, while in much of Africa, digital-only gaming means breaking Sony\u2019s rules.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "13c487c8d5",
+   "title": "Bitcoin holders have received eCash \u2014 What can you do with it?",
+   "date": "2026-11-07T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin holders have received eCash \u2014 What can you do with it?",
+     "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-07T13:30:00+00:00",
+     "summary": "Bitcoin\u2019s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T13:30:00+00:00",
+   "last_seen": "2026-11-07T13:30:00+00:00",
+   "summary": "Bitcoin\u2019s eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "ea2b740c7b",
+   "title": "Stablecoin contraction forces Bitcoin drop despite Fed reserve gains",
+   "date": "2026-11-07T12:40:07+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Stablecoin contraction forces Bitcoin drop despite Fed reserve gains",
+     "url": "https://cryptoslate.com/stablecoin-contraction-forces-bitcoin-drop-despite-fed-reserve-gains/",
+     "date": "2026-11-07T12:40:07+00:00",
+     "summary": "The dated comparison pairs a reserve rebound with shrinking dollar-token circulation, leaving the link to Bitcoin buying unestablished. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T12:40:07+00:00",
+   "last_seen": "2026-11-07T12:40:07+00:00",
+   "summary": "The dated comparison pairs a reserve rebound with shrinking dollar-token circulation, leaving the link to Bitcoin buying unestablished. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "e2c9a660a2",
+   "title": "US sanctions Canadian money-exchange firms over Iran ties",
+   "date": "2026-11-07T11:10:47+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US sanctions Canadian money-exchange firms over Iran ties",
+     "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-07T11:10:47+00:00",
+     "summary": "US also offers as much as $20 million and possible relocation for information about Iran\u2019s nuclear program."
+    },
+    {
+     "source": "The Defiant",
+     "title": "US Sanctions Eight Canadian Money Firms Over Alleged Iran Crypto Links",
+     "url": "https://thedefiant.io/converge/regulation/us-sanctions-eight-canadian-money-firms-over-alleged-iran-crypto-links",
+     "date": "2026-11-07T11:27:05+00:00",
+     "summary": "The designations freeze covered assets and generally bar US dealings with the firms. OFAC also listed six Tron addresses."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-07T11:10:47+00:00",
+   "last_seen": "2026-11-07T11:27:05+00:00",
+   "summary": "The designations freeze covered assets and generally bar US dealings with the firms. OFAC also listed six Tron addresses.",
+   "tags": []
+  },
+  {
+   "id": "a67374b6e9",
+   "title": "Morpho loan stress exposes cbXRP, but spares native XRP",
+   "date": "2026-11-07T10:30:51+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Morpho loan stress exposes cbXRP, but spares native XRP",
+     "url": "https://cryptoslate.com/morpho-loan-stress-exposes-cbxrp-but-spares-native-xrp/",
+     "date": "2026-11-07T10:30:51+00:00",
+     "summary": "A November 6 snapshot placed 8.84 million USDC across 1,070 positions within a further 10% oracle decline, assuming unchanged debt and collateral. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T10:30:51+00:00",
+   "last_seen": "2026-11-07T10:30:51+00:00",
+   "summary": "A November 6 snapshot placed 8.84 million USDC across 1,070 positions within a further 10% oracle decline, assuming unchanged debt and collateral. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "8addf66e45",
+   "title": "Suspicious prediction market activity seen before election poll release: NYT",
+   "date": "2026-11-07T09:10:35+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Suspicious prediction market activity seen before election poll release: NYT",
+     "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-07T09:10:35+00:00",
+     "summary": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T09:10:35+00:00",
+   "last_seen": "2026-11-07T09:10:35+00:00",
+   "summary": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report.",
+   "tags": []
+  },
+  {
+   "id": "7e39b8d880",
+   "title": "Millions watched Kalshi\u2019s election odds without betting a dollar",
+   "date": "2026-11-07T08:20:10+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Millions watched Kalshi\u2019s election odds without betting a dollar",
+     "url": "https://cryptoslate.com/millions-watched-kalshis-election-odds-without-betting-a-dollar/",
+     "date": "2026-11-07T08:20:10+00:00",
+     "summary": "Kalshi says people watching its midterm markets outnumbered traders five to one. For those spectators, Kalshi offers a forecast that keeps moving while the country waits for an answer. You could spend election night on Kalshi without buying anything, as millions of people did..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T08:20:10+00:00",
+   "last_seen": "2026-11-07T08:20:10+00:00",
+   "summary": "Kalshi says people watching its midterm markets outnumbered traders five to one. For those spectators, Kalshi offers a forecast that keeps moving while the country waits for an answer. You could spend election night on Kalshi without buying anything, as millions of people did...",
+   "tags": []
+  },
+  {
+   "id": "b2ee80022d",
+   "title": "Nvidia may face a more hostile post-election Washington: Report",
+   "date": "2026-11-07T07:45:24+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Nvidia may face a more hostile post-election Washington: Report",
+     "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-07T07:45:24+00:00",
+     "summary": "CEO Jensen Huang\u2019s relationship with President Donald Trump probably won\u2019t save the company from a more adversarial Washington, Semafor says."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T07:45:24+00:00",
+   "last_seen": "2026-11-07T07:45:24+00:00",
+   "summary": "CEO Jensen Huang\u2019s relationship with President Donald Trump probably won\u2019t save the company from a more adversarial Washington, Semafor says.",
+   "tags": []
+  },
   {
    "id": "5832f49af2",
    "title": "Keplr Pauses Google and Apple Login After Unauthorized Transaction Reports",

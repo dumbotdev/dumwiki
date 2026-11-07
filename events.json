@@ -1,6 +1,230 @@
 {
- "updated": "2026-11-06T20:56:42.216619+00:00",
+ "updated": "2026-11-07T00:58:10.889772+00:00",
  "events": [
+  {
+   "id": "f8dfec62bb",
+   "title": "Bitcoin faces $70,000 risk as investors realize $2 billion in losses and US jobs shock deepens pressure",
+   "date": "2026-11-07T00:40:34+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin faces $70,000 risk as investors realize $2 billion in losses and US jobs shock deepens pressure",
+     "url": "https://cryptoslate.com/bitcoin-faces-70000-risk-as-investors-realize-2-billion-in-losses-and-us-jobs-shock-deepens-pressure/",
+     "date": "2026-11-07T00:40:34+00:00",
+     "summary": "Bitcoin holders realized more than $2 billion in losses over three days as exchange selling intensified and expectations of a US rate hike rose. On Friday, Bitcoin briefly plunged below $75,000 as a sharp sell-off in US technology stocks spilled into digital assets. This came as..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T00:40:34+00:00",
+   "last_seen": "2026-11-07T00:40:34+00:00",
+   "summary": "Bitcoin holders realized more than $2 billion in losses over three days as exchange selling intensified and expectations of a US rate hike rose. On Friday, Bitcoin briefly plunged below $75,000 as a sharp sell-off in US technology stocks spilled into digital assets. This came as...",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "4b09c1533f",
+   "title": "Dinari Promises Anthropic dShares on IPO Day, Including for US Investors",
+   "date": "2026-11-07T00:00:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Dinari Promises Anthropic dShares on IPO Day, Including for US Investors",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/dinari-promises-anthropic-dshares-on-ipo-day-including-for-us-investors",
+     "date": "2026-11-07T00:00:13+00:00",
+     "summary": "The pledge follows Ondo's non-US launch plan, while Dinari's US tokens remain non-transferable and barred from DeFi."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T00:00:13+00:00",
+   "last_seen": "2026-11-07T00:00:13+00:00",
+   "summary": "The pledge follows Ondo's non-US launch plan, while Dinari's US tokens remain non-transferable and barred from DeFi.",
+   "tags": [
+    "defi",
+    "funding"
+   ]
+  },
+  {
+   "id": "191e73fd3e",
+   "title": "MEXC Says Withdrawals Continue as FinCEN Orders US Financial Cutoff",
+   "date": "2026-11-07T00:00:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "MEXC Says Withdrawals Continue as FinCEN Orders US Financial Cutoff",
+     "url": "https://thedefiant.io/news/cefi/mexc-says-withdrawals-continue-as-fincen-orders-us-financial-cutoff",
+     "date": "2026-11-07T00:00:11+00:00",
+     "summary": "The exchange says it has begun an independent review of its AML and sanctions controls. The US transfer ban takes effect 30 days after Federal Register publication."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T00:00:11+00:00",
+   "last_seen": "2026-11-07T00:00:11+00:00",
+   "summary": "The exchange says it has begun an independent review of its AML and sanctions controls. The US transfer ban takes effect 30 days after Federal Register publication.",
+   "tags": [
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "cbf4b20e96",
+   "title": "Bitcoin and USDT attract modest premiums in Paraguay as millions face banking crisis",
+   "date": "2026-11-06T23:20:28+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin and USDT attract modest premiums in Paraguay as millions face banking crisis",
+     "url": "https://cryptoslate.com/bitcoin-and-usdt-attract-modest-premiums-in-paraguay-as-millions-face-banking-crisis/",
+     "date": "2026-11-06T23:20:28+00:00",
+     "summary": "Bitcoin and USDT have traded at premiums in Paraguay&#039;s peer-to-peer markets as a banking collapse unsettles the country&#039;s financial system. The turmoil has coincided with a 10% surge in the dollar against the Paraguayan guaran\u00ed, growing public interest in Bitcoin and..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T23:20:28+00:00",
+   "last_seen": "2026-11-06T23:20:28+00:00",
+   "summary": "Bitcoin and USDT have traded at premiums in Paraguay&#039;s peer-to-peer markets as a banking collapse unsettles the country&#039;s financial system. The turmoil has coincided with a 10% surge in the dollar against the Paraguayan guaran\u00ed, growing public interest in Bitcoin and...",
+   "tags": [
+    "bitcoin",
+    "markets",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "ef57244170",
+   "title": "Ardoino\u2019s 24/7 asset plan depends on buyers willing to wait for cash",
+   "date": "2026-11-06T22:00:07+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ardoino\u2019s 24/7 asset plan depends on buyers willing to wait for cash",
+     "url": "https://cryptoslate.com/ardoinos-24-7-asset-plan-depends-on-buyers-willing-to-wait-for-cash/",
+     "date": "2026-11-06T22:00:07+00:00",
+     "summary": "Hadron\u2019s RedStone agreement relies on approved buyers to finance fast settlement, while near-instant voluntary holder exits remain on the roadmap. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T22:00:07+00:00",
+   "last_seen": "2026-11-06T22:00:07+00:00",
+   "summary": "Hadron\u2019s RedStone agreement relies on approved buyers to finance fast settlement, while near-instant voluntary holder exits remain on the roadmap. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "707f9f459c",
+   "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+   "date": "2026-11-06T21:06:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+     "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+     "date": "2026-11-06T21:06:03+00:00",
+     "summary": "FinCEN\u2019s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 billion in illicit finance tied to Iran, North Korea and Russia."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows",
+     "url": "https://bitcoinmagazine.com/news/fincen-cuts-off-mexc-us-financial-system",
+     "date": "2026-11-06T21:28:56+00:00",
+     "summary": "Bitcoin Magazine U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows FinCEN issued a final order under section 9714(a) that will bar U.S. financial institutions from sending or receiving funds with MEXC Global 30 days after Federal..."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-06T21:06:03+00:00",
+   "last_seen": "2026-11-06T21:28:56+00:00",
+   "summary": "Bitcoin Magazine U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows FinCEN issued a final order under section 9714(a) that will bar U.S. financial institutions from sending or receiving funds with MEXC Global 30 days after Federal...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "macro"
+   ]
+  },
+  {
+   "id": "938ffbf095",
+   "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
+   "date": "2026-11-06T21:05:25+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
+     "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T21:05:25+00:00",
+     "summary": "The US Treasury bureau FinCEN on Friday ordered US financial institutions to stop processing transfers involving MEXC Global."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T21:05:25+00:00",
+   "last_seen": "2026-11-06T21:05:25+00:00",
+   "summary": "The US Treasury bureau FinCEN on Friday ordered US financial institutions to stop processing transfers involving MEXC Global.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "5765d3cf38",
+   "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
+   "date": "2026-11-06T21:02:30+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
+     "url": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
+     "date": "2026-11-06T21:02:30+00:00",
+     "summary": "Treasury says it has severed MEXC Global from the U.S. after it allegedly supported $16 billion in transactions connected to Iran."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T21:02:30+00:00",
+   "last_seen": "2026-11-06T21:02:30+00:00",
+   "summary": "Treasury says it has severed MEXC Global from the U.S. after it allegedly supported $16 billion in transactions connected to Iran.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "92b2935ee4",
+   "title": "AI watchdog report indicates we may have less than 6 months before AI super intelligence arrives",
+   "date": "2026-11-06T21:00:55+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "AI watchdog report indicates we may have less than 6 months before AI super intelligence arrives",
+     "url": "https://cryptoslate.com/metr-says-anthropics-model-progress-is-roughly-twice-as-fast-but-key-evidence-remains-redacted/",
+     "date": "2026-11-06T21:00:55+00:00",
+     "summary": "The estimate covers well-specified tasks; METR&#039;s judgment that AI drives most of the acceleration rests partly on redacted evidence. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T21:00:55+00:00",
+   "last_seen": "2026-11-06T21:00:55+00:00",
+   "summary": "The estimate covers well-specified tasks; METR&#039;s judgment that AI drives most of the acceleration rests partly on redacted evidence. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "e090f56bbb",
+   "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+   "date": "2026-11-06T20:51:23+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+     "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-06T20:51:23+00:00",
+     "summary": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-06T20:51:23+00:00",
+   "last_seen": "2026-11-06T20:51:23+00:00",
+   "summary": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information.",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "ddcfa6b55a",
    "title": "US Treasury walks back crypto surveillance \u2018travel rule\u2019 proposal",
@@ -793,14 +1017,22 @@
      "url": "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
      "date": "2026-11-06T15:00:00+00:00",
      "summary": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Aave Labs Acquires Avon Team to Develop Fixed-Rate Lending",
+     "url": "https://thedefiant.io/news/defi/aave-labs-acquires-avon-team-to-develop-fixed-rate-lending",
+     "date": "2026-11-06T22:09:37+00:00",
+     "summary": "The deal includes Avon's lending protocols and onchain order book, but Aave Labs has not named a first market or launch date."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-06T15:00:00+00:00",
-   "last_seen": "2026-11-06T15:00:00+00:00",
-   "summary": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol.",
+   "last_seen": "2026-11-06T22:09:37+00:00",
+   "summary": "The deal includes Avon's lending protocols and onchain order book, but Aave Labs has not named a first market or launch date.",
    "tags": [
-    "defi"
+    "defi",
+    "funding"
    ]
   },
   {

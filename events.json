@@ -1,6 +1,111 @@
 {
- "updated": "2026-11-07T00:58:10.889772+00:00",
+ "updated": "2026-11-07T07:16:26.554027+00:00",
  "events": [
+  {
+   "id": "5832f49af2",
+   "title": "Keplr Pauses Google and Apple Login After Unauthorized Transaction Reports",
+   "date": "2026-11-07T06:12:27+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Keplr Pauses Google and Apple Login After Unauthorized Transaction Reports",
+     "url": "https://thedefiant.io/news/security/keplr-pauses-google-and-apple-login-after-unauthorized-transaction-reports",
+     "date": "2026-11-07T06:12:27+00:00",
+     "summary": "The wallet says recovery-phrase and hardware-wallet accounts are unaffected in its initial assessment, while social-login users should stop sending funds to their accounts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T06:12:27+00:00",
+   "last_seen": "2026-11-07T06:12:27+00:00",
+   "summary": "The wallet says recovery-phrase and hardware-wallet accounts are unaffected in its initial assessment, while social-login users should stop sending funds to their accounts.",
+   "tags": []
+  },
+  {
+   "id": "73895b5f85",
+   "title": "EIP-8037 state-gas rules force Ethereum dApps to rewrite billing",
+   "date": "2026-11-07T06:10:22+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "EIP-8037 state-gas rules force Ethereum dApps to rewrite billing",
+     "url": "https://cryptoslate.com/eip-8037-state-gas-rules-force-ethereum-dapps-to-rewrite-billing/",
+     "date": "2026-11-07T06:10:22+00:00",
+     "summary": "A November 6 appeal asks projects to test gas assumptions and report repair options that could shape Glamsterdam\u2019s specifications. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T06:10:22+00:00",
+   "last_seen": "2026-11-07T06:10:22+00:00",
+   "summary": "A November 6 appeal asks projects to test gas assumptions and report repair options that could shape Glamsterdam\u2019s specifications. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "23195c994d",
+   "title": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading",
+   "date": "2026-11-07T04:40:10+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Moscow Exchange sets Dec. 1 to launch Bitcoin and Ethereum trading",
+     "url": "https://cryptoslate.com/moscow-exchange-sets-dec-1-to-launch-bitcoin-and-ethereum-trading/",
+     "date": "2026-11-07T04:40:10+00:00",
+     "summary": "Non-qualified buyers face a 300,000-ruble annual cap per intermediary and testing, while Moscow Exchange plans a December pilot. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T04:40:10+00:00",
+   "last_seen": "2026-11-07T04:40:10+00:00",
+   "summary": "Non-qualified buyers face a 300,000-ruble annual cap per intermediary and testing, while Moscow Exchange plans a December pilot. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "36d5f99e9f",
+   "title": "Zero-click iOS exploits drain $4M USDT from active TRON wallets",
+   "date": "2026-11-07T03:30:04+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Zero-click iOS exploits drain $4M USDT from active TRON wallets",
+     "url": "https://cryptoslate.com/zero-click-ios-exploits-drain-4m-usdt-from-active-tron-wallets/",
+     "date": "2026-11-07T03:30:04+00:00",
+     "summary": "The 365-address TRON network includes 89 TRX-only losses, while just one theft matches a published iPhone-owner account. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T03:30:04+00:00",
+   "last_seen": "2026-11-07T03:30:04+00:00",
+   "summary": "The 365-address TRON network includes 89 TRX-only losses, while just one theft matches a published iPhone-owner account. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "57c9dfe1d6",
+   "title": "Samsung teams with Stripe to bring USDC to 82M phones",
+   "date": "2026-11-07T02:10:27+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Samsung teams with Stripe to bring USDC to 82M phones",
+     "url": "https://cryptoslate.com/samsung-teams-with-stripe-to-bring-usdc-to-82m-phones/",
+     "date": "2026-11-07T02:10:27+00:00",
+     "summary": "Samsung Pay, cards and ACH fund the account, with New York excluded and fees varying by transaction. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T02:10:27+00:00",
+   "last_seen": "2026-11-07T02:10:27+00:00",
+   "summary": "Samsung Pay, cards and ACH fund the account, with New York excluded and fees varying by transaction. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "f8dfec62bb",
    "title": "Bitcoin faces $70,000 risk as investors realize $2 billion in losses and US jobs shock deepens pressure",

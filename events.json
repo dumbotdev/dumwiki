@@ -1,6 +1,46 @@
 {
- "updated": "2026-11-08T02:33:02.419786+00:00",
+ "updated": "2026-11-08T10:33:28.791800+00:00",
  "events": [
+  {
+   "id": "10e73097bd",
+   "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
+   "date": "2026-11-08T09:48:48+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Amsterdam protesters break into Microsoft data center construction site: Report",
+     "url": "https://cointelegraph.com/news/amsterdam-data-center-protesters-break-into-construction-site-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-08T09:48:48+00:00",
+     "summary": "Dutch police said they detained 150-200 people for trespassing during the protest."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T09:48:48+00:00",
+   "last_seen": "2026-11-08T09:48:48+00:00",
+   "summary": "Dutch police said they detained 150-200 people for trespassing during the protest.",
+   "tags": []
+  },
+  {
+   "id": "51fd48e8bd",
+   "title": "Binance\u2019s finance chief Kaiser Ng to leave company, report says",
+   "date": "2026-11-08T08:12:56+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance\u2019s finance chief Kaiser Ng to leave company, report says",
+     "url": "https://cointelegraph.com/news/binances-finance-chief-kaiser-ng-to-leave-company-report-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-08T08:12:56+00:00",
+     "summary": "Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T08:12:56+00:00",
+   "last_seen": "2026-11-08T08:12:56+00:00",
+   "summary": "Ng will be replaced by Justin Yek, who was formerly vice-president of finance at Airwallex.",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "52d559199c",
    "title": "Tornado Cash-Funded Wallet Builds $26 Million Bitcoin-Ether Trade",

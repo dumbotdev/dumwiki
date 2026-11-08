@@ -1,6 +1,191 @@
 {
- "updated": "2026-11-08T17:07:03.506765+00:00",
+ "updated": "2026-11-08T21:14:05.207500+00:00",
  "events": [
+  {
+   "id": "d92a3c7f3f",
+   "title": "Who gets to block your Kalshi bets? Washington just escalated the fight",
+   "date": "2026-11-08T20:30:31+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Who gets to block your Kalshi bets? Washington just escalated the fight",
+     "url": "https://cryptoslate.com/who-gets-to-block-your-kalshi-bets-washington-just-escalated-the-fight/",
+     "date": "2026-11-08T20:30:31+00:00",
+     "summary": "US derivatives exchanges face a comply-or-explain demand as separate court holdings keep Kalshi&#039;s nationwide access unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T20:30:31+00:00",
+   "last_seen": "2026-11-08T20:30:31+00:00",
+   "summary": "US derivatives exchanges face a comply-or-explain demand as separate court holdings keep Kalshi&#039;s nationwide access unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "8e19476790",
+   "title": "LNbits Urges All Server Operators to Shut Down After Attacks",
+   "date": "2026-11-08T19:47:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "LNbits Urges All Server Operators to Shut Down After Attacks",
+     "url": "https://thedefiant.io/news/security/lnbits-urges-all-server-operators-to-shut-down-after-attacks",
+     "date": "2026-11-08T19:47:05+00:00",
+     "summary": "The project also disabled its hosted instances, while contributor Ben Arc said patches should be available within 24 to 48 hours."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T19:47:05+00:00",
+   "last_seen": "2026-11-08T19:47:05+00:00",
+   "summary": "The project also disabled its hosted instances, while contributor Ben Arc said patches should be available within 24 to 48 hours.",
+   "tags": []
+  },
+  {
+   "id": "8f95a9a4c7",
+   "title": "The catch in recovering a hacked crypto wallet: the thief may still have a key",
+   "date": "2026-11-08T19:30:55+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "The catch in recovering a hacked crypto wallet: the thief may still have a key",
+     "url": "https://cryptoslate.com/the-catch-in-recovering-a-hacked-crypto-wallet-the-thief-may-still-have-a-key/",
+     "date": "2026-11-08T19:30:55+00:00",
+     "summary": "Keplr\u2019s documented backups can reduce login dependence, but they cannot establish that a potentially exposed key is safe. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T19:30:55+00:00",
+   "last_seen": "2026-11-08T19:30:55+00:00",
+   "summary": "Keplr\u2019s documented backups can reduce login dependence, but they cannot establish that a potentially exposed key is safe. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "8d37f94df5",
+   "title": "What the election results mean for crypto: State of Crypto",
+   "date": "2026-11-08T19:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "What the election results mean for crypto: State of Crypto",
+     "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+     "date": "2026-11-08T19:30:00+00:00",
+     "summary": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T19:30:00+00:00",
+   "last_seen": "2026-11-08T19:30:00+00:00",
+   "summary": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?",
+   "tags": []
+  },
+  {
+   "id": "476534abe5",
+   "title": "Stablecoin growth has stalled. The payments boom hasn't",
+   "date": "2026-11-08T19:16:42+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Stablecoin growth has stalled. The payments boom hasn't",
+     "url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+     "date": "2026-11-08T19:16:42+00:00",
+     "summary": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T19:16:42+00:00",
+   "last_seen": "2026-11-08T19:16:42+00:00",
+   "summary": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks.",
+   "tags": [
+    "markets",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "2a2e8ec274",
+   "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
+   "date": "2026-11-08T18:32:11+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Web3Auth says it frontran hackers by moving $5.6 million out of exposed Keplr wallets",
+     "url": "https://www.theblock.co/news/defi/2026-11-08-web3auth-says-it-frontran-hackers-by-moving-5-6-million-out-of-exposed-keplr-wallets-436029",
+     "date": "2026-11-08T18:32:11+00:00",
+     "summary": "Web3Auth's communications also referred to an \"original attacker,\" suggesting some funds were stolen, but did not elaborate."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T18:32:11+00:00",
+   "last_seen": "2026-11-08T18:32:11+00:00",
+   "summary": "Web3Auth's communications also referred to an \"original attacker,\" suggesting some funds were stolen, but did not elaborate.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "ce6d02089b",
+   "title": "The diesel problem that could spoil Bitcoin\u2019s hopes for cheaper money",
+   "date": "2026-11-08T18:30:39+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "The diesel problem that could spoil Bitcoin\u2019s hopes for cheaper money",
+     "url": "https://cryptoslate.com/the-diesel-problem-that-could-spoil-bitcoins-hopes-for-cheaper-money/",
+     "date": "2026-11-08T18:30:39+00:00",
+     "summary": "National inventories fell to 99.259 million barrels, while lower weekly diesel and heating-oil prices kept the financing risk conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T18:30:39+00:00",
+   "last_seen": "2026-11-08T18:30:39+00:00",
+   "summary": "National inventories fell to 99.259 million barrels, while lower weekly diesel and heating-oil prices kept the financing risk conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "0b7eaa60da",
+   "title": "How to Read Token Allowances in Revoke.cash and Etherscan",
+   "date": "2026-11-08T18:11:27+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "How to Read Token Allowances in Revoke.cash and Etherscan",
+     "url": "https://thedefiant.io/news/security/how-to-read-token-allowances-in-revoke-cash-and-etherscan",
+     "date": "2026-11-08T18:11:27+00:00",
+     "summary": "Viewing a wallet address requires no signature. Revoking an allowance changes a specific token-spending permission\u2014not every permission attached to the account."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T18:11:27+00:00",
+   "last_seen": "2026-11-08T18:11:27+00:00",
+   "summary": "Viewing a wallet address requires no signature. Revoking an allowance changes a specific token-spending permission\u2014not every permission attached to the account.",
+   "tags": []
+  },
+  {
+   "id": "3bd850a845",
+   "title": "One BlackRock fund dominates Bitcoin\u2019s billion-dollar ETF exodus",
+   "date": "2026-11-08T17:30:44+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "One BlackRock fund dominates Bitcoin\u2019s billion-dollar ETF exodus",
+     "url": "https://cryptoslate.com/one-blackrock-fund-dominates-bitcoins-billion-dollar-etf-exodus/",
+     "date": "2026-11-08T17:30:44+00:00",
+     "summary": "Fidelity finished positive in the November 2-6 week, but the other funds collectively remained negative without IBIT. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T17:30:44+00:00",
+   "last_seen": "2026-11-08T17:30:44+00:00",
+   "summary": "Fidelity finished positive in the November 2-6 week, but the other funds collectively remained negative without IBIT. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
   {
    "id": "6398522712",
    "title": "Bridge\u2019s OCC Approval Opens Path to Federal Stablecoin Trust Bank",

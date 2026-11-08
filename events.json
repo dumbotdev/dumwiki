@@ -1,6 +1,89 @@
 {
- "updated": "2026-11-07T22:48:47.590042+00:00",
+ "updated": "2026-11-08T02:33:02.419786+00:00",
  "events": [
+  {
+   "id": "52d559199c",
+   "title": "Tornado Cash-Funded Wallet Builds $26 Million Bitcoin-Ether Trade",
+   "date": "2026-11-08T01:53:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tornado Cash-Funded Wallet Builds $26 Million Bitcoin-Ether Trade",
+     "url": "https://thedefiant.io/news/hacks/tornado-cash-funded-wallet-builds-26-million-bitcoin-ether-trade",
+     "date": "2026-11-08T01:53:00+00:00",
+     "summary": "The wallet converted 3,100 ETH into roughly 6.92 million USDC before pairing a Bitcoin long with an Ether short on Hyperliquid."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T01:53:00+00:00",
+   "last_seen": "2026-11-08T01:53:00+00:00",
+   "summary": "The wallet converted 3,100 ETH into roughly 6.92 million USDC before pairing a Bitcoin long with an Ether short on Hyperliquid.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "72a5fd0e7f",
+   "title": "Cosmos Batch Moves 2,266 Staked ATOM From Six Accounts",
+   "date": "2026-11-08T00:39:24+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Cosmos Batch Moves 2,266 Staked ATOM From Six Accounts",
+     "url": "https://thedefiant.io/news/hacks/cosmos-batch-moves-2-266-staked-atom-from-six-accounts",
+     "date": "2026-11-08T00:39:24+00:00",
+     "summary": "One delegator reported theft, while Web3Auth says some apparent wallet drains are protective recovery transfers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T00:39:24+00:00",
+   "last_seen": "2026-11-08T00:39:24+00:00",
+   "summary": "One delegator reported theft, while Web3Auth says some apparent wallet drains are protective recovery transfers.",
+   "tags": []
+  },
+  {
+   "id": "a2f216395a",
+   "title": "Sky TVL Falls 15% in a Week as USDS Supply Contracts",
+   "date": "2026-11-08T00:34:34+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Sky TVL Falls 15% in a Week as USDS Supply Contracts",
+     "url": "https://thedefiant.io/news/defi/sky-tvl-falls-15-in-a-week-as-usds-supply-contracts",
+     "date": "2026-11-08T00:34:34+00:00",
+     "summary": "USDS circulating supply fell to $5.59 billion over the same week, while Sky.money lists a 3.80% savings rate set by governance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T00:34:34+00:00",
+   "last_seen": "2026-11-08T00:34:34+00:00",
+   "summary": "USDS circulating supply fell to $5.59 billion over the same week, while Sky.money lists a 3.80% savings rate set by governance.",
+   "tags": []
+  },
+  {
+   "id": "33e1b0276c",
+   "title": "OKX Warns MEXC Users of Deposit Freezes Ahead of FinCEN Cutoff",
+   "date": "2026-11-07T23:06:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OKX Warns MEXC Users of Deposit Freezes Ahead of FinCEN Cutoff",
+     "url": "https://thedefiant.io/news/cefi/okx-warns-mexc-users-of-deposit-freezes-ahead-of-fincen-cutoff",
+     "date": "2026-11-07T23:06:07+00:00",
+     "summary": "CEO Star Xu said OKX treats FinCEN special measures with caution 'similar to sanctions' after customers reported USDT deposits held for review."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-07T23:06:07+00:00",
+   "last_seen": "2026-11-07T23:06:07+00:00",
+   "summary": "CEO Star Xu said OKX treats FinCEN special measures with caution 'similar to sanctions' after customers reported USDT deposits held for review.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
   {
    "id": "6a2b8a8224",
    "title": "Thailand is cutting off Bitget. Users have until December 5 to prepare",

@@ -1,6 +1,216 @@
 {
- "updated": "2026-11-08T10:33:28.791800+00:00",
+ "updated": "2026-11-08T17:07:03.506765+00:00",
  "events": [
+  {
+   "id": "6398522712",
+   "title": "Bridge\u2019s OCC Approval Opens Path to Federal Stablecoin Trust Bank",
+   "date": "2026-11-08T16:33:28+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bridge\u2019s OCC Approval Opens Path to Federal Stablecoin Trust Bank",
+     "url": "https://thedefiant.io/converge/regulation/bridge-s-occ-approval-opens-path-to-federal-stablecoin-trust-bank",
+     "date": "2026-11-08T16:33:28+00:00",
+     "summary": "The order requires $45 million in minimum capital and preopening checks. A bank charter does not replace GENIUS Act issuer approval."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T16:33:28+00:00",
+   "last_seen": "2026-11-08T16:33:28+00:00",
+   "summary": "The order requires $45 million in minimum capital and preopening checks. A bank charter does not replace GENIUS Act issuer approval.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "fd5b746f4e",
+   "title": "Nvidia\u2019s CEO, an alleged romance and a suspected Chinese spy: Congress wants answers",
+   "date": "2026-11-08T16:30:51+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Nvidia\u2019s CEO, an alleged romance and a suspected Chinese spy: Congress wants answers",
+     "url": "https://cryptoslate.com/nvidias-ceo-an-alleged-romance-and-a-suspected-chinese-spy-congress-wants-answers/",
+     "date": "2026-11-08T16:30:51+00:00",
+     "summary": "The reported intelligence memo adds detail to an earlier House briefing request, with an answer sought by November 11. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T16:30:51+00:00",
+   "last_seen": "2026-11-08T16:30:51+00:00",
+   "summary": "The reported intelligence memo adds detail to an earlier House briefing request, with an answer sought by November 11. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "7232780c22",
+   "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+   "date": "2026-11-08T15:52:17+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Vitalik Buterin says ETH should be valued as a store of value, not a fee-burning token",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-08-vitalik-buterin-says-eth-should-be-valued-as-a-store-of-value-not-a-fee-burning-token-436022",
+     "date": "2026-11-08T15:52:17+00:00",
+     "summary": "A recent controversial proposal to burn a rising share of validator rewards as more ETH is staked was withdrawn last month after facing pushback."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T15:52:17+00:00",
+   "last_seen": "2026-11-08T15:52:17+00:00",
+   "summary": "A recent controversial proposal to burn a rising share of validator rewards as more ETH is staked was withdrawn last month after facing pushback.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "254165ccd9",
+   "title": "A single AI forecast inflates US power auctions by $5.7B",
+   "date": "2026-11-08T15:30:08+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "A single AI forecast inflates US power auctions by $5.7B",
+     "url": "https://cryptoslate.com/the-ai-boom-has-a-new-inflation-problem-consumers-are-paying-before-it-pays-off/",
+     "date": "2026-11-08T15:30:08+00:00",
+     "summary": "Australia&#039;s latest inflation figures showed that prices in the category covering audio, visual, and computing equipment rose 6.1% in a single quarter. That&#039;s by far the largest increase in the Australian Bureau of Statistics series, which began in 1980. Computers, TVs,..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T15:30:08+00:00",
+   "last_seen": "2026-11-08T15:30:08+00:00",
+   "summary": "Australia&#039;s latest inflation figures showed that prices in the category covering audio, visual, and computing equipment rose 6.1% in a single quarter. That&#039;s by far the largest increase in the Australian Bureau of Statistics series, which began in 1980. Computers, TVs,...",
+   "tags": [
+    "ai",
+    "macro"
+   ]
+  },
+  {
+   "id": "8f5cb6eb47",
+   "title": "What Is a DeFi App? From Wallet Connection to Lending Deposit",
+   "date": "2026-11-08T14:11:17+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "What Is a DeFi App? From Wallet Connection to Lending Deposit",
+     "url": "https://thedefiant.io/news/defi/what-is-a-defi-app-from-wallet-connection-to-lending-deposit",
+     "date": "2026-11-08T14:11:17+00:00",
+     "summary": "Connecting a wallet does not authorize a deposit. A lending position is recorded onchain, separately from the website displaying it\u2014and withdrawals still depend on protocol rules and available assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T14:11:17+00:00",
+   "last_seen": "2026-11-08T14:11:17+00:00",
+   "summary": "Connecting a wallet does not authorize a deposit. A lending position is recorded onchain, separately from the website displaying it\u2014and withdrawals still depend on protocol rules and available assets.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "60ccf1f874",
+   "title": "This Bitcoin Developer\u2019s Idea Would Make Quantum Attacks a Losing Bet",
+   "date": "2026-11-08T14:01:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "This Bitcoin Developer\u2019s Idea Would Make Quantum Attacks a Losing Bet",
+     "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
+     "date": "2026-11-08T14:01:03+00:00",
+     "summary": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recover their coins and collect a potentially costly penalty."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T14:01:03+00:00",
+   "last_seen": "2026-11-08T14:01:03+00:00",
+   "summary": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recover their coins and collect a potentially costly penalty.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b938a6dd5b",
+   "title": "Keplr Confirms Web3Auth Recovery Addresses After Wallet Breach",
+   "date": "2026-11-08T13:07:22+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Keplr Confirms Web3Auth Recovery Addresses After Wallet Breach",
+     "url": "https://thedefiant.io/news/security/keplr-confirms-web3auth-recovery-addresses-after-wallet-breach",
+     "date": "2026-11-08T13:07:22+00:00",
+     "summary": "The list includes the destination of a six-account Cosmos Hub batch that tokenized 2,265.59 staked ATOM."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T13:07:22+00:00",
+   "last_seen": "2026-11-08T13:07:22+00:00",
+   "summary": "The list includes the destination of a six-account Cosmos Hub batch that tokenized 2,265.59 staked ATOM.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "6c202c1b54",
+   "title": "Binance France emails announce closure of its users\u2019 accounts on Dec. 31",
+   "date": "2026-11-08T12:57:51+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance France emails announce closure of its users\u2019 accounts on Dec. 31",
+     "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-08T12:57:51+00:00",
+     "summary": "Any assets left on the exchange will be charged monthly fees starting on Nov. 29, company says."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T12:57:51+00:00",
+   "last_seen": "2026-11-08T12:57:51+00:00",
+   "summary": "Any assets left on the exchange will be charged monthly fees starting on Nov. 29, company says.",
+   "tags": [
+    "exchanges",
+    "legal"
+   ]
+  },
+  {
+   "id": "b4556abe8a",
+   "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+   "date": "2026-11-08T12:55:59+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "These Finland homes get free heat from bitcoin miners (as long as BTC stays above $70,000)",
+     "url": "https://www.coindesk.com/markets/2026/11/08/these-finland-homes-get-free-heat-from-bitcoin-miners-as-long-as-btc-stays-above-usd70-000",
+     "date": "2026-11-08T12:55:59+00:00",
+     "summary": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today\u2019s prices each one earns slightly more than the electricity it burns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T12:55:59+00:00",
+   "last_seen": "2026-11-08T12:55:59+00:00",
+   "summary": "A Finnish startup has 30 bitcoin mining systems working as central heating, and at today\u2019s prices each one earns slightly more than the electricity it burns.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "03c8ff0e1c",
+   "title": "Gold is still 25% below its peak even as demand reaches $188B in Q3",
+   "date": "2026-11-08T11:20:50+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Gold is still 25% below its peak even as demand reaches $188B in Q3",
+     "url": "https://cryptoslate.com/gold-is-still-25-below-its-peak-while-demand-reaches-188b/",
+     "date": "2026-11-08T11:20:50+00:00",
+     "summary": "Central banks bought more gold in the third quarter of 2026 than consumers worldwide bought for jewelry. According to the World Gold Council&#039;s latest demand report, central banks and other official institutions acquired an estimated net 321 metric tons, while jewelry..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T11:20:50+00:00",
+   "last_seen": "2026-11-08T11:20:50+00:00",
+   "summary": "Central banks bought more gold in the third quarter of 2026 than consumers worldwide bought for jewelry. According to the World Gold Council&#039;s latest demand report, central banks and other official institutions acquired an estimated net 321 metric tons, while jewelry...",
+   "tags": []
+  },
   {
    "id": "10e73097bd",
    "title": "Amsterdam protesters break into Microsoft data center construction site: Report",

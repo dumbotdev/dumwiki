@@ -1,6 +1,338 @@
 {
- "updated": "2026-11-09T00:59:59.288959+00:00",
+ "updated": "2026-11-09T08:06:11.230989+00:00",
  "events": [
+  {
+   "id": "0d88832c0d",
+   "title": "Bitcoin Trades Near $73,900 After Four-Week Low",
+   "date": "2026-11-09T07:36:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Trades Near $73,900 After Four-Week Low",
+     "url": "https://thedefiant.io/news/markets/bitcoin-trades-near-73-900-after-four-week-low",
+     "date": "2026-11-09T07:36:58+00:00",
+     "summary": "Ether has lost 18.8% over roughly 28 days, compared with bitcoin's 12.2%, as major tokens decline."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T07:36:58+00:00",
+   "last_seen": "2026-11-09T07:36:58+00:00",
+   "summary": "Ether has lost 18.8% over roughly 28 days, compared with bitcoin's 12.2%, as major tokens decline.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "238c9f660d",
+   "title": "Yat Siu to Become Animoca Brands CEO in AI and Institutional Push",
+   "date": "2026-11-09T07:29:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Yat Siu to Become Animoca Brands CEO in AI and Institutional Push",
+     "url": "https://thedefiant.io/news/people/yat-siu-to-become-animoca-brands-ceo-in-ai-and-institutional-push",
+     "date": "2026-11-09T07:29:33+00:00",
+     "summary": "Group president Evan Auyang will become a senior advisor to the board, while Siu will retain his executive chairman role."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T07:29:33+00:00",
+   "last_seen": "2026-11-09T07:29:33+00:00",
+   "summary": "Group president Evan Auyang will become a senior advisor to the board, while Siu will retain his executive chairman role.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "ddec27920e",
+   "title": "Solana Draft Would Retire Durable Nonces No Earlier Than May 2027",
+   "date": "2026-11-09T07:09:40+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Solana Draft Would Retire Durable Nonces No Earlier Than May 2027",
+     "url": "https://thedefiant.io/news/blockchains/solana-draft-would-retire-durable-nonces-no-earlier-than-may-2027",
+     "date": "2026-11-09T07:09:40+00:00",
+     "summary": "Custodians would need new offline-signing flows, with replacement programs introducing different rules for failed transactions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T07:09:40+00:00",
+   "last_seen": "2026-11-09T07:09:40+00:00",
+   "summary": "Custodians would need new offline-signing flows, with replacement programs introducing different rules for failed transactions.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "36fe2cec39",
+   "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+   "date": "2026-11-09T06:54:41+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+     "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+     "date": "2026-11-09T06:54:41+00:00",
+     "summary": "The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T06:54:41+00:00",
+   "last_seen": "2026-11-09T06:54:41+00:00",
+   "summary": "The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "94dae9cd03",
+   "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+   "date": "2026-11-09T06:36:45+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+     "url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+     "date": "2026-11-09T06:36:45+00:00",
+     "summary": "A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T06:36:45+00:00",
+   "last_seen": "2026-11-09T06:36:45+00:00",
+   "summary": "A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins.",
+   "tags": [
+    "security",
+    "solana"
+   ]
+  },
+  {
+   "id": "070550e4f4",
+   "title": "OP Mainnet Active Addresses Jump Nearly 20-Fold to a 30-Day High",
+   "date": "2026-11-09T05:56:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OP Mainnet Active Addresses Jump Nearly 20-Fold to a 30-Day High",
+     "url": "https://thedefiant.io/news/blockchains/op-mainnet-active-addresses-jump-nearly-20-fold-to-a-30-day-high",
+     "date": "2026-11-09T05:56:42+00:00",
+     "summary": "Transactions rose far less than addresses, while user-paid fees stayed close to their preceding seven-day median."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T05:56:42+00:00",
+   "last_seen": "2026-11-09T05:56:42+00:00",
+   "summary": "Transactions rose far less than addresses, while user-paid fees stayed close to their preceding seven-day median.",
+   "tags": []
+  },
+  {
+   "id": "ff4b88478d",
+   "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+   "date": "2026-11-09T05:36:08+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+     "url": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-09T05:36:08+00:00",
+     "summary": "The proposed reduction aims to shorten transaction confirmation times and improve the user experience for point-of-sale payments, exchange deposits and cross-chain swaps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T05:36:08+00:00",
+   "last_seen": "2026-11-09T05:36:08+00:00",
+   "summary": "The proposed reduction aims to shorten transaction confirmation times and improve the user experience for point-of-sale payments, exchange deposits and cross-chain swaps.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "8408c0bd30",
+   "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+   "date": "2026-11-09T05:16:54+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+     "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+     "date": "2026-11-09T05:16:54+00:00",
+     "summary": "The proposals aim to keep Ethereum\u2019s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T05:16:54+00:00",
+   "last_seen": "2026-11-09T05:16:54+00:00",
+   "summary": "The proposals aim to keep Ethereum\u2019s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "25b028cc95",
+   "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+   "date": "2026-11-09T04:54:39+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+     "url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+     "date": "2026-11-09T04:54:39+00:00",
+     "summary": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T04:54:39+00:00",
+   "last_seen": "2026-11-09T04:54:39+00:00",
+   "summary": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "bfd9ea0361",
+   "title": "SlowMist Flags 'Cracked TradingView Premium' as Wallet-Data Malware",
+   "date": "2026-11-09T04:13:40+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SlowMist Flags 'Cracked TradingView Premium' as Wallet-Data Malware",
+     "url": "https://thedefiant.io/news/security/slowmist-flags-cracked-tradingview-premium-as-wallet-data-malware",
+     "date": "2026-11-09T04:13:40+00:00",
+     "summary": "The Windows sample uses Telegram and Steam to rotate command servers. SlowMist's alert gives no confirmed thefts or victim count."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T04:13:40+00:00",
+   "last_seen": "2026-11-09T04:13:40+00:00",
+   "summary": "The Windows sample uses Telegram and Steam to rotate command servers. SlowMist's alert gives no confirmed thefts or victim count.",
+   "tags": []
+  },
+  {
+   "id": "e931adbe9b",
+   "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+   "date": "2026-11-09T04:03:08+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+     "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-09T04:03:08+00:00",
+     "summary": "Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T04:03:08+00:00",
+   "last_seen": "2026-11-09T04:03:08+00:00",
+   "summary": "Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers.",
+   "tags": []
+  },
+  {
+   "id": "683ceafb1a",
+   "title": "Nvidia perps slide as market reacts to CEO Jensen Huang\u2019s Chinese spy scandal",
+   "date": "2026-11-09T03:36:16+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Nvidia perps slide as market reacts to CEO Jensen Huang\u2019s Chinese spy scandal",
+     "url": "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047",
+     "date": "2026-11-09T03:36:16+00:00",
+     "summary": "Nvidia said its board of directors is investigating Huang's relationship with a woman identified by intelligence officials as a Chinese spy."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T03:36:16+00:00",
+   "last_seen": "2026-11-09T03:36:16+00:00",
+   "summary": "Nvidia said its board of directors is investigating Huang's relationship with a woman identified by intelligence officials as a Chinese spy.",
+   "tags": []
+  },
+  {
+   "id": "dc24a7dba8",
+   "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+   "date": "2026-11-09T03:21:49+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+     "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+     "date": "2026-11-09T03:21:49+00:00",
+     "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T03:21:49+00:00",
+   "last_seen": "2026-11-09T03:21:49+00:00",
+   "summary": "Volatile price action has once again liquidated leveraged bullish plays worth millions.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "cf10981b00",
+   "title": "What is Zcash (ZEC)? How shielded transactions work",
+   "date": "2026-11-09T02:36:01+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "What is Zcash (ZEC)? How shielded transactions work",
+     "url": "https://www.theblock.co/learn/ecosystems/what-is-zcash-zec-435779",
+     "date": "2026-11-09T02:36:01+00:00",
+     "summary": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016. It allows users to make both public and private transactions. The latter \u2014 called \u201cshielded transactions\u201d on the network \u2014 make use of zero-knowledge proofs called zk-SNARKs to verify payments without revealing the..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T02:36:01+00:00",
+   "last_seen": "2026-11-09T02:36:01+00:00",
+   "summary": "Zcash (ZEC) is a privacy coin and blockchain launched in 2016. It allows users to make both public and private transactions. The latter \u2014 called \u201cshielded transactions\u201d on the network \u2014 make use of zero-knowledge proofs called zk-SNARKs to verify payments without revealing the...",
+   "tags": []
+  },
+  {
+   "id": "0955389c05",
+   "title": "Hyperliquid Whale\u2019s 56,667-ETH Long Fully Liquidated",
+   "date": "2026-11-09T02:05:14+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Hyperliquid Whale\u2019s 56,667-ETH Long Fully Liquidated",
+     "url": "https://thedefiant.io/news/markets/hyperliquid-whale-s-56-667-eth-long-fully-liquidated",
+     "date": "2026-11-09T02:05:14+00:00",
+     "summary": "The two tracked accounts show lifetime losses of about $44.8 million after the trader previously reduced exposure from 93,184 ETH."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T02:05:14+00:00",
+   "last_seen": "2026-11-09T02:05:14+00:00",
+   "summary": "The two tracked accounts show lifetime losses of about $44.8 million after the trader previously reduced exposure from 93,184 ETH.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "716389bc34",
+   "title": "Blumenthal Sets Jan. 4 Deadline for Binance, Tether and Trump Crypto Firms",
+   "date": "2026-11-09T01:13:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Blumenthal Sets Jan. 4 Deadline for Binance, Tether and Trump Crypto Firms",
+     "url": "https://thedefiant.io/news/regulation/blumenthal-sets-jan-4-deadline-for-binance-tether-and-trump-crypto-firms",
+     "date": "2026-11-09T01:13:31+00:00",
+     "summary": "The senator warned of alternative measures to secure records, but his current ranking-member position does not give him unilateral subpoena authority."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T01:13:31+00:00",
+   "last_seen": "2026-11-09T01:13:31+00:00",
+   "summary": "The senator warned of alternative measures to secure records, but his current ranking-member position does not give him unilateral subpoena authority.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
   {
    "id": "ace1664924",
    "title": "Threshold Says tBTC Bridge Has Resumed Onchain, but App Remains Paused",

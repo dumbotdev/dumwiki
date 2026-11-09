@@ -1,6 +1,134 @@
 {
- "updated": "2026-11-08T21:14:05.207500+00:00",
+ "updated": "2026-11-09T00:59:59.288959+00:00",
  "events": [
+  {
+   "id": "ace1664924",
+   "title": "Threshold Says tBTC Bridge Has Resumed Onchain, but App Remains Paused",
+   "date": "2026-11-08T23:17:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Threshold Says tBTC Bridge Has Resumed Onchain, but App Remains Paused",
+     "url": "https://thedefiant.io/news/security/threshold-says-tbtc-bridge-has-resumed-onchain-but-app-remains-paused",
+     "date": "2026-11-08T23:17:04+00:00",
+     "summary": "Aave\u2019s $119.9 million Ethereum Core tBTC reserve remains frozen while Threshold waits for more operators to reconnect."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T23:17:04+00:00",
+   "last_seen": "2026-11-08T23:17:04+00:00",
+   "summary": "Aave\u2019s $119.9 million Ethereum Core tBTC reserve remains frozen while Threshold waits for more operators to reconnect.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "3543a80017",
+   "title": "Onchain data casts doubt on insider-trading theory in NYT\u2019s \u2018suspicious\u2019 election betting story",
+   "date": "2026-11-08T23:07:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Onchain data casts doubt on insider-trading theory in NYT\u2019s \u2018suspicious\u2019 election betting story",
+     "url": "https://www.theblock.co/news/defi/2026-11-08-onchain-data-casts-doubt-on-insider-trading-theory-in-nyts-suspicious-election-betting-story-436034",
+     "date": "2026-11-08T23:07:02+00:00",
+     "summary": "The New York Times reported on 'suspicious' bets, but two experts who reviewed The Block's findings said the evidence doesn't strongly suggest foul play."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T23:07:02+00:00",
+   "last_seen": "2026-11-08T23:07:02+00:00",
+   "summary": "The New York Times reported on 'suspicious' bets, but two experts who reviewed The Block's findings said the evidence doesn't strongly suggest foul play.",
+   "tags": []
+  },
+  {
+   "id": "358b4d5f1e",
+   "title": "Vitalik \u2018pivots\u2019 ETH to store of value, crypto suffers after US midterms: Hodler\u2019s Digest",
+   "date": "2026-11-08T22:59:06+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Vitalik \u2018pivots\u2019 ETH to store of value, crypto suffers after US midterms: Hodler\u2019s Digest",
+     "url": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-08T22:59:06+00:00",
+     "summary": "Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T22:59:06+00:00",
+   "last_seen": "2026-11-08T22:59:06+00:00",
+   "summary": "Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "5da181dbd5",
+   "title": "AVAX Falls 28% in Four Weeks, Lagging Bitcoin and Ether",
+   "date": "2026-11-08T22:41:53+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "AVAX Falls 28% in Four Weeks, Lagging Bitcoin and Ether",
+     "url": "https://thedefiant.io/news/markets/avax-falls-28-in-four-weeks-lagging-bitcoin-and-ether",
+     "date": "2026-11-08T22:41:53+00:00",
+     "summary": "Bitcoin lost 11.3% and ether 16% over the matched window, as AVAX reversed its earlier relative outperformance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T22:41:53+00:00",
+   "last_seen": "2026-11-08T22:41:53+00:00",
+   "summary": "Bitcoin lost 11.3% and ether 16% over the matched window, as AVAX reversed its earlier relative outperformance.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "bab41fdee1",
+   "title": "Bitcoin Trades Below Strategy\u2019s $75,451 Average Purchase Price",
+   "date": "2026-11-08T22:00:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Trades Below Strategy\u2019s $75,451 Average Purchase Price",
+     "url": "https://thedefiant.io/news/markets/bitcoin-trades-below-strategy-s-75-451-average-purchase-price",
+     "date": "2026-11-08T22:00:13+00:00",
+     "summary": "The company\u2019s disclosed 849,327 BTC were worth about $63.58 billion at the Sunday quote, below their $64.08 billion acquisition cost."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T22:00:13+00:00",
+   "last_seen": "2026-11-08T22:00:13+00:00",
+   "summary": "The company\u2019s disclosed 849,327 BTC were worth about $63.58 billion at the Sunday quote, below their $64.08 billion acquisition cost.",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "fb9cf8431d",
+   "title": "XRP could double while this yield strategy leaves you far behind",
+   "date": "2026-11-08T21:30:38+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP could double while this yield strategy leaves you far behind",
+     "url": "https://cryptoslate.com/xrp-could-double-while-this-yield-strategy-leaves-you-far-behind/",
+     "date": "2026-11-08T21:30:38+00:00",
+     "summary": "The indicative fee estimate accompanies a changing XRP\u2013RLUSD portfolio, with different outcomes from all-XRP and untouched 50/50 holdings. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-08T21:30:38+00:00",
+   "last_seen": "2026-11-08T21:30:38+00:00",
+   "summary": "The indicative fee estimate accompanies a changing XRP\u2013RLUSD portfolio, with different outcomes from all-XRP and untouched 50/50 holdings. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "d92a3c7f3f",
    "title": "Who gets to block your Kalshi bets? Washington just escalated the fight",

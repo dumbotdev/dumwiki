@@ -1,6 +1,523 @@
 {
- "updated": "2026-11-10T17:56:39.197440+00:00",
+ "updated": "2026-11-10T23:29:52.760288+00:00",
  "events": [
+  {
+   "id": "1b68c1ac9c",
+   "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
+   "date": "2026-11-10T23:14:53+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
+     "url": "https://bitcoinmagazine.com/news/washington-bitcoin-merchants-snorkel",
+     "date": "2026-11-10T23:14:53+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin Washington Bitcoin merchants, from Seattle coffee shops to a Snorkel hot tub heated by bitcoin miners. This post Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants :..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T23:14:53+00:00",
+   "last_seen": "2026-11-10T23:14:53+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin Washington Bitcoin merchants, from Seattle coffee shops to a Snorkel hot tub heated by bitcoin miners. This post Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants :...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "ac55417670",
+   "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+   "date": "2026-11-10T23:08:28+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+     "url": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-10T23:08:28+00:00",
+     "summary": "Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to launch a US dollar stablecoin in the first half of 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T23:08:28+00:00",
+   "last_seen": "2026-11-10T23:08:28+00:00",
+   "summary": "Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to launch a US dollar stablecoin in the first half of 2027.",
+   "tags": [
+    "funding",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "d9a12256ea",
+   "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
+   "date": "2026-11-10T22:46:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
+     "url": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
+     "date": "2026-11-10T22:46:02+00:00",
+     "summary": "The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T22:46:02+00:00",
+   "last_seen": "2026-11-10T22:46:02+00:00",
+   "summary": "The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "db815dc1f2",
+   "title": "MARA dumps Bitcoin to erase a $750M collateral risk",
+   "date": "2026-11-10T22:10:00+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "MARA dumps Bitcoin to erase a $750M collateral risk",
+     "url": "https://cryptoslate.com/mara-dumps-bitcoin-to-erase-a-750m-collateral-risk/",
+     "date": "2026-11-10T22:10:00+00:00",
+     "summary": "The miner still plans Bitcoin monetization for infrastructure, potential buybacks and holder-exercised bond puts, with dated cash and financing offering alternatives. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T22:10:00+00:00",
+   "last_seen": "2026-11-10T22:10:00+00:00",
+   "summary": "The miner still plans Bitcoin monetization for infrastructure, potential buybacks and holder-exercised bond puts, with dated cash and financing offering alternatives. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "24a26d6c67",
+   "title": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
+   "date": "2026-11-10T21:51:19+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month low",
+     "url": "https://www.theblock.co/news/markets/2026-11-10-forward-industries-grows-sol-treasury-8-7-million-token-hits-three-month-low-437330",
+     "date": "2026-11-10T21:51:19+00:00",
+     "summary": "Forward adds a $50 million credit line and housing-linked investment to support further SOL accumulation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T21:51:19+00:00",
+   "last_seen": "2026-11-10T21:51:19+00:00",
+   "summary": "Forward adds a $50 million credit line and housing-linked investment to support further SOL accumulation.",
+   "tags": [
+    "macro",
+    "solana"
+   ]
+  },
+  {
+   "id": "d3a2a51387",
+   "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
+   "date": "2026-11-10T21:34:40+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
+     "url": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-10T21:34:40+00:00",
+     "summary": "Crypto custodians are moving into a market handling billions in daily settlements, but regulatory relief and a shift in congressional control leave questions over their long-term role."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T21:34:40+00:00",
+   "last_seen": "2026-11-10T21:34:40+00:00",
+   "summary": "Crypto custodians are moving into a market handling billions in daily settlements, but regulatory relief and a shift in congressional control leave questions over their long-term role.",
+   "tags": []
+  },
+  {
+   "id": "3cbd7cbf0f",
+   "title": "LNbits Releases 1.7.0 Urgent Security Update After November 8 Attacks Drain Funds",
+   "date": "2026-11-10T21:32:45+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "LNbits Releases 1.7.0 Urgent Security Update After November 8 Attacks Drain Funds",
+     "url": "https://bitcoinmagazine.com/news/lnbits-releases-1-7-0-urgent-security-update-after-november-8-attacks-drain-funds",
+     "date": "2026-11-10T21:32:45+00:00",
+     "summary": "Bitcoin Magazine LNbits Releases 1.7.0 Urgent Security Update After November 8 Attacks Drain Funds LNbits released version 1.7.0 on November 10 as an urgent security update following active attacks that began November 8. Operators must upgrade before restarting servers as prior..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T21:32:45+00:00",
+   "last_seen": "2026-11-10T21:32:45+00:00",
+   "summary": "Bitcoin Magazine LNbits Releases 1.7.0 Urgent Security Update After November 8 Attacks Drain Funds LNbits released version 1.7.0 on November 10 as an urgent security update following active attacks that began November 8. Operators must upgrade before restarting servers as prior...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "9d7594404b",
+   "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
+   "date": "2026-11-10T21:24:36+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
+     "url": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-10T21:24:36+00:00",
+     "summary": "The protocol is investigating a potential security incident affecting its domain, while several users have reported losing funds after interacting with the platform."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T21:24:36+00:00",
+   "last_seen": "2026-11-10T21:24:36+00:00",
+   "summary": "The protocol is investigating a potential security incident affecting its domain, while several users have reported losing funds after interacting with the platform.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "34b8b3e3d3",
+   "title": "Ava Labs exec says NYSE deal marks end of blockchain\u2019s \u2018general purpose era\u2019",
+   "date": "2026-11-10T21:07:44+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ava Labs exec says NYSE deal marks end of blockchain\u2019s \u2018general purpose era\u2019",
+     "url": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-10T21:07:44+00:00",
+     "summary": "Ava Labs\u2019 John Nahas said the collaboration with the NYSE shows institutions moving past pilots toward purpose-built onchain market infrastructure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T21:07:44+00:00",
+   "last_seen": "2026-11-10T21:07:44+00:00",
+   "summary": "Ava Labs\u2019 John Nahas said the collaboration with the NYSE shows institutions moving past pilots toward purpose-built onchain market infrastructure.",
+   "tags": []
+  },
+  {
+   "id": "6803bf9a05",
+   "title": "Trump Media posts $410M profit, but crypto hides an operating loss",
+   "date": "2026-11-10T20:50:02+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Trump Media posts $410M profit, but crypto hides an operating loss",
+     "url": "https://cryptoslate.com/trump-media-posts-410m-profit-but-crypto-hides-an-operating-loss/",
+     "date": "2026-11-10T20:50:02+00:00",
+     "summary": "The company reported $496.1 million in combined digital-asset, pledged-digital-asset and equity gains, while adjusted EBITDA remained negative. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T20:50:02+00:00",
+   "last_seen": "2026-11-10T20:50:02+00:00",
+   "summary": "The company reported $496.1 million in combined digital-asset, pledged-digital-asset and equity gains, while adjusted EBITDA remained negative. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "181c687e86",
+   "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
+   "date": "2026-11-10T20:45:50+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
+     "url": "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena",
+     "date": "2026-11-10T20:45:50+00:00",
+     "summary": "The chipmaker has erased its 2026 gains as a suspected Chinese espionage case brings fresh scrutiny of CEO Jensen Huang."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T20:45:50+00:00",
+   "last_seen": "2026-11-10T20:45:50+00:00",
+   "summary": "The chipmaker has erased its 2026 gains as a suspected Chinese espionage case brings fresh scrutiny of CEO Jensen Huang.",
+   "tags": []
+  },
+  {
+   "id": "6c193ad36a",
+   "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+   "date": "2026-11-10T20:36:33+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+     "url": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
+     "date": "2026-11-10T20:36:33+00:00",
+     "summary": "U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action was sufficient."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T20:36:33+00:00",
+   "last_seen": "2026-11-10T20:36:33+00:00",
+   "summary": "U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action was sufficient.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "78328a7897",
+   "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+   "date": "2026-11-10T20:26:02+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+     "url": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-10T20:26:02+00:00",
+     "summary": "The Plume affiliate plans to offer tokenized US stocks, ETFs and bonds through self-custodial wallets, with traditional shareholder rights preserved."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T20:26:02+00:00",
+   "last_seen": "2026-11-10T20:26:02+00:00",
+   "summary": "The Plume affiliate plans to offer tokenized US stocks, ETFs and bonds through self-custodial wallets, with traditional shareholder rights preserved.",
+   "tags": [
+    "etfs"
+   ]
+  },
+  {
+   "id": "2ad2a14423",
+   "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
+   "date": "2026-11-10T20:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
+     "url": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
+     "date": "2026-11-10T20:16:03+00:00",
+     "summary": "An SGLang flaw let an attacker reach internal systems and potentially view confidential AI requests, exposing the limits of hardware-backed privacy protections."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T20:16:03+00:00",
+   "last_seen": "2026-11-10T20:16:03+00:00",
+   "summary": "An SGLang flaw let an attacker reach internal systems and potentially view confidential AI requests, exposing the limits of hardware-backed privacy protections.",
+   "tags": [
+    "ai",
+    "security"
+   ]
+  },
+  {
+   "id": "d869f19d14",
+   "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
+   "date": "2026-11-10T20:15:08+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
+     "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
+     "date": "2026-11-10T20:15:08+00:00",
+     "summary": "Stacey Cunningham, who recently joined digital asset platform Bullish as President, sees the company\u2019s planned Equiniti acquisition and focus on stock issuers as key to its tokenization ambitions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T20:15:08+00:00",
+   "last_seen": "2026-11-10T20:15:08+00:00",
+   "summary": "Stacey Cunningham, who recently joined digital asset platform Bullish as President, sees the company\u2019s planned Equiniti acquisition and focus on stock issuers as key to its tokenization ambitions.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "e331891941",
+   "title": "Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin",
+   "date": "2026-11-10T20:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin",
+     "url": "https://bitcoinmagazine.com/news/texas-bill-invest-10-million-bitcoin",
+     "date": "2026-11-10T20:00:00+00:00",
+     "summary": "Bitcoin Magazine Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin Rep. Ron Reynolds filed House Bill 815 on Monday, allowing each Texas city or county to put up to $10 million of public money into bitcoin starting Sept. 1, 2027. This post Texas Rep. Files Bill..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T20:00:00+00:00",
+   "last_seen": "2026-11-10T20:00:00+00:00",
+   "summary": "Bitcoin Magazine Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin Rep. Ron Reynolds filed House Bill 815 on Monday, allowing each Texas city or county to put up to $10 million of public money into bitcoin starting Sept. 1, 2027. This post Texas Rep. Files Bill...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "720282983d",
+   "title": "DeepMind says its AI agents ran a four-day cryptography test with about 20 human messages",
+   "date": "2026-11-10T19:49:20+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "DeepMind says its AI agents ran a four-day cryptography test with about 20 human messages",
+     "url": "https://cryptoslate.com/deepmind-says-two-ai-agents-ran-a-cryptography-test-with-about-20-human-messages/",
+     "date": "2026-11-10T19:49:20+00:00",
+     "summary": "The known RSA benchmark used less CPU time, with human approval gates, a specialist helper and a large computing budget. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T19:49:20+00:00",
+   "last_seen": "2026-11-10T19:49:20+00:00",
+   "summary": "The known RSA benchmark used less CPU time, with human approval gates, a specialist helper and a large computing budget. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "8635b3005c",
+   "title": "LlamaRisk Proposes $1.33B Collateral Exit From Aave Core",
+   "date": "2026-11-10T19:49:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "LlamaRisk Proposes $1.33B Collateral Exit From Aave Core",
+     "url": "https://thedefiant.io/news/defi/llamarisk-proposes-1-33b-collateral-exit-from-aave-core",
+     "date": "2026-11-10T19:49:16+00:00",
+     "summary": "Affected reserves would be frozen first, leaving existing loans open while borrowers switch collateral or migrate to V4."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T19:49:16+00:00",
+   "last_seen": "2026-11-10T19:49:16+00:00",
+   "summary": "Affected reserves would be frozen first, leaving existing loans open while borrowers switch collateral or migrate to V4.",
+   "tags": []
+  },
+  {
+   "id": "2db7e5b7bc",
+   "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
+   "date": "2026-11-10T19:46:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
+     "url": "https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match",
+     "date": "2026-11-10T19:46:02+00:00",
+     "summary": "Elon Musk says the incoming Grok 4.8 will trail Anthropic\u2019s Claude Opus 5.5, praising his rival\u2019s model while predicting Grok 5 could surpass it in two or three months."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T19:46:02+00:00",
+   "last_seen": "2026-11-10T19:46:02+00:00",
+   "summary": "Elon Musk says the incoming Grok 4.8 will trail Anthropic\u2019s Claude Opus 5.5, praising his rival\u2019s model while predicting Grok 5 could surpass it in two or three months.",
+   "tags": []
+  },
+  {
+   "id": "d65a020a69",
+   "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
+   "date": "2026-11-10T19:38:18+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
+     "url": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
+     "date": "2026-11-10T19:38:18+00:00",
+     "summary": "BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T19:38:18+00:00",
+   "last_seen": "2026-11-10T19:38:18+00:00",
+   "summary": "BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "6b048e7f67",
+   "title": "Across Urges Users to Avoid App Over Domain Issue",
+   "date": "2026-11-10T19:27:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Across Urges Users to Avoid App Over Domain Issue",
+     "url": "https://thedefiant.io/news/security/across-urges-users-to-avoid-app-over-domain-issue",
+     "date": "2026-11-10T19:27:46+00:00",
+     "summary": "The bridge's alert does not establish whether its smart contracts or bridging operations are affected."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T19:27:46+00:00",
+   "last_seen": "2026-11-10T19:27:46+00:00",
+   "summary": "The bridge's alert does not establish whether its smart contracts or bridging operations are affected.",
+   "tags": []
+  },
+  {
+   "id": "5e404b45c2",
+   "title": "Poland\u2019s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review",
+   "date": "2026-11-10T19:20:06+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Poland\u2019s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review",
+     "url": "https://bitcoinmagazine.com/news/poland-votes-240-202-freeze-crypto",
+     "date": "2026-11-10T19:20:06+00:00",
+     "summary": "Bitcoin Magazine Poland&#8217;s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review Poland's Sejm passed a sanctions bill Friday that lets the interior minister freeze bitcoin and bank funds of people on a national list, and a court appeal would not pause..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T19:20:06+00:00",
+   "last_seen": "2026-11-10T19:20:06+00:00",
+   "summary": "Bitcoin Magazine Poland&#8217;s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review Poland's Sejm passed a sanctions bill Friday that lets the interior minister freeze bitcoin and bank funds of people on a national list, and a court appeal would not pause...",
+   "tags": [
+    "bitcoin",
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "34a56306cc",
+   "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
+   "date": "2026-11-10T19:16:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
+     "url": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+     "date": "2026-11-10T19:16:02+00:00",
+     "summary": "Grayscale plans to direct $1 million from its Zcash ETF fees to ecosystem nonprofits and launched a national ad campaign, as ZEC fell more than 11%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T19:16:02+00:00",
+   "last_seen": "2026-11-10T19:16:02+00:00",
+   "summary": "Grayscale plans to direct $1 million from its Zcash ETF fees to ecosystem nonprofits and launched a national ad campaign, as ZEC fell more than 11%.",
+   "tags": [
+    "etfs"
+   ]
+  },
+  {
+   "id": "08c5564d66",
+   "title": "Uphold Marks Crypto Withdrawal Disruption Resolved",
+   "date": "2026-11-10T18:38:29+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Uphold Marks Crypto Withdrawal Disruption Resolved",
+     "url": "https://thedefiant.io/news/cefi/uphold-marks-crypto-withdrawal-disruption-resolved",
+     "date": "2026-11-10T18:38:29+00:00",
+     "summary": "Fiat deposits, withdrawals and trading continued normally while the platform worked around an outage at its transaction-monitoring provider."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T18:38:29+00:00",
+   "last_seen": "2026-11-10T18:38:29+00:00",
+   "summary": "Fiat deposits, withdrawals and trading continued normally while the platform worked around an outage at its transaction-monitoring provider.",
+   "tags": []
+  },
+  {
+   "id": "5deb8b945e",
+   "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+   "date": "2026-11-10T18:12:07+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+     "url": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-10T18:12:07+00:00",
+     "summary": "Starting next week, customers can deposit and withdraw money through Brazil\u2019s instant payment system. Crypto transfers remain suspended."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T18:12:07+00:00",
+   "last_seen": "2026-11-10T18:12:07+00:00",
+   "summary": "Starting next week, customers can deposit and withdraw money through Brazil\u2019s instant payment system. Crypto transfers remain suspended.",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
   {
    "id": "0c61711488",
    "title": "Bitcoin\u2019s projected difficulty cut would still leave older S19 rigs short at 5-cent power",
@@ -106,12 +623,19 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/banks-commit-270-million-to-stablecoin-venture-report",
      "date": "2026-11-10T17:33:04+00:00",
      "summary": "The reported funding would cover five years of operations for the issuer, whose consortium has targeted a first-half 2027 dollar stablecoin launch."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto\u2019s Stablecoin Giants",
+     "url": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants",
+     "date": "2026-11-10T18:33:37+00:00",
+     "summary": "The funding, backing a U.S.-incorporated issuer codenamed \u201cProject Faro,\u201d covers five years of operations as traditional lenders move to challenge crypto-native giants Tether and Circle."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-11-10T17:32:22+00:00",
-   "last_seen": "2026-11-10T17:33:04+00:00",
-   "summary": "The reported funding would cover five years of operations for the issuer, whose consortium has targeted a first-half 2027 dollar stablecoin launch.",
+   "last_seen": "2026-11-10T18:33:37+00:00",
+   "summary": "The funding, backing a U.S.-incorporated issuer codenamed \u201cProject Faro,\u201d covers five years of operations as traditional lenders move to challenge crypto-native giants Tether and Circle.",
    "tags": [
     "funding",
     "stablecoins"
@@ -2409,13 +2933,22 @@
      "url": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
      "date": "2026-11-10T03:36:43+00:00",
      "summary": "Trump Media and Technology Group reported a net income of $409.7 million in Q3, compared with a net loss of $54.8 million a year earlier."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
+     "url": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
+     "date": "2026-11-10T21:36:03+00:00",
+     "summary": "Truth Social\u2019s parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its March 2024 peak."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-10T03:36:43+00:00",
-   "last_seen": "2026-11-10T03:36:43+00:00",
-   "summary": "Trump Media and Technology Group reported a net income of $409.7 million in Q3, compared with a net loss of $54.8 million a year earlier.",
-   "tags": []
+   "last_seen": "2026-11-10T21:36:03+00:00",
+   "summary": "Truth Social\u2019s parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its March 2024 peak.",
+   "tags": [
+    "bitcoin"
+   ]
   },
   {
    "id": "c09d8b19b1",

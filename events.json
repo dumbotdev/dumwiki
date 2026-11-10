@@ -1,6 +1,507 @@
 {
- "updated": "2026-11-10T02:15:11.615000+00:00",
+ "updated": "2026-11-10T10:03:43.698094+00:00",
  "events": [
+  {
+   "id": "af715014bd",
+   "title": "Walt expands beyond Telegram with standalone crypto trading app",
+   "date": "2026-11-10T09:30:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Walt expands beyond Telegram with standalone crypto trading app",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-10-walt-standalone-crypto-trading-app-436981",
+     "date": "2026-11-10T09:30:00+00:00",
+     "summary": "Walt launched a standalone app, expanding its crypto investment platform beyond Telegram for the first time."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T09:30:00+00:00",
+   "last_seen": "2026-11-10T09:30:00+00:00",
+   "summary": "Walt launched a standalone app, expanding its crypto investment platform beyond Telegram for the first time.",
+   "tags": []
+  },
+  {
+   "id": "d893015fb2",
+   "title": "Ethlabs Urges Glamsterdam Hold Pending Audit Findings",
+   "date": "2026-11-10T09:22:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ethlabs Urges Glamsterdam Hold Pending Audit Findings",
+     "url": "https://thedefiant.io/news/security/ethlabs-urges-glamsterdam-hold-pending-audit-findings",
+     "date": "2026-11-10T09:22:31+00:00",
+     "summary": "Four reports flag deployed contracts that could break, while possible specification changes are being prototyped, the Ethereum Foundation says."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T09:22:31+00:00",
+   "last_seen": "2026-11-10T09:22:31+00:00",
+   "summary": "Four reports flag deployed contracts that could break, while possible specification changes are being prototyped, the Ethereum Foundation says.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "4e3bc22969",
+   "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
+   "date": "2026-11-10T09:14:30+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
+     "url": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
+     "date": "2026-11-10T09:14:30+00:00",
+     "summary": "The Capital Markets Alliance argues that the products fall under the Securities and Exchange Commission\u2019s jurisdiction."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T09:14:30+00:00",
+   "last_seen": "2026-11-10T09:14:30+00:00",
+   "summary": "The Capital Markets Alliance argues that the products fall under the Securities and Exchange Commission\u2019s jurisdiction.",
+   "tags": [
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "ab5147138c",
+   "title": "Maple\u2019s SYRUP Nearly Halves as Lending Assets Shrink",
+   "date": "2026-11-10T09:12:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Maple\u2019s SYRUP Nearly Halves as Lending Assets Shrink",
+     "url": "https://thedefiant.io/news/tokens/maple-s-syrup-nearly-halves-as-lending-assets-shrink",
+     "date": "2026-11-10T09:12:26+00:00",
+     "summary": "Maple\u2019s TVL stands at $2.22 billion, while syrupUSDC assets under management have fallen to $2.36 billion from $2.68 billion reported Oct. 19."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T09:12:26+00:00",
+   "last_seen": "2026-11-10T09:12:26+00:00",
+   "summary": "Maple\u2019s TVL stands at $2.22 billion, while syrupUSDC assets under management have fallen to $2.36 billion from $2.68 billion reported Oct. 19.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "dfad6321f3",
+   "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
+   "date": "2026-11-10T09:05:16+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
+     "url": "https://cointelegraph.com/news/bitgo-q3-2026-earnings-crypto-treasury-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-10T09:05:16+00:00",
+     "summary": "BitGo\u2019s $71 million unrealized gain on its crypto holdings helped nearly double its net income, but revenue and earnings came in below preliminary analyst expectations."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T09:05:16+00:00",
+   "last_seen": "2026-11-10T09:05:16+00:00",
+   "summary": "BitGo\u2019s $71 million unrealized gain on its crypto holdings helped nearly double its net income, but revenue and earnings came in below preliminary analyst expectations.",
+   "tags": []
+  },
+  {
+   "id": "cd1099b6d4",
+   "title": "Google AI spots high blood pressure using ordinary watch sensors",
+   "date": "2026-11-10T08:30:58+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Google AI spots high blood pressure using ordinary watch sensors",
+     "url": "https://cryptoslate.com/google-ai-spots-high-blood-pressure-using-ordinary-watch-sensors/",
+     "date": "2026-11-10T08:30:58+00:00",
+     "summary": "A 196-person Nature study points to passive screening potential, but roughly one-third of hypertension cases went undetected. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T08:30:58+00:00",
+   "last_seen": "2026-11-10T08:30:58+00:00",
+   "summary": "A 196-person Nature study points to passive screening potential, but roughly one-third of hypertension cases went undetected. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "012120bebb",
+   "title": "Coinbase, Five Firms Back CFTC in Stock Perps Lawsuit",
+   "date": "2026-11-10T08:28:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coinbase, Five Firms Back CFTC in Stock Perps Lawsuit",
+     "url": "https://thedefiant.io/converge/regulation/coinbase-five-firms-back-cftc-in-stock-perps-lawsuit",
+     "date": "2026-11-10T08:28:31+00:00",
+     "summary": "The proposed amicus brief supports joint SEC-CFTC oversight as a November 10 reply deadline approaches in the bid to halt single-stock perpetuals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T08:28:31+00:00",
+   "last_seen": "2026-11-10T08:28:31+00:00",
+   "summary": "The proposed amicus brief supports joint SEC-CFTC oversight as a November 10 reply deadline approaches in the bid to halt single-stock perpetuals.",
+   "tags": [
+    "exchanges",
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "eaf137e1fc",
+   "title": "BitGo revenue falls 51% in Q3 as trading slows; net income rises on treasury gains",
+   "date": "2026-11-10T08:20:53+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "BitGo revenue falls 51% in Q3 as trading slows; net income rises on treasury gains",
+     "url": "https://www.theblock.co/news/business/2026-11-10-bitgo-revenue-falls-q3-436986",
+     "date": "2026-11-10T08:20:53+00:00",
+     "summary": "The revenue decline was driven by continued soft crypto trading environment and a higher mix of lower-margin stablecoin transactions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T08:20:53+00:00",
+   "last_seen": "2026-11-10T08:20:53+00:00",
+   "summary": "The revenue decline was driven by continued soft crypto trading environment and a higher mix of lower-margin stablecoin transactions.",
+   "tags": [
+    "macro",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "85b4dacac9",
+   "title": "Trump Media Reports 15,649 BTC Ahead of Debt Put",
+   "date": "2026-11-10T08:12:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Trump Media Reports 15,649 BTC Ahead of Debt Put",
+     "url": "https://thedefiant.io/news/tradfi-and-fintech/trump-media-reports-15-649-btc-ahead-of-debt-put",
+     "date": "2026-11-10T08:12:11+00:00",
+     "summary": "Noteholders can demand up to about $1 billion in cash on November 30, while much of the company's disclosed bitcoin was committed to an options strategy."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T08:12:11+00:00",
+   "last_seen": "2026-11-10T08:12:11+00:00",
+   "summary": "Noteholders can demand up to about $1 billion in cash on November 30, while much of the company's disclosed bitcoin was committed to an options strategy.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "e8d854a4bd",
+   "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+   "date": "2026-11-10T08:02:05+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+     "url": "https://cointelegraph.com/markets/blackrock-ibit-bitcoin-etf-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-10T08:02:05+00:00",
+     "summary": "US spot Bitcoin ETFs shed $201 million Monday, with seven straight sessions of net withdrawals from BlackRock\u2019s IBIT totaling $1.66 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T08:02:05+00:00",
+   "last_seen": "2026-11-10T08:02:05+00:00",
+   "summary": "US spot Bitcoin ETFs shed $201 million Monday, with seven straight sessions of net withdrawals from BlackRock\u2019s IBIT totaling $1.66 billion.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "e1df5ff6a4",
+   "title": "NYSE brings stocks to Avalanche, but bans direct wallets",
+   "date": "2026-11-10T07:10:09+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "NYSE brings stocks to Avalanche, but bans direct wallets",
+     "url": "https://cryptoslate.com/nyse-brings-stocks-to-avalanche-but-bans-direct-wallets/",
+     "date": "2026-11-10T07:10:09+00:00",
+     "summary": "Avalanche will supply the proposed venue\u2019s clearing ledger, while broker distribution predates the selection and regulatory approval remains required. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T07:10:09+00:00",
+   "last_seen": "2026-11-10T07:10:09+00:00",
+   "summary": "Avalanche will supply the proposed venue\u2019s clearing ledger, while broker distribution predates the selection and regulatory approval remains required. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": []
+  },
+  {
+   "id": "0e69e242fb",
+   "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+   "date": "2026-11-10T07:01:06+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "An 11-year-old Ethereum wallet moved $4.6 million and dodged a scam set up in minutes",
+     "url": "https://www.coindesk.com/tech/2026/11/10/an-11-year-old-ethereum-wallet-moved-usd4-6-million-and-dodged-a-scam-set-up-in-minutes",
+     "date": "2026-11-10T07:01:06+00:00",
+     "summary": "Bots spotted a wallet from Ethereum\u2019s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money to the right place anyway."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T07:01:06+00:00",
+   "last_seen": "2026-11-10T07:01:06+00:00",
+   "summary": "Bots spotted a wallet from Ethereum\u2019s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money to the right place anyway.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "adebe6b3ca",
+   "title": "SlowMist Flags iOS Sandbox Escape Risk to Wallet Data",
+   "date": "2026-11-10T06:52:59+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SlowMist Flags iOS Sandbox Escape Risk to Wallet Data",
+     "url": "https://thedefiant.io/news/security/slowmist-flags-ios-sandbox-escape-risk-to-wallet-data",
+     "date": "2026-11-10T06:52:59+00:00",
+     "summary": "The worse_query repository lists iOS 26.0\u201326.7.2 and 27.2 as targets; the wallet warning centers on secrets stored locally in plaintext."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T06:52:59+00:00",
+   "last_seen": "2026-11-10T06:52:59+00:00",
+   "summary": "The worse_query repository lists iOS 26.0\u201326.7.2 and 27.2 as targets; the wallet warning centers on secrets stored locally in plaintext.",
+   "tags": []
+  },
+  {
+   "id": "54abbbc69e",
+   "title": "Coinbase, Kalshi and Payward backs CFTC in lawsuit over single-stock perp futures",
+   "date": "2026-11-10T06:19:10+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Coinbase, Kalshi and Payward backs CFTC in lawsuit over single-stock perp futures",
+     "url": "https://www.theblock.co/news/regulation/2026-11-10-coinbase-kalshi-payward-back-cftc-perps-436971",
+     "date": "2026-11-10T06:19:10+00:00",
+     "summary": "The crypto firms moved for leave to file an amicus brief defending the CFTC's authority to regulate single-stock perpetual futures in the US."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T06:19:10+00:00",
+   "last_seen": "2026-11-10T06:19:10+00:00",
+   "summary": "The crypto firms moved for leave to file an amicus brief defending the CFTC's authority to regulate single-stock perpetual futures in the US.",
+   "tags": [
+    "exchanges",
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "0c5621629e",
+   "title": "LNbits disables hosted Bitcoin services with no restart timeline",
+   "date": "2026-11-10T05:40:38+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "LNbits disables hosted Bitcoin services with no restart timeline",
+     "url": "https://cryptoslate.com/lnbits-disables-hosted-bitcoin-services-with-no-restart-timeline/",
+     "date": "2026-11-10T05:40:38+00:00",
+     "summary": "A security-related change merged into development on November 9, while GitHub still listed a September backup hotfix as the latest stable release. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T05:40:38+00:00",
+   "last_seen": "2026-11-10T05:40:38+00:00",
+   "summary": "A security-related change merged into development on November 9, while GitHub still listed a September backup hotfix as the latest stable release. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "56ba0032ef",
+   "title": "Upbit to List HYPE With Direct Korean Won Trading",
+   "date": "2026-11-10T05:28:45+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Upbit to List HYPE With Direct Korean Won Trading",
+     "url": "https://thedefiant.io/news/cefi/upbit-to-list-hype-with-direct-korean-won-trading",
+     "date": "2026-11-10T05:28:45+00:00",
+     "summary": "HYPE gained 1.4% in a 35-minute window around the announcement, outpacing bitcoin, as Upbit prepared to open three trading pairs."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T05:28:45+00:00",
+   "last_seen": "2026-11-10T05:28:45+00:00",
+   "summary": "HYPE gained 1.4% in a 35-minute window around the announcement, outpacing bitcoin, as Upbit prepared to open three trading pairs.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "367bf5f046",
+   "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+   "date": "2026-11-10T05:18:31+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
+     "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+     "date": "2026-11-10T05:18:31+00:00",
+     "summary": "MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T05:18:31+00:00",
+   "last_seen": "2026-11-10T05:18:31+00:00",
+   "summary": "MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "e5089b7cc8",
+   "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
+   "date": "2026-11-10T05:05:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
+     "url": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-10T05:05:58+00:00",
+     "summary": "\u201cCold storage is a useful measure of online exposure, but it is not a standalone security score,\u201d the cybersecurity firm told Cointelegraph."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T05:05:58+00:00",
+   "last_seen": "2026-11-10T05:05:58+00:00",
+   "summary": "\u201cCold storage is a useful measure of online exposure, but it is not a standalone security score,\u201d the cybersecurity firm told Cointelegraph.",
+   "tags": []
+  },
+  {
+   "id": "1e017ff298",
+   "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+   "date": "2026-11-10T04:51:20+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
+     "url": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
+     "date": "2026-11-10T04:51:20+00:00",
+     "summary": "The XRP Ledger Foundation\u2019s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T04:51:20+00:00",
+   "last_seen": "2026-11-10T04:51:20+00:00",
+   "summary": "The XRP Ledger Foundation\u2019s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028.",
+   "tags": []
+  },
+  {
+   "id": "3bd4c23a27",
+   "title": "AI agents break safety rules by remembering harmless user context",
+   "date": "2026-11-10T04:30:05+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "AI agents break safety rules by remembering harmless user context",
+     "url": "https://cryptoslate.com/ai-agents-break-safety-rules-by-remembering-harmless-user-context/",
+     "date": "2026-11-10T04:30:05+00:00",
+     "summary": "Controlled tests found that permission for routine chores could carry into simulated high-stakes tasks, with effects varying by model. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T04:30:05+00:00",
+   "last_seen": "2026-11-10T04:30:05+00:00",
+   "summary": "Controlled tests found that permission for routine chores could carry into simulated high-stakes tasks, with effects varying by model. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "54556cf0f9",
+   "title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
+   "date": "2026-11-10T03:36:43+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Trump Media swings to $410 million profit in Q3, driven by crypto gains",
+     "url": "https://www.theblock.co/news/business/2026-11-09-trump-media-q3-profit-436964",
+     "date": "2026-11-10T03:36:43+00:00",
+     "summary": "Trump Media and Technology Group reported a net income of $409.7 million in Q3, compared with a net loss of $54.8 million a year earlier."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T03:36:43+00:00",
+   "last_seen": "2026-11-10T03:36:43+00:00",
+   "summary": "Trump Media and Technology Group reported a net income of $409.7 million in Q3, compared with a net loss of $54.8 million a year earlier.",
+   "tags": []
+  },
+  {
+   "id": "c09d8b19b1",
+   "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+   "date": "2026-11-10T03:22:26+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
+     "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
+     "date": "2026-11-10T03:22:26+00:00",
+     "summary": "Bitcoin trades below $75,000 ahead of the October inflation data. Analysts warning that sustainable recovery depends on improving liquidity and spot ETF demand rather than temporary macro relief."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T03:22:26+00:00",
+   "last_seen": "2026-11-10T03:22:26+00:00",
+   "summary": "Bitcoin trades below $75,000 ahead of the October inflation data. Analysts warning that sustainable recovery depends on improving liquidity and spot ETF demand rather than temporary macro relief.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "etfs",
+    "macro"
+   ]
+  },
+  {
+   "id": "fb4ac63397",
+   "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+   "date": "2026-11-10T03:04:54+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "OpenAI builds kill switch to stop rogue agents within 35 seconds",
+     "url": "https://cointelegraph.com/news/openai-builds-kill-switch-stop-rogue-agents?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-10T03:04:54+00:00",
+     "summary": "Control Room cuts off model output for internal research jobs when people or automated monitors flag safety or security concerns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T03:04:54+00:00",
+   "last_seen": "2026-11-10T03:04:54+00:00",
+   "summary": "Control Room cuts off model output for internal research jobs when people or automated monitors flag safety or security concerns.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "ecf9e1e7cf",
+   "title": "Binance CFO leaves the company to tokenize real assets",
+   "date": "2026-11-10T02:20:23+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance CFO leaves the company to tokenize real assets",
+     "url": "https://cryptoslate.com/binance-cfo-leaves-the-company-to-tokenize-real-assets/",
+     "date": "2026-11-10T02:20:23+00:00",
+     "summary": "Ng says the transition took months and describes tokenization interests after five years as CFO, without naming a venture. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T02:20:23+00:00",
+   "last_seen": "2026-11-10T02:20:23+00:00",
+   "summary": "Ng says the transition took months and describes tokenization interests after five years as CFO, without naming a venture. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges"
+   ]
+  },
   {
    "id": "e4dccb90f5",
    "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
@@ -163,15 +664,23 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-agrees-to-buy-river-one-to-add-asset-backed-lending",
      "date": "2026-11-09T21:30:34+00:00",
      "summary": "The acquisition, its first since going public, is expected to close in the fourth quarter of 2026."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Securitize agrees to buy River One to expand into asset-backed lending",
+     "url": "https://cointelegraph.com/news/securitize-river-one-asset-backed-lending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-10T07:49:14+00:00",
+     "summary": "Securitize agreed to buy River One to bring stablecoin funding to asset-backed lending and expects the deal to close in the fourth quarter of 2026."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-09T21:30:34+00:00",
-   "last_seen": "2026-11-09T21:30:34+00:00",
-   "summary": "The acquisition, its first since going public, is expected to close in the fourth quarter of 2026.",
+   "last_seen": "2026-11-10T07:49:14+00:00",
+   "summary": "Securitize agreed to buy River One to bring stablecoin funding to asset-backed lending and expects the deal to close in the fourth quarter of 2026.",
    "tags": [
     "defi",
-    "funding"
+    "funding",
+    "stablecoins"
    ]
   },
   {

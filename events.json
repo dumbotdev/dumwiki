@@ -1,6 +1,713 @@
 {
- "updated": "2026-11-09T18:54:36.976165+00:00",
+ "updated": "2026-11-10T02:15:11.615000+00:00",
  "events": [
+  {
+   "id": "e4dccb90f5",
+   "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
+   "date": "2026-11-10T02:13:07+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Securitize shares surge 12% in after-hours trading on Q3 results and River One acquisition agreement",
+     "url": "https://www.theblock.co/news/business/2026-11-09-securitize-shares-surge-river-one-436955",
+     "date": "2026-11-10T02:13:07+00:00",
+     "summary": "The acquisition is expected to add a new layer of financing to Securitize, enabling the platform to offer asset-backed lending."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T02:13:07+00:00",
+   "last_seen": "2026-11-10T02:13:07+00:00",
+   "summary": "The acquisition is expected to add a new layer of financing to Securitize, enabling the platform to offer asset-backed lending.",
+   "tags": [
+    "defi",
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "c93afb16f8",
+   "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+   "date": "2026-11-10T00:42:39+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+     "url": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-10T00:42:39+00:00",
+     "summary": "Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T00:42:39+00:00",
+   "last_seen": "2026-11-10T00:42:39+00:00",
+   "summary": "Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "5c7ce52e83",
+   "title": "Canada opens bank stablecoin access, but strips deposit guarantees",
+   "date": "2026-11-10T00:40:28+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Canada opens bank stablecoin access, but strips deposit guarantees",
+     "url": "https://cryptoslate.com/canada-opens-bank-stablecoin-access-but-strips-deposit-guarantees/",
+     "date": "2026-11-10T00:40:28+00:00",
+     "summary": "Budget 2026 proposes bringing bank subsidiaries and foreign financial institutions outside Canadian prudential supervision under the Stablecoin Act. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T00:40:28+00:00",
+   "last_seen": "2026-11-10T00:40:28+00:00",
+   "summary": "Budget 2026 proposes bringing bank subsidiaries and foreign financial institutions outside Canadian prudential supervision under the Stablecoin Act. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "a2879ed283",
+   "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+   "date": "2026-11-09T22:56:27+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Securitize pushes into $6 trillion asset-backed finance market with River One acquisition",
+     "url": "https://www.coindesk.com/business/2026/11/09/securitize-pushes-into-usd6-trillion-asset-backed-finance-market-with-river-one-acquisition",
+     "date": "2026-11-09T22:56:27+00:00",
+     "summary": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T22:56:27+00:00",
+   "last_seen": "2026-11-09T22:56:27+00:00",
+   "summary": "The tokenization firm unveiled an acquisition and a $50 million stock buyback as quarterly revenue rose 13%. SECZ shares jumped 10% after hours.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "5b7aa9e990",
+   "title": "Amundi puts European stocks on Ethereum, but access terms stay hidden",
+   "date": "2026-11-09T22:50:00+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Amundi puts European stocks on Ethereum, but access terms stay hidden",
+     "url": "https://cryptoslate.com/amundi-puts-european-stocks-on-ethereum-but-access-terms-stay-hidden/",
+     "date": "2026-11-09T22:50:00+00:00",
+     "summary": "The share class announced Nov. 5 represents fund units, while Amundi&#039;s release leaves investor access, transfer and redemption terms unspecified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T22:50:00+00:00",
+   "last_seen": "2026-11-09T22:50:00+00:00",
+   "summary": "The share class announced Nov. 5 represents fund units, while Amundi&#039;s release leaves investor access, transfer and redemption terms unspecified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "151382f5df",
+   "title": "Anthropic's Claude Fable 5.2 and Mythos 5.0 Are Impressive, But Be Prepared to Sell a Kidney to Afford Them",
+   "date": "2026-11-09T22:36:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Anthropic's Claude Fable 5.2 and Mythos 5.0 Are Impressive, But Be Prepared to Sell a Kidney to Afford Them",
+     "url": "https://decrypt.co/382897/anthropic-claude-fable-5-2-and-mythos-5-2-impressive-and-expensive",
+     "date": "2026-11-09T22:36:02+00:00",
+     "summary": "Anthropic's latest AI can build complex software and even design physical objects. Users are producing impressive results, and estimated bills large enough to make developers wince."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T22:36:02+00:00",
+   "last_seen": "2026-11-09T22:36:02+00:00",
+   "summary": "Anthropic's latest AI can build complex software and even design physical objects. Users are producing impressive results, and estimated bills large enough to make developers wince.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "0f23bb4813",
+   "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+   "date": "2026-11-09T22:07:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+     "url": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
+     "date": "2026-11-09T22:07:00+00:00",
+     "summary": "MARA posted a $634.4 million Q3 net profit, then sold 13,597 BTC to repay $750 million in loans as it pivots to AI."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T22:07:00+00:00",
+   "last_seen": "2026-11-09T22:07:00+00:00",
+   "summary": "MARA posted a $634.4 million Q3 net profit, then sold 13,597 BTC to repay $750 million in loans as it pivots to AI.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "adf33ac543",
+   "title": "Securitize Agrees to Buy River One to Add Asset-Backed Lending",
+   "date": "2026-11-09T21:30:34+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Securitize Agrees to Buy River One to Add Asset-Backed Lending",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/securitize-agrees-to-buy-river-one-to-add-asset-backed-lending",
+     "date": "2026-11-09T21:30:34+00:00",
+     "summary": "The acquisition, its first since going public, is expected to close in the fourth quarter of 2026."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T21:30:34+00:00",
+   "last_seen": "2026-11-09T21:30:34+00:00",
+   "summary": "The acquisition, its first since going public, is expected to close in the fourth quarter of 2026.",
+   "tags": [
+    "defi",
+    "funding"
+   ]
+  },
+  {
+   "id": "81a4b5a887",
+   "title": "MARA Sells 13,597 Bitcoin, Repays $750 Million in Debt",
+   "date": "2026-11-09T21:21:20+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "MARA Sells 13,597 Bitcoin, Repays $750 Million in Debt",
+     "url": "https://thedefiant.io/news/cefi/mara-sells-13-597-bitcoin-repays-750-million-in-debt",
+     "date": "2026-11-09T21:21:20+00:00",
+     "summary": "The miner announced a new $500 million stock buyback authorization as two planned data center leases face a possible delay into 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T21:21:20+00:00",
+   "last_seen": "2026-11-09T21:21:20+00:00",
+   "summary": "The miner announced a new $500 million stock buyback authorization as two planned data center leases face a possible delay into 2027.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "f084c1572f",
+   "title": "Anthropic Says Claude Beat Best Listed Solutions on 72 MIPLIB Problems",
+   "date": "2026-11-09T21:20:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Anthropic Says Claude Beat Best Listed Solutions on 72 MIPLIB Problems",
+     "url": "https://thedefiant.io/frontier/ai/anthropic-says-claude-beat-best-listed-solutions-on-72-miplib-problems",
+     "date": "2026-11-09T21:20:35+00:00",
+     "summary": "The company also reported 45 optimality proofs and says it has submitted its solutions to MIPLIB, whose public records have not yet confirmed the tally."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T21:20:35+00:00",
+   "last_seen": "2026-11-09T21:20:35+00:00",
+   "summary": "The company also reported 45 optimality proofs and says it has submitted its solutions to MIPLIB, whose public records have not yet confirmed the tally.",
+   "tags": []
+  },
+  {
+   "id": "520bb1e6ac",
+   "title": "Leios scaling threatens Cardano stability unless fast path passes",
+   "date": "2026-11-09T21:20:04+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Leios scaling threatens Cardano stability unless fast path passes",
+     "url": "https://cryptoslate.com/leios-scaling-threatens-cardano-stability-unless-fast-path-passes/",
+     "date": "2026-11-09T21:20:04+00:00",
+     "summary": "Kevin Hammond\u2019s proposed emergency exceptions would retain governance approval, while the current constitutional draft still forbids the required zero setting. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T21:20:04+00:00",
+   "last_seen": "2026-11-09T21:20:04+00:00",
+   "summary": "Kevin Hammond\u2019s proposed emergency exceptions would retain governance approval, while the current constitutional draft still forbids the required zero setting. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst...",
+   "tags": []
+  },
+  {
+   "id": "afa237d603",
+   "title": "AI Data Centers Are Buying Used Jet Engines as New Power Turbines Take Six Years",
+   "date": "2026-11-09T21:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "AI Data Centers Are Buying Used Jet Engines as New Power Turbines Take Six Years",
+     "url": "https://decrypt.co/382890/ai-data-centers-used-jet-engines-power-turbines",
+     "date": "2026-11-09T21:16:03+00:00",
+     "summary": "A shortage of new gas turbines is pushing AI developers toward refurbished power equipment and jet-engine-based generators, even as high prices, pollution concerns, and permitting delays threaten their expansion plans."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T21:16:03+00:00",
+   "last_seen": "2026-11-09T21:16:03+00:00",
+   "summary": "A shortage of new gas turbines is pushing AI developers toward refurbished power equipment and jet-engine-based generators, even as high prices, pollution concerns, and permitting delays threaten their expansion plans.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "ebd1d647a1",
+   "title": "Markey Demands AI-Free Google Search Option for Schools",
+   "date": "2026-11-09T21:09:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Markey Demands AI-Free Google Search Option for Schools",
+     "url": "https://thedefiant.io/frontier/ai/markey-demands-ai-free-google-search-option-for-schools",
+     "date": "2026-11-09T21:09:51+00:00",
+     "summary": "Google says schools will be able to enable Search and Gemini separately, but AI Overviews remain built into Search."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T21:09:51+00:00",
+   "last_seen": "2026-11-09T21:09:51+00:00",
+   "summary": "Google says schools will be able to enable Search and Gemini separately, but AI Overviews remain built into Search.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "bca00c1879",
+   "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+   "date": "2026-11-09T21:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Should you leave Australia to avoid paying 47% tax on crypto gains?",
+     "url": "https://cointelegraph.com/magazine/should-you-leave-australia-to-avoid-47-tax-on-crypto-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-09T21:00:00+00:00",
+     "summary": "Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay less tax."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T21:00:00+00:00",
+   "last_seen": "2026-11-09T21:00:00+00:00",
+   "summary": "Some Australian crypto investors are moving overseas to avoid the huge CGT increase from July 2027. But there are also less drastic ways you can pay less tax.",
+   "tags": []
+  },
+  {
+   "id": "a665f05939",
+   "title": "Sigma Prime Releases High-Priority Lighthouse Security Update",
+   "date": "2026-11-09T20:49:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Sigma Prime Releases High-Priority Lighthouse Security Update",
+     "url": "https://thedefiant.io/news/security/sigma-prime-releases-high-priority-lighthouse-security-update",
+     "date": "2026-11-09T20:49:55+00:00",
+     "summary": "Vulnerability details will follow once operators have had time to upgrade. The release introduces no breaking changes."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T20:49:55+00:00",
+   "last_seen": "2026-11-09T20:49:55+00:00",
+   "summary": "Vulnerability details will follow once operators have had time to upgrade. The release introduces no breaking changes.",
+   "tags": []
+  },
+  {
+   "id": "218fb7f824",
+   "title": "Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide",
+   "date": "2026-11-09T20:39:56+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide",
+     "url": "https://bitcoinmagazine.com/news/amundi-boosts-strategy-mstr-stake-44",
+     "date": "2026-11-09T20:39:56+00:00",
+     "summary": "Bitcoin Magazine Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide Europe's largest asset manager raised its Strategy holding to 1.9 million shares in the third quarter, a 13F shows, even as MSTR has since fallen about 18% from quarter-end. This post Amundi..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T20:39:56+00:00",
+   "last_seen": "2026-11-09T20:39:56+00:00",
+   "summary": "Bitcoin Magazine Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide Europe's largest asset manager raised its Strategy holding to 1.9 million shares in the third quarter, a 13F shows, even as MSTR has since fallen about 18% from quarter-end. This post Amundi...",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "fbb57847ef",
+   "title": "Former Ethereum Foundation Employee Sues Over Mandate-Linked Firing",
+   "date": "2026-11-09T20:39:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Former Ethereum Foundation Employee Sues Over Mandate-Linked Firing",
+     "url": "https://thedefiant.io/news/people/former-ethereum-foundation-employee-sues-over-mandate-linked-firing",
+     "date": "2026-11-09T20:39:54+00:00",
+     "summary": "Kayleen Fulton alleges disability discrimination and retaliation. Vitalik Buterin and Bastian Aue are also named as defendants."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T20:39:54+00:00",
+   "last_seen": "2026-11-09T20:39:54+00:00",
+   "summary": "Kayleen Fulton alleges disability discrimination and retaliation. Vitalik Buterin and Bastian Aue are also named as defendants.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "79b9e26c40",
+   "title": "Fireworks Says Breach Exposed Billing Data, Datasets and Incomplete Model Weights",
+   "date": "2026-11-09T20:36:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Fireworks Says Breach Exposed Billing Data, Datasets and Incomplete Model Weights",
+     "url": "https://thedefiant.io/frontier/security/fireworks-says-breach-exposed-billing-data-datasets-and-incomplete-model-weights",
+     "date": "2026-11-09T20:36:15+00:00",
+     "summary": "The company disabled self-service dataset transfers for batch inference and dataset-based training, while reporting no detected impact to its Inference service or Training SDK."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T20:36:15+00:00",
+   "last_seen": "2026-11-09T20:36:15+00:00",
+   "summary": "The company disabled self-service dataset transfers for batch inference and dataset-based training, while reporting no detected impact to its Inference service or Training SDK.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "4088d2dc9c",
+   "title": "Elizabeth Warren Plans Prediction Market Crackdown as She Prepares to Chair Senate Banking",
+   "date": "2026-11-09T20:31:38+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Elizabeth Warren Plans Prediction Market Crackdown as She Prepares to Chair Senate Banking",
+     "url": "https://bitcoinmagazine.com/news/elizabeth-warren-prediction-crackdown",
+     "date": "2026-11-09T20:31:38+00:00",
+     "summary": "Bitcoin Magazine Elizabeth Warren Plans Prediction Market Crackdown as She Prepares to Chair Senate Banking A Warren banking aide says the incoming Senate Banking chair will target prediction markets' \"Wild West-style lack of oversight,\" after she and Sen. John Curtis pressed..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T20:31:38+00:00",
+   "last_seen": "2026-11-09T20:31:38+00:00",
+   "summary": "Bitcoin Magazine Elizabeth Warren Plans Prediction Market Crackdown as She Prepares to Chair Senate Banking A Warren banking aide says the incoming Senate Banking chair will target prediction markets' \"Wild West-style lack of oversight,\" after she and Sen. John Curtis pressed...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "06a2dd9009",
+   "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+   "date": "2026-11-09T20:26:34+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+     "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-09T20:26:34+00:00",
+     "summary": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T20:26:34+00:00",
+   "last_seen": "2026-11-09T20:26:34+00:00",
+   "summary": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets.",
+   "tags": [
+    "defi",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "a22d263b84",
+   "title": "Anthropic to Launch Nasdaq IPO Tuesday, IFR Reports",
+   "date": "2026-11-09T20:24:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Anthropic to Launch Nasdaq IPO Tuesday, IFR Reports",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-to-launch-nasdaq-ipo-tuesday-ifr-reports",
+     "date": "2026-11-09T20:24:47+00:00",
+     "summary": "Public trading would activate Ondo and Dinari tokenization plans, while existing derivatives would not become IPO allocations."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T20:24:47+00:00",
+   "last_seen": "2026-11-09T20:24:47+00:00",
+   "summary": "Public trading would activate Ondo and Dinari tokenization plans, while existing derivatives would not become IPO allocations.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "c4d41fea48",
+   "title": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory",
+   "date": "2026-11-09T20:16:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Google Takes Aim at Nvidia With New AI Chips Built for Privacy and Massive Memory",
+     "url": "https://decrypt.co/382874/google-nvidia-new-ai-chips-privacy-massive-memory-ai",
+     "date": "2026-11-09T20:16:02+00:00",
+     "summary": "Google\u2019s TPU 8tx protects sensitive AI workloads, while the dual-chip TPU 8i Max targets memory-hungry AI agents."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T20:16:02+00:00",
+   "last_seen": "2026-11-09T20:16:02+00:00",
+   "summary": "Google\u2019s TPU 8tx protects sensitive AI workloads, while the dual-chip TPU 8i Max targets memory-hungry AI agents.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "85a8e5aba3",
+   "title": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
+   "date": "2026-11-09T20:04:49+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
+     "url": "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898",
+     "date": "2026-11-09T20:04:49+00:00",
+     "summary": "Sen. Elizabeth Warren is setting her sights on prediction market oversight and the Trump family's burgeoning crypto businesses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T20:04:49+00:00",
+   "last_seen": "2026-11-09T20:04:49+00:00",
+   "summary": "Sen. Elizabeth Warren is setting her sights on prediction market oversight and the Trump family's burgeoning crypto businesses.",
+   "tags": []
+  },
+  {
+   "id": "3430b53a17",
+   "title": "XRP\u2019s new euro cash-out route had less than \u20ac100 in its direct market",
+   "date": "2026-11-09T20:00:36+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP\u2019s new euro cash-out route had less than \u20ac100 in its direct market",
+     "url": "https://cryptoslate.com/xrps-new-euro-cash-out-route-had-less-than-e100-in-its-direct-market/",
+     "date": "2026-11-09T20:00:36+00:00",
+     "summary": "A Nov. 8 ledger snapshot offered just 96.80 EURGH to direct XRP sellers, exposing a conversion limit before GateHub&#039;s announced SEPA redemption. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T20:00:36+00:00",
+   "last_seen": "2026-11-09T20:00:36+00:00",
+   "summary": "A Nov. 8 ledger snapshot offered just 96.80 EURGH to direct XRP sellers, exposing a conversion limit before GateHub&#039;s announced SEPA redemption. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": []
+  },
+  {
+   "id": "887ca37ad8",
+   "title": "Attackers Exploit Alpine SSH Password-Bypass Flaw",
+   "date": "2026-11-09T19:52:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Attackers Exploit Alpine SSH Password-Bypass Flaw",
+     "url": "https://thedefiant.io/news/security/attackers-exploit-alpine-ssh-password-bypass-flaw",
+     "date": "2026-11-09T19:52:50+00:00",
+     "summary": "GreyNoise reports successful exploitation, while Previdian logged 20 attempts. Alpine operators need to patch and restart SSH, or disable password authentication."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T19:52:50+00:00",
+   "last_seen": "2026-11-09T19:52:50+00:00",
+   "summary": "GreyNoise reports successful exploitation, while Previdian logged 20 attempts. Alpine operators need to patch and restart SSH, or disable password authentication.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "23154ac296",
+   "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+   "date": "2026-11-09T19:52:34+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+     "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-09T19:52:34+00:00",
+     "summary": "The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T19:52:34+00:00",
+   "last_seen": "2026-11-09T19:52:34+00:00",
+   "summary": "The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027.",
+   "tags": [
+    "regulation",
+    "solana"
+   ]
+  },
+  {
+   "id": "08536019d8",
+   "title": "Robinhood backs tokenization of its stock on OKX\u2013ICE platform even as most companies opt out",
+   "date": "2026-11-09T19:36:15+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Robinhood backs tokenization of its stock on OKX\u2013ICE platform even as most companies opt out",
+     "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+     "date": "2026-11-09T19:36:15+00:00",
+     "summary": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the Intercontinental Exchange and OKX joint venture."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T19:36:15+00:00",
+   "last_seen": "2026-11-09T19:36:15+00:00",
+   "summary": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the Intercontinental Exchange and OKX joint venture.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "f9524f90e1",
+   "title": "World Liberty Says WLFI Buybacks Have Begun on Aster",
+   "date": "2026-11-09T19:28:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "World Liberty Says WLFI Buybacks Have Begun on Aster",
+     "url": "https://thedefiant.io/news/defi/world-liberty-says-wlfi-buybacks-have-begun-on-aster",
+     "date": "2026-11-09T19:28:35+00:00",
+     "summary": "The disclosed wallet deposited 10 million USD1 into Aster, while the company left the buyback budget and purchase schedule discretionary."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T19:28:35+00:00",
+   "last_seen": "2026-11-09T19:28:35+00:00",
+   "summary": "The disclosed wallet deposited 10 million USD1 into Aster, while the company left the buyback budget and purchase schedule discretionary.",
+   "tags": []
+  },
+  {
+   "id": "11a3443801",
+   "title": "Shield AI Says Hivemind Flew Multiple Air Force Drones as a Team",
+   "date": "2026-11-09T19:17:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Shield AI Says Hivemind Flew Multiple Air Force Drones as a Team",
+     "url": "https://thedefiant.io/frontier/ai/shield-ai-says-hivemind-flew-multiple-air-force-drones-as-a-team",
+     "date": "2026-11-09T19:17:49+00:00",
+     "summary": "An earlier test let an F-22 pilot direct a single Fury, while the broader CCA program remains in operational experimentation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T19:17:49+00:00",
+   "last_seen": "2026-11-09T19:17:49+00:00",
+   "summary": "An earlier test let an F-22 pilot direct a single Fury, while the broader CCA program remains in operational experimentation.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "cea9758d5e",
+   "title": "A Brazilian crypto exchange plans to show customers their money, not let them move it",
+   "date": "2026-11-09T19:10:21+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "A Brazilian crypto exchange plans to show customers their money, not let them move it",
+     "url": "https://cryptoslate.com/a-brazilian-crypto-exchange-plans-to-show-customers-their-money-not-let-them-move-it/",
+     "date": "2026-11-09T19:10:21+00:00",
+     "summary": "The staged restart will show the November 2 crypto snapshot, while withdrawals and trading await later phases. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T19:10:21+00:00",
+   "last_seen": "2026-11-09T19:10:21+00:00",
+   "summary": "The staged restart will show the November 2 crypto snapshot, while withdrawals and trading await later phases. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "3473179a3a",
+   "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+   "date": "2026-11-09T19:06:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+     "url": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+     "date": "2026-11-09T19:06:03+00:00",
+     "summary": "U.S. stocks rallied as oil fell, but Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday\u2019s inflation report set to test bets on a December Fed rate hike."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T19:06:03+00:00",
+   "last_seen": "2026-11-09T19:06:03+00:00",
+   "summary": "U.S. stocks rallied as oil fell, but Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday\u2019s inflation report set to test bets on a December Fed rate hike.",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "a84e7ee7df",
+   "title": "Anthropic Launches Fable 5.2 and Mythos 5.2 at Lower Token Prices",
+   "date": "2026-11-09T19:05:57+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Anthropic Launches Fable 5.2 and Mythos 5.2 at Lower Token Prices",
+     "url": "https://thedefiant.io/frontier/ai/anthropic-launches-fable-5-2-and-mythos-5-2-at-lower-token-prices",
+     "date": "2026-11-09T19:05:57+00:00",
+     "summary": "The models share an underlying system but use different safeguards, with Mythos access restricted to verified organizations."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T19:05:57+00:00",
+   "last_seen": "2026-11-09T19:05:57+00:00",
+   "summary": "The models share an underlying system but use different safeguards, with Mythos access restricted to verified organizations.",
+   "tags": []
+  },
+  {
+   "id": "5062856ec1",
+   "title": "Nvidia Trades 26% Below Record Close Amid Huang Review",
+   "date": "2026-11-09T18:51:21+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Nvidia Trades 26% Below Record Close Amid Huang Review",
+     "url": "https://thedefiant.io/frontier/markets/nvidia-trades-26-below-record-close-amid-huang-review",
+     "date": "2026-11-09T18:51:21+00:00",
+     "summary": "Shares had already lost 22% by Friday, while a semiconductor ETF fell 30.5% over the same month-long window."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T18:51:21+00:00",
+   "last_seen": "2026-11-09T18:51:21+00:00",
+   "summary": "Shares had already lost 22% by Friday, while a semiconductor ETF fell 30.5% over the same month-long window.",
+   "tags": [
+    "etfs"
+   ]
+  },
+  {
+   "id": "8c550418d1",
+   "title": "NHTSA Probes Waymo\u2019s School-Bus Fix After Reports of Continued Violations",
+   "date": "2026-11-09T18:36:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "NHTSA Probes Waymo\u2019s School-Bus Fix After Reports of Continued Violations",
+     "url": "https://thedefiant.io/frontier/technology/nhtsa-probes-waymo-s-school-bus-fix-after-reports-of-continued-violations",
+     "date": "2026-11-09T18:36:50+00:00",
+     "summary": "The probe covers 2,895 vehicles, and regulators say most incidents identified in an earlier investigation occurred after the November 2025 software update."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T18:36:50+00:00",
+   "last_seen": "2026-11-09T18:36:50+00:00",
+   "summary": "The probe covers 2,895 vehicles, and regulators say most incidents identified in an earlier investigation occurred after the November 2025 software update.",
+   "tags": []
+  },
   {
    "id": "bc06fcfafa",
    "title": "Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?",
@@ -102,6 +809,27 @@
    "tags": []
   },
   {
+   "id": "f68df25f66",
+   "title": "Meta Launches Muse Ember With Pricing From $0.10 Per Million Input Tokens",
+   "date": "2026-11-09T18:09:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Meta Launches Muse Ember With Pricing From $0.10 Per Million Input Tokens",
+     "url": "https://thedefiant.io/frontier/ai/meta-launches-muse-ember-with-pricing-from-0-10-per-million-input-tokens",
+     "date": "2026-11-09T18:09:15+00:00",
+     "summary": "Available through Meta Model API and Muse Code, the lightweight multimodal model handles repeated agent tasks while larger Muse models plan the work."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T18:09:15+00:00",
+   "last_seen": "2026-11-09T18:09:15+00:00",
+   "summary": "Available through Meta Model API and Muse Code, the lightweight multimodal model handles repeated agent tasks while larger Muse models plan the work.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
    "id": "b8963d1658",
    "title": "PNC Bank tests turning USDC payments into dollar deposits",
    "date": "2026-11-09T17:48:35+00:00",
@@ -142,6 +870,46 @@
    "summary": "Avalanche\u2019s AVAX token rose as much as 10% after the NYSE selected its blockchain to support settlement on a planned tokenized stock trading platform.",
    "tags": [
     "legal"
+   ]
+  },
+  {
+   "id": "277b69c43c",
+   "title": "Claude Code Approval Files Expose 1,379 Secrets on GitHub",
+   "date": "2026-11-09T17:40:10+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Claude Code Approval Files Expose 1,379 Secrets on GitHub",
+     "url": "https://thedefiant.io/frontier/ai/claude-code-approval-files-expose-1-379-secrets-on-github",
+     "date": "2026-11-09T17:40:10+00:00",
+     "summary": "Saved command approvals can retain passwords and tokens. Anthropic\u2019s Claude Code team is exploring safeguards, including built-in secret scanning."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T17:40:10+00:00",
+   "last_seen": "2026-11-09T17:40:10+00:00",
+   "summary": "Saved command approvals can retain passwords and tokens. Anthropic\u2019s Claude Code team is exploring safeguards, including built-in secret scanning.",
+   "tags": []
+  },
+  {
+   "id": "ebba9e28ba",
+   "title": "Skild AI Open-Sources Steel Physics Solver for Robot Training",
+   "date": "2026-11-09T17:38:27+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Skild AI Open-Sources Steel Physics Solver for Robot Training",
+     "url": "https://thedefiant.io/frontier/technology/skild-ai-open-sources-steel-physics-solver-for-robot-training",
+     "date": "2026-11-09T17:38:27+00:00",
+     "summary": "The Apache-licensed solver runs inside Newton; Skild reports up to 13 times PhysX\u2019s simulation throughput in mixed-task tests."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T17:38:27+00:00",
+   "last_seen": "2026-11-09T17:38:27+00:00",
+   "summary": "The Apache-licensed solver runs inside Newton; Skild reports up to 13 times PhysX\u2019s simulation throughput in mixed-task tests.",
+   "tags": [
+    "ai"
    ]
   },
   {
@@ -213,6 +981,25 @@
    ]
   },
   {
+   "id": "358e5653a0",
+   "title": "Google Adds Confidential and Long-Context Systems to TPU Lineup",
+   "date": "2026-11-09T17:13:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Google Adds Confidential and Long-Context Systems to TPU Lineup",
+     "url": "https://thedefiant.io/frontier/ai/google-adds-confidential-and-long-context-systems-to-tpu-lineup",
+     "date": "2026-11-09T17:13:51+00:00",
+     "summary": "TPU 8i Max combines two 8i chips in one package, while Google's product page lists all four eighth-generation systems as 'coming soon.'"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T17:13:51+00:00",
+   "last_seen": "2026-11-09T17:13:51+00:00",
+   "summary": "TPU 8i Max combines two 8i chips in one package, while Google's product page lists all four eighth-generation systems as 'coming soon.'",
+   "tags": []
+  },
+  {
    "id": "4ec9f357c5",
    "title": "Bitcoin, tech stocks brush off Nvidia nerves as analyst mulls $68K target",
    "date": "2026-11-09T17:13:25+00:00",
@@ -272,6 +1059,25 @@
    "tags": [
     "ethereum"
    ]
+  },
+  {
+   "id": "f29cbe549a",
+   "title": "Nvidia Board Opens Huang Investigation as CEO Admits Infidelity",
+   "date": "2026-11-09T17:07:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Nvidia Board Opens Huang Investigation as CEO Admits Infidelity",
+     "url": "https://thedefiant.io/frontier/ai/nvidia-board-opens-huang-investigation-as-ceo-admits-infidelity",
+     "date": "2026-11-09T17:07:19+00:00",
+     "summary": "Independent directors will oversee the review with outside counsel's help. The board backed Huang and said it had no reason to believe national security or company secrets were compromised."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T17:07:19+00:00",
+   "last_seen": "2026-11-09T17:07:19+00:00",
+   "summary": "Independent directors will oversee the review with outside counsel's help. The board backed Huang and said it had no reason to believe national security or company secrets were compromised.",
+   "tags": []
   },
   {
    "id": "987cd77b32",
@@ -415,14 +1221,23 @@
      "url": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440",
      "date": "2026-11-09T15:54:16+00:00",
      "summary": "Elliptic says the extra swaps slow investigators down, but the stolen funds remain traceable onchain."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
+     "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+     "date": "2026-11-09T19:36:02+00:00",
+     "summary": "Elliptic says the hackers are minting their own worthless tokens\u2014complete with cartoon animal and Elon Musk logos\u2014and routing stolen funds through liquidity pools to break the trail."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-09T15:54:16+00:00",
-   "last_seen": "2026-11-09T15:54:16+00:00",
-   "summary": "Elliptic says the extra swaps slow investigators down, but the stolen funds remain traceable onchain.",
+   "last_seen": "2026-11-09T19:36:02+00:00",
+   "summary": "Elliptic says the hackers are minting their own worthless tokens\u2014complete with cartoon animal and Elon Musk logos\u2014and routing stolen funds through liquidity pools to break the trail.",
    "tags": [
+    "defi",
     "exchanges",
+    "memecoins",
     "security"
    ]
   },
@@ -467,6 +1282,27 @@
    "summary": "The proposed U.S. threshold never took effect, while a $500 customer transfer can still require information before an EU exchange releases it. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
    "tags": [
     "exchanges"
+   ]
+  },
+  {
+   "id": "4da7a76dd6",
+   "title": "Dropbox Plans $350 Million Tigris Deal to Expand Into AI Storage",
+   "date": "2026-11-09T15:43:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Dropbox Plans $350 Million Tigris Deal to Expand Into AI Storage",
+     "url": "https://thedefiant.io/frontier/ai/dropbox-plans-350-million-tigris-deal-to-expand-into-ai-storage",
+     "date": "2026-11-09T15:43:42+00:00",
+     "summary": "DBX Agent Cloud starts with standalone S3-compatible object storage, with filesystem and content-processing capabilities planned next."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-09T15:43:42+00:00",
+   "last_seen": "2026-11-09T15:43:42+00:00",
+   "summary": "DBX Agent Cloud starts with standalone S3-compatible object storage, with filesystem and content-processing capabilities planned next.",
+   "tags": [
+    "ai"
    ]
   },
   {

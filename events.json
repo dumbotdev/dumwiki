@@ -1,6 +1,260 @@
 {
- "updated": "2026-11-10T23:29:52.760288+00:00",
+ "updated": "2026-11-11T06:42:43.032724+00:00",
  "events": [
+  {
+   "id": "033ef47c56",
+   "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
+   "date": "2026-11-11T06:22:32+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
+     "url": "https://www.theblock.co/news/business/2026-11-11-bitmine-6-3-billion-net-loss-437812",
+     "date": "2026-11-11T06:22:32+00:00",
+     "summary": "According to its SEC filing, nearly $6.23 billion of the net losses came from unrealized fair value losses on digital asset holdings."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T06:22:32+00:00",
+   "last_seen": "2026-11-11T06:22:32+00:00",
+   "summary": "According to its SEC filing, nearly $6.23 billion of the net losses came from unrealized fair value losses on digital asset holdings.",
+   "tags": [
+    "ethereum",
+    "regulation"
+   ]
+  },
+  {
+   "id": "29529f8171",
+   "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+   "date": "2026-11-11T05:52:14+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+     "url": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T05:52:14+00:00",
+     "summary": "Initia said an attacker exploited compromised cloud credentials to move $3.27 million in crypto assets, with about $2.16 million remaining frozen on its halted network."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T05:52:14+00:00",
+   "last_seen": "2026-11-11T05:52:14+00:00",
+   "summary": "Initia said an attacker exploited compromised cloud credentials to move $3.27 million in crypto assets, with about $2.16 million remaining frozen on its halted network.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "8b37afee8a",
+   "title": "Aave passes native Bitcoin lending proposal, but hidden liquidation risks remain",
+   "date": "2026-11-11T05:50:25+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Aave passes native Bitcoin lending proposal, but hidden liquidation risks remain",
+     "url": "https://cryptoslate.com/aave-passes-native-bitcoin-lending-proposal-but-hidden-liquidation-risks-remain/",
+     "date": "2026-11-11T05:50:25+00:00",
+     "summary": "Babylon reports ARFC passage for the plan, with proposed credit limits and a restricted mainnet rollout still ahead. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T05:50:25+00:00",
+   "last_seen": "2026-11-11T05:50:25+00:00",
+   "summary": "Babylon reports ARFC passage for the plan, with proposed credit limits and a restricted mainnet rollout still ahead. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "markets"
+   ]
+  },
+  {
+   "id": "7688e649ad",
+   "title": "Across Protocol restores website after hackers hijack domain",
+   "date": "2026-11-11T04:42:30+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Across Protocol restores website after hackers hijack domain",
+     "url": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T04:42:30+00:00",
+     "summary": "The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed hackers to redirect users to a phishing site."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T04:42:30+00:00",
+   "last_seen": "2026-11-11T04:42:30+00:00",
+   "summary": "The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed hackers to redirect users to a phishing site.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "5ed38f33f0",
+   "title": "Maternal AI chatbot shows zero postpartum mental health gain",
+   "date": "2026-11-11T04:30:03+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Maternal AI chatbot shows zero postpartum mental health gain",
+     "url": "https://cryptoslate.com/maternal-ai-chatbot-shows-zero-postpartum-mental-health-gain/",
+     "date": "2026-11-11T04:30:03+00:00",
+     "summary": "At 12 months, Rosie users showed no significant anxiety or depression advantage over a monthly children&#039;s book program. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T04:30:03+00:00",
+   "last_seen": "2026-11-11T04:30:03+00:00",
+   "summary": "At 12 months, Rosie users showed no significant anxiety or depression advantage over a monthly children&#039;s book program. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "0a1381270b",
+   "title": "Tron Inc reports 22% rise in Q3 net income as unrealized staking revenue grows",
+   "date": "2026-11-11T04:02:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Tron Inc reports 22% rise in Q3 net income as unrealized staking revenue grows",
+     "url": "https://www.theblock.co/news/business/2026-11-10-tron-inc-q3-net-income-437786",
+     "date": "2026-11-11T04:02:02+00:00",
+     "summary": "The company reported Q3 2026 net income of $14.9 million, up 22% year-over-year, with a nine-month net income of $39.4 million, up 203%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T04:02:02+00:00",
+   "last_seen": "2026-11-11T04:02:02+00:00",
+   "summary": "The company reported Q3 2026 net income of $14.9 million, up 22% year-over-year, with a nine-month net income of $39.4 million, up 203%.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "73348d7318",
+   "title": "Strategy\u2019s STRC hit $100, but common stock still funded last week\u2019s Bitcoin purchases",
+   "date": "2026-11-11T03:30:46+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Strategy\u2019s STRC hit $100, but common stock still funded last week\u2019s Bitcoin purchases",
+     "url": "https://cryptoslate.com/strategys-strc-hit-100-but-common-stock-still-funded-last-weeks-bitcoin-purchases/",
+     "date": "2026-11-11T03:30:46+00:00",
+     "summary": "The November 2\u20138 filing reports no STRC ATM sales, while buybacks absorbed two-thirds of the week\u2019s MSTR proceeds. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T03:30:46+00:00",
+   "last_seen": "2026-11-11T03:30:46+00:00",
+   "summary": "The November 2\u20138 filing reports no STRC ATM sales, while buybacks absorbed two-thirds of the week\u2019s MSTR proceeds. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "e33b9f427b",
+   "title": "Crypto ally Tom Emmer elected House GOP minority whip",
+   "date": "2026-11-11T03:07:45+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto ally Tom Emmer elected House GOP minority whip",
+     "url": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T03:07:45+00:00",
+     "summary": "The Minnesota lawmaker, who helped establish the Congressional Crypto Caucus, will stay on as Republican whip after Democrats won the midterms."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T03:07:45+00:00",
+   "last_seen": "2026-11-11T03:07:45+00:00",
+   "summary": "The Minnesota lawmaker, who helped establish the Congressional Crypto Caucus, will stay on as Republican whip after Democrats won the midterms.",
+   "tags": []
+  },
+  {
+   "id": "909df30c74",
+   "title": "Solana perp volume explodes 65% amid shrinking spot activity",
+   "date": "2026-11-11T02:10:48+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Solana perp volume explodes 65% amid shrinking spot activity",
+     "url": "https://cryptoslate.com/solana-perp-volume-explodes-65-amid-shrinking-spot-activity/",
+     "date": "2026-11-11T02:10:48+00:00",
+     "summary": "The venue accounts for about 77% of weekly turnover in DefiLlama\u2019s Solana table, concentrating growth as stablecoin market capitalization falls. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T02:10:48+00:00",
+   "last_seen": "2026-11-11T02:10:48+00:00",
+   "summary": "The venue accounts for about 77% of weekly turnover in DefiLlama\u2019s Solana table, concentrating growth as stablecoin market capitalization falls. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "solana",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "1f58f7e116",
+   "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+   "date": "2026-11-11T01:16:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
+     "url": "https://cointelegraph.com/news/lnbits-rushes-emergency-patch-after-reported-bitcoin-wallet-thefts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T01:16:58+00:00",
+     "summary": "The project warned that installations running older versions were vulnerable and urged operators to replace potentially exposed credentials even after upgrading."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T01:16:58+00:00",
+   "last_seen": "2026-11-11T01:16:58+00:00",
+   "summary": "The project warned that installations running older versions were vulnerable and urged operators to replace potentially exposed credentials even after upgrading.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "1fb1762f1b",
+   "title": "Bitcoin devs merge 3 new BIPs, and transaction fees could plummet",
+   "date": "2026-11-10T23:50:19+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin devs merge 3 new BIPs, and transaction fees could plummet",
+     "url": "https://cryptoslate.com/bitcoin-devs-merge-3-new-bips-and-transaction-fees-could-plummet/",
+     "date": "2026-11-10T23:50:19+00:00",
+     "summary": "Full aggregation could lower fees about 14% for a modeled joint payment or 27% for consolidation, with activation and wallet support unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T23:50:19+00:00",
+   "last_seen": "2026-11-10T23:50:19+00:00",
+   "summary": "Full aggregation could lower fees about 14% for a modeled joint payment or 27% for consolidation, with activation and wallet support unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "bca71c1fc6",
+   "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
+   "date": "2026-11-10T23:49:51+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
+     "url": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-10T23:49:51+00:00",
+     "summary": "The prediction markets operator says the issue involves procedural errors affecting a handful of contracts, many of which weren\u2019t live, according to Politico."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-10T23:49:51+00:00",
+   "last_seen": "2026-11-10T23:49:51+00:00",
+   "summary": "The prediction markets operator says the issue involves procedural errors affecting a handful of contracts, many of which weren\u2019t live, according to Politico.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "1b68c1ac9c",
    "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",

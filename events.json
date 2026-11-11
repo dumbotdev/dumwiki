@@ -1,6 +1,1148 @@
 {
- "updated": "2026-11-11T06:42:43.032724+00:00",
+ "updated": "2026-11-11T15:23:25.493860+00:00",
  "events": [
+  {
+   "id": "341de8f2a8",
+   "title": "Runway Releases Praxis-1 Robot Model With Open Weights",
+   "date": "2026-11-11T15:13:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Runway Releases Praxis-1 Robot Model With Open Weights",
+     "url": "https://thedefiant.io/frontier/ai/runway-releases-praxis-1-robot-model-with-open-weights",
+     "date": "2026-11-11T15:13:04+00:00",
+     "summary": "Apache 2.0 weights and code move the robot controller beyond partner testing, but new hardware still requires substantial adaptation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T15:13:04+00:00",
+   "last_seen": "2026-11-11T15:13:04+00:00",
+   "summary": "Apache 2.0 weights and code move the robot controller beyond partner testing, but new hardware still requires substantial adaptation.",
+   "tags": []
+  },
+  {
+   "id": "ab5e9d1fa3",
+   "title": "Maple Co-Founder Flanagan Exits Over Strategy Split",
+   "date": "2026-11-11T15:10:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Maple Co-Founder Flanagan Exits Over Strategy Split",
+     "url": "https://thedefiant.io/news/defi/maple-co-founder-flanagan-exits-over-strategy-split",
+     "date": "2026-11-11T15:10:44+00:00",
+     "summary": "Joe Flanagan said he will support a handover through year-end. Maple described an agreed transition and said its direction remains unchanged."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T15:10:44+00:00",
+   "last_seen": "2026-11-11T15:10:44+00:00",
+   "summary": "Joe Flanagan said he will support a handover through year-end. Maple described an agreed transition and said its direction remains unchanged.",
+   "tags": []
+  },
+  {
+   "id": "5530304259",
+   "title": "Hoskinson says he cannot run Cardano like a CEO. Who is accountable for its growth?",
+   "date": "2026-11-11T15:10:14+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Hoskinson says he cannot run Cardano like a CEO. Who is accountable for its growth?",
+     "url": "https://cryptoslate.com/hoskinson-says-he-cannot-run-cardano-like-a-ceo-who-is-accountable-for-its-growth/",
+     "date": "2026-11-11T15:10:14+00:00",
+     "summary": "DReps approve spending, while recipients and administrators answer for funded work that ADA holders can trace through public reports. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T15:10:14+00:00",
+   "last_seen": "2026-11-11T15:10:14+00:00",
+   "summary": "DReps approve spending, while recipients and administrators answer for funded work that ADA holders can trace through public reports. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "4a7b2f9c80",
+   "title": "Pyth Adds Real-Time NYSE Data to Its Data Marketplace",
+   "date": "2026-11-11T15:09:59+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Pyth Adds Real-Time NYSE Data to Its Data Marketplace",
+     "url": "https://thedefiant.io/news/infrastructure/pyth-adds-real-time-nyse-data-to-its-data-marketplace",
+     "date": "2026-11-11T15:09:59+00:00",
+     "summary": "The Level 1 feed covers five NYSE Group exchanges. Clients must license the data directly with NYSE before receiving it through Pyth."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T15:09:59+00:00",
+   "last_seen": "2026-11-11T15:09:59+00:00",
+   "summary": "The Level 1 feed covers five NYSE Group exchanges. Clients must license the data directly with NYSE before receiving it through Pyth.",
+   "tags": []
+  },
+  {
+   "id": "33b7be5cc3",
+   "title": "Why Pronostyx Is Building Prediction Markets for Questions the Big Platforms Ignore",
+   "date": "2026-11-11T15:00:11+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Why Pronostyx Is Building Prediction Markets for Questions the Big Platforms Ignore",
+     "url": "https://cryptoslate.com/why-pronostyx-is-building-prediction-markets-for-questions-the-big-platforms-ignore/",
+     "date": "2026-11-11T15:00:11+00:00",
+     "summary": "Illustrative Spanish-language markets on Pronostyx, each with its named resolution source. Image: Pronostyx. Prediction markets have had a breakout few years. What began as a niche corner of crypto has become a mainstream way to put a number on uncertain events, from elections..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T15:00:11+00:00",
+   "last_seen": "2026-11-11T15:00:11+00:00",
+   "summary": "Illustrative Spanish-language markets on Pronostyx, each with its named resolution source. Image: Pronostyx. Prediction markets have had a breakout few years. What began as a niche corner of crypto has become a mainstream way to put a number on uncertain events, from elections...",
+   "tags": []
+  },
+  {
+   "id": "7e920366db",
+   "title": "Anthropic Perp Exposure Tops $300 Million in Snapshots",
+   "date": "2026-11-11T14:51:01+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Anthropic Perp Exposure Tops $300 Million in Snapshots",
+     "url": "https://thedefiant.io/news/defi/anthropic-perp-exposure-tops-300-million-in-snapshots",
+     "date": "2026-11-11T14:51:01+00:00",
+     "summary": "Buildix readings span multiple Hyperliquid markets. The Trade.xyz contract alone showed $109.4 million, about 30% above The Defiant\u2019s Nov. 10 snapshot."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T14:51:01+00:00",
+   "last_seen": "2026-11-11T14:51:01+00:00",
+   "summary": "Buildix readings span multiple Hyperliquid markets. The Trade.xyz contract alone showed $109.4 million, about 30% above The Defiant\u2019s Nov. 10 snapshot.",
+   "tags": []
+  },
+  {
+   "id": "37243ea446",
+   "title": "Deutsche Bank Switches On Bitcoin Custody for Paying Clients",
+   "date": "2026-11-11T14:48:10+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Deutsche Bank Switches On Bitcoin Custody for Paying Clients",
+     "url": "https://bitcoinmagazine.com/news/deutsche-bank-bitcoin-custody-live",
+     "date": "2026-11-11T14:48:10+00:00",
+     "summary": "Bitcoin Magazine Deutsche Bank Switches On Bitcoin Custody for Paying Clients Germany's largest lender now holds bitcoin, ether and three stablecoins for institutional and corporate clients in Europe, but it has not named any customers or disclosed fees. This post Deutsche Bank..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T14:48:10+00:00",
+   "last_seen": "2026-11-11T14:48:10+00:00",
+   "summary": "Bitcoin Magazine Deutsche Bank Switches On Bitcoin Custody for Paying Clients Germany's largest lender now holds bitcoin, ether and three stablecoins for institutional and corporate clients in Europe, but it has not named any customers or disclosed fees. This post Deutsche Bank...",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "3970407e1f",
+   "title": "Bitcoin \u2018ripe for a squeeze\u2019 as options traders raise odds of sub-$70,000 Christmas",
+   "date": "2026-11-11T14:44:31+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin \u2018ripe for a squeeze\u2019 as options traders raise odds of sub-$70,000 Christmas",
+     "url": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897",
+     "date": "2026-11-11T14:44:31+00:00",
+     "summary": "Bitcoin trades below $74,000 on Wednesday after five weekly losses, with Derive pricing 31% odds of a sub-$70,000 Christmas."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T14:44:31+00:00",
+   "last_seen": "2026-11-11T14:44:31+00:00",
+   "summary": "Bitcoin trades below $74,000 on Wednesday after five weekly losses, with Derive pricing 31% odds of a sub-$70,000 Christmas.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "c87ef27719",
+   "title": "Keplr User Reports 1,200 ATOM Move Amid Recovery Effort",
+   "date": "2026-11-11T14:20:25+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Keplr User Reports 1,200 ATOM Move Amid Recovery Effort",
+     "url": "https://thedefiant.io/news/security/keplr-user-reports-1-200-atom-move-amid-recovery-effort",
+     "date": "2026-11-11T14:20:25+00:00",
+     "summary": "Onchain records confirm the staked assets moved to an address outside the Nov. 8 recovery list. That does not establish who controls it."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T14:20:25+00:00",
+   "last_seen": "2026-11-11T14:20:25+00:00",
+   "summary": "Onchain records confirm the staked assets moved to an address outside the Nov. 8 recovery list. That does not establish who controls it.",
+   "tags": []
+  },
+  {
+   "id": "05141b4410",
+   "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
+   "date": "2026-11-11T14:02:55+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
+     "url": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix",
+     "date": "2026-11-11T14:02:55+00:00",
+     "summary": "The integration brings perpetual futures trading into Decrypt, so readers can trade crypto, stocks and commodities without leaving the news."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T14:02:55+00:00",
+   "last_seen": "2026-11-11T14:02:55+00:00",
+   "summary": "The integration brings perpetual futures trading into Decrypt, so readers can trade crypto, stocks and commodities without leaving the news.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "52e7d5f5f8",
+   "title": "Deutsche Bank launches crypto custody for companies and institutions",
+   "date": "2026-11-11T14:02:18+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Deutsche Bank launches crypto custody for companies and institutions",
+     "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T14:02:18+00:00",
+     "summary": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T14:02:18+00:00",
+   "last_seen": "2026-11-11T14:02:18+00:00",
+   "summary": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "8a2837a2e1",
+   "title": "Bitcoin holds $73,000 as odds of a December 50 bps rate hike jump",
+   "date": "2026-11-11T13:40:04+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin holds $73,000 as odds of a December 50 bps rate hike jump",
+     "url": "https://cryptoslate.com/bitcoin-holds-73000-as-odds-of-a-december-50-bps-rate-hike-jump/",
+     "date": "2026-11-11T13:40:04+00:00",
+     "summary": "The odds of a 50-basis-point Federal Reserve hike in December rose from 0% to 13.6% on Nov. 10 after October CPI beat forecasts, as Bitcoin fell to an intraday low below $73,000. Meanwhile, the odds of a 25-basis-point hike climbed from 84% to 86.4%, according to a Nov. 10 CME..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T13:40:04+00:00",
+   "last_seen": "2026-11-11T13:40:04+00:00",
+   "summary": "The odds of a 50-basis-point Federal Reserve hike in December rose from 0% to 13.6% on Nov. 10 after October CPI beat forecasts, as Bitcoin fell to an intraday low below $73,000. Meanwhile, the odds of a 25-basis-point hike climbed from 84% to 86.4%, according to a Nov. 10 CME...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "c6234f36ad",
+   "title": "Nomura\u2019s Laser Digital helps launch Saudi SME credit vault targeting $100 million on BNB Chain",
+   "date": "2026-11-11T13:35:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Nomura\u2019s Laser Digital helps launch Saudi SME credit vault targeting $100 million on BNB Chain",
+     "url": "https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824",
+     "date": "2026-11-11T13:35:02+00:00",
+     "summary": "Nomura's Laser Digital is advising ZIG Finance on a tokenized Saudi SME private credit vault targeting a $100 million raise on BNB Chain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T13:35:02+00:00",
+   "last_seen": "2026-11-11T13:35:02+00:00",
+   "summary": "Nomura's Laser Digital is advising ZIG Finance on a tokenized Saudi SME private credit vault targeting a $100 million raise on BNB Chain.",
+   "tags": []
+  },
+  {
+   "id": "f562849133",
+   "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
+   "date": "2026-11-11T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
+     "url": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T13:30:00+00:00",
+     "summary": "Ueno\u2019s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T13:30:00+00:00",
+   "last_seen": "2026-11-11T13:30:00+00:00",
+   "summary": "Ueno\u2019s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline.",
+   "tags": []
+  },
+  {
+   "id": "48ac958b9e",
+   "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY \u2014 How Bitcoin could carry state across transactions",
+   "date": "2026-11-11T13:26:18+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY \u2014 How Bitcoin could carry state across transactions",
+     "url": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T13:26:18+00:00",
+     "summary": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T13:26:18+00:00",
+   "last_seen": "2026-11-11T13:26:18+00:00",
+   "summary": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs.",
+   "tags": [
+    "bitcoin",
+    "legal"
+   ]
+  },
+  {
+   "id": "e73e993276",
+   "title": "OKXICE Sets Nov. 23 Stock-Token Launch After Objections",
+   "date": "2026-11-11T13:11:34+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OKXICE Sets Nov. 23 Stock-Token Launch After Objections",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-sets-nov-23-stock-token-launch-after-objections",
+     "date": "2026-11-11T13:11:34+00:00",
+     "summary": "The venture expects more than 70 assets, including 59 Direxion ETFs, but issuer objections still constrain shares tokenized by unaffiliated third parties."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T13:11:34+00:00",
+   "last_seen": "2026-11-11T13:11:34+00:00",
+   "summary": "The venture expects more than 70 assets, including 59 Direxion ETFs, but issuer objections still constrain shares tokenized by unaffiliated third parties.",
+   "tags": [
+    "etfs"
+   ]
+  },
+  {
+   "id": "0b6ff37361",
+   "title": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
+   "date": "2026-11-11T13:02:30+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
+     "url": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T13:02:30+00:00",
+     "summary": "CoreWeave\u2019s third-quarter revenue rose 168% to $3.66 billion, beating analyst estimates by 3.4%. Its revenue backlog reached $132.5 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T13:02:30+00:00",
+   "last_seen": "2026-11-11T13:02:30+00:00",
+   "summary": "CoreWeave\u2019s third-quarter revenue rose 168% to $3.66 billion, beating analyst estimates by 3.4%. Its revenue backlog reached $132.5 billion.",
+   "tags": []
+  },
+  {
+   "id": "d6416163e2",
+   "title": "OKXICE sets Nov. 23 launch for tokenized securities venue under SEC innovation exemption",
+   "date": "2026-11-11T13:01:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "OKXICE sets Nov. 23 launch for tokenized securities venue under SEC innovation exemption",
+     "url": "https://www.theblock.co/news/regulation/2026-11-11-okxice-sets-nov-23-launch-for-tokenized-securities-venue-under-sec-innovation-exemption-437342",
+     "date": "2026-11-11T13:01:02+00:00",
+     "summary": "OKXICC, plans to launch its tokenized securities venue at the end of the month, the joint venture announced on Wednesday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T13:01:02+00:00",
+   "last_seen": "2026-11-11T13:01:02+00:00",
+   "summary": "OKXICC, plans to launch its tokenized securities venue at the end of the month, the joint venture announced on Wednesday.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "77cf5958ed",
+   "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
+   "date": "2026-11-11T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
+     "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
+     "date": "2026-11-11T13:00:00+00:00",
+     "summary": "After initial issuer pushback, the blockchain venue is set to start trading on Nov. 23 and said will list over 70 assets, including Strategy\u2019s common and preferred shares and 59 of Direxion's ETFs."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T13:00:00+00:00",
+   "last_seen": "2026-11-11T13:00:00+00:00",
+   "summary": "After initial issuer pushback, the blockchain venue is set to start trading on Nov. 23 and said will list over 70 assets, including Strategy\u2019s common and preferred shares and 59 of Direxion's ETFs.",
+   "tags": [
+    "etfs",
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "8e1be48902",
+   "title": "Meet Spiko, the largest tokenized fund in the world you\u2019ve probably never heard about",
+   "date": "2026-11-11T12:57:36+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Meet Spiko, the largest tokenized fund in the world you\u2019ve probably never heard about",
+     "url": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
+     "date": "2026-11-11T12:57:36+00:00",
+     "summary": "The firm\u2019s flagship Spiko Amundi Overnight Swap Fund (SAFO) held $2.39 billion in assets under management as of late last month."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T12:57:36+00:00",
+   "last_seen": "2026-11-11T12:57:36+00:00",
+   "summary": "The firm\u2019s flagship Spiko Amundi Overnight Swap Fund (SAFO) held $2.39 billion in assets under management as of late last month.",
+   "tags": []
+  },
+  {
+   "id": "615710f9fe",
+   "title": "Morning Minute: What Anthropic\u2019s $1.4 Trillion IPO Means for Crypto",
+   "date": "2026-11-11T12:55:18+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: What Anthropic\u2019s $1.4 Trillion IPO Means for Crypto",
+     "url": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto",
+     "date": "2026-11-11T12:55:18+00:00",
+     "summary": "Hint: if it plays out similarly to the SpaceX IPO, it means the Bitcoin bottom is very close."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T12:55:18+00:00",
+   "last_seen": "2026-11-11T12:55:18+00:00",
+   "summary": "Hint: if it plays out similarly to the SpaceX IPO, it means the Bitcoin bottom is very close.",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "a08cb77d64",
+   "title": "Bitcoin Core discloses three patched security flaws, including high-severity mining bug",
+   "date": "2026-11-11T12:50:08+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin Core discloses three patched security flaws, including high-severity mining bug",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-including-high-severity-mining-bug-437862",
+     "date": "2026-11-11T12:50:08+00:00",
+     "summary": "Bitcoin Core disclosed three previously patched security vulnerabilities, including a high-severity bug affecting block template creation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T12:50:08+00:00",
+   "last_seen": "2026-11-11T12:50:08+00:00",
+   "summary": "Bitcoin Core disclosed three previously patched security vulnerabilities, including a high-severity bug affecting block template creation.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "7c50ee5a7e",
+   "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
+   "date": "2026-11-11T12:46:24+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
+     "url": "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks",
+     "date": "2026-11-11T12:46:24+00:00",
+     "summary": "The expansion takes xStocks past 1,500 tokenized assets, though the new UK tokens still can't be bought by investors in the UK."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T12:46:24+00:00",
+   "last_seen": "2026-11-11T12:46:24+00:00",
+   "summary": "The expansion takes xStocks past 1,500 tokenized assets, though the new UK tokens still can't be bought by investors in the UK.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "8b7d305907",
+   "title": "Crypto fraudster jailed for eight years over $2.7 million theft plot directed from prison",
+   "date": "2026-11-11T12:46:16+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Crypto fraudster jailed for eight years over $2.7 million theft plot directed from prison",
+     "url": "https://www.theblock.co/news/regulation/2026-11-11-crypto-fraudster-jailed-for-eight-years-over-2-7-million-theft-plot-directed-from-prison-437858",
+     "date": "2026-11-11T12:46:16+00:00",
+     "summary": "Robert Barr was jailed for eight years for orchestrating an attempted \u00a32 million cryptocurrency theft from his prison cell."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T12:46:16+00:00",
+   "last_seen": "2026-11-11T12:46:16+00:00",
+   "summary": "Robert Barr was jailed for eight years for orchestrating an attempted \u00a32 million cryptocurrency theft from his prison cell.",
+   "tags": []
+  },
+  {
+   "id": "d2f9807b34",
+   "title": "Tokenized stock trading hits $2.7B even though trades can cost 3% more",
+   "date": "2026-11-11T12:45:00+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Tokenized stock trading hits $2.7B even though trades can cost 3% more",
+     "url": "https://cryptoslate.com/tokenized-stock-trading-hits-2-7b-even-though-trades-can-cost-3-more/",
+     "date": "2026-11-11T12:45:00+00:00",
+     "summary": "Tokenized stocks recorded about $3 billion in decentralized-exchange transactions over seven days, according to figures reported on Nov. 4. US stocks rallied that day as Republicans lost unified control of Washington, with the S&P 500 up 1.6%, the Dow up about 3% and the Nasdaq..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T12:45:00+00:00",
+   "last_seen": "2026-11-11T12:45:00+00:00",
+   "summary": "Tokenized stocks recorded about $3 billion in decentralized-exchange transactions over seven days, according to figures reported on Nov. 4. US stocks rallied that day as Republicans lost unified control of Washington, with the S&P 500 up 1.6%, the Dow up about 3% and the Nasdaq...",
+   "tags": []
+  },
+  {
+   "id": "1b5b4f60cc",
+   "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
+   "date": "2026-11-11T12:44:10+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
+     "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T12:44:10+00:00",
+     "summary": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T12:44:10+00:00",
+   "last_seen": "2026-11-11T12:44:10+00:00",
+   "summary": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "399b052960",
+   "title": "Zcash falls below $1,000 for first time since September",
+   "date": "2026-11-11T12:31:44+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Zcash falls below $1,000 for first time since September",
+     "url": "https://cointelegraph.com/markets/zcash-falls-1k-grayscales-1m-ecosystem-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T12:31:44+00:00",
+     "summary": "Zcash fell nearly 15% amid a broader sell-off in privacy coins, a day after Grayscale pledged $1 million to ecosystem initiatives."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T12:31:44+00:00",
+   "last_seen": "2026-11-11T12:31:44+00:00",
+   "summary": "Zcash fell nearly 15% amid a broader sell-off in privacy coins, a day after Grayscale pledged $1 million to ecosystem initiatives.",
+   "tags": []
+  },
+  {
+   "id": "89209e325b",
+   "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+   "date": "2026-11-11T12:21:24+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+     "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
+     "date": "2026-11-11T12:21:24+00:00",
+     "summary": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T12:21:24+00:00",
+   "last_seen": "2026-11-11T12:21:24+00:00",
+   "summary": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "f877ad656e",
+   "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
+   "date": "2026-11-11T12:19:30+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
+     "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
+     "date": "2026-11-11T12:19:30+00:00",
+     "summary": "Your day-ahead look for Nov. 11, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T12:19:30+00:00",
+   "last_seen": "2026-11-11T12:19:30+00:00",
+   "summary": "Your day-ahead look for Nov. 11, 2026",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "2f4b50cc74",
+   "title": "Nvidia Sheds $430B in Two Days as Jensen Huang Faces Calls to Resign",
+   "date": "2026-11-11T12:15:46+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Nvidia Sheds $430B in Two Days as Jensen Huang Faces Calls to Resign",
+     "url": "https://decrypt.co/382991/nvidia-sheds-430b-in-two-days-as-jensen-huang-faces-calls-to-resign",
+     "date": "2026-11-11T12:15:46+00:00",
+     "summary": "Nvidia's independent directors have hired Wachtell Lipton to investigate its CEO's ties to an alleged Chinese spy, as pressure mounts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T12:15:46+00:00",
+   "last_seen": "2026-11-11T12:15:46+00:00",
+   "summary": "Nvidia's independent directors have hired Wachtell Lipton to investigate its CEO's ties to an alleged Chinese spy, as pressure mounts.",
+   "tags": []
+  },
+  {
+   "id": "bac7582ff1",
+   "title": "IBM Targets 520 Qubits With Next Nighthawk Processor",
+   "date": "2026-11-11T12:11:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "IBM Targets 520 Qubits With Next Nighthawk Processor",
+     "url": "https://thedefiant.io/frontier/technology/ibm-targets-520-qubits-with-next-nighthawk-processor",
+     "date": "2026-11-11T12:11:37+00:00",
+     "summary": "IBM plans to link two r3 chips in 2027. Developers can use new managed quantum-classical workflows now, but the processor remains a design target."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T12:11:37+00:00",
+   "last_seen": "2026-11-11T12:11:37+00:00",
+   "summary": "IBM plans to link two r3 chips in 2027. Developers can use new managed quantum-classical workflows now, but the processor remains a design target.",
+   "tags": []
+  },
+  {
+   "id": "170741068a",
+   "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
+   "date": "2026-11-11T11:56:23+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
+     "url": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T11:56:23+00:00",
+     "summary": "Barclays reported a $187 million stake as of Sept. 30, while Citigroup disclosed a new $119 million position in Fidelity\u2019s Bitcoin ETF."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T11:56:23+00:00",
+   "last_seen": "2026-11-11T11:56:23+00:00",
+   "summary": "Barclays reported a $187 million stake as of Sept. 30, while Citigroup disclosed a new $119 million position in Fidelity\u2019s Bitcoin ETF.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "6075c10702",
+   "title": "Deutsche Bank goes live with digital asset custody service, signs asset management deal",
+   "date": "2026-11-11T11:46:34+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Deutsche Bank goes live with digital asset custody service, signs asset management deal",
+     "url": "https://www.theblock.co/news/business/2026-11-11-deutsche-bank-goes-live-with-digital-asset-custody-service-signs-asset-management-deal-437851",
+     "date": "2026-11-11T11:46:34+00:00",
+     "summary": "Deutsche Bank launched its digital asset custody service and signed an agreement covering tokenized funds, crypto ETCs, and stablecoins."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T11:46:34+00:00",
+   "last_seen": "2026-11-11T11:46:34+00:00",
+   "summary": "Deutsche Bank launched its digital asset custody service and signed an agreement covering tokenized funds, crypto ETCs, and stablecoins.",
+   "tags": []
+  },
+  {
+   "id": "2c290708ce",
+   "title": "Bitcoin and Blockchain Basics",
+   "date": "2026-11-11T11:43:50+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin and Blockchain Basics",
+     "url": "https://www.theblock.co/learn/bitcoin/bitcoin-and-blockchain-basics-434447",
+     "date": "2026-11-11T11:43:50+00:00",
+     "summary": "Bitcoin is presented as the first cryptocurrency. It is a decentralized digital currency with a fixed supply of 21 million coins, a peer-to-peer network, Proof of Work security, and transparent but pseudonymous transactions. The important beginner idea is not only that Bitcoin..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T11:43:50+00:00",
+   "last_seen": "2026-11-11T11:43:50+00:00",
+   "summary": "Bitcoin is presented as the first cryptocurrency. It is a decentralized digital currency with a fixed supply of 21 million coins, a peer-to-peer network, Proof of Work security, and transparent but pseudonymous transactions. The important beginner idea is not only that Bitcoin...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "c7374ecdd1",
+   "title": "US card debt hits $1.29 trillion as Bitcoin loans expose a collateral divide",
+   "date": "2026-11-11T11:40:03+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "US card debt hits $1.29 trillion as Bitcoin loans expose a collateral divide",
+     "url": "https://cryptoslate.com/us-card-debt-hits-1-29-trillion-as-bitcoin-loans-expose-a-collateral-divide/",
+     "date": "2026-11-11T11:40:03+00:00",
+     "summary": "Coinbase advertises borrowing from 5.1%, but modeled savings depend on fees and a Bitcoin pledge exposed to liquidation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T11:40:03+00:00",
+   "last_seen": "2026-11-11T11:40:03+00:00",
+   "summary": "Coinbase advertises borrowing from 5.1%, but modeled savings depend on fees and a Bitcoin pledge exposed to liquidation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "f58304f04d",
+   "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+   "date": "2026-11-11T11:37:04+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+     "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+     "date": "2026-11-11T11:37:04+00:00",
+     "summary": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T11:37:04+00:00",
+   "last_seen": "2026-11-11T11:37:04+00:00",
+   "summary": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "baad0f3c8c",
+   "title": "iOS 27.2.1 Leaves Sandbox Flaw Open, Researcher Says",
+   "date": "2026-11-11T11:27:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "iOS 27.2.1 Leaves Sandbox Flaw Open, Researcher Says",
+     "url": "https://thedefiant.io/news/security/ios-27-2-1-leaves-sandbox-flaw-open-researcher-says",
+     "date": "2026-11-11T11:27:15+00:00",
+     "summary": "The worse_query escape could expose wallet data stored in plaintext, SlowMist warned. Trust Wallet and Zerion said their iOS users are not affected."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T11:27:15+00:00",
+   "last_seen": "2026-11-11T11:27:15+00:00",
+   "summary": "The worse_query escape could expose wallet data stored in plaintext, SlowMist warned. Trust Wallet and Zerion said their iOS users are not affected.",
+   "tags": []
+  },
+  {
+   "id": "bdaa2fb7bc",
+   "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
+   "date": "2026-11-11T11:05:26+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
+     "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T11:05:26+00:00",
+     "summary": "Bitcoin fell to an 11-week low of $72,670 after slipping below short-term holders\u2019 average cost basis of about $75,700, according to CryptoQuant."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T11:05:26+00:00",
+   "last_seen": "2026-11-11T11:05:26+00:00",
+   "summary": "Bitcoin fell to an 11-week low of $72,670 after slipping below short-term holders\u2019 average cost basis of about $75,700, according to CryptoQuant.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "5330e942d9",
+   "title": "Kraken parent Payward adds 200 tokenized UK and European equities to xStocks offering",
+   "date": "2026-11-11T10:54:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Kraken parent Payward adds 200 tokenized UK and European equities to xStocks offering",
+     "url": "https://www.theblock.co/news/business/2026-11-11-kraken-parent-payward-adds-200-tokenized-uk-and-european-equities-to-xstocks-offering-437837",
+     "date": "2026-11-11T10:54:02+00:00",
+     "summary": "Kraken parent Payward added more than 200 UK and European equities to xStocks, taking its tokenized offering past 1,500 assets."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
+     "url": "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T11:30:36+00:00",
+     "summary": "The expansion adds more than 200 tokenized UK and EU equities, including all 40 companies in Germany\u2019s DAX index, as xStocks plans further expansion into Hong Kong."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-11T10:54:02+00:00",
+   "last_seen": "2026-11-11T11:30:36+00:00",
+   "summary": "The expansion adds more than 200 tokenized UK and EU equities, including all 40 companies in Germany\u2019s DAX index, as xStocks plans further expansion into Hong Kong.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "533d608fbd",
+   "title": "Avalanche Won Over the NYSE. Now It Has to \u2018Capture Value\u2019 for AVAX",
+   "date": "2026-11-11T10:53:11+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Avalanche Won Over the NYSE. Now It Has to \u2018Capture Value\u2019 for AVAX",
+     "url": "https://decrypt.co/382988/avalanche-won-over-the-nyse-now-it-has-to-capture-value-for-avax",
+     "date": "2026-11-11T10:53:11+00:00",
+     "summary": "The New York Stock Exchange will use Avalanche infrastructure, but experts say that won't necessarily boost AVAX's price."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T10:53:11+00:00",
+   "last_seen": "2026-11-11T10:53:11+00:00",
+   "summary": "The New York Stock Exchange will use Avalanche infrastructure, but experts say that won't necessarily boost AVAX's price.",
+   "tags": [
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "4a6ed002de",
+   "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
+   "date": "2026-11-11T10:51:34+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
+     "url": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
+     "date": "2026-11-11T10:51:34+00:00",
+     "summary": "Payward says xStocks holds over $1.1 billion. Each token is backed by a share but gives no ownership of the underlying company."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T10:51:34+00:00",
+   "last_seen": "2026-11-11T10:51:34+00:00",
+   "summary": "Payward says xStocks holds over $1.1 billion. Each token is backed by a share but gives no ownership of the underlying company.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "dffd9ea4bb",
+   "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+   "date": "2026-11-11T10:45:49+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+     "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+     "date": "2026-11-11T10:45:49+00:00",
+     "summary": "CoreWeave\u2019s revenue surge lifted AI infrastructure stocks and Nasdaq futures, while bitcoin was little changed over 24 hours."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T10:45:49+00:00",
+   "last_seen": "2026-11-11T10:45:49+00:00",
+   "summary": "CoreWeave\u2019s revenue surge lifted AI infrastructure stocks and Nasdaq futures, while bitcoin was little changed over 24 hours.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "73b144b763",
+   "title": "Anthropic\u2019s $1.4 Trillion IPO Target May Rise: Report",
+   "date": "2026-11-11T10:38:36+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Anthropic\u2019s $1.4 Trillion IPO Target May Rise: Report",
+     "url": "https://thedefiant.io/frontier/ai/anthropic-s-1-4-trillion-ipo-target-may-rise-report",
+     "date": "2026-11-11T10:38:36+00:00",
+     "summary": "The Nov. 10 share-price range implied a valuation of about $1.4 trillion. Bloomberg subsequently reported, citing the Financial Times, that bankers were weighing $1.5 trillion or more."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T10:38:36+00:00",
+   "last_seen": "2026-11-11T10:38:36+00:00",
+   "summary": "The Nov. 10 share-price range implied a valuation of about $1.4 trillion. Bloomberg subsequently reported, citing the Financial Times, that bankers were weighing $1.5 trillion or more.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "ef78c3201d",
+   "title": "96% of older Bitcoin being sent to exchanges is now underwater",
+   "date": "2026-11-11T10:35:42+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "96% of older Bitcoin being sent to exchanges is now underwater",
+     "url": "https://cryptoslate.com/96-of-older-bitcoin-sent-to-exchanges-is-underwater/",
+     "date": "2026-11-11T10:35:42+00:00",
+     "summary": "November 10 below-cost deposits fell 29.22% from the prior day but still accounted for about 96% of the cohort&#039;s exchange inflows. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T10:35:42+00:00",
+   "last_seen": "2026-11-11T10:35:42+00:00",
+   "summary": "November 10 below-cost deposits fell 29.22% from the prior day but still accounted for about 96% of the cohort&#039;s exchange inflows. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "b5260ef1a1",
+   "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
+   "date": "2026-11-11T10:20:53+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
+     "url": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
+     "date": "2026-11-11T10:20:53+00:00",
+     "summary": "Robert Barr planned to have accomplices force a crypto investor to install remote-access software so he could drain the wallet from prison."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T10:20:53+00:00",
+   "last_seen": "2026-11-11T10:20:53+00:00",
+   "summary": "Robert Barr planned to have accomplices force a crypto investor to install remote-access software so he could drain the wallet from prison.",
+   "tags": []
+  },
+  {
+   "id": "e18ef2d8bc",
+   "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
+   "date": "2026-11-11T10:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
+     "url": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T10:00:00+00:00",
+     "summary": "The wallet flagged about 37,000 signing requests a week for phishing in Q3 and said better monitoring likely contributed to the increase."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T10:00:00+00:00",
+   "last_seen": "2026-11-11T10:00:00+00:00",
+   "summary": "The wallet flagged about 37,000 signing requests a week for phishing in Q3 and said better monitoring likely contributed to the increase.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "f835553ab5",
+   "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
+   "date": "2026-11-11T09:58:15+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
+     "url": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T09:58:15+00:00",
+     "summary": "Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether\u2019s supply."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T09:58:15+00:00",
+   "last_seen": "2026-11-11T09:58:15+00:00",
+   "summary": "Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether\u2019s supply.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "21a0f6d1be",
+   "title": "New York federal judge denies Novig\u2019s injunction bid, rules its sports event contracts are not swaps",
+   "date": "2026-11-11T09:40:46+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "New York federal judge denies Novig\u2019s injunction bid, rules its sports event contracts are not swaps",
+     "url": "https://www.theblock.co/news/regulation/2026-11-11-new-york-judge-denies-novig-injunction-bid-437828",
+     "date": "2026-11-11T09:40:46+00:00",
+     "summary": "A federal judge ruled New York can enforce gambling laws against Novig after finding its sports contracts are not swaps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T09:40:46+00:00",
+   "last_seen": "2026-11-11T09:40:46+00:00",
+   "summary": "A federal judge ruled New York can enforce gambling laws against Novig after finding its sports contracts are not swaps.",
+   "tags": []
+  },
+  {
+   "id": "c08cf8a5be",
+   "title": "ECB warns legislative delays could postpone digital euro launch",
+   "date": "2026-11-11T09:03:49+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "ECB warns legislative delays could postpone digital euro launch",
+     "url": "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T09:03:49+00:00",
+     "summary": "ECB Executive Board member Piero Cipollone warned EU lawmakers that delays in finalizing digital euro legislation could push back its potential 2029 rollout."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T09:03:49+00:00",
+   "last_seen": "2026-11-11T09:03:49+00:00",
+   "summary": "ECB Executive Board member Piero Cipollone warned EU lawmakers that delays in finalizing digital euro legislation could push back its potential 2029 rollout.",
+   "tags": []
+  },
+  {
+   "id": "e98d61133f",
+   "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
+   "date": "2026-11-11T08:55:31+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
+     "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T08:55:31+00:00",
+     "summary": "US spot Bitcoin ETFs have lost $1.6 billion in November, while stock funds attracted billions of dollars from investors buying the dip."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T08:55:31+00:00",
+   "last_seen": "2026-11-11T08:55:31+00:00",
+   "summary": "US spot Bitcoin ETFs have lost $1.6 billion in November, while stock funds attracted billions of dollars from investors buying the dip.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "cc33bd207e",
+   "title": "xStocks Adds 200-Plus UK and EU Stock Tokens With GTN",
+   "date": "2026-11-11T08:53:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "xStocks Adds 200-Plus UK and EU Stock Tokens With GTN",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/xstocks-adds-200-plus-uk-and-eu-stock-tokens-with-gtn",
+     "date": "2026-11-11T08:53:06+00:00",
+     "summary": "The rollout includes LVMH, Rolls-Royce and SAP, but does not open xStocks to UK investors. GTN handles execution and custody of the underlying assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T08:53:06+00:00",
+   "last_seen": "2026-11-11T08:53:06+00:00",
+   "summary": "The rollout includes LVMH, Rolls-Royce and SAP, but does not open xStocks to UK investors. GTN handles execution and custody of the underlying assets.",
+   "tags": []
+  },
+  {
+   "id": "f9ea54a3d7",
+   "title": "Evernorth Slides 24% After 73.7 Million-Share Filing",
+   "date": "2026-11-11T08:44:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Evernorth Slides 24% After 73.7 Million-Share Filing",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/evernorth-slides-24-after-73-7-million-share-filing",
+     "date": "2026-11-11T08:44:16+00:00",
+     "summary": "The XRP treasury company's prospectus covers potential resales by existing investors, but it does not lift key holders' six-month lock-ups."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T08:44:16+00:00",
+   "last_seen": "2026-11-11T08:44:16+00:00",
+   "summary": "The XRP treasury company's prospectus covers potential resales by existing investors, but it does not lift key holders' six-month lock-ups.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "26d23552fe",
+   "title": "SEC enforcement actions fall 24%, crypto cases in spotlight",
+   "date": "2026-11-11T08:43:30+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "SEC enforcement actions fall 24%, crypto cases in spotlight",
+     "url": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-11T08:43:30+00:00",
+     "summary": "The SEC filed 348 actions in fiscal 2026, down from 456 a year earlier. Cases included alleged Bitcoin mining fraud and an FTX audit settlement."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T08:43:30+00:00",
+   "last_seen": "2026-11-11T08:43:30+00:00",
+   "summary": "The SEC filed 348 actions in fiscal 2026, down from 456 a year earlier. Cases included alleged Bitcoin mining fraud and an FTX audit settlement.",
+   "tags": [
+    "bitcoin",
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "a43352bec8",
+   "title": "Coinbase wins national trust charter, and strict OCC mandates apply",
+   "date": "2026-11-11T08:30:33+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Coinbase wins national trust charter, and strict OCC mandates apply",
+     "url": "https://cryptoslate.com/coinbase-wins-national-trust-charter-and-strict-occ-mandates-apply/",
+     "date": "2026-11-11T08:30:33+00:00",
+     "summary": "The OCC authorized a November 9 opening and approved gradual account transfers, while client-level migration timing remains undisclosed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T08:30:33+00:00",
+   "last_seen": "2026-11-11T08:30:33+00:00",
+   "summary": "The OCC authorized a November 9 opening and approved gradual account transfers, while client-level migration timing remains undisclosed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "333c4d2665",
+   "title": "Urgent Ethereum node patch issued due to hidden security flaws",
+   "date": "2026-11-11T07:10:08+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Urgent Ethereum node patch issued due to hidden security flaws",
+     "url": "https://cryptoslate.com/lighthouse-issues-urgent-ethereum-node-patch-due-to-hidden-security-flaws/",
+     "date": "2026-11-11T07:10:08+00:00",
+     "summary": "The v8.3.3 release gives staking and non-staking beacon nodes high priority, while validator-client updates remain routine. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-11T07:10:08+00:00",
+   "last_seen": "2026-11-11T07:10:08+00:00",
+   "summary": "The v8.3.3 release gives staking and non-staking beacon nodes high priority, while validator-client updates remain routine. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
   {
    "id": "033ef47c56",
    "title": "Bitmine reports $6.3 billion net loss in latest fiscal year, driven by 44% ether decline",
@@ -78,11 +1220,18 @@
      "url": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-11-11T04:42:30+00:00",
      "summary": "The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed hackers to redirect users to a phishing site."
+    },
+    {
+     "source": "The Block",
+     "title": "Crosschain protocol Across restores systems after domain hijack",
+     "url": "https://www.theblock.co/news/defi/2026-11-11-crosschain-protocol-across-restores-systems-after-domain-hijack-437843",
+     "date": "2026-11-11T10:55:24+00:00",
+     "summary": "Attackers gained control of Across's official domain through a social engineering attack on its domain registrar, Namecheap."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-11T04:42:30+00:00",
-   "last_seen": "2026-11-11T04:42:30+00:00",
+   "last_seen": "2026-11-11T10:55:24+00:00",
    "summary": "The cross-chain bridge said a social engineering attack targeting domain registrar Namecheap allowed hackers to redirect users to a phishing site.",
    "tags": [
     "security"

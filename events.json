@@ -1,6 +1,893 @@
 {
- "updated": "2026-11-12T03:53:29.866210+00:00",
+ "updated": "2026-11-12T12:53:42.422744+00:00",
  "events": [
+  {
+   "id": "4c87366af2",
+   "title": "BitGo expands institutional stablecoin minting and redemption platform with USDC",
+   "date": "2026-11-12T12:35:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "BitGo expands institutional stablecoin minting and redemption platform with USDC",
+     "url": "https://www.theblock.co/news/business/2026-11-12-bitgo-expands-institutional-stablecoin-minting-and-redemption-platform-with-usdc-438525",
+     "date": "2026-11-12T12:35:02+00:00",
+     "summary": "BitGo's institutional clients can now mint and redeem USDC through Go Accounts, with orders handled through its Circle Mint account."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T12:35:02+00:00",
+   "last_seen": "2026-11-12T12:35:02+00:00",
+   "summary": "BitGo's institutional clients can now mint and redeem USDC through Go Accounts, with orders handled through its Circle Mint account.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "bf05456a57",
+   "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
+   "date": "2026-11-12T12:21:43+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
+     "url": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-12T12:21:43+00:00",
+     "summary": "Coinbase\u2019s EU policy chief says applying suitability tests beyond crypto lending and borrowing could limit access and fragment liquidity."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T12:21:43+00:00",
+   "last_seen": "2026-11-12T12:21:43+00:00",
+   "summary": "Coinbase\u2019s EU policy chief says applying suitability tests beyond crypto lending and borrowing could limit access and fragment liquidity.",
+   "tags": [
+    "defi",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "4324a42c82",
+   "title": "Bitcoin weakness erases September's bullish signal",
+   "date": "2026-11-12T12:15:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin weakness erases September's bullish signal",
+     "url": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
+     "date": "2026-11-12T12:15:00+00:00",
+     "summary": "Your day-ahead look for Nov. 12, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T12:15:00+00:00",
+   "last_seen": "2026-11-12T12:15:00+00:00",
+   "summary": "Your day-ahead look for Nov. 12, 2026",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "2154f1cfab",
+   "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+   "date": "2026-11-12T12:04:42+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+     "url": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
+     "date": "2026-11-12T12:04:42+00:00",
+     "summary": "The Series B funding round, led by Octagon Partners valued the London-based company at more than $100 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T12:04:42+00:00",
+   "last_seen": "2026-11-12T12:04:42+00:00",
+   "summary": "The Series B funding round, led by Octagon Partners valued the London-based company at more than $100 million.",
+   "tags": [
+    "funding",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "a859c12dc4",
+   "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
+   "date": "2026-11-12T12:03:10+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
+     "url": "https://decrypt.co/383126/indias-financial-crimes-agency-searches-coindcx-delta-exchange-over-offshore-trades",
+     "date": "2026-11-12T12:03:10+00:00",
+     "summary": "The Enforcement Directorate alleges the exchanges routed Indian users' trades to Binance, Bybit and others via a Costa Rican shell entity."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T12:03:10+00:00",
+   "last_seen": "2026-11-12T12:03:10+00:00",
+   "summary": "The Enforcement Directorate alleges the exchanges routed Indian users' trades to Binance, Bybit and others via a Costa Rican shell entity.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "9cc99c22f5",
+   "title": "USDT Freeze Proposals on Tron Leave Time to Move Funds",
+   "date": "2026-11-12T11:55:03+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "USDT Freeze Proposals on Tron Leave Time to Move Funds",
+     "url": "https://thedefiant.io/news/security/usdt-freeze-proposals-on-tron-leave-time-to-move-funds",
+     "date": "2026-11-12T11:55:03+00:00",
+     "summary": "FreezeCheck found 65.4 million USDT left targeted addresses between public proposals and execution. The records show an exposure window, not proof that senders acted on a warning."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T11:55:03+00:00",
+   "last_seen": "2026-11-12T11:55:03+00:00",
+   "summary": "FreezeCheck found 65.4 million USDT left targeted addresses between public proposals and execution. The records show an exposure window, not proof that senders acted on a warning.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f87b1f303d",
+   "title": "Bitcoin\u2019s rate-cut hopes face a $5 diesel problem in 2027",
+   "date": "2026-11-12T11:45:23+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s rate-cut hopes face a $5 diesel problem in 2027",
+     "url": "https://cryptoslate.com/bitcoins-rate-cut-hopes-face-a-5-diesel-problem-in-2027/",
+     "date": "2026-11-12T11:45:23+00:00",
+     "summary": "Refinery constraints could limit disinflation and delay monetary easing, even though diesel is still forecast to fall next year. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T11:45:23+00:00",
+   "last_seen": "2026-11-12T11:45:23+00:00",
+   "summary": "Refinery constraints could limit disinflation and delay monetary easing, even though diesel is still forecast to fall next year. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "7b92f762c7",
+   "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+   "date": "2026-11-12T11:43:41+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+     "url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+     "date": "2026-11-12T11:43:41+00:00",
+     "summary": "Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T11:43:41+00:00",
+   "last_seen": "2026-11-12T11:43:41+00:00",
+   "summary": "Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "4b6900d429",
+   "title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
+   "date": "2026-11-12T11:38:50+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
+     "url": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-12T11:38:50+00:00",
+     "summary": "Crypto markets were left with \u201cless fuel\u201d to rally after the market cap of major stablecoins saw its biggest 30-day drop in over four years."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T11:38:50+00:00",
+   "last_seen": "2026-11-12T11:38:50+00:00",
+   "summary": "Crypto markets were left with \u201cless fuel\u201d to rally after the market cap of major stablecoins saw its biggest 30-day drop in over four years.",
+   "tags": [
+    "markets",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "7524224ca8",
+   "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+   "date": "2026-11-12T11:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+     "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
+     "date": "2026-11-12T11:30:00+00:00",
+     "summary": "Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T11:30:00+00:00",
+   "last_seen": "2026-11-12T11:30:00+00:00",
+   "summary": "Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "3e821cb393",
+   "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
+   "date": "2026-11-12T11:24:19+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
+     "url": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
+     "date": "2026-11-12T11:24:19+00:00",
+     "summary": "U.S. spot Bitcoin exchange-traded funds have recorded five consecutive days of net outflows, as investors retreat from risk assets after a turbulent week for markets. The funds lost some $1.44 billion between November 5 and November 11, including $299.9 million on Wednesday,..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T11:24:19+00:00",
+   "last_seen": "2026-11-12T11:24:19+00:00",
+   "summary": "U.S. spot Bitcoin exchange-traded funds have recorded five consecutive days of net outflows, as investors retreat from risk assets after a turbulent week for markets. The funds lost some $1.44 billion between November 5 and November 11, including $299.9 million on Wednesday,...",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "1966564e4a",
+   "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
+   "date": "2026-11-12T11:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
+     "url": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-12T11:00:00+00:00",
+     "summary": "The group will focus on illicit USDT activity on Tron and help law enforcement investigate suspicious transfers and freeze funds faster."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T11:00:00+00:00",
+   "last_seen": "2026-11-12T11:00:00+00:00",
+   "summary": "The group will focus on illicit USDT activity on Tron and help law enforcement investigate suspicious transfers and freeze funds faster.",
+   "tags": [
+    "regulation",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "bb13e29c57",
+   "title": "Tron, Tether and Chainalysis form new alliance to tackle AI-powered crypto crime",
+   "date": "2026-11-12T11:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Tron, Tether and Chainalysis form new alliance to tackle AI-powered crypto crime",
+     "url": "https://www.theblock.co/news/business/2026-11-12-tron-tether-chainalysis-new-alliance-438514",
+     "date": "2026-11-12T11:00:00+00:00",
+     "summary": "The trio launched a joint initiative called the \"Digital Crime Task Force\" to combat illicit crypto activities."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T11:00:00+00:00",
+   "last_seen": "2026-11-12T11:00:00+00:00",
+   "summary": "The trio launched a joint initiative called the \"Digital Crime Task Force\" to combat illicit crypto activities.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "48fb0c1110",
+   "title": "Bitcoin faces a $25B Treasury test after demand for US debt weakens",
+   "date": "2026-11-12T10:47:48+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin faces a $25B Treasury test after demand for US debt weakens",
+     "url": "https://cryptoslate.com/bitcoin-faces-a-25b-treasury-test-after-demand-for-us-debt-weakens/",
+     "date": "2026-11-12T10:47:48+00:00",
+     "summary": "The thirty-year sale follows weaker ten-year participation, with Bitcoin\u2019s risk tied to yields and financing conditions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T10:47:48+00:00",
+   "last_seen": "2026-11-12T10:47:48+00:00",
+   "summary": "The thirty-year sale follows weaker ten-year participation, with Bitcoin\u2019s risk tied to yields and financing conditions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "2747c5af32",
+   "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+   "date": "2026-11-12T10:42:06+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+     "url": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
+     "date": "2026-11-12T10:42:06+00:00",
+     "summary": "More than half of those affected were contractors, a source told Reuters. The cuts follow investor pressure on founder Shayne Coplan."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T10:42:06+00:00",
+   "last_seen": "2026-11-12T10:42:06+00:00",
+   "summary": "More than half of those affected were contractors, a source told Reuters. The cuts follow investor pressure on founder Shayne Coplan.",
+   "tags": []
+  },
+  {
+   "id": "8408c86941",
+   "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+   "date": "2026-11-12T10:32:35+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+     "url": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
+     "date": "2026-11-12T10:32:35+00:00",
+     "summary": "The Japanese brokerage has held talks with potential buyers, including Marex, as its European business posts more losses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T10:32:35+00:00",
+   "last_seen": "2026-11-12T10:32:35+00:00",
+   "summary": "The Japanese brokerage has held talks with potential buyers, including Marex, as its European business posts more losses.",
+   "tags": []
+  },
+  {
+   "id": "39204f4f0f",
+   "title": "Ethlabs drops Hegot\u00e1 slot proposal in push for 2027 quantum readiness",
+   "date": "2026-11-12T10:30:29+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ethlabs drops Hegot\u00e1 slot proposal in push for 2027 quantum readiness",
+     "url": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-12T10:30:29+00:00",
+     "summary": "Ethlabs\u2019 roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T10:30:29+00:00",
+   "last_seen": "2026-11-12T10:30:29+00:00",
+   "summary": "Ethlabs\u2019 roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "1299f818cd",
+   "title": "Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH",
+   "date": "2026-11-12T10:30:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Sygnum launches ETH Alpha Fund targeting 8% to 10% annual returns in ETH",
+     "url": "https://www.theblock.co/news/business/2026-11-12-sygnum-eth-alpha-fund-staking-yields-options-arbitrage-438386",
+     "date": "2026-11-12T10:30:00+00:00",
+     "summary": "Sygnum's market-neutral fund pairs staking with options, arbitrage and carry strategies, targeting 8%\u201310% annual returns paid in ETH."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T10:30:00+00:00",
+   "last_seen": "2026-11-12T10:30:00+00:00",
+   "summary": "Sygnum's market-neutral fund pairs staking with options, arbitrage and carry strategies, targeting 8%\u201310% annual returns paid in ETH.",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "0f19669acf",
+   "title": "India's ED Searches CoinDCX, Delta in Forex-Law Probe",
+   "date": "2026-11-12T10:23:36+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "India's ED Searches CoinDCX, Delta in Forex-Law Probe",
+     "url": "https://thedefiant.io/news/regulation/india-s-ed-searches-coindcx-delta-in-forex-law-probe",
+     "date": "2026-11-12T10:23:36+00:00",
+     "summary": "In Nov. 6 statements, both exchanges said trading, deposits and withdrawals remained operational. Delta denied cross-border digital-asset transfers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T10:23:36+00:00",
+   "last_seen": "2026-11-12T10:23:36+00:00",
+   "summary": "In Nov. 6 statements, both exchanges said trading, deposits and withdrawals remained operational. Delta denied cross-border digital-asset transfers.",
+   "tags": []
+  },
+  {
+   "id": "c6aa572d5d",
+   "title": "India\u2019s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
+   "date": "2026-11-12T10:10:48+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "India\u2019s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
+     "url": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
+     "date": "2026-11-12T10:10:48+00:00",
+     "summary": "The Enforcement Directorate alleged illegal cross-border flows that violated India's foreign exchange laws."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T10:10:48+00:00",
+   "last_seen": "2026-11-12T10:10:48+00:00",
+   "summary": "The Enforcement Directorate alleged illegal cross-border flows that violated India's foreign exchange laws.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "3f401d7018",
+   "title": "CFTC Approves tZERO Exchange Ahead of $350M SPAC Deal",
+   "date": "2026-11-12T10:00:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "CFTC Approves tZERO Exchange Ahead of $350M SPAC Deal",
+     "url": "https://thedefiant.io/converge/regulation/cftc-approves-tzero-exchange-ahead-of-350m-spac-deal",
+     "date": "2026-11-12T10:00:09+00:00",
+     "summary": "The November 10 designation follows October clearinghouse registration and satisfies an earn-out target, but merger closing conditions remain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T10:00:09+00:00",
+   "last_seen": "2026-11-12T10:00:09+00:00",
+   "summary": "The November 10 designation follows October clearinghouse registration and satisfies an earn-out target, but merger closing conditions remain.",
+   "tags": [
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "6dec2c2af4",
+   "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
+   "date": "2026-11-12T09:47:18+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
+     "url": "https://decrypt.co/383114/pressure-mounts-on-nvidias-jensen-huang-amid-reports-of-second-affair",
+     "date": "2026-11-12T09:47:18+00:00",
+     "summary": "Nvidia's board is reportedly preparing to oust its CEO, sending the chipmaker's shares down more than 5% in premarket trading."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T09:47:18+00:00",
+   "last_seen": "2026-11-12T09:47:18+00:00",
+   "summary": "Nvidia's board is reportedly preparing to oust its CEO, sending the chipmaker's shares down more than 5% in premarket trading.",
+   "tags": []
+  },
+  {
+   "id": "5ea681e49d",
+   "title": "Aave will freeze $279M in osETH, unless StakeWise wins this vote",
+   "date": "2026-11-12T09:30:37+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Aave will freeze $279M in osETH, unless StakeWise wins this vote",
+     "url": "https://cryptoslate.com/aave-will-freeze-279m-in-oseth-unless-stakewise-wins-this-vote/",
+     "date": "2026-11-12T09:30:37+00:00",
+     "summary": "Dmitri seeks a separate vote as Aave weighs who should bear osETH leverage risk and how existing borrowers can migrate. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T09:30:37+00:00",
+   "last_seen": "2026-11-12T09:30:37+00:00",
+   "summary": "Dmitri seeks a separate vote as Aave weighs who should bear osETH leverage risk and how existing borrowers can migrate. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "3c2d732b0e",
+   "title": "Live updates: Bitcoin slumps below $73,000 as Nvidia's Huang issues hit AI sector",
+   "date": "2026-11-12T09:15:04+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Bitcoin slumps below $73,000 as Nvidia's Huang issues hit AI sector",
+     "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+     "date": "2026-11-12T09:15:04+00:00",
+     "summary": "Nasdaq 100 futures are down more than 1% on reports that Nvidia's board is considering firing Jensen Huang after allegations about an additional affair."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T09:15:04+00:00",
+   "last_seen": "2026-11-12T09:15:04+00:00",
+   "summary": "Nasdaq 100 futures are down more than 1% on reports that Nvidia's board is considering firing Jensen Huang after allegations about an additional affair.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "2c1e770e86",
+   "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+   "date": "2026-11-12T09:07:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+     "url": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
+     "date": "2026-11-12T09:07:00+00:00",
+     "summary": "The sale follows the Winklevoss-founded crypto exchange\u2019s retreat from several overseas markets as it restructures its business."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T09:07:00+00:00",
+   "last_seen": "2026-11-12T09:07:00+00:00",
+   "summary": "The sale follows the Winklevoss-founded crypto exchange\u2019s retreat from several overseas markets as it restructures its business.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "cbdc61bc18",
+   "title": "Chainstack Urges Credential Rotation After Data Breach",
+   "date": "2026-11-12T08:50:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Chainstack Urges Credential Rotation After Data Breach",
+     "url": "https://thedefiant.io/news/security/chainstack-urges-credential-rotation-after-data-breach",
+     "date": "2026-11-12T08:50:00+00:00",
+     "summary": "The blockchain infrastructure provider says services stayed online, but customers must replace node credentials and update their applications."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T08:50:00+00:00",
+   "last_seen": "2026-11-12T08:50:00+00:00",
+   "summary": "The blockchain infrastructure provider says services stayed online, but customers must replace node credentials and update their applications.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "25b9457443",
+   "title": "Chainstack says AI-powered security breach exposed customer data; threat now contained",
+   "date": "2026-11-12T08:39:57+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Chainstack says AI-powered security breach exposed customer data; threat now contained",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-12-chainstack-security-breach-438509",
+     "date": "2026-11-12T08:39:57+00:00",
+     "summary": "The team is treating node credentials as exposed and asking customers to rotate them and change passwords."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T08:39:57+00:00",
+   "last_seen": "2026-11-12T08:39:57+00:00",
+   "summary": "The team is treating node credentials as exposed and asking customers to rotate them and change passwords.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "d00ea9bdb8",
+   "title": "AI agents steal shared math using hidden workspace storage",
+   "date": "2026-11-12T08:10:41+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "AI agents steal shared math using hidden workspace storage",
+     "url": "https://cryptoslate.com/ai-agents-steal-shared-math-using-hidden-workspace-storage/",
+     "date": "2026-11-12T08:10:41+00:00",
+     "summary": "A controlled arithmetic experiment shows how shared storage carried missing results between agents, with outcomes sensitive to a routine recheck instruction. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T08:10:41+00:00",
+   "last_seen": "2026-11-12T08:10:41+00:00",
+   "summary": "A controlled arithmetic experiment shows how shared storage carried missing results between agents, with outcomes sensitive to a routine recheck instruction. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "eba251600c",
+   "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
+   "date": "2026-11-12T08:06:48+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
+     "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-12T08:06:48+00:00",
+     "summary": "US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T08:06:48+00:00",
+   "last_seen": "2026-11-12T08:06:48+00:00",
+   "summary": "US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "a8c27ca27f",
+   "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
+   "date": "2026-11-12T07:41:18+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
+     "url": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
+     "date": "2026-11-12T07:41:18+00:00",
+     "summary": "The Avalon maker has launched a $20 million repurchase program, while most of its bitcoin holdings were pledged or placed in a fixed-term product at September\u2019s end."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T07:41:18+00:00",
+   "last_seen": "2026-11-12T07:41:18+00:00",
+   "summary": "The Avalon maker has launched a $20 million repurchase program, while most of its bitcoin holdings were pledged or placed in a fixed-term product at September\u2019s end.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "4ddc7e5d11",
+   "title": "Ethlabs proposes advancing Ethereum\u2019s post-quantum to 2027, citing AI acceleration",
+   "date": "2026-11-12T07:27:24+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ethlabs proposes advancing Ethereum\u2019s post-quantum to 2027, citing AI acceleration",
+     "url": "https://www.theblock.co/news/defi/2026-11-12-ethlabs-proposes-ethereum-post-quantum-2027-438494",
+     "date": "2026-11-12T07:27:24+00:00",
+     "summary": "The group said it aims to make Ethereum post-AI by 2027 as well, resistant to cryptographic risks that AI development is bringing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T07:27:24+00:00",
+   "last_seen": "2026-11-12T07:27:24+00:00",
+   "summary": "The group said it aims to make Ethereum post-AI by 2027 as well, resistant to cryptographic risks that AI development is bringing.",
+   "tags": [
+    "ai",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "58da939a27",
+   "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+   "date": "2026-11-12T07:00:37+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+     "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
+     "date": "2026-11-12T07:00:37+00:00",
+     "summary": "MSCI\u2019s decision to exclude Strategy from its equity indexes could hamper the company\u2019s ability to buy more bitcoin, according to some analysts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T07:00:37+00:00",
+   "last_seen": "2026-11-12T07:00:37+00:00",
+   "summary": "MSCI\u2019s decision to exclude Strategy from its equity indexes could hamper the company\u2019s ability to buy more bitcoin, according to some analysts.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b091e5f03f",
+   "title": "Base\u2019s USDC transfer footprint does not prove merchant reach, data shows",
+   "date": "2026-11-12T06:50:40+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Base\u2019s USDC transfer footprint does not prove merchant reach, data shows",
+     "url": "https://cryptoslate.com/bases-usdc-transfer-footprint-does-not-prove-merchant-reach-data-shows/",
+     "date": "2026-11-12T06:50:40+00:00",
+     "summary": "USDT routes dominate stablecoin pay-in value at NOWPayments, while blockchain transfer totals measure a different pool of activity. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T06:50:40+00:00",
+   "last_seen": "2026-11-12T06:50:40+00:00",
+   "summary": "USDT routes dominate stablecoin pay-in value at NOWPayments, while blockchain transfer totals measure a different pool of activity. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "4956c27eef",
+   "title": "Zcash Plan Would Pull 50,000 ZEC From Grants Treasury",
+   "date": "2026-11-12T06:03:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Zcash Plan Would Pull 50,000 ZEC From Grants Treasury",
+     "url": "https://thedefiant.io/news/blockchains/zcash-plan-would-pull-50-000-zec-from-grants-treasury",
+     "date": "2026-11-12T06:03:55+00:00",
+     "summary": "Polling starts Nov. 16 on a draft that would end ZCG's 8% funding stream and build a locked development and legal-defense reserve."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T06:03:55+00:00",
+   "last_seen": "2026-11-12T06:03:55+00:00",
+   "summary": "Polling starts Nov. 16 on a draft that would end ZCG's 8% funding stream and build a locked development and legal-defense reserve.",
+   "tags": [
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "4d233c1c1e",
+   "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+   "date": "2026-11-12T05:54:48+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+     "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-12T05:54:48+00:00",
+     "summary": "The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX\u2019s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T05:54:48+00:00",
+   "last_seen": "2026-11-12T05:54:48+00:00",
+   "summary": "The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX\u2019s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "79ee193e4a",
+   "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
+   "date": "2026-11-12T05:49:44+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
+     "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
+     "date": "2026-11-12T05:49:44+00:00",
+     "summary": "The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T05:49:44+00:00",
+   "last_seen": "2026-11-12T05:49:44+00:00",
+   "summary": "The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "27bf095b29",
+   "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+   "date": "2026-11-12T05:22:31+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+     "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+     "date": "2026-11-12T05:22:31+00:00",
+     "summary": "The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T05:22:31+00:00",
+   "last_seen": "2026-11-12T05:22:31+00:00",
+   "summary": "The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "99ef761e18",
+   "title": "Ripple\u2019s bank-lending system moves closer to launch on the XRP Ledger",
+   "date": "2026-11-12T05:18:43+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ripple\u2019s bank-lending system moves closer to launch on the XRP Ledger",
+     "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+     "date": "2026-11-12T05:18:43+00:00",
+     "summary": "Lending support among the ledger\u2019s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T05:18:43+00:00",
+   "last_seen": "2026-11-12T05:18:43+00:00",
+   "summary": "Lending support among the ledger\u2019s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "585fbf8440",
+   "title": "FSB pressures Turkey regulators to lock down foreign stablecoins",
+   "date": "2026-11-12T05:10:20+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "FSB pressures Turkey regulators to lock down foreign stablecoins",
+     "url": "https://cryptoslate.com/fsb-pressures-turkey-regulators-to-lock-down-foreign-stablecoins/",
+     "date": "2026-11-12T05:10:20+00:00",
+     "summary": "The FSB recommends stronger reserve checks and clearer redemption rights, but its review creates no new legal obligations. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T05:10:20+00:00",
+   "last_seen": "2026-11-12T05:10:20+00:00",
+   "summary": "The FSB recommends stronger reserve checks and clearer redemption rights, but its review creates no new legal obligations. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "8842f8cc13",
+   "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+   "date": "2026-11-12T05:07:11+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+     "url": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-12T05:07:11+00:00",
+     "summary": "In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments could compromise employee devices, a tactic later used in the exchange\u2019s record-breaking hack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T05:07:11+00:00",
+   "last_seen": "2026-11-12T05:07:11+00:00",
+   "summary": "In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments could compromise employee devices, a tactic later used in the exchange\u2019s record-breaking hack.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "f1c0075594",
+   "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
+   "date": "2026-11-12T04:55:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin traders raise odds of sub-$70,000 Christmas, Bitmine reports $6.3 billion annual net loss, and more",
+     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-11-bitcoin-outlook-christmas-bitmine-net-loss-more-crypto-news-438430",
+     "date": "2026-11-12T04:55:00+00:00",
+     "summary": "In today's newsletter, bitcoin 'ripe for a squeeze' as traders raise odds of sub-$70,000 Christmas; Bitmine reports $6.3 billion annual net loss as ether falls 44%; and more."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T04:55:00+00:00",
+   "last_seen": "2026-11-12T04:55:00+00:00",
+   "summary": "In today's newsletter, bitcoin 'ripe for a squeeze' as traders raise odds of sub-$70,000 Christmas; Bitmine reports $6.3 billion annual net loss as ether falls 44%; and more.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "ee3d1decf9",
+   "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+   "date": "2026-11-12T04:03:47+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+     "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+     "date": "2026-11-12T04:03:47+00:00",
+     "summary": "Nvidia perps are down 7% on Hyperliquid as traders react to reports that CEO Jensen Huang may be removed. Bitcoin continues to trade in a familiar price range."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T04:03:47+00:00",
+   "last_seen": "2026-11-12T04:03:47+00:00",
+   "summary": "Nvidia perps are down 7% on Hyperliquid as traders react to reports that CEO Jensen Huang may be removed. Bitcoin continues to trade in a familiar price range.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
   {
    "id": "89d413a40b",
    "title": "BitMine posts $2.8B quarterly profit driven by Ethereum gains, but yearly net loss surpasses $6B",
@@ -4156,12 +5043,19 @@
      "url": "https://cryptoslate.com/strategy-spent-more-than-twice-as-much-on-preferred-buybacks-as-bitcoin-last-week/",
      "date": "2026-11-10T14:49:06+00:00",
      "summary": "The November 9 filing shows common-stock proceeds funding Bitcoin purchases and a larger STRC buyback during November 2-8. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+     "source": "CryptoSlate",
+     "title": "Strategy spent more than twice as much on preferred-share buybacks as Bitcoin. Now comes its MSCI exit",
+     "url": "https://cryptoslate.com/strategy-spent-more-than-twice-as-much-on-preferred-share-buybacks-as-bitcoin-now-comes-its-msci-exit/",
+     "date": "2026-11-12T12:45:58+00:00",
+     "summary": "The November 30 close creates a financing test after MSTR proceeds funded larger preferred repurchases than Bitcoin purchases during November 2\u20138. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-11-10T14:49:06+00:00",
-   "last_seen": "2026-11-10T14:49:06+00:00",
-   "summary": "The November 9 filing shows common-stock proceeds funding Bitcoin purchases and a larger STRC buyback during November 2-8. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "last_seen": "2026-11-12T12:45:58+00:00",
+   "summary": "The November 30 close creates a financing test after MSTR proceeds funded larger preferred repurchases than Bitcoin purchases during November 2\u20138. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
    "tags": [
     "bitcoin",
     "funding"

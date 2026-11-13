@@ -1,6 +1,964 @@
 {
- "updated": "2026-11-13T09:41:40.146071+00:00",
+ "updated": "2026-11-13T17:51:28.113361+00:00",
  "events": [
+  {
+   "id": "9338e528f1",
+   "title": "Amazon says no human wrote or reviewed the code for its new cloud testing tool",
+   "date": "2026-11-13T17:30:52+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Amazon says no human wrote or reviewed the code for its new cloud testing tool",
+     "url": "https://cryptoslate.com/amazon-ai-written-aws-emulator-code/",
+     "date": "2026-11-13T17:30:52+00:00",
+     "summary": "People built the development guardrails, while AWS requires application security to be tested on the real cloud. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T17:30:52+00:00",
+   "last_seen": "2026-11-13T17:30:52+00:00",
+   "summary": "People built the development guardrails, while AWS requires application security to be tested on the real cloud. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "a5c234261e",
+   "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
+   "date": "2026-11-13T17:22:54+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Hits 12-Week Low as Fed Rate Fears Undo Most of Summer Rally",
+     "url": "https://decrypt.co/383231/bitcoin-hits-12-week-low-fed-rate-fears-undo-summer-rally",
+     "date": "2026-11-13T17:22:54+00:00",
+     "summary": "Bitcoin is back near August levels as persistent inflation, growing expectations of another interest-rate hike and ETF withdrawals pressure prices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T17:22:54+00:00",
+   "last_seen": "2026-11-13T17:22:54+00:00",
+   "summary": "Bitcoin is back near August levels as persistent inflation, growing expectations of another interest-rate hike and ETF withdrawals pressure prices.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "3dd1a4a552",
+   "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+   "date": "2026-11-13T17:05:43+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
+     "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
+     "date": "2026-11-13T17:05:43+00:00",
+     "summary": "The committee that needs to advance President Donald Trump's nominees responded quickly to set his SEC picks for review next week."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T17:05:43+00:00",
+   "last_seen": "2026-11-13T17:05:43+00:00",
+   "summary": "The committee that needs to advance President Donald Trump's nominees responded quickly to set his SEC picks for review next week.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "abee9cb147",
+   "title": "FutureBit\u2019s Apollo III Bitcoin Miner Hits Micro Center Shelves in Its First Brick-and-Mortar Launch",
+   "date": "2026-11-13T16:39:33+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "FutureBit\u2019s Apollo III Bitcoin Miner Hits Micro Center Shelves in Its First Brick-and-Mortar Launch",
+     "url": "https://bitcoinmagazine.com/news/futurebit-apollo-iii-hits-micro-center-shelves",
+     "date": "2026-11-13T16:39:33+00:00",
+     "summary": "Bitcoin Magazine FutureBit&#8217;s Apollo III Bitcoin Miner Hits Micro Center Shelves in Its First Brick-and-Mortar Launch The Brooklyn company's compact home miner, rated at up to 18 TH/s and starting at $1,099.99, goes on sale Friday at four Micro Center stores, including the..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T16:39:33+00:00",
+   "last_seen": "2026-11-13T16:39:33+00:00",
+   "summary": "Bitcoin Magazine FutureBit&#8217;s Apollo III Bitcoin Miner Hits Micro Center Shelves in Its First Brick-and-Mortar Launch The Brooklyn company's compact home miner, rated at up to 18 TH/s and starting at $1,099.99, goes on sale Friday at four Micro Center stores, including the...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "451dddb374",
+   "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+   "date": "2026-11-13T16:39:11+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+     "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-13T16:39:11+00:00",
+     "summary": "Bitcoin was down about 4% on the day amid a tepid market reaction to October\u2019s US PPI reading, which came in below expected levels."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T16:39:11+00:00",
+   "last_seen": "2026-11-13T16:39:11+00:00",
+   "summary": "Bitcoin was down about 4% on the day amid a tepid market reaction to October\u2019s US PPI reading, which came in below expected levels.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "8948bda909",
+   "title": "Unpatched Windows 'SignDrop' Exploit Grants System Rights",
+   "date": "2026-11-13T16:38:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Unpatched Windows 'SignDrop' Exploit Grants System Rights",
+     "url": "https://thedefiant.io/frontier/technology/unpatched-windows-signdrop-exploit-grants-system-rights",
+     "date": "2026-11-13T16:38:33+00:00",
+     "summary": "Independent testers reproduced the local privilege escalation, but exposure depends on Windows builds and CLFS settings. Disabling the affected hardening carries its own risk."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T16:38:33+00:00",
+   "last_seen": "2026-11-13T16:38:33+00:00",
+   "summary": "Independent testers reproduced the local privilege escalation, but exposure depends on Windows builds and CLFS settings. Disabling the affected hardening carries its own risk.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "01336a0748",
+   "title": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
+   "date": "2026-11-13T16:37:26+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Hyperliquid leapfrogs Bybit, Kraken and OKX in open interest as Q3 positions grow 80%",
+     "url": "https://www.theblock.co/news/markets/2026-11-13-hyperliquid-leapfrogs-bybit-kraken-okx-open-interest-q3-positions-grow-440053",
+     "date": "2026-11-13T16:37:26+00:00",
+     "summary": "Hyperliquid\u2019s share of open interest reached 11.7% across the platform and eight major centralized rivals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T16:37:26+00:00",
+   "last_seen": "2026-11-13T16:37:26+00:00",
+   "summary": "Hyperliquid\u2019s share of open interest reached 11.7% across the platform and eight major centralized rivals.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "27c4ef2e6a",
+   "title": "Lido Earn\u2019s new safety net still leaves depositors on the hook for losses",
+   "date": "2026-11-13T16:30:25+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Lido Earn\u2019s new safety net still leaves depositors on the hook for losses",
+     "url": "https://cryptoslate.com/lido-earn-loss-protection-depositors/",
+     "date": "2026-11-13T16:30:25+00:00",
+     "summary": "Lido\u2019s November 5 illustration implies potential cushions of 7.2% for EarnETH and 12.1% for EarnUSD, subject to eligibility, approval and capital. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T16:30:25+00:00",
+   "last_seen": "2026-11-13T16:30:25+00:00",
+   "summary": "Lido\u2019s November 5 illustration implies potential cushions of 7.2% for EarnETH and 12.1% for EarnUSD, subject to eligibility, approval and capital. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "0021eed769",
+   "title": "Bitcoin heads for sixth weekly loss as Anthropic\u2019s blockbuster IPO looms",
+   "date": "2026-11-13T16:01:27+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin heads for sixth weekly loss as Anthropic\u2019s blockbuster IPO looms",
+     "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-heads-for-sixth-weekly-loss-as-anthropic-s-blockbuster-ipo-looms",
+     "date": "2026-11-13T16:01:27+00:00",
+     "summary": "Bitcoin is down 21% this year as investors weigh Anthropic\u2019s anticipated listing, Nvidia\u2019s leadership upheaval and rising Fed rate hike expectations."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Heads for Sixth Weekly Loss, Down 22% in 2026",
+     "url": "https://thedefiant.io/news/markets/bitcoin-heads-for-sixth-weekly-loss-down-22-in-2026",
+     "date": "2026-11-13T16:12:35+00:00",
+     "summary": "The current slide is shallower than a six-week slump in the first quarter. Sunday's close will determine whether the losing streak extends."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-13T16:01:27+00:00",
+   "last_seen": "2026-11-13T16:12:35+00:00",
+   "summary": "Bitcoin is down 21% this year as investors weigh Anthropic\u2019s anticipated listing, Nvidia\u2019s leadership upheaval and rising Fed rate hike expectations.",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "5592a509c7",
+   "title": "Microsoft Links Global Outage to Failed Health Checks",
+   "date": "2026-11-13T15:38:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Microsoft Links Global Outage to Failed Health Checks",
+     "url": "https://thedefiant.io/frontier/infrastructure/microsoft-links-global-outage-to-failed-health-checks",
+     "date": "2026-11-13T15:38:07+00:00",
+     "summary": "Outlook and Copilot remained disrupted Friday. Microsoft said it had no evidence of malicious activity, but a full root-cause report was still to come."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T15:38:07+00:00",
+   "last_seen": "2026-11-13T15:38:07+00:00",
+   "summary": "Outlook and Copilot remained disrupted Friday. Microsoft said it had no evidence of malicious activity, but a full root-cause report was still to come.",
+   "tags": []
+  },
+  {
+   "id": "ff73f37338",
+   "title": "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA, plans US prediction markets and personal finance AI agent",
+   "date": "2026-11-13T15:31:22+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Kraken parent Payward posts 66% drop in Q3 adjusted EBITDA, plans US prediction markets and personal finance AI agent",
+     "url": "https://www.theblock.co/news/business/2026-11-13-kraken-parent-payward-posts-66-drop-in-q3-adjusted-ebitda-plans-us-prediction-markets-and-personal-finance-ai-agent-439721",
+     "date": "2026-11-13T15:31:22+00:00",
+     "summary": "Kraken parent Payward\u2019s third-quarter adjusted EBITDA fell about two-thirds year over year to $60 million, while funded accounts grew 37%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T15:31:22+00:00",
+   "last_seen": "2026-11-13T15:31:22+00:00",
+   "summary": "Kraken parent Payward\u2019s third-quarter adjusted EBITDA fell about two-thirds year over year to $60 million, while funded accounts grew 37%.",
+   "tags": [
+    "ai",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "18fbdabd6b",
+   "title": "New US report reveals yen rescue used euros, not dollars. That matters for Bitcoin",
+   "date": "2026-11-13T15:30:50+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "New US report reveals yen rescue used euros, not dollars. That matters for Bitcoin",
+     "url": "https://cryptoslate.com/yen-intervention-euros-bitcoin-liquidity/",
+     "date": "2026-11-13T15:30:50+00:00",
+     "summary": "The November 12 report confirms a Treasury reserve-currency trade, leaving leveraged yen borrowing as a potential Bitcoin risk. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T15:30:50+00:00",
+   "last_seen": "2026-11-13T15:30:50+00:00",
+   "summary": "The November 12 report confirms a Treasury reserve-currency trade, leaving leveraged yen borrowing as a potential Bitcoin risk. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "7a8ef054a8",
+   "title": "Robinhood\u2019s Crypto Trading Volume Falls 48% in October as Event Contracts More Than Double",
+   "date": "2026-11-13T15:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Robinhood\u2019s Crypto Trading Volume Falls 48% in October as Event Contracts More Than Double",
+     "url": "https://bitcoinmagazine.com/news/robinhood-crypto-volume-falls-48-percent",
+     "date": "2026-11-13T15:30:00+00:00",
+     "summary": "Bitcoin Magazine Robinhood&#8217;s Crypto Trading Volume Falls 48% in October as Event Contracts More Than Double Robinhood customers traded $17 billion of crypto in October, down 48% from a year earlier, while event contracts traded jumped 136% to 5.9 billion. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T15:30:00+00:00",
+   "last_seen": "2026-11-13T15:30:00+00:00",
+   "summary": "Bitcoin Magazine Robinhood&#8217;s Crypto Trading Volume Falls 48% in October as Event Contracts More Than Double Robinhood customers traded $17 billion of crypto in October, down 48% from a year earlier, while event contracts traded jumped 136% to 5.9 billion. This post...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "8db81ba992",
+   "title": "OpenAI Gives ChatGPT Agents a Card Wallet for Purchases",
+   "date": "2026-11-13T15:18:57+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OpenAI Gives ChatGPT Agents a Card Wallet for Purchases",
+     "url": "https://thedefiant.io/frontier/ai/openai-gives-chatgpt-agents-a-card-wallet-for-purchases",
+     "date": "2026-11-13T15:18:57+00:00",
+     "summary": "US Pro users can authorize purchases with eligible American Express, Mastercard and Visa cards, while merchants keep their existing checkout systems."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T15:18:57+00:00",
+   "last_seen": "2026-11-13T15:18:57+00:00",
+   "summary": "US Pro users can authorize purchases with eligible American Express, Mastercard and Visa cards, while merchants keep their existing checkout systems.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "90c69edc68",
+   "title": "Over 300 Pro-Crypto Lawmakers Are Coming Into Congress",
+   "date": "2026-11-13T15:00:13+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Over 300 Pro-Crypto Lawmakers Are Coming Into Congress",
+     "url": "https://bitcoinmagazine.com/videos/over-300-pro-crypto-lawmakers-are-coming-into-congress",
+     "date": "2026-11-13T15:00:13+00:00",
+     "summary": "&#9654; Bitcoin Magazine Over 300 Pro-Crypto Lawmakers Are Coming Into Congress Mason Lynaugh, executive director of Stand With Crypto, joins BMTV to talk through what the midterms mean for Bitcoin and crypto. This post Over 300 Pro-Crypto Lawmakers Are Coming Into Congress..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T15:00:13+00:00",
+   "last_seen": "2026-11-13T15:00:13+00:00",
+   "summary": "&#9654; Bitcoin Magazine Over 300 Pro-Crypto Lawmakers Are Coming Into Congress Mason Lynaugh, executive director of Stand With Crypto, joins BMTV to talk through what the midterms mean for Bitcoin and crypto. This post Over 300 Pro-Crypto Lawmakers Are Coming Into Congress...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "faf87b4b63",
+   "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
+   "date": "2026-11-13T14:50:49+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Tether-backed Twenty One Capital reports $1.09 billion Q3 net income on bitcoin gains",
+     "url": "https://www.theblock.co/news/business/2026-11-13-tether-backed-twenty-one-capital-reports-1-09-billion-q3-net-income-on-bitcoin-gains-439711",
+     "date": "2026-11-13T14:50:49+00:00",
+     "summary": "Twenty One Capital reported $1.09 billion in Q3 net income, driven by Bitcoin gains, while posting a $4.8 million operating loss."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T14:50:49+00:00",
+   "last_seen": "2026-11-13T14:50:49+00:00",
+   "summary": "Twenty One Capital reported $1.09 billion in Q3 net income, driven by Bitcoin gains, while posting a $4.8 million operating loss.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "4d99979d72",
+   "title": "President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed",
+   "date": "2026-11-13T14:45:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed",
+     "url": "https://bitcoinmagazine.com/news/trump-sec-cftc-nominees-bipartisan",
+     "date": "2026-11-13T14:45:00+00:00",
+     "summary": "Bitcoin Magazine President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed The White House sent four SEC and CFTC nominees to the Senate on Thursday, including former CFTC Commissioner Kristin Johnson and two staffers who..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T14:45:00+00:00",
+   "last_seen": "2026-11-13T14:45:00+00:00",
+   "summary": "Bitcoin Magazine President Trump Taps Two Democrats in Bipartisan Slate of SEC and CFTC Nominees as Both Agencies Run Short-Handed The White House sent four SEC and CFTC nominees to the Senate on Thursday, including former CFTC Commissioner Kristin Johnson and two staffers who...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "938fa270e5",
+   "title": "The cost of a $70,000 Bitcoin hedge more than doubled in a day",
+   "date": "2026-11-13T14:30:05+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "The cost of a $70,000 Bitcoin hedge more than doubled in a day",
+     "url": "https://cryptoslate.com/bitcoin-hedge-cost-more-than-doubled/",
+     "date": "2026-11-13T14:30:05+00:00",
+     "summary": "A November 27 put rose 127.6% between two BTC-denominated trades while its reported implied volatility fell. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T14:30:05+00:00",
+   "last_seen": "2026-11-13T14:30:05+00:00",
+   "summary": "A November 27 put rose 127.6% between two BTC-denominated trades while its reported implied volatility fell. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "6443748226",
+   "title": "Ethereum and Layer 1s Explained",
+   "date": "2026-11-13T14:12:23+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ethereum and Layer 1s Explained",
+     "url": "https://www.theblock.co/learn/campus/ethereum-and-layer-1s-explained-435883",
+     "date": "2026-11-13T14:12:23+00:00",
+     "summary": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T14:12:23+00:00",
+   "last_seen": "2026-11-13T14:12:23+00:00",
+   "summary": "Ethereum 101 explains how Ethereum made blockchains programmable. It covers smart contracts, accounts and the EVM, ETH and gas fees, Proof of Stake, network upgrades, and how alternative Layer 1s trade off security, decentralization and scalability.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "70d39c1425",
+   "title": "Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High",
+   "date": "2026-11-13T14:11:44+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-69100-dollar",
+     "date": "2026-11-13T14:11:44+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High Bitcoin price briefly crashed to about $67,555 around midnight Eastern, its lowest level since August, then recovered near $69,800 on Friday after October producer..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T14:11:44+00:00",
+   "last_seen": "2026-11-13T14:11:44+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Briefly Crashes to $67,500, Lowest Since August, as Dollar Holds 19-Month High Bitcoin price briefly crashed to about $67,555 around midnight Eastern, its lowest level since August, then recovered near $69,800 on Friday after October producer...",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "d0618c0740",
+   "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+   "date": "2026-11-13T14:02:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Kraken parent Payward says expansion outside crypto trading helps cushion revenue decline",
+     "url": "https://www.coindesk.com/business/2026/11/13/kraken-parent-payward-says-expansion-outside-crypto-trading-helps-cushion-revenue-decline",
+     "date": "2026-11-13T14:02:00+00:00",
+     "summary": "While earnings and the company\u2019s newly introduced financial performance measure remained below year-earlier levels, there are signs of improvement from the second quarter."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T14:02:00+00:00",
+   "last_seen": "2026-11-13T14:02:00+00:00",
+   "summary": "While earnings and the company\u2019s newly introduced financial performance measure remained below year-earlier levels, there are signs of improvement from the second quarter.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "620fb36c93",
+   "title": "Crypto Laundering a 'Material Risk' for UK Ahead of FATF Review: RUSI",
+   "date": "2026-11-13T13:55:25+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Crypto Laundering a 'Material Risk' for UK Ahead of FATF Review: RUSI",
+     "url": "https://decrypt.co/383227/crypto-laundering-a-material-risk-for-uk-ahead-of-fatf-review-rusi",
+     "date": "2026-11-13T13:55:25+00:00",
+     "summary": "Assessors visit in June 2027, months before full crypto rules take effect, leaving the UK to prove it can enforce against crypto laundering."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T13:55:25+00:00",
+   "last_seen": "2026-11-13T13:55:25+00:00",
+   "summary": "Assessors visit in June 2027, months before full crypto rules take effect, leaving the UK to prove it can enforce against crypto laundering.",
+   "tags": []
+  },
+  {
+   "id": "3d3f857ce1",
+   "title": "Arthur Hayes \u2018flattered\u2019 as Coinbase backs US stock perps",
+   "date": "2026-11-13T13:41:26+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Arthur Hayes \u2018flattered\u2019 as Coinbase backs US stock perps",
+     "url": "https://cointelegraph.com/news/arthur-hayes-coinbase-us-stock-perps-cftc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-13T13:41:26+00:00",
+     "summary": "Arthur Hayes said he was \u201cflattered\u201d by Coinbase\u2019s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T13:41:26+00:00",
+   "last_seen": "2026-11-13T13:41:26+00:00",
+   "summary": "Arthur Hayes said he was \u201cflattered\u201d by Coinbase\u2019s defense of US stock perpetual futures, a decade after BitMEX launched perpetual swaps.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "deae1d5ecf",
+   "title": "\u2018Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
+   "date": "2026-11-13T13:36:29+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "\u2018Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
+     "url": "https://decrypt.co/383221/roadmap-is-complete-cardano-founder-charles-hoskinson-says",
+     "date": "2026-11-13T13:36:29+00:00",
+     "summary": "Cardano's ADA token is down almost 95% from its all-time high, and investors don't seem to be happy that the roadmap is complete."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T13:36:29+00:00",
+   "last_seen": "2026-11-13T13:36:29+00:00",
+   "summary": "Cardano's ADA token is down almost 95% from its all-time high, and investors don't seem to be happy that the roadmap is complete.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "c70dcbcb87",
+   "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
+   "date": "2026-11-13T13:34:46+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "From $6 to $6.9 million: Two dormant Bitcoin addresses wake up to move 100 BTC after more than 16 years",
+     "url": "https://www.theblock.co/news/markets/2026-11-13-from-6-to-6-9-million-two-dormant-bitcoin-addresses-wake-up-to-move-100-btc-after-more-than-16-years-439698",
+     "date": "2026-11-13T13:34:46+00:00",
+     "summary": "Two Bitcoin whale addresses moved 100 BTC worth $6.89 million after more than 16 years of dormancy on Friday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T13:34:46+00:00",
+   "last_seen": "2026-11-13T13:34:46+00:00",
+   "summary": "Two Bitcoin whale addresses moved 100 BTC worth $6.89 million after more than 16 years of dormancy on Friday.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "e385d1fe5f",
+   "title": "Bitcoin\u2019s futures pile has a problem: less cash to fuel a rebound",
+   "date": "2026-11-13T13:30:48+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s futures pile has a problem: less cash to fuel a rebound",
+     "url": "https://cryptoslate.com/bitcoins-futures-pile-has-a-problem-less-cash-to-fuel-a-rebound/",
+     "date": "2026-11-13T13:30:48+00:00",
+     "summary": "DWF Labs&#039; Martin Lee noted that Bitcoin futures open interest stood at 704,000 BTC this week, the highest since Sept. 24, while spot market liquidity continued to thin. Meanwhile, the Treasury&#039;s $25 billion 30-year bond auction on Nov. 12 drew a 2.36 bid-to-cover..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T13:30:48+00:00",
+   "last_seen": "2026-11-13T13:30:48+00:00",
+   "summary": "DWF Labs&#039; Martin Lee noted that Bitcoin futures open interest stood at 704,000 BTC this week, the highest since Sept. 24, while spot market liquidity continued to thin. Meanwhile, the Treasury&#039;s $25 billion 30-year bond auction on Nov. 12 drew a 2.36 bid-to-cover...",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "macro"
+   ]
+  },
+  {
+   "id": "0cfa417c96",
+   "title": "Nakamoto Options Loss Turns Q3 Operating Revenue Negative",
+   "date": "2026-11-13T13:18:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Nakamoto Options Loss Turns Q3 Operating Revenue Negative",
+     "url": "https://thedefiant.io/news/markets/nakamoto-options-loss-turns-q3-operating-revenue-negative",
+     "date": "2026-11-13T13:18:46+00:00",
+     "summary": "Bitcoin valuation gains drove an $85.5 million profit, while part of the loss-making options program provides downside protection tied to Kraken loan collateral."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T13:18:46+00:00",
+   "last_seen": "2026-11-13T13:18:46+00:00",
+   "summary": "Bitcoin valuation gains drove an $85.5 million profit, while part of the loss-making options program provides downside protection tied to Kraken loan collateral.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "funding"
+   ]
+  },
+  {
+   "id": "fcb55f984e",
+   "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
+   "date": "2026-11-13T13:04:19+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Nakamoto shares fall 6% premarket after Q3 revenue turns negative",
+     "url": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-13T13:04:19+00:00",
+     "summary": "A $5.8 million loss on Bitcoin options pushed operating revenue below zero, and higher Bitcoin prices lifted net income to $85.5 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T13:04:19+00:00",
+   "last_seen": "2026-11-13T13:04:19+00:00",
+   "summary": "A $5.8 million loss on Bitcoin options pushed operating revenue below zero, and higher Bitcoin prices lifted net income to $85.5 million.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "dae17ee8fb",
+   "title": "Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia",
+   "date": "2026-11-13T13:03:40+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Morning Minute: Crypto Plummets as Jensen Huang Exits Nvidia",
+     "url": "https://decrypt.co/383222/morning-minute-crypto-plummets-as-jensen-huang-exits-nvidia",
+     "date": "2026-11-13T13:03:40+00:00",
+     "summary": "Bitcoin fell all the way to $68,000 overnight and hit a new three-month low. But are there reasons for hope?"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T13:03:40+00:00",
+   "last_seen": "2026-11-13T13:03:40+00:00",
+   "summary": "Bitcoin fell all the way to $68,000 overnight and hit a new three-month low. But are there reasons for hope?",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "c241261f35",
+   "title": "The catch in crypto\u2019s Anthropic IPO rush: lock up your money and you could still miss out",
+   "date": "2026-11-13T12:30:32+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "The catch in crypto\u2019s Anthropic IPO rush: lock up your money and you could still miss out",
+     "url": "https://cryptoslate.com/the-catch-in-cryptos-anthropic-ipo-rush-lock-up-your-money-and-you-could-still-miss-out/",
+     "date": "2026-11-13T12:30:32+00:00",
+     "summary": "Kraken, Bitget and BigONE disclose uncertain fills, while successful allocations carry extra charges and different delivery schedules. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T12:30:32+00:00",
+   "last_seen": "2026-11-13T12:30:32+00:00",
+   "summary": "Kraken, Bitget and BigONE disclose uncertain fills, while successful allocations carry extra charges and different delivery schedules. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "funding"
+   ]
+  },
+  {
+   "id": "60dc96213b",
+   "title": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
+   "date": "2026-11-13T12:27:41+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "UK, Singapore, and Thailand central banks complete foreign exchange settlement trial linking traditional and tokenized systems",
+     "url": "https://www.theblock.co/news/regulation/2026-11-13-uk-singapore-and-thailand-central-banks-complete-foreign-exchange-settlement-trial-linking-traditional-and-tokenized-systems-439692",
+     "date": "2026-11-13T12:27:41+00:00",
+     "summary": "Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T12:27:41+00:00",
+   "last_seen": "2026-11-13T12:27:41+00:00",
+   "summary": "Three central banks published findings from a cross-border FX settlement trial using Partior's synchronization prototype.",
+   "tags": [
+    "exchanges",
+    "legal"
+   ]
+  },
+  {
+   "id": "02c9d12213",
+   "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
+   "date": "2026-11-13T12:19:01+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
+     "url": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-13T12:19:01+00:00",
+     "summary": "Police suspect the group drew up fictitious loan agreements to disguise crypto trading proceeds it transferred directly into bank accounts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T12:19:01+00:00",
+   "last_seen": "2026-11-13T12:19:01+00:00",
+   "summary": "Police suspect the group drew up fictitious loan agreements to disguise crypto trading proceeds it transferred directly into bank accounts.",
+   "tags": []
+  },
+  {
+   "id": "fbe17e6625",
+   "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
+   "date": "2026-11-13T12:14:22+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
+     "url": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
+     "date": "2026-11-13T12:14:22+00:00",
+     "summary": "Your day-ahead look for Nov. 13, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T12:14:22+00:00",
+   "last_seen": "2026-11-13T12:14:22+00:00",
+   "summary": "Your day-ahead look for Nov. 13, 2026",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "6cbb96d31c",
+   "title": "Digital Credit: Comparing The Six Bitcoin Preferred Stocks",
+   "date": "2026-11-13T12:03:47+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Digital Credit: Comparing The Six Bitcoin Preferred Stocks",
+     "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/digital-credit-comparing-the-six-bitcoin-preferred-stocks",
+     "date": "2026-11-13T12:03:47+00:00",
+     "summary": "Bitcoin Magazine Digital Credit: Comparing The Six Bitcoin Preferred Stocks A simple four-part investor framework for evaluating Digital Credit. This post Digital Credit: Comparing The Six Bitcoin Preferred Stocks first appeared on Bitcoin Magazine and is written by Allard Peng ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T12:03:47+00:00",
+   "last_seen": "2026-11-13T12:03:47+00:00",
+   "summary": "Bitcoin Magazine Digital Credit: Comparing The Six Bitcoin Preferred Stocks A simple four-part investor framework for evaluating Digital Credit. This post Digital Credit: Comparing The Six Bitcoin Preferred Stocks first appeared on Bitcoin Magazine and is written by Allard Peng .",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "99c51a3f57",
+   "title": "Nvidia Employees Push Board to Bring Back Jensen Huang: Report",
+   "date": "2026-11-13T11:58:47+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Nvidia Employees Push Board to Bring Back Jensen Huang: Report",
+     "url": "https://decrypt.co/383217/nvidia-employees-push-board-to-bring-back-jensen-huang-report",
+     "date": "2026-11-13T11:58:47+00:00",
+     "summary": "An internal post urging Nvidia's board to weigh staff sentiment has drawn more than 1,600 comments, including calls to reinstate Huang."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T11:58:47+00:00",
+   "last_seen": "2026-11-13T11:58:47+00:00",
+   "summary": "An internal post urging Nvidia's board to weigh staff sentiment has drawn more than 1,600 comments, including calls to reinstate Huang.",
+   "tags": []
+  },
+  {
+   "id": "18d58d2bd2",
+   "title": "Bitcoin falls below $70,000 as $870 million in bullish bets are liquidated",
+   "date": "2026-11-13T11:58:35+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin falls below $70,000 as $870 million in bullish bets are liquidated",
+     "url": "https://cryptoslate.com/bitcoin-falls-below-70000-as-870-million-in-bullish-bets-are-liquidated/",
+     "date": "2026-11-13T11:58:35+00:00",
+     "summary": "CoinGlass&#039;s 24-hour figures showed heavy pressure on bullish positions amid rate and NVIDIA uncertainty, while Microsoft&#039;s outage continued. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T11:58:35+00:00",
+   "last_seen": "2026-11-13T11:58:35+00:00",
+   "summary": "CoinGlass&#039;s 24-hour figures showed heavy pressure on bullish positions amid rate and NVIDIA uncertainty, while Microsoft&#039;s outage continued. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "1c68f1776c",
+   "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+   "date": "2026-11-13T11:52:25+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
+     "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
+     "date": "2026-11-13T11:52:25+00:00",
+     "summary": "Bitcoin (BTC) fell below $70,000 for the first time since August and is down 3.5% since midnight UTC, as the dollar climbs and liquidations top $1.6 billion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T11:52:25+00:00",
+   "last_seen": "2026-11-13T11:52:25+00:00",
+   "summary": "Bitcoin (BTC) fell below $70,000 for the first time since August and is down 3.5% since midnight UTC, as the dollar climbs and liquidations top $1.6 billion.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "b509bedec3",
+   "title": "AI helped find 66 security flaws, with no fixes planned for some older devices",
+   "date": "2026-11-13T11:30:31+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "AI helped find 66 security flaws, with no fixes planned for some older devices",
+     "url": "https://cryptoslate.com/ai-helped-find-66-security-flaws-with-no-fixes-planned-for-some-older-devices/",
+     "date": "2026-11-13T11:30:31+00:00",
+     "summary": "The research paired commercially available models with expert validation, while earlier Siemens advisories show uneven remediation for affected devices. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T11:30:31+00:00",
+   "last_seen": "2026-11-13T11:30:31+00:00",
+   "summary": "The research paired commercially available models with expert validation, while earlier Siemens advisories show uneven remediation for affected devices. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "fb992dbc4b",
+   "title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
+   "date": "2026-11-13T11:20:44+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
+     "url": "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand",
+     "date": "2026-11-13T11:20:44+00:00",
+     "summary": "BTC dropped 5% on Friday, falling below $69,000. Experts say it was triggered by a \"concentrated liquidation\" and \"weakening\" demand."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T11:20:44+00:00",
+   "last_seen": "2026-11-13T11:20:44+00:00",
+   "summary": "BTC dropped 5% on Friday, falling below $69,000. Experts say it was triggered by a \"concentrated liquidation\" and \"weakening\" demand.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "846c4c2589",
+   "title": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
+   "date": "2026-11-13T10:55:54+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
+     "url": "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
+     "date": "2026-11-13T10:55:54+00:00",
+     "summary": "House panels requested December interviews with Huang and Nvidia's top lawyer as scrutiny shifts to Commerce's oversight of chip exports."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T10:55:54+00:00",
+   "last_seen": "2026-11-13T10:55:54+00:00",
+   "summary": "House panels requested December interviews with Huang and Nvidia's top lawyer as scrutiny shifts to Commerce's oversight of chip exports.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "d5a15a6ac0",
+   "title": "Google\u2019s new AI can make 100 decisions in under a second, without writing an answer",
+   "date": "2026-11-13T10:30:16+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Google\u2019s new AI can make 100 decisions in under a second, without writing an answer",
+     "url": "https://cryptoslate.com/googles-new-ai-can-make-100-decisions-in-under-a-second-without-writing-an-answer/",
+     "date": "2026-11-13T10:30:16+00:00",
+     "summary": "The Decisions API returns fixed choices at $0.10 per million input tokens, while confidence and consequential actions still need checks. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T10:30:16+00:00",
+   "last_seen": "2026-11-13T10:30:16+00:00",
+   "summary": "The Decisions API returns fixed choices at $0.10 per million input tokens, while confidence and consequential actions still need checks. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "99d3e1a39e",
+   "title": "Thailand seeks $148,000 daily cap on certain stablecoin transfers to curb money laundering",
+   "date": "2026-11-13T10:16:04+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Thailand seeks $148,000 daily cap on certain stablecoin transfers to curb money laundering",
+     "url": "https://www.theblock.co/news/regulation/2026-11-13-thailand-seeks-daily-stablecoin-cap-439676",
+     "date": "2026-11-13T10:16:04+00:00",
+     "summary": "The draft rules also require that stablecoins be transferred only between accounts or wallets belonging to the same person."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T10:16:04+00:00",
+   "last_seen": "2026-11-13T10:16:04+00:00",
+   "summary": "The draft rules also require that stablecoins be transferred only between accounts or wallets belonging to the same person.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "ca4a8f996b",
+   "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock\u2019s bitcoin ETF",
+   "date": "2026-11-13T09:59:16+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "JPMorgan reports 36% rise in Strategy share holdings and $540 million in BlackRock\u2019s bitcoin ETF",
+     "url": "https://www.theblock.co/news/business/2026-11-13-jpmorgan-reports-36-rise-in-strategy-share-holdings-and-540-million-in-blackrocks-bitcoin-etf-439671",
+     "date": "2026-11-13T09:59:16+00:00",
+     "summary": "JPMorgan reported 224,545 more Strategy shares in the third quarter as its BlackRock bitcoin ETF holdings climbed to 11.4 million shares."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T09:59:16+00:00",
+   "last_seen": "2026-11-13T09:59:16+00:00",
+   "summary": "JPMorgan reported 224,545 more Strategy shares in the third quarter as its BlackRock bitcoin ETF holdings climbed to 11.4 million shares.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "7b01dfa20d",
+   "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
+   "date": "2026-11-13T09:58:21+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
+     "url": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-13T09:58:21+00:00",
+     "summary": "Unocoin said the transfers were signed and broadcast outside BitGo\u2019s platform, and BitGo said the account freeze worked as intended."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T09:58:21+00:00",
+   "last_seen": "2026-11-13T09:58:21+00:00",
+   "summary": "Unocoin said the transfers were signed and broadcast outside BitGo\u2019s platform, and BitGo said the account freeze worked as intended.",
+   "tags": []
+  },
+  {
+   "id": "6a92415531",
+   "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
+   "date": "2026-11-13T09:39:05+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
+     "url": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-13T09:39:05+00:00",
+     "summary": "Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T09:39:05+00:00",
+   "last_seen": "2026-11-13T09:39:05+00:00",
+   "summary": "Bitcoin price action interacted with its 200-week simple moving average for the first time since mid-August as it fell below $68,000.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
   {
    "id": "981e124bae",
    "title": "BoE and Asian Central Banks Test Linked FX Settlement",
@@ -33,12 +991,19 @@
      "url": "https://www.theblock.co/news/regulation/2026-11-13-doj-cftc-sue-arkansas-to-block-state-enforcement-action-against-kalshi-439669",
      "date": "2026-11-13T09:32:39+00:00",
      "summary": "Arkansas previously sued Kalshi on Nov. 4, alleging that it operated an illegal gambling platform in the state."
+    },
+    {
+     "source": "The Defiant",
+     "title": "DOJ and CFTC Sue Arkansas to Halt Kalshi Enforcement",
+     "url": "https://thedefiant.io/news/regulation/doj-and-cftc-sue-arkansas-to-halt-kalshi-enforcement",
+     "date": "2026-11-13T09:52:22+00:00",
+     "summary": "The federal complaint seeks protection beyond Kalshi, including a bar on investigations tied to transactions on CFTC-regulated exchanges."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-13T09:32:39+00:00",
-   "last_seen": "2026-11-13T09:32:39+00:00",
-   "summary": "Arkansas previously sued Kalshi on Nov. 4, alleging that it operated an illegal gambling platform in the state.",
+   "last_seen": "2026-11-13T09:52:22+00:00",
+   "summary": "The federal complaint seeks protection beyond Kalshi, including a bar on investigations tied to transactions on CFTC-regulated exchanges.",
    "tags": [
     "legal",
     "regulation"
@@ -764,12 +1729,19 @@
      "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
      "date": "2026-11-12T22:40:22+00:00",
      "summary": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor & took down the FaceStealer deepfake scam."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "DOJ moves to seize $1.2B from Binance hack, disrupts FaceStealer scam",
+     "url": "https://cointelegraph.com/news/doj-12b-north-korean-crypto-seizure-400m-facestealer-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-13T09:27:14+00:00",
+     "summary": "Authorities froze over $2.7 billion in Binance hack proceeds, while the separate FaceStealer scam stole over $400 million in 18 months."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-12T22:40:22+00:00",
-   "last_seen": "2026-11-12T22:40:22+00:00",
-   "summary": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor & took down the FaceStealer deepfake scam.",
+   "last_seen": "2026-11-13T09:27:14+00:00",
+   "summary": "Authorities froze over $2.7 billion in Binance hack proceeds, while the separate FaceStealer scam stole over $400 million in 18 months.",
    "tags": [
     "exchanges",
     "legal",

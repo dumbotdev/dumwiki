@@ -1,6 +1,584 @@
 {
- "updated": "2026-11-12T20:54:53.793701+00:00",
+ "updated": "2026-11-13T01:55:53.876425+00:00",
  "events": [
+  {
+   "id": "f6c59766a8",
+   "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+   "date": "2026-11-13T01:26:27+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Former Nvidia CEO Huang had third alleged affair: Reuters",
+     "url": "https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-13T01:26:27+00:00",
+     "summary": "Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he resigned as CEO."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T01:26:27+00:00",
+   "last_seen": "2026-11-13T01:26:27+00:00",
+   "summary": "Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he resigned as CEO.",
+   "tags": []
+  },
+  {
+   "id": "72d0b83770",
+   "title": "Bitcoin Sinks to $70,600 as Four-Week Losses Deepen",
+   "date": "2026-11-13T00:57:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Sinks to $70,600 as Four-Week Losses Deepen",
+     "url": "https://thedefiant.io/news/markets/bitcoin-sinks-to-70-600-as-four-week-losses-deepen",
+     "date": "2026-11-13T00:57:09+00:00",
+     "summary": "Coinbase recorded a fresh 28-day low Thursday evening, while ether continued to underperform bitcoin over matched one- and four-week windows."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T00:57:09+00:00",
+   "last_seen": "2026-11-13T00:57:09+00:00",
+   "summary": "Coinbase recorded a fresh 28-day low Thursday evening, while ether continued to underperform bitcoin over matched one- and four-week windows.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "814415a199",
+   "title": "Gemini\u2019s quarterly retail trading volume sinks to 3-year low",
+   "date": "2026-11-13T00:52:42+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Gemini\u2019s quarterly retail trading volume sinks to 3-year low",
+     "url": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-13T00:52:42+00:00",
+     "summary": "Gemini\u2019s third-quarter trading rebound masked a deepening retail slump."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T00:52:42+00:00",
+   "last_seen": "2026-11-13T00:52:42+00:00",
+   "summary": "Gemini\u2019s third-quarter trading rebound masked a deepening retail slump.",
+   "tags": []
+  },
+  {
+   "id": "f7198b3553",
+   "title": "Aave user loses $305,000 after Across Protocol website hijack",
+   "date": "2026-11-13T00:30:17+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Aave user loses $305,000 after Across Protocol website hijack",
+     "url": "https://cryptoslate.com/across-protocol-website-attack-reached-an-aave-deposit-new-402000-loss-trace-shows/",
+     "date": "2026-11-13T00:30:17+00:00",
+     "summary": "Bitquery&#039;s November 12 update estimates $401,900 across nine wallets, including about $305,000 from one Aave deposit token. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T00:30:17+00:00",
+   "last_seen": "2026-11-13T00:30:17+00:00",
+   "summary": "Bitquery&#039;s November 12 update estimates $401,900 across nine wallets, including about $305,000 from one Aave deposit token. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "5e273c0f8d",
+   "title": "DOJ Wins Court Authority to Seize $1.2 Billion of North Korea\u2019s Stolen Binance Crypto as Freezes Top $2.7 Billion",
+   "date": "2026-11-13T00:15:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "DOJ Wins Court Authority to Seize $1.2 Billion of North Korea\u2019s Stolen Binance Crypto as Freezes Top $2.7 Billion",
+     "url": "https://bitcoinmagazine.com/news/doj-north-korea-binance-1-2-billion-seize",
+     "date": "2026-11-13T00:15:00+00:00",
+     "summary": "Bitcoin Magazine DOJ Wins Court Authority to Seize $1.2 Billion of North Korea&#8217;s Stolen Binance Crypto as Freezes Top $2.7 Billion The DOJ won court authority to seize $1.2 billion of North Korea's stolen Binance crypto and took down a $400 million deepfake theft scheme...."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T00:15:00+00:00",
+   "last_seen": "2026-11-13T00:15:00+00:00",
+   "summary": "Bitcoin Magazine DOJ Wins Court Authority to Seize $1.2 Billion of North Korea&#8217;s Stolen Binance Crypto as Freezes Top $2.7 Billion The DOJ won court authority to seize $1.2 billion of North Korea's stolen Binance crypto and took down a $400 million deepfake theft scheme....",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "legal",
+    "security"
+   ]
+  },
+  {
+   "id": "6ecc6a9723",
+   "title": "Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5%",
+   "date": "2026-11-12T23:52:59+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5%",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-71200-yields",
+     "date": "2026-11-12T23:52:59+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5% Bitcoin price traded near $71,200 Thursday evening after slipping to a fresh session low near $71,000, its weakest level since Aug. 20. This post Bitcoin Price Trades..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T23:52:59+00:00",
+   "last_seen": "2026-11-12T23:52:59+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5% Bitcoin price traded near $71,200 Thursday evening after slipping to a fresh session low near $71,000, its weakest level since Aug. 20. This post Bitcoin Price Trades...",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "markets"
+   ]
+  },
+  {
+   "id": "2104eefe78",
+   "title": "Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares",
+   "date": "2026-11-12T23:30:47+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares",
+     "url": "https://bitcoinmagazine.com/news/jane-street-lifts-strategy-mstr-stake",
+     "date": "2026-11-12T23:30:47+00:00",
+     "summary": "Bitcoin Magazine Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares A 13F filed Thursday shows Jane Street held 4,119,097 Strategy shares as of Sept. 30, up 53.8%. This post Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares first appeared..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T23:30:47+00:00",
+   "last_seen": "2026-11-12T23:30:47+00:00",
+   "summary": "Bitcoin Magazine Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares A 13F filed Thursday shows Jane Street held 4,119,097 Strategy shares as of Sept. 30, up 53.8%. This post Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares first appeared...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "787f6bebc9",
+   "title": "Maple Finance\u2019s strategy rift sends co-founder, COO to the exits",
+   "date": "2026-11-12T23:12:55+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Maple Finance\u2019s strategy rift sends co-founder, COO to the exits",
+     "url": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-12T23:12:55+00:00",
+     "summary": "Maple Finance co-founder Joe Flanagan and COO Ryan O\u2019Shea are leaving over disagreements about the firm\u2019s direction as SYRUP falls despite revenue growth."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T23:12:55+00:00",
+   "last_seen": "2026-11-12T23:12:55+00:00",
+   "summary": "Maple Finance co-founder Joe Flanagan and COO Ryan O\u2019Shea are leaving over disagreements about the firm\u2019s direction as SYRUP falls despite revenue growth.",
+   "tags": []
+  },
+  {
+   "id": "e2cb0f8a2e",
+   "title": "Democrats Probe Trump\u2019s Nvidia China Chip Export Deal",
+   "date": "2026-11-12T22:59:53+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Democrats Probe Trump\u2019s Nvidia China Chip Export Deal",
+     "url": "https://thedefiant.io/frontier/ai/democrats-probe-trump-s-nvidia-china-chip-export-deal",
+     "date": "2026-11-12T22:59:53+00:00",
+     "summary": "Wyden and Neal ask Commerce Secretary Howard Lutnick to preserve export and tariff records, opening a separate inquiry into the administration\u2019s decisions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T22:59:53+00:00",
+   "last_seen": "2026-11-12T22:59:53+00:00",
+   "summary": "Wyden and Neal ask Commerce Secretary Howard Lutnick to preserve export and tariff records, opening a separate inquiry into the administration\u2019s decisions.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "64cb063305",
+   "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+   "date": "2026-11-12T22:55:52+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+     "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+     "date": "2026-11-12T22:55:52+00:00",
+     "summary": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T22:55:52+00:00",
+   "last_seen": "2026-11-12T22:55:52+00:00",
+   "summary": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "66e89930fc",
+   "title": "Solana treasury Forward Industries flashes a 30% SOL discount, with a catch",
+   "date": "2026-11-12T22:50:29+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Solana treasury Forward Industries flashes a 30% SOL discount, with a catch",
+     "url": "https://cryptoslate.com/solana-treasury-forward-industries-flashes-a-30-sol-discount-with-a-catch/",
+     "date": "2026-11-12T22:50:29+00:00",
+     "summary": "Forward\u2019s November 9 snapshot shows a 16.8% discount on its in-the-money share count, while the broadest count includes conditional warrants. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T22:50:29+00:00",
+   "last_seen": "2026-11-12T22:50:29+00:00",
+   "summary": "Forward\u2019s November 9 snapshot shows a 16.8% discount on its in-the-money share count, while the broadest count includes conditional warrants. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "macro",
+    "solana"
+   ]
+  },
+  {
+   "id": "541cd3737f",
+   "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+   "date": "2026-11-12T22:47:41+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+     "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+     "date": "2026-11-12T22:47:41+00:00",
+     "summary": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T22:47:41+00:00",
+   "last_seen": "2026-11-12T22:47:41+00:00",
+   "summary": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission.",
+   "tags": [
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "ef97f17eca",
+   "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+   "date": "2026-11-12T22:40:22+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+     "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
+     "date": "2026-11-12T22:40:22+00:00",
+     "summary": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor & took down the FaceStealer deepfake scam."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T22:40:22+00:00",
+   "last_seen": "2026-11-12T22:40:22+00:00",
+   "summary": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor & took down the FaceStealer deepfake scam.",
+   "tags": [
+    "exchanges",
+    "legal",
+    "security"
+   ]
+  },
+  {
+   "id": "6a15d831d0",
+   "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
+   "date": "2026-11-12T22:36:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
+     "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
+     "date": "2026-11-12T22:36:02+00:00",
+     "summary": "Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislation designed to accelerate America's already massive AI infrastructure buildout."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T22:36:02+00:00",
+   "last_seen": "2026-11-12T22:36:02+00:00",
+   "summary": "Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislation designed to accelerate America's already massive AI infrastructure buildout.",
+   "tags": [
+    "ai",
+    "regulation"
+   ]
+  },
+  {
+   "id": "bd9e3fb5c3",
+   "title": "DOJ\u2019s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto",
+   "date": "2026-11-12T22:35:22+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "DOJ\u2019s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto",
+     "url": "https://bitcoinmagazine.com/news/doj-europol-operation-tornado-234-million",
+     "date": "2026-11-12T22:35:22+00:00",
+     "summary": "Bitcoin Magazine DOJ&#8217;s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto The Justice Department said the sweep that ran from May 2025 to October 2026 was the sixth and most extensive JCODE action since 2018, seizing 5.7 metric tons of drugs and 209..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T22:35:22+00:00",
+   "last_seen": "2026-11-12T22:35:22+00:00",
+   "summary": "Bitcoin Magazine DOJ&#8217;s Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto The Justice Department said the sweep that ran from May 2025 to October 2026 was the sixth and most extensive JCODE action since 2018, seizing 5.7 metric tons of drugs and 209...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "63dd4b1b40",
+   "title": "Bitcoin Faces Two Red Years For the First Time Ever",
+   "date": "2026-11-12T22:30:06+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Faces Two Red Years For the First Time Ever",
+     "url": "https://bitcoinmagazine.com/videos/bitcoin-faces-two-red-years-for-the-first-time-ever",
+     "date": "2026-11-12T22:30:06+00:00",
+     "summary": "&#9654; Bitcoin Magazine Bitcoin Faces Two Red Years For the First Time Ever Bitcoin has never posted back-to-back losing years, but 2026 could change that. This post Bitcoin Faces Two Red Years For the First Time Ever first appeared on Bitcoin Magazine and is written by Patrick..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T22:30:06+00:00",
+   "last_seen": "2026-11-12T22:30:06+00:00",
+   "summary": "&#9654; Bitcoin Magazine Bitcoin Faces Two Red Years For the First Time Ever Bitcoin has never posted back-to-back losing years, but 2026 could change that. This post Bitcoin Faces Two Red Years For the First Time Ever first appeared on Bitcoin Magazine and is written by Patrick...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b3470db5ee",
+   "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+   "date": "2026-11-12T22:29:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+     "url": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-12T22:29:58+00:00",
+     "summary": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T22:29:58+00:00",
+   "last_seen": "2026-11-12T22:29:58+00:00",
+   "summary": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks.",
+   "tags": [
+    "exchanges",
+    "memecoins",
+    "security"
+   ]
+  },
+  {
+   "id": "cc7ce1721d",
+   "title": "DOJ Disrupts North Korean Fake-Call Crypto Theft Scheme",
+   "date": "2026-11-12T22:18:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "DOJ Disrupts North Korean Fake-Call Crypto Theft Scheme",
+     "url": "https://thedefiant.io/news/security/doj-disrupts-north-korean-fake-call-crypto-theft-scheme",
+     "date": "2026-11-12T22:18:50+00:00",
+     "summary": "Officials attribute more than $400 million in losses over 18 months to FaceStealer, which uses recordings and deepfakes to impersonate trusted contacts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T22:18:50+00:00",
+   "last_seen": "2026-11-12T22:18:50+00:00",
+   "summary": "Officials attribute more than $400 million in losses over 18 months to FaceStealer, which uses recordings and deepfakes to impersonate trusted contacts.",
+   "tags": []
+  },
+  {
+   "id": "db8deb2fa3",
+   "title": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
+   "date": "2026-11-12T22:18:10+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
+     "url": "https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050",
+     "date": "2026-11-12T22:18:10+00:00",
+     "summary": "Gemini shares rose more than 6% after hours, though the stock remains down around 75% since the year began."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T22:18:10+00:00",
+   "last_seen": "2026-11-12T22:18:10+00:00",
+   "summary": "Gemini shares rose more than 6% after hours, though the stock remains down around 75% since the year began.",
+   "tags": []
+  },
+  {
+   "id": "0346f15237",
+   "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+   "date": "2026-11-12T22:06:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+     "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+     "date": "2026-11-12T22:06:03+00:00",
+     "summary": "The FBI says the \u201cFaceStealer\u201d scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on video calls\u2014as the DOJ also moves to seize $1.2 billion from the Binance hack."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T22:06:03+00:00",
+   "last_seen": "2026-11-12T22:06:03+00:00",
+   "summary": "The FBI says the \u201cFaceStealer\u201d scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on video calls\u2014as the DOJ also moves to seize $1.2 billion from the Binance hack.",
+   "tags": [
+    "ai",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "3d807d0f1d",
+   "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+   "date": "2026-11-12T21:52:04+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+     "url": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-12T21:52:04+00:00",
+     "summary": "Strategy shares declined Thursday following MSCI\u2019s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T21:52:04+00:00",
+   "last_seen": "2026-11-12T21:52:04+00:00",
+   "summary": "Strategy shares declined Thursday following MSCI\u2019s decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "bf2d24e989",
+   "title": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
+   "date": "2026-11-12T21:44:30+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
+     "url": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052",
+     "date": "2026-11-12T21:44:30+00:00",
+     "summary": "Louisiana is the latest state to take on prediction market platforms, joining a legal battle between states and the federal government."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T21:44:30+00:00",
+   "last_seen": "2026-11-12T21:44:30+00:00",
+   "summary": "Louisiana is the latest state to take on prediction market platforms, joining a legal battle between states and the federal government.",
+   "tags": []
+  },
+  {
+   "id": "28ad20d726",
+   "title": "Anthropic\u2019s new AI leads freelance benchmarks, yet fails 58% of the tasks",
+   "date": "2026-11-12T21:40:20+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Anthropic\u2019s new AI leads freelance benchmarks, yet fails 58% of the tasks",
+     "url": "https://cryptoslate.com/anthropics-new-ai-leads-freelance-benchmarks-yet-fails-58-of-the-tasks/",
+     "date": "2026-11-12T21:40:20+00:00",
+     "summary": "Fable 5.2 leads Scale\u2019s Remote Labor Index, which judges complete deliverables against professional reference work. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T21:40:20+00:00",
+   "last_seen": "2026-11-12T21:40:20+00:00",
+   "summary": "Fable 5.2 leads Scale\u2019s Remote Labor Index, which judges complete deliverables against professional reference work. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "19b6408740",
+   "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+   "date": "2026-11-12T21:26:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+     "url": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
+     "date": "2026-11-12T21:26:03+00:00",
+     "summary": "Michael Saylor\u2019s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business\u2014and whether the decision could slow its Bitcoin buying."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T21:26:03+00:00",
+   "last_seen": "2026-11-12T21:26:03+00:00",
+   "summary": "Michael Saylor\u2019s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business\u2014and whether the decision could slow its Bitcoin buying.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b0a9da59b9",
+   "title": "Kalshi ends Donald Trump Jr.\u2019s advisory contract over 1789 Capital\u2019s Polymarket investment",
+   "date": "2026-11-12T21:07:49+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Kalshi ends Donald Trump Jr.\u2019s advisory contract over 1789 Capital\u2019s Polymarket investment",
+     "url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+     "date": "2026-11-12T21:07:49+00:00",
+     "summary": "Trump Jr. joined Kalshi as a strategic adviser in January 2025, helping the prediction market expand its customer base and strengthen its market presence."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+     "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-12T22:05:01+00:00",
+     "summary": "The prediction market operator said the decision was mutual and followed 1789 Capital\u2019s investment in rival Polymarket, denying political considerations."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-12T21:07:49+00:00",
+   "last_seen": "2026-11-12T22:05:01+00:00",
+   "summary": "Trump Jr. joined Kalshi as a strategic adviser in January 2025, helping the prediction market expand its customer base and strengthen its market presence.",
+   "tags": []
+  },
+  {
+   "id": "0e1478075d",
+   "title": "Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing",
+   "date": "2026-11-12T21:00:13+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing",
+     "url": "https://bitcoinmagazine.com/videos/jensen-huang-steps-down-are-the-cracks-beginning-to-show-in-circular-ai-financing",
+     "date": "2026-11-12T21:00:13+00:00",
+     "summary": "&#9654; Bitcoin Magazine Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing NVIDIA CEO Jensen Huang has resigned after the company's board met to discuss possible removal, and BMTV hosts Grace Remington and Sean Hagan walk through what that means..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T21:00:13+00:00",
+   "last_seen": "2026-11-12T21:00:13+00:00",
+   "summary": "&#9654; Bitcoin Magazine Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing NVIDIA CEO Jensen Huang has resigned after the company's board met to discuss possible removal, and BMTV hosts Grace Remington and Sean Hagan walk through what that means...",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "f03cbdd145",
+   "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+   "date": "2026-11-12T20:58:06+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+     "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-12T20:58:06+00:00",
+     "summary": "Industry groups argued in court filings that Illinois\u2019 crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T20:58:06+00:00",
+   "last_seen": "2026-11-12T20:58:06+00:00",
+   "summary": "Industry groups argued in court filings that Illinois\u2019 crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law.",
+   "tags": [
+    "defi",
+    "legal",
+    "regulation"
+   ]
+  },
   {
    "id": "c4657584c8",
    "title": "Foster Says Nvidia Privately Deemed Chip Tracking Feasible",
@@ -41,6 +619,28 @@
    "summary": "Trezor CTO Tom\u00e1\u0161 Su\u0161\u00e1nka explains the trade-offs of Bitcoin\u2019s leading post-quantum signature scheme.",
    "tags": [
     "bitcoin"
+   ]
+  },
+  {
+   "id": "5855b83581",
+   "title": "Peter Schiff on the Bitcoin Crash: \u201cGet the Hell Out\u201d",
+   "date": "2026-11-12T20:15:28+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Peter Schiff on the Bitcoin Crash: \u201cGet the Hell Out\u201d",
+     "url": "https://bitcoinmagazine.com/videos/peter-schiff-on-the-bitcoin-crash-get-the-hell-out",
+     "date": "2026-11-12T20:15:28+00:00",
+     "summary": "&#9654; Bitcoin Magazine Peter Schiff on the Bitcoin Crash: &#8220;Get the Hell Out&#8221; Challenged on why two or three down years would matter for Bitcoin when gold and the Nasdaq have had similar streaks before recoveries, Peter Schiff says the difference is the backdrop...."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-12T20:15:28+00:00",
+   "last_seen": "2026-11-12T20:15:28+00:00",
+   "summary": "&#9654; Bitcoin Magazine Peter Schiff on the Bitcoin Crash: &#8220;Get the Hell Out&#8221; Challenged on why two or three down years would matter for Bitcoin when gold and the Nasdaq have had similar streaks before recoveries, Peter Schiff says the difference is the backdrop....",
+   "tags": [
+    "bitcoin",
+    "markets"
    ]
   },
   {

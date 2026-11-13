@@ -1,6 +1,684 @@
 {
- "updated": "2026-11-13T17:51:28.113361+00:00",
+ "updated": "2026-11-13T23:40:08.359515+00:00",
  "events": [
+  {
+   "id": "c0c3065882",
+   "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+   "date": "2026-11-13T23:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+     "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+     "date": "2026-11-13T23:30:00+00:00",
+     "summary": "Contracts that sell power to a 4% slice of the world\u2019s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay\u2019s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T23:30:00+00:00",
+   "last_seen": "2026-11-13T23:30:00+00:00",
+   "summary": "Contracts that sell power to a 4% slice of the world\u2019s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay\u2019s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "8dcf6cd553",
+   "title": "Nvidia Approached Arm CEO Haas in Search, FT Reports",
+   "date": "2026-11-13T22:30:52+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Nvidia Approached Arm CEO Haas in Search, FT Reports",
+     "url": "https://thedefiant.io/frontier/ai/nvidia-approached-arm-ceo-haas-in-search-ft-reports",
+     "date": "2026-11-13T22:30:52+00:00",
+     "summary": "The board says it has not formally engaged any candidates, while some employees are calling for Jensen Huang\u2019s return ahead of Nov. 17 earnings."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T22:30:52+00:00",
+   "last_seen": "2026-11-13T22:30:52+00:00",
+   "summary": "The board says it has not formally engaged any candidates, while some employees are calling for Jensen Huang\u2019s return ahead of Nov. 17 earnings.",
+   "tags": []
+  },
+  {
+   "id": "73da0a935f",
+   "title": "Diesel prices plunge 8%, yet Bitcoin traders face a squeeze",
+   "date": "2026-11-13T22:20:46+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Diesel prices plunge 8%, yet Bitcoin traders face a squeeze",
+     "url": "https://cryptoslate.com/diesel-prices-plunge-8-yet-bitcoin-traders-face-a-squeeze/",
+     "date": "2026-11-13T22:20:46+00:00",
+     "summary": "October\u2019s PPI slowed at the headline level, but higher freight prices and firm underlying inflation leave financing relief uncertain. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T22:20:46+00:00",
+   "last_seen": "2026-11-13T22:20:46+00:00",
+   "summary": "October\u2019s PPI slowed at the headline level, but higher freight prices and firm underlying inflation leave financing relief uncertain. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "40a9061287",
+   "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm\u2019s Rene Haas Emerges as Candidate",
+   "date": "2026-11-13T22:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm\u2019s Rene Haas Emerges as Candidate",
+     "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+     "date": "2026-11-13T22:16:03+00:00",
+     "summary": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T22:16:03+00:00",
+   "last_seen": "2026-11-13T22:16:03+00:00",
+   "summary": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO.",
+   "tags": []
+  },
+  {
+   "id": "d0675c41d7",
+   "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+   "date": "2026-11-13T22:01:03+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+     "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-13T22:01:03+00:00",
+     "summary": "OpenAI\u2019s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T22:01:03+00:00",
+   "last_seen": "2026-11-13T22:01:03+00:00",
+   "summary": "OpenAI\u2019s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "bc342ad7d2",
+   "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+   "date": "2026-11-13T21:49:27+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+     "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-13T21:49:27+00:00",
+     "summary": "Blockstream\u2019s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T21:49:27+00:00",
+   "last_seen": "2026-11-13T21:49:27+00:00",
+   "summary": "Blockstream\u2019s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "7595225c50",
+   "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+   "date": "2026-11-13T21:36:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+     "url": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
+     "date": "2026-11-13T21:36:03+00:00",
+     "summary": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betting on platforms like Kalshi and Polymarket."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T21:36:03+00:00",
+   "last_seen": "2026-11-13T21:36:03+00:00",
+   "summary": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betting on platforms like Kalshi and Polymarket.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "53a8bae622",
+   "title": "AMD Sinks 9% as Chip Rally Falters After Huang Exit",
+   "date": "2026-11-13T21:13:45+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "AMD Sinks 9% as Chip Rally Falters After Huang Exit",
+     "url": "https://thedefiant.io/frontier/markets/amd-sinks-9-as-chip-rally-falters-after-huang-exit",
+     "date": "2026-11-13T21:13:45+00:00",
+     "summary": "Broadcom and Marvell also fell more than Nvidia on Friday, but all three held onto double-digit weekly gains."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T21:13:45+00:00",
+   "last_seen": "2026-11-13T21:13:45+00:00",
+   "summary": "Broadcom and Marvell also fell more than Nvidia on Friday, but all three held onto double-digit weekly gains.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "f2ce90a07c",
+   "title": "Coinbase Wins Final OCC Clearance for US Trust Company",
+   "date": "2026-11-13T21:11:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coinbase Wins Final OCC Clearance for US Trust Company",
+     "url": "https://thedefiant.io/converge/cefi/coinbase-wins-final-occ-clearance-for-us-trust-company",
+     "date": "2026-11-13T21:11:54+00:00",
+     "summary": "The charter brings a federal framework to Coinbase\u2019s custody business, following conditional approval in April. It does not make the exchange a commercial bank."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T21:11:54+00:00",
+   "last_seen": "2026-11-13T21:11:54+00:00",
+   "summary": "The charter brings a federal framework to Coinbase\u2019s custody business, following conditional approval in April. It does not make the exchange a commercial bank.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "c289d178ca",
+   "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+   "date": "2026-11-13T21:01:39+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Kraken parent Payward gains market share as slower trading weighs on earnings",
+     "url": "https://cointelegraph.com/news/kraken-parent-payward-gains-market-share-slower-trading-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-13T21:01:39+00:00",
+     "summary": "Payward\u2019s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T21:01:39+00:00",
+   "last_seen": "2026-11-13T21:01:39+00:00",
+   "summary": "Payward\u2019s adjusted EBITDA fell 66% year over year to $60 million, even as its share of global spot trading nearly doubled and fee-based services expanded.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "68de96c80e",
+   "title": "Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d",
+   "date": "2026-11-13T21:00:18+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d",
+     "url": "https://bitcoinmagazine.com/videos/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here",
+     "date": "2026-11-13T21:00:18+00:00",
+     "summary": "&#9654; Bitcoin Magazine Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d Bitcoin went from 57,000 to 82,000 in less than 90 days earlier this year, and Joe Carlasare says that's why he rejects the idea that capital can't flood back in. This post Joe Carlasare on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T21:00:18+00:00",
+   "last_seen": "2026-11-13T21:00:18+00:00",
+   "summary": "&#9654; Bitcoin Magazine Joe Carlasare on \u201cExtreme Fear\u201d in Bitcoin: \u201cI\u2019m A Buyer Here\u201d Bitcoin went from 57,000 to 82,000 in less than 90 days earlier this year, and Joe Carlasare says that's why he rejects the idea that capital can't flood back in. This post Joe Carlasare on...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "e026216ad9",
+   "title": "Meta tests prediction market app using \u2018cred\u2019 points instead of cash: WSJ",
+   "date": "2026-11-13T20:55:26+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Meta tests prediction market app using \u2018cred\u2019 points instead of cash: WSJ",
+     "url": "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
+     "date": "2026-11-13T20:55:26+00:00",
+     "summary": "Meta employees are testing Takes, a prediction app that rewards correct calls with credibility points."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T20:55:26+00:00",
+   "last_seen": "2026-11-13T20:55:26+00:00",
+   "summary": "Meta employees are testing Takes, a prediction app that rewards correct calls with credibility points.",
+   "tags": []
+  },
+  {
+   "id": "ba197da81d",
+   "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+   "date": "2026-11-13T20:53:20+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US regulators move ahead on crypto trust charters as Senate scrutiny grows",
+     "url": "https://cointelegraph.com/news/us-regulators-crypto-trust-charters-senate-scrutiny-grows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-13T20:53:20+00:00",
+     "summary": "Coinbase\u2019s trust company received final clearance as lawmakers seek records on crypto firms\u2019 compliance and potential conflicts of interest."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T20:53:20+00:00",
+   "last_seen": "2026-11-13T20:53:20+00:00",
+   "summary": "Coinbase\u2019s trust company received final clearance as lawmakers seek records on crypto firms\u2019 compliance and potential conflicts of interest.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "4ce7566ed4",
+   "title": "XRP loans trigger 883 liquidations, and $53M remains at risk",
+   "date": "2026-11-13T20:50:08+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP loans trigger 883 liquidations, and $53M remains at risk",
+     "url": "https://cryptoslate.com/xrp-loans-trigger-883-liquidations-and-53m-remains-at-risk/",
+     "date": "2026-11-13T20:50:08+00:00",
+     "summary": "Borrowers surrendered 4.18 million cbXRP on Base, while the records leave a native XRP selling link unproven. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T20:50:08+00:00",
+   "last_seen": "2026-11-13T20:50:08+00:00",
+   "summary": "Borrowers surrendered 4.18 million cbXRP on Base, while the records leave a native XRP selling link unproven. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "c2ea81e278",
+   "title": "China\u2019s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
+   "date": "2026-11-13T20:45:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "China\u2019s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
+     "url": "https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts",
+     "date": "2026-11-13T20:45:03+00:00",
+     "summary": "Chinese data center projects are still being designed around restricted Nvidia processors, even as Beijing pushes domestic alternatives."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T20:45:03+00:00",
+   "last_seen": "2026-11-13T20:45:03+00:00",
+   "summary": "Chinese data center projects are still being designed around restricted Nvidia processors, even as Beijing pushes domestic alternatives.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "b964bc1b61",
+   "title": "JPMorgan\u2019s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+   "date": "2026-11-13T20:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "JPMorgan\u2019s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
+     "url": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
+     "date": "2026-11-13T20:16:03+00:00",
+     "summary": "The bank\u2019s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase\u2014likely over $1 billion counting Robinhood and miners."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T20:16:03+00:00",
+   "last_seen": "2026-11-13T20:16:03+00:00",
+   "summary": "The bank\u2019s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase\u2014likely over $1 billion counting Robinhood and miners.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "b25d7f2c91",
+   "title": "Bill Miller IV: \u201cThey\u2019re Not Printing More Bitcoin\u201d",
+   "date": "2026-11-13T20:00:39+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bill Miller IV: \u201cThey\u2019re Not Printing More Bitcoin\u201d",
+     "url": "https://bitcoinmagazine.com/videos/bill-miller-iv-theyre-not-printing-more-bitcoin",
+     "date": "2026-11-13T20:00:39+00:00",
+     "summary": "&#9654; Bitcoin Magazine Bill Miller IV: \u201cThey&#8217;re Not Printing More Bitcoin\u201d Bill Miller IV, Chairman and CIO of Miller Value Partners, joins Grace Remington and Sean Hagan on BMTV to explain why he is still bullish on Bitcoin with sentiment near FTX-era lows. This post..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T20:00:39+00:00",
+   "last_seen": "2026-11-13T20:00:39+00:00",
+   "summary": "&#9654; Bitcoin Magazine Bill Miller IV: \u201cThey&#8217;re Not Printing More Bitcoin\u201d Bill Miller IV, Chairman and CIO of Miller Value Partners, joins Grace Remington and Sean Hagan on BMTV to explain why he is still bullish on Bitcoin with sentiment near FTX-era lows. This post...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "70477c617c",
+   "title": "Maple CEO Defends Institutional Push Amid Departures",
+   "date": "2026-11-13T19:45:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Maple CEO Defends Institutional Push Amid Departures",
+     "url": "https://thedefiant.io/news/defi/maple-ceo-defends-institutional-push-amid-departures",
+     "date": "2026-11-13T19:45:48+00:00",
+     "summary": "Sidney Powell said the leadership departures concern Maple\u2019s direction, not its loan book, and outlined plans to expand institutional credit and fintech distribution."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T19:45:48+00:00",
+   "last_seen": "2026-11-13T19:45:48+00:00",
+   "summary": "Sidney Powell said the leadership departures concern Maple\u2019s direction, not its loan book, and outlined plans to expand institutional credit and fintech distribution.",
+   "tags": []
+  },
+  {
+   "id": "59ecd2400d",
+   "title": "MEGA Discloses 20% Staff Cut Amid AI Product Push",
+   "date": "2026-11-13T19:39:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "MEGA Discloses 20% Staff Cut Amid AI Product Push",
+     "url": "https://thedefiant.io/news/infrastructure/mega-discloses-20-staff-cut-amid-ai-product-push",
+     "date": "2026-11-13T19:39:44+00:00",
+     "summary": "Departing staff worked on the chain, wallet and ecosystem. The disclosure comes three days after a $30 million product pledge."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T19:39:44+00:00",
+   "last_seen": "2026-11-13T19:39:44+00:00",
+   "summary": "Departing staff worked on the chain, wallet and ecosystem. The disclosure comes three days after a $30 million product pledge.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "3c58080bad",
+   "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
+   "date": "2026-11-13T19:36:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
+     "url": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
+     "date": "2026-11-13T19:36:03+00:00",
+     "summary": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T19:36:03+00:00",
+   "last_seen": "2026-11-13T19:36:03+00:00",
+   "summary": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "d5d1dfa2b9",
+   "title": "FBI warns active $400M crypto scam targets your friends by replacing your face in videos",
+   "date": "2026-11-13T19:30:01+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "FBI warns active $400M crypto scam targets your friends by replacing your face in videos",
+     "url": "https://cryptoslate.com/fbi-warns-facestealer-turns-crypto-victims-into-bait-for-the-next-attack/",
+     "date": "2026-11-13T19:30:01+00:00",
+     "summary": "The FBI says North Korean hackers reuse stolen accounts and webcam footage to draw the next contact into a fake meeting. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T19:30:01+00:00",
+   "last_seen": "2026-11-13T19:30:01+00:00",
+   "summary": "The FBI says North Korean hackers reuse stolen accounts and webcam footage to draw the next contact into a fake meeting. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "137613c27c",
+   "title": "MEGA cuts 20% of workforce as former MegaETH Foundation restructures",
+   "date": "2026-11-13T19:26:53+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "MEGA cuts 20% of workforce as former MegaETH Foundation restructures",
+     "url": "https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206",
+     "date": "2026-11-13T19:26:53+00:00",
+     "summary": "MEGA, formerly the MegaETH Foundation, laid off 20% of staff days after its rebrand and $30 million push into AI inference products."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T19:26:53+00:00",
+   "last_seen": "2026-11-13T19:26:53+00:00",
+   "summary": "MEGA, formerly the MegaETH Foundation, laid off 20% of staff days after its rebrand and $30 million push into AI inference products.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "2f1361cf17",
+   "title": "House Oversight Chair calls for possible ban on government officials\u2019 prediction market bets over insider trading concerns",
+   "date": "2026-11-13T19:09:12+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "House Oversight Chair calls for possible ban on government officials\u2019 prediction market bets over insider trading concerns",
+     "url": "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207",
+     "date": "2026-11-13T19:09:12+00:00",
+     "summary": "The House Oversight Committee is calling for new limits on government officials\u2019 use of prediction markets, including a potential ban."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T19:09:12+00:00",
+   "last_seen": "2026-11-13T19:09:12+00:00",
+   "summary": "The House Oversight Committee is calling for new limits on government officials\u2019 use of prediction markets, including a potential ban.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "ec818473db",
+   "title": "CFTC\u2019s Selig accuses states of trying to \u2018lock up\u2019 prediction market founders",
+   "date": "2026-11-13T18:51:03+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "CFTC\u2019s Selig accuses states of trying to \u2018lock up\u2019 prediction market founders",
+     "url": "https://www.theblock.co/news/regulation/2026-11-13-cftcs-selig-accuses-states-trying-lock-up-prediction-market-founders-440199",
+     "date": "2026-11-13T18:51:03+00:00",
+     "summary": "CFTC Chairman Michael Selig says disputes over whether event contracts are gambling shouldn\u2019t put executives at risk of jail."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T18:51:03+00:00",
+   "last_seen": "2026-11-13T18:51:03+00:00",
+   "summary": "CFTC Chairman Michael Selig says disputes over whether event contracts are gambling shouldn\u2019t put executives at risk of jail.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "f9ce1494e0",
+   "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+   "date": "2026-11-13T18:39:58+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+     "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+     "date": "2026-11-13T18:39:58+00:00",
+     "summary": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T18:39:58+00:00",
+   "last_seen": "2026-11-13T18:39:58+00:00",
+   "summary": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move.",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "4b15dfcd4d",
+   "title": "Fed Chair Warsh Wants Answers on AI Inflation\u2014and Bitcoin May Feel the Impact",
+   "date": "2026-11-13T18:36:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Fed Chair Warsh Wants Answers on AI Inflation\u2014and Bitcoin May Feel the Impact",
+     "url": "https://decrypt.co/383259/fed-chair-warsh-wants-answers-ai-inflation-bitcoin",
+     "date": "2026-11-13T18:36:02+00:00",
+     "summary": "The Federal Reserve is examining whether AI will lower prices or keep inflation elevated, a question that could shape interest rates and the outlook for crypto."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T18:36:02+00:00",
+   "last_seen": "2026-11-13T18:36:02+00:00",
+   "summary": "The Federal Reserve is examining whether AI will lower prices or keep inflation elevated, a question that could shape interest rates and the outlook for crypto.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "7567f75b96",
+   "title": "Aave plan could cut some lenders\u2019 share of interest by 60%",
+   "date": "2026-11-13T18:30:35+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Aave plan could cut some lenders\u2019 share of interest by 60%",
+     "url": "https://cryptoslate.com/aave-lenders-interest-share-cut-proposal/",
+     "date": "2026-11-13T18:30:35+00:00",
+     "summary": "TokenLogic\u2019s proposed interest split would hit some stablecoin lenders harder, while a major Plasma revenue component remains conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T18:30:35+00:00",
+   "last_seen": "2026-11-13T18:30:35+00:00",
+   "summary": "TokenLogic\u2019s proposed interest split would hit some stablecoin lenders harder, while a major Plasma revenue component remains conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "75bf4baeb3",
+   "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
+   "date": "2026-11-13T18:28:29+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
+     "url": "https://cointelegraph.com/news/metaplanet-swings-170m-loss-bitcoin-sale-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-13T18:28:29+00:00",
+     "summary": "Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company\u2019s earnings despite higher revenue and operating profit."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T18:28:29+00:00",
+   "last_seen": "2026-11-13T18:28:29+00:00",
+   "summary": "Bitcoin sales, valuation losses and rising borrowing costs weighed on the Japanese company\u2019s earnings despite higher revenue and operating profit.",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "668bdef5d3",
+   "title": "How to Read US Spot Bitcoin ETF Flows\u2014and Their Limits",
+   "date": "2026-11-13T18:15:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "How to Read US Spot Bitcoin ETF Flows\u2014and Their Limits",
+     "url": "https://thedefiant.io/news/markets/how-to-read-us-spot-bitcoin-etf-flows-and-their-limits",
+     "date": "2026-11-13T18:15:49+00:00",
+     "summary": "Net flows measure additions to funds minus withdrawals\u2014not all share trading or changes in asset value. They cannot, by themselves, explain bitcoin\u2019s price."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T18:15:49+00:00",
+   "last_seen": "2026-11-13T18:15:49+00:00",
+   "summary": "Net flows measure additions to funds minus withdrawals\u2014not all share trading or changes in asset value. They cannot, by themselves, explain bitcoin\u2019s price.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "markets"
+   ]
+  },
+  {
+   "id": "6947234179",
+   "title": "BitGo Denies Breach as Unocoin Probes Wallet Transfers",
+   "date": "2026-11-13T18:11:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "BitGo Denies Breach as Unocoin Probes Wallet Transfers",
+     "url": "https://thedefiant.io/news/security/bitgo-denies-breach-as-unocoin-probes-wallet-transfers",
+     "date": "2026-11-13T18:11:50+00:00",
+     "summary": "BitGo says the disputed transfers used Unocoin-held keys without its participation. The exchange suspects misuse of a backup mechanism as services remain suspended."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T18:11:50+00:00",
+   "last_seen": "2026-11-13T18:11:50+00:00",
+   "summary": "BitGo says the disputed transfers used Unocoin-held keys without its participation. The exchange suspects misuse of a backup mechanism as services remain suspended.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "5604c0c8a1",
+   "title": "Why Private AI is More Important Than Ever",
+   "date": "2026-11-13T18:00:15+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Why Private AI is More Important Than Ever",
+     "url": "https://bitcoinmagazine.com/videos/why-private-ai-is-more-important-than-ever",
+     "date": "2026-11-13T18:00:15+00:00",
+     "summary": "&#9654; Bitcoin Magazine Why Private AI is More Important Than Ever Mark Suman, co-founder and CEO of Maple AI, joins BMTV to talk about private AI built so that even its own team cannot read your chats. This post Why Private AI is More Important Than Ever first appeared on..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T18:00:15+00:00",
+   "last_seen": "2026-11-13T18:00:15+00:00",
+   "summary": "&#9654; Bitcoin Magazine Why Private AI is More Important Than Ever Mark Suman, co-founder and CEO of Maple AI, joins BMTV to talk about private AI built so that even its own team cannot read your chats. This post Why Private AI is More Important Than Ever first appeared on...",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "1527a10fe3",
+   "title": "Trump\u2019s First Democratic Picks for SEC and CFTC Could Reshape Crypto\u2019s Regulators",
+   "date": "2026-11-13T17:56:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Trump\u2019s First Democratic Picks for SEC and CFTC Could Reshape Crypto\u2019s Regulators",
+     "url": "https://decrypt.co/383260/trump-first-democratic-picks-sec-cftc-could-reshape-crypto",
+     "date": "2026-11-13T17:56:03+00:00",
+     "summary": "The bipartisan slate\u2014two Republicans and two Democrats, Trump\u2019s first Democratic picks for either agency\u2014would refill commissions that have driven crypto policy since the Clarity Act\u2019s collapse."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T17:56:03+00:00",
+   "last_seen": "2026-11-13T17:56:03+00:00",
+   "summary": "The bipartisan slate\u2014two Republicans and two Democrats, Trump\u2019s first Democratic picks for either agency\u2014would refill commissions that have driven crypto policy since the Clarity Act\u2019s collapse.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "9338e528f1",
    "title": "Amazon says no human wrote or reviewed the code for its new cloud testing tool",

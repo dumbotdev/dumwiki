@@ -1,6 +1,732 @@
 {
- "updated": "2026-11-14T06:41:32.735356+00:00",
+ "updated": "2026-11-14T14:16:16.477780+00:00",
  "events": [
+  {
+   "id": "485d796ee4",
+   "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop\u2014Without Crypto",
+   "date": "2026-11-14T14:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop\u2014Without Crypto",
+     "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
+     "date": "2026-11-14T14:01:02+00:00",
+     "summary": "OpenAI\u2019s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shopping by autonomous software."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T14:01:02+00:00",
+   "last_seen": "2026-11-14T14:01:02+00:00",
+   "summary": "OpenAI\u2019s new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shopping by autonomous software.",
+   "tags": [
+    "ai",
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "b4fa8121df",
+   "title": "Microsoft found a way to turn a helpful AI into a sleeper agent",
+   "date": "2026-11-14T13:20:37+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Microsoft found a way to turn a helpful AI into a sleeper agent",
+     "url": "https://cryptoslate.com/microsoft-found-a-way-to-turn-a-helpful-ai-into-a-sleeper-agent/",
+     "date": "2026-11-14T13:20:37+00:00",
+     "summary": "Seven neurons controlled a harmless marker, while a separate 60-neuron test predicted a destructive command format. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T13:20:37+00:00",
+   "last_seen": "2026-11-14T13:20:37+00:00",
+   "summary": "Seven neurons controlled a harmless marker, while a separate 60-neuron test predicted a destructive command format. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "3dc7b8e3ea",
+   "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
+   "date": "2026-11-14T13:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
+     "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
+     "date": "2026-11-14T13:00:00+00:00",
+     "summary": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T13:00:00+00:00",
+   "last_seen": "2026-11-14T13:00:00+00:00",
+   "summary": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report.",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "52ed226dc5",
+   "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
+   "date": "2026-11-14T12:57:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
+     "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+     "date": "2026-11-14T12:57:00+00:00",
+     "summary": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T12:57:00+00:00",
+   "last_seen": "2026-11-14T12:57:00+00:00",
+   "summary": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "markets"
+   ]
+  },
+  {
+   "id": "348498cd20",
+   "title": "50,000 people installed this Bitcoin browser extension. Now control of it is up for sale",
+   "date": "2026-11-14T11:34:23+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "50,000 people installed this Bitcoin browser extension. Now control of it is up for sale",
+     "url": "https://cryptoslate.com/50000-people-installed-this-bitcoin-browser-extension-now-control-of-it-is-up-for-sale/",
+     "date": "2026-11-14T11:34:23+00:00",
+     "summary": "The current offer is separate from documented malware cases, but it shows how buyers can acquire an audience and future update control. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T11:34:23+00:00",
+   "last_seen": "2026-11-14T11:34:23+00:00",
+   "summary": "The current offer is separate from documented malware cases, but it shows how buyers can acquire an audience and future update control. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "5f22f04e1c",
+   "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+   "date": "2026-11-14T10:34:06+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+     "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-14T10:34:06+00:00",
+     "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T10:34:06+00:00",
+   "last_seen": "2026-11-14T10:34:06+00:00",
+   "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "b4a76a15cf",
+   "title": "Pennysia Users Urged to Revoke Approvals After Exploit",
+   "date": "2026-11-14T09:31:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Pennysia Users Urged to Revoke Approvals After Exploit",
+     "url": "https://thedefiant.io/news/hacks/pennysia-users-urged-to-revoke-approvals-after-exploit",
+     "date": "2026-11-14T09:31:12+00:00",
+     "summary": "Onchain records show swaps were disabled before SlowMist's public warning. The cited drain affected four addresses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T09:31:12+00:00",
+   "last_seen": "2026-11-14T09:31:12+00:00",
+   "summary": "Onchain records show swaps were disabled before SlowMist's public warning. The cited drain affected four addresses.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "c464640e0a",
+   "title": "Singapore Files 41 Charges in Nvidia-Linked Server Case",
+   "date": "2026-11-14T08:40:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Singapore Files 41 Charges in Nvidia-Linked Server Case",
+     "url": "https://thedefiant.io/frontier/ai/singapore-files-41-charges-in-nvidia-linked-server-case",
+     "date": "2026-11-14T08:40:19+00:00",
+     "summary": "Shi Bingzhe and two companies face money-laundering allegations over purchases of 917 servers, expanding a probe involving shipments to Malaysia."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T08:40:19+00:00",
+   "last_seen": "2026-11-14T08:40:19+00:00",
+   "summary": "Shi Bingzhe and two companies face money-laundering allegations over purchases of 917 servers, expanding a probe involving shipments to Malaysia.",
+   "tags": []
+  },
+  {
+   "id": "a683f66069",
+   "title": "Cursor Links Extension Attack to Exposed Credentials",
+   "date": "2026-11-14T08:24:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Cursor Links Extension Attack to Exposed Credentials",
+     "url": "https://thedefiant.io/frontier/security/cursor-links-extension-attack-to-exposed-credentials",
+     "date": "2026-11-14T08:24:00+00:00",
+     "summary": "Up to 5,000 users potentially received a tampered Claude Code extension. Cursor is urging affected teams to check machines and rotate exposed credentials."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T08:24:00+00:00",
+   "last_seen": "2026-11-14T08:24:00+00:00",
+   "summary": "Up to 5,000 users potentially received a tampered Claude Code extension. Cursor is urging affected teams to check machines and rotate exposed credentials.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "e7fea0ac0c",
+   "title": "1inch Warns Delegators to Claim Rewards by Nov. 27",
+   "date": "2026-11-14T08:23:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "1inch Warns Delegators to Claim Rewards by Nov. 27",
+     "url": "https://thedefiant.io/news/defi/1inch-warns-delegators-to-claim-rewards-by-nov-27",
+     "date": "2026-11-14T08:23:49+00:00",
+     "summary": "New resolver delegations are closed. Existing delegators should claim rewards and undelegate before the deadline; plain 1INCH staking is unaffected."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T08:23:49+00:00",
+   "last_seen": "2026-11-14T08:23:49+00:00",
+   "summary": "New resolver delegations are closed. Existing delegators should claim rewards and undelegate before the deadline; plain 1INCH staking is unaffected.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "5c9f490c01",
+   "title": "Musk Backs Petition to Bring Jensen Huang Back to Nvidia",
+   "date": "2026-11-14T08:20:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Musk Backs Petition to Bring Jensen Huang Back to Nvidia",
+     "url": "https://thedefiant.io/frontier/ai/musk-backs-petition-to-bring-jensen-huang-back-to-nvidia",
+     "date": "2026-11-14T08:20:16+00:00",
+     "summary": "An independent open letter seeks Huang's reinstatement, but its signature tally is not identity-verified and the board has announced no reversal."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T08:20:16+00:00",
+   "last_seen": "2026-11-14T08:20:16+00:00",
+   "summary": "An independent open letter seeks Huang's reinstatement, but its signature tally is not identity-verified and the board has announced no reversal.",
+   "tags": []
+  },
+  {
+   "id": "007e4fc99c",
+   "title": "Rubio Recast CIA Report in Huang Memo, Post Reports",
+   "date": "2026-11-14T08:18:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Rubio Recast CIA Report in Huang Memo, Post Reports",
+     "url": "https://thedefiant.io/frontier/ai/rubio-recast-cia-report-in-huang-memo-post-reports",
+     "date": "2026-11-14T08:18:08+00:00",
+     "summary": "The report identifies Rubio's role in the warning that preceded Jensen Huang's exit, but does not resolve the espionage allegation or establish that he invented it."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T08:18:08+00:00",
+   "last_seen": "2026-11-14T08:18:08+00:00",
+   "summary": "The report identifies Rubio's role in the warning that preceded Jensen Huang's exit, but does not resolve the espionage allegation or establish that he invented it.",
+   "tags": []
+  },
+  {
+   "id": "59c5855773",
+   "title": "Ondo Backs Spout Plan for No-Interest Stock-Token Loans",
+   "date": "2026-11-14T08:15:45+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ondo Backs Spout Plan for No-Interest Stock-Token Loans",
+     "url": "https://thedefiant.io/news/defi/ondo-backs-spout-plan-for-no-interest-stock-token-loans",
+     "date": "2026-11-14T08:15:45+00:00",
+     "summary": "The planned Solana integration would fund lender returns with covered calls, leaving borrowers exposed to forgone gains and liquidation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T08:15:45+00:00",
+   "last_seen": "2026-11-14T08:15:45+00:00",
+   "summary": "The planned Solana integration would fund lender returns with covered calls, leaving borrowers exposed to forgone gains and liquidation.",
+   "tags": [
+    "markets",
+    "solana"
+   ]
+  },
+  {
+   "id": "496957e7f9",
+   "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+   "date": "2026-11-14T08:12:30+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+     "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-14T08:12:30+00:00",
+     "summary": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project\u2019s blockchain, wallet and ecosystem."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T08:12:30+00:00",
+   "last_seen": "2026-11-14T08:12:30+00:00",
+   "summary": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project\u2019s blockchain, wallet and ecosystem.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "f4a59455b5",
+   "title": "Elizabeth Warren could reopen crypto\u2019s banking fight without changing a single law",
+   "date": "2026-11-14T08:10:11+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Elizabeth Warren could reopen crypto\u2019s banking fight without changing a single law",
+     "url": "https://cryptoslate.com/warren-could-reopen-crypto-banking-fight-without-changing-a-single-law/",
+     "date": "2026-11-14T08:10:11+00:00",
+     "summary": "Elizabeth Warren&#039;s next confrontation with crypto could put companies and regulators under serious pressure without changing a single law. With Democrats taking control of the Senate, she&#039;s expected to chair the Senate Banking Committee in January, giving her more say..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T08:10:11+00:00",
+   "last_seen": "2026-11-14T08:10:11+00:00",
+   "summary": "Elizabeth Warren&#039;s next confrontation with crypto could put companies and regulators under serious pressure without changing a single law. With Democrats taking control of the Senate, she&#039;s expected to chair the Senate Banking Committee in January, giving her more say...",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "c1c38a49a0",
+   "title": "Cosmos Hub Votes on Fix for Broken Governance Queries",
+   "date": "2026-11-14T08:07:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Cosmos Hub Votes on Fix for Broken Governance Queries",
+     "url": "https://thedefiant.io/news/blockchains/cosmos-hub-votes-on-fix-for-broken-governance-queries",
+     "date": "2026-11-14T08:07:12+00:00",
+     "summary": "Proposal 1061 is above quorum with near-unanimous support. Validators would need Gaia v29.1.0 at block 33,935,300 if it passes."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T08:07:12+00:00",
+   "last_seen": "2026-11-14T08:07:12+00:00",
+   "summary": "Proposal 1061 is above quorum with near-unanimous support. Validators would need Gaia v29.1.0 at block 33,935,300 if it passes.",
+   "tags": []
+  },
+  {
+   "id": "008076cf4f",
+   "title": "Ethereum Weighs Hegot\u00e1 Reset for Post-Quantum Security",
+   "date": "2026-11-14T07:57:57+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ethereum Weighs Hegot\u00e1 Reset for Post-Quantum Security",
+     "url": "https://thedefiant.io/news/blockchains/ethereum-weighs-hegot-reset-for-post-quantum-security",
+     "date": "2026-11-14T07:57:57+00:00",
+     "summary": "Developers dropped quick slots but left FOCIL and a new consensus direction unresolved. Christine D. Kim described development as 'on pause.'"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:57:57+00:00",
+   "last_seen": "2026-11-14T07:57:57+00:00",
+   "summary": "Developers dropped quick slots but left FOCIL and a new consensus direction unresolved. Christine D. Kim described development as 'on pause.'",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "bd8ced76e6",
+   "title": "Deutsche Bank Crypto Custody Goes Live for Paying Clients",
+   "date": "2026-11-14T07:52:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Deutsche Bank Crypto Custody Goes Live for Paying Clients",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/deutsche-bank-crypto-custody-goes-live-for-paying-clients",
+     "date": "2026-11-14T07:52:49+00:00",
+     "summary": "The European service supports bitcoin, ether and three stablecoins. Stablecoin conversion and tokenized financial instruments remain later steps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:52:49+00:00",
+   "last_seen": "2026-11-14T07:52:49+00:00",
+   "summary": "The European service supports bitcoin, ether and three stablecoins. Stablecoin conversion and tokenized financial instruments remain later steps.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "d09609c943",
+   "title": "Anthropic IPO Said to Restrict China, Hong Kong Institutions",
+   "date": "2026-11-14T07:46:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Anthropic IPO Said to Restrict China, Hong Kong Institutions",
+     "url": "https://thedefiant.io/frontier/ai/anthropic-ipo-said-to-restrict-china-hong-kong-institutions",
+     "date": "2026-11-14T07:46:50+00:00",
+     "summary": "Some investors are exploring offshore bids, Bloomberg reports, but receiving shares remains uncertain ahead of expected Nov. 18 pricing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:46:50+00:00",
+   "last_seen": "2026-11-14T07:46:50+00:00",
+   "summary": "Some investors are exploring offshore bids, Bloomberg reports, but receiving shares remains uncertain ahead of expected Nov. 18 pricing.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "701ba39ac6",
+   "title": "Duffy Denies FAA AI Tool Caused Nationwide Ground Stop",
+   "date": "2026-11-14T07:44:32+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Duffy Denies FAA AI Tool Caused Nationwide Ground Stop",
+     "url": "https://thedefiant.io/frontier/ai/duffy-denies-faa-ai-tool-caused-nationwide-ground-stop",
+     "date": "2026-11-14T07:44:32+00:00",
+     "summary": "The FAA announced SMART\u2019s expansion to airspace covered by 22 centers on Nov. 10. Duffy blamed overloaded legacy telecom equipment for Friday\u2019s halt."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:44:32+00:00",
+   "last_seen": "2026-11-14T07:44:32+00:00",
+   "summary": "The FAA announced SMART\u2019s expansion to airspace covered by 22 centers on Nov. 10. Duffy blamed overloaded legacy telecom equipment for Friday\u2019s halt.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "a47e4c3f08",
+   "title": "OpenAI Staff Discuss Military AI in Russian Hoax Call",
+   "date": "2026-11-14T07:41:57+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OpenAI Staff Discuss Military AI in Russian Hoax Call",
+     "url": "https://thedefiant.io/frontier/ai/openai-staff-discuss-military-ai-in-russian-hoax-call",
+     "date": "2026-11-14T07:41:57+00:00",
+     "summary": "OpenAI says it investigated and took preventive action, without detailing changes to how it verifies government contacts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:41:57+00:00",
+   "last_seen": "2026-11-14T07:41:57+00:00",
+   "summary": "OpenAI says it investigated and took preventive action, without detailing changes to how it verifies government contacts.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "dba3ba34ed",
+   "title": "Strategy\u2019s Bitcoin Cost Gap Widens to $7.7 Billion",
+   "date": "2026-11-14T07:35:30+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Strategy\u2019s Bitcoin Cost Gap Widens to $7.7 Billion",
+     "url": "https://thedefiant.io/news/markets/strategy-s-bitcoin-cost-gap-widens-to-7-7-billion",
+     "date": "2026-11-14T07:35:30+00:00",
+     "summary": "Bitcoin\u2019s fall below $67,000 deepened the shortfall against Strategy\u2019s purchase cost. That threshold does not itself trigger a margin call."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:35:30+00:00",
+   "last_seen": "2026-11-14T07:35:30+00:00",
+   "summary": "Bitcoin\u2019s fall below $67,000 deepened the shortfall against Strategy\u2019s purchase cost. That threshold does not itself trigger a margin call.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "6c793507d8",
+   "title": "Tesla Opens Cybercab Purchases to Select Private Buyers",
+   "date": "2026-11-14T07:35:29+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tesla Opens Cybercab Purchases to Select Private Buyers",
+     "url": "https://thedefiant.io/frontier/technology/tesla-opens-cybercab-purchases-to-select-private-buyers",
+     "date": "2026-11-14T07:35:29+00:00",
+     "summary": "The invitation-only offer lists December deliveries in Austin and a required $299 monthly subscription. Personal ownership does not automatically permit running a taxi business."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:35:29+00:00",
+   "last_seen": "2026-11-14T07:35:29+00:00",
+   "summary": "The invitation-only offer lists December deliveries in Austin and a required $299 monthly subscription. Personal ownership does not automatically permit running a taxi business.",
+   "tags": []
+  },
+  {
+   "id": "97efc128ac",
+   "title": "Kraken Opens Anthropic IPO Requests With 5% Spread",
+   "date": "2026-11-14T07:23:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Kraken Opens Anthropic IPO Requests With 5% Spread",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/kraken-opens-anthropic-ipo-requests-with-5-spread",
+     "date": "2026-11-14T07:23:07+00:00",
+     "summary": "Eligible clients can seek share-backed ANTx tokens, not direct stock ownership. Requests reserve funds and may receive no allocation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:23:07+00:00",
+   "last_seen": "2026-11-14T07:23:07+00:00",
+   "summary": "Eligible clients can seek share-backed ANTx tokens, not direct stock ownership. Requests reserve funds and may receive no allocation.",
+   "tags": [
+    "exchanges",
+    "funding"
+   ]
+  },
+  {
+   "id": "7f8d7223cc",
+   "title": "Bitcoin Falls Below $69,000 as Ether Slides Under $2,000",
+   "date": "2026-11-14T07:22:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Falls Below $69,000 as Ether Slides Under $2,000",
+     "url": "https://thedefiant.io/news/markets/bitcoin-falls-below-69-000-as-ether-slides-under-2-000",
+     "date": "2026-11-14T07:22:11+00:00",
+     "summary": "Matched Coinbase closes show ether lost 20.3% over four weeks, compared with bitcoin's 16.3%, as both extended their declines."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:22:11+00:00",
+   "last_seen": "2026-11-14T07:22:11+00:00",
+   "summary": "Matched Coinbase closes show ether lost 20.3% over four weeks, compared with bitcoin's 16.3%, as both extended their declines.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "3ea703d015",
+   "title": "stUSDT Winds Down, Sets May 2027 Redemption Deadline",
+   "date": "2026-11-14T07:18:32+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "stUSDT Winds Down, Sets May 2027 Redemption Deadline",
+     "url": "https://thedefiant.io/news/defi/stusdt-winds-down-sets-may-2027-redemption-deadline",
+     "date": "2026-11-14T07:18:32+00:00",
+     "summary": "Rebase rewards end Nov. 14. Holders must unstake and then claim USDT, with late redemption requests moving to monthly support batches."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:18:32+00:00",
+   "last_seen": "2026-11-14T07:18:32+00:00",
+   "summary": "Rebase rewards end Nov. 14. Holders must unstake and then claim USDT, with late redemption requests moving to monthly support batches.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "96c0dc2a38",
+   "title": "US PPI Hits 6.5% as Bitcoin and Ether Edge Higher",
+   "date": "2026-11-14T07:13:02+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "US PPI Hits 6.5% as Bitcoin and Ether Edge Higher",
+     "url": "https://thedefiant.io/news/markets/us-ppi-hits-6-5-as-bitcoin-and-ether-edge-higher",
+     "date": "2026-11-14T07:13:02+00:00",
+     "summary": "Both headline inflation readings undershot forecasts, but interest-rate markets still favored a December Fed hike."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:13:02+00:00",
+   "last_seen": "2026-11-14T07:13:02+00:00",
+   "summary": "Both headline inflation readings undershot forecasts, but interest-rate markets still favored a December Fed hike.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "macro"
+   ]
+  },
+  {
+   "id": "6306eedc44",
+   "title": "Scott Seeks Huang, Lutnick Testimony on Nvidia Exports",
+   "date": "2026-11-14T07:10:03+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Scott Seeks Huang, Lutnick Testimony on Nvidia Exports",
+     "url": "https://thedefiant.io/frontier/ai/scott-seeks-huang-lutnick-testimony-on-nvidia-exports",
+     "date": "2026-11-14T07:10:03+00:00",
+     "summary": "Huang is asked to appear Dec. 3 and Lutnick Dec. 10. A Commerce spokesperson says the secretary has agreed to testify voluntarily."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:10:03+00:00",
+   "last_seen": "2026-11-14T07:10:03+00:00",
+   "summary": "Huang is asked to appear Dec. 3 and Lutnick Dec. 10. A Commerce spokesperson says the secretary has agreed to testify voluntarily.",
+   "tags": []
+  },
+  {
+   "id": "84df34efe0",
+   "title": "Microsoft Blames 365 Outage on Network Upgrade Issue",
+   "date": "2026-11-14T07:07:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Microsoft Blames 365 Outage on Network Upgrade Issue",
+     "url": "https://thedefiant.io/frontier/infrastructure/microsoft-blames-365-outage-on-network-upgrade-issue",
+     "date": "2026-11-14T07:07:15+00:00",
+     "summary": "Microsoft apologized and said the incident was unrelated to cyber activity or AI agents. Its status account now says service is restored to remaining affected customers and regions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:07:15+00:00",
+   "last_seen": "2026-11-14T07:07:15+00:00",
+   "summary": "Microsoft apologized and said the incident was unrelated to cyber activity or AI agents. Its status account now says service is restored to remaining affected customers and regions.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "5a494fe3a2",
+   "title": "Blacklisted Chinese University Bought H200s: Reuters",
+   "date": "2026-11-14T07:02:53+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Blacklisted Chinese University Bought H200s: Reuters",
+     "url": "https://thedefiant.io/frontier/ai/blacklisted-chinese-university-bought-h200s-reuters",
+     "date": "2026-11-14T07:02:53+00:00",
+     "summary": "Northwestern Polytechnical reportedly bought two Nvidia accelerators through a Chinese supplier, despite restrictions that survived January's easing of H200 export licensing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:02:53+00:00",
+   "last_seen": "2026-11-14T07:02:53+00:00",
+   "summary": "Northwestern Polytechnical reportedly bought two Nvidia accelerators through a Chinese supplier, despite restrictions that survived January's easing of H200 export licensing.",
+   "tags": []
+  },
+  {
+   "id": "4242cb0956",
+   "title": "MANTRA Announces Seven-Day Pause on New Unstaking",
+   "date": "2026-11-14T07:01:57+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "MANTRA Announces Seven-Day Pause on New Unstaking",
+     "url": "https://thedefiant.io/news/hacks/mantra-announces-seven-day-pause-on-new-unstaking",
+     "date": "2026-11-14T07:01:57+00:00",
+     "summary": "The pause blocks new withdrawal requests but does not stop the eight-day countdown for tokens already being unstaked."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:01:57+00:00",
+   "last_seen": "2026-11-14T07:01:57+00:00",
+   "summary": "The pause blocks new withdrawal requests but does not stop the eight-day countdown for tokens already being unstaked.",
+   "tags": []
+  },
+  {
+   "id": "549b25b88f",
+   "title": "Sacks Says Alice Huang Spy Narrative Is 'Collapsing'",
+   "date": "2026-11-14T07:01:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Sacks Says Alice Huang Spy Narrative Is 'Collapsing'",
+     "url": "https://thedefiant.io/frontier/ai/sacks-says-alice-huang-spy-narrative-is-collapsing",
+     "date": "2026-11-14T07:01:49+00:00",
+     "summary": "CNN reported that US officials remain divided over the evidence. Sacks called for a leak investigation after Jensen Huang's departure from Nvidia."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T07:01:49+00:00",
+   "last_seen": "2026-11-14T07:01:49+00:00",
+   "summary": "CNN reported that US officials remain divided over the evidence. Sacks called for a leak investigation after Jensen Huang's departure from Nvidia.",
+   "tags": []
+  },
+  {
+   "id": "3d0cc18439",
+   "title": "dYdX Proposes USDC Backing Shift From Noble to Injective",
+   "date": "2026-11-14T06:52:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "dYdX Proposes USDC Backing Shift From Noble to Injective",
+     "url": "https://thedefiant.io/news/defi/dydx-proposes-usdc-backing-shift-from-noble-to-injective",
+     "date": "2026-11-14T06:52:06+00:00",
+     "summary": "The v9.9 plan would reroute deposits and withdrawals while leaving existing USDC balances, collateral and open positions unchanged."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T06:52:06+00:00",
+   "last_seen": "2026-11-14T06:52:06+00:00",
+   "summary": "The v9.9 plan would reroute deposits and withdrawals while leaving existing USDC balances, collateral and open positions unchanged.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "e2cf793e5d",
+   "title": "Maple Reports $1.89 Billion in Syrup Loan Collateral",
+   "date": "2026-11-14T06:50:23+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Maple Reports $1.89 Billion in Syrup Loan Collateral",
+     "url": "https://thedefiant.io/news/defi/maple-reports-1-89-billion-in-syrup-loan-collateral",
+     "date": "2026-11-14T06:50:23+00:00",
+     "summary": "Maple disclosed the check after a CEO update on executive departures and withdrawals. The provider says its service is not an audit or assurance engagement."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T06:50:23+00:00",
+   "last_seen": "2026-11-14T06:50:23+00:00",
+   "summary": "Maple disclosed the check after a CEO update on executive departures and withdrawals. The provider says its service is not an audit or assurance engagement.",
+   "tags": []
+  },
+  {
+   "id": "3d414cb1c1",
+   "title": "Apache Patches Critical Bug Found by Anthropic Scanner",
+   "date": "2026-11-14T06:47:41+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Apache Patches Critical Bug Found by Anthropic Scanner",
+     "url": "https://thedefiant.io/frontier/technology/apache-patches-critical-bug-found-by-anthropic-scanner",
+     "date": "2026-11-14T06:47:41+00:00",
+     "summary": "The flaw can let unauthenticated attackers run code on HTTP/2-enabled servers. Apache credits Anthropic's OSS Scanner and two Google Cloud researchers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T06:47:41+00:00",
+   "last_seen": "2026-11-14T06:47:41+00:00",
+   "summary": "The flaw can let unauthenticated attackers run code on HTTP/2-enabled servers. Apache credits Anthropic's OSS Scanner and two Google Cloud researchers.",
+   "tags": []
+  },
   {
    "id": "bcff35d7ab",
    "title": "Bitcoin ETFs shed $2.35B in two weeks as BlackRock\u2019s losing streak hits 11 sessions",

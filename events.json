@@ -1,6 +1,325 @@
 {
- "updated": "2026-11-14T14:16:16.477780+00:00",
+ "updated": "2026-11-14T19:17:31.976466+00:00",
  "events": [
+  {
+   "id": "630ef6a66e",
+   "title": "Louisiana AG calls CFTC chair an \u2018obsequious standard bearer\u2019 for prediction markets following agency lawsuit",
+   "date": "2026-11-14T19:06:59+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Louisiana AG calls CFTC chair an \u2018obsequious standard bearer\u2019 for prediction markets following agency lawsuit",
+     "url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+     "date": "2026-11-14T19:06:59+00:00",
+     "summary": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T19:06:59+00:00",
+   "last_seen": "2026-11-14T19:06:59+00:00",
+   "summary": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state.",
+   "tags": [
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "0c59202636",
+   "title": "MiCA gave crypto a passport, but customers still face borders",
+   "date": "2026-11-14T18:40:48+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "MiCA gave crypto a passport, but customers still face borders",
+     "url": "https://cryptoslate.com/mica-gave-crypto-a-passport-but-customers-still-face-borders/",
+     "date": "2026-11-14T18:40:48+00:00",
+     "summary": "Hungary scrapped an extra set of crypto restrictions in August, and for customers who had spent months wondering when they could trade normally again, that should have made things simpler. But what they were told still depended on which app they used. Bitvavo announced that..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T18:40:48+00:00",
+   "last_seen": "2026-11-14T18:40:48+00:00",
+   "summary": "Hungary scrapped an extra set of crypto restrictions in August, and for customers who had spent months wondering when they could trade normally again, that should have made things simpler. But what they were told still depended on which app they used. Bitvavo announced that...",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "788fff51e3",
+   "title": "Who Sells Shares When a Stock Leaves a Market Index?",
+   "date": "2026-11-14T18:14:23+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Who Sells Shares When a Stock Leaves a Market Index?",
+     "url": "https://thedefiant.io/news/markets/who-sells-shares-when-a-stock-leaves-a-market-index",
+     "date": "2026-11-14T18:14:23+00:00",
+     "summary": "An index change can prompt tracking funds to sell shares. That is different from exchange delisting\u2014or a bitcoin-holding company selling its coins."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T18:14:23+00:00",
+   "last_seen": "2026-11-14T18:14:23+00:00",
+   "summary": "An index change can prompt tracking funds to sell shares. That is different from exchange delisting\u2014or a bitcoin-holding company selling its coins.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "4b6c48dff6",
+   "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia\u2019s CEO",
+   "date": "2026-11-14T18:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia\u2019s CEO",
+     "url": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
+     "date": "2026-11-14T18:01:02+00:00",
+     "summary": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties\u2014sending Nvidia\u2019s stock reeling and leaving the chipmaker leaderless."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T18:01:02+00:00",
+   "last_seen": "2026-11-14T18:01:02+00:00",
+   "summary": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties\u2014sending Nvidia\u2019s stock reeling and leaving the chipmaker leaderless.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "882fdcc10b",
+   "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+   "date": "2026-11-14T17:50:41+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+     "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+     "date": "2026-11-14T17:50:41+00:00",
+     "summary": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T17:50:41+00:00",
+   "last_seen": "2026-11-14T17:50:41+00:00",
+   "summary": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "6aa1603d77",
+   "title": "Binance says stolen crypto has been replaced but some customers have to wait",
+   "date": "2026-11-14T17:20:40+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance says stolen crypto has been replaced but some customers have to wait",
+     "url": "https://cryptoslate.com/binance-says-stolen-crypto-has-been-replaced-but-some-customers-have-to-wait/",
+     "date": "2026-11-14T17:20:40+00:00",
+     "summary": "The 198-token reserve snapshot expands Binance&#039;s disclosed scope, while proof availability, phased withdrawals and SAFU restoration remain separate tests. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T17:20:40+00:00",
+   "last_seen": "2026-11-14T17:20:40+00:00",
+   "summary": "The 198-token reserve snapshot expands Binance&#039;s disclosed scope, while proof availability, phased withdrawals and SAFU restoration remain separate tests. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst...",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "dcdc054d08",
+   "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+   "date": "2026-11-14T17:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+     "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
+     "date": "2026-11-14T17:01:02+00:00",
+     "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T17:01:02+00:00",
+   "last_seen": "2026-11-14T17:01:02+00:00",
+   "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide.",
+   "tags": [
+    "ai",
+    "legal"
+   ]
+  },
+  {
+   "id": "406639513d",
+   "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+   "date": "2026-11-14T16:33:29+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+     "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+     "date": "2026-11-14T16:33:29+00:00",
+     "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T16:33:29+00:00",
+   "last_seen": "2026-11-14T16:33:29+00:00",
+   "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "1f6fcaec67",
+   "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+   "date": "2026-11-14T16:33:23+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+     "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+     "date": "2026-11-14T16:33:23+00:00",
+     "summary": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T16:33:23+00:00",
+   "last_seen": "2026-11-14T16:33:23+00:00",
+   "summary": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million.",
+   "tags": [
+    "ai",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "e034780c8d",
+   "title": "Bitcoin\u2019s $67,000 crash puts $57 billion holder cluster at risk as ETF investors flee",
+   "date": "2026-11-14T16:20:11+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s $67,000 crash puts $57 billion holder cluster at risk as ETF investors flee",
+     "url": "https://cryptoslate.com/bitcoins-67000-crash-puts-57-billion-holder-cluster-at-risk-as-etf-investors-flee/",
+     "date": "2026-11-14T16:20:11+00:00",
+     "summary": "Coinbase\u2019s November 10 distribution placed roughly 855,000 BTC near current prices, leaving sustained buying central to the support case. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T16:20:11+00:00",
+   "last_seen": "2026-11-14T16:20:11+00:00",
+   "summary": "Coinbase\u2019s November 10 distribution placed roughly 855,000 BTC near current prices, leaving sustained buying central to the support case. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "130cf66930",
+   "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+   "date": "2026-11-14T16:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+     "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+     "date": "2026-11-14T16:01:02+00:00",
+     "summary": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T16:01:02+00:00",
+   "last_seen": "2026-11-14T16:01:02+00:00",
+   "summary": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does.",
+   "tags": []
+  },
+  {
+   "id": "fb1972cb47",
+   "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+   "date": "2026-11-14T15:38:27+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+     "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+     "date": "2026-11-14T15:38:27+00:00",
+     "summary": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T15:38:27+00:00",
+   "last_seen": "2026-11-14T15:38:27+00:00",
+   "summary": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market.",
+   "tags": []
+  },
+  {
+   "id": "44a29b0aad",
+   "title": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday\u2019s Low",
+   "date": "2026-11-14T15:27:33+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday\u2019s Low",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-13-percent-65600",
+     "date": "2026-11-14T15:27:33+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday&#8217;s Low Bitcoin price crashed about 13% over the past week and traded near $65,600 on Saturday. This post Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T15:27:33+00:00",
+   "last_seen": "2026-11-14T15:27:33+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday&#8217;s Low Bitcoin price crashed about 13% over the past week and traded near $65,600 on Saturday. This post Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks...",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "a688c13de1",
+   "title": "Wall Street wants 24/7 trading, but somebody has to bankroll the weekend",
+   "date": "2026-11-14T15:20:06+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Wall Street wants 24/7 trading, but somebody has to bankroll the weekend",
+     "url": "https://cryptoslate.com/wall-street-wants-24-7-trading-but-somebody-has-to-bankroll-the-weekend/",
+     "date": "2026-11-14T15:20:06+00:00",
+     "summary": "Wall Street&#039;s move toward round-the-clock trading includes a key decision about who supplies cash when the main wholesale payment systems are closed. If you want to adjust a position on Saturday, being able to trade saves you from waiting until Monday. The companies behind..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T15:20:06+00:00",
+   "last_seen": "2026-11-14T15:20:06+00:00",
+   "summary": "Wall Street&#039;s move toward round-the-clock trading includes a key decision about who supplies cash when the main wholesale payment systems are closed. If you want to adjust a position on Saturday, being able to trade saves you from waiting until Monday. The companies behind...",
+   "tags": []
+  },
+  {
+   "id": "fbd2ee756e",
+   "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+   "date": "2026-11-14T15:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+     "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
+     "date": "2026-11-14T15:00:00+00:00",
+     "summary": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T15:00:00+00:00",
+   "last_seen": "2026-11-14T15:00:00+00:00",
+   "summary": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology.",
+   "tags": [
+    "legal"
+   ]
+  },
   {
    "id": "485d796ee4",
    "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop\u2014Without Crypto",

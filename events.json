@@ -1,6 +1,245 @@
 {
- "updated": "2026-11-13T23:40:08.359515+00:00",
+ "updated": "2026-11-14T06:41:32.735356+00:00",
  "events": [
+  {
+   "id": "bcff35d7ab",
+   "title": "Bitcoin ETFs shed $2.35B in two weeks as BlackRock\u2019s losing streak hits 11 sessions",
+   "date": "2026-11-14T06:33:13+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin ETFs shed $2.35B in two weeks as BlackRock\u2019s losing streak hits 11 sessions",
+     "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-14T06:33:13+00:00",
+     "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock\u2019s IBIT accounting for $143.5 million and Fidelity\u2019s FBTC shedding $41.9 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T06:33:13+00:00",
+   "last_seen": "2026-11-14T06:33:13+00:00",
+   "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock\u2019s IBIT accounting for $143.5 million and Fidelity\u2019s FBTC shedding $41.9 million.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "d88d734319",
+   "title": "Bitcoin Mining Difficulty Falls 9.1%, Most Since June",
+   "date": "2026-11-14T06:31:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Mining Difficulty Falls 9.1%, Most Since June",
+     "url": "https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-falls-9-1-most-since-june",
+     "date": "2026-11-14T06:31:33+00:00",
+     "summary": "Slower blocks triggered the year's third-largest difficulty cut, lifting expected revenue per unit of computing power as Bitcoin's price slide squeezed miners."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T06:31:33+00:00",
+   "last_seen": "2026-11-14T06:31:33+00:00",
+   "summary": "Slower blocks triggered the year's third-largest difficulty cut, lifting expected revenue per unit of computing power as Bitcoin's price slide squeezed miners.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "4ac84bc011",
+   "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+   "date": "2026-11-14T05:40:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+     "date": "2026-11-14T05:40:00+00:00",
+     "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T05:40:00+00:00",
+   "last_seen": "2026-11-14T05:40:00+00:00",
+   "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "712b1b6d28",
+   "title": "Coinbase AI trading tool pauses bots, but leaves orders open",
+   "date": "2026-11-14T04:30:03+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Coinbase AI trading tool pauses bots, but leaves orders open",
+     "url": "https://cryptoslate.com/coinbase-ai-trading-tool-pauses-bots-but-leaves-orders-open/",
+     "date": "2026-11-14T04:30:03+00:00",
+     "summary": "Armstrong is promoting Coinbase\u2019s new controls, but pausing an agent does not confirm that orders are canceled or positions closed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T04:30:03+00:00",
+   "last_seen": "2026-11-14T04:30:03+00:00",
+   "summary": "Armstrong is promoting Coinbase\u2019s new controls, but pausing an agent does not confirm that orders are canceled or positions closed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "c8e45e9c72",
+   "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+   "date": "2026-11-14T04:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
+     "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
+     "date": "2026-11-14T04:30:00+00:00",
+     "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T04:30:00+00:00",
+   "last_seen": "2026-11-14T04:30:00+00:00",
+   "summary": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May.",
+   "tags": [
+    "bitcoin",
+    "legal"
+   ]
+  },
+  {
+   "id": "fd4b74f6ff",
+   "title": "Ether Falls Below $1,900 as Losses Outpace Bitcoin",
+   "date": "2026-11-14T03:44:29+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ether Falls Below $1,900 as Losses Outpace Bitcoin",
+     "url": "https://thedefiant.io/news/markets/ether-falls-below-1-900-as-losses-outpace-bitcoin",
+     "date": "2026-11-14T03:44:29+00:00",
+     "summary": "US spot ether ETFs recorded a sixth session of net withdrawals, while the next day's flow tally remained incomplete."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T03:44:29+00:00",
+   "last_seen": "2026-11-14T03:44:29+00:00",
+   "summary": "US spot ether ETFs recorded a sixth session of net withdrawals, while the next day's flow tally remained incomplete.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "4f74563ef3",
+   "title": "Bitcoin Drops Below $67,000 as Crypto Selloff Deepens",
+   "date": "2026-11-14T02:51:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Drops Below $67,000 as Crypto Selloff Deepens",
+     "url": "https://thedefiant.io/news/markets/bitcoin-drops-below-67-000-as-crypto-selloff-deepens",
+     "date": "2026-11-14T02:51:35+00:00",
+     "summary": "Ether's four-week loss reached 21.4%, while 42 of 44 tokens in a curated crypto watchlist were lower over 24 hours."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T02:51:35+00:00",
+   "last_seen": "2026-11-14T02:51:35+00:00",
+   "summary": "Ether's four-week loss reached 21.4%, while 42 of 44 tokens in a curated crypto watchlist were lower over 24 hours.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "af552662ff",
+   "title": "AAVE Slides 30% in Four Weeks, Trailing Bitcoin and Ether",
+   "date": "2026-11-14T02:39:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "AAVE Slides 30% in Four Weeks, Trailing Bitcoin and Ether",
+     "url": "https://thedefiant.io/news/markets/aave-slides-30-in-four-weeks-trailing-bitcoin-and-ether",
+     "date": "2026-11-14T02:39:42+00:00",
+     "summary": "The governance token's losses exceeded those of bitcoin and ether, while Aave's dollar-denominated locked value fell by a smaller proportion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T02:39:42+00:00",
+   "last_seen": "2026-11-14T02:39:42+00:00",
+   "summary": "The governance token's losses exceeded those of bitcoin and ether, while Aave's dollar-denominated locked value fell by a smaller proportion.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "6f8108d3df",
+   "title": "Unocoin halts all services after hackers bypass BitGo freeze",
+   "date": "2026-11-14T02:10:17+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Unocoin halts all services after hackers bypass BitGo freeze",
+     "url": "https://cryptoslate.com/unocoin-halts-all-services-after-hackers-bypass-bitgo-freeze/",
+     "date": "2026-11-14T02:10:17+00:00",
+     "summary": "Unocoin says disputed transfers were signed outside BitGo while it investigates suspected misuse of a backup mechanism. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T02:10:17+00:00",
+   "last_seen": "2026-11-14T02:10:17+00:00",
+   "summary": "Unocoin says disputed transfers were signed outside BitGo while it investigates suspected misuse of a backup mechanism. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "b970211ca8",
+   "title": "GHO's 61% Supply Drop Reflects an Accounting Change",
+   "date": "2026-11-14T00:26:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "GHO's 61% Supply Drop Reflects an Accounting Change",
+     "url": "https://thedefiant.io/news/defi/gho-s-61-supply-drop-reflects-an-accounting-change",
+     "date": "2026-11-14T00:26:16+00:00",
+     "summary": "DefiLlama now excludes idle, pre-minted GHO from circulation. The Ethereum token contract still reports 699 million tokens issued."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T00:26:16+00:00",
+   "last_seen": "2026-11-14T00:26:16+00:00",
+   "summary": "DefiLlama now excludes idle, pre-minted GHO from circulation. The Ethereum token contract still reports 699 million tokens issued.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "a5df93119a",
+   "title": "US courts target $1.2B in stolen Binance funds, yet victims face a new hurdle",
+   "date": "2026-11-13T23:40:49+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "US courts target $1.2B in stolen Binance funds, yet victims face a new hurdle",
+     "url": "https://cryptoslate.com/binance-funds-theft-us-court-orders-cover-over-1-2-billion-with-return-unresolved/",
+     "date": "2026-11-13T23:40:49+00:00",
+     "summary": "DOJ&#039;s Nov. 12 release reports seizure or restraint authority within more than $2.7 billion frozen, without a return timetable. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-13T23:40:49+00:00",
+   "last_seen": "2026-11-13T23:40:49+00:00",
+   "summary": "DOJ&#039;s Nov. 12 release reports seizure or restraint authority within more than $2.7 billion frozen, without a return timetable. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
   {
    "id": "c0c3065882",
    "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",

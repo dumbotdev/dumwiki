@@ -1,6 +1,132 @@
 {
- "updated": "2026-11-14T19:17:31.976466+00:00",
+ "updated": "2026-11-14T23:58:14.207743+00:00",
  "events": [
+  {
+   "id": "6d15857919",
+   "title": "Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend",
+   "date": "2026-11-14T23:40:35+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend",
+     "url": "https://cryptoslate.com/bitcoin-drops-below-66000-as-bullish-bets-get-wiped-out/",
+     "date": "2026-11-14T23:40:35+00:00",
+     "summary": "CoinGecko showed BTC near $65,500 on the afternoon of Nov. 14, while Newhedge recorded long-liquidation events below $66,000. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T23:40:35+00:00",
+   "last_seen": "2026-11-14T23:40:35+00:00",
+   "summary": "CoinGecko showed BTC near $65,500 on the afternoon of Nov. 14, while Newhedge recorded long-liquidation events below $66,000. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "d28ad9b66f",
+   "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+   "date": "2026-11-14T23:07:35+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+     "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+     "date": "2026-11-14T23:07:35+00:00",
+     "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T23:07:35+00:00",
+   "last_seen": "2026-11-14T23:07:35+00:00",
+   "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
+   "tags": [
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "79c84a39ff",
+   "title": "Peter Schiff argues Bitcoin may fall below $16,500 by year-end if $50,000 breaks next",
+   "date": "2026-11-14T22:40:39+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Peter Schiff argues Bitcoin may fall below $16,500 by year-end if $50,000 breaks next",
+     "url": "https://cryptoslate.com/peter-schiff-argues-bitcoin-may-fall-below-16500-by-year-end-if-50000-breaks-next/",
+     "date": "2026-11-14T22:40:39+00:00",
+     "summary": "His Nov. 14 call extends earlier $20,000 warnings while Bitcoin and Ethereum traded above the conditions he identified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T22:40:39+00:00",
+   "last_seen": "2026-11-14T22:40:39+00:00",
+   "summary": "His Nov. 14 call extends earlier $20,000 warnings while Bitcoin and Ethereum traded above the conditions he identified. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "f5fb8feb79",
+   "title": "Crypto\u2019s $168 million election: 78 winners, 13 newcomers and one costly defeat",
+   "date": "2026-11-14T21:40:06+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Crypto\u2019s $168 million election: 78 winners, 13 newcomers and one costly defeat",
+     "url": "https://cryptoslate.com/cryptos-168-million-election-78-winners-13-newcomers-and-one-costly-defeat/",
+     "date": "2026-11-14T21:40:06+00:00",
+     "summary": "Crypto super PACs backed 78 candidates who have won seats in Congress. Just 13 of them will enter Congress for the first time. Most of the winning roster already has a record in Washington. It includes the author of the House&#039;s crypto market-regulation bill, five..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T21:40:06+00:00",
+   "last_seen": "2026-11-14T21:40:06+00:00",
+   "summary": "Crypto super PACs backed 78 candidates who have won seats in Congress. Just 13 of them will enter Congress for the first time. Most of the winning roster already has a record in Washington. It includes the author of the House&#039;s crypto market-regulation bill, five...",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "8c1fe1a355",
+   "title": "Evernorth\u2019s $35 million fundraising could buy 35 million XRP, but there\u2019s a catch",
+   "date": "2026-11-14T20:40:16+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Evernorth\u2019s $35 million fundraising could buy 35 million XRP, but there\u2019s a catch",
+     "url": "https://cryptoslate.com/evernorths-35-million-fundraising-could-buy-35-million-xrp-but-theres-a-catch/",
+     "date": "2026-11-14T20:40:16+00:00",
+     "summary": "The proceeds are cumulative through Nov. 9; allocation and completed purchases will show how much becomes additional XRP demand. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T20:40:16+00:00",
+   "last_seen": "2026-11-14T20:40:16+00:00",
+   "summary": "The proceeds are cumulative through Nov. 9; allocation and completed purchases will show how much becomes additional XRP demand. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "354015de09",
+   "title": "Your wallet may show a dollar balance for fake USDT that you cannot sell",
+   "date": "2026-11-14T19:40:06+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Your wallet may show a dollar balance for fake USDT that you cannot sell",
+     "url": "https://cryptoslate.com/your-wallet-may-show-a-dollar-balance-for-fake-usdt-that-you-cannot-sell/",
+     "date": "2026-11-14T19:40:06+00:00",
+     "summary": "Keeper wallets maintained the quotations through restricted pools, where Forta&#039;s simulated outside sales failed for all 32 identified tokens. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-14T19:40:06+00:00",
+   "last_seen": "2026-11-14T19:40:06+00:00",
+   "summary": "Keeper wallets maintained the quotations through restricted pools, where Forta&#039;s simulated outside sales failed for all 32 identified tokens. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
   {
    "id": "630ef6a66e",
    "title": "Louisiana AG calls CFTC chair an \u2018obsequious standard bearer\u2019 for prediction markets following agency lawsuit",

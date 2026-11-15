@@ -1,6 +1,352 @@
 {
- "updated": "2026-11-15T06:46:32.576426+00:00",
+ "updated": "2026-11-15T14:50:01.939233+00:00",
  "events": [
+  {
+   "id": "d421426f0f",
+   "title": "Robots now run AI-written code without an AI calling the shots, succeeding 92% of the time",
+   "date": "2026-11-15T14:40:28+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Robots now run AI-written code without an AI calling the shots, succeeding 92% of the time",
+     "url": "https://cryptoslate.com/robot-code-runs-without-ai-calling-the-shots/",
+     "date": "2026-11-15T14:40:28+00:00",
+     "summary": "ACE-CaP-0&#039;s frozen task programs ran without a coding agent in the loop after development with human assistance available. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T14:40:28+00:00",
+   "last_seen": "2026-11-15T14:40:28+00:00",
+   "summary": "ACE-CaP-0&#039;s frozen task programs ran without a coding agent in the loop after development with human assistance available. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "b0caffaaa8",
+   "title": "Enterprise blockchain is going to come back from the dead",
+   "date": "2026-11-15T14:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Enterprise blockchain is going to come back from the dead",
+     "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-15T14:30:00+00:00",
+     "summary": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T14:30:00+00:00",
+   "last_seen": "2026-11-15T14:30:00+00:00",
+   "summary": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "e0202d2efe",
+   "title": "Ethereum Gas Fees: From Wallet Estimate to Final Cost",
+   "date": "2026-11-15T14:12:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ethereum Gas Fees: From Wallet Estimate to Final Cost",
+     "url": "https://thedefiant.io/news/blockchains/ethereum-gas-fees-from-wallet-estimate-to-final-cost",
+     "date": "2026-11-15T14:12:49+00:00",
+     "summary": "Gas measures computational work. A real Ethereum transaction shows why a spending ceiling can exceed the fee finally charged."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T14:12:49+00:00",
+   "last_seen": "2026-11-15T14:12:49+00:00",
+   "summary": "Gas measures computational work. A real Ethereum transaction shows why a spending ceiling can exceed the fee finally charged.",
+   "tags": [
+    "ethereum",
+    "legal"
+   ]
+  },
+  {
+   "id": "e7ee80c839",
+   "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+   "date": "2026-11-15T14:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+     "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+     "date": "2026-11-15T14:01:02+00:00",
+     "summary": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T14:01:02+00:00",
+   "last_seen": "2026-11-15T14:01:02+00:00",
+   "summary": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "562c047eb2",
+   "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+   "date": "2026-11-15T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto insiders aren't counting on silver linings in Congress' 'lame duck' session",
+     "url": "https://www.coindesk.com/news-analysis/2026/11/13/crypto-insiders-aren-t-counting-on-silver-linings-in-congress-lame-duck-session",
+     "date": "2026-11-15T14:00:00+00:00",
+     "summary": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T14:00:00+00:00",
+   "last_seen": "2026-11-15T14:00:00+00:00",
+   "summary": "With ascendent Democrats ready to pursue their own crypto and tech agendas next year, the final weeks of this session probably won't produce crypto surprises.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "12d0098103",
+   "title": "Britain to spend \u00a34 billion on grid bottlenecks. Can Bitcoin use the wasted wind?",
+   "date": "2026-11-15T13:45:30+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Britain to spend \u00a34 billion on grid bottlenecks. Can Bitcoin use the wasted wind?",
+     "url": "https://cryptoslate.com/can-bitcoin-use-britains-wasted-wind/",
+     "date": "2026-11-15T13:45:30+00:00",
+     "summary": "Flexible mines could use curtailed Scottish wind, but most recent constraint spending paid for replacement power elsewhere. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T13:45:30+00:00",
+   "last_seen": "2026-11-15T13:45:30+00:00",
+   "summary": "Flexible mines could use curtailed Scottish wind, but most recent constraint spending paid for replacement power elsewhere. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "278a9dccc0",
+   "title": "Armed Robot Dogs Appear in El Salvador's Haiti Video",
+   "date": "2026-11-15T13:18:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Armed Robot Dogs Appear in El Salvador's Haiti Video",
+     "url": "https://thedefiant.io/frontier/technology/armed-robot-dogs-appear-in-el-salvador-s-haiti-video",
+     "date": "2026-11-15T13:18:26+00:00",
+     "summary": "The presidency described a stadium search role. A weapons researcher tentatively identified Unitree Go2 robots fitted with Israeli-made rifles; combat use remains unconfirmed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T13:18:26+00:00",
+   "last_seen": "2026-11-15T13:18:26+00:00",
+   "summary": "The presidency described a stadium search role. A weapons researcher tentatively identified Unitree Go2 robots fitted with Israeli-made rifles; combat use remains unconfirmed.",
+   "tags": []
+  },
+  {
+   "id": "a804d757ad",
+   "title": "The Fed could rescue bond markets and still make life harder for Bitcoin",
+   "date": "2026-11-15T12:50:56+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "The Fed could rescue bond markets and still make life harder for Bitcoin",
+     "url": "https://cryptoslate.com/fed-bond-market-rescue-could-still-hurt-bitcoin/",
+     "date": "2026-11-15T12:50:56+00:00",
+     "summary": "Her proposals separate emergency market support from the rate path, leaving Bitcoin exposed to a different monetary-policy channel. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T12:50:56+00:00",
+   "last_seen": "2026-11-15T12:50:56+00:00",
+   "summary": "Her proposals separate emergency market support from the rate path, leaving Bitcoin exposed to a different monetary-policy channel. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "f0aaf2eea4",
+   "title": "US Bitcoin ETFs Shed $1.91 Billion in Seven Sessions",
+   "date": "2026-11-15T12:28:10+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "US Bitcoin ETFs Shed $1.91 Billion in Seven Sessions",
+     "url": "https://thedefiant.io/news/markets/us-bitcoin-etfs-shed-1-91-billion-in-seven-sessions",
+     "date": "2026-11-15T12:28:10+00:00",
+     "summary": "BlackRock\u2019s IBIT accounted for about $1.42 billion of the withdrawals as Binance Research pointed to tighter financial conditions and AI-financing concerns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T12:28:10+00:00",
+   "last_seen": "2026-11-15T12:28:10+00:00",
+   "summary": "BlackRock\u2019s IBIT accounted for about $1.42 billion of the withdrawals as Binance Research pointed to tighter financial conditions and AI-financing concerns.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "e06e75e2ab",
+   "title": "Bitcoin Regains $65,000 After Falling to Four-Month Low",
+   "date": "2026-11-15T12:16:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Regains $65,000 After Falling to Four-Month Low",
+     "url": "https://thedefiant.io/news/markets/bitcoin-regains-65-000-after-falling-to-four-month-low",
+     "date": "2026-11-15T12:16:44+00:00",
+     "summary": "The Coinbase low was 0.94% below its earlier Saturday trough. US spot bitcoin ETFs recorded seven straight sessions of net outflows."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T12:16:44+00:00",
+   "last_seen": "2026-11-15T12:16:44+00:00",
+   "summary": "The Coinbase low was 0.94% below its earlier Saturday trough. US spot bitcoin ETFs recorded seven straight sessions of net outflows.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "19fa3af910",
+   "title": "Is Ethereum the \u201cworst asset of all time,\u201d amid estimated $8.83 billion BitMine loss ?",
+   "date": "2026-11-15T11:55:50+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Is Ethereum the \u201cworst asset of all time,\u201d amid estimated $8.83 billion BitMine loss ?",
+     "url": "https://cryptoslate.com/is-ethereum-the-worst-asset-of-all-time-amid-estimated-8-83-billion-bitmine-loss/",
+     "date": "2026-11-15T11:55:50+00:00",
+     "summary": "The image shared by @ThinkingUSD pairs November holdings with an August average cost, while BitMine supplies no updated basis in its November release. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T11:55:50+00:00",
+   "last_seen": "2026-11-15T11:55:50+00:00",
+   "summary": "The image shared by @ThinkingUSD pairs November holdings with an August average cost, while BitMine supplies no updated basis in its November release. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "90b17be764",
+   "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+   "date": "2026-11-15T10:23:17+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+     "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-15T10:23:17+00:00",
+     "summary": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T10:23:17+00:00",
+   "last_seen": "2026-11-15T10:23:17+00:00",
+   "summary": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "4522b1f2b2",
+   "title": "Lido Lend Plan Would Block Repayments, Not Interest",
+   "date": "2026-11-15T08:19:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Lido Lend Plan Would Block Repayments, Not Interest",
+     "url": "https://thedefiant.io/news/defi/lido-lend-plan-would-block-repayments-not-interest",
+     "date": "2026-11-15T08:19:55+00:00",
+     "summary": "A proposed emergency pause would also stop lender exits and liquidations. A separate governance mechanism could remove its automatic expiry."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T08:19:55+00:00",
+   "last_seen": "2026-11-15T08:19:55+00:00",
+   "summary": "A proposed emergency pause would also stop lender exits and liquidations. A separate governance mechanism could remove its automatic expiry.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "b6f47dc4a0",
+   "title": "Coinone warns of phishing, identity theft after customer data breach",
+   "date": "2026-11-15T08:07:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Coinone warns of phishing, identity theft after customer data breach",
+     "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-15T08:07:58+00:00",
+     "summary": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T08:07:58+00:00",
+   "last_seen": "2026-11-15T08:07:58+00:00",
+   "summary": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "53911a8933",
+   "title": "Lido\u2019s lending plan could block loan repayments without stopping interest",
+   "date": "2026-11-15T08:00:11+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Lido\u2019s lending plan could block loan repayments without stopping interest",
+     "url": "https://cryptoslate.com/lidos-lending-plan-could-block-loan-repayments-without-stopping-interest/",
+     "date": "2026-11-15T08:00:11+00:00",
+     "summary": "Lido Lend\u2019s proposed emergency pause would halt repayment and lender exits, while a separate governance path could make the interruption indefinite. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T08:00:11+00:00",
+   "last_seen": "2026-11-15T08:00:11+00:00",
+   "summary": "Lido Lend\u2019s proposed emergency pause would halt repayment and lender exits, while a separate governance path could make the interruption indefinite. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "c6c359c29a",
+   "title": "Bitcoin Hits Four-Month Low as ETF Outflows Persist",
+   "date": "2026-11-15T07:21:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Hits Four-Month Low as ETF Outflows Persist",
+     "url": "https://thedefiant.io/news/markets/bitcoin-hits-four-month-low-as-etf-outflows-persist",
+     "date": "2026-11-15T07:21:35+00:00",
+     "summary": "US spot bitcoin funds shed $1.91 billion over seven sessions. Coinbase's new low was 13.4% below the low in The Defiant's Nov. 12 report."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T07:21:35+00:00",
+   "last_seen": "2026-11-15T07:21:35+00:00",
+   "summary": "US spot bitcoin funds shed $1.91 billion over seven sessions. Coinbase's new low was 13.4% below the low in The Defiant's Nov. 12 report.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "exchanges"
+   ]
+  },
   {
    "id": "e780aeaf22",
    "title": "AI models agreed with each other more than with reality in a new test",

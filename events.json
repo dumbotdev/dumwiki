@@ -1,6 +1,392 @@
 {
- "updated": "2026-11-14T23:58:14.207743+00:00",
+ "updated": "2026-11-15T06:46:32.576426+00:00",
  "events": [
+  {
+   "id": "e780aeaf22",
+   "title": "AI models agreed with each other more than with reality in a new test",
+   "date": "2026-11-15T06:40:07+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "AI models agreed with each other more than with reality in a new test",
+     "url": "https://cryptoslate.com/ai-models-agreed-with-each-other-more-than-with-reality-in-a-new-test/",
+     "date": "2026-11-15T06:40:07+00:00",
+     "summary": "Science Prediction Universe found that pooling rankings improved average results, while shared scientific errors survived. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T06:40:07+00:00",
+   "last_seen": "2026-11-15T06:40:07+00:00",
+   "summary": "Science Prediction Universe found that pooling rankings improved average results, while shared scientific errors survived. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "9938bd1461",
+   "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+   "date": "2026-11-15T06:27:26+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+     "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-15T06:27:26+00:00",
+     "summary": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T06:27:26+00:00",
+   "last_seen": "2026-11-15T06:27:26+00:00",
+   "summary": "The stUSDT team did not disclose a reason for winding down the RWA protocol but assured holders that all underlying assets remain fully backed.",
+   "tags": []
+  },
+  {
+   "id": "1dadb3352b",
+   "title": "AI helped hackers gain access at 10 unnamed organizations, researchers say",
+   "date": "2026-11-15T05:20:04+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "AI helped hackers gain access at 10 unnamed organizations, researchers say",
+     "url": "https://cryptoslate.com/ai-helped-hackers-gain-access-at-10-organizations-researchers-say/",
+     "date": "2026-11-15T05:20:04+00:00",
+     "summary": "The November 12 investigation reports 25 operations against at least 19 organizations during August\u2013September, with humans assigning targets and able to steer. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T05:20:04+00:00",
+   "last_seen": "2026-11-15T05:20:04+00:00",
+   "summary": "The November 12 investigation reports 25 operations against at least 19 organizations during August\u2013September, with humans assigning targets and able to steer. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst...",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "516ca461e8",
+   "title": "Solana\u2019s \u201cretired\u201d validators still vote with 15% of active stake",
+   "date": "2026-11-15T04:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Solana\u2019s \u201cretired\u201d validators still vote with 15% of active stake",
+     "url": "https://cryptoslate.com/solanas-retired-validators-still-vote-with-15-of-active-stake/",
+     "date": "2026-11-15T04:00:00+00:00",
+     "summary": "A November 14 cross-check found 31 program-retired identities still voting, while smaller validators\u2019 ability to replace Foundation support remains unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T04:00:00+00:00",
+   "last_seen": "2026-11-15T04:00:00+00:00",
+   "summary": "A November 14 cross-check found 31 program-retired identities still voting, while smaller validators\u2019 ability to replace Foundation support remains unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst...",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "73c7da95e4",
+   "title": "Aave Executive Reports $39 Million in Liquidations",
+   "date": "2026-11-15T03:09:50+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aave Executive Reports $39 Million in Liquidations",
+     "url": "https://thedefiant.io/news/defi/aave-executive-reports-39-million-in-liquidations",
+     "date": "2026-11-15T03:09:50+00:00",
+     "summary": "Luigi D'Onorio DeMeo reported about $18 million for one day and $21 million so far the next."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T03:09:50+00:00",
+   "last_seen": "2026-11-15T03:09:50+00:00",
+   "summary": "Luigi D'Onorio DeMeo reported about $18 million for one day and $21 million so far the next.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "1189aa9e2c",
+   "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+   "date": "2026-11-15T02:50:57+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+     "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+     "date": "2026-11-15T02:50:57+00:00",
+     "summary": "XRP tanked to its lowest level since November 2024 as ETF outflows and shrinking stablecoin supply add to pressure on crypto markets."
+    },
+    {
+     "source": "The Defiant",
+     "title": "XRP Falls to 89 Cents on Coinbase, Its Lowest Since November 2024",
+     "url": "https://thedefiant.io/news/markets/xrp-falls-to-89-cents-on-coinbase-its-lowest-since-november-2024",
+     "date": "2026-11-15T03:03:49+00:00",
+     "summary": "Coinbase recorded the low Saturday evening. XRP's seven-day and four-week losses exceeded bitcoin's and ether's over matching windows."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-15T02:50:57+00:00",
+   "last_seen": "2026-11-15T03:03:49+00:00",
+   "summary": "Coinbase recorded the low Saturday evening. XRP's seven-day and four-week losses exceeded bitcoin's and ether's over matching windows.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum",
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "1f1f0bb0f7",
+   "title": "Forward Industries Denies $123 Million SOL Transfer",
+   "date": "2026-11-15T02:45:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Forward Industries Denies $123 Million SOL Transfer",
+     "url": "https://thedefiant.io/news/markets/forward-industries-denies-123-million-sol-transfer",
+     "date": "2026-11-15T02:45:46+00:00",
+     "summary": "Trackers linked 1.78 million SOL in stake withdrawals to the treasury company. The chain confirms the movements, but ownership remains disputed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T02:45:46+00:00",
+   "last_seen": "2026-11-15T02:45:46+00:00",
+   "summary": "Trackers linked 1.78 million SOL in stake withdrawals to the treasury company. The chain confirms the movements, but ownership remains disputed.",
+   "tags": [
+    "macro",
+    "solana"
+   ]
+  },
+  {
+   "id": "fcfc802489",
+   "title": "A forced Bitcoin Lightning exit can be cheap and still leave you waiting days",
+   "date": "2026-11-15T02:40:32+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "A forced Bitcoin Lightning exit can be cheap and still leave you waiting days",
+     "url": "https://cryptoslate.com/a-forced-bitcoin-lightning-exit-can-be-cheap-and-still-leave-you-waiting-days/",
+     "date": "2026-11-15T02:40:32+00:00",
+     "summary": "The preprint&#039;s 2026 public force-close cohort paid a median 925 satoshis per channel, while the broadcaster&#039;s balance faced a 2.5-day median wait. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T02:40:32+00:00",
+   "last_seen": "2026-11-15T02:40:32+00:00",
+   "summary": "The preprint&#039;s 2026 public force-close cohort paid a median 925 satoshis per channel, while the broadcaster&#039;s balance faced a 2.5-day median wait. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "491321d05e",
+   "title": "Crypto Sheds $571 Billion in Ten Days as Losses Deepen",
+   "date": "2026-11-15T02:21:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Crypto Sheds $571 Billion in Ten Days as Losses Deepen",
+     "url": "https://thedefiant.io/news/markets/crypto-sheds-571-billion-in-ten-days-as-losses-deepen",
+     "date": "2026-11-15T02:21:35+00:00",
+     "summary": "Bitcoin and ether rebounded after another sharp drop, but matched 24-hour windows show the selloff accelerated from the Nov. 12 break below $72,000."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T02:21:35+00:00",
+   "last_seen": "2026-11-15T02:21:35+00:00",
+   "summary": "Bitcoin and ether rebounded after another sharp drop, but matched 24-hour windows show the selloff accelerated from the Nov. 12 break below $72,000.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "ecbd9ba9e8",
+   "title": "Bitcoin\u2019s oil relief has a catch: more oil at sea, less on land",
+   "date": "2026-11-15T01:40:52+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s oil relief has a catch: more oil at sea, less on land",
+     "url": "https://cryptoslate.com/bitcoins-oil-relief-has-a-catch-more-oil-at-sea-less-on-land/",
+     "date": "2026-11-15T01:40:52+00:00",
+     "summary": "The IEA raised its fourth-quarter supply forecast by 3.3 million barrels a day, while depleted land stocks and diesel shortages keep relief conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T01:40:52+00:00",
+   "last_seen": "2026-11-15T01:40:52+00:00",
+   "summary": "The IEA raised its fourth-quarter supply forecast by 3.3 million barrels a day, while depleted land stocks and diesel shortages keep relief conditional. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "03883047cf",
+   "title": "FAA Links Ground Stop to Router During Fiber Upgrade",
+   "date": "2026-11-15T01:26:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "FAA Links Ground Stop to Router During Fiber Upgrade",
+     "url": "https://thedefiant.io/frontier/infrastructure/faa-links-ground-stop-to-router-during-fiber-upgrade",
+     "date": "2026-11-15T01:26:31+00:00",
+     "summary": "Officials said a router flooded the air-traffic network during maintenance, but had not determined whether faulty hardware or an installation error was responsible."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T01:26:31+00:00",
+   "last_seen": "2026-11-15T01:26:31+00:00",
+   "summary": "Officials said a router flooded the air-traffic network during maintenance, but had not determined whether faulty hardware or an installation error was responsible.",
+   "tags": []
+  },
+  {
+   "id": "27c9d8b447",
+   "title": "Binance Liquidations Near $800 Million as Bitcoin Sinks",
+   "date": "2026-11-15T01:24:59+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Liquidations Near $800 Million as Bitcoin Sinks",
+     "url": "https://thedefiant.io/news/markets/binance-liquidations-near-800-million-as-bitcoin-sinks",
+     "date": "2026-11-15T01:24:59+00:00",
+     "summary": "CoinGlass recorded $2.05 billion in liquidations across tracked exchanges, overwhelmingly in bets on rising prices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T01:24:59+00:00",
+   "last_seen": "2026-11-15T01:24:59+00:00",
+   "summary": "CoinGlass recorded $2.05 billion in liquidations across tracked exchanges, overwhelmingly in bets on rising prices.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "255c071815",
+   "title": "Bitcoin Sinks Below $63,000 as Multiweek Slide Deepens",
+   "date": "2026-11-15T01:18:25+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Sinks Below $63,000 as Multiweek Slide Deepens",
+     "url": "https://thedefiant.io/news/markets/bitcoin-sinks-below-63-000-as-multiweek-slide-deepens",
+     "date": "2026-11-15T01:18:25+00:00",
+     "summary": "Coinbase and Bitstamp both recorded the break. Bitcoin's new low was 12.5% below the snapshot low in The Defiant's Nov. 12 report."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T01:18:25+00:00",
+   "last_seen": "2026-11-15T01:18:25+00:00",
+   "summary": "Coinbase and Bitstamp both recorded the break. Bitcoin's new low was 12.5% below the snapshot low in The Defiant's Nov. 12 report.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "32a7a085ed",
+   "title": "Telegram Restricts Bot Widgets Amid Security Dispute",
+   "date": "2026-11-15T01:03:53+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Telegram Restricts Bot Widgets Amid Security Dispute",
+     "url": "https://thedefiant.io/news/security/telegram-restricts-bot-widgets-amid-security-dispute",
+     "date": "2026-11-15T01:03:53+00:00",
+     "summary": "A Bot API contributor confirmed that general bots cannot send HTML widgets, including in private chats. The restriction is narrower than a freeze on all mini-apps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T01:03:53+00:00",
+   "last_seen": "2026-11-15T01:03:53+00:00",
+   "summary": "A Bot API contributor confirmed that general bots cannot send HTML widgets, including in private chats. The restriction is narrower than a freeze on all mini-apps.",
+   "tags": []
+  },
+  {
+   "id": "baadaa7220",
+   "title": "Telegram curbs new in-chat apps amid a no-tap hacking scare",
+   "date": "2026-11-15T00:40:48+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Telegram curbs new in-chat apps amid a no-tap hacking scare",
+     "url": "https://cryptoslate.com/telegram-curbs-new-in-chat-apps-amid-a-no-tap-hacking-scare/",
+     "date": "2026-11-15T00:40:48+00:00",
+     "summary": "A Bot API contributor confirmed the restriction as researchers detailed older-client flaws and Pavel Durov asserted server-side remediation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T00:40:48+00:00",
+   "last_seen": "2026-11-15T00:40:48+00:00",
+   "summary": "A Bot API contributor confirmed the restriction as researchers detailed older-client flaws and Pavel Durov asserted server-side remediation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "35b227bea6",
+   "title": "Bitcoin Near $64,000 as Drawdown From October High Tops 24%",
+   "date": "2026-11-15T00:22:20+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Near $64,000 as Drawdown From October High Tops 24%",
+     "url": "https://thedefiant.io/news/markets/bitcoin-near-64-000-as-drawdown-from-october-high-tops-24",
+     "date": "2026-11-15T00:22:20+00:00",
+     "summary": "The slide has deepened since the Nov. 12 break below $72,000. A SpaceX IPO comparison offers a bullish scenario, not proof that selling is nearly over."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T00:22:20+00:00",
+   "last_seen": "2026-11-15T00:22:20+00:00",
+   "summary": "The slide has deepened since the Nov. 12 break below $72,000. A SpaceX IPO comparison offers a bullish scenario, not proof that selling is nearly over.",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "4a8836d402",
+   "title": "Kava Lend Exploit Drains Millions as KAVA Falls 47%",
+   "date": "2026-11-15T00:21:52+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Kava Lend Exploit Drains Millions as KAVA Falls 47%",
+     "url": "https://thedefiant.io/news/hacks/kava-lend-exploit-drains-millions-as-kava-falls-47",
+     "date": "2026-11-15T00:21:52+00:00",
+     "summary": "Inflated BUSD collateral let attackers borrow 55.2 million KAVA. Bridge withdrawals and transfers at three Korean exchanges were suspended."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T00:21:52+00:00",
+   "last_seen": "2026-11-15T00:21:52+00:00",
+   "summary": "Inflated BUSD collateral let attackers borrow 55.2 million KAVA. Bridge withdrawals and transfers at three Korean exchanges were suspended.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "7fd1705046",
+   "title": "SpaceX Catches Starship Returning From Orbit for First Time",
+   "date": "2026-11-15T00:17:25+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SpaceX Catches Starship Returning From Orbit for First Time",
+     "url": "https://thedefiant.io/frontier/technology/spacex-catches-starship-returning-from-orbit-for-first-time",
+     "date": "2026-11-15T00:17:25+00:00",
+     "summary": "The upper-stage recovery brings SpaceX closer to reusing both parts of its launch system. Super Heavy, however, diverted to an offshore splashdown."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T00:17:25+00:00",
+   "last_seen": "2026-11-15T00:17:25+00:00",
+   "summary": "The upper-stage recovery brings SpaceX closer to reusing both parts of its launch system. Super Heavy, however, diverted to an offshore splashdown.",
+   "tags": []
+  },
   {
    "id": "6d15857919",
    "title": "Bitcoin drops below $64,000 as bullish bets get wiped out over the weekend",

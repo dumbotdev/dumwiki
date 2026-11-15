@@ -1,6 +1,364 @@
 {
- "updated": "2026-11-15T14:50:01.939233+00:00",
+ "updated": "2026-11-15T20:26:01.447597+00:00",
  "events": [
+  {
+   "id": "4ffc566c6c",
+   "title": "Huang Weighs Nvidia Return as Allies Press Board: FT",
+   "date": "2026-11-15T20:17:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Huang Weighs Nvidia Return as Allies Press Board: FT",
+     "url": "https://thedefiant.io/frontier/ai/huang-weighs-nvidia-return-as-allies-press-board-ft",
+     "date": "2026-11-15T20:17:54+00:00",
+     "summary": "The reported comeback discussions have not changed Nvidia\u2019s announced leadership plan: Colette Kress remains interim CEO ahead of Nov. 17 earnings."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T20:17:54+00:00",
+   "last_seen": "2026-11-15T20:17:54+00:00",
+   "summary": "The reported comeback discussions have not changed Nvidia\u2019s announced leadership plan: Colette Kress remains interim CEO ahead of Nov. 17 earnings.",
+   "tags": []
+  },
+  {
+   "id": "b8af829cd2",
+   "title": "Luxor Pledges Full Compensation for Commander Hijack",
+   "date": "2026-11-15T20:16:40+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Luxor Pledges Full Compensation for Commander Hijack",
+     "url": "https://thedefiant.io/news/hacks/luxor-pledges-full-compensation-for-commander-hijack",
+     "date": "2026-11-15T20:16:40+00:00",
+     "summary": "Luxor said just over a dozen client accounts were affected and promised to pay for redirected mining power as though it had mined normally."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T20:16:40+00:00",
+   "last_seen": "2026-11-15T20:16:40+00:00",
+   "summary": "Luxor said just over a dozen client accounts were affected and promised to pay for redirected mining power as though it had mined normally.",
+   "tags": []
+  },
+  {
+   "id": "15c6b07de9",
+   "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+   "date": "2026-11-15T19:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Did prediction markets call the U.S. midterm election?: State of Crypto",
+     "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
+     "date": "2026-11-15T19:30:00+00:00",
+     "summary": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T19:30:00+00:00",
+   "last_seen": "2026-11-15T19:30:00+00:00",
+   "summary": "Prediction markets and polls largely aligned by the end of the 2026 election cycle, and both had notable misses.",
+   "tags": []
+  },
+  {
+   "id": "7fbae91184",
+   "title": "AERO Falls 27% in a Week, Lagging Bitcoin and Ether",
+   "date": "2026-11-15T17:43:21+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "AERO Falls 27% in a Week, Lagging Bitcoin and Ether",
+     "url": "https://thedefiant.io/news/markets/aero-falls-27-in-a-week-lagging-bitcoin-and-ether",
+     "date": "2026-11-15T17:43:21+00:00",
+     "summary": "The token's post-merger retreat has erased October's rally. The exchange's Base pools still hold about $250 million and handled $5.09 billion in weekly swaps."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T17:43:21+00:00",
+   "last_seen": "2026-11-15T17:43:21+00:00",
+   "summary": "The token's post-merger retreat has erased October's rally. The exchange's Base pools still hold about $250 million and handled $5.09 billion in weekly swaps.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "d893cdeddc",
+   "title": "Tether wants its gold token to rival ETFs",
+   "date": "2026-11-15T17:25:18+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Tether wants its gold token to rival ETFs",
+     "url": "https://cryptoslate.com/tether-wants-its-gold-token-to-rival-etfs/",
+     "date": "2026-11-15T17:25:18+00:00",
+     "summary": "Anchorage supports institutional XAUT sales and client financing, while direct issuer redemption requires separate eligibility and acceptance. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T17:25:18+00:00",
+   "last_seen": "2026-11-15T17:25:18+00:00",
+   "summary": "Anchorage supports institutional XAUT sales and client financing, while direct issuer redemption requires separate eligibility and acceptance. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "etfs",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "1f832d080e",
+   "title": "How $10,000 in stablecoins would have gained \u20ac420 without earning interest",
+   "date": "2026-11-15T16:30:56+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "How $10,000 in stablecoins would have gained \u20ac420 without earning interest",
+     "url": "https://cryptoslate.com/how-10000-in-stablecoins-would-have-gained-e420-without-earning-interest/",
+     "date": "2026-11-15T16:30:56+00:00",
+     "summary": "ECB household evidence and a two-date FX illustration separate dollar-token stability from euro value before costs. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T16:30:56+00:00",
+   "last_seen": "2026-11-15T16:30:56+00:00",
+   "summary": "ECB household evidence and a two-date FX illustration separate dollar-token stability from euro value before costs. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "01cd13e737",
+   "title": "Duffy Sees No Sign of Foreign Cyberattack in FAA Outage",
+   "date": "2026-11-15T16:14:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Duffy Sees No Sign of Foreign Cyberattack in FAA Outage",
+     "url": "https://thedefiant.io/frontier/technology/duffy-sees-no-sign-of-foreign-cyberattack-in-faa-outage",
+     "date": "2026-11-15T16:14:44+00:00",
+     "summary": "L3Harris is testing two routers from Texas and Arkansas, while the hardware-versus-installation question remains unresolved."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T16:14:44+00:00",
+   "last_seen": "2026-11-15T16:14:44+00:00",
+   "summary": "L3Harris is testing two routers from Texas and Arkansas, while the hardware-versus-installation question remains unresolved.",
+   "tags": []
+  },
+  {
+   "id": "d857ae3e01",
+   "title": "CFTC Sues Louisiana Over Prediction-Market Shutdown",
+   "date": "2026-11-15T16:04:22+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "CFTC Sues Louisiana Over Prediction-Market Shutdown",
+     "url": "https://thedefiant.io/news/regulation/cftc-sues-louisiana-over-prediction-market-shutdown",
+     "date": "2026-11-15T16:04:22+00:00",
+     "summary": "The federal complaint seeks to block state investigations and enforcement against regulated markets, their affiliates and partners\u2014not just the platforms named in Louisiana\u2019s case."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T16:04:22+00:00",
+   "last_seen": "2026-11-15T16:04:22+00:00",
+   "summary": "The federal complaint seeks to block state investigations and enforcement against regulated markets, their affiliates and partners\u2014not just the platforms named in Louisiana\u2019s case.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "2e00b84b77",
+   "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+   "date": "2026-11-15T16:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+     "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+     "date": "2026-11-15T16:01:02+00:00",
+     "summary": "From Goldman and Citi\u2019s $270 million \u201cProject Faro\u201d to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T16:01:02+00:00",
+   "last_seen": "2026-11-15T16:01:02+00:00",
+   "summary": "From Goldman and Citi\u2019s $270 million \u201cProject Faro\u201d to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "b7e3809275",
+   "title": "AI Tops Financial Stability Risks Cited in Fed Survey",
+   "date": "2026-11-15T15:54:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "AI Tops Financial Stability Risks Cited in Fed Survey",
+     "url": "https://thedefiant.io/frontier/ai/ai-tops-financial-stability-risks-cited-in-fed-survey",
+     "date": "2026-11-15T15:54:16+00:00",
+     "summary": "AI was cited by 87% of market contacts, up from 50% in the spring. The Fed separately traced how leases, guarantees and debt link the infrastructure buildout to lenders."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T15:54:16+00:00",
+   "last_seen": "2026-11-15T15:54:16+00:00",
+   "summary": "AI was cited by 87% of market contacts, up from 50% in the spring. The Fed separately traced how leases, guarantees and debt link the infrastructure buildout to lenders.",
+   "tags": [
+    "ai",
+    "macro"
+   ]
+  },
+  {
+   "id": "6d49d30fa9",
+   "title": "WSJ Details China\u2019s Offshore Access to Nvidia Chips",
+   "date": "2026-11-15T15:47:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "WSJ Details China\u2019s Offshore Access to Nvidia Chips",
+     "url": "https://thedefiant.io/frontier/ai/wsj-details-china-s-offshore-access-to-nvidia-chips",
+     "date": "2026-11-15T15:47:42+00:00",
+     "summary": "Data centers in Malaysia serve Chinese tech giants, the report says, while authorities investigate whether hardware was diverted elsewhere."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T15:47:42+00:00",
+   "last_seen": "2026-11-15T15:47:42+00:00",
+   "summary": "Data centers in Malaysia serve Chinese tech giants, the report says, while authorities investigate whether hardware was diverted elsewhere.",
+   "tags": []
+  },
+  {
+   "id": "f4e78322dc",
+   "title": "Binance Targets Full Withdrawal Reopening Next Week",
+   "date": "2026-11-15T15:45:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Targets Full Withdrawal Reopening Next Week",
+     "url": "https://thedefiant.io/news/hacks/binance-targets-full-withdrawal-reopening-next-week",
+     "date": "2026-11-15T15:45:58+00:00",
+     "summary": "The exchange says 87 networks reopened this week, extending a staged recovery that began with selected assets across 15 network groups."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T15:45:58+00:00",
+   "last_seen": "2026-11-15T15:45:58+00:00",
+   "summary": "The exchange says 87 networks reopened this week, extending a staged recovery that began with selected assets across 15 network groups.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "b5fc6c51f7",
+   "title": "Spark TVL Falls 15.3% in a Week to a 30-Day Low",
+   "date": "2026-11-15T15:45:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Spark TVL Falls 15.3% in a Week to a 30-Day Low",
+     "url": "https://thedefiant.io/news/defi/spark-tvl-falls-15-3-in-a-week-to-a-30-day-low",
+     "date": "2026-11-15T15:45:11+00:00",
+     "summary": "The dollar value of assets tracked by DefiLlama fell to $5.70 billion. The change is not a measure of withdrawals or lost lending capacity."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T15:45:11+00:00",
+   "last_seen": "2026-11-15T15:45:11+00:00",
+   "summary": "The dollar value of assets tracked by DefiLlama fell to $5.70 billion. The change is not a measure of withdrawals or lost lending capacity.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "13d85e58e9",
+   "title": "Large Wallets Buy ETH as Price Falls Below $1,800",
+   "date": "2026-11-15T15:44:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Large Wallets Buy ETH as Price Falls Below $1,800",
+     "url": "https://thedefiant.io/news/markets/large-wallets-buy-eth-as-price-falls-below-1-800",
+     "date": "2026-11-15T15:44:31+00:00",
+     "summary": "Onchain swaps show some large holders buying into the slide, but exchange withdrawals in Lookonchain\u2019s tally do not establish new purchases."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T15:44:31+00:00",
+   "last_seen": "2026-11-15T15:44:31+00:00",
+   "summary": "Onchain swaps show some large holders buying into the slide, but exchange withdrawals in Lookonchain\u2019s tally do not establish new purchases.",
+   "tags": [
+    "ethereum",
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "3c7d158ba7",
+   "title": "SOL Hits Lowest Since June Ahead of London Breakpoint",
+   "date": "2026-11-15T15:43:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SOL Hits Lowest Since June Ahead of London Breakpoint",
+     "url": "https://thedefiant.io/news/markets/sol-hits-lowest-since-june-ahead-of-london-breakpoint",
+     "date": "2026-11-15T15:43:37+00:00",
+     "summary": "SOL touched $67.37 on Coinbase and underperformed bitcoin and ether over seven and 28 days. Solana Compass showed 67.3% of total supply staked."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T15:43:37+00:00",
+   "last_seen": "2026-11-15T15:43:37+00:00",
+   "summary": "SOL touched $67.37 on Coinbase and underperformed bitcoin and ether over seven and 28 days. Solana Compass showed 67.3% of total supply staked.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges",
+    "solana"
+   ]
+  },
+  {
+   "id": "b17275a092",
+   "title": "Bitcoin now looks cheap by one measure after $1 billion in ETF outflows",
+   "date": "2026-11-15T15:35:58+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin now looks cheap by one measure after $1 billion in ETF outflows",
+     "url": "https://cryptoslate.com/bitcoins-new-value-alert-still-needs-proof-that-buyers-can-absorb-supply/",
+     "date": "2026-11-15T15:35:58+00:00",
+     "summary": "Darkfost\u2019s adjusted MVRV signal highlights lower valuation, while dated ETF withdrawals and an attributed SOPR reading leave recovery unconfirmed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T15:35:58+00:00",
+   "last_seen": "2026-11-15T15:35:58+00:00",
+   "summary": "Darkfost\u2019s adjusted MVRV signal highlights lower valuation, while dated ETF withdrawals and an attributed SOPR reading leave recovery unconfirmed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "funding"
+   ]
+  },
+  {
+   "id": "e23a5575f2",
+   "title": "CoreX Reports Bitcoin Mining Power Hijacked to OCEAN",
+   "date": "2026-11-15T15:18:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "CoreX Reports Bitcoin Mining Power Hijacked to OCEAN",
+     "url": "https://thedefiant.io/news/hacks/corex-reports-bitcoin-mining-power-hijacked-to-ocean",
+     "date": "2026-11-15T15:18:39+00:00",
+     "summary": "The flagged address showed no payouts, but submitted mining work could still earn rewards. The attack\u2019s entry point remains unconfirmed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T15:18:39+00:00",
+   "last_seen": "2026-11-15T15:18:39+00:00",
+   "summary": "The flagged address showed no payouts, but submitted mining work could still earn rewards. The attack\u2019s entry point remains unconfirmed.",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
   {
    "id": "d421426f0f",
    "title": "Robots now run AI-written code without an AI calling the shots, succeeding 92% of the time",
@@ -292,12 +650,19 @@
      "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-11-15T08:07:58+00:00",
      "summary": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Coinone Warns of Identity Theft After Support Breach",
+     "url": "https://thedefiant.io/news/hacks/coinone-warns-of-identity-theft-after-support-breach",
+     "date": "2026-11-15T15:52:35+00:00",
+     "summary": "Passwords, bank details and national ID numbers shared with support may be exposed. Coinone says it has found no evidence of direct intrusion into its account, trading or wallet systems."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-15T08:07:58+00:00",
-   "last_seen": "2026-11-15T08:07:58+00:00",
-   "summary": "The South Korean crypto exchange said potentially exposed information includes passwords, bank account numbers, national identification numbers and crypto wallet addresses.",
+   "last_seen": "2026-11-15T15:52:35+00:00",
+   "summary": "Passwords, bank details and national ID numbers shared with support may be exposed. Coinone says it has found no evidence of direct intrusion into its account, trading or wallet systems.",
    "tags": [
     "exchanges",
     "security"

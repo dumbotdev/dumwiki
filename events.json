@@ -1,6 +1,282 @@
 {
- "updated": "2026-11-16T01:07:08.246766+00:00",
+ "updated": "2026-11-16T08:03:05.459403+00:00",
  "events": [
+  {
+   "id": "f733acfef4",
+   "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+   "date": "2026-11-16T07:51:15+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
+     "url": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
+     "date": "2026-11-16T07:51:15+00:00",
+     "summary": "Luxor said just over a dozen customers were affected and will be reimbursed after their machines were redirected to another mining pool."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-16T07:51:15+00:00",
+   "last_seen": "2026-11-16T07:51:15+00:00",
+   "summary": "Luxor said just over a dozen customers were affected and will be reimbursed after their machines were redirected to another mining pool.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "0bc05df703",
+   "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
+   "date": "2026-11-16T06:27:42+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Cardano holders vote down $5 million bid to buy warehouse copper",
+     "url": "https://www.coindesk.com/markets/2026/11/16/cardano-holders-vote-down-usd5-million-bid-to-buy-warehouse-copper",
+     "date": "2026-11-16T06:27:42+00:00",
+     "summary": "Toto Finance\u2019s 22 million ADA treasury request expired Sunday with about 20 million ADA in favor, and none of Cardano\u2019s seven constitutional committee members voted yes."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-16T06:27:42+00:00",
+   "last_seen": "2026-11-16T06:27:42+00:00",
+   "summary": "Toto Finance\u2019s 22 million ADA treasury request expired Sunday with about 20 million ADA in favor, and none of Cardano\u2019s seven constitutional committee members voted yes.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "38b4ac2bf3",
+   "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+   "date": "2026-11-16T06:01:41+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Trump administration to name Nvidia, OpenAI and several others as AI national champions",
+     "url": "https://www.coindesk.com/markets/2026/11/16/trump-administration-to-name-nvidia-openai-and-several-others-as-u-s-ai-national-champions",
+     "date": "2026-11-16T06:01:41+00:00",
+     "summary": "The Wall Street Journal reported that the move aims to help the firms expand overseas and compete with global rivals, though nothing has been confirmed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-16T06:01:41+00:00",
+   "last_seen": "2026-11-16T06:01:41+00:00",
+   "summary": "The Wall Street Journal reported that the move aims to help the firms expand overseas and compete with global rivals, though nothing has been confirmed.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "9c89eef5e7",
+   "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+   "date": "2026-11-16T05:28:40+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+     "url": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-16T05:28:40+00:00",
+     "summary": "Aster\u2019s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-16T05:28:40+00:00",
+   "last_seen": "2026-11-16T05:28:40+00:00",
+   "summary": "Aster\u2019s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational.",
+   "tags": [
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "6036efc2d7",
+   "title": "Bitcoin Held Since 2011 Moves Alongside Legal Notice",
+   "date": "2026-11-16T05:22:03+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Held Since 2011 Moves Alongside Legal Notice",
+     "url": "https://thedefiant.io/news/blockchains/bitcoin-held-since-2011-moves-alongside-legal-notice",
+     "date": "2026-11-16T05:22:03+00:00",
+     "summary": "The 75 BTC transfer also spent a tiny payment linked to a New York ownership lawsuit. It shows the coins remain spendable, not who owns them."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-16T05:22:03+00:00",
+   "last_seen": "2026-11-16T05:22:03+00:00",
+   "summary": "The 75 BTC transfer also spent a tiny payment linked to a New York ownership lawsuit. It shows the coins remain spendable, not who owns them.",
+   "tags": [
+    "bitcoin",
+    "legal"
+   ]
+  },
+  {
+   "id": "f7ee86adb1",
+   "title": "Pony.ai Adds Toyota bZ4X to Guangzhou Driverless Service",
+   "date": "2026-11-16T05:19:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Pony.ai Adds Toyota bZ4X to Guangzhou Driverless Service",
+     "url": "https://thedefiant.io/frontier/technology/pony-ai-adds-toyota-bz4x-to-guangzhou-driverless-service",
+     "date": "2026-11-16T05:19:11+00:00",
+     "summary": "The jointly developed robotaxi is available around the clock, Pony.ai says, as the partners work toward about 1,000 bZ4X vehicles across Chinese cities."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-16T05:19:11+00:00",
+   "last_seen": "2026-11-16T05:19:11+00:00",
+   "summary": "The jointly developed robotaxi is available around the clock, Pony.ai says, as the partners work toward about 1,000 bZ4X vehicles across Chinese cities.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "4cb8ef5933",
+   "title": "Bitcoin\u2019s biggest bet is now a drop below $60,000, not a rally above $100,000",
+   "date": "2026-11-16T05:01:17+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin\u2019s biggest bet is now a drop below $60,000, not a rally above $100,000",
+     "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+     "date": "2026-11-16T05:01:17+00:00",
+     "summary": "The $60,000 put has replaced the $100,000 call as bitcoin\u2019s biggest options bet on Deribit, with $900 million in open interest after the recent slide."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-16T05:01:17+00:00",
+   "last_seen": "2026-11-16T05:01:17+00:00",
+   "summary": "The $60,000 put has replaced the $100,000 call as bitcoin\u2019s biggest options bet on Deribit, with $900 million in open interest after the recent slide.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "e1d798e003",
+   "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+   "date": "2026-11-16T04:42:07+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+     "url": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-16T04:42:07+00:00",
+     "summary": "The weakness came amid a wider sell-off in regional equity markets, with Japan\u2019s Nikkei 225 down 2% and South Korea\u2019s Kospi losing 2.6%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-16T04:42:07+00:00",
+   "last_seen": "2026-11-16T04:42:07+00:00",
+   "summary": "The weakness came amid a wider sell-off in regional equity markets, with Japan\u2019s Nikkei 225 down 2% and South Korea\u2019s Kospi losing 2.6%.",
+   "tags": []
+  },
+  {
+   "id": "6758fe5488",
+   "title": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
+   "date": "2026-11-16T04:35:34+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Luxor hit by AI-enabled attack that redirected client hashrate, says vulnerability patched",
+     "url": "https://www.theblock.co/news/business/2026-11-15-luxor-attack-client-hashrate-440810",
+     "date": "2026-11-16T04:35:34+00:00",
+     "summary": "The company said it patched the vulnerability within two hours and that no data was leaked or exfiltrated."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-16T04:35:34+00:00",
+   "last_seen": "2026-11-16T04:35:34+00:00",
+   "summary": "The company said it patched the vulnerability within two hours and that no data was leaked or exfiltrated.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "8abe6ad717",
+   "title": "Luxor CEO warns of AI \u2018dark forest\u2019 following Bitcoin miner hijack",
+   "date": "2026-11-16T02:33:07+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Luxor CEO warns of AI \u2018dark forest\u2019 following Bitcoin miner hijack",
+     "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-16T02:33:07+00:00",
+     "summary": "Attackers redirected customers\u2019 Bitcoin mining power through Luxor\u2019s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-16T02:33:07+00:00",
+   "last_seen": "2026-11-16T02:33:07+00:00",
+   "summary": "Attackers redirected customers\u2019 Bitcoin mining power through Luxor\u2019s Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "35e598ca84",
+   "title": "Alibaba Launches Qwen4-Max With Lower API Prices",
+   "date": "2026-11-16T02:20:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Alibaba Launches Qwen4-Max With Lower API Prices",
+     "url": "https://thedefiant.io/frontier/ai/alibaba-launches-qwen4-max-with-lower-api-prices",
+     "date": "2026-11-16T02:20:35+00:00",
+     "summary": "Singapore input and output list rates fall 25% from Qwen3.8-Max as access expands beyond a subscription-only preview. Smaller open-weight models are still to come."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-16T02:20:35+00:00",
+   "last_seen": "2026-11-16T02:20:35+00:00",
+   "summary": "Singapore input and output list rates fall 25% from Qwen3.8-Max as access expands beyond a subscription-only preview. Smaller open-weight models are still to come.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "221c0a1aef",
+   "title": "OCEAN Payouts Reach Address Flagged in Mining Hijack",
+   "date": "2026-11-16T02:19:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OCEAN Payouts Reach Address Flagged in Mining Hijack",
+     "url": "https://thedefiant.io/news/hacks/ocean-payouts-reach-address-flagged-in-mining-hijack",
+     "date": "2026-11-16T02:19:35+00:00",
+     "summary": "Two confirmed Bitcoin payouts total about $10,500, while OCEAN's reward system continues to assign the flagged address a share of future blocks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-16T02:19:35+00:00",
+   "last_seen": "2026-11-16T02:19:35+00:00",
+   "summary": "Two confirmed Bitcoin payouts total about $10,500, while OCEAN's reward system continues to assign the flagged address a share of future blocks.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "e182bddedb",
+   "title": "Aster CEO Blames Liquidations for ASTER's Sharp Swing",
+   "date": "2026-11-16T01:20:30+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aster CEO Blames Liquidations for ASTER's Sharp Swing",
+     "url": "https://thedefiant.io/news/markets/aster-ceo-blames-liquidations-for-aster-s-sharp-swing",
+     "date": "2026-11-16T01:20:30+00:00",
+     "summary": "The token fell about 32% from its intraday spike on both Aster and Binance. Leonard called the liquidations 'likely malicious' and said the team was investigating."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-16T01:20:30+00:00",
+   "last_seen": "2026-11-16T01:20:30+00:00",
+   "summary": "The token fell about 32% from its intraday spike on both Aster and Binance. Leonard called the liquidations 'likely malicious' and said the team was investigating.",
+   "tags": [
+    "exchanges",
+    "markets"
+   ]
+  },
   {
    "id": "f9f4bdaf37",
    "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
@@ -895,6 +1171,27 @@
     "bitcoin",
     "etfs",
     "exchanges"
+   ]
+  },
+  {
+   "id": "7a54b6cced",
+   "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+   "date": "2026-11-15T07:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Changing of Lagarde: How the candidates to be next ECB president view bitcoin, stablecoins and CBDCs",
+     "url": "https://www.coindesk.com/policy/2026/11/14/changing-of-lagarde-how-the-candidates-to-be-next-ecb-president-view-bitcoin-stablecoins-and-cbdcs",
+     "date": "2026-11-15T07:00:00+00:00",
+     "summary": "ECB President Christine Lagarde will step down from her post in February 2027, and none of the primary candidates to succeed her are great fans of crypto."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T07:00:00+00:00",
+   "last_seen": "2026-11-15T07:00:00+00:00",
+   "summary": "ECB President Christine Lagarde will step down from her post in February 2027, and none of the primary candidates to succeed her are great fans of crypto.",
+   "tags": [
+    "bitcoin"
    ]
   },
   {

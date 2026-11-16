@@ -1,6 +1,191 @@
 {
- "updated": "2026-11-15T20:26:01.447597+00:00",
+ "updated": "2026-11-16T01:07:08.246766+00:00",
  "events": [
+  {
+   "id": "f9f4bdaf37",
+   "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+   "date": "2026-11-15T23:47:45+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+     "url": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-15T23:47:45+00:00",
+     "summary": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T23:47:45+00:00",
+   "last_seen": "2026-11-15T23:47:45+00:00",
+   "summary": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support.",
+   "tags": []
+  },
+  {
+   "id": "bfac1a1913",
+   "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler\u2019s Digest",
+   "date": "2026-11-15T22:50:59+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler\u2019s Digest",
+     "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-15T22:50:59+00:00",
+     "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A \u201cwar room\u201d has been set up by supporters to reinstate Nvidia boss Jensen Huang."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T22:50:59+00:00",
+   "last_seen": "2026-11-15T22:50:59+00:00",
+   "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A \u201cwar room\u201d has been set up by supporters to reinstate Nvidia boss Jensen Huang.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "7a91e3b1ce",
+   "title": "OpenAI Details Astra's Role in Standard Model Lattice Proof",
+   "date": "2026-11-15T22:38:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OpenAI Details Astra's Role in Standard Model Lattice Proof",
+     "url": "https://thedefiant.io/frontier/ai/openai-details-astra-s-role-in-standard-model-lattice-proof",
+     "date": "2026-11-15T22:38:42+00:00",
+     "summary": "Physicist Nathaniel Craig credits the model with key construction and proof steps, while practical simulations and important physical-consistency tests remain open."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T22:38:42+00:00",
+   "last_seen": "2026-11-15T22:38:42+00:00",
+   "summary": "Physicist Nathaniel Craig credits the model with key construction and proof steps, while practical simulations and important physical-consistency tests remain open.",
+   "tags": []
+  },
+  {
+   "id": "df5b1deaef",
+   "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+   "date": "2026-11-15T21:57:53+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "CZ denies Binance sold crypto as Bitcoin bounces from four-month low near $62,000",
+     "url": "https://www.theblock.co/news/markets/2026-11-15-cz-denies-binance-sold-crypto-as-bitcoin-bounces-from-four-month-low-near-62000-440807",
+     "date": "2026-11-15T21:57:53+00:00",
+     "summary": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T21:57:53+00:00",
+   "last_seen": "2026-11-15T21:57:53+00:00",
+   "summary": "The price moves across the market led to $2 billion in crypto liquidations in a single 24-hour period over the weekend.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "151e6154c1",
+   "title": "Bessent Urges Outside Nvidia CEO Search, Reuters Says",
+   "date": "2026-11-15T21:23:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bessent Urges Outside Nvidia CEO Search, Reuters Says",
+     "url": "https://thedefiant.io/frontier/ai/bessent-urges-outside-nvidia-ceo-search-reuters-says",
+     "date": "2026-11-15T21:23:54+00:00",
+     "summary": "Reuters reported that the Treasury secretary called for a leadership shakeup while Nvidia\u2019s board was still organizing its search for Jensen Huang\u2019s successor."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T21:23:54+00:00",
+   "last_seen": "2026-11-15T21:23:54+00:00",
+   "summary": "Reuters reported that the Treasury secretary called for a leadership shakeup while Nvidia\u2019s board was still organizing its search for Jensen Huang\u2019s successor.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "4068d83b7d",
+   "title": "Megaspeed Opens Review, Says Alice Huang Left in 2025",
+   "date": "2026-11-15T21:23:01+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Megaspeed Opens Review, Says Alice Huang Left in 2025",
+     "url": "https://thedefiant.io/frontier/technology/megaspeed-opens-review-says-alice-huang-left-in-2025",
+     "date": "2026-11-15T21:23:01+00:00",
+     "summary": "Outside lawyers will examine reports about the Nvidia cloud partner's business and supply chain. Singapore's separate server-shipment inquiry remains open."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T21:23:01+00:00",
+   "last_seen": "2026-11-15T21:23:01+00:00",
+   "summary": "Outside lawyers will examine reports about the Nvidia cloud partner's business and supply chain. Singapore's separate server-shipment inquiry remains open.",
+   "tags": []
+  },
+  {
+   "id": "5b1fcb0e22",
+   "title": "Solflare Launches Private Mode for Solana Payments",
+   "date": "2026-11-15T21:19:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Solflare Launches Private Mode for Solana Payments",
+     "url": "https://thedefiant.io/news/defi/solflare-launches-private-mode-for-solana-payments",
+     "date": "2026-11-15T21:19:07+00:00",
+     "summary": "The Helius-powered feature hides assets and amounts, not wallet addresses. Swaps and staking still require public balances."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T21:19:07+00:00",
+   "last_seen": "2026-11-15T21:19:07+00:00",
+   "summary": "The Helius-powered feature hides assets and amounts, not wallet addresses. Swaps and staking still require public balances.",
+   "tags": [
+    "defi",
+    "solana"
+   ]
+  },
+  {
+   "id": "d360806036",
+   "title": "Vulcan Fails to Deliver 40 Amazon Satellites to Orbit",
+   "date": "2026-11-15T21:18:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Vulcan Fails to Deliver 40 Amazon Satellites to Orbit",
+     "url": "https://thedefiant.io/frontier/technology/vulcan-fails-to-deliver-40-amazon-satellites-to-orbit",
+     "date": "2026-11-15T21:18:56+00:00",
+     "summary": "Amazon had planned a second Vulcan mission within weeks of a successful debut. ULA now faces an investigation and has given no return-to-flight date."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T21:18:56+00:00",
+   "last_seen": "2026-11-15T21:18:56+00:00",
+   "summary": "Amazon had planned a second Vulcan mission within weeks of a successful debut. ULA now faces an investigation and has given no return-to-flight date.",
+   "tags": []
+  },
+  {
+   "id": "3b5b18380a",
+   "title": "Traders claim $6 million profit by spotting BitGo\u2019s public pull request and frontrunning memecoin listing",
+   "date": "2026-11-15T20:33:17+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Traders claim $6 million profit by spotting BitGo\u2019s public pull request and frontrunning memecoin listing",
+     "url": "https://www.theblock.co/news/defi/2026-11-15-traders-claim-6-million-profit-by-spotting-bitgos-public-pull-request-and-frontrunning-memecoin-listing-440363",
+     "date": "2026-11-15T20:33:17+00:00",
+     "summary": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-15T20:33:17+00:00",
+   "last_seen": "2026-11-15T20:33:17+00:00",
+   "summary": "A public BitGo code change on July 27 added support for Cash Cat on Robinhood Chain ten days before Robinhood announced the listing.",
+   "tags": [
+    "memecoins"
+   ]
+  },
   {
    "id": "4ffc566c6c",
    "title": "Huang Weighs Nvidia Return as Allies Press Board: FT",

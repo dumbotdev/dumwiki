@@ -1,6 +1,543 @@
 {
- "updated": "2026-11-17T21:03:27.756458+00:00",
+ "updated": "2026-11-18T02:57:08.333462+00:00",
  "events": [
+  {
+   "id": "f5fc70d57b",
+   "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
+   "date": "2026-11-18T02:47:51+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
+     "url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+     "date": "2026-11-18T02:47:51+00:00",
+     "summary": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-18T02:47:51+00:00",
+   "last_seen": "2026-11-18T02:47:51+00:00",
+   "summary": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention.",
+   "tags": [
+    "ai",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "733f0b8a48",
+   "title": "Nvidia Board Has No Plans to Reinstate Jensen Huang",
+   "date": "2026-11-18T02:41:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Nvidia Board Has No Plans to Reinstate Jensen Huang",
+     "url": "https://thedefiant.io/frontier/ai/nvidia-board-has-no-plans-to-reinstate-jensen-huang",
+     "date": "2026-11-18T02:41:09+00:00",
+     "summary": "Colette Kress remains interim CEO as directors search for a permanent successor, considering internal and external candidates."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-18T02:41:09+00:00",
+   "last_seen": "2026-11-18T02:41:09+00:00",
+   "summary": "Colette Kress remains interim CEO as directors search for a permanent successor, considering internal and external candidates.",
+   "tags": []
+  },
+  {
+   "id": "d93b6d327e",
+   "title": "What\u2019s happening to crypto startup valuations?",
+   "date": "2026-11-18T02:40:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "What\u2019s happening to crypto startup valuations?",
+     "url": "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903",
+     "date": "2026-11-18T02:40:00+00:00",
+     "summary": "Crypto unicorns from the 2021 boom now trade at 50% to 70% discounts in secondary markets, while the top companies hit new highs."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-18T02:40:00+00:00",
+   "last_seen": "2026-11-18T02:40:00+00:00",
+   "summary": "Crypto unicorns from the 2021 boom now trade at 50% to 70% discounts in secondary markets, while the top companies hit new highs.",
+   "tags": []
+  },
+  {
+   "id": "12e933a541",
+   "title": "Ledger hardware implant saga reaches Dubai\u2019s Virgin Megastore",
+   "date": "2026-11-18T02:39:52+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ledger hardware implant saga reaches Dubai\u2019s Virgin Megastore",
+     "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-18T02:39:52+00:00",
+     "summary": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-18T02:39:52+00:00",
+   "last_seen": "2026-11-18T02:39:52+00:00",
+   "summary": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai.",
+   "tags": []
+  },
+  {
+   "id": "a77373f411",
+   "title": "DBS, Circle Add 24/7 Institutional USDC Access in Asia",
+   "date": "2026-11-18T02:30:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "DBS, Circle Add 24/7 Institutional USDC Access in Asia",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/dbs-circle-add-24-7-institutional-usdc-access-in-asia",
+     "date": "2026-11-18T02:30:00+00:00",
+     "summary": "Eligible institutions can mint and redeem USDC through DBS, the companies say, adding a bank-based route for dollar-stablecoin liquidity."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-18T02:30:00+00:00",
+   "last_seen": "2026-11-18T02:30:00+00:00",
+   "summary": "Eligible institutions can mint and redeem USDC through DBS, the companies say, adding a bank-based route for dollar-stablecoin liquidity.",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "d416ef547e",
+   "title": "Ether.fi Token Falls 25%, Doubling Bitcoin's Weekly Loss",
+   "date": "2026-11-18T02:03:01+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ether.fi Token Falls 25%, Doubling Bitcoin's Weekly Loss",
+     "url": "https://thedefiant.io/news/markets/ether-fi-token-falls-25-doubling-bitcoin-s-weekly-loss",
+     "date": "2026-11-18T02:03:01+00:00",
+     "summary": "ETHFI is down about 32% over four weeks, while the protocol's staking TVL has fallen about 11% in the past week."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-18T02:03:01+00:00",
+   "last_seen": "2026-11-18T02:03:01+00:00",
+   "summary": "ETHFI is down about 32% over four weeks, while the protocol's staking TVL has fallen about 11% in the past week.",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "e2f9708d18",
+   "title": "Researchers train AI in simulation and unlock real robot skills",
+   "date": "2026-11-18T01:40:55+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Researchers train AI in simulation and unlock real robot skills",
+     "url": "https://cryptoslate.com/researchers-train-ai-in-simulation-and-unlock-real-robot-skills/",
+     "date": "2026-11-18T01:40:55+00:00",
+     "summary": "PEAR researchers report transfer of pickup and block-alignment skills to different hardware, with long reasoning delays limiting use. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-18T01:40:55+00:00",
+   "last_seen": "2026-11-18T01:40:55+00:00",
+   "summary": "PEAR researchers report transfer of pickup and block-alignment skills to different hardware, with long reasoning delays limiting use. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "685a335e95",
+   "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+   "date": "2026-11-18T00:46:25+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+     "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+     "date": "2026-11-18T00:46:25+00:00",
+     "summary": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaking."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-18T00:46:25+00:00",
+   "last_seen": "2026-11-18T00:46:25+00:00",
+   "summary": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaking.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "fcb84f6fc0",
+   "title": "PayPal\u2019s PYUSD Supply Falls 14% as Ethereum Leads Drop",
+   "date": "2026-11-18T00:36:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "PayPal\u2019s PYUSD Supply Falls 14% as Ethereum Leads Drop",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/paypal-s-pyusd-supply-falls-14-as-ethereum-leads-drop",
+     "date": "2026-11-18T00:36:05+00:00",
+     "summary": "Ethereum accounted for about 85% of PYUSD\u2019s net weekly contraction, while the dollar token\u2019s price stayed near its peg."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-18T00:36:05+00:00",
+   "last_seen": "2026-11-18T00:36:05+00:00",
+   "summary": "Ethereum accounted for about 85% of PYUSD\u2019s net weekly contraction, while the dollar token\u2019s price stayed near its peg.",
+   "tags": [
+    "ethereum",
+    "markets"
+   ]
+  },
+  {
+   "id": "2b2ef4de53",
+   "title": "Nvidia Tops Sales Forecast After Huang's Resignation",
+   "date": "2026-11-18T00:30:53+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Nvidia Tops Sales Forecast After Huang's Resignation",
+     "url": "https://thedefiant.io/frontier/ai/nvidia-tops-sales-forecast-after-huang-s-resignation",
+     "date": "2026-11-18T00:30:53+00:00",
+     "summary": "Data-center revenue reached $107.6 billion. Nvidia's fourth-quarter outlook excludes China data-center compute sales, while shares rose about 4% after hours."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-18T00:30:53+00:00",
+   "last_seen": "2026-11-18T00:30:53+00:00",
+   "summary": "Data-center revenue reached $107.6 billion. Nvidia's fourth-quarter outlook excludes China data-center compute sales, while shares rose about 4% after hours.",
+   "tags": []
+  },
+  {
+   "id": "246731215a",
+   "title": "USD1 Supply Falls 11% in a Week to Below $3 Billion",
+   "date": "2026-11-18T00:26:17+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "USD1 Supply Falls 11% in a Week to Below $3 Billion",
+     "url": "https://thedefiant.io/converge/tokens/usd1-supply-falls-11-in-a-week-to-below-3-billion",
+     "date": "2026-11-18T00:26:17+00:00",
+     "summary": "World Liberty Financial's stablecoin reached its lowest daily supply reading in a 30-day window, with declines across Solana, Ethereum and BNB Smart Chain."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-18T00:26:17+00:00",
+   "last_seen": "2026-11-18T00:26:17+00:00",
+   "summary": "World Liberty Financial's stablecoin reached its lowest daily supply reading in a 30-day window, with declines across Solana, Ethereum and BNB Smart Chain.",
+   "tags": [
+    "ethereum",
+    "solana",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "57a0d01151",
+   "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
+   "date": "2026-11-18T00:16:43+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
+     "url": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-18T00:16:43+00:00",
+     "summary": "Nvidia beat Wall Street\u2019s revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang\u2019s reinstatement."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-18T00:16:43+00:00",
+   "last_seen": "2026-11-18T00:16:43+00:00",
+   "summary": "Nvidia beat Wall Street\u2019s revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang\u2019s reinstatement.",
+   "tags": []
+  },
+  {
+   "id": "9b2a7bffe5",
+   "title": "Java4Shell Fixes Arrive After AI-Assisted Discovery",
+   "date": "2026-11-18T00:11:53+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Java4Shell Fixes Arrive After AI-Assisted Discovery",
+     "url": "https://thedefiant.io/frontier/technology/java4shell-fixes-arrive-after-ai-assisted-discovery",
+     "date": "2026-11-18T00:11:53+00:00",
+     "summary": "The flaw exposes unpatched Java applications on certain x86-64 processors. Calif and Wiz describe AI-assisted exploit development measured in hours."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-18T00:11:53+00:00",
+   "last_seen": "2026-11-18T00:11:53+00:00",
+   "summary": "The flaw exposes unpatched Java applications on certain x86-64 processors. Calif and Wiz describe AI-assisted exploit development measured in hours.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "aecd9574ce",
+   "title": "Bitcoin faces a liquidity drain as Anthropic IPO unlocks millions",
+   "date": "2026-11-18T00:10:37+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin faces a liquidity drain as Anthropic IPO unlocks millions",
+     "url": "https://cryptoslate.com/bitcoin-faces-a-liquidity-drain-as-anthropic-ipo-unlocks-millions/",
+     "date": "2026-11-18T00:10:37+00:00",
+     "summary": "Anthropic\u2019s staged releases create selling risk, while issuance, cash demand and the path to weaker Bitcoin liquidity remain distinct questions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-18T00:10:37+00:00",
+   "last_seen": "2026-11-18T00:10:37+00:00",
+   "summary": "Anthropic\u2019s staged releases create selling risk, while issuance, cash demand and the path to weaker Bitcoin liquidity remain distinct questions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "defi",
+    "funding"
+   ]
+  },
+  {
+   "id": "ab1442fad1",
+   "title": "Trump\u2019s CFTC picks face Senate scrutiny as prediction market turf war heats up",
+   "date": "2026-11-17T23:32:46+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Trump\u2019s CFTC picks face Senate scrutiny as prediction market turf war heats up",
+     "url": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909",
+     "date": "2026-11-17T23:32:46+00:00",
+     "summary": "President Donald Trump\u2019s nominees to the CFTC revealed how they view the hotly contested issue of how to regulate sports betting."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-17T23:32:46+00:00",
+   "last_seen": "2026-11-17T23:32:46+00:00",
+   "summary": "President Donald Trump\u2019s nominees to the CFTC revealed how they view the hotly contested issue of how to regulate sports betting.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "23e703eaf1",
+   "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
+   "date": "2026-11-17T23:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
+     "url": "https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt",
+     "date": "2026-11-17T23:16:03+00:00",
+     "summary": "Microsoft's new coding, cybersecurity and image models challenge bigger rivals on performance and price. The company's bet is that doing one job exceptionally well matters more than doing absolutely everything."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-17T23:16:03+00:00",
+   "last_seen": "2026-11-17T23:16:03+00:00",
+   "summary": "Microsoft's new coding, cybersecurity and image models challenge bigger rivals on performance and price. The company's bet is that doing one job exceptionally well matters more than doing absolutely everything.",
+   "tags": [
+    "ai",
+    "markets"
+   ]
+  },
+  {
+   "id": "0a39220284",
+   "title": "Three wallets hoard $52.7M on XRP\u2019s sidechain, and nobody is trading it",
+   "date": "2026-11-17T22:40:31+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Three wallets hoard $52.7M on XRP\u2019s sidechain, and nobody is trading it",
+     "url": "https://cryptoslate.com/three-wallets-hoard-52-7m-on-xrps-sidechain-and-nobody-is-trading-it/",
+     "date": "2026-11-17T22:40:31+00:00",
+     "summary": "A November 17 snapshot shows concentrated USDf inventory alongside $22,415 in tracked DeFi TVL, leaving broad liquidity and XRP buying demand unproven. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-17T22:40:31+00:00",
+   "last_seen": "2026-11-17T22:40:31+00:00",
+   "summary": "A November 17 snapshot shows concentrated USDf inventory alongside $22,415 in tracked DeFi TVL, leaving broad liquidity and XRP buying demand unproven. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "62a9ad91e1",
+   "title": "Nvidia Board Shuts Down Jensen Huang Comeback, Launches Search for New CEO",
+   "date": "2026-11-17T22:39:53+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Nvidia Board Shuts Down Jensen Huang Comeback, Launches Search for New CEO",
+     "url": "https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback",
+     "date": "2026-11-17T22:39:53+00:00",
+     "summary": "Nvidia's board rejected a comeback for its ousted co-founder as it hired a search firm, backed interim CEO Colette Kress, and tightened oversight of chip exports to China."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-17T22:39:53+00:00",
+   "last_seen": "2026-11-17T22:39:53+00:00",
+   "summary": "Nvidia's board rejected a comeback for its ousted co-founder as it hired a search firm, backed interim CEO Colette Kress, and tightened oversight of chip exports to China.",
+   "tags": []
+  },
+  {
+   "id": "e417d478f3",
+   "title": "Robinhood shrugs off Kalshi equities threat as Mizuho sees 86% HOOD upside",
+   "date": "2026-11-17T22:23:29+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Robinhood shrugs off Kalshi equities threat as Mizuho sees 86% HOOD upside",
+     "url": "https://www.theblock.co/news/business/2026-11-17-robinhoods-non-sports-prediction-market-share-doubles-mizuho-442904",
+     "date": "2026-11-17T22:23:29+00:00",
+     "summary": "Robinhood brushes off Kalshi\u2019s potential equities push as Mizuho maintains its bullish outlook on HOOD."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-17T22:23:29+00:00",
+   "last_seen": "2026-11-17T22:23:29+00:00",
+   "summary": "Robinhood brushes off Kalshi\u2019s potential equities push as Mizuho maintains its bullish outlook on HOOD.",
+   "tags": []
+  },
+  {
+   "id": "2ee0f0f7d1",
+   "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
+   "date": "2026-11-17T22:20:04+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
+     "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-17T22:20:04+00:00",
+     "summary": "The CFTC stayed Kalshi\u2019s Trump-related mention markets after raising concerns about manipulation risks, giving the platform until Dec. 11 to defend its contracts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-17T22:20:04+00:00",
+   "last_seen": "2026-11-17T22:20:04+00:00",
+   "summary": "The CFTC stayed Kalshi\u2019s Trump-related mention markets after raising concerns about manipulation risks, giving the platform until Dec. 11 to defend its contracts.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "843b974f29",
+   "title": "Nvidia Shares Rise After Earnings Beat in First Report Since Jensen Huang's Exit",
+   "date": "2026-11-17T22:18:18+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Nvidia Shares Rise After Earnings Beat in First Report Since Jensen Huang's Exit",
+     "url": "https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit",
+     "date": "2026-11-17T22:18:18+00:00",
+     "summary": "The chipmaker doubled quarterly revenue, forecast another record and rallied after hours, but its first report without Jensen Huang leaves leadership questions and a deeply bruised stock chart unresolved."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-17T22:18:18+00:00",
+   "last_seen": "2026-11-17T22:18:18+00:00",
+   "summary": "The chipmaker doubled quarterly revenue, forecast another record and rallied after hours, but its first report without Jensen Huang leaves leadership questions and a deeply bruised stock chart unresolved.",
+   "tags": []
+  },
+  {
+   "id": "441bbabdb6",
+   "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
+   "date": "2026-11-17T21:56:35+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
+     "url": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-17T21:56:35+00:00",
+     "summary": "Sidney Powell aims to reach $15 billion in assets under management by the end of 2027 as the firm looks to expand into tokenized lending and traditional finance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-17T21:56:35+00:00",
+   "last_seen": "2026-11-17T21:56:35+00:00",
+   "summary": "Sidney Powell aims to reach $15 billion in assets under management by the end of 2027 as the firm looks to expand into tokenized lending and traditional finance.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "8a5571e984",
+   "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
+   "date": "2026-11-17T21:46:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
+     "url": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
+     "date": "2026-11-17T21:46:02+00:00",
+     "summary": "OpenAI's latest models promise better professional work for less money, as the company battles Anthropic and Google for AI supremacy and faces tougher questions about increasingly capable systems and safety."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-17T21:46:02+00:00",
+   "last_seen": "2026-11-17T21:46:02+00:00",
+   "summary": "OpenAI's latest models promise better professional work for less money, as the company battles Anthropic and Google for AI supremacy and faces tougher questions about increasingly capable systems and safety.",
+   "tags": [
+    "ai",
+    "markets"
+   ]
+  },
+  {
+   "id": "c7be9e8c55",
+   "title": "Bank of England Finalizes Clearing-House Test Policy",
+   "date": "2026-11-17T21:34:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bank of England Finalizes Clearing-House Test Policy",
+     "url": "https://thedefiant.io/converge/regulation/bank-of-england-finalizes-clearing-house-test-policy",
+     "date": "2026-11-17T21:34:33+00:00",
+     "summary": "Blockchain-based entrants are included in a technology-neutral route for limited live testing. The new rule-waiver policy is expected to take effect in 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-17T21:34:33+00:00",
+   "last_seen": "2026-11-17T21:34:33+00:00",
+   "summary": "Blockchain-based entrants are included in a technology-neutral route for limited live testing. The new rule-waiver policy is expected to take effect in 2027.",
+   "tags": []
+  },
+  {
+   "id": "5c33bb763b",
+   "title": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
+   "date": "2026-11-17T21:25:50+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
+     "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
+     "date": "2026-11-17T21:25:50+00:00",
+     "summary": "Speaking on the earnings call, Chairman Harvey Jones said the board has no intention of reinstating Jensen Huang as CEO."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-17T21:25:50+00:00",
+   "last_seen": "2026-11-17T21:25:50+00:00",
+   "summary": "Speaking on the earnings call, Chairman Harvey Jones said the board has no intention of reinstating Jensen Huang as CEO.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "3c451f0a00",
+   "title": "BlackRock holds 123,056 Strategy shares ahead of MSCI exit, but how much must it sell?",
+   "date": "2026-11-17T21:20:02+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "BlackRock holds 123,056 Strategy shares ahead of MSCI exit, but how much must it sell?",
+     "url": "https://cryptoslate.com/blackrock-holds-123056-strategy-shares-ahead-of-msci-exit-but-how-much-must-it-sell/",
+     "date": "2026-11-17T21:20:02+00:00",
+     "summary": "When you buy an index fund, you&#039;re paying a manager to follow a particular group of stocks. MSCI creates these indexes and sets their membership rules, while companies such as BlackRock manage the funds that follow them. MSCI is removing Strategy from several of its indexes..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-17T21:20:02+00:00",
+   "last_seen": "2026-11-17T21:20:02+00:00",
+   "summary": "When you buy an index fund, you&#039;re paying a manager to follow a particular group of stocks. MSCI creates these indexes and sets their membership rules, while companies such as BlackRock manage the funds that follow them. MSCI is removing Strategy from several of its indexes...",
+   "tags": []
+  },
   {
    "id": "6af14985ef",
    "title": "Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100",
@@ -124,6 +661,27 @@
    "last_seen": "2026-11-17T20:34:18+00:00",
    "summary": "Nvidia switched its geographic sales breakdown from customer billing addresses to headquarters in 2025. Neither measure identifies where chips ultimately operate.",
    "tags": []
+  },
+  {
+   "id": "ec2e444212",
+   "title": "Mark Yusko: Why Bitcoin Is Falling \u2014 $58k is the Key Level to Watch",
+   "date": "2026-11-17T20:30:34+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Mark Yusko: Why Bitcoin Is Falling \u2014 $58k is the Key Level to Watch",
+     "url": "https://bitcoinmagazine.com/videos/mark-yusko-why-bitcoin-is-falling-58k-is-the-key-level-to-watch",
+     "date": "2026-11-17T20:30:34+00:00",
+     "summary": "&#9654; Bitcoin Magazine Mark Yusko: Why Bitcoin Is Falling \u2014 $58k is the Key Level to Watch Mark Yusko says we are in a bad right now. This post Mark Yusko: Why Bitcoin Is Falling \u2014 $58k is the Key Level to Watch first appeared on Bitcoin Magazine and is written by Patrick..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-17T20:30:34+00:00",
+   "last_seen": "2026-11-17T20:30:34+00:00",
+   "summary": "&#9654; Bitcoin Magazine Mark Yusko: Why Bitcoin Is Falling \u2014 $58k is the Key Level to Watch Mark Yusko says we are in a bad right now. This post Mark Yusko: Why Bitcoin Is Falling \u2014 $58k is the Key Level to Watch first appeared on Bitcoin Magazine and is written by Patrick...",
+   "tags": [
+    "bitcoin"
+   ]
   },
   {
    "id": "cb33d9899a",
@@ -1131,11 +1689,18 @@
      "url": "https://bitcoinmagazine.com/news/bpi-becomes-finney-foundation-open-tech",
      "date": "2026-11-17T15:17:44+00:00",
      "summary": "Bitcoin Magazine Bitcoin Policy Institute Renames to Finney Foundation for Open Technology The Bitcoin Policy Institute said Tuesday it is now the Finney Foundation for Open Technology, a parent organization whose brief spans open-source AI, digital cash and encrypted messaging,..."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Policy Institute Rebrands as Finney Foundation for Open Technology",
+     "url": "https://bitcoinmagazine.com/videos/bitcoin-policy-institute-rebrands-as-finney-foundation-for-open-technology",
+     "date": "2026-11-17T22:45:03+00:00",
+     "summary": "&#9654; Bitcoin Magazine Bitcoin Policy Institute Rebrands as Finney Foundation for Open Technology Andrew Bailey, head of strategy at the Finney Foundation for Open Technology, joins BMTV on the day the Bitcoin Policy Institute takes that new name and expands its work from into..."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-11-17T15:17:44+00:00",
-   "last_seen": "2026-11-17T15:17:44+00:00",
+   "last_seen": "2026-11-17T22:45:03+00:00",
    "summary": "Bitcoin Magazine Bitcoin Policy Institute Renames to Finney Foundation for Open Technology The Bitcoin Policy Institute said Tuesday it is now the Finney Foundation for Open Technology, a parent organization whose brief spans open-source AI, digital cash and encrypted messaging,...",
    "tags": [
     "ai",

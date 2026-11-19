@@ -1,6 +1,863 @@
 {
- "updated": "2026-11-19T02:38:33.579286+00:00",
+ "updated": "2026-11-19T11:52:25.581952+00:00",
  "events": [
+  {
+   "id": "85d43faa68",
+   "title": "Alibaba's Cloud and Compute Revenue Growth Hits 53%",
+   "date": "2026-11-19T11:39:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Alibaba's Cloud and Compute Revenue Growth Hits 53%",
+     "url": "https://thedefiant.io/frontier/ai/alibaba-s-cloud-and-compute-revenue-growth-hits-53",
+     "date": "2026-11-19T11:39:11+00:00",
+     "summary": "Sales to external customers grew 64%, while AI-related product revenue reached $2.67 billion using Alibaba's currency conversion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T11:39:11+00:00",
+   "last_seen": "2026-11-19T11:39:11+00:00",
+   "summary": "Sales to external customers grew 64%, while AI-related product revenue reached $2.67 billion using Alibaba's currency conversion.",
+   "tags": []
+  },
+  {
+   "id": "ca412d60bd",
+   "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+   "date": "2026-11-19T11:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+     "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
+     "date": "2026-11-19T11:30:00+00:00",
+     "summary": "Blockchain investigation traced $518 million in illicit-linked activity, including the 2025 Bybit hack, through a key reserve backing DAI and USDS tokens, putting Sky's institutional finance ambitions and open design on collision course."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T11:30:00+00:00",
+   "last_seen": "2026-11-19T11:30:00+00:00",
+   "summary": "Blockchain investigation traced $518 million in illicit-linked activity, including the 2025 Bybit hack, through a key reserve backing DAI and USDS tokens, putting Sky's institutional finance ambitions and open design on collision course.",
+   "tags": [
+    "exchanges",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "c7bbf4f7be",
+   "title": "Sweden\u2019s H100 could tap Bitcoin trading pool to fund share buybacks",
+   "date": "2026-11-19T11:19:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Sweden\u2019s H100 could tap Bitcoin trading pool to fund share buybacks",
+     "url": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-19T11:19:58+00:00",
+     "summary": "Shareholders will vote Dec. 7 on whether H100 can buy back up to 10% of its shares, potentially using a Bitcoin pool that lost about 30 BTC in Q3."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T11:19:58+00:00",
+   "last_seen": "2026-11-19T11:19:58+00:00",
+   "summary": "Shareholders will vote Dec. 7 on whether H100 can buy back up to 10% of its shares, potentially using a Bitcoin pool that lost about 30 BTC in Q3.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "3f9f56f726",
+   "title": "GameStop CEO Says Digital-Only Games Have \u2018Hurt Consumers\u2019 as GTA 6 Skips Discs",
+   "date": "2026-11-19T11:15:08+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "GameStop CEO Says Digital-Only Games Have \u2018Hurt Consumers\u2019 as GTA 6 Skips Discs",
+     "url": "https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs",
+     "date": "2026-11-19T11:15:08+00:00",
+     "summary": "Ryan Cohen said publishers are cutting out trade-ins, as he backs a U.S. bill that would guarantee gamers keep access to games they buy."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T11:15:08+00:00",
+   "last_seen": "2026-11-19T11:15:08+00:00",
+   "summary": "Ryan Cohen said publishers are cutting out trade-ins, as he backs a U.S. bill that would guarantee gamers keep access to games they buy.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "fe0ed31529",
+   "title": "Anthropic\u2019s $107 billion sale set to top SpaceX\u2019s IPO as tokenized stocks gain traction",
+   "date": "2026-11-19T11:06:13+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Anthropic\u2019s $107 billion sale set to top SpaceX\u2019s IPO as tokenized stocks gain traction",
+     "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
+     "date": "2026-11-19T11:06:13+00:00",
+     "summary": "The maker of Claude priced its Nasdaq debut at $83 a share for a $1.5 trillion fully diluted valuation, with the Nasdaq 100 down 14% from record highs."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T11:06:13+00:00",
+   "last_seen": "2026-11-19T11:06:13+00:00",
+   "summary": "The maker of Claude priced its Nasdaq debut at $83 a share for a $1.5 trillion fully diluted valuation, with the Nasdaq 100 down 14% from record highs.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "db84cd7499",
+   "title": "Bitcoin faces fresh $60,000 threat as Fed minutes reveal overwhelming support for more rate hikes",
+   "date": "2026-11-19T11:00:43+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin faces fresh $60,000 threat as Fed minutes reveal overwhelming support for more rate hikes",
+     "url": "https://cryptoslate.com/bitcoin-faces-fresh-60000-threat-as-fed-minutes-reveal-overwhelming-support-for-more-rate-hikes/",
+     "date": "2026-11-19T11:00:43+00:00",
+     "summary": "Traders had already priced in a December increase, and the October minutes detailed how forced sales could amplify a severe market shock. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T11:00:43+00:00",
+   "last_seen": "2026-11-19T11:00:43+00:00",
+   "summary": "Traders had already priced in a December increase, and the October minutes detailed how forced sales could amplify a severe market shock. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "aa9b0e7546",
+   "title": "1inch integrates Hyperliquid\u2019s perpetual futures contracts into its dApp and wallet platform",
+   "date": "2026-11-19T11:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "1inch integrates Hyperliquid\u2019s perpetual futures contracts into its dApp and wallet platform",
+     "url": "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574",
+     "date": "2026-11-19T11:00:00+00:00",
+     "summary": "Users can fund a position with a token they already hold on 1inch, which will be routed to USDC and deposited to a balance on Hyperliquid."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T11:00:00+00:00",
+   "last_seen": "2026-11-19T11:00:00+00:00",
+   "summary": "Users can fund a position with a token they already hold on 1inch, which will be routed to USDC and deposited to a balance on Hyperliquid.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "a4a8ce7f88",
+   "title": "\u2018Highly advanced\u2019 quantum computers could crack financial encryption in five years",
+   "date": "2026-11-19T10:55:29+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "\u2018Highly advanced\u2019 quantum computers could crack financial encryption in five years",
+     "url": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
+     "date": "2026-11-19T10:55:29+00:00",
+     "summary": "No quantum computer can yet break widely used cryptography, but the securities watchdog says banks and blockchains face a yearslong security overhaul that many have barely begun."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T10:55:29+00:00",
+   "last_seen": "2026-11-19T10:55:29+00:00",
+   "summary": "No quantum computer can yet break widely used cryptography, but the securities watchdog says banks and blockchains face a yearslong security overhaul that many have barely begun.",
+   "tags": []
+  },
+  {
+   "id": "6e98d825d1",
+   "title": "Live updates: Bitcoin nears $64,000 as Anthropic\u2019s record IPO lifts tech",
+   "date": "2026-11-19T10:48:26+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Bitcoin nears $64,000 as Anthropic\u2019s record IPO lifts tech",
+     "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
+     "date": "2026-11-19T10:48:26+00:00",
+     "summary": "Nasdaq futures jumped nearly 2% with Anthropic shares indicated as much as 24% higher, and one analyst said IPO money could flow back into crypto."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T10:48:26+00:00",
+   "last_seen": "2026-11-19T10:48:26+00:00",
+   "summary": "Nasdaq futures jumped nearly 2% with Anthropic shares indicated as much as 24% higher, and one analyst said IPO money could flow back into crypto.",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "fbce11e9b9",
+   "title": "Ant International launches protocol for real-time settlement between tokenized deposits and money market funds",
+   "date": "2026-11-19T10:39:29+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ant International launches protocol for real-time settlement between tokenized deposits and money market funds",
+     "url": "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586",
+     "date": "2026-11-19T10:39:29+00:00",
+     "summary": "Ant launched the Whale Orchestration Protocol to enable settlement between tokenized deposits and tokenized money market funds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T10:39:29+00:00",
+   "last_seen": "2026-11-19T10:39:29+00:00",
+   "summary": "Ant launched the Whale Orchestration Protocol to enable settlement between tokenized deposits and tokenized money market funds.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "a30aaccaed",
+   "title": "AI Labs Say Their Models Are Speeding Up AI Research",
+   "date": "2026-11-19T10:34:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "AI Labs Say Their Models Are Speeding Up AI Research",
+     "url": "https://thedefiant.io/frontier/ai/ai-labs-say-their-models-are-speeding-up-ai-research",
+     "date": "2026-11-19T10:34:39+00:00",
+     "summary": "METR estimates Anthropic's benchmark progress has nearly doubled in pace. OpenAI reports higher estimated task-success rates without human intervention, with wide variation by task."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T10:34:39+00:00",
+   "last_seen": "2026-11-19T10:34:39+00:00",
+   "summary": "METR estimates Anthropic's benchmark progress has nearly doubled in pace. OpenAI reports higher estimated task-success rates without human intervention, with wide variation by task.",
+   "tags": [
+    "ai",
+    "macro"
+   ]
+  },
+  {
+   "id": "7f36168d52",
+   "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
+   "date": "2026-11-19T10:32:05+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
+     "url": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-19T10:32:05+00:00",
+     "summary": "A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T10:32:05+00:00",
+   "last_seen": "2026-11-19T10:32:05+00:00",
+   "summary": "A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "fcc94ef336",
+   "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+   "date": "2026-11-19T10:25:05+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+     "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
+     "date": "2026-11-19T10:25:05+00:00",
+     "summary": "Bitcoin is down 13% in a week as investors pull money from spot ETFs and brace for another Federal Reserve rate hike."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T10:25:05+00:00",
+   "last_seen": "2026-11-19T10:25:05+00:00",
+   "summary": "Bitcoin is down 13% in a week as investors pull money from spot ETFs and brace for another Federal Reserve rate hike.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "494ce9f53a",
+   "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
+   "date": "2026-11-19T10:22:12+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
+     "url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+     "date": "2026-11-19T10:22:12+00:00",
+     "summary": "Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized strategies."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T10:22:12+00:00",
+   "last_seen": "2026-11-19T10:22:12+00:00",
+   "summary": "Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized strategies.",
+   "tags": [
+    "etfs",
+    "solana"
+   ]
+  },
+  {
+   "id": "da0ccbb9f9",
+   "title": "Hong Kong SFC Adds Hyperliquid to Platform Alert List",
+   "date": "2026-11-19T10:09:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Hong Kong SFC Adds Hyperliquid to Platform Alert List",
+     "url": "https://thedefiant.io/news/regulation/hong-kong-sfc-adds-hyperliquid-to-platform-alert-list",
+     "date": "2026-11-19T10:09:55+00:00",
+     "summary": "The regulator names Hyperliquid's trading website and warns investors that unlicensed platforms are not under its supervision."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T10:09:55+00:00",
+   "last_seen": "2026-11-19T10:09:55+00:00",
+   "summary": "The regulator names Hyperliquid's trading website and warns investors that unlicensed platforms are not under its supervision.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "36a3d76778",
+   "title": "SKY Sinks 12%, Deepening Losses Against Bitcoin, Ether",
+   "date": "2026-11-19T09:50:53+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SKY Sinks 12%, Deepening Losses Against Bitcoin, Ether",
+     "url": "https://thedefiant.io/news/tokens/sky-sinks-12-deepening-losses-against-bitcoin-ether",
+     "date": "2026-11-19T09:50:53+00:00",
+     "summary": "SKY has lost about 38% over four weeks, compared with bitcoin's 22% decline. Sky's TVL and USDS circulating supply have also fallen further."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T09:50:53+00:00",
+   "last_seen": "2026-11-19T09:50:53+00:00",
+   "summary": "SKY has lost about 38% over four weeks, compared with bitcoin's 22% decline. Sky's TVL and USDS circulating supply have also fallen further.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "eba84fede9",
+   "title": "CoinShares unloads $19.3M in ETH and SOL, yet keeps crypto risk",
+   "date": "2026-11-19T09:40:29+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "CoinShares unloads $19.3M in ETH and SOL, yet keeps crypto risk",
+     "url": "https://cryptoslate.com/coinshares-unloads-19-3m-in-eth-and-sol-yet-keeps-crypto-risk/",
+     "date": "2026-11-19T09:40:29+00:00",
+     "summary": "October\u2019s sales freed $19.3 million for potential buybacks, while November\u2019s results show how fees, lending and trading keep earnings tied to crypto. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T09:40:29+00:00",
+   "last_seen": "2026-11-19T09:40:29+00:00",
+   "summary": "October\u2019s sales freed $19.3 million for potential buybacks, while November\u2019s results show how fees, lending and trading keep earnings tied to crypto. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "defi",
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "b0bd0bf7bf",
+   "title": "Ant Links Tokenized Deposits and Funds in Whale Pilot",
+   "date": "2026-11-19T09:12:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ant Links Tokenized Deposits and Funds in Whale Pilot",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/ant-links-tokenized-deposits-and-funds-in-whale-pilot",
+     "date": "2026-11-19T09:12:33+00:00",
+     "summary": "DBS and Franklin Templeton joined the pilot of a protocol designed to link cash payments to fund-share issuance and redemption across separate ledgers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T09:12:33+00:00",
+   "last_seen": "2026-11-19T09:12:33+00:00",
+   "summary": "DBS and Franklin Templeton joined the pilot of a protocol designed to link cash payments to fund-share issuance and redemption across separate ledgers.",
+   "tags": []
+  },
+  {
+   "id": "3e8a6b7bcb",
+   "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+   "date": "2026-11-19T08:54:58+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
+     "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-19T08:54:58+00:00",
+     "summary": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
+     "url": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
+     "date": "2026-11-19T10:39:36+00:00",
+     "summary": "The central bank aims to expand this digital settlement network and test wider collateral use in 2027."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-19T08:54:58+00:00",
+   "last_seen": "2026-11-19T10:39:36+00:00",
+   "summary": "MAS issued the bills directly on its test network, which it plans to rename SG Digital Ledger and use for settlement beyond the trials.",
+   "tags": [
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "3a7513257f",
+   "title": "Starknet Proposal Would Shift Stakers' Votes to Validators",
+   "date": "2026-11-19T08:41:21+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Starknet Proposal Would Shift Stakers' Votes to Validators",
+     "url": "https://thedefiant.io/news/blockchains/starknet-proposal-would-shift-stakers-votes-to-validators",
+     "date": "2026-11-19T08:41:21+00:00",
+     "summary": "SNIP-45 would let delegators reclaim or redirect their votes in one transaction. The governance vote is scheduled for Nov. 27 to Dec. 4."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T08:41:21+00:00",
+   "last_seen": "2026-11-19T08:41:21+00:00",
+   "summary": "SNIP-45 would let delegators reclaim or redirect their votes in one transaction. The governance vote is scheduled for Nov. 27 to Dec. 4.",
+   "tags": []
+  },
+  {
+   "id": "279c0b7d0a",
+   "title": "Citi and Circle join World Bank in tests with USDC, unlocking a massive aid shift",
+   "date": "2026-11-19T08:40:16+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Citi and Circle join World Bank in tests with USDC, unlocking a massive aid shift",
+     "url": "https://cryptoslate.com/citi-and-circle-join-world-bank-in-tests-with-usdc-unlocking-a-massive-aid-shift/",
+     "date": "2026-11-19T08:40:16+00:00",
+     "summary": "Citi would connect the proposed settlement route to existing banking networks, and Circle would provide the infrastructure to issue and settle funds in USDC. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T08:40:16+00:00",
+   "last_seen": "2026-11-19T08:40:16+00:00",
+   "summary": "Citi would connect the proposed settlement route to existing banking networks, and Circle would provide the infrastructure to issue and settle funds in USDC. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": [
+    "legal",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "ba1ba08f29",
+   "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+   "date": "2026-11-19T08:26:19+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
+     "url": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-19T08:26:19+00:00",
+     "summary": "US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T08:26:19+00:00",
+   "last_seen": "2026-11-19T08:26:19+00:00",
+   "summary": "US spot Bitcoin ETFs lost $306.4 million Wednesday, pushing their combined assets to $77.7 billion as Bitcoin briefly traded below $63,000.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "aa538d8461",
+   "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
+   "date": "2026-11-19T07:55:56+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
+     "url": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-19T07:55:56+00:00",
+     "summary": "Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T07:55:56+00:00",
+   "last_seen": "2026-11-19T07:55:56+00:00",
+   "summary": "Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share.",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "e5d47897cf",
+   "title": "HSBC Opens Tokenized Fund Subscriptions With RedCoin",
+   "date": "2026-11-19T07:31:36+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "HSBC Opens Tokenized Fund Subscriptions With RedCoin",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/hsbc-opens-tokenized-fund-subscriptions-with-redcoin",
+     "date": "2026-11-19T07:31:36+00:00",
+     "summary": "Hong Kong retail customers can invest from HK$100 through the bank\u2019s mobile app in a new share class of an existing money market fund."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T07:31:36+00:00",
+   "last_seen": "2026-11-19T07:31:36+00:00",
+   "summary": "Hong Kong retail customers can invest from HK$100 through the bank\u2019s mobile app in a new share class of an existing money market fund.",
+   "tags": []
+  },
+  {
+   "id": "841a20bd31",
+   "title": "Aave App taps $91B Tron liquidity as it opens Android early access",
+   "date": "2026-11-19T07:30:59+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Aave App taps $91B Tron liquidity as it opens Android early access",
+     "url": "https://cryptoslate.com/aave-app-taps-91b-tron-liquidity-as-it-opens-android-early-access/",
+     "date": "2026-11-19T07:30:59+00:00",
+     "summary": "Aave lists Arbitrum for stablecoin withdrawals, where a dollar-denominated claim must be redeemed before tokens reach a wallet. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T07:30:59+00:00",
+   "last_seen": "2026-11-19T07:30:59+00:00",
+   "summary": "Aave lists Arbitrum for stablecoin withdrawals, where a dollar-denominated claim must be redeemed before tokens reach a wallet. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "6d838262c2",
+   "title": "Fed's rate hike push may be a mistake. Here's why",
+   "date": "2026-11-19T06:23:19+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Fed's rate hike push may be a mistake. Here's why",
+     "url": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
+     "date": "2026-11-19T06:23:19+00:00",
+     "summary": "Experts argue that the Fed is looking at the wrong data as it pushes for more interest-rate hikes, with falling gasoline and energy prices suggesting inflation pressures are already easing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T06:23:19+00:00",
+   "last_seen": "2026-11-19T06:23:19+00:00",
+   "summary": "Experts argue that the Fed is looking at the wrong data as it pushes for more interest-rate hikes, with falling gasoline and energy prices suggesting inflation pressures are already easing.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "3ec578aa86",
+   "title": "COTI Sets Year-End Shutdown for DJED and SHEN Services",
+   "date": "2026-11-19T06:12:24+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "COTI Sets Year-End Shutdown for DJED and SHEN Services",
+     "url": "https://thedefiant.io/news/defi/coti-sets-year-end-shutdown-for-djed-and-shen-services",
+     "date": "2026-11-19T06:12:24+00:00",
+     "summary": "COTI urged holders to act by the Dec. 31 cutoff and withdraw any tokens deposited in DeFi first. About 1 million DJED remain in circulation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T06:12:24+00:00",
+   "last_seen": "2026-11-19T06:12:24+00:00",
+   "summary": "COTI urged holders to act by the Dec. 31 cutoff and withdraw any tokens deposited in DeFi first. About 1 million DJED remain in circulation.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "b09b4203d2",
+   "title": "Invesco moves stablecoin reserves on-chain, but hides a liquidity gap",
+   "date": "2026-11-19T06:10:14+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Invesco moves stablecoin reserves on-chain, but hides a liquidity gap",
+     "url": "https://cryptoslate.com/invesco-moves-stablecoin-reserves-on-chain-but-hides-a-liquidity-gap/",
+     "date": "2026-11-19T06:10:14+00:00",
+     "summary": "Superstate normally sends dollars the same fund business day for valid pre-cutoff requests, while a third party handles USDC delivery. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T06:10:14+00:00",
+   "last_seen": "2026-11-19T06:10:14+00:00",
+   "summary": "Superstate normally sends dollars the same fund business day for valid pre-cutoff requests, while a third party handles USDC delivery. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "e2c9b38400",
+   "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+   "date": "2026-11-19T06:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
+     "url": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-19T06:00:00+00:00",
+     "summary": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026."
+    },
+    {
+     "source": "The Block",
+     "title": "Sygnum sees bitcoin carry trades beating Treasury bills in 2027 as funding recovers",
+     "url": "https://www.theblock.co/news/markets/2026-11-19-sygnum-bitcoin-carry-trades-beating-treasury-bills-2027-443547",
+     "date": "2026-11-19T06:00:00+00:00",
+     "summary": "Bitcoin funding stayed negative for 67 consecutive days into May before recovering to about 8% annualized by the end of October."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-19T06:00:00+00:00",
+   "last_seen": "2026-11-19T06:00:00+00:00",
+   "summary": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026.",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "57f9a824a4",
+   "title": "Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a \u2018value zone\u2019, and more",
+   "date": "2026-11-19T06:00:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Binance gets $6.5 billion freezing order, CryptoQuant says bitcoin is in a \u2018value zone\u2019, and more",
+     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-19-binance-gets-6-5-billion-freezing-order-cryptoquant-says-bitcoin-is-in-a-value-zone-and-more-443511",
+     "date": "2026-11-19T06:00:00+00:00",
+     "summary": "In today's newsletter, Binance obtains $6.5 billion freezing order from Abu Dhabi court; CryptoQuant says bitcoin is back in a bearish phase but has entered a 'value zone'; and more."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T06:00:00+00:00",
+   "last_seen": "2026-11-19T06:00:00+00:00",
+   "summary": "In today's newsletter, Binance obtains $6.5 billion freezing order from Abu Dhabi court; CryptoQuant says bitcoin is back in a bearish phase but has entered a 'value zone'; and more.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "legal"
+   ]
+  },
+  {
+   "id": "90654bcc66",
+   "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+   "date": "2026-11-19T05:39:06+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+     "url": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+     "date": "2026-11-19T05:39:06+00:00",
+     "summary": "An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T05:39:06+00:00",
+   "last_seen": "2026-11-19T05:39:06+00:00",
+   "summary": "An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first.",
+   "tags": [
+    "ethereum",
+    "security"
+   ]
+  },
+  {
+   "id": "82ddd7a437",
+   "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+   "date": "2026-11-19T05:27:45+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+     "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-19T05:27:45+00:00",
+     "summary": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T05:27:45+00:00",
+   "last_seen": "2026-11-19T05:27:45+00:00",
+   "summary": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028.",
+   "tags": [
+    "macro",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "e83672aeca",
+   "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
+   "date": "2026-11-19T05:09:45+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
+     "url": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-19T05:09:45+00:00",
+     "summary": "Stablecoins accounted for at least $3.46 billion of the $6.3 billion stolen, while the hackers also took memecoins, tokenized gold and gaming tokens."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T05:09:45+00:00",
+   "last_seen": "2026-11-19T05:09:45+00:00",
+   "summary": "Stablecoins accounted for at least $3.46 billion of the $6.3 billion stolen, while the hackers also took memecoins, tokenized gold and gaming tokens.",
+   "tags": [
+    "exchanges",
+    "legal",
+    "security"
+   ]
+  },
+  {
+   "id": "4ae0113b04",
+   "title": "MAS Issues S$100 Million in Tokenized Bills With CBDC",
+   "date": "2026-11-19T05:01:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "MAS Issues S$100 Million in Tokenized Bills With CBDC",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/mas-issues-s-100-million-in-tokenized-bills-with-cbdc",
+     "date": "2026-11-19T05:01:55+00:00",
+     "summary": "The live auction drew applications for more than twice the issuance size. MAS plans to scale up issuance and broaden use of the bills as collateral."
+    },
+    {
+     "source": "The Block",
+     "title": "Singapore\u2019s MAS issues $77 million in tokenized bills settled via CBDC",
+     "url": "https://www.theblock.co/news/web3/2026-11-19-singapores-mas-tokenized-bills-443562",
+     "date": "2026-11-19T08:25:35+00:00",
+     "summary": "The central bank said the bills were issued natively on its Singapore Dollar Test Network and settled in wholesale CBDC."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-19T05:01:55+00:00",
+   "last_seen": "2026-11-19T08:25:35+00:00",
+   "summary": "The live auction drew applications for more than twice the issuance size. MAS plans to scale up issuance and broaden use of the bills as collateral.",
+   "tags": []
+  },
+  {
+   "id": "fd8ec2e468",
+   "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
+   "date": "2026-11-19T04:46:10+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
+     "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
+     "date": "2026-11-19T04:46:10+00:00",
+     "summary": "Hyperscale Data needs another $74.8 million to complete its Michigan data center project, even after selling its remaining bitcoin and raising fresh debt."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T04:46:10+00:00",
+   "last_seen": "2026-11-19T04:46:10+00:00",
+   "summary": "Hyperscale Data needs another $74.8 million to complete its Michigan data center project, even after selling its remaining bitcoin and raising fresh debt.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b5ff849296",
+   "title": "Binance unlocks 20x BlackRock IBIT ETF trades with a weekend catch",
+   "date": "2026-11-19T04:20:21+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance unlocks 20x BlackRock IBIT ETF trades with a weekend catch",
+     "url": "https://cryptoslate.com/binance-adds-24-7-futures-tied-to-blackrocks-bitcoin-ibit-etf/",
+     "date": "2026-11-19T04:20:21+00:00",
+     "summary": "The USDT-settled perpetual gives eligible traders exposure to IBIT while Nasdaq is closed. Binance\u2019s mark price can still trigger liquidation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T04:20:21+00:00",
+   "last_seen": "2026-11-19T04:20:21+00:00",
+   "summary": "The USDT-settled perpetual gives eligible traders exposure to IBIT while Nasdaq is closed. Binance\u2019s mark price can still trigger liquidation. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "etfs",
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "b0d4306c4e",
+   "title": "Ledger expands hardware hack investigation to Germany, UAE as new cases emerge",
+   "date": "2026-11-19T04:13:18+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ledger expands hardware hack investigation to Germany, UAE as new cases emerge",
+     "url": "https://www.theblock.co/news/web3/2026-11-18-ledger-new-hardware-incidents-germany-uae-443530",
+     "date": "2026-11-19T04:13:18+00:00",
+     "summary": "The company confirmed that the new cases share the same kind of physical modification as tampered devices found across Southeast Asia."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T04:13:18+00:00",
+   "last_seen": "2026-11-19T04:13:18+00:00",
+   "summary": "The company confirmed that the new cases share the same kind of physical modification as tampered devices found across Southeast Asia.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "9e948034a5",
+   "title": "TradeXYZ to Halt Oura Pre-IPO Perpetual on Dec. 1",
+   "date": "2026-11-19T03:27:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "TradeXYZ to Halt Oura Pre-IPO Perpetual on Dec. 1",
+     "url": "https://thedefiant.io/news/defi/tradexyz-to-halt-oura-pre-ipo-perpetual-on-dec-1",
+     "date": "2026-11-19T03:27:07+00:00",
+     "summary": "Positions left open will settle at a time-weighted average price from market launch through the halt, rather than at the final traded price."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T03:27:07+00:00",
+   "last_seen": "2026-11-19T03:27:07+00:00",
+   "summary": "Positions left open will settle at a time-weighted average price from market launch through the halt, rather than at the final traded price.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "fe421d9a34",
+   "title": "Why The $1T AI Credit Complex Could be Bitcoin\u2019s Next Catalyst | Jeff Walton",
+   "date": "2026-11-19T02:46:08+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Why The $1T AI Credit Complex Could be Bitcoin\u2019s Next Catalyst | Jeff Walton",
+     "url": "https://bitcoinmagazine.com/videos/why-the-1t-ai-credit-complex-could-be-bitcoins-next-catalyst-jeff-walton",
+     "date": "2026-11-19T02:46:08+00:00",
+     "summary": "&#9654; Bitcoin Magazine Why The $1T AI Credit Complex Could be Bitcoin\u2019s Next Catalyst | Jeff Walton Jeff Walton, Chief Risk Officer at Strive, joins BMTV as Anthropic's IPO nears its first day of trading. This post Why The $1T AI Credit Complex Could be Bitcoin\u2019s Next Catalyst..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T02:46:08+00:00",
+   "last_seen": "2026-11-19T02:46:08+00:00",
+   "summary": "&#9654; Bitcoin Magazine Why The $1T AI Credit Complex Could be Bitcoin\u2019s Next Catalyst | Jeff Walton Jeff Walton, Chief Risk Officer at Strive, joins BMTV as Anthropic's IPO nears its first day of trading. This post Why The $1T AI Credit Complex Could be Bitcoin\u2019s Next Catalyst...",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "funding"
+   ]
+  },
   {
    "id": "3249ad751f",
    "title": "BNB Chain Sets Jenner Date; Post Flags Timestamp Risk",
@@ -383,11 +1240,18 @@
      "url": "https://thedefiant.io/news/cefi/kraken-parent-payward-agrees-to-acquire-tribe-capital",
      "date": "2026-11-18T23:25:15+00:00",
      "summary": "The venture firm, chaired by Payward and Kraken co-CEO Arjun Sethi, manages $2.7 billion, Payward says. Closing is expected in early 2027."
+    },
+    {
+     "source": "The Block",
+     "title": "Kraken parent Payward to acquire Tribe Capital to expand private-market offerings",
+     "url": "https://www.theblock.co/news/business/2026-11-18-kraken-parent-payward-tribe-capital-443522",
+     "date": "2026-11-19T03:18:53+00:00",
+     "summary": "The deal will add private-market sourcing, underwriting, and fund management capabilities to Payward's platform."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-18T23:25:15+00:00",
-   "last_seen": "2026-11-18T23:25:15+00:00",
+   "last_seen": "2026-11-19T03:18:53+00:00",
    "summary": "The venture firm, chaired by Payward and Kraken co-CEO Arjun Sethi, manages $2.7 billion, Payward says. Closing is expected in early 2027.",
    "tags": [
     "exchanges"
@@ -1110,13 +1974,21 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/cz-says-anthropic-stock-tokens-will-reach-bnb-chain-on-ipo-day",
      "date": "2026-11-18T22:13:38+00:00",
      "summary": "CZ named bStocks, Ondo and xStocks as routes to IPO-day exposure. Their products track shares but do not give holders direct equity ownership."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
+     "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
+     "date": "2026-11-19T03:40:48+00:00",
+     "summary": "Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant\u2019s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with notable fine print."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-18T22:13:38+00:00",
-   "last_seen": "2026-11-18T22:13:38+00:00",
-   "summary": "CZ named bStocks, Ondo and xStocks as routes to IPO-day exposure. Their products track shares but do not give holders direct equity ownership.",
+   "last_seen": "2026-11-19T03:40:48+00:00",
+   "summary": "Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant\u2019s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with notable fine print.",
    "tags": [
+    "ai",
     "funding"
    ]
   },
@@ -1339,11 +2211,18 @@
      "url": "https://thedefiant.io/news/security/btcpay-server-urges-emergency-update-for-nginx-flaws",
      "date": "2026-11-18T20:42:57+00:00",
      "summary": "The fix updates the web-server dependency, not BTCPay's own version number. Docker operators should verify that their nginx container runs 1.31.9."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "BTCPay Server issues emergency update for 5 security flaws",
+     "url": "https://cointelegraph.com/news/btcpay-server-emergency-update-nginx-security-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-19T08:04:37+00:00",
+     "summary": "The EU\u2019s cybersecurity service said the flaws could let attackers to run malicious code remotely on vulnerable servers without logging in."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-18T20:42:57+00:00",
-   "last_seen": "2026-11-18T20:42:57+00:00",
+   "last_seen": "2026-11-19T08:04:37+00:00",
    "summary": "The fix updates the web-server dependency, not BTCPay's own version number. Docker operators should verify that their nginx container runs 1.31.9.",
    "tags": []
   },
@@ -2954,11 +3833,18 @@
      "url": "https://thedefiant.io/news/hacks/binance-hack-wallet-moves-another-142-million-in-eth",
      "date": "2026-11-18T10:31:54+00:00",
      "summary": "Seven transfers redistributed the ether as records confirmed bitcoin swaps by a separate wallet linked to the previous day\u2019s transfers."
+    },
+    {
+     "source": "The Defiant",
+     "title": "Binance Hack Wallet Moves Another $248 Million in ETH",
+     "url": "https://thedefiant.io/news/hacks/binance-hack-wallet-moves-another-248-million-in-eth",
+     "date": "2026-11-19T07:37:45+00:00",
+     "summary": "Twelve transfers made up the largest of three daily batches, but the transactions were wallet-to-wallet movements, not bitcoin swaps."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-11-18T10:31:54+00:00",
-   "last_seen": "2026-11-18T10:31:54+00:00",
+   "last_seen": "2026-11-19T07:37:45+00:00",
    "summary": "Seven transfers redistributed the ether as records confirmed bitcoin swaps by a separate wallet linked to the previous day\u2019s transfers.",
    "tags": [
     "bitcoin",

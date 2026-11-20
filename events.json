@@ -1,6 +1,474 @@
 {
- "updated": "2026-11-19T20:46:40.829901+00:00",
+ "updated": "2026-11-20T02:23:40.106578+00:00",
  "events": [
+  {
+   "id": "aa8778f50c",
+   "title": "Bitcoin Sets New Selloff Low of $61,220 on Coinbase",
+   "date": "2026-11-20T02:23:20+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Sets New Selloff Low of $61,220 on Coinbase",
+     "url": "https://thedefiant.io/news/markets/bitcoin-sets-new-selloff-low-of-61-220-on-coinbase",
+     "date": "2026-11-20T02:23:20+00:00",
+     "summary": "Its roughly four-week loss reached 24.6% on CoinGecko, while 38 of 40 tokens in a selected watchlist fell over 24 hours."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T02:23:20+00:00",
+   "last_seen": "2026-11-20T02:23:20+00:00",
+   "summary": "Its roughly four-week loss reached 24.6% on CoinGecko, while 38 of 40 tokens in a selected watchlist fell over 24 hours.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "e1015ec039",
+   "title": "Coinbase Plans In-House US Prediction Markets: Bloomberg",
+   "date": "2026-11-20T02:15:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coinbase Plans In-House US Prediction Markets: Bloomberg",
+     "url": "https://thedefiant.io/news/cefi/coinbase-plans-in-house-us-prediction-markets-bloomberg",
+     "date": "2026-11-20T02:15:05+00:00",
+     "summary": "Kalshi currently operates the markets Coinbase offers. Bloomberg says the planned in-house contracts would serve retail and institutional customers, targeting the first half of 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T02:15:05+00:00",
+   "last_seen": "2026-11-20T02:15:05+00:00",
+   "summary": "Kalshi currently operates the markets Coinbase offers. Bloomberg says the planned in-house contracts would serve retail and institutional customers, targeting the first half of 2027.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "1231f97c72",
+   "title": "SoftBank Sinks 16.6% Intraday as Asian Markets Slide",
+   "date": "2026-11-20T01:22:25+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SoftBank Sinks 16.6% Intraday as Asian Markets Slide",
+     "url": "https://thedefiant.io/frontier/markets/softbank-sinks-16-6-intraday-as-asian-markets-slide",
+     "date": "2026-11-20T01:22:25+00:00",
+     "summary": "The OpenAI backer pared its loss to about 15% in early Tokyo trading, while the Nikkei 225 and Kospi fell more than 4%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T01:22:25+00:00",
+   "last_seen": "2026-11-20T01:22:25+00:00",
+   "summary": "The OpenAI backer pared its loss to about 15% in early Tokyo trading, while the Nikkei 225 and Kospi fell more than 4%.",
+   "tags": []
+  },
+  {
+   "id": "4acd4a60b2",
+   "title": "Ledger\u2019s crypto wallet implant scare spreads to Berlin as Dubai cases come under investigation",
+   "date": "2026-11-20T00:40:28+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ledger\u2019s crypto wallet implant scare spreads to Berlin as Dubai cases come under investigation",
+     "url": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-spreads-to-berlin-as-dubai-cases-come-under-investigation/",
+     "date": "2026-11-20T00:40:28+00:00",
+     "summary": "The wallet maker is offering limited-time factory inspections and advises owners who already used a suspect device to move funds to a new wallet. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T00:40:28+00:00",
+   "last_seen": "2026-11-20T00:40:28+00:00",
+   "summary": "The wallet maker is offering limited-time factory inspections and advises owners who already used a suspect device to move funds to a new wallet. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "4921c5781d",
+   "title": "Solana Resumes Upgrades With Direct-Mapping Warning",
+   "date": "2026-11-19T23:48:10+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Solana Resumes Upgrades With Direct-Mapping Warning",
+     "url": "https://thedefiant.io/news/blockchains/solana-resumes-upgrades-with-direct-mapping-warning",
+     "date": "2026-11-19T23:48:10+00:00",
+     "summary": "Direct mapping remains pending on mainnet without a firm activation date. Associated memory rules can break unsafe account access and some older Anchor patterns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T23:48:10+00:00",
+   "last_seen": "2026-11-19T23:48:10+00:00",
+   "summary": "Direct mapping remains pending on mainnet without a firm activation date. Associated memory rules can break unsafe account access and some older Anchor patterns.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "e987529b49",
+   "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+   "date": "2026-11-19T23:44:02+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+     "url": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-19T23:44:02+00:00",
+     "summary": "Guillemet helped establish Ledger\u2019s Donjon security lab and says his departure has been planned for months."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T23:44:02+00:00",
+   "last_seen": "2026-11-19T23:44:02+00:00",
+   "summary": "Guillemet helped establish Ledger\u2019s Donjon security lab and says his departure has been planned for months.",
+   "tags": []
+  },
+  {
+   "id": "82d74b31c2",
+   "title": "A Bitcoin trade that doesn\u2019t need prices to rise could beat Treasury bills in 2027",
+   "date": "2026-11-19T23:10:33+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "A Bitcoin trade that doesn\u2019t need prices to rise could beat Treasury bills in 2027",
+     "url": "https://cryptoslate.com/a-bitcoin-trade-that-doesnt-need-prices-to-rise-could-beat-treasury-bills-in-2027/",
+     "date": "2026-11-19T23:10:33+00:00",
+     "summary": "The bank expects renewed demand for leverage to lift Bitcoin carry after 67 consecutive days of negative funding in 2026. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T23:10:33+00:00",
+   "last_seen": "2026-11-19T23:10:33+00:00",
+   "summary": "The bank expects renewed demand for leverage to lift Bitcoin carry after 67 consecutive days of negative funding in 2026. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "macro"
+   ]
+  },
+  {
+   "id": "702f088d9e",
+   "title": "Backpack Targets 10,000 Stocks With Solana Routing Plan",
+   "date": "2026-11-19T22:44:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Backpack Targets 10,000 Stocks With Solana Routing Plan",
+     "url": "https://thedefiant.io/news/tokens/backpack-targets-10-000-stocks-with-solana-routing-plan",
+     "date": "2026-11-19T22:44:05+00:00",
+     "summary": "Ferrante outlined a system to route wallet orders to stock-market liquidity. Board member Kyle Samani said the expansion would arrive in the next few weeks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T22:44:05+00:00",
+   "last_seen": "2026-11-19T22:44:05+00:00",
+   "summary": "Ferrante outlined a system to route wallet orders to stock-market liquidity. Board member Kyle Samani said the expansion would arrive in the next few weeks.",
+   "tags": [
+    "defi",
+    "solana"
+   ]
+  },
+  {
+   "id": "701b41ac77",
+   "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue\u2014Even After a Hack",
+   "date": "2026-11-19T22:36:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue\u2014Even After a Hack",
+     "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
+     "date": "2026-11-19T22:36:02+00:00",
+     "summary": "Citibank\u2019s updated terms put customers on the hook for outside AI agents, including leaked logins."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T22:36:02+00:00",
+   "last_seen": "2026-11-19T22:36:02+00:00",
+   "summary": "Citibank\u2019s updated terms put customers on the hook for outside AI agents, including leaked logins.",
+   "tags": [
+    "ai",
+    "security"
+   ]
+  },
+  {
+   "id": "f8778c1b08",
+   "title": "Binance\u2019s $6.5B freeze order, Hong Kong \u2018suspicious\u2019 of HYPE: Asia Express",
+   "date": "2026-11-19T22:25:18+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance\u2019s $6.5B freeze order, Hong Kong \u2018suspicious\u2019 of HYPE: Asia Express",
+     "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-19T22:25:18+00:00",
+     "summary": "Binance obtains court orders freezing assets stolen in October\u2019s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T22:25:18+00:00",
+   "last_seen": "2026-11-19T22:25:18+00:00",
+   "summary": "Binance obtains court orders freezing assets stolen in October\u2019s hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam.",
+   "tags": [
+    "exchanges",
+    "legal",
+    "security"
+   ]
+  },
+  {
+   "id": "2560dfd0fc",
+   "title": "Inside Bukele\u2019s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador\u2019s Future",
+   "date": "2026-11-19T22:20:01+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Inside Bukele\u2019s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador\u2019s Future",
+     "url": "https://bitcoinmagazine.com/news/inside-bukeles-casa-presidencial-dinner-bitcoiners-discuss-energy-immigration-and-el-salvadors-future",
+     "date": "2026-11-19T22:20:01+00:00",
+     "summary": "Bitcoin Magazine Inside Bukele\u2019s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador\u2019s Future On November 10, 2026, President Nayib Bukele hosted roughly 30 Bitcoiners at Casa Presidencial during Bitcoin Hist\u00f3rico. Guests included Ricardo Salinas..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T22:20:01+00:00",
+   "last_seen": "2026-11-19T22:20:01+00:00",
+   "summary": "Bitcoin Magazine Inside Bukele\u2019s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador\u2019s Future On November 10, 2026, President Nayib Bukele hosted roughly 30 Bitcoiners at Casa Presidencial during Bitcoin Hist\u00f3rico. Guests included Ricardo Salinas...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "3640d3064d",
+   "title": "Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides",
+   "date": "2026-11-19T21:53:36+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides",
+     "url": "https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000",
+     "date": "2026-11-19T21:53:36+00:00",
+     "summary": "Bitcoin Magazine Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides Strategy shares fell 4.6% to $86.13 on Thursday, their sixth straight decline, as bitcoin dipped below $62,000. The company's 850,849 BTC are now worth about $11 billion less than it..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T21:53:36+00:00",
+   "last_seen": "2026-11-19T21:53:36+00:00",
+   "summary": "Bitcoin Magazine Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides Strategy shares fell 4.6% to $86.13 on Thursday, their sixth straight decline, as bitcoin dipped below $62,000. The company's 850,849 BTC are now worth about $11 billion less than it...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "ac1de56519",
+   "title": "California says OpenAI lost control of AI agents 80 times while chasing profits",
+   "date": "2026-11-19T21:50:44+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "California says OpenAI lost control of AI agents 80 times while chasing profits",
+     "url": "https://cryptoslate.com/california-says-openai-lost-control-of-ai-agents-80-times-while-chasing-profits/",
+     "date": "2026-11-19T21:50:44+00:00",
+     "summary": "The state\u2019s lawsuit seeks to end an alleged public nuisance tied to internal AI testing and also asks for civil penalties. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T21:50:44+00:00",
+   "last_seen": "2026-11-19T21:50:44+00:00",
+   "summary": "The state\u2019s lawsuit seeks to end an alleged public nuisance tied to internal AI testing and also asks for civil penalties. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai",
+    "legal"
+   ]
+  },
+  {
+   "id": "a14c3e7160",
+   "title": "SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam",
+   "date": "2026-11-19T21:45:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam",
+     "url": "https://bitcoinmagazine.com/news/sec-charges-eight-colorado-firms-scam",
+     "date": "2026-11-19T21:45:00+00:00",
+     "summary": "Bitcoin Magazine SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam The SEC charged eight Colorado-based entities, likely run from overseas, with taking more than $37 million from U.S. investors through fake advisers, fake crypto trading platforms and fake..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T21:45:00+00:00",
+   "last_seen": "2026-11-19T21:45:00+00:00",
+   "summary": "Bitcoin Magazine SEC Charges Eight Colorado Firms in $37 Million Fake Crypto Platform Scam The SEC charged eight Colorado-based entities, likely run from overseas, with taking more than $37 million from U.S. investors through fake advisers, fake crypto trading platforms and fake...",
+   "tags": [
+    "bitcoin",
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "fab15bc70a",
+   "title": "David Lawant: Seeing \u201cVery Strong Inflow\u201d for Bitcoin at $60k",
+   "date": "2026-11-19T21:30:13+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "David Lawant: Seeing \u201cVery Strong Inflow\u201d for Bitcoin at $60k",
+     "url": "https://bitcoinmagazine.com/videos/david-lawant-seeing-very-strong-inflow-for-bitcoin-at-60k",
+     "date": "2026-11-19T21:30:13+00:00",
+     "summary": "&#9654; Bitcoin Magazine David Lawant: Seeing \u201cVery Strong Inflow\u201d for Bitcoin at $60k David Lawant, Head of Research at Anchorage Digital, joins BMTV to break down what's really driving Bitcoin's sell-off and who's doing the selling. This post David Lawant: Seeing \u201cVery Strong..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T21:30:13+00:00",
+   "last_seen": "2026-11-19T21:30:13+00:00",
+   "summary": "&#9654; Bitcoin Magazine David Lawant: Seeing \u201cVery Strong Inflow\u201d for Bitcoin at $60k David Lawant, Head of Research at Anchorage Digital, joins BMTV to break down what's really driving Bitcoin's sell-off and who's doing the selling. This post David Lawant: Seeing \u201cVery Strong...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "28224b7806",
+   "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
+   "date": "2026-11-19T21:12:06+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
+     "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
+     "date": "2026-11-19T21:12:06+00:00",
+     "summary": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T21:12:06+00:00",
+   "last_seen": "2026-11-19T21:12:06+00:00",
+   "summary": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street.",
+   "tags": [
+    "ai",
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "5b8d07dcee",
+   "title": "Wallet Tied to Rune Christensen Owes Half of Sky's Fully Borrowed Lending Pool",
+   "date": "2026-11-19T21:09:53+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Wallet Tied to Rune Christensen Owes Half of Sky's Fully Borrowed Lending Pool",
+     "url": "https://thedefiant.io/news/defi/rune-christensen-wallet-owes-half-sky-stusds-pool-debt",
+     "date": "2026-11-19T21:09:53+00:00",
+     "summary": "Liquidations for the collateral type are switched off, and the 2.5-cent price cap that governs those loans was proposed by Christensen in a forum post last year"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T21:09:53+00:00",
+   "last_seen": "2026-11-19T21:09:53+00:00",
+   "summary": "Liquidations for the collateral type are switched off, and the 2.5-cent price cap that governs those loans was proposed by Christensen in a forum post last year",
+   "tags": [
+    "defi",
+    "markets"
+   ]
+  },
+  {
+   "id": "d1beb9ee5c",
+   "title": "Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month",
+   "date": "2026-11-19T21:02:20+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slumps-under-62000",
+     "date": "2026-11-19T21:02:20+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month The bitcoin price slumped under $62,000 on Thursday, down about 24% in one month, as Anthropic's Nasdaq debut set off a tech selloff that hit crypto stocks. This post Bitcoin Price Slumps Under..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T21:02:20+00:00",
+   "last_seen": "2026-11-19T21:02:20+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month The bitcoin price slumped under $62,000 on Thursday, down about 24% in one month, as Anthropic's Nasdaq debut set off a tech selloff that hit crypto stocks. This post Bitcoin Price Slumps Under...",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "d2724935fe",
+   "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+   "date": "2026-11-19T21:01:42+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+     "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-19T21:01:42+00:00",
+     "summary": "MoonPay\u2019s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and digital asset custody under federal oversight."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T21:01:42+00:00",
+   "last_seen": "2026-11-19T21:01:42+00:00",
+   "summary": "MoonPay\u2019s proposed national trust bank would offer stablecoin issuance and redemption, reserve management and digital asset custody under federal oversight.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "6e851c8030",
+   "title": "Mast Says US Cleared 879,868 AI Chips for Chinese Firms",
+   "date": "2026-11-19T20:57:46+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Mast Says US Cleared 879,868 AI Chips for Chinese Firms",
+     "url": "https://thedefiant.io/frontier/ai/mast-says-us-cleared-879-868-ai-chips-for-chinese-firms",
+     "date": "2026-11-19T20:57:46+00:00",
+     "summary": "The May snapshot covers Nvidia H200 and AMD MI325X chips across 21 applications, all listed as approved but not shipped."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T20:57:46+00:00",
+   "last_seen": "2026-11-19T20:57:46+00:00",
+   "summary": "The May snapshot covers Nvidia H200 and AMD MI325X chips across 21 applications, all listed as approved but not shipped.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "5b109e3a37",
+   "title": "Nvidia Erases Earnings Bounce, Down About $632B Since Nov. 11",
+   "date": "2026-11-19T20:53:06+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Nvidia Erases Earnings Bounce, Down About $632B Since Nov. 11",
+     "url": "https://thedefiant.io/frontier/markets/nvidia-erases-earnings-bounce-down-about-632b-since-nov-11",
+     "date": "2026-11-19T20:53:06+00:00",
+     "summary": "Shares were about 5% below their pre-earnings close Thursday afternoon, extending a decline that outpaced both semiconductor stocks and the Nasdaq 100."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T20:53:06+00:00",
+   "last_seen": "2026-11-19T20:53:06+00:00",
+   "summary": "Shares were about 5% below their pre-earnings close Thursday afternoon, extending a decline that outpaced both semiconductor stocks and the Nasdaq 100.",
+   "tags": []
+  },
+  {
+   "id": "645ba47b3b",
+   "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
+   "date": "2026-11-19T20:46:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
+     "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
+     "date": "2026-11-19T20:46:02+00:00",
+     "summary": "A new post-quantum signature proposal aims to secure Bitcoin\u2019s future, but balancing user safety and efficiency comes with hurdles."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T20:46:02+00:00",
+   "last_seen": "2026-11-19T20:46:02+00:00",
+   "summary": "A new post-quantum signature proposal aims to secure Bitcoin\u2019s future, but balancing user safety and efficiency comes with hurdles.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
   {
    "id": "5eda73d008",
    "title": "Bitcoin Falls Below $62,000 to Its Lowest Since July on Coinbase",
@@ -104,6 +572,28 @@
    "last_seen": "2026-11-19T20:15:32+00:00",
    "summary": "A ransomware group breached third-party vendors, not the companies\u2019 own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset.",
    "tags": []
+  },
+  {
+   "id": "e43c2c2a12",
+   "title": "Darius Dale: 2027 Should Be a \u201cGreat Year for Bitcoin\u201d as Fed Rate Cuts Come",
+   "date": "2026-11-19T20:15:14+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Darius Dale: 2027 Should Be a \u201cGreat Year for Bitcoin\u201d as Fed Rate Cuts Come",
+     "url": "https://bitcoinmagazine.com/videos/darius-dale-2027-should-be-a-great-year-for-bitcoin-as-fed-rate-cuts-come",
+     "date": "2026-11-19T20:15:14+00:00",
+     "summary": "&#9654; Bitcoin Magazine Darius Dale: 2027 Should Be a \u201cGreat Year for Bitcoin\u201d as Fed Rate Cuts Come Darius Dale, Founder &#38; CEO of 42 Macro, joins BMTV to answer whether the Fed is making a policy mistake with a December rate hike priced in. This post Darius Dale: 2027..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-19T20:15:14+00:00",
+   "last_seen": "2026-11-19T20:15:14+00:00",
+   "summary": "&#9654; Bitcoin Magazine Darius Dale: 2027 Should Be a \u201cGreat Year for Bitcoin\u201d as Fed Rate Cuts Come Darius Dale, Founder &#38; CEO of 42 Macro, joins BMTV to answer whether the Fed is making a policy mistake with a December rate hike priced in. This post Darius Dale: 2027...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
   },
   {
    "id": "10b5b23282",

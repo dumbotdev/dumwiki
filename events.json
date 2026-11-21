@@ -1,6 +1,407 @@
 {
- "updated": "2026-11-20T20:30:24.197852+00:00",
+ "updated": "2026-11-21T02:27:27.739557+00:00",
  "events": [
+  {
+   "id": "ad62922b3a",
+   "title": "PancakeSwap Volume Rebounds 34% to $991 Million",
+   "date": "2026-11-21T01:53:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "PancakeSwap Volume Rebounds 34% to $991 Million",
+     "url": "https://thedefiant.io/news/defi/pancakeswap-volume-rebounds-34-to-991-million",
+     "date": "2026-11-21T01:53:16+00:00",
+     "summary": "BNB Chain accounted for $828 million of daily trading, while PancakeSwap\u2019s weekly growth trailed Uniswap, Curve and Raydium."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T01:53:16+00:00",
+   "last_seen": "2026-11-21T01:53:16+00:00",
+   "summary": "BNB Chain accounted for $828 million of daily trading, while PancakeSwap\u2019s weekly growth trailed Uniswap, Curve and Raydium.",
+   "tags": []
+  },
+  {
+   "id": "32c933c348",
+   "title": "Sky Buybacks and Rewards Exceed Revenue in Llama Data",
+   "date": "2026-11-21T01:34:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Sky Buybacks and Rewards Exceed Revenue in Llama Data",
+     "url": "https://thedefiant.io/news/defi/sky-buybacks-and-rewards-exceed-revenue-in-llama-data",
+     "date": "2026-11-21T01:34:11+00:00",
+     "summary": "DefiLlama measured about $440,000 in revenue after estimated savings costs on Nov. 20, below its $827,000 valuation of buybacks and staking rewards."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T01:34:11+00:00",
+   "last_seen": "2026-11-21T01:34:11+00:00",
+   "summary": "DefiLlama measured about $440,000 in revenue after estimated savings costs on Nov. 20, below its $827,000 valuation of buybacks and staking rewards.",
+   "tags": [
+    "defi",
+    "funding"
+   ]
+  },
+  {
+   "id": "18bb2c62bb",
+   "title": "DBS is building two paths for 24/7 dollars with JPMorgan and Circle using USDC",
+   "date": "2026-11-21T00:50:53+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "DBS is building two paths for 24/7 dollars with JPMorgan and Circle using USDC",
+     "url": "https://cryptoslate.com/dbs-is-building-two-paths-for-24-7-dollars-with-jpmorgan-and-circle-using-usdc/",
+     "date": "2026-11-21T00:50:53+00:00",
+     "summary": "The partners say eligible clients in Asia would be able to redeem USDC through DBS with near-instant, round-the-clock settlement. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T00:50:53+00:00",
+   "last_seen": "2026-11-21T00:50:53+00:00",
+   "summary": "The partners say eligible clients in Asia would be able to redeem USDC through DBS with near-instant, round-the-clock settlement. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "legal",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "5f99ed2f01",
+   "title": "Sky TVL Falls 45% in a Week as USDC Reserve Shrinks",
+   "date": "2026-11-21T00:42:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Sky TVL Falls 45% in a Week as USDC Reserve Shrinks",
+     "url": "https://thedefiant.io/news/defi/sky-tvl-falls-45-in-a-week-as-usdc-reserve-shrinks",
+     "date": "2026-11-21T00:42:48+00:00",
+     "summary": "Sky's tracked assets fell to $2.24 billion in the Nov. 20 daily snapshot. A large decline in its USDC conversion reserve corroborates the contraction."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T00:42:48+00:00",
+   "last_seen": "2026-11-21T00:42:48+00:00",
+   "summary": "Sky's tracked assets fell to $2.24 billion in the Nov. 20 daily snapshot. A large decline in its USDC conversion reserve corroborates the contraction.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "b8fb0600ac",
+   "title": "Clayton Links Tech Outages to Maintenance and Upgrades",
+   "date": "2026-11-21T00:11:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Clayton Links Tech Outages to Maintenance and Upgrades",
+     "url": "https://thedefiant.io/frontier/ai/clayton-links-tech-outages-to-maintenance-and-upgrades",
+     "date": "2026-11-21T00:11:07+00:00",
+     "summary": "The intelligence chief described separate outages linked to maintenance and technical changes. Mark Warner pointed to pressure to patch AI-found flaws."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T00:11:07+00:00",
+   "last_seen": "2026-11-21T00:11:07+00:00",
+   "summary": "The intelligence chief described separate outages linked to maintenance and technical changes. Mark Warner pointed to pressure to patch AI-found flaws.",
+   "tags": []
+  },
+  {
+   "id": "8c127dd307",
+   "title": "Binance raises RLUSD yield to 6.37% as XRP rewards surge 54%",
+   "date": "2026-11-20T23:40:12+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance raises RLUSD yield to 6.37% as XRP rewards surge 54%",
+     "url": "https://cryptoslate.com/binance-raises-rlusd-yield-to-6-37-as-xrp-rewards-surge-54/",
+     "date": "2026-11-20T23:40:12+00:00",
+     "summary": "At the base rate, a steady 10,000 RLUSD balance would have earned 12.72 XRP in the final week, while Binance\u2019s notices leave buying and retention unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T23:40:12+00:00",
+   "last_seen": "2026-11-20T23:40:12+00:00",
+   "summary": "At the base rate, a steady 10,000 RLUSD balance would have earned 12.72 XRP in the final week, while Binance\u2019s notices leave buying and retention unresolved. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": [
+    "defi",
+    "exchanges",
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "a4a0759695",
+   "title": "Aave V4 Plan Would Put Idle USDC Into Circle Gateway",
+   "date": "2026-11-20T22:54:45+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aave V4 Plan Would Put Idle USDC Into Circle Gateway",
+     "url": "https://thedefiant.io/news/defi/aave-v4-plan-would-put-idle-usdc-into-circle-gateway",
+     "date": "2026-11-20T22:54:45+00:00",
+     "summary": "New sweeps would have to keep Gateway exposure within 10 million USDC and 25% of supply, while preserving cash for withdrawals and loans."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T22:54:45+00:00",
+   "last_seen": "2026-11-20T22:54:45+00:00",
+   "summary": "New sweeps would have to keep Gateway exposure within 10 million USDC and 25% of supply, while preserving cash for withdrawals and loans.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "e106123d61",
+   "title": "Bitcoin miners face a new profitability cliff as difficulty heads for an 8.5% jump",
+   "date": "2026-11-20T22:50:55+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin miners face a new profitability cliff as difficulty heads for an 8.5% jump",
+     "url": "https://cryptoslate.com/bitcoin-miners-face-shrinking-revenue-and-tighter-electricity-margins-as-a-projected-difficulty-increase-threatens-less-efficient-machines/",
+     "date": "2026-11-20T22:50:55+00:00",
+     "summary": "The projected adjustment would lower the electricity rate a less efficient rig can afford, even if Bitcoin\u2019s price and block rewards hold steady. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T22:50:55+00:00",
+   "last_seen": "2026-11-20T22:50:55+00:00",
+   "summary": "The projected adjustment would lower the electricity rate a less efficient rig can afford, even if Bitcoin\u2019s price and block rewards hold steady. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "0b8d8191df",
+   "title": "Tracy Schuchart: Bitcoin Trading \u201cLike a Risk Asset\u201d as Fed Hikes Loom",
+   "date": "2026-11-20T22:10:11+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Tracy Schuchart: Bitcoin Trading \u201cLike a Risk Asset\u201d as Fed Hikes Loom",
+     "url": "https://bitcoinmagazine.com/videos/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom",
+     "date": "2026-11-20T22:10:11+00:00",
+     "summary": "&#9654; Bitcoin Magazine Tracy Schuchart: Bitcoin Trading \u201cLike a Risk Asset\u201d as Fed Hikes Loom Tracy Shuchart says Bitcoin's biggest long-term argument is its monetary scarcity, but investors need to separate the long-term thesis from how it's trading today. This post Tracy..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T22:10:11+00:00",
+   "last_seen": "2026-11-20T22:10:11+00:00",
+   "summary": "&#9654; Bitcoin Magazine Tracy Schuchart: Bitcoin Trading \u201cLike a Risk Asset\u201d as Fed Hikes Loom Tracy Shuchart says Bitcoin's biggest long-term argument is its monetary scarcity, but investors need to separate the long-term thesis from how it's trading today. This post Tracy...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "ce49c59987",
+   "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+   "date": "2026-11-20T22:05:31+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
+     "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
+     "date": "2026-11-20T22:05:31+00:00",
+     "summary": "The firm is the latest to join in building blockchain-based stock markets under the agency\u2019s five-year \"innovation exemption\" for tokenized trading."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T22:05:31+00:00",
+   "last_seen": "2026-11-20T22:05:31+00:00",
+   "summary": "The firm is the latest to join in building blockchain-based stock markets under the agency\u2019s five-year \"innovation exemption\" for tokenized trading.",
+   "tags": [
+    "ethereum",
+    "regulation"
+   ]
+  },
+  {
+   "id": "d6fd3319ff",
+   "title": "DCG\u2019s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
+   "date": "2026-11-20T21:40:01+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "DCG\u2019s Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
+     "url": "https://www.theblock.co/news/business/2026-11-20-dcgs-zcash-miner-fortitude-clears-vote-nasdaq-listing-zec-retreats-all-time-high-444784",
+     "date": "2026-11-20T21:40:01+00:00",
+     "summary": "Fortitude wins shareholder backing for its planned Nasdaq debut as ZEC trades 55% below its record high."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T21:40:01+00:00",
+   "last_seen": "2026-11-20T21:40:01+00:00",
+   "summary": "Fortitude wins shareholder backing for its planned Nasdaq debut as ZEC trades 55% below its record high.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "abf360b550",
+   "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
+   "date": "2026-11-20T21:36:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
+     "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+     "date": "2026-11-20T21:36:02+00:00",
+     "summary": "Levent Alp\u00f6ge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic\u2019s IPO has prompted questions about its unusual publication timing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T21:36:02+00:00",
+   "last_seen": "2026-11-20T21:36:02+00:00",
+   "summary": "Levent Alp\u00f6ge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic\u2019s IPO has prompted questions about its unusual publication timing.",
+   "tags": [
+    "funding"
+   ]
+  },
+  {
+   "id": "17340a9c40",
+   "title": "Just 2.5% of recent Bitcoin buyers\u2019 exchange deposits were in profit",
+   "date": "2026-11-20T21:30:25+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Just 2.5% of recent Bitcoin buyers\u2019 exchange deposits were in profit",
+     "url": "https://cryptoslate.com/just-2-5-of-recent-bitcoin-buyers-exchange-deposits-were-in-profit/",
+     "date": "2026-11-20T21:30:25+00:00",
+     "summary": "Coinbase received nearly twice Binance\u2019s share, while CryptoQuant found that each exchange\u2019s share stayed close to its usual level. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T21:30:25+00:00",
+   "last_seen": "2026-11-20T21:30:25+00:00",
+   "summary": "Coinbase received nearly twice Binance\u2019s share, while CryptoQuant found that each exchange\u2019s share stayed close to its usual level. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "f824ffabe0",
+   "title": "S&P 500 Sinks 3.7%, Extending Slide to Seven Sessions",
+   "date": "2026-11-20T21:24:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "S&P 500 Sinks 3.7%, Extending Slide to Seven Sessions",
+     "url": "https://thedefiant.io/converge/markets/s-p-500-sinks-3-7-extending-slide-to-seven-sessions",
+     "date": "2026-11-20T21:24:26+00:00",
+     "summary": "The index lost 8.6% for the week, while bitcoin also declined sharply over the past week."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T21:24:26+00:00",
+   "last_seen": "2026-11-20T21:24:26+00:00",
+   "summary": "The index lost 8.6% for the week, while bitcoin also declined sharply over the past week.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "1eb2e7fe18",
+   "title": "Meta\u2019s AI agents ran over 1,000 experiments in a month but improved search by just 0.23%",
+   "date": "2026-11-20T21:15:50+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Meta\u2019s AI agents ran over 1,000 experiments in a month but improved search by just 0.23%",
+     "url": "https://cryptoslate.com/metas-ai-agents-ran-over-1000-experiments-in-a-month-but-improved-search-by-just-0-23/",
+     "date": "2026-11-20T21:15:50+00:00",
+     "summary": "Meta researchers report 0.23% more search sessions and slower rendering in a live test after a campaign that used roughly 360,000 GPU-hours. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T21:15:50+00:00",
+   "last_seen": "2026-11-20T21:15:50+00:00",
+   "summary": "Meta researchers report 0.23% more search sessions and slower rendering in a live test after a campaign that used roughly 360,000 GPU-hours. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "190bc67888",
+   "title": "Oracle Says OpenAI Infrastructure Deal Is Fully Funded",
+   "date": "2026-11-20T21:10:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Oracle Says OpenAI Infrastructure Deal Is Fully Funded",
+     "url": "https://thedefiant.io/frontier/ai/oracle-says-openai-infrastructure-deal-is-fully-funded",
+     "date": "2026-11-20T21:10:33+00:00",
+     "summary": "The company says vendor financing is in place after November stock and bond sales, with Nvidia rack handovers at Shackelford still on track."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T21:10:33+00:00",
+   "last_seen": "2026-11-20T21:10:33+00:00",
+   "summary": "The company says vendor financing is in place after November stock and bond sales, with Nvidia rack handovers at Shackelford still on track.",
+   "tags": []
+  },
+  {
+   "id": "9367dcfdc0",
+   "title": "Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%",
+   "date": "2026-11-20T21:08:02+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq",
+     "date": "2026-11-20T21:08:02+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5% The bitcoin price slipped to near $58,300 on Friday afternoon, briefly dipping under its summer low, as a chip-led selloff sent the Nasdaq down about 5% and dragged crypto stocks and miners..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T21:08:02+00:00",
+   "last_seen": "2026-11-20T21:08:02+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5% The bitcoin price slipped to near $58,300 on Friday afternoon, briefly dipping under its summer low, as a chip-led selloff sent the Nasdaq down about 5% and dragged crypto stocks and miners...",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "20db623fde",
+   "title": "Cloudflare Adds Ruby2Shell Rules; Ruby Patch Still Needed",
+   "date": "2026-11-20T20:40:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Cloudflare Adds Ruby2Shell Rules; Ruby Patch Still Needed",
+     "url": "https://thedefiant.io/news/security/cloudflare-adds-ruby2shell-rules-ruby-patch-still-needed",
+     "date": "2026-11-20T20:40:31+00:00",
+     "summary": "Free-plan rules run automatically; paid sites need deployed, unoverridden managed rules. Traffic bypassing Cloudflare remains outside the shield, so Ruby still needs patching."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T20:40:31+00:00",
+   "last_seen": "2026-11-20T20:40:31+00:00",
+   "summary": "Free-plan rules run automatically; paid sites need deployed, unoverridden managed rules. Traffic bypassing Cloudflare remains outside the shield, so Ruby still needs patching.",
+   "tags": []
+  },
+  {
+   "id": "f8244078e6",
+   "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+   "date": "2026-11-20T20:36:54+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+     "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
+     "date": "2026-11-20T20:36:54+00:00",
+     "summary": "Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure on the chipmaker after Jensen Huang\u2019s resignation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-20T20:36:54+00:00",
+   "last_seen": "2026-11-20T20:36:54+00:00",
+   "summary": "Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure on the chipmaker after Jensen Huang\u2019s resignation.",
+   "tags": [
+    "regulation"
+   ]
+  },
   {
    "id": "fae13b8915",
    "title": "Thinking Machines Releases Inkling 2 Mini for Local AI",
@@ -1606,11 +2007,18 @@
      "url": "https://thedefiant.io/news/regulation/kalshi-says-proposed-new-york-order-could-shut-exchange",
      "date": "2026-11-20T10:45:43+00:00",
      "summary": "New York\u2019s gambling-enforcement case has returned to state court. Kalshi argues the proposed restrictions would reach customers nationwide because it operates from New York."
+    },
+    {
+     "source": "CoinDesk",
+     "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+     "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+     "date": "2026-11-20T22:51:14+00:00",
+     "summary": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-20T10:45:43+00:00",
-   "last_seen": "2026-11-20T10:45:43+00:00",
+   "last_seen": "2026-11-20T22:51:14+00:00",
    "summary": "New York\u2019s gambling-enforcement case has returned to state court. Kalshi argues the proposed restrictions would reach customers nationwide because it operates from New York.",
    "tags": [
     "exchanges",

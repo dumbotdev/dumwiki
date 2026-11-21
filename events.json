@@ -1,6 +1,617 @@
 {
- "updated": "2026-11-21T11:22:44.612729+00:00",
+ "updated": "2026-11-21T19:27:29.823582+00:00",
  "events": [
+  {
+   "id": "89d60c944c",
+   "title": "Aave Raises Ethereum USDC Borrow Cap to $4 Billion",
+   "date": "2026-11-21T19:02:34+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aave Raises Ethereum USDC Borrow Cap to $4 Billion",
+     "url": "https://thedefiant.io/news/defi/aave-raises-ethereum-usdc-borrow-cap-to-4-billion",
+     "date": "2026-11-21T19:02:34+00:00",
+     "summary": "If supply stayed at Nov. 21 levels, filling the new cap would leave about 170 million USDC unborrowed, versus roughly 1.06 billion in the snapshot."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T19:02:34+00:00",
+   "last_seen": "2026-11-21T19:02:34+00:00",
+   "summary": "If supply stayed at Nov. 21 levels, filling the new cap would leave about 170 million USDC unborrowed, versus roughly 1.06 billion in the snapshot.",
+   "tags": [
+    "ethereum",
+    "funding",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "dbadeb6e59",
+   "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+   "date": "2026-11-21T18:51:14+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+     "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+     "date": "2026-11-21T18:51:14+00:00",
+     "summary": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T18:51:14+00:00",
+   "last_seen": "2026-11-21T18:51:14+00:00",
+   "summary": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "b3d95f195a",
+   "title": "Aave\u2019s $4 billion USDC borrow cap could leave just $190 million available for withdrawals",
+   "date": "2026-11-21T18:40:32+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Aave\u2019s $4 billion USDC borrow cap could leave just $190 million available for withdrawals",
+     "url": "https://cryptoslate.com/aaves-4-billion-usdc-borrow-cap-could-leave-just-190-million-available-for-withdrawals/",
+     "date": "2026-11-21T18:40:32+00:00",
+     "summary": "If loans fill the new cap at late Nov. 20 supply levels, about 190 million USDC would remain for withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T18:40:32+00:00",
+   "last_seen": "2026-11-21T18:40:32+00:00",
+   "summary": "If loans fill the new cap at late Nov. 20 supply levels, about 190 million USDC would remain for withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "7c32104f1c",
+   "title": "Cyber Warns Against Bridge Use After Unexpected Minting",
+   "date": "2026-11-21T18:37:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Cyber Warns Against Bridge Use After Unexpected Minting",
+     "url": "https://thedefiant.io/news/hacks/cyber-warns-against-bridge-use-after-unexpected-minting",
+     "date": "2026-11-21T18:37:19+00:00",
+     "summary": "Cyber urged users to avoid its bridge and exchange deposits. Upbit suspended CYBER deposits and withdrawals on Ethereum; Bithumb announced a similar halt."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T18:37:19+00:00",
+   "last_seen": "2026-11-21T18:37:19+00:00",
+   "summary": "Cyber urged users to avoid its bridge and exchange deposits. Upbit suspended CYBER deposits and withdrawals on Ethereum; Bithumb announced a similar halt.",
+   "tags": [
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "37efae9cee",
+   "title": "How to Find and Read a Company's Public SEC Records",
+   "date": "2026-11-21T18:18:36+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "How to Find and Read a Company's Public SEC Records",
+     "url": "https://thedefiant.io/news/regulation/how-to-find-and-read-a-company-s-public-sec-records",
+     "date": "2026-11-21T18:18:36+00:00",
+     "summary": "Search company disclosures and SEC enforcement records separately. A missing result cannot rule out a confidential investigation, and an allegation is not a finding."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T18:18:36+00:00",
+   "last_seen": "2026-11-21T18:18:36+00:00",
+   "summary": "Search company disclosures and SEC enforcement records separately. A missing result cannot rule out a confidential investigation, and an allegation is not a finding.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "2546eaedd2",
+   "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+   "date": "2026-11-21T18:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+     "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+     "date": "2026-11-21T18:01:02+00:00",
+     "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T18:01:02+00:00",
+   "last_seen": "2026-11-21T18:01:02+00:00",
+   "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million.",
+   "tags": []
+  },
+  {
+   "id": "5aeb6cfa46",
+   "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday\u2019s stock open",
+   "date": "2026-11-21T17:50:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday\u2019s stock open",
+     "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+     "date": "2026-11-21T17:50:00+00:00",
+     "summary": "The sell-off wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T17:50:00+00:00",
+   "last_seen": "2026-11-21T17:50:00+00:00",
+   "summary": "The sell-off wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "563e60012e",
+   "title": "Singapore wants to test stablecoin payments by AI agents",
+   "date": "2026-11-21T17:40:11+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Singapore wants to test stablecoin payments by AI agents",
+     "url": "https://cryptoslate.com/singapore-wants-to-test-stablecoin-payments-by-ai-agents/",
+     "date": "2026-11-21T17:40:11+00:00",
+     "summary": "A planned sandbox would test how banks and payment providers verify an agent\u2019s authority before executing payments in digital money. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T17:40:11+00:00",
+   "last_seen": "2026-11-21T17:40:11+00:00",
+   "summary": "A planned sandbox would test how banks and payment providers verify an agent\u2019s authority before executing payments in digital money. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "01608998a0",
+   "title": "Lean Groups Certify Claude-Assisted Riemann Proof",
+   "date": "2026-11-21T17:13:59+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Lean Groups Certify Claude-Assisted Riemann Proof",
+     "url": "https://thedefiant.io/frontier/ai/lean-groups-certify-claude-assisted-riemann-proof",
+     "date": "2026-11-21T17:13:59+00:00",
+     "summary": "The Lean FRO and Mathlib Initiative backed Alp\u00f6ge\u2019s 17-million-line proof. A separate audit also covers a generalized result for Dirichlet L-functions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T17:13:59+00:00",
+   "last_seen": "2026-11-21T17:13:59+00:00",
+   "summary": "The Lean FRO and Mathlib Initiative backed Alp\u00f6ge\u2019s 17-million-line proof. A separate audit also covers a generalized result for Dirichlet L-functions.",
+   "tags": []
+  },
+  {
+   "id": "b784727f10",
+   "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+   "date": "2026-11-21T17:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+     "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+     "date": "2026-11-21T17:01:02+00:00",
+     "summary": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms\u2014even faking SEC certificates and filings\u2014to defraud U.S. investors of more than $37 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T17:01:02+00:00",
+   "last_seen": "2026-11-21T17:01:02+00:00",
+   "summary": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms\u2014even faking SEC certificates and filings\u2014to defraud U.S. investors of more than $37 million.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "2dc7d2bf37",
+   "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+   "date": "2026-11-21T16:41:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+     "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+     "date": "2026-11-21T16:41:00+00:00",
+     "summary": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T16:41:00+00:00",
+   "last_seen": "2026-11-21T16:41:00+00:00",
+   "summary": "The withdrawal carried a valid signature, which Onchain Lens said points to a possible compromise of the key validators use to approve vault payouts.",
+   "tags": []
+  },
+  {
+   "id": "1cc872e3ab",
+   "title": "A Bitcoin drop toward $53,000 could put $240 million in collateral at risk",
+   "date": "2026-11-21T16:35:27+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "A Bitcoin drop toward $53,000 could put $240 million in collateral at risk",
+     "url": "https://cryptoslate.com/a-bitcoin-drop-toward-53000-could-put-240-million-in-collateral-at-risk/",
+     "date": "2026-11-21T16:35:27+00:00",
+     "summary": "An Aave borrower had nearly 90 WBTC seized Saturday, and a later snapshot shows where other loans could come under pressure. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T16:35:27+00:00",
+   "last_seen": "2026-11-21T16:35:27+00:00",
+   "summary": "An Aave borrower had nearly 90 WBTC seized Saturday, and a later snapshot shows where other loans could come under pressure. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "a258b88217",
+   "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
+   "date": "2026-11-21T16:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
+     "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
+     "date": "2026-11-21T16:01:02+00:00",
+     "summary": "The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T16:01:02+00:00",
+   "last_seen": "2026-11-21T16:01:02+00:00",
+   "summary": "The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "d590ce1b1e",
+   "title": "Anthropic's IPO Premium Shrinks as Banks Draw Blame",
+   "date": "2026-11-21T15:55:22+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Anthropic's IPO Premium Shrinks as Banks Draw Blame",
+     "url": "https://thedefiant.io/frontier/markets/anthropic-s-ipo-premium-shrinks-as-banks-draw-blame",
+     "date": "2026-11-21T15:55:22+00:00",
+     "summary": "The WSJ reports criticism of share allocations and the opening price, while Anthropic says its expanded public offering raised $93.5 billion gross."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T15:55:22+00:00",
+   "last_seen": "2026-11-21T15:55:22+00:00",
+   "summary": "The WSJ reports criticism of share allocations and the opening price, while Anthropic says its expanded public offering raised $93.5 billion gross.",
+   "tags": [
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "8f37626468",
+   "title": "Bitcoin Rebounds 10% Before Slipping Below $60,000",
+   "date": "2026-11-21T15:24:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Rebounds 10% Before Slipping Below $60,000",
+     "url": "https://thedefiant.io/news/markets/bitcoin-rebounds-10-before-slipping-below-60-000",
+     "date": "2026-11-21T15:24:47+00:00",
+     "summary": "The overnight trough put bitcoin 35.1% below its Oct. 21 high, while the rebound had faded to 8.7% by 10:19 a.m. ET."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T15:24:47+00:00",
+   "last_seen": "2026-11-21T15:24:47+00:00",
+   "summary": "The overnight trough put bitcoin 35.1% below its Oct. 21 high, while the rebound had faded to 8.7% by 10:19 a.m. ET.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "9289260870",
+   "title": "Chainflip\u2019s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
+   "date": "2026-11-21T15:24:14+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Chainflip\u2019s FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
+     "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
+     "date": "2026-11-21T15:24:14+00:00",
+     "summary": "Chainflip's FLIP token dropped 34% in price in the wake of the apparently automated attack, per The Block's price data."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T15:24:14+00:00",
+   "last_seen": "2026-11-21T15:24:14+00:00",
+   "summary": "Chainflip's FLIP token dropped 34% in price in the wake of the apparently automated attack, per The Block's price data.",
+   "tags": [
+    "markets",
+    "security"
+   ]
+  },
+  {
+   "id": "ebbe381fca",
+   "title": "Coins.ph Halts Transfers With Self-Custody Wallets",
+   "date": "2026-11-21T15:20:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Coins.ph Halts Transfers With Self-Custody Wallets",
+     "url": "https://thedefiant.io/news/regulation/coins-ph-halts-transfers-with-self-custody-wallets",
+     "date": "2026-11-21T15:20:19+00:00",
+     "summary": "The Philippine exchange now limits external crypto transfers to regulated exchanges and requires counterparty details for every amount."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T15:20:19+00:00",
+   "last_seen": "2026-11-21T15:20:19+00:00",
+   "summary": "The Philippine exchange now limits external crypto transfers to regulated exchanges and requires counterparty details for every amount.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "36cfa651f0",
+   "title": "One Bitcoin miner paid an $11.9M tariff bill four years after delivery",
+   "date": "2026-11-21T15:20:09+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "One Bitcoin miner paid an $11.9M tariff bill four years after delivery",
+     "url": "https://cryptoslate.com/one-bitcoin-miner-paid-an-11-9m-tariff-bill-four-years-after-delivery/",
+     "date": "2026-11-21T15:20:09+00:00",
+     "summary": "Bitcoin miner Bitfarms thought the machines it brought into Washington state in 2021 had been made in Malaysia. Its supplier said so, and the company provided US Customs officials with documents supporting that claim. Four years later, the company paid the government $11.9..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T15:20:09+00:00",
+   "last_seen": "2026-11-21T15:20:09+00:00",
+   "summary": "Bitcoin miner Bitfarms thought the machines it brought into Washington state in 2021 had been made in Malaysia. Its supplier said so, and the company provided US Customs officials with documents supporting that claim. Four years later, the company paid the government $11.9...",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "regulation"
+   ]
+  },
+  {
+   "id": "f85057a160",
+   "title": "Kraken Says Trades Stand After Bitcoin\u2019s CAD Plunge",
+   "date": "2026-11-21T15:00:22+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Kraken Says Trades Stand After Bitcoin\u2019s CAD Plunge",
+     "url": "https://thedefiant.io/news/cefi/kraken-says-trades-stand-after-bitcoin-s-cad-plunge",
+     "date": "2026-11-21T15:00:22+00:00",
+     "summary": "Kraken\u2019s USD/CAD market fell to C$0.30 per US dollar. Adam Back said arbitrage spread the distortion to other CAD pairs."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T15:00:22+00:00",
+   "last_seen": "2026-11-21T15:00:22+00:00",
+   "summary": "Kraken\u2019s USD/CAD market fell to C$0.30 per US dollar. Adam Back said arbitrage spread the distortion to other CAD pairs.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "d33caff967",
+   "title": "Canton Approves Plan to Extend CC Burns Across MainNet",
+   "date": "2026-11-21T14:42:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Canton Approves Plan to Extend CC Burns Across MainNet",
+     "url": "https://thedefiant.io/converge/blockchains/canton-approves-plan-to-extend-cc-burns-across-mainnet",
+     "date": "2026-11-21T14:42:47+00:00",
+     "summary": "Legacy license fees would give way to token burns on dedicated synchronizers, with the first phase tentatively planned for Q1 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T14:42:47+00:00",
+   "last_seen": "2026-11-21T14:42:47+00:00",
+   "summary": "Legacy license fees would give way to token burns on dedicated synchronizers, with the first phase tentatively planned for Q1 2027.",
+   "tags": []
+  },
+  {
+   "id": "53dc420dca",
+   "title": "US Treasury sells $15 billion in first nine-day cash bill auction since 2008",
+   "date": "2026-11-21T14:30:07+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "US Treasury sells $15 billion in first nine-day cash bill auction since 2008",
+     "url": "https://cryptoslate.com/us-treasury-sells-15-billion-in-first-nine-day-cash-bill-auction-since-2008/",
+     "date": "2026-11-21T14:30:07+00:00",
+     "summary": "Treasury had flagged possible month-end borrowing and reported $891.2 billion in cash at the Nov. 19 close. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T14:30:07+00:00",
+   "last_seen": "2026-11-21T14:30:07+00:00",
+   "summary": "Treasury had flagged possible month-end borrowing and reported $891.2 billion in cash at the Nov. 19 close. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "macro",
+    "regulation"
+   ]
+  },
+  {
+   "id": "6828184c5e",
+   "title": "Nasdaq Composite vs. Nasdaq-100: What Each Measures",
+   "date": "2026-11-21T14:21:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Nasdaq Composite vs. Nasdaq-100: What Each Measures",
+     "url": "https://thedefiant.io/news/markets/nasdaq-composite-vs-nasdaq-100-what-each-measures",
+     "date": "2026-11-21T14:21:00+00:00",
+     "summary": "The Composite covers a broad set of Nasdaq-listed stocks; the Nasdaq-100 focuses on large nonfinancial companies. Each combines many stocks, whose weights determine their contributions to its return."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T14:21:00+00:00",
+   "last_seen": "2026-11-21T14:21:00+00:00",
+   "summary": "The Composite covers a broad set of Nasdaq-listed stocks; the Nasdaq-100 focuses on large nonfinancial companies. Each combines many stocks, whose weights determine their contributions to its return.",
+   "tags": []
+  },
+  {
+   "id": "d2ffe5b861",
+   "title": "How Crypto-Backed Loans Work: Collateral to Repayment",
+   "date": "2026-11-21T14:14:20+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "How Crypto-Backed Loans Work: Collateral to Repayment",
+     "url": "https://thedefiant.io/news/defi/how-crypto-backed-loans-work-collateral-to-repayment",
+     "date": "2026-11-21T14:14:20+00:00",
+     "summary": "Aave\u2019s public rules show how pledged crypto backs a separate debt, why that debt grows and what repayment frees up."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T14:14:20+00:00",
+   "last_seen": "2026-11-21T14:14:20+00:00",
+   "summary": "Aave\u2019s public rules show how pledged crypto backs a separate debt, why that debt grows and what repayment frees up.",
+   "tags": []
+  },
+  {
+   "id": "c9fcef46b8",
+   "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+   "date": "2026-11-21T14:01:06+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+     "url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
+     "date": "2026-11-21T14:01:06+00:00",
+     "summary": "Tech stocks are buckling after Anthropic\u2019s historic IPO and Nvidia\u2019s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T14:01:06+00:00",
+   "last_seen": "2026-11-21T14:01:06+00:00",
+   "summary": "Tech stocks are buckling after Anthropic\u2019s historic IPO and Nvidia\u2019s leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a dot-com-style bust.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "1da1b52c8b",
+   "title": "Nvidia Falls 14%, Sealing Seventh Straight Weekly Loss",
+   "date": "2026-11-21T13:37:19+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Nvidia Falls 14%, Sealing Seventh Straight Weekly Loss",
+     "url": "https://thedefiant.io/frontier/markets/nvidia-falls-14-sealing-seventh-straight-weekly-loss",
+     "date": "2026-11-21T13:37:19+00:00",
+     "summary": "The stock lost 22.9% for the week ended Nov. 20, compared with 17.3% for SOXX and 10.4% for the Nasdaq 100."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T13:37:19+00:00",
+   "last_seen": "2026-11-21T13:37:19+00:00",
+   "summary": "The stock lost 22.9% for the week ended Nov. 20, compared with 17.3% for SOXX and 10.4% for the Nasdaq 100.",
+   "tags": []
+  },
+  {
+   "id": "3f73075ee1",
+   "title": "Kraken says trades stand after Bitcoin sold at $24,250 Canadian",
+   "date": "2026-11-21T13:30:47+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Kraken says trades stand after Bitcoin sold at $24,250 Canadian",
+     "url": "https://cryptoslate.com/kraken-says-trades-stand-after-bitcoin-sold-at-24250-canadian/",
+     "date": "2026-11-21T13:30:47+00:00",
+     "summary": "Kraken\u2019s Canadian-dollar Bitcoin pair hit nearly identical lows in consecutive 15-minute intervals. Other CAD pairs also posted unusually low prices. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T13:30:47+00:00",
+   "last_seen": "2026-11-21T13:30:47+00:00",
+   "summary": "Kraken\u2019s Canadian-dollar Bitcoin pair hit nearly identical lows in consecutive 15-minute intervals. Other CAD pairs also posted unusually low prices. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "594b3efb02",
+   "title": "BTCS Warns of Liquidation Risk on $54M Aave Debt",
+   "date": "2026-11-21T12:42:42+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "BTCS Warns of Liquidation Risk on $54M Aave Debt",
+     "url": "https://thedefiant.io/news/defi/btcs-warns-of-liquidation-risk-on-54m-aave-debt",
+     "date": "2026-11-21T12:42:42+00:00",
+     "summary": "The Nasdaq-listed company reported about $10 million less debt over ten days, but its ETH-backed borrowing remains exposed to liquidation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T12:42:42+00:00",
+   "last_seen": "2026-11-21T12:42:42+00:00",
+   "summary": "The Nasdaq-listed company reported about $10 million less debt over ten days, but its ETH-backed borrowing remains exposed to liquidation.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "5625781a94",
+   "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+   "date": "2026-11-21T12:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+     "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+     "date": "2026-11-21T12:30:00+00:00",
+     "summary": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T12:30:00+00:00",
+   "last_seen": "2026-11-21T12:30:00+00:00",
+   "summary": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure.",
+   "tags": [
+    "ethereum",
+    "macro",
+    "regulation"
+   ]
+  },
+  {
+   "id": "a80dff9d98",
+   "title": "Ethereum\u2019s Glamsterdam delay reveals a troubling pattern behind its biggest network upgrades",
+   "date": "2026-11-21T12:00:31+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum\u2019s Glamsterdam delay reveals a troubling pattern behind its biggest network upgrades",
+     "url": "https://cryptoslate.com/ethereums-glamsterdam-delay-reveals-a-troubling-pattern-behind-its-biggest-network-upgrades/",
+     "date": "2026-11-21T12:00:31+00:00",
+     "summary": "Ethereum&#039;s Glamsterdam upgrade has slipped into 2027, exposing a growing disconnect between faster development and the network&#039;s ability to meet deadlines. On Nov. 20, Ethereum Foundation researcher Toni Wahrst\u00e4tter said the upgrade, which the foundation had targeted..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T12:00:31+00:00",
+   "last_seen": "2026-11-21T12:00:31+00:00",
+   "summary": "Ethereum&#039;s Glamsterdam upgrade has slipped into 2027, exposing a growing disconnect between faster development and the network&#039;s ability to meet deadlines. On Nov. 20, Ethereum Foundation researcher Toni Wahrst\u00e4tter said the upgrade, which the foundation had targeted...",
+   "tags": [
+    "ethereum"
+   ]
+  },
   {
    "id": "86ae066e05",
    "title": "ECB Seeks Partners for Appia Tokenized Finance Tests",

@@ -1,6 +1,472 @@
 {
- "updated": "2026-11-21T02:27:27.739557+00:00",
+ "updated": "2026-11-21T11:22:44.612729+00:00",
  "events": [
+  {
+   "id": "86ae066e05",
+   "title": "ECB Seeks Partners for Appia Tokenized Finance Tests",
+   "date": "2026-11-21T10:10:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "ECB Seeks Partners for Appia Tokenized Finance Tests",
+     "url": "https://thedefiant.io/converge/regulation/ecb-seeks-partners-for-appia-tokenized-finance-tests",
+     "date": "2026-11-21T10:10:04+00:00",
+     "summary": "Applications for the first exercises are due Dec. 11, with later submissions reviewed on a rolling basis. The call includes deposit-settlement tests using mock central bank money."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T10:10:04+00:00",
+   "last_seen": "2026-11-21T10:10:04+00:00",
+   "summary": "Applications for the first exercises are due Dec. 11, with later submissions reviewed on a rolling basis. The call includes deposit-settlement tests using mock central bank money.",
+   "tags": []
+  },
+  {
+   "id": "b8573ad3dd",
+   "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+   "date": "2026-11-21T09:48:56+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+     "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-21T09:48:56+00:00",
+     "summary": "Industry groups have until Dec. 11 to apply for the ECB\u2019s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T09:48:56+00:00",
+   "last_seen": "2026-11-21T09:48:56+00:00",
+   "summary": "Industry groups have until Dec. 11 to apply for the ECB\u2019s first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis.",
+   "tags": []
+  },
+  {
+   "id": "5cf80692f2",
+   "title": "Chainflip Halts Swaps Over Potential Vault Exploit",
+   "date": "2026-11-21T09:48:32+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Chainflip Halts Swaps Over Potential Vault Exploit",
+     "url": "https://thedefiant.io/news/security/chainflip-halts-swaps-over-potential-vault-exploit",
+     "date": "2026-11-21T09:48:32+00:00",
+     "summary": "Deposits, withdrawals and quotes are disabled. A security monitor flagged Ethereum vault outflows it valued at about $4.86 million."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T09:48:32+00:00",
+   "last_seen": "2026-11-21T09:48:32+00:00",
+   "summary": "Deposits, withdrawals and quotes are disabled. A security monitor flagged Ethereum vault outflows it valued at about $4.86 million.",
+   "tags": [
+    "ethereum",
+    "security"
+   ]
+  },
+  {
+   "id": "5ce089387a",
+   "title": "Aave Voters Back Plan to Narrow V3 Core Collateral",
+   "date": "2026-11-21T09:17:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aave Voters Back Plan to Narrow V3 Core Collateral",
+     "url": "https://thedefiant.io/news/defi/aave-voters-back-plan-to-narrow-v3-core-collateral",
+     "date": "2026-11-21T09:17:08+00:00",
+     "summary": "Existing loans would stay open as LlamaRisk\u2019s plan steers borrowers toward retained collateral or Aave V4."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T09:17:08+00:00",
+   "last_seen": "2026-11-21T09:17:08+00:00",
+   "summary": "Existing loans would stay open as LlamaRisk\u2019s plan steers borrowers toward retained collateral or Aave V4.",
+   "tags": []
+  },
+  {
+   "id": "4c5022f5da",
+   "title": "Binance can hold MEXC deposits even after the blockchain clears them",
+   "date": "2026-11-21T08:30:04+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance can hold MEXC deposits even after the blockchain clears them",
+     "url": "https://cryptoslate.com/binance-can-hold-mexc-deposits-even-after-the-blockchain-clears-them/",
+     "date": "2026-11-21T08:30:04+00:00",
+     "summary": "You can send crypto from MEXC to Binance, see that the transaction went through on the blockchain, and still be unable to trade with that deposit when you log in to Binance. That&#039;s what Binance told customers to expect while it reviews deposits from MEXC. Try to move money..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T08:30:04+00:00",
+   "last_seen": "2026-11-21T08:30:04+00:00",
+   "summary": "You can send crypto from MEXC to Binance, see that the transaction went through on the blockchain, and still be unable to trade with that deposit when you log in to Binance. That&#039;s what Binance told customers to expect while it reviews deposits from MEXC. Try to move money...",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "c4684a41d9",
+   "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+   "date": "2026-11-21T07:51:47+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+     "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-21T07:51:47+00:00",
+     "summary": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T07:51:47+00:00",
+   "last_seen": "2026-11-21T07:51:47+00:00",
+   "summary": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "ba3a25e01b",
+   "title": "Bitcoin Hits $55,106 on Coinbase, Lowest Since September 2024",
+   "date": "2026-11-21T07:16:02+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Hits $55,106 on Coinbase, Lowest Since September 2024",
+     "url": "https://thedefiant.io/news/markets/bitcoin-hits-55-106-on-coinbase-lowest-since-september-2024",
+     "date": "2026-11-21T07:16:02+00:00",
+     "summary": "Coinbase's low left bitcoin 35.1% below its Oct. 21 intraday high. Kraken recorded $55,100 in the same minute."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T07:16:02+00:00",
+   "last_seen": "2026-11-21T07:16:02+00:00",
+   "summary": "Coinbase's low left bitcoin 35.1% below its Oct. 21 intraday high. Kraken recorded $55,100 in the same minute.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "8de83d3d89",
+   "title": "Masullo\u2019s Riemann Claim Draws AI-Assisted Objections",
+   "date": "2026-11-21T07:15:38+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Masullo\u2019s Riemann Claim Draws AI-Assisted Objections",
+     "url": "https://thedefiant.io/frontier/ai/masullo-s-riemann-claim-draws-ai-assisted-objections",
+     "date": "2026-11-21T07:15:38+00:00",
+     "summary": "Vakil reported AI-assisted objections to Masullo\u2019s draft. A separate Claude-assisted proof has passed independent formal checks, according to an MIT mathematician."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T07:15:38+00:00",
+   "last_seen": "2026-11-21T07:15:38+00:00",
+   "summary": "Vakil reported AI-assisted objections to Masullo\u2019s draft. A separate Claude-assisted proof has passed independent formal checks, according to an MIT mathematician.",
+   "tags": []
+  },
+  {
+   "id": "beef7f05af",
+   "title": "Variational\u2019s $1.5 billion trading business has a catch even profitable traders cannot escape",
+   "date": "2026-11-21T06:30:53+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Variational\u2019s $1.5 billion trading business has a catch even profitable traders cannot escape",
+     "url": "https://cryptoslate.com/variationals-1-5-billion-trading-business-has-a-catch-even-profitable-traders-cannot-escape/",
+     "date": "2026-11-21T06:30:53+00:00",
+     "summary": "More dealers could help Omni handle larger trades, while customers still rely on its in-house market maker to pay their gains. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T06:30:53+00:00",
+   "last_seen": "2026-11-21T06:30:53+00:00",
+   "summary": "More dealers could help Omni handle larger trades, while customers still rely on its in-house market maker to pay their gains. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "8e7c6059c5",
+   "title": "Bitcoin Core Fixes AI-Found Bug That Could Stall Nodes",
+   "date": "2026-11-21T06:29:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Core Fixes AI-Found Bug That Could Stall Nodes",
+     "url": "https://thedefiant.io/news/security/bitcoin-core-fixes-ai-found-bug-that-could-stall-nodes",
+     "date": "2026-11-21T06:29:11+00:00",
+     "summary": "Versions 30.5 and 31.3 patch a medium-severity flaw found through Spiral\u2019s Loupe scanner. The retired 29.x branch will not get a fix."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T06:29:11+00:00",
+   "last_seen": "2026-11-21T06:29:11+00:00",
+   "summary": "Versions 30.5 and 31.3 patch a medium-severity flaw found through Spiral\u2019s Loupe scanner. The retired 29.x branch will not get a fix.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "945d7c7159",
+   "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+   "date": "2026-11-21T06:16:42+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+     "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+     "date": "2026-11-21T06:16:42+00:00",
+     "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block\u2019s Spiral that uses AI agents to examine bitcoin code."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T06:16:42+00:00",
+   "last_seen": "2026-11-21T06:16:42+00:00",
+   "summary": "Bitcoin Core shipped fixes on Friday for a bug flagged by Loupe, an open-source scanner from Block\u2019s Spiral that uses AI agents to examine bitcoin code.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "be698f3759",
+   "title": "XRP Sets New November Low on Coinbase, Down 10% in 24 Hours",
+   "date": "2026-11-21T06:15:18+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "XRP Sets New November Low on Coinbase, Down 10% in 24 Hours",
+     "url": "https://thedefiant.io/news/markets/xrp-sets-new-november-low-on-coinbase-down-10-in-24-hours",
+     "date": "2026-11-21T06:15:18+00:00",
+     "summary": "XRP fell to $0.8663 late Friday, below its Nov. 14 trough. Its daily loss matched the broader selloff, while its weekly decline was smaller than bitcoin's and ether's."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T06:15:18+00:00",
+   "last_seen": "2026-11-21T06:15:18+00:00",
+   "summary": "XRP fell to $0.8663 late Friday, below its Nov. 14 trough. Its daily loss matched the broader selloff, while its weekly decline was smaller than bitcoin's and ether's.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "1b53d0ab63",
+   "title": "Bitcoin Hits $55,500 as Strategy's Paper Loss Deepens",
+   "date": "2026-11-21T06:03:05+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Hits $55,500 as Strategy's Paper Loss Deepens",
+     "url": "https://thedefiant.io/news/markets/bitcoin-hits-55-500-as-strategy-s-paper-loss-deepens",
+     "date": "2026-11-21T06:03:05+00:00",
+     "summary": "Strategy's disclosed bitcoin holdings were about $16.8 billion below their purchase cost as the cryptocurrency traded more than 26% below the company's average acquisition price."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T06:03:05+00:00",
+   "last_seen": "2026-11-21T06:03:05+00:00",
+   "summary": "Strategy's disclosed bitcoin holdings were about $16.8 billion below their purchase cost as the cryptocurrency traded more than 26% below the company's average acquisition price.",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "cb8f386746",
+   "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+   "date": "2026-11-21T05:59:19+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+     "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-usd1-billion",
+     "date": "2026-11-21T05:59:19+00:00",
+     "summary": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T05:59:19+00:00",
+   "last_seen": "2026-11-21T05:59:19+00:00",
+   "summary": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness.",
+   "tags": [
+    "etfs",
+    "markets"
+   ]
+  },
+  {
+   "id": "08476fd57d",
+   "title": "Bitcoin Falls 8% as Liquidations Reach $2.38 Billion",
+   "date": "2026-11-21T05:12:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Falls 8% as Liquidations Reach $2.38 Billion",
+     "url": "https://thedefiant.io/news/markets/bitcoin-falls-8-as-liquidations-reach-2-38-billion",
+     "date": "2026-11-21T05:12:26+00:00",
+     "summary": "Long positions accounted for 92.6% of CoinGlass's rolling 24-hour liquidation total, with 343,889 traders liquidated."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T05:12:26+00:00",
+   "last_seen": "2026-11-21T05:12:26+00:00",
+   "summary": "Long positions accounted for 92.6% of CoinGlass's rolling 24-hour liquidation total, with 343,889 traders liquidated.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "189f4f0524",
+   "title": "Ether Slides Near $1,550, Down About 35% in Four Weeks",
+   "date": "2026-11-21T04:56:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ether Slides Near $1,550, Down About 35% in Four Weeks",
+     "url": "https://thedefiant.io/news/markets/ether-slides-near-1-550-down-about-35-in-four-weeks",
+     "date": "2026-11-21T04:56:15+00:00",
+     "summary": "Bitcoin lost about 31% over the same window, while declines in Solana, BNB and Hyperliquid underscored the broader selloff."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T04:56:15+00:00",
+   "last_seen": "2026-11-21T04:56:15+00:00",
+   "summary": "Bitcoin lost about 31% over the same window, while declines in Solana, BNB and Hyperliquid underscored the broader selloff.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "solana"
+   ]
+  },
+  {
+   "id": "004d870abd",
+   "title": "JPMorgan says bitcoin\u2019s price drop pressures miners, Senate passes \u2018Death Bets Act\u2019, and more",
+   "date": "2026-11-21T04:30:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "JPMorgan says bitcoin\u2019s price drop pressures miners, Senate passes \u2018Death Bets Act\u2019, and more",
+     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+     "date": "2026-11-21T04:30:00+00:00",
+     "summary": "In today's newsletter, JPMorgan says bitcoin's price drop puts more pressure on miners; Senate passes bill to ban prediction markets tied to death and war; and more."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T04:30:00+00:00",
+   "last_seen": "2026-11-21T04:30:00+00:00",
+   "summary": "In today's newsletter, JPMorgan says bitcoin's price drop puts more pressure on miners; Senate passes bill to ban prediction markets tied to death and war; and more.",
+   "tags": [
+    "bitcoin",
+    "markets",
+    "regulation"
+   ]
+  },
+  {
+   "id": "d1f49e1748",
+   "title": "Sky offers nearly 30% yield but 99.96% of its lending vault is unavailable for immediate withdrawals",
+   "date": "2026-11-21T04:10:34+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Sky offers nearly 30% yield but 99.96% of its lending vault is unavailable for immediate withdrawals",
+     "url": "https://cryptoslate.com/sky-offers-nearly-30-yield-but-99-96-of-its-lending-vault-is-unavailable-for-immediate-withdrawals/",
+     "date": "2026-11-21T04:10:34+00:00",
+     "summary": "Spark\u2019s November 20 reading showed about 0.04% of vault assets available for immediate withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T04:10:34+00:00",
+   "last_seen": "2026-11-21T04:10:34+00:00",
+   "summary": "Spark\u2019s November 20 reading showed about 0.04% of vault assets available for immediate withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "58516dd0a6",
+   "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+   "date": "2026-11-21T04:10:07+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+     "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+     "date": "2026-11-21T04:10:07+00:00",
+     "summary": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T04:10:07+00:00",
+   "last_seen": "2026-11-21T04:10:07+00:00",
+   "summary": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "f627f4f28e",
+   "title": "Bitcoin Falls Below $57,000 to Two-Year Low on Coinbase",
+   "date": "2026-11-21T03:49:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Falls Below $57,000 to Two-Year Low on Coinbase",
+     "url": "https://thedefiant.io/news/markets/bitcoin-falls-below-57-000-to-two-year-low-on-coinbase",
+     "date": "2026-11-21T03:49:12+00:00",
+     "summary": "Coinbase's $56,747 low put bitcoin 33.1% below its Oct. 21 intraday high, taking it further below June's trough."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T03:49:12+00:00",
+   "last_seen": "2026-11-21T03:49:12+00:00",
+   "summary": "Coinbase's $56,747 low put bitcoin 33.1% below its Oct. 21 intraday high, taking it further below June's trough.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "a410a3c91a",
+   "title": "Bitquery Traces at Least $1.58 Million in Fluidkey Hack",
+   "date": "2026-11-21T02:47:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitquery Traces at Least $1.58 Million in Fluidkey Hack",
+     "url": "https://thedefiant.io/news/hacks/bitquery-traces-at-least-1-58-million-in-fluidkey-hack",
+     "date": "2026-11-21T02:47:09+00:00",
+     "summary": "Fluidkey says a logging-tool flaw let an attacker trigger transfers when users opened the app, even though private keys stayed on their devices."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T02:47:09+00:00",
+   "last_seen": "2026-11-21T02:47:09+00:00",
+   "summary": "Fluidkey says a logging-tool flaw let an attacker trigger transfers when users opened the app, even though private keys stayed on their devices.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "9c772e4074",
+   "title": "Fluidkey\u2019s $1.6 million hack exposes a security risk even when private keys never leave users\u2019 devices",
+   "date": "2026-11-21T02:30:26+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Fluidkey\u2019s $1.6 million hack exposes a security risk even when private keys never leave users\u2019 devices",
+     "url": "https://cryptoslate.com/fluidkeys-1-6-million-hack-exposes-a-security-risk-even-when-private-keys-never-leave-users-devices/",
+     "date": "2026-11-21T02:30:26+00:00",
+     "summary": "Bitquery traced at least $1.58 million to incident-linked wallets across six chains and says some other transfers appear to be user withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T02:30:26+00:00",
+   "last_seen": "2026-11-21T02:30:26+00:00",
+   "summary": "Bitquery traced at least $1.58 million to incident-linked wallets across six chains and says some other transfers appear to be user withdrawals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "ad62922b3a",
    "title": "PancakeSwap Volume Rebounds 34% to $991 Million",
@@ -1399,13 +1865,22 @@
      "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
      "date": "2026-11-20T14:38:30+00:00",
      "summary": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+     "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-21T05:40:35+00:00",
+     "summary": "Hong Kong\u2019s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-20T14:38:30+00:00",
-   "last_seen": "2026-11-20T14:38:30+00:00",
-   "summary": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework.",
-   "tags": []
+   "last_seen": "2026-11-21T05:40:35+00:00",
+   "summary": "Hong Kong\u2019s securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2.",
+   "tags": [
+    "regulation"
+   ]
   },
   {
    "id": "7fdd09ea74",

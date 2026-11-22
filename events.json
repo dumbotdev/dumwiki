@@ -1,6 +1,264 @@
 {
- "updated": "2026-11-22T08:07:35.859115+00:00",
+ "updated": "2026-11-22T16:23:48.340681+00:00",
  "events": [
+  {
+   "id": "90b6395837",
+   "title": "Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault",
+   "date": "2026-11-22T16:05:55+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault",
+     "url": "https://cryptoslate.com/chainflip-users-face-frozen-withdrawals-after-4-86-million-vanishes-from-ethereum-vault/",
+     "date": "2026-11-22T16:05:55+00:00",
+     "summary": "The emergency pause also stopped deposits, withdrawals and quotes, and the swap and liquidity-provider apps still showed maintenance Saturday evening UTC. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T16:05:55+00:00",
+   "last_seen": "2026-11-22T16:05:55+00:00",
+   "summary": "The emergency pause also stopped deposits, withdrawals and quotes, and the swap and liquidity-provider apps still showed maintenance Saturday evening UTC. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "f73ee575aa",
+   "title": "AI agents built their own scientific journal and found that reviewing research was harder than expected",
+   "date": "2026-11-22T15:00:11+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "AI agents built their own scientific journal and found that reviewing research was harder than expected",
+     "url": "https://cryptoslate.com/ai-reviewers-flagged-corrected-drafts-almost-as-often-as-flawed-ones/",
+     "date": "2026-11-22T15:00:11+00:00",
+     "summary": "In a small paired test, text-only referees challenged corrected drafts almost as often as the flawed originals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T15:00:11+00:00",
+   "last_seen": "2026-11-22T15:00:11+00:00",
+   "summary": "In a small paired test, text-only referees challenged corrected drafts almost as often as the flawed originals. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "80d4fb2029",
+   "title": "Bitcoin reclaims $61,000 before giving back a third of the weekend rally",
+   "date": "2026-11-22T14:30:34+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin reclaims $61,000 before giving back a third of the weekend rally",
+     "url": "https://cryptoslate.com/bitcoin-reclaims-61000-before-giving-back-a-third-of-that-rally/",
+     "date": "2026-11-22T14:30:34+00:00",
+     "summary": "During Sunday\u2019s move above $61,000, Binance perpetuals posted nearly ten times as much net buying as the exchange\u2019s spot market. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T14:30:34+00:00",
+   "last_seen": "2026-11-22T14:30:34+00:00",
+   "summary": "During Sunday\u2019s move above $61,000, Binance perpetuals posted nearly ten times as much net buying as the exchange\u2019s spot market. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "7631e305a2",
+   "title": "The future of onchain FX could start with users, not institutional liquidity",
+   "date": "2026-11-22T14:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "The future of onchain FX could start with users, not institutional liquidity",
+     "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-22T14:30:00+00:00",
+     "summary": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T14:30:00+00:00",
+   "last_seen": "2026-11-22T14:30:00+00:00",
+   "summary": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "0789bc4259",
+   "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+   "date": "2026-11-22T14:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+     "url": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+     "date": "2026-11-22T14:01:02+00:00",
+     "summary": "Google\u2019s Willow quantum processor beat the classical ceiling in a four-qubit coordination game, revealing a promising hardware test rather than commercial quantum computing."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T14:01:02+00:00",
+   "last_seen": "2026-11-22T14:01:02+00:00",
+   "summary": "Google\u2019s Willow quantum processor beat the classical ceiling in a four-qubit coordination game, revealing a promising hardware test rather than commercial quantum computing.",
+   "tags": []
+  },
+  {
+   "id": "4bab1e0808",
+   "title": "Deribit outage hit Bitcoin hedgers on Coinbase",
+   "date": "2026-11-22T14:00:44+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Deribit outage hit Bitcoin hedgers on Coinbase",
+     "url": "https://cryptoslate.com/deribit-outage-hit-bitcoin-hedgers-on-coinbase/",
+     "date": "2026-11-22T14:00:44+00:00",
+     "summary": "Two trading interruptions hit global Bitcoin and Ether perpetuals that share Deribit execution, while Coinbase said its US derivatives were unaffected. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T14:00:44+00:00",
+   "last_seen": "2026-11-22T14:00:44+00:00",
+   "summary": "Two trading interruptions hit global Bitcoin and Ether perpetuals that share Deribit execution, while Coinbase said its US derivatives were unaffected. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "f80614c2d8",
+   "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+   "date": "2026-11-22T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
+     "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
+     "date": "2026-11-22T14:00:00+00:00",
+     "summary": "Quantum computers can\u2019t break Bitcoin network\u2019s security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T14:00:00+00:00",
+   "last_seen": "2026-11-22T14:00:00+00:00",
+   "summary": "Quantum computers can\u2019t break Bitcoin network\u2019s security yet, but Leo Fan warns that upgrading it and moving funds could take longer than expected.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "12f1146829",
+   "title": "Anthropic Token Debuts on Solana With $135M in Reported Trading Volume",
+   "date": "2026-11-22T13:44:01+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Anthropic Token Debuts on Solana With $135M in Reported Trading Volume",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/anthropic-token-debuts-on-solana-with-135m-in-reported-trading-volume",
+     "date": "2026-11-22T13:44:01+00:00",
+     "summary": "Sunrise reported $134.7 million in ANT's first-24-hour trading volume. Backpack calls the token redeemable for shares, but wallet holders have different rights from brokerage customers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T13:44:01+00:00",
+   "last_seen": "2026-11-22T13:44:01+00:00",
+   "summary": "Sunrise reported $134.7 million in ANT's first-24-hour trading volume. Backpack calls the token redeemable for shares, but wallet holders have different rights from brokerage customers.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "a0c732677b",
+   "title": "Bitcoin\u2019s next big threat could come from two oil tankers in the Middle East",
+   "date": "2026-11-22T13:00:09+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s next big threat could come from two oil tankers in the Middle East",
+     "url": "https://cryptoslate.com/two-hormuz-tanker-strikes-threaten-a-potential-source-of-relief-for-bitcoin/",
+     "date": "2026-11-22T13:00:09+00:00",
+     "summary": "Two reported tanker strikes put the recent Brent decline to the test as traders watch outbound cargo and US rate expectations. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T13:00:09+00:00",
+   "last_seen": "2026-11-22T13:00:09+00:00",
+   "summary": "Two reported tanker strikes put the recent Brent decline to the test as traders watch outbound cargo and US rate expectations. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "d30ecaf32c",
+   "title": "Bitcoin\u2019s $60,000 breakdown puts December Fed decision under the spotlight",
+   "date": "2026-11-22T12:00:04+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s $60,000 breakdown puts December Fed decision under the spotlight",
+     "url": "https://cryptoslate.com/bitcoin-below-60000-fed-half-point-cpi/",
+     "date": "2026-11-22T12:00:04+00:00",
+     "summary": "Bitcoin fell below $60,000 on Friday for the first time since July, with US spot Bitcoin funds recording withdrawals and short-term Treasury bills offering investors more than 4% a year. That creates a problem for the Federal Reserve&#039;s December meeting: traders expect a..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T12:00:04+00:00",
+   "last_seen": "2026-11-22T12:00:04+00:00",
+   "summary": "Bitcoin fell below $60,000 on Friday for the first time since July, with US spot Bitcoin funds recording withdrawals and short-term Treasury bills offering investors more than 4% a year. That creates a problem for the Federal Reserve&#039;s December meeting: traders expect a...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "2fd1228f0c",
+   "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+   "date": "2026-11-22T09:33:06+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+     "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-22T09:33:06+00:00",
+     "summary": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T09:33:06+00:00",
+   "last_seen": "2026-11-22T09:33:06+00:00",
+   "summary": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "6bcbcc58b8",
+   "title": "Bitcoin shorts collapsed 79% in five weeks, then the market turned lower",
+   "date": "2026-11-22T09:30:45+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin shorts collapsed 79% in five weeks, then the market turned lower",
+     "url": "https://cryptoslate.com/bitcoin-shorts-collapsed-79-in-five-weeks-then-the-market-turned-lower/",
+     "date": "2026-11-22T09:30:45+00:00",
+     "summary": "A drop of 3,889 reported short contracts drove most of the move, and the next CFTC report is due November 30. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T09:30:45+00:00",
+   "last_seen": "2026-11-22T09:30:45+00:00",
+   "summary": "A drop of 3,889 reported short contracts drove most of the move, and the next CFTC report is due November 30. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
   {
    "id": "2b21de6f8d",
    "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",

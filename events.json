@@ -1,6 +1,152 @@
 {
- "updated": "2026-11-21T19:27:29.823582+00:00",
+ "updated": "2026-11-22T00:25:34.151270+00:00",
  "events": [
+  {
+   "id": "e2687bd096",
+   "title": "Together AI Discloses Prompt Leak After Dragos Study",
+   "date": "2026-11-21T23:32:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Together AI Discloses Prompt Leak After Dragos Study",
+     "url": "https://thedefiant.io/frontier/ai/together-ai-discloses-prompt-leak-after-dragos-study",
+     "date": "2026-11-21T23:32:49+00:00",
+     "summary": "Together says a coding agent exposed a credential for stored prompt samples. Five credentials later tested by the intruder were canaries from a Dragos experiment."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T23:32:49+00:00",
+   "last_seen": "2026-11-21T23:32:49+00:00",
+   "summary": "Together says a coding agent exposed a credential for stored prompt samples. Five credentials later tested by the intruder were canaries from a Dragos experiment.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "f54fe18f82",
+   "title": "Hackers swapped a hosted DeepSeek model for 53 hours and stripped away its safety protections",
+   "date": "2026-11-21T21:30:30+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Hackers swapped a hosted DeepSeek model for 53 hours and stripped away its safety protections",
+     "url": "https://cryptoslate.com/hackers-swapped-a-hosted-deepseek-model-for-53-hours-and-stripped-away-its-safety-protections/",
+     "date": "2026-11-21T21:30:30+00:00",
+     "summary": "Prime Intellect says the substitute refused none of its HarmBench prompts, down from 198 of 240 with the original model. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T21:30:30+00:00",
+   "last_seen": "2026-11-21T21:30:30+00:00",
+   "summary": "Prime Intellect says the substitute refused none of its HarmBench prompts, down from 198 of 240 with the original model. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "1e3839e171",
+   "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+   "date": "2026-11-21T21:17:36+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+     "url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+     "date": "2026-11-21T21:17:36+00:00",
+     "summary": "Kalshi, which is headquartered in New York, has said the order would shut it down nationwide, though NY's AG said that's not her goal."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T21:17:36+00:00",
+   "last_seen": "2026-11-21T21:17:36+00:00",
+   "summary": "Kalshi, which is headquartered in New York, has said the order would shut it down nationwide, though NY's AG said that's not her goal.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "f8a863d161",
+   "title": "Loudoun Pauses Data Center Votes, Not New Filings",
+   "date": "2026-11-21T20:54:00+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Loudoun Pauses Data Center Votes, Not New Filings",
+     "url": "https://thedefiant.io/frontier/infrastructure/loudoun-pauses-data-center-votes-not-new-filings",
+     "date": "2026-11-21T20:54:00+00:00",
+     "summary": "Many of the Virginia county\u2019s 33 active legislative applications for data centers and substations could be delayed; administrative reviews are unaffected."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T20:54:00+00:00",
+   "last_seen": "2026-11-21T20:54:00+00:00",
+   "summary": "Many of the Virginia county\u2019s 33 active legislative applications for data centers and substations could be delayed; administrative reviews are unaffected.",
+   "tags": []
+  },
+  {
+   "id": "5c4680c9da",
+   "title": "Tesla Begins FSD v15 Rollout to First-Wave Customers",
+   "date": "2026-11-21T19:43:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tesla Begins FSD v15 Rollout to First-Wave Customers",
+     "url": "https://thedefiant.io/frontier/ai/tesla-begins-fsd-v15-rollout-to-first-wave-customers",
+     "date": "2026-11-21T19:43:54+00:00",
+     "summary": "Musk targets December for wider availability. The update changes driving AI and visualizations, but customer FSD still requires active supervision."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T19:43:54+00:00",
+   "last_seen": "2026-11-21T19:43:54+00:00",
+   "summary": "Musk targets December for wider availability. The update changes driving AI and visualizations, but customer FSD still requires active supervision.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "1dd4cb86ad",
+   "title": "Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch",
+   "date": "2026-11-21T19:40:03+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch",
+     "url": "https://cryptoslate.com/russia-bitcoin-trading-rules-moscow-exchange/",
+     "date": "2026-11-21T19:40:03+00:00",
+     "summary": "From Nov. 22, Russian exchanges can begin trading Bitcoin once the central bank approves the rules, but customers still can&#039;t use it to pay for anything. Moscow Exchange plans a Dec. 1 pilot through a US-sanctioned clearinghouse, with ordinary investors limited to 300,000..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T19:40:03+00:00",
+   "last_seen": "2026-11-21T19:40:03+00:00",
+   "summary": "From Nov. 22, Russian exchanges can begin trading Bitcoin once the central bank approves the rules, but customers still can&#039;t use it to pay for anything. Moscow Exchange plans a Dec. 1 pilot through a US-sanctioned clearinghouse, with ordinary investors limited to 300,000...",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "4f17f88ff2",
+   "title": "Chainflip Offers 10% Bounty for Return of Stolen Funds",
+   "date": "2026-11-21T19:32:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Chainflip Offers 10% Bounty for Return of Stolen Funds",
+     "url": "https://thedefiant.io/news/hacks/chainflip-offers-10-bounty-for-return-of-stolen-funds",
+     "date": "2026-11-21T19:32:58+00:00",
+     "summary": "Chainflip says the theft included 122.86 BTC, widening the scope beyond earlier Ethereum outflows. Its recovery offer expires Nov. 23."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T19:32:58+00:00",
+   "last_seen": "2026-11-21T19:32:58+00:00",
+   "summary": "Chainflip says the theft included 122.86 BTC, widening the scope beyond earlier Ethereum outflows. Its recovery offer expires Nov. 23.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "security"
+   ]
+  },
   {
    "id": "89d60c944c",
    "title": "Aave Raises Ethereum USDC Borrow Cap to $4 Billion",

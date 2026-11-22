@@ -1,6 +1,278 @@
 {
- "updated": "2026-11-22T16:23:48.340681+00:00",
+ "updated": "2026-11-22T22:31:39.338679+00:00",
  "events": [
+  {
+   "id": "27c6bfd226",
+   "title": "Senators want state-licensed firms to keep issuing stablecoins after Jan. 18",
+   "date": "2026-11-22T22:05:49+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Senators want state-licensed firms to keep issuing stablecoins after Jan. 18",
+     "url": "https://cryptoslate.com/senators-want-state-licensed-firms-to-keep-issuing-stablecoins-after-jan-18/",
+     "date": "2026-11-22T22:05:49+00:00",
+     "summary": "Treasury\u2019s proposal recognizes waivers for eligible federal applicants, leaving New York asking for clarity on its own issuers. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T22:05:49+00:00",
+   "last_seen": "2026-11-22T22:05:49+00:00",
+   "summary": "Treasury\u2019s proposal recognizes waivers for eligible federal applicants, leaving New York asking for clarity on its own issuers. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "8781ab35ca",
+   "title": "XRP Ledger trial settled 213,000 paid AI requests in 6,324 transactions",
+   "date": "2026-11-22T21:05:16+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP Ledger trial settled 213,000 paid AI requests in 6,324 transactions",
+     "url": "https://cryptoslate.com/xrp-ledger-trial-settled-213000-paid-ai-requests-in-6324-transactions/",
+     "date": "2026-11-22T21:05:16+00:00",
+     "summary": "t54 Labs reported 0.36 drops per paid request in its October beta, and two November checks show a merchant receiving RLUSD. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T21:05:16+00:00",
+   "last_seen": "2026-11-22T21:05:16+00:00",
+   "summary": "t54 Labs reported 0.36 drops per paid request in its October beta, and two November checks show a merchant receiving RLUSD. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai",
+    "legal"
+   ]
+  },
+  {
+   "id": "4711faa6e9",
+   "title": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
+   "date": "2026-11-22T20:58:33+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
+     "date": "2026-11-22T20:58:33+00:00",
+     "summary": "Boxer Floyd Mayweather, \"Shark Tank\" investor Kevin O'Leary and NBA champion Tristan Thompson are scheduled to appear at the dinner."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T20:58:33+00:00",
+   "last_seen": "2026-11-22T20:58:33+00:00",
+   "summary": "Boxer Floyd Mayweather, \"Shark Tank\" investor Kevin O'Leary and NBA champion Tristan Thompson are scheduled to appear at the dinner.",
+   "tags": [
+    "memecoins"
+   ]
+  },
+  {
+   "id": "d7b1e0a540",
+   "title": "Fusionist Urges ACE Trading Pause After Exploit Alert",
+   "date": "2026-11-22T20:13:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Fusionist Urges ACE Trading Pause After Exploit Alert",
+     "url": "https://thedefiant.io/news/hacks/fusionist-urges-ace-trading-pause-after-exploit-alert",
+     "date": "2026-11-22T20:13:12+00:00",
+     "summary": "Blockaid estimated about $1.04 million in USDT had been extracted as Fusionist asked users to pause ACE transfers, trades and bridging on BSC."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T20:13:12+00:00",
+   "last_seen": "2026-11-22T20:13:12+00:00",
+   "summary": "Blockaid estimated about $1.04 million in USDT had been extracted as Fusionist asked users to pause ACE transfers, trades and bridging on BSC.",
+   "tags": [
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "99a0cdc795",
+   "title": "AI just exposed a major weakness in anonymous peer reviews",
+   "date": "2026-11-22T20:05:03+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "AI just exposed a major weakness in anonymous peer reviews",
+     "url": "https://cryptoslate.com/ai-just-exposed-a-major-weakness-in-anonymous-peer-reviews/",
+     "date": "2026-11-22T20:05:03+00:00",
+     "summary": "In a Nov. 19 preprint, researchers report that Claude correctly named the writer on 56% of 398 reports from six volunteers. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T20:05:03+00:00",
+   "last_seen": "2026-11-22T20:05:03+00:00",
+   "summary": "In a Nov. 19 preprint, researchers report that Claude correctly named the writer on 56% of 398 reports from six volunteers. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "a54f0cfbde",
+   "title": "OKXICE's Latest Launch Notice Lists Six Stock Tokens",
+   "date": "2026-11-22T20:01:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OKXICE's Latest Launch Notice Lists Six Stock Tokens",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-s-latest-launch-notice-lists-six-stock-tokens",
+     "date": "2026-11-22T20:01:26+00:00",
+     "summary": "The latest public notice lists six stock tokens for launch, compared with an earlier announcement anticipating more than 70 assets, including 59 Direxion ETFs."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T20:01:26+00:00",
+   "last_seen": "2026-11-22T20:01:26+00:00",
+   "summary": "The latest public notice lists six stock tokens for launch, compared with an earlier announcement anticipating more than 70 assets, including 59 Direxion ETFs.",
+   "tags": [
+    "etfs"
+   ]
+  },
+  {
+   "id": "1318b027ea",
+   "title": "Blur Disables Upgrades, Removing an ETH Rescue Route",
+   "date": "2026-11-22T19:15:44+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Blur Disables Upgrades, Removing an ETH Rescue Route",
+     "url": "https://thedefiant.io/news/security/blur-disables-upgrades-removing-an-eth-rescue-route",
+     "date": "2026-11-22T19:15:44+00:00",
+     "summary": "Developer Quit identified 545.6 ETH in 315 contracts lacking a direct withdrawal path. Ordinary wallet withdrawals remain available."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T19:15:44+00:00",
+   "last_seen": "2026-11-22T19:15:44+00:00",
+   "summary": "Developer Quit identified 545.6 ETH in 315 contracts lacking a direct withdrawal path. Ordinary wallet withdrawals remain available.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "16ec7deef9",
+   "title": "Wagyu\u2019s $13.5 million token crash exposes another coin with 99.9% held by one wallet",
+   "date": "2026-11-22T19:05:03+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Wagyu\u2019s $13.5 million token crash exposes another coin with 99.9% held by one wallet",
+     "url": "https://cryptoslate.com/wagyus-13-5-million-token-crash-exposes-another-coin-with-99-9-held-by-one-wallet/",
+     "date": "2026-11-22T19:05:03+00:00",
+     "summary": "The account that sent XMR1 to the seller held 99.97% of ZEC1\u2019s supply in Bitquery\u2019s November 20 snapshot. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T19:05:03+00:00",
+   "last_seen": "2026-11-22T19:05:03+00:00",
+   "summary": "The account that sent XMR1 to the seller held 99.97% of ZEC1\u2019s supply in Bitquery\u2019s November 20 snapshot. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "4da686cbba",
+   "title": "Polymarket US Adds 70% Taker-Fee Rebate for Straight API Trades",
+   "date": "2026-11-22T19:03:49+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Polymarket US Adds 70% Taker-Fee Rebate for Straight API Trades",
+     "url": "https://thedefiant.io/news/cefi/polymarket-us-adds-70-taker-fee-rebate-for-straight-api-trades",
+     "date": "2026-11-22T19:03:49+00:00",
+     "summary": "The temporary rebate covers API straight trades through Dec. 31. App traders keep their ordinary volume-based rebates of 0\u201330%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T19:03:49+00:00",
+   "last_seen": "2026-11-22T19:03:49+00:00",
+   "summary": "The temporary rebate covers API straight trades through Dec. 31. App traders keep their ordinary volume-based rebates of 0\u201330%.",
+   "tags": []
+  },
+  {
+   "id": "69247a4955",
+   "title": "Chainflip\u2019s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+   "date": "2026-11-22T18:58:57+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Chainflip\u2019s losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+     "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+     "date": "2026-11-22T18:58:57+00:00",
+     "summary": "Chainflip offered the attacker a 10% bounty to return the remainder of the $12 million in stolen BTC, ETH, and stablecoins by Monday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T18:58:57+00:00",
+   "last_seen": "2026-11-22T18:58:57+00:00",
+   "summary": "Chainflip offered the attacker a 10% bounty to return the remainder of the $12 million in stolen BTC, ETH, and stablecoins by Monday.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "security"
+   ]
+  },
+  {
+   "id": "7ba8657ab8",
+   "title": "RAILGUN Community Account Touts Post-Quantum Prototype",
+   "date": "2026-11-22T18:50:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "RAILGUN Community Account Touts Post-Quantum Prototype",
+     "url": "https://thedefiant.io/news/security/railgun-community-account-touts-post-quantum-prototype",
+     "date": "2026-11-22T18:50:09+00:00",
+     "summary": "ZKNOX's wallet proof of concept demonstrates new note encryption on Sepolia, but does not make RAILGUN's spending system quantum-resistant."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T18:50:09+00:00",
+   "last_seen": "2026-11-22T18:50:09+00:00",
+   "summary": "ZKNOX's wallet proof of concept demonstrates new note encryption on Sepolia, but does not make RAILGUN's spending system quantum-resistant.",
+   "tags": []
+  },
+  {
+   "id": "3807878e22",
+   "title": "UK to ban crypto exchanges from making markets on their own platforms as Bitcoin rules change",
+   "date": "2026-11-22T18:05:49+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "UK to ban crypto exchanges from making markets on their own platforms as Bitcoin rules change",
+     "url": "https://cryptoslate.com/uk-to-ban-crypto-exchanges-from-making-markets-on-their-own-platforms-as-bitcoin-rules-change/",
+     "date": "2026-11-22T18:05:49+00:00",
+     "summary": "Firms making markets in spot Bitcoin on qualifying platforms are exempt from principal-dealing permission for that activity. Separate venue rules apply. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T18:05:49+00:00",
+   "last_seen": "2026-11-22T18:05:49+00:00",
+   "summary": "Firms making markets in spot Bitcoin on qualifying platforms are exempt from principal-dealing permission for that activity. Separate venue rules apply. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "f904cb04e5",
+   "title": "XRP\u2019s institutional adoption story has a catch that investors may be overlooking",
+   "date": "2026-11-22T17:05:07+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP\u2019s institutional adoption story has a catch that investors may be overlooking",
+     "url": "https://cryptoslate.com/xrps-institutional-adoption-story-has-a-catch-that-investors-may-be-overlooking/",
+     "date": "2026-11-22T17:05:07+00:00",
+     "summary": "CertiK checked selected network controls, and two live fund designs show where sterling, RLUSD and XRP come into play. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-22T17:05:07+00:00",
+   "last_seen": "2026-11-22T17:05:07+00:00",
+   "summary": "CertiK checked selected network controls, and two live fund designs show where sterling, RLUSD and XRP come into play. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
   {
    "id": "90b6395837",
    "title": "Chainflip users face frozen withdrawals after $4.86 million vanishes from Ethereum vault",
@@ -1036,6 +1308,27 @@
     "ai",
     "bitcoin",
     "funding"
+   ]
+  },
+  {
+   "id": "29e66b7fdc",
+   "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+   "date": "2026-11-21T14:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "OpenAI, Anthropic and rivals seek AI agent rules to prevent commerce chaos",
+     "url": "https://www.coindesk.com/tech/2026/11/21/openai-anthropic-and-rivals-seek-ai-agent-rules-to-prevent-commerce-chaos",
+     "date": "2026-11-21T14:00:00+00:00",
+     "summary": "OpenAI, Anthropic, and other technology giants are backing standards designed to enable agents to work together without putting any one company in control."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-21T14:00:00+00:00",
+   "last_seen": "2026-11-21T14:00:00+00:00",
+   "summary": "OpenAI, Anthropic, and other technology giants are backing standards designed to enable agents to work together without putting any one company in control.",
+   "tags": [
+    "ai"
    ]
   },
   {

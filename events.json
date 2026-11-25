@@ -1,6 +1,595 @@
 {
- "updated": "2026-11-24T23:31:20.524233+00:00",
+ "updated": "2026-11-25T08:49:19.393843+00:00",
  "events": [
+  {
+   "id": "22fd5ba01f",
+   "title": "EU seeks up to $55B for AI and quantum computing fund: Report",
+   "date": "2026-11-25T08:40:28+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "EU seeks up to $55B for AI and quantum computing fund: Report",
+     "url": "https://cointelegraph.com/news/eu-55-billion-ai-quantum-computing-investment-fund?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-25T08:40:28+00:00",
+     "summary": "Hackers already use AI to target crypto exchanges, while future quantum computers could break the cryptography that protects users\u2019 funds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T08:40:28+00:00",
+   "last_seen": "2026-11-25T08:40:28+00:00",
+   "summary": "Hackers already use AI to target crypto exchanges, while future quantum computers could break the cryptography that protects users\u2019 funds.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "d39d56bc0e",
+   "title": "Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower",
+   "date": "2026-11-25T08:35:47+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower",
+     "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
+     "date": "2026-11-25T08:35:47+00:00",
+     "summary": "HYPE fell 8% and SOL 5%, and one analyst said a recovery will need selling in stocks to ease first, with U.S. inflation data due before Thanksgiving."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T08:35:47+00:00",
+   "last_seen": "2026-11-25T08:35:47+00:00",
+   "summary": "HYPE fell 8% and SOL 5%, and one analyst said a recovery will need selling in stocks to ease first, with U.S. inflation data due before Thanksgiving.",
+   "tags": [
+    "bitcoin",
+    "macro",
+    "solana"
+   ]
+  },
+  {
+   "id": "67f8a46372",
+   "title": "OKX\u2019s 24/7 stock trading launch saw just 7% of first-day volume come from customers",
+   "date": "2026-11-25T08:10:42+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "OKX\u2019s 24/7 stock trading launch saw just 7% of first-day volume come from customers",
+     "url": "https://cryptoslate.com/okxs-24-7-stock-trading-launch-saw-just-7-of-first-day-volume-come-from-customers/",
+     "date": "2026-11-25T08:10:42+00:00",
+     "summary": "Eligible US customers can trade tokenized Coinbase, Robinhood and four other stocks, with liquidity pools setting the execution price. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T08:10:42+00:00",
+   "last_seen": "2026-11-25T08:10:42+00:00",
+   "summary": "Eligible US customers can trade tokenized Coinbase, Robinhood and four other stocks, with liquidity pools setting the execution price. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi",
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "26f38ab8fa",
+   "title": "Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
+   "date": "2026-11-25T07:26:57+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ark sells $6.8 million in its own bitcoin ETF as BTC dips below $59,000",
+     "url": "https://www.theblock.co/news/business/2026-11-25-ark-sells-own-bitcoin-btc-dips-446109",
+     "date": "2026-11-25T07:26:57+00:00",
+     "summary": "Cathie Wood's Ark Invest sold its own Ark 21Shares bitcoin ETF on Tuesday amid a broader crypto market downturn."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T07:26:57+00:00",
+   "last_seen": "2026-11-25T07:26:57+00:00",
+   "summary": "Cathie Wood's Ark Invest sold its own Ark 21Shares bitcoin ETF on Tuesday amid a broader crypto market downturn.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "5c2e77e8e1",
+   "title": "South Korea\u2019s crypto bill could move stablecoin race beyond token issuance",
+   "date": "2026-11-25T06:54:59+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "South Korea\u2019s crypto bill could move stablecoin race beyond token issuance",
+     "url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-25T06:54:59+00:00",
+     "summary": "South Korea\u2019s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T06:54:59+00:00",
+   "last_seen": "2026-11-25T06:54:59+00:00",
+   "summary": "South Korea\u2019s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders.",
+   "tags": [
+    "regulation",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "bdbee48f62",
+   "title": "Chainflip\u2019s post-hack refunds leave liquidity providers facing a second financial problem",
+   "date": "2026-11-25T06:50:47+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Chainflip\u2019s post-hack refunds leave liquidity providers facing a second financial problem",
+     "url": "https://cryptoslate.com/chainflips-post-hack-refunds-leave-liquidity-providers-facing-a-second-financial-problem/",
+     "date": "2026-11-25T06:50:47+00:00",
+     "summary": "Liquidity providers can check designated wallets on five networks, while assets in open positions may remain in their Chainflip accounts. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T06:50:47+00:00",
+   "last_seen": "2026-11-25T06:50:47+00:00",
+   "summary": "Liquidity providers can check designated wallets on five networks, while assets in open positions may remain in their Chainflip accounts. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "2f3655f5b4",
+   "title": "Solana developers move to stop validators finishing work on blocks that already lost",
+   "date": "2026-11-25T06:33:10+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Solana developers move to stop validators finishing work on blocks that already lost",
+     "url": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
+     "date": "2026-11-25T06:33:10+00:00",
+     "summary": "The fix would stop the computers that run Solana from wasting effort on transactions the network has already thrown out, freeing up power its recent speed upgrade didn't touch."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T06:33:10+00:00",
+   "last_seen": "2026-11-25T06:33:10+00:00",
+   "summary": "The fix would stop the computers that run Solana from wasting effort on transactions the network has already thrown out, freeing up power its recent speed upgrade didn't touch.",
+   "tags": [
+    "solana"
+   ]
+  },
+  {
+   "id": "763482435a",
+   "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+   "date": "2026-11-25T06:15:08+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+     "url": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+     "date": "2026-11-25T06:15:08+00:00",
+     "summary": "Data shows that the ten busiest accounts accounted for more than all of the exchange's quarterly growth, while trading by everyone else declined."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T06:15:08+00:00",
+   "last_seen": "2026-11-25T06:15:08+00:00",
+   "summary": "Data shows that the ten busiest accounts accounted for more than all of the exchange's quarterly growth, while trading by everyone else declined.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "2087672e61",
+   "title": "French Senate Rejects \u20ac100,000 Crypto Wallet Rule",
+   "date": "2026-11-25T05:44:38+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "French Senate Rejects \u20ac100,000 Crypto Wallet Rule",
+     "url": "https://thedefiant.io/news/regulation/french-senate-rejects-100-000-crypto-wallet-rule",
+     "date": "2026-11-25T05:44:38+00:00",
+     "summary": "Senators also rejected proposals to tax gains on swaps into certain stablecoins and extend the exit tax to crypto. The 2027 budget remains under debate."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T05:44:38+00:00",
+   "last_seen": "2026-11-25T05:44:38+00:00",
+   "summary": "Senators also rejected proposals to tax gains on swaps into certain stablecoins and extend the exit tax to crypto. The 2027 budget remains under debate.",
+   "tags": []
+  },
+  {
+   "id": "124fb03953",
+   "title": "Researchers find a way to make Bitcoin bridges dramatically cheaper to test",
+   "date": "2026-11-25T05:40:36+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Researchers find a way to make Bitcoin bridges dramatically cheaper to test",
+     "url": "https://cryptoslate.com/researchers-find-a-way-to-make-bitcoin-bridges-dramatically-cheaper-to-test/",
+     "date": "2026-11-25T05:40:36+00:00",
+     "summary": "In the authors\u2019 estimates, Praxis shrinks data locked behind a proof, giving Bitcoin bridge designers a way to test payments triggered by events on another chain. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T05:40:36+00:00",
+   "last_seen": "2026-11-25T05:40:36+00:00",
+   "summary": "In the authors\u2019 estimates, Praxis shrinks data locked behind a proof, giving Bitcoin bridge designers a way to test payments triggered by events on another chain. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "00fc0ec456",
+   "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
+   "date": "2026-11-25T05:32:55+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
+     "url": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-25T05:32:55+00:00",
+     "summary": "Velocity relaunched in September as a rebuilt version of Drift Protocol, which was attacked by North Korean hackers in April."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T05:32:55+00:00",
+   "last_seen": "2026-11-25T05:32:55+00:00",
+   "summary": "Velocity relaunched in September as a rebuilt version of Drift Protocol, which was attacked by North Korean hackers in April.",
+   "tags": [
+    "defi",
+    "solana"
+   ]
+  },
+  {
+   "id": "34f58db9fa",
+   "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+   "date": "2026-11-25T05:15:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin, ether get CFTC staff nod for expense requirements, Ethereum Foundation doubles security team, and more",
+     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-25-bitcoin-ether-cftc-staff-nod-ethereum-foundation-doubles-security-team-more-crypto-news-446074",
+     "date": "2026-11-25T05:15:00+00:00",
+     "summary": "In today's newsletter, bitcoin, ether gain recognition under CFTC financial requirements; Ethereum Foundation doubles security team as AI risks grow; and more."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T05:15:00+00:00",
+   "last_seen": "2026-11-25T05:15:00+00:00",
+   "summary": "In today's newsletter, bitcoin, ether gain recognition under CFTC financial requirements; Ethereum Foundation doubles security team as AI risks grow; and more.",
+   "tags": [
+    "ai",
+    "bitcoin",
+    "ethereum",
+    "regulation"
+   ]
+  },
+  {
+   "id": "e6c1e00f42",
+   "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
+   "date": "2026-11-25T04:57:22+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
+     "url": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
+     "date": "2026-11-25T04:57:22+00:00",
+     "summary": "Derive\u2019s new options on Nvidia, Anthropic, stock indices and oil bring hedging tools to onchain RWA markets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T04:57:22+00:00",
+   "last_seen": "2026-11-25T04:57:22+00:00",
+   "summary": "Derive\u2019s new options on Nvidia, Anthropic, stock indices and oil bring hedging tools to onchain RWA markets.",
+   "tags": []
+  },
+  {
+   "id": "0f504f4163",
+   "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+   "date": "2026-11-25T04:50:08+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+     "url": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+     "date": "2026-11-25T04:50:08+00:00",
+     "summary": "The Czech National Bank bought bitcoin a year ago as an experiment. The coin has fallen at least 40% since, and the bank's audited accounts carry it at cost rather than market value. The CNB told CoinDesk an outside custodian holds the coins."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T04:50:08+00:00",
+   "last_seen": "2026-11-25T04:50:08+00:00",
+   "summary": "The Czech National Bank bought bitcoin a year ago as an experiment. The coin has fallen at least 40% since, and the bank's audited accounts carry it at cost rather than market value. The CNB told CoinDesk an outside custodian holds the coins.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "56f5a839be",
+   "title": "MON Hits Record Low After First Insider Lockup Ends",
+   "date": "2026-11-25T04:38:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "MON Hits Record Low After First Insider Lockup Ends",
+     "url": "https://thedefiant.io/news/tokens/mon-hits-record-low-after-first-insider-lockup-ends",
+     "date": "2026-11-25T04:38:54+00:00",
+     "summary": "About 16.6 billion MON became eligible for release under Monad's vesting schedule\u2014roughly 1.4 times its pre-unlock circulating supply."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T04:38:54+00:00",
+   "last_seen": "2026-11-25T04:38:54+00:00",
+   "summary": "About 16.6 billion MON became eligible for release under Monad's vesting schedule\u2014roughly 1.4 times its pre-unlock circulating supply.",
+   "tags": []
+  },
+  {
+   "id": "db1e4809de",
+   "title": "US banks want access to Fed funding on holidays as Wall Street prepares for longer settlement hours",
+   "date": "2026-11-25T04:20:06+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "US banks want access to Fed funding on holidays as Wall Street prepares for longer settlement hours",
+     "url": "https://cryptoslate.com/feds-survey-finds-demand-for-a-holiday-cash-backstop/",
+     "date": "2026-11-25T04:20:06+00:00",
+     "summary": "Thirty-five of 56 domestic banks surveyed valued Sunday and weekday-holiday loan access, while CME\u2019s Thanksgiving schedule shows where Bitcoin futures margin waits. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T04:20:06+00:00",
+   "last_seen": "2026-11-25T04:20:06+00:00",
+   "summary": "Thirty-five of 56 domestic banks surveyed valued Sunday and weekday-holiday loan access, while CME\u2019s Thanksgiving schedule shows where Bitcoin futures margin waits. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The...",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "legal",
+    "macro"
+   ]
+  },
+  {
+   "id": "69182331ea",
+   "title": "Trump willing to pardon Jensen Huang, says it won\u2019t be necessary",
+   "date": "2026-11-25T04:14:42+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Trump willing to pardon Jensen Huang, says it won\u2019t be necessary",
+     "url": "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-25T04:14:42+00:00",
+     "summary": "The president\u2019s remarks come days before Jensen Huang is due to face congressional questioning over national security concerns and US chip export controls."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T04:14:42+00:00",
+   "last_seen": "2026-11-25T04:14:42+00:00",
+   "summary": "The president\u2019s remarks come days before Jensen Huang is due to face congressional questioning over national security concerns and US chip export controls.",
+   "tags": []
+  },
+  {
+   "id": "ff516c3d90",
+   "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+   "date": "2026-11-25T03:35:20+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
+     "url": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
+     "date": "2026-11-25T03:35:20+00:00",
+     "summary": "President Donald Trump said in an interview with the New York Post that he's fine clearing Nvidia's CEO from legal trouble in his affair scandal."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T03:35:20+00:00",
+   "last_seen": "2026-11-25T03:35:20+00:00",
+   "summary": "President Donald Trump said in an interview with the New York Post that he's fine clearing Nvidia's CEO from legal trouble in his affair scandal.",
+   "tags": []
+  },
+  {
+   "id": "12370995cf",
+   "title": "Taiwan Stocks Sink as Much as 8.6% After 9% Rally",
+   "date": "2026-11-25T03:14:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Taiwan Stocks Sink as Much as 8.6% After 9% Rally",
+     "url": "https://thedefiant.io/frontier/markets/taiwan-stocks-sink-as-much-as-8-6-after-9-rally",
+     "date": "2026-11-25T03:14:56+00:00",
+     "summary": "TAIEX pared its loss to 7.1% in late-morning trading, while TSMC and Foxconn also sank following a US chip-stock selloff."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T03:14:56+00:00",
+   "last_seen": "2026-11-25T03:14:56+00:00",
+   "summary": "TAIEX pared its loss to 7.1% in late-morning trading, while TSMC and Foxconn also sank following a US chip-stock selloff.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "57053a2046",
+   "title": "The CFTC opens the door to Bitcoin reserves at US exchanges with a 20% catch",
+   "date": "2026-11-25T02:50:52+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "The CFTC opens the door to Bitcoin reserves at US exchanges with a 20% catch",
+     "url": "https://cryptoslate.com/the-cftc-opens-the-door-to-bitcoin-reserves-at-us-exchanges-with-a-20-catch/",
+     "date": "2026-11-25T02:50:52+00:00",
+     "summary": "CFTC staff says exchanges and clearinghouses can count qualifying crypto at a discount, and a worked example shows how the annual buffer can fall short. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T02:50:52+00:00",
+   "last_seen": "2026-11-25T02:50:52+00:00",
+   "summary": "CFTC staff says exchanges and clearinghouses can count qualifying crypto at a discount, and a worked example shows how the annual buffer can fall short. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "ad4b13a233",
+   "title": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
+   "date": "2026-11-25T02:46:14+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "New York senator proposes 10% tax on prediction market fees to fund universal pre-K",
+     "url": "https://www.theblock.co/news/regulation/2026-11-24-new-york-proposal-prediction-market-tax-446082",
+     "date": "2026-11-25T02:46:14+00:00",
+     "summary": "Proceeds from the 10% tax would be channeled to a new fund for universal pre-kindergarten for children ages 2 to 4."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T02:46:14+00:00",
+   "last_seen": "2026-11-25T02:46:14+00:00",
+   "summary": "Proceeds from the 10% tax would be channeled to a new fund for universal pre-kindergarten for children ages 2 to 4.",
+   "tags": []
+  },
+  {
+   "id": "c58a67a52a",
+   "title": "FinCEN Confirms Intrusion, Keeps BSA Filing Website Open",
+   "date": "2026-11-25T02:35:03+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "FinCEN Confirms Intrusion, Keeps BSA Filing Website Open",
+     "url": "https://thedefiant.io/converge/security/fincen-confirms-intrusion-keeps-bsa-filing-website-open",
+     "date": "2026-11-25T02:35:03+00:00",
+     "summary": "The Treasury bureau says some systems are offline. A Nov. 24 order gives qualifying automated filers more time, but suspicious-activity monitoring must continue."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T02:35:03+00:00",
+   "last_seen": "2026-11-25T02:35:03+00:00",
+   "summary": "The Treasury bureau says some systems are offline. A Nov. 24 order gives qualifying automated filers more time, but suspicious-activity monitoring must continue.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "b146dd0d60",
+   "title": "Liquity Says V2 ETH Branch Is in Safety Mode Near 149%",
+   "date": "2026-11-25T01:54:38+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Liquity Says V2 ETH Branch Is in Safety Mode Near 149%",
+     "url": "https://thedefiant.io/news/defi/liquity-says-v2-eth-branch-is-in-safety-mode-near-149",
+     "date": "2026-11-25T01:54:38+00:00",
+     "summary": "The protocol reported about 149% collateralization, below the 150% Safety Mode threshold that restricts withdrawals and new debt."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T01:54:38+00:00",
+   "last_seen": "2026-11-25T01:54:38+00:00",
+   "summary": "The protocol reported about 149% collateralization, below the 150% Safety Mode threshold that restricts withdrawals and new debt.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "233cddccad",
+   "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+   "date": "2026-11-25T01:40:59+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
+     "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-25T01:40:59+00:00",
+     "summary": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T01:40:59+00:00",
+   "last_seen": "2026-11-25T01:40:59+00:00",
+   "summary": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "9613a54281",
+   "title": "XRP\u2019s shrinking exchange supply may be telling investors the wrong story",
+   "date": "2026-11-25T01:20:03+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP\u2019s shrinking exchange supply may be telling investors the wrong story",
+     "url": "https://cryptoslate.com/xrps-shrinking-exchange-supply-may-be-telling-investors-the-wrong-story/",
+     "date": "2026-11-25T01:20:03+00:00",
+     "summary": "Three Nov. 23 payments sent about 270 million XRP to unlabeled addresses that each held roughly 90 million XRP the next day. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T01:20:03+00:00",
+   "last_seen": "2026-11-25T01:20:03+00:00",
+   "summary": "Three Nov. 23 payments sent about 270 million XRP to unlabeled addresses that each held roughly 90 million XRP the next day. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "0b0e064eb4",
+   "title": "Trump Says He Lobbied Nvidia Board for Huang\u2019s Return",
+   "date": "2026-11-25T00:20:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Trump Says He Lobbied Nvidia Board for Huang\u2019s Return",
+     "url": "https://thedefiant.io/frontier/ai/trump-says-he-lobbied-nvidia-board-for-huang-s-return",
+     "date": "2026-11-25T00:20:09+00:00",
+     "summary": "The president told the WSJ that Nvidia\u2019s falling stock helped his push. Directors reinstated Huang while their independent inquiry remained open."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T00:20:09+00:00",
+   "last_seen": "2026-11-25T00:20:09+00:00",
+   "summary": "The president told the WSJ that Nvidia\u2019s falling stock helped his push. Directors reinstated Huang while their independent inquiry remained open.",
+   "tags": []
+  },
+  {
+   "id": "acfc813024",
+   "title": "Bitcoin faces a familiar macro threat as the US prepares another round of tariffs",
+   "date": "2026-11-24T23:50:36+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin faces a familiar macro threat as the US prepares another round of tariffs",
+     "url": "https://cryptoslate.com/bitcoin-threatened-us-tariff-report-names-china-and-the-eu-as-official-rates-remain-unknown/",
+     "date": "2026-11-24T23:50:36+00:00",
+     "summary": "The trade representative could release overcapacity findings soon, with no determination, tariff schedule or effective date yet listed on the docket. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-24T23:50:36+00:00",
+   "last_seen": "2026-11-24T23:50:36+00:00",
+   "summary": "The trade representative could release overcapacity findings soon, with no determination, tariff schedule or effective date yet listed on the docket. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
+  },
+  {
+   "id": "750bdd6fd6",
+   "title": "Hackers breach CIA intelligence network in latest US cyberattack",
+   "date": "2026-11-24T23:48:16+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Hackers breach CIA intelligence network in latest US cyberattack",
+     "url": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-24T23:48:16+00:00",
+     "summary": "The reported breach follows cyber incidents involving the FBI, Department of Homeland Security and Department of Agriculture."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-24T23:48:16+00:00",
+   "last_seen": "2026-11-24T23:48:16+00:00",
+   "summary": "The reported breach follows cyber incidents involving the FBI, Department of Homeland Security and Department of Agriculture.",
+   "tags": [
+    "security"
+   ]
+  },
   {
    "id": "ac7ecaf110",
    "title": "Trezor Says Firmware Blocks Known Spying Implants",
@@ -393,11 +982,18 @@
      "url": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-11-24T20:48:27+00:00",
      "summary": "Utah\u2019s attorney general warned that the criminal charges could be refiled if Kalshi resumes operations in the state, while separate civil litigation remains unresolved."
+    },
+    {
+     "source": "The Block",
+     "title": "Utah moves to drop criminal charges against Kalshi after platform halts operations",
+     "url": "https://www.theblock.co/news/regulation/2026-11-24-utah-moves-to-drop-criminal-charges-kalshi-446090",
+     "date": "2026-11-25T03:59:52+00:00",
+     "summary": "AG Derek Brown's office filed a motion Monday to drop the charges without prejudice, meaning it can refile if Kalshi returns."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-24T20:48:27+00:00",
-   "last_seen": "2026-11-24T20:48:27+00:00",
+   "last_seen": "2026-11-25T03:59:52+00:00",
    "summary": "Utah\u2019s attorney general warned that the criminal charges could be refiled if Kalshi resumes operations in the state, while separate civil litigation remains unresolved.",
    "tags": []
   },

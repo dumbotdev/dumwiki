@@ -1,6 +1,1170 @@
 {
- "updated": "2026-11-26T12:50:04.598886+00:00",
+ "updated": "2026-11-26T22:25:11.735580+00:00",
  "events": [
+  {
+   "id": "1704a45133",
+   "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+   "date": "2026-11-26T22:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+     "url": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+     "date": "2026-11-26T22:01:02+00:00",
+     "summary": "Some unofficial ports now hit around 20 frames per second, as developers move their work into private communities to dodge takedowns."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T22:01:02+00:00",
+   "last_seen": "2026-11-26T22:01:02+00:00",
+   "summary": "Some unofficial ports now hit around 20 frames per second, as developers move their work into private communities to dodge takedowns.",
+   "tags": []
+  },
+  {
+   "id": "070fce2362",
+   "title": "LayerZero locks early ZRO deposits behind validators users cannot choose",
+   "date": "2026-11-26T21:50:09+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "LayerZero locks early ZRO deposits behind validators users cannot choose",
+     "url": "https://cryptoslate.com/layerzero-locks-early-zro-deposits-behind-validators-users-cannot-choose/",
+     "date": "2026-11-26T21:50:09+00:00",
+     "summary": "Four Pillars will operate for Samsung Card, and early stakers have no say in which validators receive their voting weight. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T21:50:09+00:00",
+   "last_seen": "2026-11-26T21:50:09+00:00",
+   "summary": "Four Pillars will operate for Samsung Card, and early stakers have no say in which validators receive their voting weight. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "8818f9e953",
+   "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+   "date": "2026-11-26T21:42:43+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+     "url": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-26T21:42:43+00:00",
+     "summary": "The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T21:42:43+00:00",
+   "last_seen": "2026-11-26T21:42:43+00:00",
+   "summary": "The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "46f8eefa20",
+   "title": "Binance Hack Flows Through THORChain Top $600M: Reuters",
+   "date": "2026-11-26T21:35:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Hack Flows Through THORChain Top $600M: Reuters",
+     "url": "https://thedefiant.io/news/hacks/binance-hack-flows-through-thorchain-top-600m-reuters",
+     "date": "2026-11-26T21:35:55+00:00",
+     "summary": "The estimate may count the same funds more than once. The FBI had asked THORChain node operators to block transactions tied to the theft."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T21:35:55+00:00",
+   "last_seen": "2026-11-26T21:35:55+00:00",
+   "summary": "The estimate may count the same funds more than once. The FBI had asked THORChain node operators to block transactions tied to the theft.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "716d15280a",
+   "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+   "date": "2026-11-26T21:33:47+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+     "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-26T21:33:47+00:00",
+     "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T21:33:47+00:00",
+   "last_seen": "2026-11-26T21:33:47+00:00",
+   "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "f1a7cff2aa",
+   "title": "UK is \u2018getting it wrong\u2019 on DeFi regulation, says Coinbase",
+   "date": "2026-11-26T21:13:53+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "UK is \u2018getting it wrong\u2019 on DeFi regulation, says Coinbase",
+     "url": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-26T21:13:53+00:00",
+     "summary": "Coinbase and Stand With Crypto argue that the FCA\u2019s proposed DeFi rules could leave UK users without regulated access to decentralized finance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T21:13:53+00:00",
+   "last_seen": "2026-11-26T21:13:53+00:00",
+   "summary": "Coinbase and Stand With Crypto argue that the FCA\u2019s proposed DeFi rules could leave UK users without regulated access to decentralized finance.",
+   "tags": [
+    "defi",
+    "exchanges",
+    "regulation"
+   ]
+  },
+  {
+   "id": "7f7a82f591",
+   "title": "Fluid Pauses DEX Swaps After \u2018Mythos 5.2\u2019 Security Review",
+   "date": "2026-11-26T21:12:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Fluid Pauses DEX Swaps After \u2018Mythos 5.2\u2019 Security Review",
+     "url": "https://thedefiant.io/news/security/fluid-pauses-dex-swaps-after-mythos-5-2-security-review",
+     "date": "2026-11-26T21:12:13+00:00",
+     "summary": "The protocol says borrowers can still repay loans and users can still withdraw funds. It gave no date for trading to resume."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T21:12:13+00:00",
+   "last_seen": "2026-11-26T21:12:13+00:00",
+   "summary": "The protocol says borrowers can still repay loans and users can still withdraw funds. It gave no date for trading to resume.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "da47c36d45",
+   "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+   "date": "2026-11-26T21:01:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+     "url": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
+     "date": "2026-11-26T21:01:03+00:00",
+     "summary": "Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T21:01:03+00:00",
+   "last_seen": "2026-11-26T21:01:03+00:00",
+   "summary": "Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "95ac21ebf6",
+   "title": "Chainlink jumps 10% as its Wall Street ambitions gain momentum on two fronts",
+   "date": "2026-11-26T20:40:01+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Chainlink jumps 10% as its Wall Street ambitions gain momentum on two fronts",
+     "url": "https://cryptoslate.com/chainlink-jumps-10-as-its-wall-street-ambitions-gain-momentum-on-two-fronts/",
+     "date": "2026-11-26T20:40:01+00:00",
+     "summary": "Chainlink&#039;s LINK token climbed 10% over the past 24 hours to $9.20 as the network deepened its integration with traditional finance. The rally comes as Fidelity Investments filed to launch a spot Chainlink exchange-traded fund (ETF), a day after enabling direct LINK trading..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T20:40:01+00:00",
+   "last_seen": "2026-11-26T20:40:01+00:00",
+   "summary": "Chainlink&#039;s LINK token climbed 10% over the past 24 hours to $9.20 as the network deepened its integration with traditional finance. The rally comes as Fidelity Investments filed to launch a spot Chainlink exchange-traded fund (ETF), a day after enabling direct LINK trading...",
+   "tags": [
+    "etfs",
+    "markets"
+   ]
+  },
+  {
+   "id": "d8c5b54eb9",
+   "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+   "date": "2026-11-26T20:05:18+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
+     "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-26T20:05:18+00:00",
+     "summary": "Japan\u2019s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T20:05:18+00:00",
+   "last_seen": "2026-11-26T20:05:18+00:00",
+   "summary": "Japan\u2019s financial regulator is exploring measures to curb illicit finance risks, including potential restrictions on access to DeFi services.",
+   "tags": [
+    "defi",
+    "regulation"
+   ]
+  },
+  {
+   "id": "80a27535dc",
+   "title": "Bitcoin\u2019s $60,000 recovery masks a growing threat that could push its price as low as $29,000",
+   "date": "2026-11-26T19:30:23+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s $60,000 recovery masks a growing threat that could push its price as low as $29,000",
+     "url": "https://cryptoslate.com/bitcoins-60000-recovery-masks-a-growing-threat-that-could-push-its-price-as-low-as-29000/",
+     "date": "2026-11-26T19:30:23+00:00",
+     "summary": "Bitcoin recovered above $60,000 after slipping below that mark on Nov. 25, in a volatile week in which Bitcoin fell to around $55,000, its lowest level since September 2024. BTC rebounded to $63,000 on Monday, but subsequently surrendered much of those gains. According to Talos,..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T19:30:23+00:00",
+   "last_seen": "2026-11-26T19:30:23+00:00",
+   "summary": "Bitcoin recovered above $60,000 after slipping below that mark on Nov. 25, in a volatile week in which Bitcoin fell to around $55,000, its lowest level since September 2024. BTC rebounded to $63,000 on Monday, but subsequently surrendered much of those gains. According to Talos,...",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "d7ce48f6d1",
+   "title": "Microsoft Links China, North Korea Hackers to ARTEX",
+   "date": "2026-11-26T19:19:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Microsoft Links China, North Korea Hackers to ARTEX",
+     "url": "https://thedefiant.io/frontier/ai/microsoft-links-china-north-korea-hackers-to-artex",
+     "date": "2026-11-26T19:19:13+00:00",
+     "summary": "Microsoft says the AI tool can turn initial probing into lasting access with elevated permissions within minutes, depending on the target\u2019s defenses and the attacker\u2019s setup."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T19:19:13+00:00",
+   "last_seen": "2026-11-26T19:19:13+00:00",
+   "summary": "Microsoft says the AI tool can turn initial probing into lasting access with elevated permissions within minutes, depending on the target\u2019s defenses and the attacker\u2019s setup.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "7a1b6dbf7c",
+   "title": "Binance Says Post-Hack Withdrawal Suspension Is Over",
+   "date": "2026-11-26T19:17:27+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance Says Post-Hack Withdrawal Suspension Is Over",
+     "url": "https://thedefiant.io/news/cefi/binance-says-post-hack-withdrawal-suspension-is-over",
+     "date": "2026-11-26T19:17:27+00:00",
+     "summary": "Withdrawals are open on nearly all networks, the exchange says, with a small number still paused for maintenance or upgrades."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T19:17:27+00:00",
+   "last_seen": "2026-11-26T19:17:27+00:00",
+   "summary": "Withdrawals are open on nearly all networks, the exchange says, with a small number still paused for maintenance or upgrades.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "a83dc2120e",
+   "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
+   "date": "2026-11-26T19:01:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
+     "url": "https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
+     "date": "2026-11-26T19:01:02+00:00",
+     "summary": "A study of 170 years of financial journalism suggests AI stocks rivaled dot-com bubble levels, but estimates vary."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T19:01:02+00:00",
+   "last_seen": "2026-11-26T19:01:02+00:00",
+   "summary": "A study of 170 years of financial journalism suggests AI stocks rivaled dot-com bubble levels, but estimates vary.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "c828f0a490",
+   "title": "Walmart\u2019s Black Friday rollout reveals how AI agents could spend money without controlling your wallet",
+   "date": "2026-11-26T19:00:28+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Walmart\u2019s Black Friday rollout reveals how AI agents could spend money without controlling your wallet",
+     "url": "https://cryptoslate.com/walmarts-black-friday-rollout-reveals-how-ai-agents-could-spend-money-without-controlling-your-wallet/",
+     "date": "2026-11-26T19:00:28+00:00",
+     "summary": "Shoppers can check out in Meta\u2019s Muse with a card saved to Walmart and set a spending limit in their Walmart account. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T19:00:28+00:00",
+   "last_seen": "2026-11-26T19:00:28+00:00",
+   "summary": "Shoppers can check out in Meta\u2019s Muse with a card saved to Walmart and set a spending limit in their Walmart account. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "1264b8b2e3",
+   "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+   "date": "2026-11-26T18:26:31+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+     "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-26T18:26:31+00:00",
+     "summary": "A new decree would allow Spain\u2019s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T18:26:31+00:00",
+   "last_seen": "2026-11-26T18:26:31+00:00",
+   "summary": "A new decree would allow Spain\u2019s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance.",
+   "tags": []
+  },
+  {
+   "id": "33e6c9c8d8",
+   "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+   "date": "2026-11-26T18:15:29+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+     "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+     "date": "2026-11-26T18:15:29+00:00",
+     "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T18:15:29+00:00",
+   "last_seen": "2026-11-26T18:15:29+00:00",
+   "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "9131b139d6",
+   "title": "OpenAI\u2019s Codex helps amateur astronomer uncover two possible planets NASA\u2019s data had missed",
+   "date": "2026-11-26T17:40:45+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "OpenAI\u2019s Codex helps amateur astronomer uncover two possible planets NASA\u2019s data had missed",
+     "url": "https://cryptoslate.com/openais-codex-helps-amateur-astronomer-uncover-two-possible-planets-nasas-data-had-missed/",
+     "date": "2026-11-26T17:40:45+00:00",
+     "summary": "OpenAI says a SETI Institute astronomer independently recovered two recurring Kepler signals, giving astronomers targets for follow-up. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T17:40:45+00:00",
+   "last_seen": "2026-11-26T17:40:45+00:00",
+   "summary": "OpenAI says a SETI Institute astronomer independently recovered two recurring Kepler signals, giving astronomers targets for follow-up. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "fecc9f84fe",
+   "title": "Crypto on notice as hawkish Fed risks December \u2018meltdown\u2019",
+   "date": "2026-11-26T17:39:53+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Crypto on notice as hawkish Fed risks December \u2018meltdown\u2019",
+     "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-26T17:39:53+00:00",
+     "summary": "Economist Robin Brooks warned of dire consequences for stocks if the Federal Reserve fails to deliver dovish cues before the FOMC blackout period."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T17:39:53+00:00",
+   "last_seen": "2026-11-26T17:39:53+00:00",
+   "summary": "Economist Robin Brooks warned of dire consequences for stocks if the Federal Reserve fails to deliver dovish cues before the FOMC blackout period.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "4b2b1dd0f3",
+   "title": "Tokenized Anthropic Holders Doubled in 3 Days",
+   "date": "2026-11-26T17:32:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Tokenized Anthropic Holders Doubled in 3 Days",
+     "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
+     "date": "2026-11-26T17:32:00+00:00",
+     "summary": "The Cash Leg Moves Onchain An onchain trade requires both the tokenized asset itself and an onchain payment that clears it. Most of this year\u2019s progress has been focused on the asset. Last week bank money started to move onchain too. Last Tuesday, Fed Governor Christopher Waller..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T17:32:00+00:00",
+   "last_seen": "2026-11-26T17:32:00+00:00",
+   "summary": "The Cash Leg Moves Onchain An onchain trade requires both the tokenized asset itself and an onchain payment that clears it. Most of this year\u2019s progress has been focused on the asset. Last week bank money started to move onchain too. Last Tuesday, Fed Governor Christopher Waller...",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "26ce6daffc",
+   "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+   "date": "2026-11-26T17:30:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+     "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+     "date": "2026-11-26T17:30:00+00:00",
+     "summary": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T17:30:00+00:00",
+   "last_seen": "2026-11-26T17:30:00+00:00",
+   "summary": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "05948a6a4a",
+   "title": "Cryptio Urges Clients to Revoke API Keys After Attack",
+   "date": "2026-11-26T17:14:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Cryptio Urges Clients to Revoke API Keys After Attack",
+     "url": "https://thedefiant.io/news/security/cryptio-urges-clients-to-revoke-api-keys-after-attack",
+     "date": "2026-11-26T17:14:48+00:00",
+     "summary": "The crypto accounting firm said exchange and custody credentials may have been exposed. Its notice did not confirm that any keys were taken or report any losses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T17:14:48+00:00",
+   "last_seen": "2026-11-26T17:14:48+00:00",
+   "summary": "The crypto accounting firm said exchange and custody credentials may have been exposed. Its notice did not confirm that any keys were taken or report any losses.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "bf9017f862",
+   "title": "UK Watchdog Says Meta Declined Tests of Its AI Agent",
+   "date": "2026-11-26T17:14:37+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "UK Watchdog Says Meta Declined Tests of Its AI Agent",
+     "url": "https://thedefiant.io/frontier/ai/uk-watchdog-says-meta-declined-tests-of-its-ai-agent",
+     "date": "2026-11-26T17:14:37+00:00",
+     "summary": "Meta says Muse asks users to approve every purchase. Britain\u2019s financial watchdog wanted to see how AI agents would handle payments in practice."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T17:14:37+00:00",
+   "last_seen": "2026-11-26T17:14:37+00:00",
+   "summary": "Meta says Muse asks users to approve every purchase. Britain\u2019s financial watchdog wanted to see how AI agents would handle payments in practice.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "ff2c5c091d",
+   "title": "Puts Lead Reported Volume in Deribit\u2019s BTC-Settled Series",
+   "date": "2026-11-26T16:55:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Puts Lead Reported Volume in Deribit\u2019s BTC-Settled Series",
+     "url": "https://thedefiant.io/news/markets/puts-lead-reported-volume-in-deribit-s-btc-settled-series",
+     "date": "2026-11-26T16:55:55+00:00",
+     "summary": "Calls still outnumber puts in Friday\u2019s $6.8 billion BTC-settled expiry. In separate week-ahead snapshots, November\u2019s open positions were closer to balanced than October\u2019s."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T16:55:55+00:00",
+   "last_seen": "2026-11-26T16:55:55+00:00",
+   "summary": "Calls still outnumber puts in Friday\u2019s $6.8 billion BTC-settled expiry. In separate week-ahead snapshots, November\u2019s open positions were closer to balanced than October\u2019s.",
+   "tags": []
+  },
+  {
+   "id": "2343331cbf",
+   "title": "OKXICE Stock Tokens Turn Over $8.9 Million in Three Days",
+   "date": "2026-11-26T16:53:29+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OKXICE Stock Tokens Turn Over $8.9 Million in Three Days",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/okxice-stock-tokens-turn-over-8-9-million-in-three-days",
+     "date": "2026-11-26T16:53:29+00:00",
+     "summary": "Dune said two addresses it linked to pool liquidity accounted for 99.85% of the volume it tracked."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T16:53:29+00:00",
+   "last_seen": "2026-11-26T16:53:29+00:00",
+   "summary": "Dune said two addresses it linked to pool liquidity accounted for 99.85% of the volume it tracked.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "9ebe001534",
+   "title": "Bitcoin\u2019s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+   "date": "2026-11-26T16:50:23+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin\u2019s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+     "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+     "date": "2026-11-26T16:50:23+00:00",
+     "summary": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T16:50:23+00:00",
+   "last_seen": "2026-11-26T16:50:23+00:00",
+   "summary": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "df417a6dca",
+   "title": "Ethena Says sUSDe Wait Is Gone; Early Checks Read One Day",
+   "date": "2026-11-26T16:43:24+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ethena Says sUSDe Wait Is Gone; Early Checks Read One Day",
+     "url": "https://thedefiant.io/news/defi/ethena-says-susde-wait-is-gone-early-checks-read-one-day",
+     "date": "2026-11-26T16:43:24+00:00",
+     "summary": "Ethena\u2019s risk committee backed instant unstaking with safeguards. Two Ethereum explorer checks minutes after the announcement returned a 24-hour cooldown setting without identifying a block."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T16:43:24+00:00",
+   "last_seen": "2026-11-26T16:43:24+00:00",
+   "summary": "Ethena\u2019s risk committee backed instant unstaking with safeguards. Two Ethereum explorer checks minutes after the announcement returned a 24-hour cooldown setting without identifying a block.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "7273406810",
+   "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
+   "date": "2026-11-26T16:43:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
+     "url": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
+     "date": "2026-11-26T16:43:02+00:00",
+     "summary": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T16:43:02+00:00",
+   "last_seen": "2026-11-26T16:43:02+00:00",
+   "summary": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "045dcd1e1f",
+   "title": "BIS chief Pablo Hern\u00e1ndez de Cos set to become next ECB president: FT",
+   "date": "2026-11-26T16:40:44+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "BIS chief Pablo Hern\u00e1ndez de Cos set to become next ECB president: FT",
+     "url": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-26T16:40:44+00:00",
+     "summary": "The Spanish economist has questioned the viability of stablecoins for widespread payments while backing the development of a digital euro."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T16:40:44+00:00",
+   "last_seen": "2026-11-26T16:40:44+00:00",
+   "summary": "The Spanish economist has questioned the viability of stablecoins for widespread payments while backing the development of a digital euro.",
+   "tags": []
+  },
+  {
+   "id": "339803972e",
+   "title": "The Agentic Economy Is WAY Bigger Than You Think | Xen Baynham-Herd",
+   "date": "2026-11-26T16:30:12+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "The Agentic Economy Is WAY Bigger Than You Think | Xen Baynham-Herd",
+     "url": "https://bitcoinmagazine.com/videos/the-agentic-economy-is-way-bigger-than-you-think-xen-baynham-herd",
+     "date": "2026-11-26T16:30:12+00:00",
+     "summary": "&#9654; Bitcoin Magazine The Agentic Economy Is WAY Bigger Than You Think | Xen Baynham-Herd Tokenized stocks on Base grabbed about a third of weekly spot trading in their market just months after launch, and Xen Baynham-Herd, Director of Marketing and Global Expansion at Base,..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T16:30:12+00:00",
+   "last_seen": "2026-11-26T16:30:12+00:00",
+   "summary": "&#9654; Bitcoin Magazine The Agentic Economy Is WAY Bigger Than You Think | Xen Baynham-Herd Tokenized stocks on Base grabbed about a third of weekly spot trading in their market just months after launch, and Xen Baynham-Herd, Director of Marketing and Global Expansion at Base,...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "a6e14c57fa",
+   "title": "Israel Discount Bank Adds Bitcoin and Ether Trading",
+   "date": "2026-11-26T16:29:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Israel Discount Bank Adds Bitcoin and Ether Trading",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/israel-discount-bank-adds-bitcoin-and-ether-trading",
+     "date": "2026-11-26T16:29:51+00:00",
+     "summary": "Eligible retail customers can use their existing securities accounts, but they can\u2019t move coins to or from outside wallets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T16:29:51+00:00",
+   "last_seen": "2026-11-26T16:29:51+00:00",
+   "summary": "Eligible retail customers can use their existing securities accounts, but they can\u2019t move coins to or from outside wallets.",
+   "tags": [
+    "bitcoin",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "c28c852799",
+   "title": "Bitcoin\u2019s recovery above $60,000 faces a threat from Japan while Wall Street sleeps",
+   "date": "2026-11-26T16:20:29+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s recovery above $60,000 faces a threat from Japan while Wall Street sleeps",
+     "url": "https://cryptoslate.com/bitcoins-recovery-above-60000-faces-a-threat-from-japan-while-wall-street-sleeps/",
+     "date": "2026-11-26T16:20:29+00:00",
+     "summary": "Tokyo\u2019s inflation report lands during the US ETF trading break, with yen moves and short-term Japanese yields offering clues to pressure on yen-funded trades. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T16:20:29+00:00",
+   "last_seen": "2026-11-26T16:20:29+00:00",
+   "summary": "Tokyo\u2019s inflation report lands during the US ETF trading break, with yen moves and short-term Japanese yields offering clues to pressure on yen-funded trades. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in...",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "macro"
+   ]
+  },
+  {
+   "id": "760c583c22",
+   "title": "JPMorgan says bitcoin \u2018capitulation\u2019 signaled by Strategy\u2019s record-low NAV multiple",
+   "date": "2026-11-26T16:18:24+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "JPMorgan says bitcoin \u2018capitulation\u2019 signaled by Strategy\u2019s record-low NAV multiple",
+     "url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
+     "date": "2026-11-26T16:18:24+00:00",
+     "summary": "JPMorgan analysts said Strategy's valuation relative to its bitcoin holdings has hit a record low, signaling bitcoin \"capitulation.\""
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T16:18:24+00:00",
+   "last_seen": "2026-11-26T16:18:24+00:00",
+   "summary": "JPMorgan analysts said Strategy's valuation relative to its bitcoin holdings has hit a record low, signaling bitcoin \"capitulation.\"",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "ef78cde26a",
+   "title": "Bitcoin Falls 1.3% After US Inflation and GDP Reports",
+   "date": "2026-11-26T16:08:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Falls 1.3% After US Inflation and GDP Reports",
+     "url": "https://thedefiant.io/news/markets/bitcoin-falls-1-3-after-us-inflation-and-gdp-reports",
+     "date": "2026-11-26T16:08:31+00:00",
+     "summary": "A December Fed rate hike was already the market\u2019s base case before the reports. US spot bitcoin ETFs recorded $453 million in net outflows Wednesday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T16:08:31+00:00",
+   "last_seen": "2026-11-26T16:08:31+00:00",
+   "summary": "A December Fed rate hike was already the market\u2019s base case before the reports. US spot bitcoin ETFs recorded $453 million in net outflows Wednesday.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "macro"
+   ]
+  },
+  {
+   "id": "d829bfd3b5",
+   "title": "Bitcoin Has Become Boring, Finally",
+   "date": "2026-11-26T15:51:27+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Has Become Boring, Finally",
+     "url": "https://bitcoinmagazine.com/culture/bitcoin-has-become-boring-finally",
+     "date": "2026-11-26T15:51:27+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Has Become Boring, Finally Bitcoin isn't a shiny new technology any more, it is established, and it is here to stay. This post Bitcoin Has Become Boring, Finally first appeared on Bitcoin Magazine and is written by Roy Sheinfeld ."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T15:51:27+00:00",
+   "last_seen": "2026-11-26T15:51:27+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Has Become Boring, Finally Bitcoin isn't a shiny new technology any more, it is established, and it is here to stay. This post Bitcoin Has Become Boring, Finally first appeared on Bitcoin Magazine and is written by Roy Sheinfeld .",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "0bc8a14493",
+   "title": "Telegram Cuts Fee to 2% on Gift Resales Paid in Gram",
+   "date": "2026-11-26T15:49:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Telegram Cuts Fee to 2% on Gift Resales Paid in Gram",
+     "url": "https://thedefiant.io/news/nfts-and-web3/telegram-cuts-fee-to-2-on-gift-resales-paid-in-gram",
+     "date": "2026-11-26T15:49:31+00:00",
+     "summary": "CEO Pavel Durov said sellers trading inside Telegram now get paid directly in Gram when a sale settles on TON."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T15:49:31+00:00",
+   "last_seen": "2026-11-26T15:49:31+00:00",
+   "summary": "CEO Pavel Durov said sellers trading inside Telegram now get paid directly in Gram when a sale settles on TON.",
+   "tags": []
+  },
+  {
+   "id": "a9c96bf801",
+   "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
+   "date": "2026-11-26T15:45:07+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
+     "url": "https://cointelegraph.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-26T15:45:07+00:00",
+     "summary": "A vote on Kyrgyzstan could make an exchange\u2019s home country the deciding factor in whether a European broker can use it to settle a trade."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T15:45:07+00:00",
+   "last_seen": "2026-11-26T15:45:07+00:00",
+   "summary": "A vote on Kyrgyzstan could make an exchange\u2019s home country the deciding factor in whether a European broker can use it to settle a trade.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "8c7fed63ee",
+   "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+   "date": "2026-11-26T15:42:43+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+     "url": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
+     "date": "2026-11-26T15:42:43+00:00",
+     "summary": ""
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T15:42:43+00:00",
+   "last_seen": "2026-11-26T15:42:43+00:00",
+   "summary": "",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "5940612399",
+   "title": "Ether Drops 28% in Four Weeks, Lagging Bitcoin",
+   "date": "2026-11-26T15:39:36+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ether Drops 28% in Four Weeks, Lagging Bitcoin",
+     "url": "https://thedefiant.io/news/markets/ether-drops-28-in-four-weeks-lagging-bitcoin",
+     "date": "2026-11-26T15:39:36+00:00",
+     "summary": "US spot ether ETFs recorded $523.3 million in net withdrawals over eight trading sessions through Nov. 25, according to Farside Investors\u2019 data."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T15:39:36+00:00",
+   "last_seen": "2026-11-26T15:39:36+00:00",
+   "summary": "US spot ether ETFs recorded $523.3 million in net withdrawals over eight trading sessions through Nov. 25, according to Farside Investors\u2019 data.",
+   "tags": [
+    "bitcoin",
+    "etfs",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "a5923a36ad",
+   "title": "Huawei to Detail New AI Memory Design in February",
+   "date": "2026-11-26T15:14:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Huawei to Detail New AI Memory Design in February",
+     "url": "https://thedefiant.io/frontier/ai/huawei-to-detail-new-ai-memory-design-in-february",
+     "date": "2026-11-26T15:14:13+00:00",
+     "summary": "The conference program describes a custom chip but gives no production timetable. US export controls limit China\u2019s access to imported high-bandwidth memory."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T15:14:13+00:00",
+   "last_seen": "2026-11-26T15:14:13+00:00",
+   "summary": "The conference program describes a custom chip but gives no production timetable. US export controls limit China\u2019s access to imported high-bandwidth memory.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "6e83fdf1b8",
+   "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
+   "date": "2026-11-26T15:11:14+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
+     "url": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
+     "date": "2026-11-26T15:11:14+00:00",
+     "summary": "OpenAI says a billing mistake made its new AI models cheaper to use than intended. Subscribers will now burn through their allowances faster, but get a free one-time usage reset."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T15:11:14+00:00",
+   "last_seen": "2026-11-26T15:11:14+00:00",
+   "summary": "OpenAI says a billing mistake made its new AI models cheaper to use than intended. Subscribers will now burn through their allowances faster, but get a free one-time usage reset.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "2505fbcbb9",
+   "title": "AI agents can pass every accuracy test and still put your money at risk",
+   "date": "2026-11-26T15:00:07+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "AI agents can pass every accuracy test and still put your money at risk",
+     "url": "https://cryptoslate.com/ai-agents-can-pass-every-accuracy-test-and-still-put-your-money-at-risk/",
+     "date": "2026-11-26T15:00:07+00:00",
+     "summary": "In ShellBench, 2,589 of 26,151 runs that met every correctness criterion still failed at least one safety requirement. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T15:00:07+00:00",
+   "last_seen": "2026-11-26T15:00:07+00:00",
+   "summary": "In ShellBench, 2,589 of 26,151 runs that met every correctness criterion still failed at least one safety requirement. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "465e89e5f4",
+   "title": "Elon Musk Says \u2018Multiplanetary\u2019 SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
+   "date": "2026-11-26T14:38:55+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Elon Musk Says \u2018Multiplanetary\u2019 SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
+     "url": "https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
+     "date": "2026-11-26T14:38:55+00:00",
+     "summary": "The SpaceX founder claims the firm could one day be worth a million times the global economy, as he pledges free shares to American children."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T14:38:55+00:00",
+   "last_seen": "2026-11-26T14:38:55+00:00",
+   "summary": "The SpaceX founder claims the firm could one day be worth a million times the global economy, as he pledges free shares to American children.",
+   "tags": []
+  },
+  {
+   "id": "b10f3ea748",
+   "title": "Spain Issues Decree to Allow Temporary Crypto Account Freezes",
+   "date": "2026-11-26T14:31:28+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Spain Issues Decree to Allow Temporary Crypto Account Freezes",
+     "url": "https://thedefiant.io/news/regulation/spain-issues-decree-to-allow-temporary-crypto-account-freezes",
+     "date": "2026-11-26T14:31:28+00:00",
+     "summary": "The measure, scheduled for Jan. 25 pending a vote in Congress, would let Sepblac freeze accounts for up to five business days without prior court approval."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T14:31:28+00:00",
+   "last_seen": "2026-11-26T14:31:28+00:00",
+   "summary": "The measure, scheduled for Jan. 25 pending a vote in Congress, would let Sepblac freeze accounts for up to five business days without prior court approval.",
+   "tags": [
+    "legal",
+    "regulation"
+   ]
+  },
+  {
+   "id": "b0beca1422",
+   "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
+   "date": "2026-11-26T14:26:22+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
+     "url": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
+     "date": "2026-11-26T14:26:22+00:00",
+     "summary": "The startup uses AI to interpret real-world events for onchain apps and agents, recording evidence and reasoning so outcomes can be audited."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T14:26:22+00:00",
+   "last_seen": "2026-11-26T14:26:22+00:00",
+   "summary": "The startup uses AI to interpret real-world events for onchain apps and agents, recording evidence and reasoning so outcomes can be audited.",
+   "tags": [
+    "ai",
+    "funding"
+   ]
+  },
+  {
+   "id": "8483f714c9",
+   "title": "KuCoin to Delist Monero, Ending Spot Trading Nov. 30",
+   "date": "2026-11-26T14:21:17+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "KuCoin to Delist Monero, Ending Spot Trading Nov. 30",
+     "url": "https://thedefiant.io/news/cefi/kucoin-to-delist-monero-ending-spot-trading-nov-30",
+     "date": "2026-11-26T14:21:17+00:00",
+     "summary": "XMR deposits are already closed. Withdrawals are scheduled to end Dec. 31, and KuCoin urged borrowers who pledged Monero to add other collateral."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T14:21:17+00:00",
+   "last_seen": "2026-11-26T14:21:17+00:00",
+   "summary": "XMR deposits are already closed. Withdrawals are scheduled to end Dec. 31, and KuCoin urged borrowers who pledged Monero to add other collateral.",
+   "tags": []
+  },
+  {
+   "id": "c53aed0847",
+   "title": "The portfolio risk Toobit\u2019s growth chief wants AI to flag before a trade",
+   "date": "2026-11-26T14:20:46+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "The portfolio risk Toobit\u2019s growth chief wants AI to flag before a trade",
+     "url": "https://cryptoslate.com/yasser-elmansy-ai-crypto-portfolio-risk/",
+     "date": "2026-11-26T14:20:46+00:00",
+     "summary": "Holding a basket of different tokens often feels like diversification, right up until a market downturn drags them all down at once. Toobit\u2019s chief growth officer, Yasser Elmansy, told CryptoSlate he\u2019d like an AI assistant to warn traders when a new position adds to a risk they..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T14:20:46+00:00",
+   "last_seen": "2026-11-26T14:20:46+00:00",
+   "summary": "Holding a basket of different tokens often feels like diversification, right up until a market downturn drags them all down at once. Toobit\u2019s chief growth officer, Yasser Elmansy, told CryptoSlate he\u2019d like an AI assistant to warn traders when a new position adds to a risk they...",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "e47824b574",
+   "title": "Hern\u00e1ndez de Cos Gains Backing to Lead ECB, FT Reports",
+   "date": "2026-11-26T14:18:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Hern\u00e1ndez de Cos Gains Backing to Lead ECB, FT Reports",
+     "url": "https://thedefiant.io/converge/regulation/hern-ndez-de-cos-gains-backing-to-lead-ecb-ft-reports",
+     "date": "2026-11-26T14:18:58+00:00",
+     "summary": "The BIS chief emerged as the frontrunner for a February handover after the Netherlands shifted its support. A formal appointment is still required."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T14:18:58+00:00",
+   "last_seen": "2026-11-26T14:18:58+00:00",
+   "summary": "The BIS chief emerged as the frontrunner for a February handover after the Netherlands shifted its support. A formal appointment is still required.",
+   "tags": []
+  },
+  {
+   "id": "026ea6e91a",
+   "title": "Extended Sets XTEN Airdrop for Nov. 29 Ahead of Trading",
+   "date": "2026-11-26T14:06:43+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Extended Sets XTEN Airdrop for Nov. 29 Ahead of Trading",
+     "url": "https://thedefiant.io/news/tokens/extended-sets-xten-airdrop-for-nov-29-ahead-of-trading",
+     "date": "2026-11-26T14:06:43+00:00",
+     "summary": "Eligible points holders must sign before 3:30 a.m. ET on Nov. 29 and clear checks in time for the first batch. Vault depositors will need to stake XTEN to earn Extra Yield."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T14:06:43+00:00",
+   "last_seen": "2026-11-26T14:06:43+00:00",
+   "summary": "Eligible points holders must sign before 3:30 a.m. ET on Nov. 29 and clear checks in time for the first batch. Vault depositors will need to stake XTEN to earn Extra Yield.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "f77a7ca538",
+   "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+   "date": "2026-11-26T14:05:58+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+     "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
+     "date": "2026-11-26T14:05:58+00:00",
+     "summary": "Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T14:05:58+00:00",
+   "last_seen": "2026-11-26T14:05:58+00:00",
+   "summary": "Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit.",
+   "tags": []
+  },
+  {
+   "id": "8a1135e33f",
+   "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
+   "date": "2026-11-26T13:47:56+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
+     "url": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-26T13:47:56+00:00",
+     "summary": "Nasdaq\u2019s Roland Chai backed exploring common EU rules for tokenized securities and said its Swedish subsidiary had applied for a DLT license."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T13:47:56+00:00",
+   "last_seen": "2026-11-26T13:47:56+00:00",
+   "summary": "Nasdaq\u2019s Roland Chai backed exploring common EU rules for tokenized securities and said its Swedish subsidiary had applied for a DLT license.",
+   "tags": []
+  },
+  {
+   "id": "233149e40a",
+   "title": "US government could be barred from selling its strategic Bitcoin holdings for 20 years",
+   "date": "2026-11-26T13:40:29+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "US government could be barred from selling its strategic Bitcoin holdings for 20 years",
+     "url": "https://cryptoslate.com/us-government-could-be-barred-from-selling-its-strategic-bitcoin-holdings-for-20-years/",
+     "date": "2026-11-26T13:40:29+00:00",
+     "summary": "H.R. 8957 would pair an annual reserve report with public cryptographic attestation and independent verification. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T13:40:29+00:00",
+   "last_seen": "2026-11-26T13:40:29+00:00",
+   "summary": "H.R. 8957 would pair an annual reserve report with public cryptographic attestation and independent verification. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "1dbe53dfba",
+   "title": "Ledger Atom Pairs Android Apps With a Crypto Signer",
+   "date": "2026-11-26T13:38:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Ledger Atom Pairs Android Apps With a Crypto Signer",
+     "url": "https://thedefiant.io/news/security/ledger-atom-pairs-android-apps-with-a-crypto-signer",
+     "date": "2026-11-26T13:38:12+00:00",
+     "summary": "Ledger lists the Founders Edition at $849 and is taking refundable $100 deposits. Its current terms estimate delivery in summer 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T13:38:12+00:00",
+   "last_seen": "2026-11-26T13:38:12+00:00",
+   "summary": "Ledger lists the Founders Edition at $849 and is taking refundable $100 deposits. Its current terms estimate delivery in summer 2027.",
+   "tags": []
+  },
+  {
+   "id": "31aab40c45",
+   "title": "7 bizarre things crypto whales spent a fortune on",
+   "date": "2026-11-26T13:30:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "7 bizarre things crypto whales spent a fortune on",
+     "url": "https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-26T13:30:00+00:00",
+     "summary": "The crypto rich have spent their fortunes on everything from dinosaur skeletons to rotting fruit, with some purchases defying belief."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T13:30:00+00:00",
+   "last_seen": "2026-11-26T13:30:00+00:00",
+   "summary": "The crypto rich have spent their fortunes on everything from dinosaur skeletons to rotting fruit, with some purchases defying belief.",
+   "tags": []
+  },
+  {
+   "id": "f4290c14fa",
+   "title": "\u2018The time to prepare for a cryptographic breakthrough is before it happens\u2019: Zcash team urges faster deprecation of legacy shielded pool",
+   "date": "2026-11-26T13:22:47+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "\u2018The time to prepare for a cryptographic breakthrough is before it happens\u2019: Zcash team urges faster deprecation of legacy shielded pool",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-26-the-time-to-prepare-for-a-cryptographic-breakthrough-is-before-it-happens-zcash-team-urges-faster-deprecation-of-legacy-shielded-pool-447000",
+     "date": "2026-11-26T13:22:47+00:00",
+     "summary": "Zakura wants Zcash to disable Sapling deposits over speculative concerns about AI-assisted mathematical breakthroughs."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T13:22:47+00:00",
+   "last_seen": "2026-11-26T13:22:47+00:00",
+   "summary": "Zakura wants Zcash to disable Sapling deposits over speculative concerns about AI-assisted mathematical breakthroughs.",
+   "tags": []
+  },
+  {
+   "id": "8034a27313",
+   "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
+   "date": "2026-11-26T13:13:19+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
+     "url": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
+     "date": "2026-11-26T13:13:19+00:00",
+     "summary": "The crypto custodian said an unauthorized party accessed some client and staff names and emails, but found no unauthorized transactions."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T13:13:19+00:00",
+   "last_seen": "2026-11-26T13:13:19+00:00",
+   "summary": "The crypto custodian said an unauthorized party accessed some client and staff names and emails, but found no unauthorized transactions.",
+   "tags": []
+  },
   {
    "id": "333a91525b",
    "title": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",

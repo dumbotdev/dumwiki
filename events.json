@@ -1,6 +1,708 @@
 {
- "updated": "2026-11-25T19:25:08.957269+00:00",
+ "updated": "2026-11-26T02:54:03.370192+00:00",
  "events": [
+  {
+   "id": "4b1f4327f7",
+   "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
+   "date": "2026-11-26T02:22:43+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "LayerZero adds Samsung Card, Kakao Pay, ZAN as validators for upcoming Zero blockchain",
+     "url": "https://www.theblock.co/news/business/2026-11-25-layerzero-kakaopay-samsung-446770",
+     "date": "2026-11-26T02:22:43+00:00",
+     "summary": "Zero uses ZK proofs to separate execution from verification, removing a layer of redundancy by leaving validators to only verify the proofs."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T02:22:43+00:00",
+   "last_seen": "2026-11-26T02:22:43+00:00",
+   "summary": "Zero uses ZK proofs to separate execution from verification, removing a layer of redundancy by leaving validators to only verify the proofs.",
+   "tags": []
+  },
+  {
+   "id": "6f4fbe12c2",
+   "title": "Lido tightens Ethereum staking penalties as operators gain access to larger validators",
+   "date": "2026-11-26T01:50:48+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Lido tightens Ethereum staking penalties as operators gain access to larger validators",
+     "url": "https://cryptoslate.com/lido-tightens-ethereum-staking-penalties-as-operators-gain-access-to-larger-validators/",
+     "date": "2026-11-26T01:50:48+00:00",
+     "summary": "A March slashing involving six validators shows why Lido sought wider authority and when recovery could depend on future rewards or bond top-ups. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T01:50:48+00:00",
+   "last_seen": "2026-11-26T01:50:48+00:00",
+   "summary": "A March slashing involving six validators shows why Lido sought wider authority and when recovery could depend on future rewards or bond top-ups. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi",
+    "ethereum"
+   ]
+  },
+  {
+   "id": "b1055945f6",
+   "title": "AI labs likely sitting on cryptography \u2018bombshells,\u2019 computer scientist says",
+   "date": "2026-11-26T01:33:20+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "AI labs likely sitting on cryptography \u2018bombshells,\u2019 computer scientist says",
+     "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-26T01:33:20+00:00",
+     "summary": "AI is driving a massive wave of mathematical breakthroughs which could have implications for cryptography."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T01:33:20+00:00",
+   "last_seen": "2026-11-26T01:33:20+00:00",
+   "summary": "AI is driving a massive wave of mathematical breakthroughs which could have implications for cryptography.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "5f4282ed03",
+   "title": "Tempo's Native Multisig Goes Live on Testnet",
+   "date": "2026-11-26T01:09:41+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tempo's Native Multisig Goes Live on Testnet",
+     "url": "https://thedefiant.io/news/blockchains/tempo-s-native-multisig-goes-live-on-testnet",
+     "date": "2026-11-26T01:09:41+00:00",
+     "summary": "Configurable accounts add approval thresholds and key changes without moving funds. Mainnet activation is scheduled for Dec. 8, and adding signers to existing accounts is optional."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T01:09:41+00:00",
+   "last_seen": "2026-11-26T01:09:41+00:00",
+   "summary": "Configurable accounts add approval thresholds and key changes without moving funds. Mainnet activation is scheduled for Dec. 8, and adding signers to existing accounts is optional.",
+   "tags": []
+  },
+  {
+   "id": "c9f0d7278d",
+   "title": "Bitcoin Lightning operators could recover stuck payments even after losing channel data",
+   "date": "2026-11-26T00:20:15+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin Lightning operators could recover stuck payments even after losing channel data",
+     "url": "https://cryptoslate.com/bitcoin-lightning-operators-could-recover-stuck-payments-even-after-losing-channel-data/",
+     "date": "2026-11-26T00:20:15+00:00",
+     "summary": "The 26.12 release candidate can help recover eligible funds after channel data loss if the operator still has key records and can get help from the peer. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T00:20:15+00:00",
+   "last_seen": "2026-11-26T00:20:15+00:00",
+   "summary": "The 26.12 release candidate can help recover eligible funds after channel data loss if the operator still has key records and can get help from the peer. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b385b76844",
+   "title": "RISC Zero Patch Fixes Critical Proof-Forgery Flaw",
+   "date": "2026-11-25T23:41:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "RISC Zero Patch Fixes Critical Proof-Forgery Flaw",
+     "url": "https://thedefiant.io/news/security/risc-zero-patch-fixes-critical-proof-forgery-flaw",
+     "date": "2026-11-25T23:41:55+00:00",
+     "summary": "The Nov. 10 release requires developers to upgrade and regenerate proofs. Onchain repairs differ for Groth16 verification and set proofs against cached roots."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T23:41:55+00:00",
+   "last_seen": "2026-11-25T23:41:55+00:00",
+   "summary": "The Nov. 10 release requires developers to upgrade and regenerate proofs. Onchain repairs differ for Groth16 verification and set proofs against cached roots.",
+   "tags": []
+  },
+  {
+   "id": "acd8a45464",
+   "title": "Bitcoin is Vanishing into \u201cDeep Storage\u201d Faster than Miners Make It",
+   "date": "2026-11-25T23:30:12+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin is Vanishing into \u201cDeep Storage\u201d Faster than Miners Make It",
+     "url": "https://bitcoinmagazine.com/videos/bitcoin-is-vanishing-into-deep-storage-faster-than-miners-make-it",
+     "date": "2026-11-25T23:30:12+00:00",
+     "summary": "&#9654; Bitcoin Magazine Bitcoin is Vanishing into \u201cDeep Storage\u201d Faster than Miners Make It Miners produce about 450 new Bitcoin a day, but over the past year about 630 a day moved into wallets dormant for 10 years. This post Bitcoin is Vanishing into \u201cDeep Storage\u201d Faster than..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T23:30:12+00:00",
+   "last_seen": "2026-11-25T23:30:12+00:00",
+   "summary": "&#9654; Bitcoin Magazine Bitcoin is Vanishing into \u201cDeep Storage\u201d Faster than Miners Make It Miners produce about 450 new Bitcoin a day, but over the past year about 630 a day moved into wallets dormant for 10 years. This post Bitcoin is Vanishing into \u201cDeep Storage\u201d Faster than...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "421f423e00",
+   "title": "LayerZero Opens Canton Coin Bridge to BNB Smart Chain",
+   "date": "2026-11-25T23:18:14+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "LayerZero Opens Canton Coin Bridge to BNB Smart Chain",
+     "url": "https://thedefiant.io/news/infrastructure/layerzero-opens-canton-coin-bridge-to-bnb-smart-chain",
+     "date": "2026-11-25T23:18:14+00:00",
+     "summary": "Traders can swap bridged CC on PancakeSwap. LayerZero says it is backed one-for-one by native Canton Coin, with LayerZero Labs administering the contracts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T23:18:14+00:00",
+   "last_seen": "2026-11-25T23:18:14+00:00",
+   "summary": "Traders can swap bridged CC on PancakeSwap. LayerZero says it is backed one-for-one by native Canton Coin, with LayerZero Labs administering the contracts.",
+   "tags": []
+  },
+  {
+   "id": "06125611e3",
+   "title": "Sky Proposes Urgent 25M USDS Transfer to Foundation",
+   "date": "2026-11-25T22:59:12+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Sky Proposes Urgent 25M USDS Transfer to Foundation",
+     "url": "https://thedefiant.io/news/defi/sky-proposes-urgent-25m-usds-transfer-to-foundation",
+     "date": "2026-11-25T22:59:12+00:00",
+     "summary": "The funds were already earmarked for the Sky Frontier Foundation. The proposal seeks to accelerate debt repayment as stUSDS withdrawals remain unavailable."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T22:59:12+00:00",
+   "last_seen": "2026-11-25T22:59:12+00:00",
+   "summary": "The funds were already earmarked for the Sky Frontier Foundation. The proposal seeks to accelerate debt repayment as stUSDS withdrawals remain unavailable.",
+   "tags": []
+  },
+  {
+   "id": "cf84b359ea",
+   "title": "Pump.fun Plans 'Block0' Fee on New Launches From Dec. 4",
+   "date": "2026-11-25T22:43:35+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Pump.fun Plans 'Block0' Fee on New Launches From Dec. 4",
+     "url": "https://thedefiant.io/news/defi/pump-fun-plans-block0-fee-on-new-launches-from-dec-4",
+     "date": "2026-11-25T22:43:35+00:00",
+     "summary": "Each coin's creator wallet will be exempt, but other wallets would pay even if the creator controls them. The fee rate remains unannounced."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T22:43:35+00:00",
+   "last_seen": "2026-11-25T22:43:35+00:00",
+   "summary": "Each coin's creator wallet will be exempt, but other wallets would pay even if the creator controls them. The fee rate remains unannounced.",
+   "tags": []
+  },
+  {
+   "id": "6b4b3efa2f",
+   "title": "Bitcoin has fallen so far that its original Rainbow Chart has run out of colors",
+   "date": "2026-11-25T22:40:35+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin has fallen so far that its original Rainbow Chart has run out of colors",
+     "url": "https://cryptoslate.com/bitcoin-has-fallen-so-far-that-its-original-rainbow-chart-has-run-out-of-colors/",
+     "date": "2026-11-25T22:40:35+00:00",
+     "summary": "BlockchainCenter\u2019s November 25 snapshot put Bitcoin at $58,577 after an 8.6% weekly slide, while its two curves gave sharply different readings. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T22:40:35+00:00",
+   "last_seen": "2026-11-25T22:40:35+00:00",
+   "summary": "BlockchainCenter\u2019s November 25 snapshot put Bitcoin at $58,577 after an 8.6% weekly slide, while its two curves gave sharply different readings. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "06ff87551a",
+   "title": "China's Google Just Released Its Fast New AI Model for Free",
+   "date": "2026-11-25T22:38:09+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "China's Google Just Released Its Fast New AI Model for Free",
+     "url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+     "date": "2026-11-25T22:38:09+00:00",
+     "summary": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T22:38:09+00:00",
+   "last_seen": "2026-11-25T22:38:09+00:00",
+   "summary": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "800b52534e",
+   "title": "Sens. Warren, Van Hollen lead push to scrap SEC\u2019s Regulation Crypto and innovation exemption",
+   "date": "2026-11-25T22:20:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Sens. Warren, Van Hollen lead push to scrap SEC\u2019s Regulation Crypto and innovation exemption",
+     "url": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
+     "date": "2026-11-25T22:20:02+00:00",
+     "summary": "Sens. Warren and Van Hollen sent two letters to SEC Chair Atkins demanding he rescind the innovation exemption and Regulation Crypto."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T22:20:02+00:00",
+   "last_seen": "2026-11-25T22:20:02+00:00",
+   "summary": "Sens. Warren and Van Hollen sent two letters to SEC Chair Atkins demanding he rescind the innovation exemption and Regulation Crypto.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "6206e5f4c8",
+   "title": "Stanford Professor Reveals \u201cPraxis\u201d Bitcoin Cryptography Breakthrough",
+   "date": "2026-11-25T22:15:26+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Stanford Professor Reveals \u201cPraxis\u201d Bitcoin Cryptography Breakthrough",
+     "url": "https://bitcoinmagazine.com/videos/stanford-professor-reveals-praxis-bitcoin-cryptography-breakthrough",
+     "date": "2026-11-25T22:15:26+00:00",
+     "summary": "&#9654; Bitcoin Magazine Stanford Professor Reveals \u201cPraxis\u201d Bitcoin Cryptography Breakthrough Bitcoin developers have tried for five to 10 years to add covenants through a soft fork, and every effort has stalled. This post Stanford Professor Reveals \u201cPraxis\u201d Bitcoin..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T22:15:26+00:00",
+   "last_seen": "2026-11-25T22:15:26+00:00",
+   "summary": "&#9654; Bitcoin Magazine Stanford Professor Reveals \u201cPraxis\u201d Bitcoin Cryptography Breakthrough Bitcoin developers have tried for five to 10 years to add covenants through a soft fork, and every effort has stalled. This post Stanford Professor Reveals \u201cPraxis\u201d Bitcoin...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b093349541",
+   "title": "Convex TVL Falls 33%, More Than Twice Curve's Decline",
+   "date": "2026-11-25T22:13:33+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Convex TVL Falls 33%, More Than Twice Curve's Decline",
+     "url": "https://thedefiant.io/news/defi/convex-tvl-falls-33-more-than-twice-curve-s-decline",
+     "date": "2026-11-25T22:13:33+00:00",
+     "summary": "DefiLlama's daily snapshots show a $188 million contraction over 30 days. The change in dollar value is not a measure of withdrawals."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T22:13:33+00:00",
+   "last_seen": "2026-11-25T22:13:33+00:00",
+   "summary": "DefiLlama's daily snapshots show a $188 million contraction over 30 days. The change in dollar value is not a measure of withdrawals.",
+   "tags": []
+  },
+  {
+   "id": "27584e09e7",
+   "title": "Aaronson Qualifies Unverified AI Factoring Rumors",
+   "date": "2026-11-25T22:06:15+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Aaronson Qualifies Unverified AI Factoring Rumors",
+     "url": "https://thedefiant.io/news/security/aaronson-qualifies-unverified-ai-factoring-rumors",
+     "date": "2026-11-25T22:06:15+00:00",
+     "summary": "Ledger's CTO doubts a complete cryptographic break. As of Nov. 25, The Defiant found no public confirmation of a polynomial-time factoring algorithm at either AI lab."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T22:06:15+00:00",
+   "last_seen": "2026-11-25T22:06:15+00:00",
+   "summary": "Ledger's CTO doubts a complete cryptographic break. As of Nov. 25, The Defiant found no public confirmation of a polynomial-time factoring algorithm at either AI lab.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "97494e0753",
+   "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+   "date": "2026-11-25T21:53:38+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+     "url": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-25T21:53:38+00:00",
+     "summary": "The move paves the way for Switzerland to exchange crypto tax data with foreign authorities starting in 2028 as part of a global effort to combat tax evasion."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T21:53:38+00:00",
+   "last_seen": "2026-11-25T21:53:38+00:00",
+   "summary": "The move paves the way for Switzerland to exchange crypto tax data with foreign authorities starting in 2028 as part of a global effort to combat tax evasion.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "935edda298",
+   "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia\u2019s Scandal?",
+   "date": "2026-11-25T21:46:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia\u2019s Scandal?",
+     "url": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
+     "date": "2026-11-25T21:46:02+00:00",
+     "summary": "U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia\u2019s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T21:46:02+00:00",
+   "last_seen": "2026-11-25T21:46:02+00:00",
+   "summary": "U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia\u2019s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties.",
+   "tags": []
+  },
+  {
+   "id": "7bef263265",
+   "title": "OpenAI Tests Private Inference With Select Customers",
+   "date": "2026-11-25T21:42:02+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OpenAI Tests Private Inference With Select Customers",
+     "url": "https://thedefiant.io/frontier/ai/openai-tests-private-inference-with-select-customers",
+     "date": "2026-11-25T21:42:02+00:00",
+     "summary": "The API preview promises confidential computing and verifiable controls. NEAR AI's founder argues that checking the computing environment is only part of the trust question."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T21:42:02+00:00",
+   "last_seen": "2026-11-25T21:42:02+00:00",
+   "summary": "The API preview promises confidential computing and verifiable controls. NEAR AI's founder argues that checking the computing environment is only part of the trust question.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "449e64da2e",
+   "title": "UK to test whether AI can replace a second mammogram reader in trial of 660,000 women",
+   "date": "2026-11-25T21:30:55+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "UK to test whether AI can replace a second mammogram reader in trial of 660,000 women",
+     "url": "https://cryptoslate.com/uk-to-test-whether-ai-can-replace-a-second-mammogram-reader-in-trial-of-660000-women/",
+     "date": "2026-11-25T21:30:55+00:00",
+     "summary": "The first women have joined a trial that compares standard double reading with two AI workflows and requires a human to read every mammogram. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T21:30:55+00:00",
+   "last_seen": "2026-11-25T21:30:55+00:00",
+   "summary": "The first women have joined a trial that compares standard double reading with two AI workflows and requires a human to read every mammogram. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai",
+    "legal"
+   ]
+  },
+  {
+   "id": "28d7f6c8e0",
+   "title": "Matt Hougan: $1.6 MILLION Bitcoin Price Target \u201cConservative\u201d",
+   "date": "2026-11-25T21:22:24+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Matt Hougan: $1.6 MILLION Bitcoin Price Target \u201cConservative\u201d",
+     "url": "https://bitcoinmagazine.com/videos/matt-hougan-1-6-million-bitcoin-price-target-conservative",
+     "date": "2026-11-25T21:22:24+00:00",
+     "summary": "&#9654; Bitcoin Magazine Matt Hougan: $1.6 MILLION Bitcoin Price Target \u201cConservative\u201d Bitwise just raised its 10-year Bitcoin forecast from $1. This post Matt Hougan: $1.6 MILLION Bitcoin Price Target \u201cConservative\u201d first appeared on Bitcoin Magazine and is written by Patrick..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T21:22:24+00:00",
+   "last_seen": "2026-11-25T21:22:24+00:00",
+   "summary": "&#9654; Bitcoin Magazine Matt Hougan: $1.6 MILLION Bitcoin Price Target \u201cConservative\u201d Bitwise just raised its 10-year Bitcoin forecast from $1. This post Matt Hougan: $1.6 MILLION Bitcoin Price Target \u201cConservative\u201d first appeared on Bitcoin Magazine and is written by Patrick...",
+   "tags": [
+    "bitcoin",
+    "funding",
+    "markets"
+   ]
+  },
+  {
+   "id": "fae79546bf",
+   "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+   "date": "2026-11-25T21:22:19+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+     "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-25T21:22:19+00:00",
+     "summary": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners\u2019 computing power and potentially steal rewards."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T21:22:19+00:00",
+   "last_seen": "2026-11-25T21:22:19+00:00",
+   "summary": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners\u2019 computing power and potentially steal rewards.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "270dc3393f",
+   "title": "The 1Password Breach Didn\u2019t Touch Your Vault. The Phishing Emails Might",
+   "date": "2026-11-25T21:16:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "The 1Password Breach Didn\u2019t Touch Your Vault. The Phishing Emails Might",
+     "url": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+     "date": "2026-11-25T21:16:02+00:00",
+     "summary": "An attacker compromised an employee\u2019s GitHub account to reach 1Password\u2019s backend and copy customer names and emails, but the company says vault contents, encryption keys and your Secret Key were never exposed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T21:16:02+00:00",
+   "last_seen": "2026-11-25T21:16:02+00:00",
+   "summary": "An attacker compromised an employee\u2019s GitHub account to reach 1Password\u2019s backend and copy customer names and emails, but the company says vault contents, encryption keys and your Secret Key were never exposed.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "866b0f60c8",
+   "title": "Neuralink Says FDA Approved Pivotal Brain-Implant Trial",
+   "date": "2026-11-25T21:15:03+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Neuralink Says FDA Approved Pivotal Brain-Implant Trial",
+     "url": "https://thedefiant.io/frontier/technology/neuralink-says-fda-approved-pivotal-brain-implant-trial",
+     "date": "2026-11-25T21:15:03+00:00",
+     "summary": "The LINK study is recruiting adults with ALS in the US to test digital-device control. The N1 implant remains investigational."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T21:15:03+00:00",
+   "last_seen": "2026-11-25T21:15:03+00:00",
+   "summary": "The LINK study is recruiting adults with ALS in the US to test digital-device control. The N1 implant remains investigational.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "5cc34ddcb8",
+   "title": "Venice Token Gains 33% While Bitcoin and TAO Retreat",
+   "date": "2026-11-25T21:14:30+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Venice Token Gains 33% While Bitcoin and TAO Retreat",
+     "url": "https://thedefiant.io/news/markets/venice-token-gains-33-while-bitcoin-and-tao-retreat",
+     "date": "2026-11-25T21:14:30+00:00",
+     "summary": "Founder Erik Voorhees says Venice's annualized revenue has passed $200 million as the AI platform adds two ways to burn VVV."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T21:14:30+00:00",
+   "last_seen": "2026-11-25T21:14:30+00:00",
+   "summary": "Founder Erik Voorhees says Venice's annualized revenue has passed $200 million as the AI platform adds two ways to burn VVV.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "8087cdb8db",
+   "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+   "date": "2026-11-25T21:11:39+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+     "url": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-25T21:11:39+00:00",
+     "summary": "Past ECB decisions offer clues to the value of using bonds as collateral, while US derivatives exchanges face a different calculation over their Bitcoin holdings."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T21:11:39+00:00",
+   "last_seen": "2026-11-25T21:11:39+00:00",
+   "summary": "Past ECB decisions offer clues to the value of using bonds as collateral, while US derivatives exchanges face a different calculation over their Bitcoin holdings.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "2e1ce913e1",
+   "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+   "date": "2026-11-25T20:36:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+     "url": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+     "date": "2026-11-25T20:36:03+00:00",
+     "summary": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T20:36:03+00:00",
+   "last_seen": "2026-11-25T20:36:03+00:00",
+   "summary": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "1f531f1845",
+   "title": "Ripple\u2019s latest banking partnership opens another route to XRP adoption in Turkey",
+   "date": "2026-11-25T20:10:29+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ripple\u2019s latest banking partnership opens another route to XRP adoption in Turkey",
+     "url": "https://cryptoslate.com/ripples-latest-banking-partnership-opens-another-route-to-xrp-adoption-in-turkey/",
+     "date": "2026-11-25T20:10:29+00:00",
+     "summary": "Ripple says its custody software is deployed at Yap\u0131 Kredi, while a route from lira into withdrawable XRP remains publicly unconfirmed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T20:10:29+00:00",
+   "last_seen": "2026-11-25T20:10:29+00:00",
+   "summary": "Ripple says its custody software is deployed at Yap\u0131 Kredi, while a route from lira into withdrawable XRP remains publicly unconfirmed. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "24812cfab1",
+   "title": "Sky\u2019s Rune Pursues stUSDS Deal as Withdrawal Squeeze Persists",
+   "date": "2026-11-25T20:06:17+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Sky\u2019s Rune Pursues stUSDS Deal as Withdrawal Squeeze Persists",
+     "url": "https://thedefiant.io/news/defi/sky-s-rune-pursues-stusds-deal-as-withdrawal-squeeze-persists",
+     "date": "2026-11-25T20:06:17+00:00",
+     "summary": "The Sky co-founder previously said he owed about 77 million USDS and was exploring direct SKY sales to institutional investors to fund repayment."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T20:06:17+00:00",
+   "last_seen": "2026-11-25T20:06:17+00:00",
+   "summary": "The Sky co-founder previously said he owed about 77 million USDS and was exploring direct SKY sales to institutional investors to fund repayment.",
+   "tags": []
+  },
+  {
+   "id": "b95f6eeba3",
+   "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+   "date": "2026-11-25T20:06:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+     "url": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+     "date": "2026-11-25T20:06:03+00:00",
+     "summary": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T20:06:03+00:00",
+   "last_seen": "2026-11-25T20:06:03+00:00",
+   "summary": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover.",
+   "tags": [
+    "ai",
+    "security"
+   ]
+  },
+  {
+   "id": "f4c9810a6b",
+   "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
+   "date": "2026-11-25T19:50:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
+     "url": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
+     "date": "2026-11-25T19:50:00+00:00",
+     "summary": "Bitcoin Magazine Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor Rep. Nick Begich's bill to write the Strategic Bitcoin Reserve into law, with a 20-year ban on selling its bitcoin, is now eligible for a House floor vote. This post Strategic Bitcoin Reserve..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T19:50:00+00:00",
+   "last_seen": "2026-11-25T19:50:00+00:00",
+   "summary": "Bitcoin Magazine Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor Rep. Nick Begich's bill to write the Strategic Bitcoin Reserve into law, with a 20-year ban on selling its bitcoin, is now eligible for a House floor vote. This post Strategic Bitcoin Reserve...",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "4f5aa90539",
+   "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+   "date": "2026-11-25T19:37:10+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+     "date": "2026-11-25T19:37:10+00:00",
+     "summary": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T19:37:10+00:00",
+   "last_seen": "2026-11-25T19:37:10+00:00",
+   "summary": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards.",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "6d0fcd9c96",
+   "title": "1Password Says Breach Exposed Account Data, Not Vaults",
+   "date": "2026-11-25T19:29:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "1Password Says Breach Exposed Account Data, Not Vaults",
+     "url": "https://thedefiant.io/news/security/1password-says-breach-exposed-account-data-not-vaults",
+     "date": "2026-11-25T19:29:48+00:00",
+     "summary": "The company says an attacker copied account information for a subset of customers through a compromised employee GitHub account. It advises vigilance against phishing, not password resets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T19:29:48+00:00",
+   "last_seen": "2026-11-25T19:29:48+00:00",
+   "summary": "The company says an attacker copied account information for a subset of customers through a compromised employee GitHub account. It advises vigilance against phishing, not password resets.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "7f2ce7dc3f",
+   "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+   "date": "2026-11-25T19:28:54+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+     "url": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
+     "date": "2026-11-25T19:28:54+00:00",
+     "summary": "The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto miners."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-25T19:28:54+00:00",
+   "last_seen": "2026-11-25T19:28:54+00:00",
+   "summary": "The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto miners.",
+   "tags": [
+    "legal"
+   ]
+  },
   {
    "id": "40905f30b5",
    "title": "Fidelity Files for Spot Chainlink Fund on Nasdaq",
@@ -12,14 +714,23 @@
      "url": "https://thedefiant.io/converge/tradfi-and-fintech/fidelity-files-for-spot-chainlink-fund-on-nasdaq",
      "date": "2026-11-25T19:05:25+00:00",
      "summary": "The proposed LINK product would hold tokens directly without staking them, joining a market already served by Grayscale and Bitwise. The filing is not a launch."
+    },
+    {
+     "source": "The Block",
+     "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+     "url": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
+     "date": "2026-11-25T19:32:42+00:00",
+     "summary": "Fidelity has filed with the U.S. Securities and Exchange Commission to launch a spot Chainlink exchange-traded fund."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-25T19:05:25+00:00",
-   "last_seen": "2026-11-25T19:05:25+00:00",
+   "last_seen": "2026-11-25T19:32:42+00:00",
    "summary": "The proposed LINK product would hold tokens directly without staking them, joining a market already served by Grayscale and Bitwise. The filing is not a launch.",
    "tags": [
-    "defi"
+    "defi",
+    "etfs",
+    "exchanges"
    ]
   },
   {

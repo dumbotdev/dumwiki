@@ -1,6 +1,963 @@
 {
- "updated": "2026-11-27T05:07:50.047320+00:00",
+ "updated": "2026-11-27T15:15:05.490624+00:00",
  "events": [
+  {
+   "id": "93f88bd76a",
+   "title": "Tether buys $10 million of Bitdeer shares as stock hovers near all-time low",
+   "date": "2026-11-27T15:00:21+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Tether buys $10 million of Bitdeer shares as stock hovers near all-time low",
+     "url": "https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554",
+     "date": "2026-11-27T15:00:21+00:00",
+     "summary": "USDT issuer Tether spent about $10 million earlier this week to acquire 3.72 million Bitdeer Class A ordinary shares."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T15:00:21+00:00",
+   "last_seen": "2026-11-27T15:00:21+00:00",
+   "summary": "USDT issuer Tether spent about $10 million earlier this week to acquire 3.72 million Bitdeer Class A ordinary shares.",
+   "tags": [
+    "markets",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "1144797157",
+   "title": "Nvidia Blackwell Chips Found in Shanghai, Bloomberg Says",
+   "date": "2026-11-27T14:52:21+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Nvidia Blackwell Chips Found in Shanghai, Bloomberg Says",
+     "url": "https://thedefiant.io/frontier/ai/nvidia-blackwell-chips-found-in-shanghai-bloomberg-says",
+     "date": "2026-11-27T14:52:21+00:00",
+     "summary": "Loan records identified a GB300 rack and a separate GB200 server at the same data center, Bloomberg reported. The filings don\u2019t establish how the gear reached China."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T14:52:21+00:00",
+   "last_seen": "2026-11-27T14:52:21+00:00",
+   "summary": "Loan records identified a GB300 rack and a separate GB200 server at the same data center, Bloomberg reported. The filings don\u2019t establish how the gear reached China.",
+   "tags": []
+  },
+  {
+   "id": "695e3f2d39",
+   "title": "Bank of England to test how UK finance would recover from an AI disruption",
+   "date": "2026-11-27T14:40:56+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bank of England to test how UK finance would recover from an AI disruption",
+     "url": "https://cryptoslate.com/bank-of-england-to-test-how-uk-finance-would-recover-from-an-ai-disruption/",
+     "date": "2026-11-27T14:40:56+00:00",
+     "summary": "The voluntary 2027 exercise will examine how individual firms and the wider financial system respond when operations are disrupted. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T14:40:56+00:00",
+   "last_seen": "2026-11-27T14:40:56+00:00",
+   "summary": "The voluntary 2027 exercise will examine how individual firms and the wider financial system respond when operations are disrupted. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "dd5c87e11c",
+   "title": "What was Coinbase worth while Nasdaq was closed?",
+   "date": "2026-11-27T14:40:54+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "What was Coinbase worth while Nasdaq was closed?",
+     "url": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T14:40:54+00:00",
+     "summary": "A Thanksgiving buyer paid 106.24 USDC per Coinbase share. Whether that looked like a holiday rally depended on when you\u2019d last checked the stock."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T14:40:54+00:00",
+   "last_seen": "2026-11-27T14:40:54+00:00",
+   "summary": "A Thanksgiving buyer paid 106.24 USDC per Coinbase share. Whether that looked like a holiday rally depended on when you\u2019d last checked the stock.",
+   "tags": [
+    "exchanges",
+    "markets",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "0243718a60",
+   "title": "Halogen\u2019s Shariah Bitcoin ETF Set for Dec. 2 Bursa Debut",
+   "date": "2026-11-27T14:31:13+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Halogen\u2019s Shariah Bitcoin ETF Set for Dec. 2 Bursa Debut",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/halogen-s-shariah-bitcoin-etf-set-for-dec-2-bursa-debut",
+     "date": "2026-11-27T14:31:13+00:00",
+     "summary": "Once the spot fund lists, retail investors will be able to trade it in ringgit or US dollars through a stockbroker."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T14:31:13+00:00",
+   "last_seen": "2026-11-27T14:31:13+00:00",
+   "summary": "Once the spot fund lists, retail investors will be able to trade it in ringgit or US dollars through a stockbroker.",
+   "tags": [
+    "bitcoin",
+    "etfs"
+   ]
+  },
+  {
+   "id": "7f4998c043",
+   "title": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+   "date": "2026-11-27T14:24:21+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
+     "date": "2026-11-27T14:24:21+00:00",
+     "summary": "K33 said recent mathematical advances had not demonstrated a compromise of Bitcoin's cryptography, while urging closer attention to AI."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T14:24:21+00:00",
+   "last_seen": "2026-11-27T14:24:21+00:00",
+   "summary": "K33 said recent mathematical advances had not demonstrated a compromise of Bitcoin's cryptography, while urging closer attention to AI.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "0ba29422bb",
+   "title": "Bitcoin\u2019s turbulent week has created a $16 billion opportunity for a short squeeze",
+   "date": "2026-11-27T14:10:23+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s turbulent week has created a $16 billion opportunity for a short squeeze",
+     "url": "https://cryptoslate.com/bitcoins-turbulent-week-has-created-a-16-billion-opportunity-for-a-short-squeeze/",
+     "date": "2026-11-27T14:10:23+00:00",
+     "summary": "Bitcoin is trying to recover after a volatile week. If buying carries it higher, leveraged short sellers forced to close their positions could add to the rebound. Bitcoin traded at $61,436 at 13:09 UTC on Nov. 27, down 0.2% over the previous seven days, according to..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T14:10:23+00:00",
+   "last_seen": "2026-11-27T14:10:23+00:00",
+   "summary": "Bitcoin is trying to recover after a volatile week. If buying carries it higher, leveraged short sellers forced to close their positions could add to the rebound. Bitcoin traded at $61,436 at 13:09 UTC on Nov. 27, down 0.2% over the previous seven days, according to...",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "1e900e14fb",
+   "title": "Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally",
+   "date": "2026-11-27T13:57:15+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally",
+     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-61300-tech-futures",
+     "date": "2026-11-27T13:57:15+00:00",
+     "summary": "Bitcoin Magazine Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally The bitcoin price traded near $61,300 on Friday as tech stock futures jumped ahead of a shortened Wall Street session, putting bitcoin on track to snap a seven-week losing streak. This post Bitcoin..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T13:57:15+00:00",
+   "last_seen": "2026-11-27T13:57:15+00:00",
+   "summary": "Bitcoin Magazine Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally The bitcoin price traded near $61,300 on Friday as tech stock futures jumped ahead of a shortened Wall Street session, putting bitcoin on track to snap a seven-week losing streak. This post Bitcoin...",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "9fe4d2946a",
+   "title": "Chainflip Tallies Hack Losses, Payout Plan Still Pending",
+   "date": "2026-11-27T13:55:53+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Chainflip Tallies Hack Losses, Payout Plan Still Pending",
+     "url": "https://thedefiant.io/news/hacks/chainflip-tallies-hack-losses-payout-plan-still-pending",
+     "date": "2026-11-27T13:55:53+00:00",
+     "summary": "The cross-chain exchange plans to route new trades through SwapKit while its own protocol remains paused after the November vault theft."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T13:55:53+00:00",
+   "last_seen": "2026-11-27T13:55:53+00:00",
+   "summary": "The cross-chain exchange plans to route new trades through SwapKit while its own protocol remains paused after the November vault theft.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "ac0071b9a1",
+   "title": "What's on the Ethereum Roadmap: Glamsterdam, Hegot\u00e1 and Beyond",
+   "date": "2026-11-27T13:50:04+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "What's on the Ethereum Roadmap: Glamsterdam, Hegot\u00e1 and Beyond",
+     "url": "https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond",
+     "date": "2026-11-27T13:50:04+00:00",
+     "summary": "Ethereum has rolled out a steady stream of upgrades since 2022. Here\u2019s how those changes fit together\u2014and what\u2019s still ahead."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T13:50:04+00:00",
+   "last_seen": "2026-11-27T13:50:04+00:00",
+   "summary": "Ethereum has rolled out a steady stream of upgrades since 2022. Here\u2019s how those changes fit together\u2014and what\u2019s still ahead.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "adc0720bbb",
+   "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
+   "date": "2026-11-27T13:44:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
+     "url": "https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T13:44:00+00:00",
+     "summary": "Binance is hiring for equity capital markets roles, including an analyst to develop tokenized equity products and assess prospective issuers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T13:44:00+00:00",
+   "last_seen": "2026-11-27T13:44:00+00:00",
+   "summary": "Binance is hiring for equity capital markets roles, including an analyst to develop tokenized equity products and assess prospective issuers.",
+   "tags": [
+    "exchanges",
+    "funding"
+   ]
+  },
+  {
+   "id": "6284495d4a",
+   "title": "Japan weighs safeguards for Bitcoin holders who keep their own keys",
+   "date": "2026-11-27T13:40:56+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Japan weighs safeguards for Bitcoin holders who keep their own keys",
+     "url": "https://cryptoslate.com/japan-weighs-safeguards-for-bitcoin-holders-who-keep-their-own-keys/",
+     "date": "2026-11-27T13:40:56+00:00",
+     "summary": "Japan\u2019s financial regulator is examining what exchanges can do to prevent scams and what could protect users after a withdrawal. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T13:40:56+00:00",
+   "last_seen": "2026-11-27T13:40:56+00:00",
+   "summary": "Japan\u2019s financial regulator is examining what exchanges can do to prevent scams and what could protect users after a withdrawal. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "abc028a4f8",
+   "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
+   "date": "2026-11-27T13:19:10+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
+     "url": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
+     "date": "2026-11-27T13:19:10+00:00",
+     "summary": "The prediction market is pitching protection against tariffs, weather and other business risks as courts challenge its ability to offer sports wagers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T13:19:10+00:00",
+   "last_seen": "2026-11-27T13:19:10+00:00",
+   "summary": "The prediction market is pitching protection against tariffs, weather and other business risks as courts challenge its ability to offer sports wagers.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "32137e2fcd",
+   "title": "Atoshi Bridge Drained of 201 Million ATOS on Ethereum",
+   "date": "2026-11-27T12:51:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Atoshi Bridge Drained of 201 Million ATOS on Ethereum",
+     "url": "https://thedefiant.io/news/hacks/atoshi-bridge-drained-of-201-million-atos-on-ethereum",
+     "date": "2026-11-27T12:51:58+00:00",
+     "summary": "The wallet that received the tokens got about $60,300 in a KyberSwap trade. ATOS fell about 94% in an hour in two Uniswap pools."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T12:51:58+00:00",
+   "last_seen": "2026-11-27T12:51:58+00:00",
+   "summary": "The wallet that received the tokens got about $60,300 in a KyberSwap trade. ATOS fell about 94% in an hour in two Uniswap pools.",
+   "tags": [
+    "ethereum",
+    "security"
+   ]
+  },
+  {
+   "id": "87497c40fa",
+   "title": "Spark Says It Repaid Sky $408M After USDS Outflows",
+   "date": "2026-11-27T12:50:11+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Spark Says It Repaid Sky $408M After USDS Outflows",
+     "url": "https://thedefiant.io/news/defi/spark-says-it-repaid-sky-408m-after-usds-outflows",
+     "date": "2026-11-27T12:50:11+00:00",
+     "summary": "A Morpho vault on Base supplied about four-fifths of the $416.1 million Spark freed up. The vault had less USDC available for withdrawals by the evening of Nov. 19."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T12:50:11+00:00",
+   "last_seen": "2026-11-27T12:50:11+00:00",
+   "summary": "A Morpho vault on Base supplied about four-fifths of the $416.1 million Spark freed up. The vault had less USDC available for withdrawals by the evening of Nov. 19.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "69035306c5",
+   "title": "Bit Digital borrowed against Ethereum to fund AI, and now its crypto treasury is paying the price",
+   "date": "2026-11-27T12:40:54+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bit Digital borrowed against Ethereum to fund AI, and now its crypto treasury is paying the price",
+     "url": "https://cryptoslate.com/bit-digital-borrowed-against-ethereum-to-fund-ai-and-now-its-crypto-treasury-is-paying-the-price/",
+     "date": "2026-11-27T12:40:54+00:00",
+     "summary": "The sale left $50 million owed to Galaxy and 69,089 LsETH pledged while WhiteFiber\u2019s separate bridge loan remained outstanding. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T12:40:54+00:00",
+   "last_seen": "2026-11-27T12:40:54+00:00",
+   "summary": "The sale left $50 million owed to Galaxy and 69,089 LsETH pledged while WhiteFiber\u2019s separate bridge loan remained outstanding. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai",
+    "ethereum",
+    "macro",
+    "markets"
+   ]
+  },
+  {
+   "id": "b2223d17b4",
+   "title": "Brazil\u2019s stock exchange pushes stablecoin launch back to 2027",
+   "date": "2026-11-27T12:39:54+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Brazil\u2019s stock exchange pushes stablecoin launch back to 2027",
+     "url": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T12:39:54+00:00",
+     "summary": "Brazil\u2019s stock exchange is working with six major financial institutions on a real-backed stablecoin that could launch as early as the first quarter of 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T12:39:54+00:00",
+   "last_seen": "2026-11-27T12:39:54+00:00",
+   "summary": "Brazil\u2019s stock exchange is working with six major financial institutions on a real-backed stablecoin that could launch as early as the first quarter of 2027.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "26ec2bffca",
+   "title": "Austria-supervised crypto firms report 20.4B euros in H1 trading volume",
+   "date": "2026-11-27T12:20:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Austria-supervised crypto firms report 20.4B euros in H1 trading volume",
+     "url": "https://cointelegraph.com/news/austria-supervised-crypto-firms-report-204b-h1-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T12:20:00+00:00",
+     "summary": "About 74% of accounts were based in other EEA countries, highlighting the market\u2019s cross-border nature and putting Europe\u2019s supervisory framework in focus, FMA said."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T12:20:00+00:00",
+   "last_seen": "2026-11-27T12:20:00+00:00",
+   "summary": "About 74% of accounts were based in other EEA countries, highlighting the market\u2019s cross-border nature and putting Europe\u2019s supervisory framework in focus, FMA said.",
+   "tags": []
+  },
+  {
+   "id": "f1afdb5d20",
+   "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+   "date": "2026-11-27T12:16:07+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+     "url": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
+     "date": "2026-11-27T12:16:07+00:00",
+     "summary": "Your day-ahead look for Nov. 27, 2026"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T12:16:07+00:00",
+   "last_seen": "2026-11-27T12:16:07+00:00",
+   "summary": "Your day-ahead look for Nov. 27, 2026",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "79f6c0fc76",
+   "title": "Poland Signs Palantir Deal for Military AI Software",
+   "date": "2026-11-27T11:57:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Poland Signs Palantir Deal for Military AI Software",
+     "url": "https://thedefiant.io/frontier/ai/poland-signs-palantir-deal-for-military-ai-software",
+     "date": "2026-11-27T11:57:39+00:00",
+     "summary": "Palantir says Poland is adopting its Maven Smart System. NATO bought a version for its Allied Command Operations in 2025."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T11:57:39+00:00",
+   "last_seen": "2026-11-27T11:57:39+00:00",
+   "summary": "Palantir says Poland is adopting its Maven Smart System. NATO bought a version for its Allied Command Operations in 2025.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "36222a70f8",
+   "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+   "date": "2026-11-27T11:45:47+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+     "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
+     "date": "2026-11-27T11:45:47+00:00",
+     "summary": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on course to end seven straight weekly losses."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T11:45:47+00:00",
+   "last_seen": "2026-11-27T11:45:47+00:00",
+   "summary": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on course to end seven straight weekly losses.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "0652a945e4",
+   "title": "Bitcoin Mining Difficulty Rises 7.61%, Undoing Most of Cut",
+   "date": "2026-11-27T11:43:52+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bitcoin Mining Difficulty Rises 7.61%, Undoing Most of Cut",
+     "url": "https://thedefiant.io/news/blockchains/bitcoin-mining-difficulty-rises-7-61-undoing-most-of-cut",
+     "date": "2026-11-27T11:43:52+00:00",
+     "summary": "Miners can expect to earn about 7.1% less from the same computing power if Bitcoin\u2019s price and the reward per block stay fixed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T11:43:52+00:00",
+   "last_seen": "2026-11-27T11:43:52+00:00",
+   "summary": "Miners can expect to earn about 7.1% less from the same computing power if Bitcoin\u2019s price and the reward per block stay fixed.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "fb4a5cede0",
+   "title": "Live updates: Bitcoin drops below $60,000 as Nasdaq 100 gives up most of its early gains",
+   "date": "2026-11-27T11:34:37+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Live updates: Bitcoin drops below $60,000 as Nasdaq 100 gives up most of its early gains",
+     "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+     "date": "2026-11-27T11:34:37+00:00",
+     "summary": "The Nasdaq 100 rose just 0.8% after futures gained about 3% before the open, while Nvidia fell more than 2% and bitcoin briefly slipped below $60,000."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T11:34:37+00:00",
+   "last_seen": "2026-11-27T11:34:37+00:00",
+   "summary": "The Nasdaq 100 rose just 0.8% after futures gained about 3% before the open, while Nvidia fell more than 2% and bitcoin briefly slipped below $60,000.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "9d791f716b",
+   "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+   "date": "2026-11-27T11:22:42+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+     "url": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+     "date": "2026-11-27T11:22:42+00:00",
+     "summary": "Pablo Hern\u00e1ndez de Cos, chosen to succeed Christine Lagarde, favors blockchain-based banking and has warned against private digital currencies and banks holding bitcoin."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T11:22:42+00:00",
+   "last_seen": "2026-11-27T11:22:42+00:00",
+   "summary": "Pablo Hern\u00e1ndez de Cos, chosen to succeed Christine Lagarde, favors blockchain-based banking and has warned against private digital currencies and banks holding bitcoin.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "d4511211dc",
+   "title": "Bitcoin miners are shutting down machines, but mining just got even harder",
+   "date": "2026-11-27T11:20:06+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin miners are shutting down machines, but mining just got even harder",
+     "url": "https://cryptoslate.com/bitcoin-miners-are-shutting-down-machines-but-mining-just-got-even-harder/",
+     "date": "2026-11-27T11:20:06+00:00",
+     "summary": "From a hypothetical $60,000, a move to about $64,570 would restore expected gross dollar revenue per unit of mining power at unchanged fees. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T11:20:06+00:00",
+   "last_seen": "2026-11-27T11:20:06+00:00",
+   "summary": "From a hypothetical $60,000, a move to about $64,570 would restore expected gross dollar revenue per unit of mining power at unchanged fees. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "b7ea53eff9",
+   "title": "Kalshi Courts Small Businesses With 'Microinsurance' as State Crackdowns Bite",
+   "date": "2026-11-27T11:19:47+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Kalshi Courts Small Businesses With 'Microinsurance' as State Crackdowns Bite",
+     "url": "https://decrypt.co/384118/kalshi-courts-small-businesses-with-microinsurance-as-state-crackdowns-bite",
+     "date": "2026-11-27T11:19:47+00:00",
+     "summary": "Kalshi says about 500 businesses have used it to hedge risks such as tariffs and bad weather, as legal fights weigh on its sports markets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T11:19:47+00:00",
+   "last_seen": "2026-11-27T11:19:47+00:00",
+   "summary": "Kalshi says about 500 businesses have used it to hedge risks such as tariffs and bad weather, as legal fights weigh on its sports markets.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "68c3b5949f",
+   "title": "Bitcoin supply metric hits 11-year low as new \u2018capitulation\u2019 signal arrives",
+   "date": "2026-11-27T11:14:28+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin supply metric hits 11-year low as new \u2018capitulation\u2019 signal arrives",
+     "url": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T11:14:28+00:00",
+     "summary": "The seven-day moving average of Bitcoin\u2019s supply profit/loss ratio hit an 11-year low as BTC price losses month-to-date remain near 20%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T11:14:28+00:00",
+   "last_seen": "2026-11-27T11:14:28+00:00",
+   "summary": "The seven-day moving average of Bitcoin\u2019s supply profit/loss ratio hit an 11-year low as BTC price losses month-to-date remain near 20%.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "04dc8ff7f0",
+   "title": "Injective asks SEC to allow order books for tokenized stock trading",
+   "date": "2026-11-27T11:07:17+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Injective asks SEC to allow order books for tokenized stock trading",
+     "url": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
+     "date": "2026-11-27T11:07:17+00:00",
+     "summary": "The regulator's rules favor one type of blockchain trading system, leaving platforms built on Injective out, the developer said. It wants the SEC to open stock trading to order-book systems."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T11:07:17+00:00",
+   "last_seen": "2026-11-27T11:07:17+00:00",
+   "summary": "The regulator's rules favor one type of blockchain trading system, leaving platforms built on Injective out, the developer said. It wants the SEC to open stock trading to order-book systems.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "77a5e710f3",
+   "title": "Brazil\u2019s B3 and Six Firms Plan Real-Backed Stablecoin",
+   "date": "2026-11-27T11:00:14+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Brazil\u2019s B3 and Six Firms Plan Real-Backed Stablecoin",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/brazil-s-b3-and-six-firms-plan-real-backed-stablecoin",
+     "date": "2026-11-27T11:00:14+00:00",
+     "summary": "Banco B3 would hold one real for each Open BRL token. The platform, designed to settle digital-asset trades, is targeting the first quarter of 2027."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T11:00:14+00:00",
+   "last_seen": "2026-11-27T11:00:14+00:00",
+   "summary": "Banco B3 would hold one real for each Open BRL token. The platform, designed to settle digital-asset trades, is targeting the first quarter of 2027.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "54c5d85b2c",
+   "title": "Brazil\u2019s stock exchange teams up with major banks to launch real-pegged stablecoin",
+   "date": "2026-11-27T10:51:27+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Brazil\u2019s stock exchange teams up with major banks to launch real-pegged stablecoin",
+     "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+     "date": "2026-11-27T10:51:27+00:00",
+     "summary": "Banco B3 will issue the token, backed one-to-one by reais, and other financial institutions can join from launch."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T10:51:27+00:00",
+   "last_seen": "2026-11-27T10:51:27+00:00",
+   "summary": "Banco B3 will issue the token, backed one-to-one by reais, and other financial institutions can join from launch.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "70bef07848",
+   "title": "Bank of Japan official says stablecoins need reserve rules to preserve \u2018singleness of money\u2019",
+   "date": "2026-11-27T10:45:02+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Bank of Japan official says stablecoins need reserve rules to preserve \u2018singleness of money\u2019",
+     "url": "https://www.theblock.co/news/regulation/2026-11-27-bank-of-japan-official-says-stablecoins-need-reserve-rules-to-preserve-singleness-of-money-447059",
+     "date": "2026-11-27T10:45:02+00:00",
+     "summary": "Japan\u2019s central bank warned that stablecoins and tokenized deposits need safeguards to prevent fragmentation across the financial system."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T10:45:02+00:00",
+   "last_seen": "2026-11-27T10:45:02+00:00",
+   "summary": "Japan\u2019s central bank warned that stablecoins and tokenized deposits need safeguards to prevent fragmentation across the financial system.",
+   "tags": []
+  },
+  {
+   "id": "8d033ac345",
+   "title": "China Chip Index Closes Up 17.6%; Beijing Pledges Support",
+   "date": "2026-11-27T10:33:26+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "China Chip Index Closes Up 17.6%; Beijing Pledges Support",
+     "url": "https://thedefiant.io/frontier/technology/china-chip-index-closes-up-17-6-beijing-pledges-support",
+     "date": "2026-11-27T10:33:26+00:00",
+     "summary": "The State Council called for a bigger role for state-backed funds in stabilizing stocks. The broader CSI 300 rose 4.2%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T10:33:26+00:00",
+   "last_seen": "2026-11-27T10:33:26+00:00",
+   "summary": "The State Council called for a bigger role for state-backed funds in stabilizing stocks. The broader CSI 300 rose 4.2%.",
+   "tags": []
+  },
+  {
+   "id": "f423988898",
+   "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
+   "date": "2026-11-27T10:26:06+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
+     "url": "https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T10:26:06+00:00",
+     "summary": "Bluefin will close its perps platform on Dec. 4, exiting a shrinking Sui market where it once handled over $500 million in daily trades."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T10:26:06+00:00",
+   "last_seen": "2026-11-27T10:26:06+00:00",
+   "summary": "Bluefin will close its perps platform on Dec. 4, exiting a shrinking Sui market where it once handled over $500 million in daily trades.",
+   "tags": []
+  },
+  {
+   "id": "f5c02b7ccb",
+   "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+   "date": "2026-11-27T10:15:51+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+     "url": "https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade",
+     "date": "2026-11-27T10:15:51+00:00",
+     "summary": "Core developers will ship Glamsterdam's contested gas changes unaltered, after security concerns halted the Hoodi fork in October."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T10:15:51+00:00",
+   "last_seen": "2026-11-27T10:15:51+00:00",
+   "summary": "Core developers will ship Glamsterdam's contested gas changes unaltered, after security concerns halted the Hoodi fork in October.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "42de584506",
+   "title": "Switzerland is bringing Bitcoin self-custody into a global crypto tax reporting network",
+   "date": "2026-11-27T10:00:49+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Switzerland is bringing Bitcoin self-custody into a global crypto tax reporting network",
+     "url": "https://cryptoslate.com/switzerland-is-bringing-bitcoin-self-custody-into-a-global-crypto-tax-reporting-network/",
+     "date": "2026-11-27T10:00:49+00:00",
+     "summary": "Covered providers would report qualifying transfers in aggregate and retain destination addresses that tax authorities could request later. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T10:00:49+00:00",
+   "last_seen": "2026-11-27T10:00:49+00:00",
+   "summary": "Covered providers would report qualifying transfers in aggregate and retain destination addresses that tax authorities could request later. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "965239e8e3",
+   "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+   "date": "2026-11-27T10:00:00+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+     "url": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
+     "date": "2026-11-27T10:00:00+00:00",
+     "summary": "Tether says it has returned $1.28 billion in frozen USDT, but victims can wait years to recover their money and face fees of up to 20%."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T10:00:00+00:00",
+   "last_seen": "2026-11-27T10:00:00+00:00",
+   "summary": "Tether says it has returned $1.28 billion in frozen USDT, but victims can wait years to recover their money and face fees of up to 20%.",
+   "tags": [
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "eb139925ff",
+   "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday\u2019s rebound",
+   "date": "2026-11-27T09:49:55+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday\u2019s rebound",
+     "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
+     "date": "2026-11-27T09:49:55+00:00",
+     "summary": "U.S. equity futures extended Wednesday\u2019s rebound after markets closed for Thanksgiving, with AI infrastructure stocks leading premarket gains."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T09:49:55+00:00",
+   "last_seen": "2026-11-27T09:49:55+00:00",
+   "summary": "U.S. equity futures extended Wednesday\u2019s rebound after markets closed for Thanksgiving, with AI infrastructure stocks leading premarket gains.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "f31b80c2da",
+   "title": "Bitcoin\u2019s crash fears fade ahead of $7.5 billion options expiry, but December tells a different story",
+   "date": "2026-11-27T08:40:14+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin\u2019s crash fears fade ahead of $7.5 billion options expiry, but December tells a different story",
+     "url": "https://cryptoslate.com/bitcoins-crash-fears-fade-ahead-of-7-5-billion-options-expiry-but-december-tells-a-different-story/",
+     "date": "2026-11-27T08:40:14+00:00",
+     "summary": "Bitcoin and Ethereum options are due to settle on Deribit as December Bitcoin puts retain an implied-volatility premium over comparable calls. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T08:40:14+00:00",
+   "last_seen": "2026-11-27T08:40:14+00:00",
+   "summary": "Bitcoin and Ethereum options are due to settle on Deribit as December Bitcoin puts retain an implied-volatility premium over comparable calls. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "markets"
+   ]
+  },
+  {
+   "id": "ba387175af",
+   "title": "ESMA to overhaul EU\u2019s MiCA crypto register in 2027",
+   "date": "2026-11-27T08:04:39+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "ESMA to overhaul EU\u2019s MiCA crypto register in 2027",
+     "url": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T08:04:39+00:00",
+     "summary": "ESMA\u2019s new MiCA register will replace manual reporting and introduce automated data checks and a version history for crypto white papers."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T08:04:39+00:00",
+   "last_seen": "2026-11-27T08:04:39+00:00",
+   "summary": "ESMA\u2019s new MiCA register will replace manual reporting and introduce automated data checks and a version history for crypto white papers.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "5fe019968b",
+   "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
+   "date": "2026-11-27T07:51:14+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
+     "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051",
+     "date": "2026-11-27T07:51:14+00:00",
+     "summary": "Developers also discussed whether post-quantum readiness should trump other proposals set for the subsequent Ethereum upgrade, Hegot\u00e1."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T07:51:14+00:00",
+   "last_seen": "2026-11-27T07:51:14+00:00",
+   "summary": "Developers also discussed whether post-quantum readiness should trump other proposals set for the subsequent Ethereum upgrade, Hegot\u00e1.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "f2f41460be",
+   "title": "Monero suffers biggest single-day slide in over 5 months. Here\u2019s why",
+   "date": "2026-11-27T07:33:01+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Monero suffers biggest single-day slide in over 5 months. Here\u2019s why",
+     "url": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+     "date": "2026-11-27T07:33:01+00:00",
+     "summary": "Monero (XMR) crashed over 11% on Thursday, its biggest drop since early June. Back-to-back exchange delistings seem to have catalyzed the price slide."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T07:33:01+00:00",
+   "last_seen": "2026-11-27T07:33:01+00:00",
+   "summary": "Monero (XMR) crashed over 11% on Thursday, its biggest drop since early June. Back-to-back exchange delistings seem to have catalyzed the price slide.",
+   "tags": [
+    "exchanges",
+    "markets"
+   ]
+  },
+  {
+   "id": "65df27821c",
+   "title": "Ethereum\u2019s quantum defense plans could delay a major upgrade to stop transaction censorship",
+   "date": "2026-11-27T06:40:09+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Ethereum\u2019s quantum defense plans could delay a major upgrade to stop transaction censorship",
+     "url": "https://cryptoslate.com/ethereums-quantum-defense-plans-could-delay-a-major-upgrade-to-stop-transaction-censorship/",
+     "date": "2026-11-27T06:40:09+00:00",
+     "summary": "Developers kept FOCIL on Hegot\u00e1\u2019s schedule while weighing whether the same specialists can advance it and redesign validator consensus. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T06:40:09+00:00",
+   "last_seen": "2026-11-27T06:40:09+00:00",
+   "summary": "Developers kept FOCIL on Hegot\u00e1\u2019s schedule while weighing whether the same specialists can advance it and redesign validator consensus. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "8f912960c9",
+   "title": "Collector Crypt Pack Volume Drops 46% After October Peak",
+   "date": "2026-11-27T05:29:41+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Collector Crypt Pack Volume Drops 46% After October Peak",
+     "url": "https://thedefiant.io/news/nfts-and-web3/collector-crypt-pack-volume-drops-46-after-october-peak",
+     "date": "2026-11-27T05:29:41+00:00",
+     "summary": "Average daily pack volume in the 30 days through Nov. 26 was 31% below the pace before the eight-day October surge."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T05:29:41+00:00",
+   "last_seen": "2026-11-27T05:29:41+00:00",
+   "summary": "Average daily pack volume in the 30 days through Nov. 26 was 31% below the pace before the eight-day October surge.",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "505bd8dfd2",
+   "title": "Japan\u2019s crypto security group taps SEAL to speed up hack response",
+   "date": "2026-11-27T05:22:36+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Japan\u2019s crypto security group taps SEAL to speed up hack response",
+     "url": "https://cointelegraph.com/news/japans-crypto-security-group-taps-seal-to-speed-up-hack-response?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T05:22:36+00:00",
+     "summary": "The partnership comes weeks after a third-party data breach exposed hundreds of thousands of customer email addresses belonging to two Japanese crypto exchanges."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T05:22:36+00:00",
+   "last_seen": "2026-11-27T05:22:36+00:00",
+   "summary": "The partnership comes weeks after a third-party data breach exposed hundreds of thousands of customer email addresses belonging to two Japanese crypto exchanges.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "bf15c6c8dc",
+   "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+   "date": "2026-11-27T05:06:32+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
+     "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
+     "date": "2026-11-27T05:06:32+00:00",
+     "summary": "The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T05:06:32+00:00",
+   "last_seen": "2026-11-27T05:06:32+00:00",
+   "summary": "The vaults that would hold lenders' money are on track to switch on Dec. 9. The loan system that draws from them still needs one more validator to start its own two-week clock.",
+   "tags": [
+    "defi"
+   ]
+  },
   {
    "id": "8290125457",
    "title": "Ethereum devs set Glamsterdam\u2019s Hoodi rollout for mid-December after delays",
@@ -380,11 +1337,18 @@
      "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-11-26T21:33:47+00:00",
      "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft."
+    },
+    {
+     "source": "Decrypt",
+     "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+     "url": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
+     "date": "2026-11-27T13:24:17+00:00",
+     "summary": "Binance has restored all withdrawals after October's hack, as the U.S. says it has helped freeze, seize or return $2.9 billion of the funds."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-26T21:33:47+00:00",
-   "last_seen": "2026-11-26T21:33:47+00:00",
+   "last_seen": "2026-11-27T13:24:17+00:00",
    "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft.",
    "tags": [
     "bitcoin",
@@ -1328,13 +2292,23 @@
      "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
      "date": "2026-11-26T14:05:58+00:00",
      "summary": "Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Spain Lets Anti-Money Laundering Unit Freeze Crypto Accounts Without a Judge",
+     "url": "https://bitcoinmagazine.com/news/spain-sepblac-freeze-crypto-accounts",
+     "date": "2026-11-27T15:00:00+00:00",
+     "summary": "Bitcoin Magazine Spain Lets Anti-Money Laundering Unit Freeze Crypto Accounts Without a Judge A royal decree lets Sepblac, Spain's financial intelligence unit, freeze crypto, bank and payment accounts for up to five business days without a court order. This post Spain Lets..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-26T14:05:58+00:00",
-   "last_seen": "2026-11-26T14:05:58+00:00",
-   "summary": "Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit.",
-   "tags": []
+   "last_seen": "2026-11-27T15:00:00+00:00",
+   "summary": "Bitcoin Magazine Spain Lets Anti-Money Laundering Unit Freeze Crypto Accounts Without a Judge A royal decree lets Sepblac, Spain's financial intelligence unit, freeze crypto, bank and payment accounts for up to five business days without a court order. This post Spain Lets...",
+   "tags": [
+    "bitcoin",
+    "legal"
+   ]
   },
   {
    "id": "8a1135e33f",
@@ -1463,12 +2437,19 @@
      "url": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over",
      "date": "2026-11-26T12:26:08+00:00",
      "summary": "A month after saying Bitcoin had bottomed in June, Galaxy now says a daily close below $58,525 would signal a materially lower low."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Galaxy Withdraws Call That Bitcoin\u2019s Bear Market Ended in June",
+     "url": "https://bitcoinmagazine.com/markets/galaxy-withdraws-bitcoin-bear",
+     "date": "2026-11-27T13:30:00+00:00",
+     "summary": "Bitcoin Magazine Galaxy Withdraws Call That Bitcoin&#8217;s Bear Market Ended in June Galaxy Research withdrew its October call that bitcoin's bear market ended in June and said a daily close below $58,525 would signal a move to a materially lower low. This post Galaxy Withdraws..."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-26T12:26:08+00:00",
-   "last_seen": "2026-11-26T12:26:08+00:00",
-   "summary": "A month after saying Bitcoin had bottomed in June, Galaxy now says a daily close below $58,525 would signal a materially lower low.",
+   "last_seen": "2026-11-27T13:30:00+00:00",
+   "summary": "Bitcoin Magazine Galaxy Withdraws Call That Bitcoin&#8217;s Bear Market Ended in June Galaxy Research withdrew its October call that bitcoin's bear market ended in June and said a daily close below $58,525 would signal a move to a materially lower low. This post Galaxy Withdraws...",
    "tags": [
     "bitcoin"
    ]
@@ -1598,13 +2579,22 @@
      "url": "https://decrypt.co/384025/new-york-wins-1-37b-judgment-against-novatech-founders-who-fled-the-us",
      "date": "2026-11-26T11:25:58+00:00",
      "summary": "The couple fled the U.S. before a default ruling in 2025, so victims of the scheme may struggle to recover their money."
+    },
+    {
+     "source": "Cointelegraph",
+     "title": "New York AG secures $1.37B court judgment against NovaTech founders",
+     "url": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T07:19:44+00:00",
+     "summary": "The judgment follows an August 2025 default ruling against the founders over a Ponzi scheme that targeted Haitian and other immigrant communities."
     }
    ],
-   "score": 10,
+   "score": 20,
    "first_seen": "2026-11-26T11:25:58+00:00",
-   "last_seen": "2026-11-26T11:25:58+00:00",
-   "summary": "The couple fled the U.S. before a default ruling in 2025, so victims of the scheme may struggle to recover their money.",
-   "tags": []
+   "last_seen": "2026-11-27T07:19:44+00:00",
+   "summary": "The judgment follows an August 2025 default ruling against the founders over a Ponzi scheme that targeted Haitian and other immigrant communities.",
+   "tags": [
+    "legal"
+   ]
   },
   {
    "id": "c3b8f1d926",

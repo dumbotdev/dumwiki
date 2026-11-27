@@ -1,6 +1,293 @@
 {
- "updated": "2026-11-26T22:25:11.735580+00:00",
+ "updated": "2026-11-27T05:07:50.047320+00:00",
  "events": [
+  {
+   "id": "8290125457",
+   "title": "Ethereum devs set Glamsterdam\u2019s Hoodi rollout for mid-December after delays",
+   "date": "2026-11-27T04:47:36+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Ethereum devs set Glamsterdam\u2019s Hoodi rollout for mid-December after delays",
+     "url": "https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T04:47:36+00:00",
+     "summary": "Glamsterdam\u2019s Hoodi upgrade was delayed in October after concerns that changes to gas pricing could break some existing smart contracts."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T04:47:36+00:00",
+   "last_seen": "2026-11-27T04:47:36+00:00",
+   "summary": "Glamsterdam\u2019s Hoodi upgrade was delayed in October after concerns that changes to gas pricing could break some existing smart contracts.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "9ed512eed2",
+   "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+   "date": "2026-11-27T04:45:47+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+     "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+     "date": "2026-11-27T04:45:47+00:00",
+     "summary": "Binance says it has fully lifted withdrawal suspensions imposed after October\u2019s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T04:45:47+00:00",
+   "last_seen": "2026-11-27T04:45:47+00:00",
+   "summary": "Binance says it has fully lifted withdrawal suspensions imposed after October\u2019s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance.",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "7bd219da06",
+   "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+   "date": "2026-11-27T04:29:47+00:00",
+   "mentions": [
+    {
+     "source": "CoinDesk",
+     "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+     "url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+     "date": "2026-11-27T04:29:47+00:00",
+     "summary": "Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the next major test."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T04:29:47+00:00",
+   "last_seen": "2026-11-27T04:29:47+00:00",
+   "summary": "Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the next major test.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "ec23ca9b7a",
+   "title": "USDT leads borrowing on four of six DeFi protocols examined by Europe\u2019s banking watchdog",
+   "date": "2026-11-27T04:20:14+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "USDT leads borrowing on four of six DeFi protocols examined by Europe\u2019s banking watchdog",
+     "url": "https://cryptoslate.com/usdt-leads-borrowing-on-four-of-six-defi-protocols-examined-by-europes-banking-watchdog/",
+     "date": "2026-11-27T04:20:14+00:00",
+     "summary": "The EU banking watchdog renewed its call to assess safeguards for crypto firms that route customers into decentralized lending. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T04:20:14+00:00",
+   "last_seen": "2026-11-27T04:20:14+00:00",
+   "summary": "The EU banking watchdog renewed its call to assess safeguards for crypto firms that route customers into decentralized lending. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "018df9eb84",
+   "title": "China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+   "date": "2026-11-27T04:18:40+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+     "url": "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029",
+     "date": "2026-11-27T04:18:40+00:00",
+     "summary": "The decision comes after the group met in May in Uzbekistan and identified cross-border digital payments as a new area of cooperation."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T04:18:40+00:00",
+   "last_seen": "2026-11-27T04:18:40+00:00",
+   "summary": "The decision comes after the group met in May in Uzbekistan and identified cross-border digital payments as a new area of cooperation.",
+   "tags": [
+    "regulation"
+   ]
+  },
+  {
+   "id": "1a49978c89",
+   "title": "Bluefin to Shut Down Perpetual Futures on Sui Dec. 4",
+   "date": "2026-11-27T03:02:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Bluefin to Shut Down Perpetual Futures on Sui Dec. 4",
+     "url": "https://thedefiant.io/news/defi/bluefin-to-shut-down-perpetual-futures-on-sui-dec-4",
+     "date": "2026-11-27T03:02:07+00:00",
+     "summary": "Bluefin told traders to close positions before 4 p.m. ET. Aftermath Finance and DipCoin each handled more Sui perps volume than Bluefin in DefiLlama\u2019s 30-day snapshot."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T03:02:07+00:00",
+   "last_seen": "2026-11-27T03:02:07+00:00",
+   "summary": "Bluefin told traders to close positions before 4 p.m. ET. Aftermath Finance and DipCoin each handled more Sui perps volume than Bluefin in DefiLlama\u2019s 30-day snapshot.",
+   "tags": []
+  },
+  {
+   "id": "ebe9ea541f",
+   "title": "JPMorgan flags bitcoin \u2018capitulation,\u2019 Democrats push back on SEC\u2019s crypto plans, and more",
+   "date": "2026-11-27T02:20:00+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "JPMorgan flags bitcoin \u2018capitulation,\u2019 Democrats push back on SEC\u2019s crypto plans, and more",
+     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-26-jpmorgan-bitcoin-capitulation-democrats-sec-crypto-plans-more-news-447025",
+     "date": "2026-11-27T02:20:00+00:00",
+     "summary": "In today's newsletter, JPMorgan flags bitcoin 'capitulation' as Strategy's NAV multiple sinks; Democrats step up opposition to SEC's crypto plans; and more."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T02:20:00+00:00",
+   "last_seen": "2026-11-27T02:20:00+00:00",
+   "summary": "In today's newsletter, JPMorgan flags bitcoin 'capitulation' as Strategy's NAV multiple sinks; Democrats step up opposition to SEC's crypto plans; and more.",
+   "tags": [
+    "bitcoin",
+    "regulation"
+   ]
+  },
+  {
+   "id": "4d4ae91855",
+   "title": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
+   "date": "2026-11-27T02:10:55+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bought Nvidia stock during the 2017 crypto boom? You could qualify for a $290 million settlement",
+     "url": "https://cryptoslate.com/who-could-share-nvidia-proposed-290-million-crypto-mining-settlement/",
+     "date": "2026-11-27T02:10:55+00:00",
+     "summary": "Investors who acquired Nvidia common stock from Aug. 10, 2017, through Nov. 15, 2018, could qualify if the court approves the deal. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T02:10:55+00:00",
+   "last_seen": "2026-11-27T02:10:55+00:00",
+   "summary": "Investors who acquired Nvidia common stock from Aug. 10, 2017, through Nov. 15, 2018, could qualify if the court approves the deal. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "327940073a",
+   "title": "OpenAI Says Its $1.2 Million Audit Found 948 Linux Flaws",
+   "date": "2026-11-27T02:10:07+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OpenAI Says Its $1.2 Million Audit Found 948 Linux Flaws",
+     "url": "https://thedefiant.io/frontier/ai/openai-says-its-1-2-million-audit-found-948-linux-flaws",
+     "date": "2026-11-27T02:10:07+00:00",
+     "summary": "OpenAI sent maintainers 304 findings it classified as critical. Its upstream tally tracked fixes already in the kernel, not how many of its proposed patches were accepted."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T02:10:07+00:00",
+   "last_seen": "2026-11-27T02:10:07+00:00",
+   "summary": "OpenAI sent maintainers 304 findings it classified as critical. Its upstream tally tracked fixes already in the kernel, not how many of its proposed patches were accepted.",
+   "tags": []
+  },
+  {
+   "id": "eaf4f2a898",
+   "title": "AI is driving a flood of crypto bug reports. Now it\u2019s helping sort them",
+   "date": "2026-11-27T01:47:38+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "AI is driving a flood of crypto bug reports. Now it\u2019s helping sort them",
+     "url": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T01:47:38+00:00",
+     "summary": "Bug bounty platform HackerOne said it\u2019s increasing its triage throughput with AI agents after a record quarter of reports in the third quarter."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T01:47:38+00:00",
+   "last_seen": "2026-11-27T01:47:38+00:00",
+   "summary": "Bug bounty platform HackerOne said it\u2019s increasing its triage throughput with AI agents after a record quarter of reports in the third quarter.",
+   "tags": [
+    "ai"
+   ]
+  },
+  {
+   "id": "c80449cb25",
+   "title": "Morpho\u2019s largest euro stablecoin vault is \u20ac13.8 million short of covering its biggest depositor\u2019s exit",
+   "date": "2026-11-27T00:50:42+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Morpho\u2019s largest euro stablecoin vault is \u20ac13.8 million short of covering its biggest depositor\u2019s exit",
+     "url": "https://cryptoslate.com/morphos-largest-euro-stablecoin-vault-is-e13-8-million-short-of-covering-its-biggest-depositors-exit/",
+     "date": "2026-11-27T00:50:42+00:00",
+     "summary": "The Nov. 26 app snapshot showed a gap of about 13.77 million EURCV in a hypothetical full withdrawal. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T00:50:42+00:00",
+   "last_seen": "2026-11-27T00:50:42+00:00",
+   "summary": "The Nov. 26 app snapshot showed a gap of about 13.77 million EURCV in a hypothetical full withdrawal. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f20e7b3eca",
+   "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+   "date": "2026-11-27T00:35:39+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+     "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T00:35:39+00:00",
+     "summary": "As KuCoin joins exchanges dropping Monero ahead of new EU restrictions, Grayscale argues that Zcash\u2019s privacy design sets it apart."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T00:35:39+00:00",
+   "last_seen": "2026-11-27T00:35:39+00:00",
+   "summary": "As KuCoin joins exchanges dropping Monero ahead of new EU restrictions, Grayscale argues that Zcash\u2019s privacy design sets it apart.",
+   "tags": []
+  },
+  {
+   "id": "066dd1cbcd",
+   "title": "XRP sellers could lose an extra $3,146 on a large trade if five accounts pull their buy orders",
+   "date": "2026-11-26T23:10:43+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP sellers could lose an extra $3,146 on a large trade if five accounts pull their buy orders",
+     "url": "https://cryptoslate.com/xrp-sellers-could-lose-an-extra-3146-on-a-large-trade-if-five-accounts-pull-their-buy-orders/",
+     "date": "2026-11-26T23:10:43+00:00",
+     "summary": "A separate fixed-ledger test found the pool would handle most of a large XRP sale without buy orders from five large-fill leaders. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T23:10:43+00:00",
+   "last_seen": "2026-11-26T23:10:43+00:00",
+   "summary": "A separate fixed-ledger test found the pool would handle most of a large XRP sale without buy orders from five large-fill leaders. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": []
+  },
+  {
+   "id": "56da3855c6",
+   "title": "\u2018Very racist\u2019 Netflix SBF series, BitMart\u2019s $319M shortfall: Asia Express",
+   "date": "2026-11-26T22:39:46+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "\u2018Very racist\u2019 Netflix SBF series, BitMart\u2019s $319M shortfall: Asia Express",
+     "url": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-26T22:39:46+00:00",
+     "summary": "Netflix\u2019s The Altruist has been slammed for its \u2018very racist\u2019 portrayal of CZ. BitMart reportedly has a $319.5 million shortfall and just $1.9M in liquid assets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-26T22:39:46+00:00",
+   "last_seen": "2026-11-26T22:39:46+00:00",
+   "summary": "Netflix\u2019s The Altruist has been slammed for its \u2018very racist\u2019 portrayal of CZ. BitMart reportedly has a $319.5 million shortfall and just $1.9M in liquid assets.",
+   "tags": []
+  },
   {
    "id": "1704a45133",
    "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",

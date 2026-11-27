@@ -1,6 +1,768 @@
 {
- "updated": "2026-11-27T15:15:05.490624+00:00",
+ "updated": "2026-11-27T23:34:28.098344+00:00",
  "events": [
+  {
+   "id": "46045fe4a4",
+   "title": "Chainflip identifies who lost money in $12.6 million hack as recovery plan takes shape",
+   "date": "2026-11-27T23:10:30+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Chainflip identifies who lost money in $12.6 million hack as recovery plan takes shape",
+     "url": "https://cryptoslate.com/chainflip-identifies-who-lost-money-in-12-6-million-hack-as-recovery-plan-takes-shape/",
+     "date": "2026-11-27T23:10:30+00:00",
+     "summary": "The affected-user list gives Chainflip a basis for a recovery fund proposal, but the report gave no payout date. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T23:10:30+00:00",
+   "last_seen": "2026-11-27T23:10:30+00:00",
+   "summary": "The affected-user list gives Chainflip a basis for a recovery fund proposal, but the report gave no payout date. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "9470376a73",
+   "title": "SKY Rebounds 16% as Bitcoin and Crypto Market Slip",
+   "date": "2026-11-27T22:29:08+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SKY Rebounds 16% as Bitcoin and Crypto Market Slip",
+     "url": "https://thedefiant.io/news/tokens/sky-rebounds-16-as-bitcoin-and-crypto-market-slip",
+     "date": "2026-11-27T22:29:08+00:00",
+     "summary": "The token was still 19% below its Nov. 4 level. Sky\u2019s one-off buyback ran about 11\u00bd hours past its original deadline."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T22:29:08+00:00",
+   "last_seen": "2026-11-27T22:29:08+00:00",
+   "summary": "The token was still 19% below its Nov. 4 level. Sky\u2019s one-off buyback ran about 11\u00bd hours past its original deadline.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "9a6e1524a0",
+   "title": "Block Discloses Proposed $442.5M Investor Settlement",
+   "date": "2026-11-27T22:10:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Block Discloses Proposed $442.5M Investor Settlement",
+     "url": "https://thedefiant.io/converge/regulation/block-discloses-proposed-442-5m-investor-settlement",
+     "date": "2026-11-27T22:10:58+00:00",
+     "summary": "The Cash App shareholder deal needs a final agreement and court approval. It is separate from a proposed Justice Department deal that would cost Block about $764 million after credits."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T22:10:58+00:00",
+   "last_seen": "2026-11-27T22:10:58+00:00",
+   "summary": "The Cash App shareholder deal needs a final agreement and court approval. It is separate from a proposed Justice Department deal that would cost Block about $764 million after credits.",
+   "tags": [
+    "legal"
+   ]
+  },
+  {
+   "id": "7210f792ac",
+   "title": "Babylon\u2019s Reported Bitcoin Stake Falls 31% in a Day",
+   "date": "2026-11-27T21:51:27+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Babylon\u2019s Reported Bitcoin Stake Falls 31% in a Day",
+     "url": "https://thedefiant.io/news/defi/babylon-s-reported-bitcoin-stake-falls-31-in-a-day",
+     "date": "2026-11-27T21:51:27+00:00",
+     "summary": "The dollar value of the tracked stake fell by $735 million despite a rise in DefiLlama\u2019s implied valuation per BTC."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T21:51:27+00:00",
+   "last_seen": "2026-11-27T21:51:27+00:00",
+   "summary": "The dollar value of the tracked stake fell by $735 million despite a rise in DefiLlama\u2019s implied valuation per BTC.",
+   "tags": [
+    "bitcoin",
+    "funding"
+   ]
+  },
+  {
+   "id": "e2f10332e4",
+   "title": "Bitcoin privacy weakness links wallet addresses to network nodes in 30 out of 30 tests",
+   "date": "2026-11-27T21:50:59+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin privacy weakness links wallet addresses to network nodes in 30 out of 30 tests",
+     "url": "https://cryptoslate.com/bitcoin-privacy-weakness-links-wallet-addresses-to-network-nodes-in-30-out-of-30-tests/",
+     "date": "2026-11-27T21:50:59+00:00",
+     "summary": "Abubakar Sadiq Ismail reported 30 correct matches in a controlled test and says watch-only wallets can expose the same link. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T21:50:59+00:00",
+   "last_seen": "2026-11-27T21:50:59+00:00",
+   "summary": "Abubakar Sadiq Ismail reported 30 correct matches in a controlled test and says watch-only wallets can expose the same link. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "e74651e69d",
+   "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
+   "date": "2026-11-27T21:46:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
+     "url": "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
+     "date": "2026-11-27T21:46:03+00:00",
+     "summary": "The ChatGPT maker\u2019s counterclaims flip the script on a dispute Apple started in July, alleging the iPhone maker took its trade secrets and pressured shared hardware suppliers to freeze it out of the AI-device race."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T21:46:03+00:00",
+   "last_seen": "2026-11-27T21:46:03+00:00",
+   "summary": "The ChatGPT maker\u2019s counterclaims flip the script on a dispute Apple started in July, alleging the iPhone maker took its trade secrets and pressured shared hardware suppliers to freeze it out of the AI-device race.",
+   "tags": []
+  },
+  {
+   "id": "b036778111",
+   "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+   "date": "2026-11-27T21:15:29+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+     "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T21:15:29+00:00",
+     "summary": "The addition comes as US spot investment products tracking Hyperliquid\u2019s native token reach $266.5 million in assets under management."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T21:15:29+00:00",
+   "last_seen": "2026-11-27T21:15:29+00:00",
+   "summary": "The addition comes as US spot investment products tracking Hyperliquid\u2019s native token reach $266.5 million in assets under management.",
+   "tags": [
+    "etfs"
+   ]
+  },
+  {
+   "id": "76a5bb3f3a",
+   "title": "World Liberty-Linked Wallet Swaps WETH and mETH for $20M in Stablecoins",
+   "date": "2026-11-27T21:05:51+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "World Liberty-Linked Wallet Swaps WETH and mETH for $20M in Stablecoins",
+     "url": "https://thedefiant.io/news/defi/world-liberty-linked-wallet-swaps-weth-and-meth-for-20m-in-stablecoins",
+     "date": "2026-11-27T21:05:51+00:00",
+     "summary": "The wallet showed zero balances of native ETH, WETH and mETH after the trades. It sent about 16.59 million USDC to the lending protocol Dolomite."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T21:05:51+00:00",
+   "last_seen": "2026-11-27T21:05:51+00:00",
+   "summary": "The wallet showed zero balances of native ETH, WETH and mETH after the trades. It sent about 16.59 million USDC to the lending protocol Dolomite.",
+   "tags": [
+    "defi",
+    "ethereum",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "f263f7ab39",
+   "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
+   "date": "2026-11-27T20:46:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
+     "url": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
+     "date": "2026-11-27T20:46:02+00:00",
+     "summary": "A draft AI-assisted proof of the Riemann Hypothesis renewed worries about the math securing Bitcoin, but K33 says no cryptographic compromise has been demonstrated."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T20:46:02+00:00",
+   "last_seen": "2026-11-27T20:46:02+00:00",
+   "summary": "A draft AI-assisted proof of the Riemann Hypothesis renewed worries about the math securing Bitcoin, but K33 says no cryptographic compromise has been demonstrated.",
+   "tags": [
+    "ai",
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "a6bc0a6e2f",
+   "title": "XRP holders face a choice between earning more yield and getting their tokens back",
+   "date": "2026-11-27T20:30:25+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "XRP holders face a choice between earning more yield and getting their tokens back",
+     "url": "https://cryptoslate.com/xrp-holders-face-a-choice-between-earning-more-yield-and-getting-their-tokens-back/",
+     "date": "2026-11-27T20:30:25+00:00",
+     "summary": "Spectra\u2019s February market keeps XRP-linked exposure on Flare, while getting native XRP back takes a separate redemption. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T20:30:25+00:00",
+   "last_seen": "2026-11-27T20:30:25+00:00",
+   "summary": "Spectra\u2019s February market keeps XRP-linked exposure on Flare, while getting native XRP back takes a separate redemption. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "e6cfdc2ea4",
+   "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+   "date": "2026-11-27T19:46:02+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+     "url": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
+     "date": "2026-11-27T19:46:02+00:00",
+     "summary": "Bitcoin is trading below several of its most popular long-term price models, breaking historical support levels that previously helped investors anticipate the cryptocurrency's eventual recovery from prolonged, painful bear markets."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T19:46:02+00:00",
+   "last_seen": "2026-11-27T19:46:02+00:00",
+   "summary": "Bitcoin is trading below several of its most popular long-term price models, breaking historical support levels that previously helped investors anticipate the cryptocurrency's eventual recovery from prolonged, painful bear markets.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "808b9023fa",
+   "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+   "date": "2026-11-27T19:23:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+     "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T19:23:00+00:00",
+     "summary": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T19:23:00+00:00",
+   "last_seen": "2026-11-27T19:23:00+00:00",
+   "summary": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "c66f327a1a",
+   "title": "OpenAI Countersues Apple in Trade Secrets Dispute",
+   "date": "2026-11-27T19:22:28+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "OpenAI Countersues Apple in Trade Secrets Dispute",
+     "url": "https://thedefiant.io/frontier/ai/openai-countersues-apple-in-trade-secrets-dispute",
+     "date": "2026-11-27T19:22:28+00:00",
+     "summary": "OpenAI says in its filing that it believes a former employee briefed Apple on unreleased devices. It also alleges Apple pressured suppliers the companies share."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T19:22:28+00:00",
+   "last_seen": "2026-11-27T19:22:28+00:00",
+   "summary": "OpenAI says in its filing that it believes a former employee briefed Apple on unreleased devices. It also alleges Apple pressured suppliers the companies share.",
+   "tags": []
+  },
+  {
+   "id": "efb20d89ba",
+   "title": "Cognition Releases SWE-2.1, a Kimi-Based Coding Model",
+   "date": "2026-11-27T19:15:56+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Cognition Releases SWE-2.1, a Kimi-Based Coding Model",
+     "url": "https://thedefiant.io/frontier/ai/cognition-releases-swe-2-1-a-kimi-based-coding-model",
+     "date": "2026-11-27T19:15:56+00:00",
+     "summary": "Cognition\u2019s Terminal-Bench 4.1 table puts the new Devin model at more than twice its predecessor\u2019s score, but below Kimi K3.1."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T19:15:56+00:00",
+   "last_seen": "2026-11-27T19:15:56+00:00",
+   "summary": "Cognition\u2019s Terminal-Bench 4.1 table puts the new Devin model at more than twice its predecessor\u2019s score, but below Kimi K3.1.",
+   "tags": []
+  },
+  {
+   "id": "cb61a4fb37",
+   "title": "How Coldcard\u2019s $112 million Bitcoin exploit slipped past 15 security reviews",
+   "date": "2026-11-27T19:00:40+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "How Coldcard\u2019s $112 million Bitcoin exploit slipped past 15 security reviews",
+     "url": "https://cryptoslate.com/how-coldcards-112-million-bitcoin-exploit-slipped-past-15-security-reviews/",
+     "date": "2026-11-27T19:00:40+00:00",
+     "summary": "Coinkite\u2019s November postmortem details the Mk5 and Q checks and why owners still need to know how their recovery phrases were created. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T19:00:40+00:00",
+   "last_seen": "2026-11-27T19:00:40+00:00",
+   "summary": "Coinkite\u2019s November postmortem details the Mk5 and Q checks and why owners still need to know how their recovery phrases were created. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin",
+    "security"
+   ]
+  },
+  {
+   "id": "7097687e03",
+   "title": "New Paper Claims Theoretical Shortcut for Bitcoin Key Math",
+   "date": "2026-11-27T18:53:55+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "New Paper Claims Theoretical Shortcut for Bitcoin Key Math",
+     "url": "https://thedefiant.io/news/security/new-paper-claims-theoretical-shortcut-for-bitcoin-key-math",
+     "date": "2026-11-27T18:53:55+00:00",
+     "summary": "The result hinges on an OpenAI construction that Ledger\u2019s Charles Guillemet says is still under review. He and Blockstream\u2019s Adam Back see no practical shortcut for 256-bit keys."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T18:53:55+00:00",
+   "last_seen": "2026-11-27T18:53:55+00:00",
+   "summary": "The result hinges on an OpenAI construction that Ledger\u2019s Charles Guillemet says is still under review. He and Blockstream\u2019s Adam Back see no practical shortcut for 256-bit keys.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "7072158097",
+   "title": "$7 Billion in Bitcoin Options Just Expired: Here\u2019s What It Means",
+   "date": "2026-11-27T18:16:03+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "$7 Billion in Bitcoin Options Just Expired: Here\u2019s What It Means",
+     "url": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
+     "date": "2026-11-27T18:16:03+00:00",
+     "summary": "Bitcoin\u2019s largest options expiry this month comes as traders increasingly seek protection against further losses, with some hedging against a potential drop to $40,000 before the end of the year."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T18:16:03+00:00",
+   "last_seen": "2026-11-27T18:16:03+00:00",
+   "summary": "Bitcoin\u2019s largest options expiry this month comes as traders increasingly seek protection against further losses, with some hedging against a potential drop to $40,000 before the end of the year.",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "87c93afa69",
+   "title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+   "date": "2026-11-27T18:13:45+00:00",
+   "mentions": [
+    {
+     "source": "The Block",
+     "title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+     "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+     "date": "2026-11-27T18:13:45+00:00",
+     "summary": "Bitcoin needs USDT supply to start growing again for a sustained price recovery, according to CryptoQuant."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T18:13:45+00:00",
+   "last_seen": "2026-11-27T18:13:45+00:00",
+   "summary": "Bitcoin needs USDT supply to start growing again for a sustained price recovery, according to CryptoQuant.",
+   "tags": [
+    "bitcoin",
+    "markets",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "1e02abb53e",
+   "title": "Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack",
+   "date": "2026-11-27T18:00:00+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack",
+     "url": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack",
+     "date": "2026-11-27T18:00:00+00:00",
+     "summary": "Bitcoin Magazine Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack Binance said its withdrawal recovery work is complete and the suspension tied to the Oct. 29 hack has been fully lifted, as researchers track North Korean launderers moving the stolen..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T18:00:00+00:00",
+   "last_seen": "2026-11-27T18:00:00+00:00",
+   "summary": "Bitcoin Magazine Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack Binance said its withdrawal recovery work is complete and the suspension tied to the Oct. 29 hack has been fully lifted, as researchers track North Korean launderers moving the stolen...",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "e29c724cb9",
+   "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+   "date": "2026-11-27T17:43:29+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+     "url": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
+     "date": "2026-11-27T17:43:29+00:00",
+     "summary": "The intrusion at Cloud One, discovered during a system upgrade, has prompted a Cyber Command damage assessment and disrupted the platform that runs air-defense radar feeds, munitions tracking and personnel data."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T17:43:29+00:00",
+   "last_seen": "2026-11-27T17:43:29+00:00",
+   "summary": "The intrusion at Cloud One, discovered during a system upgrade, has prompted a Cyber Command damage assessment and disrupted the platform that runs air-defense radar feeds, munitions tracking and personnel data.",
+   "tags": []
+  },
+  {
+   "id": "b1ddd98914",
+   "title": "Google\u2019s lightweight Gemini matched two top models on a chemistry test",
+   "date": "2026-11-27T17:40:28+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Google\u2019s lightweight Gemini matched two top models on a chemistry test",
+     "url": "https://cryptoslate.com/googles-lightweight-gemini-matched-two-top-models-on-a-chemistry-test/",
+     "date": "2026-11-27T17:40:28+00:00",
+     "summary": "All three models reached about 97% exact-match accuracy in DeepMind\u2019s test of compounds with public reference spectra when given internet access and the same chemistry tools. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T17:40:28+00:00",
+   "last_seen": "2026-11-27T17:40:28+00:00",
+   "summary": "All three models reached about 97% exact-match accuracy in DeepMind\u2019s test of compounds with public reference spectra when given internet access and the same chemistry tools. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get...",
+   "tags": []
+  },
+  {
+   "id": "f667fd6321",
+   "title": "China sets March 2027 rollout for blockchain identity regulations",
+   "date": "2026-11-27T17:37:23+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "China sets March 2027 rollout for blockchain identity regulations",
+     "url": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T17:37:23+00:00",
+     "summary": "China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T17:37:23+00:00",
+   "last_seen": "2026-11-27T17:37:23+00:00",
+   "summary": "China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy.",
+   "tags": []
+  },
+  {
+   "id": "ee7c64df64",
+   "title": "Pump.fun Launchpad Fees Fall 35% as Trading Volume Drops",
+   "date": "2026-11-27T17:33:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Pump.fun Launchpad Fees Fall 35% as Trading Volume Drops",
+     "url": "https://thedefiant.io/news/defi/pump-fun-launchpad-fees-fall-35-as-trading-volume-drops",
+     "date": "2026-11-27T17:33:48+00:00",
+     "summary": "Pump.fun\u2019s reported revenue accounted for about three-quarters of the decline, but gross fees remained above the trailing-year monthly average."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T17:33:48+00:00",
+   "last_seen": "2026-11-27T17:33:48+00:00",
+   "summary": "Pump.fun\u2019s reported revenue accounted for about three-quarters of the decline, but gross fees remained above the trailing-year monthly average.",
+   "tags": []
+  },
+  {
+   "id": "061782b696",
+   "title": "Russia\u2019s VTB Opens Crypto Trading for Qualified Investors",
+   "date": "2026-11-27T17:23:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Russia\u2019s VTB Opens Crypto Trading for Qualified Investors",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/russia-s-vtb-opens-crypto-trading-for-qualified-investors",
+     "date": "2026-11-27T17:23:47+00:00",
+     "summary": "The bank is starting with trades outside an exchange. Clients must pass a knowledge test and open a separate account where VTB holds their crypto."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T17:23:47+00:00",
+   "last_seen": "2026-11-27T17:23:47+00:00",
+   "summary": "The bank is starting with trades outside an exchange. Clients must pass a knowledge test and open a separate account where VTB holds their crypto.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "69fb1f282c",
+   "title": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
+   "date": "2026-11-27T17:09:30+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
+     "url": "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
+     "date": "2026-11-27T17:09:30+00:00",
+     "summary": "Banned Nvidia racks were found at a Shanghai data center tied to Alice Huang, as Trump said the U.S. could still take a stake in the firm."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T17:09:30+00:00",
+   "last_seen": "2026-11-27T17:09:30+00:00",
+   "summary": "Banned Nvidia racks were found at a Shanghai data center tied to Alice Huang, as Trump said the U.S. could still take a stake in the firm.",
+   "tags": []
+  },
+  {
+   "id": "508e8515b4",
+   "title": "Russia\u2019s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test",
+   "date": "2026-11-27T17:06:12+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Russia\u2019s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test",
+     "url": "https://bitcoinmagazine.com/news/russia-vtb-bitcoin-trading-crypto-test",
+     "date": "2026-11-27T17:06:12+00:00",
+     "summary": "Bitcoin Magazine Russia&#8217;s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test VTB began letting qualified investors trade bitcoin in its app on Friday, a day after the Bank of Russia approved the knowledge test every crypto buyer must pass. SPB Exchange plans..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T17:06:12+00:00",
+   "last_seen": "2026-11-27T17:06:12+00:00",
+   "summary": "Bitcoin Magazine Russia&#8217;s VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test VTB began letting qualified investors trade bitcoin in its app on Friday, a day after the Bank of Russia approved the knowledge test every crypto buyer must pass. SPB Exchange plans...",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "c7d7399b27",
+   "title": "Monero Sinks Below $400 as Privacy Rival Zcash Rallies",
+   "date": "2026-11-27T16:59:09+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Monero Sinks Below $400 as Privacy Rival Zcash Rallies",
+     "url": "https://thedefiant.io/news/markets/monero-sinks-below-400-as-privacy-rival-zcash-rallies",
+     "date": "2026-11-27T16:59:09+00:00",
+     "summary": "Monero fell more than 10% in 24 hours on Kraken, while bitcoin and ether barely moved. KuCoin will shut its four Monero spot markets on Monday."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T16:59:09+00:00",
+   "last_seen": "2026-11-27T16:59:09+00:00",
+   "summary": "Monero fell more than 10% in 24 hours on Kraken, while bitcoin and ether barely moved. KuCoin will shut its four Monero spot markets on Monday.",
+   "tags": [
+    "bitcoin",
+    "ethereum",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "7f2c40d21e",
+   "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+   "date": "2026-11-27T16:48:51+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+     "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-27T16:48:51+00:00",
+     "summary": "Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T16:48:51+00:00",
+   "last_seen": "2026-11-27T16:48:51+00:00",
+   "summary": "Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher.",
+   "tags": [
+    "bitcoin",
+    "markets"
+   ]
+  },
+  {
+   "id": "e6156076d6",
+   "title": "XRP Ledger Lending Clears Vote Threshold, Eyes Dec. 11",
+   "date": "2026-11-27T16:47:04+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "XRP Ledger Lending Clears Vote Threshold, Eyes Dec. 11",
+     "url": "https://thedefiant.io/news/defi/xrp-ledger-lending-clears-vote-threshold-eyes-dec-11",
+     "date": "2026-11-27T16:47:04+00:00",
+     "summary": "Both lending amendments drew 29 yes votes in XRPSCAN\u2019s tally. The vaults that would fund the loans could go live Dec. 9 if their support holds."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T16:47:04+00:00",
+   "last_seen": "2026-11-27T16:47:04+00:00",
+   "summary": "Both lending amendments drew 29 yes votes in XRPSCAN\u2019s tally. The vaults that would fund the loans could go live Dec. 9 if their support holds.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "2593261117",
+   "title": "Bitcoin dodged one risk from Japan and now faces a Monday reckoning",
+   "date": "2026-11-27T16:40:25+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Bitcoin dodged one risk from Japan and now faces a Monday reckoning",
+     "url": "https://cryptoslate.com/a-weaker-yen-eased-one-cost-for-bitcoin-traders-who-borrowed-in-yen/",
+     "date": "2026-11-27T16:40:25+00:00",
+     "summary": "Japan\u2019s two-year bond auction on Monday gives traders a fresh checkpoint for the yen and short-term yields. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T16:40:25+00:00",
+   "last_seen": "2026-11-27T16:40:25+00:00",
+   "summary": "Japan\u2019s two-year bond auction on Monday gives traders a fresh checkpoint for the yen and short-term yields. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "ec7397e594",
+   "title": "Argentina\u2019s Central Bank Flags MEP, USDT Trades: Report",
+   "date": "2026-11-27T16:36:48+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Argentina\u2019s Central Bank Flags MEP, USDT Trades: Report",
+     "url": "https://thedefiant.io/news/regulation/argentina-s-central-bank-flags-mep-usdt-trades-report",
+     "date": "2026-11-27T16:36:48+00:00",
+     "summary": "Industry executives told iProUP the central bank made informal recommendations to some wallets and crypto platforms. They said trading continued as usual."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T16:36:48+00:00",
+   "last_seen": "2026-11-27T16:36:48+00:00",
+   "summary": "Industry executives told iProUP the central bank made informal recommendations to some wallets and crypto platforms. They said trading continued as usual.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "6e4c0df5ea",
+   "title": "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
+   "date": "2026-11-27T16:21:40+00:00",
+   "mentions": [
+    {
+     "source": "Decrypt",
+     "title": "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
+     "url": "https://decrypt.co/384138/ai-powered-gta-6-pc-ports-now-have-multiplayer-as-modders-unlock-30-and-60-fps",
+     "date": "2026-11-27T16:21:40+00:00",
+     "summary": "Modders have added multiplayer to an unofficial PC port and unlocked higher frame rates on jailbroken consoles."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T16:21:40+00:00",
+   "last_seen": "2026-11-27T16:21:40+00:00",
+   "summary": "Modders have added multiplayer to an unofficial PC port and unlocked higher frame rates on jailbroken consoles.",
+   "tags": [
+    "macro"
+   ]
+  },
+  {
+   "id": "a1e162eb31",
+   "title": "UAE Issues Its First Dirham-Denominated Digital Treasury Bonds via Euroclear",
+   "date": "2026-11-27T16:08:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "UAE Issues Its First Dirham-Denominated Digital Treasury Bonds via Euroclear",
+     "url": "https://thedefiant.io/converge/tradfi-and-fintech/uae-issues-its-first-dirham-denominated-digital-treasury-bonds-via-euroclear",
+     "date": "2026-11-27T16:08:54+00:00",
+     "summary": "Six primary dealers split the AED 180 million issue, which matched the 4.98% yield on the UAE\u2019s conventional Treasury bonds sold at its November auction."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T16:08:54+00:00",
+   "last_seen": "2026-11-27T16:08:54+00:00",
+   "summary": "Six primary dealers split the AED 180 million issue, which matched the 4.98% yield on the UAE\u2019s conventional Treasury bonds sold at its November auction.",
+   "tags": [
+    "defi",
+    "macro"
+   ]
+  },
+  {
+   "id": "a4ceda2ca8",
+   "title": "Australia passes bill that would let people sue AI chatbot providers",
+   "date": "2026-11-27T15:40:45+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Australia passes bill that would let people sue AI chatbot providers",
+     "url": "https://cryptoslate.com/australia-passes-bill-that-would-let-people-sue-ai-chatbot-providers/",
+     "date": "2026-11-27T15:40:45+00:00",
+     "summary": "The remedy is due to start 12 months after Royal Assent and covers loss or damage caused by a covered provider\u2019s breach. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+     "source": "The Defiant",
+     "title": "Australia Passes Bill to Let People Sue AI Chatbot Providers",
+     "url": "https://thedefiant.io/frontier/regulation/australia-passes-bill-to-let-people-sue-ai-chatbot-providers",
+     "date": "2026-11-27T16:05:13+00:00",
+     "summary": "The new right to sue would start 12 months after Royal Assent. Claimants would have to show that a provider\u2019s safety breach caused them loss or damage."
+    }
+   ],
+   "score": 20,
+   "first_seen": "2026-11-27T15:40:45+00:00",
+   "last_seen": "2026-11-27T16:05:13+00:00",
+   "summary": "The remedy is due to start 12 months after Royal Assent and covers loss or damage caused by a covered provider\u2019s breach. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "ai",
+    "regulation",
+    "security"
+   ]
+  },
+  {
+   "id": "370673d759",
+   "title": "LayerZero Names 40-Plus Validators for Zero Launch",
+   "date": "2026-11-27T15:37:28+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "LayerZero Names 40-Plus Validators for Zero Launch",
+     "url": "https://thedefiant.io/news/blockchains/layerzero-names-40-plus-validators-for-zero-launch",
+     "date": "2026-11-27T15:37:28+00:00",
+     "summary": "Kakao Pay, Broadridge and ZAN are on the roster. LayerZero\u2019s official staking site initially splits each ZRO deposit equally across the launch validators."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T15:37:28+00:00",
+   "last_seen": "2026-11-27T15:37:28+00:00",
+   "summary": "Kakao Pay, Broadridge and ZAN are on the roster. LayerZero\u2019s official staking site initially splits each ZRO deposit equally across the launch validators.",
+   "tags": [
+    "defi"
+   ]
+  },
+  {
+   "id": "7189300bf4",
+   "title": "Tesla Files to Buy Assets From German Toolmaker EMAG",
+   "date": "2026-11-27T15:26:17+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Tesla Files to Buy Assets From German Toolmaker EMAG",
+     "url": "https://thedefiant.io/frontier/technology/tesla-files-to-buy-assets-from-german-toolmaker-emag",
+     "date": "2026-11-27T15:26:17+00:00",
+     "summary": "EMAG makes equipment for electric motor shafts and humanoid robot joints. Germany\u2019s competition authority hasn\u2019t said which assets Tesla wants to buy."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T15:26:17+00:00",
+   "last_seen": "2026-11-27T15:26:17+00:00",
+   "summary": "EMAG makes equipment for electric motor shafts and humanoid robot joints. Germany\u2019s competition authority hasn\u2019t said which assets Tesla wants to buy.",
+   "tags": []
+  },
   {
    "id": "93f88bd76a",
    "title": "Tether buys $10 million of Bitdeer shares as stock hovers near all-time low",
@@ -41,6 +803,28 @@
    "last_seen": "2026-11-27T14:52:21+00:00",
    "summary": "Loan records identified a GB300 rack and a separate GB200 server at the same data center, Bloomberg reported. The filings don\u2019t establish how the gear reached China.",
    "tags": []
+  },
+  {
+   "id": "82f201c8b4",
+   "title": "Peter St. Onge: \u201cMassively Bullish\u201d for Bitcoin if Fed Abandons 2% Inflation Target",
+   "date": "2026-11-27T14:45:09+00:00",
+   "mentions": [
+    {
+     "source": "Bitcoin Magazine",
+     "title": "Peter St. Onge: \u201cMassively Bullish\u201d for Bitcoin if Fed Abandons 2% Inflation Target",
+     "url": "https://bitcoinmagazine.com/videos/peter-st-onge-massively-bullish-for-bitcoin-if-fed-abandons-2-inflation-target",
+     "date": "2026-11-27T14:45:09+00:00",
+     "summary": "&#9654; Bitcoin Magazine Peter St. Onge: \u201cMassively Bullish\u201d for Bitcoin if Fed Abandons 2% Inflation Target Inflation is back near 4%, the Fed is hiking, and Peter St. This post Peter St. Onge: \u201cMassively Bullish\u201d for Bitcoin if Fed Abandons 2% Inflation Target first appeared..."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T14:45:09+00:00",
+   "last_seen": "2026-11-27T14:45:09+00:00",
+   "summary": "&#9654; Bitcoin Magazine Peter St. Onge: \u201cMassively Bullish\u201d for Bitcoin if Fed Abandons 2% Inflation Target Inflation is back near 4%, the Fed is hiking, and Peter St. This post Peter St. Onge: \u201cMassively Bullish\u201d for Bitcoin if Fed Abandons 2% Inflation Target first appeared...",
+   "tags": [
+    "bitcoin",
+    "macro"
+   ]
   },
   {
    "id": "695e3f2d39",
@@ -2586,13 +3370,21 @@
      "url": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
      "date": "2026-11-27T07:19:44+00:00",
      "summary": "The judgment follows an August 2025 default ruling against the founders over a Ponzi scheme that targeted Haitian and other immigrant communities."
+    },
+    {
+     "source": "Bitcoin Magazine",
+     "title": "New York Wins $1.37 Billion Judgment Against NovaTech Crypto Ponzi Founders",
+     "url": "https://bitcoinmagazine.com/news/new-york-novatech-judgment-1-37-billion",
+     "date": "2026-11-27T16:15:00+00:00",
+     "summary": "Bitcoin Magazine New York Wins $1.37 Billion Judgment Against NovaTech Crypto Ponzi Founders A New York judge ordered NovaTech founders Cynthia and Eddy Petion to pay more than $1.37 billion over a crypto Ponzi scheme that targeted Haitian communities. This post New York Wins..."
     }
    ],
-   "score": 20,
+   "score": 30,
    "first_seen": "2026-11-26T11:25:58+00:00",
-   "last_seen": "2026-11-27T07:19:44+00:00",
-   "summary": "The judgment follows an August 2025 default ruling against the founders over a Ponzi scheme that targeted Haitian and other immigrant communities.",
+   "last_seen": "2026-11-27T16:15:00+00:00",
+   "summary": "Bitcoin Magazine New York Wins $1.37 Billion Judgment Against NovaTech Crypto Ponzi Founders A New York judge ordered NovaTech founders Cynthia and Eddy Petion to pay more than $1.37 billion over a crypto Ponzi scheme that targeted Haitian communities. This post New York Wins...",
    "tags": [
+    "bitcoin",
     "legal"
    ]
   },

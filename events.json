@@ -1,6 +1,301 @@
 {
- "updated": "2026-11-27T23:34:28.098344+00:00",
+ "updated": "2026-11-28T08:01:23.066271+00:00",
  "events": [
+  {
+   "id": "e46acf0850",
+   "title": "Binance receives in-principle approval, plans Asia hub in Bhutan",
+   "date": "2026-11-28T07:43:00+00:00",
+   "mentions": [
+    {
+     "source": "Cointelegraph",
+     "title": "Binance receives in-principle approval, plans Asia hub in Bhutan",
+     "url": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+     "date": "2026-11-28T07:43:00+00:00",
+     "summary": "The agreement is a milestone in Binance\u2019s effort to expand its presence in Bhutan since launching a national crypto-powered tourism payment system in 2025."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-28T07:43:00+00:00",
+   "last_seen": "2026-11-28T07:43:00+00:00",
+   "summary": "The agreement is a milestone in Binance\u2019s effort to expand its presence in Bhutan since launching a national crypto-powered tourism payment system in 2025.",
+   "tags": [
+    "exchanges"
+   ]
+  },
+  {
+   "id": "bc817d810e",
+   "title": "Buterin Backs Glamsterdam Gas Change but Warns Against Rush",
+   "date": "2026-11-28T07:33:58+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Buterin Backs Glamsterdam Gas Change but Warns Against Rush",
+     "url": "https://thedefiant.io/news/blockchains/buterin-backs-glamsterdam-gas-change-but-warns-against-rush",
+     "date": "2026-11-28T07:33:58+00:00",
+     "summary": "Ethereum developers kept the disputed gas rules and set Dec. 15 for the Hoodi testnet. Buterin says core developers should help apps that break because they relied on rules they reasonably thought would stay fixed."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-28T07:33:58+00:00",
+   "last_seen": "2026-11-28T07:33:58+00:00",
+   "summary": "Ethereum developers kept the disputed gas rules and set Dec. 15 for the Hoodi testnet. Buterin says core developers should help apps that break because they relied on rules they reasonably thought would stay fixed.",
+   "tags": [
+    "ethereum"
+   ]
+  },
+  {
+   "id": "bbb2d9ee5d",
+   "title": "Clear Rules Curbed Claude\u2019s Sandbox Probing in Tests",
+   "date": "2026-11-28T07:09:16+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Clear Rules Curbed Claude\u2019s Sandbox Probing in Tests",
+     "url": "https://thedefiant.io/frontier/ai/clear-rules-curbed-claude-s-sandbox-probing-in-tests",
+     "date": "2026-11-28T07:09:16+00:00",
+     "summary": "Anthropic tested six Claude models in more than 1,700 scenarios and used the results to tune the command checks in Claude Code\u2019s auto mode."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-28T07:09:16+00:00",
+   "last_seen": "2026-11-28T07:09:16+00:00",
+   "summary": "Anthropic tested six Claude models in more than 1,700 scenarios and used the results to tune the command checks in Claude Code\u2019s auto mode.",
+   "tags": []
+  },
+  {
+   "id": "4837109096",
+   "title": "Binance to Move 500 Million USDC Into Its SAFU Fund",
+   "date": "2026-11-28T06:35:54+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Binance to Move 500 Million USDC Into Its SAFU Fund",
+     "url": "https://thedefiant.io/news/cefi/binance-to-move-500-million-usdc-into-its-safu-fund",
+     "date": "2026-11-28T06:35:54+00:00",
+     "summary": "The exchange says 7,500 bitcoin will return to its treasury rather than be sold. Binance tapped the fund after its October breach."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-28T06:35:54+00:00",
+   "last_seen": "2026-11-28T06:35:54+00:00",
+   "summary": "The exchange says 7,500 bitcoin will return to its treasury rather than be sold. Binance tapped the fund after its October breach.",
+   "tags": [
+    "bitcoin",
+    "exchanges",
+    "macro",
+    "security",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "d57724bb36",
+   "title": "USD1 Trades at $0.9967 on Coinbase After WLFI Selloff",
+   "date": "2026-11-28T06:26:34+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "USD1 Trades at $0.9967 on Coinbase After WLFI Selloff",
+     "url": "https://thedefiant.io/news/markets/usd1-trades-at-0-9967-on-coinbase-after-wlfi-selloff",
+     "date": "2026-11-28T06:26:34+00:00",
+     "summary": "Binance and OKX spot prices were still below one USDT roughly 90 minutes after the initial dip."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-28T06:26:34+00:00",
+   "last_seen": "2026-11-28T06:26:34+00:00",
+   "summary": "Binance and OKX spot prices were still below one USDT roughly 90 minutes after the initial dip.",
+   "tags": [
+    "exchanges",
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "7727dd899c",
+   "title": "Chiliz Urges Holders to Bridge USDC Off Its Chain Before ChainPort Shutdown",
+   "date": "2026-11-28T05:23:47+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Chiliz Urges Holders to Bridge USDC Off Its Chain Before ChainPort Shutdown",
+     "url": "https://thedefiant.io/news/infrastructure/chiliz-urges-holders-to-bridge-usdc-off-its-chain-before-chainport-shutdown",
+     "date": "2026-11-28T05:23:47+00:00",
+     "summary": "Chiliz named Arbitrum, BNB Chain and Avalanche as ChainPort destinations from Chiliz Chain. The operator says it cannot guarantee withdrawals after Dec. 1."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-28T05:23:47+00:00",
+   "last_seen": "2026-11-28T05:23:47+00:00",
+   "summary": "Chiliz named Arbitrum, BNB Chain and Avalanche as ChainPort destinations from Chiliz Chain. The operator says it cannot guarantee withdrawals after Dec. 1.",
+   "tags": [
+    "stablecoins"
+   ]
+  },
+  {
+   "id": "931bef8fad",
+   "title": "World Liberty\u2019s WLFI Sinks 39% as Bitcoin Slips 2%",
+   "date": "2026-11-28T05:14:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "World Liberty\u2019s WLFI Sinks 39% as Bitcoin Slips 2%",
+     "url": "https://thedefiant.io/news/markets/world-liberty-s-wlfi-sinks-39-as-bitcoin-slips-2",
+     "date": "2026-11-28T05:14:39+00:00",
+     "summary": "The Trump-linked project\u2019s token fell about 25% in one hour on Coinbase and OKX. It was trading lower still minutes later."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-28T05:14:39+00:00",
+   "last_seen": "2026-11-28T05:14:39+00:00",
+   "summary": "The Trump-linked project\u2019s token fell about 25% in one hour on Coinbase and OKX. It was trading lower still minutes later.",
+   "tags": [
+    "bitcoin",
+    "exchanges"
+   ]
+  },
+  {
+   "id": "047e817a71",
+   "title": "BNB Chain\u2019s new blockchain could make the same PancakeSwap trade 27% more expensive",
+   "date": "2026-11-28T04:50:27+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "BNB Chain\u2019s new blockchain could make the same PancakeSwap trade 27% more expensive",
+     "url": "https://cryptoslate.com/bnb-chains-new-blockchain-could-make-the-same-pancakeswap-trade-27-more-expensive/",
+     "date": "2026-11-28T04:50:27+00:00",
+     "summary": "One PancakeSwap trade would have paid about 27% more in network fees under the devnet rule at the same gas price. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-28T04:50:27+00:00",
+   "last_seen": "2026-11-28T04:50:27+00:00",
+   "summary": "One PancakeSwap trade would have paid about 27% more in network fees under the devnet rule at the same gas price. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "markets"
+   ]
+  },
+  {
+   "id": "a81257f87a",
+   "title": "SafePal Extends August Breach Disclosure to Older Orders",
+   "date": "2026-11-28T04:36:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "SafePal Extends August Breach Disclosure to Older Orders",
+     "url": "https://thedefiant.io/news/security/safepal-extends-august-breach-disclosure-to-older-orders",
+     "date": "2026-11-28T04:36:31+00:00",
+     "summary": "The hardware-wallet maker says it cannot email buyers in the newly identified group individually and warns of fake firmware-update emails and letters."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-28T04:36:31+00:00",
+   "last_seen": "2026-11-28T04:36:31+00:00",
+   "summary": "The hardware-wallet maker says it cannot email buyers in the newly identified group individually and warns of fake firmware-update emails and letters.",
+   "tags": [
+    "security"
+   ]
+  },
+  {
+   "id": "96a777d87b",
+   "title": "Sky Allocates More SKY to Stakers, Cuts Vault Debt Limits",
+   "date": "2026-11-28T02:15:17+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Sky Allocates More SKY to Stakers, Cuts Vault Debt Limits",
+     "url": "https://thedefiant.io/news/defi/sky-allocates-more-sky-to-stakers-cuts-vault-debt-limits",
+     "date": "2026-11-28T02:15:17+00:00",
+     "summary": "The new settings took effect Nov. 23. A separate proposal to transfer 25 million USDS for debt repayment had not passed as of Friday evening."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-28T02:15:17+00:00",
+   "last_seen": "2026-11-28T02:15:17+00:00",
+   "summary": "The new settings took effect Nov. 23. A separate proposal to transfer 25 million USDS for debt repayment had not passed as of Friday evening.",
+   "tags": []
+  },
+  {
+   "id": "4cc2e71e6b",
+   "title": "Binance withdrawals are back after October\u2019s hack and here\u2019s why yours might still be blocked",
+   "date": "2026-11-28T02:10:31+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Binance withdrawals are back after October\u2019s hack and here\u2019s why yours might still be blocked",
+     "url": "https://cryptoslate.com/binance-withdrawals-are-back-after-octobers-hack-and-heres-why-yours-might-still-be-blocked/",
+     "date": "2026-11-28T02:10:31+00:00",
+     "summary": "Binance said it lifted the October suspension on Nov. 26, and customers can still encounter network maintenance or account restrictions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-28T02:10:31+00:00",
+   "last_seen": "2026-11-28T02:10:31+00:00",
+   "summary": "Binance said it lifted the October suspension on Nov. 26, and customers can still encounter network maintenance or account restrictions. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "exchanges",
+    "security"
+   ]
+  },
+  {
+   "id": "1a4bbe955e",
+   "title": "Israeli bank lets customers buy Bitcoin but charges them 2% to get in and 2% to get out",
+   "date": "2026-11-28T00:50:45+00:00",
+   "mentions": [
+    {
+     "source": "CryptoSlate",
+     "title": "Israeli bank lets customers buy Bitcoin but charges them 2% to get in and 2% to get out",
+     "url": "https://cryptoslate.com/israeli-bank-lets-customers-buy-bitcoin-but-charges-them-2-to-get-in-and-2-to-get-out/",
+     "date": "2026-11-28T00:50:45+00:00",
+     "summary": "The app blocks transfers to outside wallets and institutions and charges 2% on each buy or sell. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-28T00:50:45+00:00",
+   "last_seen": "2026-11-28T00:50:45+00:00",
+   "summary": "The app blocks transfers to outside wallets and institutions and charges 2% on each buy or sell. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox",
+   "tags": [
+    "bitcoin"
+   ]
+  },
+  {
+   "id": "2eb2ecbfbf",
+   "title": "Telegram Urges Users on Older iOS to Update iPhones",
+   "date": "2026-11-27T23:50:31+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Telegram Urges Users on Older iOS to Update iPhones",
+     "url": "https://thedefiant.io/news/security/telegram-urges-users-on-older-ios-to-update-iphones",
+     "date": "2026-11-27T23:50:31+00:00",
+     "summary": "CEO Pavel Durov said just visiting a website can be enough to compromise an iPhone running outdated software."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T23:50:31+00:00",
+   "last_seen": "2026-11-27T23:50:31+00:00",
+   "summary": "CEO Pavel Durov said just visiting a website can be enough to compromise an iPhone running outdated software.",
+   "tags": []
+  },
+  {
+   "id": "3f27134209",
+   "title": "Anza Urges Immediate Agave Upgrade on Solana Mainnet",
+   "date": "2026-11-27T23:37:39+00:00",
+   "mentions": [
+    {
+     "source": "The Defiant",
+     "title": "Anza Urges Immediate Agave Upgrade on Solana Mainnet",
+     "url": "https://thedefiant.io/news/blockchains/anza-urges-immediate-agave-upgrade-on-solana-mainnet",
+     "date": "2026-11-27T23:37:39+00:00",
+     "summary": "Anza said Solana\u2019s clusters were running normally. Jito-Solana and Harmonic released builds based on Agave v4.4.2."
+    }
+   ],
+   "score": 10,
+   "first_seen": "2026-11-27T23:37:39+00:00",
+   "last_seen": "2026-11-27T23:37:39+00:00",
+   "summary": "Anza said Solana\u2019s clusters were running normally. Jito-Solana and Harmonic released builds based on Agave v4.4.2.",
+   "tags": [
+    "solana"
+   ]
+  },
   {
    "id": "46045fe4a4",
    "title": "Chainflip identifies who lost money in $12.6 million hack as recovery plan takes shape",
@@ -369,13 +664,21 @@
      "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
      "date": "2026-11-27T18:13:45+00:00",
      "summary": "Bitcoin needs USDT supply to start growing again for a sustained price recovery, according to CryptoQuant."
+    },
+    {
+     "source": "The Block",
+     "title": "Bitcoin recovery needs USDT supply growth: CryptoQuant, K33 weighs AI threat to Bitcoin, and more",
+     "url": "https://www.theblock.co/newsletters/the-daily/2026-11-27-bitcoin-recovery-usdt-supply-ai-threat-bitcoin-more-crypto-news-447571",
+     "date": "2026-11-28T04:11:00+00:00",
+     "summary": "In today's newsletter, CryptoQuant says bitcoin price recovery needs USDT supply growth; K33 assesses AI's growing threat to Bitcoin security; and more."
     }
    ],
-   "score": 10,
+   "score": 11,
    "first_seen": "2026-11-27T18:13:45+00:00",
-   "last_seen": "2026-11-27T18:13:45+00:00",
-   "summary": "Bitcoin needs USDT supply to start growing again for a sustained price recovery, according to CryptoQuant.",
+   "last_seen": "2026-11-28T04:11:00+00:00",
+   "summary": "In today's newsletter, CryptoQuant says bitcoin price recovery needs USDT supply growth; K33 assesses AI's growing threat to Bitcoin security; and more.",
    "tags": [
+    "ai",
     "bitcoin",
     "markets",
     "stablecoins"
